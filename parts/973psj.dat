@@ -1,0 +1,40 @@
+0 Minifig Torso with SW Blast Armor (Silver Plates) Pattern
+0 Name: 973psj.dat
+0 Author: Thomas Burger [grapeape]
+0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+0 !KEYWORDS Star Wars, Jango Fett, bounty hunter, Slave I, Slave One
+0 !KEYWORDS Episode Two, Attack of the Clones, clone trooper template
+0 !KEYWORDS Mandalorian battle armor, Kamino, Geonosis
+0 !KEYWORDS silver, chrome, plate armor, blast plates
+0 !CMDLINE -c8
+
+0 !HISTORY 2004-10-04 [fwcain]  Adjusted insignia; added Keywords; BFC-ed
+0 !HISTORY 2005-01-10 [fwcain] Inlined "dithered color" DAT code...
+0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
+ 1  16 0 0 0  1 0 0 0 1 0 0 0 1 s\973s01.dat
+ 1  16 0 0 0  1 0 0 0 1 0 0 0 1 s\973psb1.dat
+ 1  16 0 0 0 -1 0 0 0 1 0 0 0 1 s\973psb1.dat
+ 1 383 0 0 0  1 0 0 0 1 0 0 0 1 s\973psb2.dat
+ 1 383 0 0 0 -1 0 0 0 1 0 0 0 1 s\973psb2.dat
+0
+ 4 383 -13.25  16.50 -10 -13.25   6.50 -10  -2   6.50 -10  -2  16.50 -10
+0
+ 4 383   2  16.50 -10   2   6.50 -10   5   6.50 -10   5  16.50 -10
+ 4 383   5   8.50 -10   5   6.50 -10   9.50   6.50 -10   9.50   8.50 -10
+ 4   0   5   9 -10   5   8.50 -10   9.50   8.50 -10   9.50   9 -10
+ 4 383   5  10 -10   5   9 -10   9.50   9 -10   9.50  10 -10
+ 4   0   5  10.50 -10   5  10 -10   9.50  10 -10   9.50  10.50 -10
+ 4 383   5  16.50 -10   5  10.50 -10   9.50  10.5 -10   9.50  16.50 -10
+ 4 383   9.50  16.50 -10   9.50   6.50 -10  13.25   6.50 -10  13.25  16.50 -10
+0
+ 4 16 -19  32  10  19  32  10  19  29  10 -19  29  10
+ 4 16 -19  29  10  19  29  10  14.345   2  10 -14.345   2  10
+ 4 16  12   0  10 -12   0  10 -14.345   2  10  14.345   2  10
+0
+ 1 0 0 -4 0 4.24 0 -4.24 0 -8 0 -4.24 0 -4.24 1-4cyli.dat
+0
+0 end of file

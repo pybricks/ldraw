@@ -1,7 +1,7 @@
 0 Window  1 x  2 x  2 Plane
 0 Name: 2377.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LDRAW_ORG Part UPDATE 2009-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -13,6 +13,8 @@
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [cwdee] Correct studs from stud2 to stud (2007-07-09)
+0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
 1 16 0 44 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT
@@ -117,6 +119,6 @@
 4 16 -20 0 -10 -12 4 -10 -12 32 -10 -20 48 -10
 4 16 -20 48 -10 -12 32 -10 12 32 -10 20 48 -10
 4 16 20 0 -10 12 4 -10 -12 4 -10 -20 0 -10
-1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
-1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 10 0 0 -1 0 0 0 1 0 0 0 -1 stud.dat
+1 16 -10 0 0 -1 0 0 0 1 0 0 0 -1 stud.dat
 0

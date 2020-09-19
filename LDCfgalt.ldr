@@ -1,0 +1,70 @@
+0 LDraw.org Configuration File, with LDraw-style edges
+0 Name: ldconfig.ldr
+0 Author: LDraw.org
+0 LDRAW_ORG Configuration UPDATE 2009-02
+
+0 !COLOUR Black             CODE   0  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Blue              CODE   1  VALUE #C1C1C1  EDGE 0 
+0 !COLOUR Green             CODE   2  VALUE #C1C1C1  EDGE 0 
+0 !COLOUR Teal              CODE   3  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Red               CODE   4  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Dark_Pink         CODE   5  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Brown             CODE   6  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Gray              CODE   7  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Dark_Gray         CODE   8  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Light_Blue        CODE   9  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Bright_Green      CODE  10  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Turquiose         CODE  11  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Light_Red         CODE  12  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Pink              CODE  13  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Yellow            CODE  14  VALUE #C1C1C1  EDGE 0
+0 !COLOUR White             CODE  15  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Light_Green       CODE  17  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Light_Yellow      CODE  18  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Tan               CODE  19  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Light_Violet      CODE  20  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Phosphor_White    CODE  21  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Violet            CODE  22  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Violet_Blue       CODE  23  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Orange            CODE  25  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Magenta           CODE  26  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Lime              CODE  27  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Dark_Tan          CODE  28  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Trans_Blue        CODE  33  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Trans_Green       CODE  34  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Trans_Red         CODE  36  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Trans_Violet      CODE  37  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Trans_Gray        CODE  40  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Trans_Light_Cyan  CODE  41  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Trans_Flu_Lime    CODE  42  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Trans_Pink        CODE  45  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Trans_Yellow      CODE  46  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Clear             CODE  47  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Trans_Flu_Orange  CODE  57  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Reddish_Brown     CODE  70  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Stone_Gray        CODE  71  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Dark_Stone_Gray   CODE  72  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Pearl_Copper      CODE 134  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Pearl_Gray        CODE 135  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Pearl_Gold        CODE 142  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Pearl_Sand_Blue   CODE 137  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Rubber_Black      CODE 256  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Dark_Blue         CODE 272  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Rubber_Blue       CODE 273  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Dark_Green        CODE 288  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Dark_Red          CODE 320  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Rubber_Red        CODE 324  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Chrome_Gold       CODE 334  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Sand_Red          CODE 335  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Earth_Orange      CODE 366  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Sand_Violet       CODE 373  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Rubber_Gray       CODE 375  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Sand_Green        CODE 378  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Sand_Blue         CODE 379  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Chrome_Silver     CODE 383  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Light_Orange      CODE 462  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Dark_Orange       CODE 484  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Electric_Contact  CODE 494  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Light_Gray        CODE 503  VALUE #C1C1C1  EDGE 0
+0 !COLOUR Rubber_White      CODE 511  VALUE #C1C1C1  EDGE 0
+0

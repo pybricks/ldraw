@@ -1,0 +1,13 @@
+LDraw.org Parts Update 2009-02
+------------------------------
+
+This file is included for backward compatibility with LDraw applications that 
+use this filename to identify installed updates.
+
+Please review the following files for full details of this update:
+
+Note0902CA.txt
+Note0902CA_a.txt
+Note0902CA_p.txt
+Note0902NonCA.txt
+

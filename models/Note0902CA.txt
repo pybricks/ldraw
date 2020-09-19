@@ -1,0 +1,231 @@
+LDraw.org Parts Update 2009-02
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Thu Sep  3 12:42:06 2009 by the Parts Tracker.
+
+Release statistics:
+   Total files: 385
+   New files: 224
+   New parts: 195
+   New subparts: 5
+   New primitives: 21
+   New hi-res primitives: 3
+
+New 3-digit part numbers assigned:
+   303.dat Train Base  6 x 22 Type 1
+   420.dat Ladder Two Piece, Bottom Section
+   421.dat Ladder Two Piece, Top Section
+   753.dat Plate  2 x  4 with Magnet Holder
+
+Moved Parts
+   193A.DAT      ~Moved to 3842a
+   193B.DAT      ~Moved to 3842b
+   229.DAT       ~Moved to 33291
+   2536C.DAT     ~Moved to 6135
+   289.DAT       ~Moved to 33286
+   3004P60.DAT   ~Moved to 3004pt3
+   3058.DAT      ~Moved to 3058b
+   3326.DAT      ~Moved to 3326b
+   375.DAT       ~Moved to 30193
+   38.DAT        ~Moved to 57467
+   405.DAT       ~Moved to 44676
+   4151.DAT      ~Moved to 4151a
+   4218.DAT      ~Moved to 4219a
+   4219.DAT      ~Moved to 4218a
+   469.DAT       ~Moved to 30261
+   483.DAT       ~Moved to 41532
+   52.DAT        ~Moved to 30385
+   576.DAT       ~Moved to 3326a
+   891.DAT       ~Moved to 30292
+
+Renamed Parts
+   2508.DAT      Plate  1 x  2 with Long Towball
+   changed to    Plate  1 x  2 with 3L Extension and Towball
+
+   2617.DAT      Platform 16 x 16 x 2 & 1/3 Even
+   changed to    Platform 16 x 16 x  2 & 1/3 Even
+
+   2905.DAT      Technic Triangle
+   changed to    Technic  5 x  3 x  0.5 Liftarm Triangle
+
+   30035.DAT     Space Scanner Tool
+   changed to    Minifig Accessory Space Scanner Tool
+
+   32124.DAT     Technic Rotor 2 Blade with 4 Studs
+   changed to    Technic Rotor  2 Blade with 4 Studs
+
+   32523.DAT     Technic Liftarm  1 x  3 Straight
+   changed to    Technic Beam  3
+
+   3626BP3E.DAT  Minifig Head with Wiry Moustache and Eyebrows Pattern
+   changed to    Minifig Head with Wiry Moustache, Goatee and Eyebrows Pattern
+
+   3684P22.DAT   Slope Brick 75  2 x  2 x  3 with Ferry Windows Pattern
+   changed to    Slope Brick 75  2 x  2 x  3 with 16 Black Squares Pattern
+
+   3742.DAT      Plant Flower (needs work)
+   changed to    Plant Flower
+
+   4207.DAT      Ladder 2.5 x 14 (needs work)
+   changed to    Ladder  2.5 x 14
+
+   4215B.DAT     Panel  1 x  4 x  3 with Open Studs
+   changed to    Panel  1 x  4 x  3 with Hollow Studs
+
+   4285B.DAT     Dish  6 x  6 Webbed Type 2
+   changed to    Dish  6 x  6 Inverted Webbed Type 2
+
+   4596.DAT      Space Wing 4 x 2
+   changed to    Plate  1 x  2 with 3L Extension and Stud Hole
+
+   4735.DAT      Space Robot Arm
+   changed to    Brick  1 x  1 x   2/3 Round with Bar and Clip Vertical
+
+   6235.DAT      Freestyle Door  2 x  6 x  6 Frame
+   changed to    Door  2 x  6 x  6 Frame Freestyle
+
+   6631.DAT      Technic Transmission Changeover Plate  2 x  6
+   changed to    Technic Plate  2 x  6 with 2 Position Gear Shift Gate
+
+   6942.DAT      Scala Cone  5 x  5
+   changed to    Dish  5 x  5
+
+   803.DAT       Car Base for Steering-Gear (Short)
+   changed to    Car Base  4 x 12 with Hole and Steering Gear Slot
+
+   804.DAT       Car Base for Steering-Gear (Medium)
+   changed to    Car Base  4 x 14 with Hole and Steering Gear Slot
+
+   805.DAT       Car Base for Steering-Gear (Long)
+   changed to    Car Base  4 x 16 with Hole and Steering Gear Slot
+
+   806.DAT       Car Base for Steering-Gear (Fire-Car)
+   changed to    Car Base  6 x 17 with 2 Holes and Steering Gear Slot
+
+   82359.DAT     Minifig Skeleton Skull 
+   changed to    Minifig Head with Skull Type 1 (Happy) Pattern 
+
+Other Fixed Parts
+   STU2P01.DAT   Stud with Dot Pattern (Fast-Draw)
+   STUD2.DAT     Stud Open
+   STUD2A.DAT    Stud Open without Base Edges
+   STUD4.DAT     Stud Tube Open
+   STUD4A.DAT    Stud Tube Open without Base Edges
+   STUD7.DAT     Stud Duplo Open
+   STUD8.DAT     Stud Duplo Tube
+   STUDP01.DAT   Stud with Dot Pattern
+   2039.DAT      Lamppost  2 x  2 x  7
+   2291.DAT      Duplo Brick  2 x 10
+   2300.DAT      Duplo Brick  2 x  6
+   2302.DAT      Duplo Brick  2 x  3 with Curved Top
+   2348B.DAT     Glass for Hinge Car Roof  4 x  4 Sunroof with Ridges
+   2377.DAT      Window  1 x  2 x  2 Plane
+   2415.DAT      Plate  2 x  2 with Wheel Holder Plane
+   2417.DAT      Plant Leaves  6 x  5
+   2428.DAT      Rack  1 x 20
+   2443.DAT      Hinge Window Frame  1 x  4 x  3 with Octagonal Panel
+   2456.DAT      Brick  2 x  6
+   2460.DAT      Tile  2 x  2 with Pin
+   2465.DAT      Brick  1 x 16
+   2475.DAT      Brush Holder Car Wash
+   2494.DAT      Glass for Window  1 x  4 x  5
+   2584.DAT      Hose Reel  2 x  2 Holder
+   2642.DAT      Platform 16 x 16 x  2 & 1/3 Ramp
+   30.DAT        Technic Hook Large Metallic
+   30056.DAT     Fence Spindled  4 x  4 x  2 Quarter Round
+   30077.DAT     Fence  1 x  6 x  2
+   30092.DAT     Minifig Underwater Scooter
+   30150.DAT     Container Adventurers Chest
+   30157.DAT     Plate  2 x  4 with Pins
+   30183.DAT     Slope Brick 45  6 x  4 Double Inverted
+   30357.DAT     Plate  3 x  3 Corner Round
+   3039PC4.DAT   Slope Brick 45  2 x  2 with 3 Gauges and 3 Knobs Pattern
+   30413.DAT     Panel  1 x  4 x  1
+   3046.DAT      Slope Brick 45  2 x  2 Double Concave
+   30565.DAT     Plate  4 x  4 Corner Round
+   3062B.DAT     Brick  1 x  1 Round with Hollow Stud
+   3194P01.DAT   Door  1 x  5 x  4 Right with Red, White and Blue Stripes Pattern
+   32059.DAT     Plate  4 x  6 without Corners
+   32132.DAT     Technic Gear Rack  1 x 12 with Holes
+   32185.DAT     Technic Gear Rack  1 x 14 with Holes
+   32187.DAT     Technic Transmission Driving Ring Extension
+   33008.DAT     Scala Flower Pot
+   33029.DAT     Scala Plate  2 x  4
+   33062.DAT     Scala Plate  4 x  4
+   3479.DAT      Tail  4 x  2 x  2
+   3481.DAT      Plate  2 x  2 with Helicopter Tail Rotor Holder
+   3597.DAT      Hinge Plate  2 x  4 - Female
+   3639.DAT      Hinge Plate  2 x  4 with Articulated Joint - Male
+   3640.DAT      Hinge Plate  2 x  4 with Articulated Joint - Female
+   3647.DAT      Technic Gear  8 Tooth
+   3730.DAT      Plate  2 x  2 with Towball Socket
+   3743.DAT      Technic Gear Rack  1 x  4
+   3823.DAT      Windscreen  2 x  4 x  2
+   3853.DAT      Window  1 x  4 x  3
+   3854.DAT      Window  1 x  2 x  3 Pane
+   3855.DAT      Glass for Window  1 x  4 x  3
+   3940.DAT      Space Stand  2 x  2 x  2
+   4019.DAT      Technic Gear 16 Tooth
+   4034.DAT      Glass for Train Window  1 x  4 x  3
+   4081A.DAT     Plate  1 x  1 with Clip Light Type 1
+   4181.DAT      Train Door  1 x  4 x  5 Left
+   4181P01.DAT   Train Door  1 x  4 x  5 Left with Yellow Bottom Half Pattern
+   4181P02.DAT   Train Door  1 x  4 x  5 Left with Red Bottom Half Pattern
+   4181P03.DAT   Train Door  1 x  4 x  5 Left with White Stripe Pattern
+   4181P04.DAT   Train Door  1 x  4 x  5 Left with Red/White/Blue Stripe Pattern
+   4181P05.DAT   Train Door  1 x  4 x  5 Left with Blue Bottom Half Pattern
+   4182.DAT      Train Door  1 x  4 x  5 Right
+   4182P01.DAT   Train Door  1 x  4 x  5 Right with Yellow Bottom Half Pattern
+   4182P02.DAT   Train Door  1 x  4 x  5 Right with Red Bottom Half Pattern
+   4182P03.DAT   Train Door  1 x  4 x  5 Right with White Stripe Pattern
+   4182P04.DAT   Train Door  1 x  4 x  5 Right with Red/White/Blue Stripe Pattern
+   4182P05.DAT   Train Door  1 x  4 x  5 Right with Blue Bottom Half Pattern
+   4213.DAT      Hinge Car Roof  4 x  4
+   4214.DAT      Hinge Car Roof Holder  1 x  4 x  2
+   4220.DAT      Grab Jaw Holder
+   4222A.DAT     Fabuland Chair
+   4284.DAT      Windscreen  2 x  4 x  2 Inverted
+   4360.DAT      Minifig Camera with Side Sight
+   4448.DAT      Glass for Window  4 x  4 x  3 Roof
+   4459.DAT      Technic Pin with Friction
+   4510.DAT      Plate  1 x  8 with Door Rail
+   4533.DAT      Container Cupboard  2 x  3 x  2 Door
+   4535.DAT      Container Cupboard  2 x  3 x  4 Door
+   4594.DAT      Windscreen  2 x  4 x  2 Vertical
+   4715.DAT      Stretcher Wheels
+   4796.DAT      Fabuland Car Chassis  8 x  6
+   4863.DAT      Window  1 x  4 x  2 Plane
+   4872.DAT      Windscreen  3 x  4 x  4 Inverted
+   6019.DAT      Plate  1 x  1 with Clip Horizontal
+   6111.DAT      Brick  1 x 10
+   6112.DAT      Brick  1 x 12
+   6179.DAT      Tile  4 x  4 with Studs on Edge
+   6180.DAT      Tile  4 x  6 with Studs on Edges
+   6191.DAT      Brick  1 x  4 x  1 & 1/3 with Curved Top
+   6231.DAT      Panel  1 x  1 x  1 Corner
+   6233.DAT      Cone  3 x  3 x  2
+   650.DAT       Hinge Coupling-Nylon 
+   6539.DAT      Technic Transmission Driving Ring
+   6584.DAT      Train Base  6 x 24
+   6588.DAT      Technic Gearbox  2 x  4 x  3 & 1/3
+   6589.DAT      Technic Gear 12 Tooth Bevel
+   6592.DAT      Technic Gear Rack  1 x 10 with Holes
+   6641.DAT      Technic Transmission Changeover Catch
+   6923.DAT      Scala Tile  8 x 20 x   2/3 Round Ends
+   6934.DAT      Scala Tile  3 x  6
+   6965.DAT      Scala Table  7 x  7 x  1 & 1/3
+   710.DAT       Car Base  6 x 17 with Hole
+   776P11.DAT    Flag on Flagpole Type 1 with United Kingdom Pattern
+   776P13.DAT    Flag on Flagpole Type 1 with Switzerland Pattern
+   839.DAT       Homemaker Washbasin Base  4 x  4 x  4
+   962.DAT       Slope Brick 45  2 x  2 Double Concave / Double Convex
+   973P1D.DAT    Minifig Torso with Blue Horizontal Stripes Pattern
+   973P1E.DAT    Minifig Torso with Red Horizontal Stripes Pattern
+   973P73.DAT    Minifig Torso with Vest with Patch Pockets Pattern
+   2039S01.DAT   ~Lamppost  2 x  2 x  7 - Upper Column
+   2039S02.DAT   ~Lamppost  2 x  2 x  7 - Lower Column
+   3298S01.DAT   ~Slope Brick 33  3 x  2 without Front Face
+   776S01.DAT    ~Flag on Flagpole Type 1 without Faces
