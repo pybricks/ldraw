@@ -1,12 +1,16 @@
 0 Minifig Cap with Short Arched Peak
 0 Name: 86035.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-01
+0 !LDRAW_ORG Part UPDATE 2014-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Minifig Headwear
+
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2014-06-22 [cwdee] Add missing CATEGORY
+0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 1 16 0 -4 0 -1 0 0 0 -1 0 0 0 1 stud16.dat
 1 16 0 3.8 0.4 15 0 0 0 -13.8717 1.95789 0 1.95789 14.8717 4-8sphe.dat

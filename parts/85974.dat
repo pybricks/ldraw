@@ -1,14 +1,18 @@
 0 Minifig Hair Long with One Front Lock
 0 Name: 85974.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2014-01
+0 !LDRAW_ORG Part UPDATE 2014-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Minifig Headwear
+
 0 !HISTORY 2011-07-09 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2011-07-10 [tchang] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2014-06-22 [cwdee] Add missing CATEGORY
+0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 1 16 0 -4 0 0 0 -1 0 -1 0 1 0 0 stud4o.dat
 0 // inside

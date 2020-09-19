@@ -1,20 +1,12 @@
-0 Minifig Forestman Cap with Small Plume (Shortcut)
+0 ~Moved to 4506c01
 0 Name: 775c01.dat
-0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Shortcut UPDATE 2004-04
+0 Author: [PTadmin]
+0 !LDRAW_ORG Part UPDATE 2014-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 BFC NOCERTIFY
-0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Castle, Forestmen, Dark Forest, Robin Hood, Merry Men, Sherwood Forest
-0 !KEYWORDS hat, goose feather, red feather, archer, huntsman, woodsman
-0 !CMDLINE -c2
+0 BFC CERTIFY CCW
 
-0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
-0 !HISTORY 2007-07-22 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
-1 16   0  0 0 1 0 0 0 1 0 0 0 1 775.dat
-1  4 -12 -4 5 1 0 0 0 1 0 0 0 1 4502a.dat
-
-0 end of file
+0 // Minifig Forestman Cap with Small Plume (Shortcut)
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4506c01.dat

@@ -1,0 +1,312 @@
+LDraw.org Parts Update 2014-02
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Tue Dec 23 21:02:57 2014 by the Parts Tracker.
+
+Release statistics:
+   Total files: 1005
+   New files: 825
+   New parts: 558
+   New subparts: 184
+   New primitives: 23
+   New hi-res primitives: 60
+
+New 3-digit part numbers assigned:
+   125.dat ~Boat Hull Floating  6 x 24 x  3 Hull
+   126.dat ~Boat Hull Floating  6 x 24 x  3 Insert
+
+Moved Parts
+   1-16RI19.DAT               ~Moved to 1-16ring19
+   13-16CHR.DAT               ~Moved to 13-16chrd
+   3-16RI11.DAT               ~Moved to 3-16ring11
+   3-16RI12.DAT               ~Moved to 3-16ring12
+   3-16RI13.DAT               ~Moved to 3-16ring13
+   3-16RI14.DAT               ~Moved to 3-16ring14
+   1-12CO24.DAT               ~Moved to 48\1-12con24
+   1-12RI17.DAT               ~Moved to 48\1-12ring17
+   1-12RI20.DAT               ~Moved to 48\1-12ring20
+   1-12RI38.DAT               ~Moved to 48\1-12ring38
+   1-12RI42.DAT               ~Moved to 48\1-12ring42
+   1-12RI78.DAT               ~Moved to 48\1-12ring78
+   1-16CO11.DAT               ~Moved to 48\1-16con11
+   1-16CO19.DAT               ~Moved to 48\1-16con19
+   1-16CO20.DAT               ~Moved to 48\1-16con20
+   1-16CO24.DAT               ~Moved to 48\1-16con24
+   1-16RI13.DAT               ~Moved to 48\1-16ring13
+   1-16RI14.DAT               ~Moved to 48\1-16ring14
+   1-16RI19.DAT               ~Moved to 48\1-16ring19
+   1-16RI21.DAT               ~Moved to 48\1-16ring21
+   1-16RI43.DAT               ~Moved to 48\1-16ring43
+   1-24CO10.DAT               ~Moved to 48\1-24con10
+   1-24CO12.DAT               ~Moved to 48\1-24con12
+   1-24CO14.DAT               ~Moved to 48\1-24con14
+   1-24CO16.DAT               ~Moved to 48\1-24con16
+   1-24CO24.DAT               ~Moved to 48\1-24con24
+   1-24RI11.DAT               ~Moved to 48\1-24ring11
+   1-24RI19.DAT               ~Moved to 48\1-24ring19
+   1-48RI43.DAT               ~Moved to 48\1-48ring43
+   11-24CYL.DAT               ~Moved to 48\11-24cyli
+   11-24EDG.DAT               ~Moved to 48\11-24edge
+   11-24R13.DAT               ~Moved to 48\11-24ring13
+   11-24R52.DAT               ~Moved to 48\11-24ring52
+   11-48R19.DAT               ~Moved to 48\11-48ring19
+   11-48R40.DAT               ~Moved to 48\11-48ring40
+   19-48CHR.DAT               ~Moved to 48\19-48chrd
+   19-48EDG.DAT               ~Moved to 48\19-48edge
+   2-4RI240.DAT               ~Moved to 48\2-4ring240
+   3-16CO19.DAT               ~Moved to 48\3-16con19
+   4-4RI100.DAT               ~Moved to 48\4-4ring100
+   5-12RI13.DAT               ~Moved to 48\5-12ring13
+   5-12RI14.DAT               ~Moved to 48\5-12ring14
+   5-24CO10.DAT               ~Moved to 48\5-24con10
+   5-24CO12.DAT               ~Moved to 48\5-24con12
+   5-24CO14.DAT               ~Moved to 48\5-24con14
+   5-24CO16.DAT               ~Moved to 48\5-24con16
+   5-24RI10.DAT               ~Moved to 48\5-24ring10
+   5-24RI17.DAT               ~Moved to 48\5-24ring17
+   5-24RI18.DAT               ~Moved to 48\5-24ring18
+   5-24RI20.DAT               ~Moved to 48\5-24ring20
+   5-24RI24.DAT               ~Moved to 48\5-24ring24
+   5-24RI28.DAT               ~Moved to 48\5-24ring28
+   5-24RI29.DAT               ~Moved to 48\5-24ring29
+   5-48CO12.DAT               ~Moved to 48\5-48con12
+   5-48CO29.DAT               ~Moved to 48\5-48con29
+   5-48RI32.DAT               ~Moved to 48\5-48ring32
+   7-16RI16.DAT               ~Moved to 48\7-16ring16
+   5-16RI12.DAT               ~Moved to 5-16ring12
+   2609.DAT                   ~Moved to 2609a
+   3678P4H.DAT                ~Moved to 3678ap4h
+   48002.DAT                  ~Moved to 48002a
+   72.DAT                     ~Moved to 2849
+   775.DAT                    ~Moved to 4506
+   775C01.DAT                 ~Moved to 4506c01
+
+Renamed Parts
+   ARM2.DAT                   Hinge Arm 3 Finger
+   changed to    Hinge Arm 3 Finger without Ribs with Round Middle Finger 
+
+   NPEGHOL4.DAT               Technic Peg Hole / Axle Hole Negative with Top Surface Ext.
+   changed to    Technic Peg Hole / Axle Hole Negative with Top Surface Extension
+
+   2436A.DAT                  Bracket  1 x  2 -  1 x  4 Type 1
+   changed to    Bracket  1 x  2 -  1 x  4 with Square Corners
+
+   2436B.DAT                  Bracket  1 x  2 -  1 x  4 Type 2
+   changed to    Bracket  1 x  2 -  1 x  4 with Rounded Corners
+
+   2513P05.DAT                Car Mudguard  3 x  4 with Headlights Pattern
+   changed to    Car Mudguard  3 x  4 with Headlights and Indicators Pattern
+
+   2546.DAT                   Animal Parrot
+   changed to    Animal Bird Parrot
+
+   2582P68.DAT                Hinge Panel  2 x  4 x  3 & 1/3 with MTron Pattern
+   changed to    Hinge Panel  2 x  4 x  3.333 with MTron Pattern
+
+   2586P4F.DAT                Minifig Shield Ovoid with Batlord Pattern
+   changed to    Minifig Shield Ovoid with Bat Pattern
+
+   2599.DAT                   Minifig Flipper (Needs Work)
+   changed to    Minifig Flipper
+
+   30235.DAT                  Car Base  4 x 10 x  1 2/3
+   changed to    Car Base  4 x 10 x  1.667
+
+   30370PS2.DAT               Minifig Helmet Star Wars Rebel Pilot with Red Rebel Pattern
+   changed to    Minifig Helmet Star Wars Rebel Pilot with Red Rebel Logo Pattern
+
+   30370PS3.DAT               Minifig Helmet Star Wars Rebel Pilot with Blue Rebel Pattern
+   changed to    Minifig Helmet Star Wars Rebel Pilot with Blue Rebel Logo Pattern
+
+   3039P34.DAT                Slope Brick 45  2 x  2 with Computer Panel Pattern (needs work)
+   changed to    Slope Brick 45  2 x  2 with Computer Panel Pattern
+
+   32171.DAT                  =Technic Bionicle Weapon Throwing Disc
+   changed to    =Technic Disc  5 x  5 Projectile
+
+   32173.DAT                  Technic Liftarm 2 x 7 with 2 Ball Joints
+   changed to    Technic Bionicle Leg  2 x  6 with  2 Ball Joints
+
+   32533.DAT                  Technic Bionicle Weapon Throwing Disc
+   changed to    Technic Disc  5 x  5 Projectile
+
+   3297P14.DAT                Slope Brick  3 x  4 with Headlights Pattern
+   changed to    Slope Brick 33  3 x  4 with Headlights and Indicators Pattern
+
+   3626BPM0.DAT               Minifig Head with Uruk-Hai Scowl and White Hand Pattern (Hollow Stud with Pierced Base)
+   changed to    Minifig Head with LOTR Uruk-Hai Scowl and White Hand 2-Sided Pattern (Hollow Stud with Pierced Base)
+
+   3836.DAT                   Minifig Tool Pushbroom
+   changed to    Minifig Pushbroom
+
+   3846P4F.DAT                Minifig Shield Triangular with Batlord Pattern
+   changed to    Minifig Shield Triangular with Bat Pattern
+
+   4150.DAT                   Tile  2 x  2 Round
+   changed to    Tile  2 x  2 Round with Cross Underside Stud
+
+   41855.DAT                  Slope Brick Round  2 x  2 x  2/3
+   changed to    Slope Brick Rounded  2 x  2 x  0.667
+
+   4220.DAT                   Grab Jaw Holder
+   changed to    ~Arm Piece with Grab Jaw Holder (Obsolete)
+
+   4475.DAT                   Wing  8 x  8 with 4 x  4 Cutout
+   changed to    Wing  8 x  8 with  4 x  4 Cutout
+
+   4607.DAT                   Tile  4 x 16 with 24 studs
+   changed to    Tile  4 x 16 with 24 Studs
+
+   522.DAT                    Minifig Cape Cloth
+   changed to    ~Minifig Cape Cloth (Obsolete)
+
+   6015.DAT                   Tyre Wide
+   changed to    Tyre 12/ 40 x 11 Wide
+
+   6087.DAT                   Bracket  5 x  2 x  2 & 1/3
+   changed to    Bracket  5 x  2 x  2.333 with Inside Rib
+
+   6191.DAT                   Brick  1 x  4 x  1 & 1/3 with Curved Top
+   changed to    Brick  1 x  4 x  1.333 with Curved Top
+
+   6572.DAT                   Technic Beam  2 x  4.8 open with Towball
+   changed to    Technic Suspension Arm  2 x  4.8 with Towball
+
+   92198.DAT                  Figure Friends Female Head without Pattern
+   changed to    Figure Friends Head without Pattern
+
+   92198P01.DAT               Figure Friends Head, LtBlue Eyes, Pink Lips, Open Mouth Pattern
+   changed to    Figure Friends Female Head with Light Blue Eyes, Pink Lips and Open Mouth Pattern
+
+   92244.DAT                  Figure Friends Female Left Arm without Pattern
+   changed to    Figure Friends Female Left Arm
+
+   92245.DAT                  Figure Friends Female Right Arm without Pattern
+   changed to    Figure Friends Female Right Arm
+
+   92252P01.DAT               Figure Friends Legs Light_Flesh with Skirt, Pink Shoes Pattern
+   changed to    Figure Friends Legs with Pleated Skirt with Light Flesh Legs and Pink Crossed Straps Sandals Pattern
+
+   98138P01.DAT               Tile Round  1 x  1 with Venomari Pattern
+   changed to    Tile  1 x  1 Round with Venomari Pattern
+
+   98138P02.DAT               Tile Round  1 x  1 with Hypnobrai Pattern
+   changed to    Tile  1 x  1 Round with Hypnobrai Pattern
+
+   98138P03.DAT               Tile Round  1 x  1 with Fangpyre Pattern
+   changed to    Tile  1 x  1 Round with Fangpyre Pattern
+
+   98138P04.DAT               Tile Round  1 x  1 with Constrictai Pattern
+   changed to    Tile  1 x  1 Round with Constrictai Pattern
+
+   98138P05.DAT               Tile Round  1 x  1 with Coin Pattern
+   changed to    Tile  1 x  1 Round with Coin Pattern
+
+   98138P06.DAT               Tile Round  1 x  1 with Headlight Pattern
+   changed to    Tile  1 x  1 Round with Headlight Pattern
+
+   98138P07.DAT               Tile Round  1 x  1 with Eye Pattern
+   changed to    Tile  1 x  1 Round with Eye Pattern
+
+   12787S02.DAT               ~Logo "LEGO" 30 x 30
+   changed to    ~Logo "LEGO" (since 1998) 30 x 30, Embossed
+
+   2546S01.DAT                ~Animal Parrot Half
+   changed to    ~Animal Bird Parrot - Half
+
+   30370PS2C.DAT              ~Minifig Helmet Star Wars Rebel Pilot - Red Rebel Logo Pattern
+   changed to    ~Minifig Helmet Star Wars Rebel Pilot - Rebel Logo Frame
+
+   32533S01.DAT               ~Technic Bionicle Weapon Throwing Disc without Top Face - 1/6
+   changed to    ~Technic Disc  5 x  5 Projectile without Top Face  1/6
+
+   32533S02.DAT               ~Technic Bionicle Weapon Throwing Disc Top Face - 1/12 Segment
+   changed to    ~Technic Disc  5 x  5 Projectile Top Surface  1/6
+
+   3678BS01.DAT               ~Slope Brick 65  2 x  2 x  2 w/ Center Tube w/o Front and Back
+   changed to    ~Slope Brick 65  2 x  2 x  2 with Centre Tube without Front and Back
+
+   4150S01.DAT                ~Tile  2 x  2 Round without Top Face
+   changed to    ~Tile  2 x  2 Round with Cross Underside Stud without Top Face
+
+   41855S01.DAT               ~Slope Rounded  2 x  2 x  2/3 without Top Faces
+   changed to    ~Slope Brick Rounded  2 x  2 x  0.667 without Top Faces
+
+   92198S01.DAT               ~Figure Friends Female Head without Face
+   changed to    ~Figure Friends Head without Face
+
+   92252P01S02.DAT            ~Figure Friends Light_Flesh Foot with Shoes Pattern
+   changed to    ~Figure Friends Foot with Crossed Straps Sandal Negative Pattern
+
+   973P4DL.DAT                ~Royal Knights Lion Pattern (Left Half)
+   changed to    ~Royal Knights Lion Pattern - Half
+
+   973P4EL.DAT                ~Royal Knights Lion with Red in Crown Pattern (Left Half)
+   changed to    ~Royal Knights Lion with Red in Crown Pattern - Half
+
+Other Fixed Parts
+   1-4RING9.DAT               Hi-Res Ring  9 x 0.25
+   AXLESPHE.DAT               Technic Axle Truncated to Fit Ball Joint
+   13547.DAT                  Slope Brick Curved  4 x  1 Inverted
+   2302.DAT                   Duplo Brick  2 x  3 with Curved Top
+   2336P68.DAT                Wedge  2 x  3 with Brick  2 x  4 with MTron Logo Pattern
+   2418A.DAT                  Windscreen  6 x  6 Octagonal Canopy without Axlehole
+   2418B.DAT                  Windscreen  6 x  6 Octagonal Canopy with Axlehole
+   2446.DAT                   Minifig Helmet Modern
+   2483.DAT                   Windscreen  4 x  4 x  3.667 Helicopter
+   2488.DAT                   Minifig Whip
+   2530.DAT                   Minifig Sword Cutlass
+   2586P4D.DAT                Minifig Shield Ovoid with Royal Knights Lion Pattern
+   2586PH2.DAT                Minifig Shield Ovoid with Silver Snake Pattern
+   2610.DAT                   Minifig Lifevest
+   2621.DAT                   Boat Bow Plate 10 x  9
+   2627.DAT                   Boat Top  6 x  6
+   2653.DAT                   Brick  1 x  4 with Groove
+   2686.DAT                   Monorail Wheel Chassis
+   2686C01.DAT                Monorail Wheel Chassis Assembly (Complete)
+   2687.DAT                   Monorail Base  4 x 20
+   2697.DAT                   Monorail Wheel Connector
+   2869.DAT                   ~Train Speed Regulator  9V - Cover
+   3004PRC.DAT                Brick  1 x  2 with Red Cross Pattern
+   3005PE1.DAT                Brick  1 x  1 with Eye Pattern
+   3005PT4.DAT                Brick  1 x  1 with Blue "4" Pattern
+   3005PT7.DAT                Brick  1 x  1 with Blue "7" Pattern
+   3005PTB.DAT                Brick  1 x  1 with Blue "B" Pattern
+   3005PTE.DAT                Brick  1 x  1 with Blue "E" Pattern
+   3005PTF.DAT                Brick  1 x  1 with Blue "F" Pattern
+   3005PTG.DAT                Brick  1 x  1 with Blue "G" Pattern
+   3005PTH.DAT                Brick  1 x  1 with Blue "H" Pattern
+   3068BP10.DAT               Tile  2 x  2 with Explorien Logo Pattern
+   32172.DAT                  Technic Connector Block  3 x  3 with Ball Socket
+   3298P10.DAT                Slope Brick 33  3 x  2 with Explorien Logo Pattern
+   3626BP05.DAT               Minifig Head with Standard Grin and Eyebrows Pattern
+   3846P4D.DAT                Minifig Shield Triangular with Royal Knights Lion Pattern
+   3846P4E.DAT                Minifig Shield Triangular with Lion Head, Blue & Yellow Pattern
+   3890.DAT                   Panel  2 x  6 x  7 with Window Hole
+   4346P68.DAT                Container Box  2 x  2 x  2 Door with Slot and MTron Pattern
+   4740.DAT                   Dish  2 x  2 Inverted
+   4862.DAT                   Glass for Window  1 x  2 x  2 Plane
+   4864AP10.DAT               Panel  1 x  2 x  2 Solid Stud with Red/White/Blue Left Pattern
+   4864AP11.DAT               Panel  1 x  2 x  2 Solid Stud with Red/White/Blue Right Pattern
+   48995.DAT                  Tile  2 x  3 Rounded with Hole
+   59900.DAT                  Cone  1 x  1 with Stop
+   85943.DAT                  Technic Brick  1 x  2 with Two Liftarms
+   85974.DAT                  Minifig Hair Long with One Front Lock
+   86035.DAT                  Minifig Cap with Short Arched Peak
+   87995.DAT                  Minifig Hair Bubble Style (Afro)
+   92252.DAT                  Figure Friends Legs with Pleated Skirt
+   973P02.DAT                 Minifig Torso with Vertical Striped Blue/Red Pattern
+   973P03.DAT                 Minifig Torso with White Shirt and Jacket Pattern
+   973P09.DAT                 Minifig Torso with Anchor Motif Pattern
+   973P4D.DAT                 Minifig Torso with Royal Knights Lion-Head Shield Pattern
+   973P4E.DAT                 Minifig Torso with Royal Knights Lion Head & Neck-Chain Pattern
+   98374.DAT                  Minifig Pot Small with Handle Holders
+   2686S01.DAT                ~Monorail Wheel Chassis Bottom Subpart
+   2687S01.DAT                ~Monorail Base  4 x 20 Subpart
+   3068P68A.DAT               ~Pattern MTron Logo
+   3960S02.DAT                ~Dish  4 x  4 Slice 15 Degrees
+   4346S01.DAT                ~Container Box  2 x  2 x  2 Door with Slot without Front Face
+   92244S01.DAT               ~Figure Friends Female Left Arm Structure

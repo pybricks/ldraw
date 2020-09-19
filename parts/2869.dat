@@ -1,12 +1,14 @@
 0 ~Train Speed Regulator  9V - Cover
 0 Name: 2869.dat
 0 Author: Max Martin Richter [MMR1988]
-0 !LDRAW_ORG Part UPDATE 2013-02
+0 !LDRAW_ORG Part UPDATE 2014-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+0 !HISTORY 2014-10-19 [MMR1988] Changed the LEGO logo
+0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
 1 16 0 0 0 -240 0 0 0 -40 0 0 0 120 box4.dat
 
@@ -644,7 +646,7 @@
 
 0 BFC INVERTNEXT
 1 16 210.625 -40.5 -90.625 -20.625 0 0 0 -0.75 0 0 0 20.625 box4.dat
-1 16 210.625 -40.5 -90.625 1.375 0 0 0 0.5 0 0 0 1.375 s\12787s02.dat
+1 16 210.625 -40.5 -90.625 1.375 0 0 0 0.5 0 0 0 1.375 s\32021s03.dat
 
 4 16 118.5 -40 87.4017 120 -40 87.5 120 -40 90.5 118.5 -40 90.5
 4 16 121.5 -40 90.5 120 -40 90.5 120 -40 87.5 121.5 -40 87.4017
