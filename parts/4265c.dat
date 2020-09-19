@@ -1,42 +1,13 @@
-0 Technic Bush 1/2 Smooth
+0 ~Moved to 32123
 0 Name: 4265c.dat
-0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Shortcut UPDATE 2004-04
+0 Author: [PTadmin]
+0 !LDRAW_ORG Part UPDATE 2009-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS small pulley, half-bushing, ring, round
 
-0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
-0 !HISTORY 2004-05-10 [guyvivan] Made BFC compliant, replace center by axleho11.dat
-0 !HISTORY 2004-06-20 [guyvivan] Use Torus primitive
-0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
-0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
-1 16 0 0 -5 1 0 0 0 0 1 0 10 0 axleho11.dat
-1 16 0 0 -5 9 0 0 0 0 9 0 1 0 4-4edge.dat
-1 16 0 0 -2.5 9 0 0 0 0 9 0 1 0 4-4edge.dat
-1 16 0 0 2.5 9 0 0 0 0 9 0 1 0 4-4edge.dat
-1 16 0 0 5 9 0 0 0 0 9 0 1 0 4-4edge.dat
-1 16 0 0 -5 9 0 0 0 0 9 0 2.5 0 4-4cyli.dat
-1 16 0 0 2.5 9 0 0 0 0 9 0 2.5 0 4-4cyli.dat
-1 16 0 0 -5 3 0 0 0 0 3 0 1 0 ring2.dat
-1 16 0 0 5 3 0 0 0 0 3 0 -1 0 ring2.dat
-0 BFC INVERTNEXT
-1 16 0 0 0 9 0 0 0 0 -9 0 10 0 t04i2500.dat
-0 BFC INVERTNEXT
-1 16 0 0 0 0 0 -9 -9 0 0 0 10 0 t04i2500.dat
-0 BFC INVERTNEXT
-1 16 0 0 0 -9 0 0 0 0 9 0 10 0 t04i2500.dat
-0 BFC INVERTNEXT
-1 16 0 0 0 0 0 9 9 0 0 0 10 0 t04i2500.dat
-0 BFC INVERTNEXT
-1 16 0 0 0 -9 0 0 0 0 -9 0 -10 0 t04i2500.dat
-0 BFC INVERTNEXT
-1 16 0 0 0 0 0 9 -9 0 0 0 -10 0 t04i2500.dat
-0 BFC INVERTNEXT
-1 16 0 0 0 9 0 0 0 0 9 0 -10 0 t04i2500.dat
-0 BFC INVERTNEXT
-1 16 0 0 0 0 0 -9 9 0 0 0 -10 0 t04i2500.dat
-0
+0 // Technic Bush 1/2 Smooth
+
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 32123.dat

@@ -1,16 +1,19 @@
-0 Brick  1 x  6 without Center Studs with "POLICE" Pattern
+0 Brick  1 x  6 without Centre Studs with "POLICE" Pattern
 0 Name: 3067p12.dat
 0 Author: Niels Karsdorp [nielsk]
-0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LDRAW_ORG Part UPDATE 2009-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
 0 !CMDLINE -c33
 
 0 !HISTORY 2004-09-24 [Steffen] used s\3067s01.dat, added default color 33
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [PTadmin] Resubmit to correct description spelling (2005-12-29)
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3067s01.dat
 

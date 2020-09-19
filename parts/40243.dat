@@ -1,0 +1,62 @@
+0 Staircase Spiral Riser (Needs work)
+0 Name: 40243.dat
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Part UPDATE 2009-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
+
+0 !KEYWORDS Castle, Harry Potter, Step
+
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
+0 // Work needed:
+0 // central column needs grooves simulating stonework
+0 // needs tabs on the top of central column and tab stops on the underside
+0 // inner edge of the outside curve of the step should be curved, not straight
+
+1 16 0 0 0 20 0 0 0 16 0 0 0 20 4-4cyli.dat
+1 16 0 0 0 17 0 0 0 4 0 0 0 17 4-4cyli.dat
+1 16 0 8 0 17 0 0 0 8 0 0 0 17 4-4cyli.dat
+1 16 0 8 0 13 0 0 0 8 0 0 0 13 4-4cyli.dat
+1 16 0 4 0 10 0 0 0 12 0 0 0 10 4-4cyli.dat
+1 16 0 16 0 2 0 0 0 1 0 0 0 2 4-4ring5.dat
+1 16 0 16 0 1 0 0 0 1 0 0 0 1 4-4rin12.dat
+1 16 0 16 0 2.125 0 0 0 1 0 0 0 2.125 4-4ring8.dat
+1 16 0 16 0 2 0 0 0 1 0 0 0 2 4-4ring9.dat
+1 16 0 0 0 0 0 -20 0 1 0 20 0 0 3-4edge.dat
+1 16 0 0 0 17 0 0 0 1 0 0 0 17 4-4edge.dat
+1 16 0 4 0 17 0 0 0 1 0 0 0 17 4-4edge.dat
+1 16 0 4 0 10 0 0 0 1 0 0 0 10 4-4edge.dat
+1 16 0 16 0 0 0 -20 0 1 0 20 0 0 3-4edge.dat
+1 16 0 0 0 0 0 20 0 1 0 20 0 0 1-8edge.dat
+1 16 0 16 0 0 0 20 0 1 0 20 0 0 1-8edge.dat
+1 16 0 16 0 17 0 0 0 1 0 0 0 17 4-4edge.dat
+1 16 0 8 0 17 0 0 0 1 0 0 0 17 4-4edge.dat
+1 16 0 16 0 13 0 0 0 1 0 0 0 13 4-4edge.dat
+1 16 0 8 0 13 0 0 0 1 0 0 0 13 4-4edge.dat
+1 16 0 16 0 10 0 0 0 1 0 0 0 10 4-4edge.dat
+1 16 0 0 0 100 0 0 0 16 0 0 0 100 48\1-12cyli.dat
+1 16 0 0 0 100 0 0 0 1 0 0 0 100 48\1-12chrd.dat
+1 16 0 16 0 100 0 0 0 1 0 0 0 100 48\1-12chrd.dat
+1 16 0 0 0 100 0 0 0 1 0 0 0 100 48\1-12edge.dat
+1 16 0 16 0 100 0 0 0 1 0 0 0 100 48\1-12edge.dat
+1 16 0 4 0 5 0 0 0 1 0 0 0 5 ring2.dat
+1 16 0 4 0 4.25 0 0 0 1 0 0 0 4.25 ring3.dat
+1 16 0 0 0 2.125 0 0 0 1 0 0 0 2.125 4-4ring8.dat
+1 16 0 0 0 2 0 0 0 1 0 0 0 2 4-4ring9.dat
+4 16 17.3205 0 10 20 0 0 100 0 0 86.6025 0 50
+1 16 51.962 8 30.001 34.641 -0.5 0 0 0 -8 20 0.866025 0 rect.dat
+1 16 60 8 0 40 0 0 0 0 -8 0 1 0 rect.dat
+1 16 58.5 10 3 38.5 0 0 0 0 -6 0 1 0 rect.dat
+1 16 52.163 10 26.652 33.342 -0.5 0 0 0 -6 19.25 0.866025 0 rect.dat
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 4-4rin13.dat
+1 16 0 8 0 3.4 0 0 0 1 0 0 0 3.4 ring4.dat
+4 16 20 16 0 100 16 0 97 16 3 20 16 3
+4 16 17.3205 16 10 86.6025 16 50 85.5045 16 45.9019 18.8205 16 7.40192
+4 16 20 4 3 97 4 3 85.5045 4 45.9019 18.8205 4 7.40192
+4 16 100 16 0 86.6 16 50 85.5045 16 45.9019 97 16 3
+2 24 85.5045 16 45.9019 97 16 3
+2 24 85.5045 4 45.9019 97 4 3
+4 16 97 4 3 85.5045 4 45.9019 85.5045 16 45.9019 97 16 3
+0

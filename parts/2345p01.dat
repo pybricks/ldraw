@@ -1,7 +1,7 @@
 0 Panel Wall  3 x  3 x  6 Corner with Lines Pattern
 0 Name: 2345p01.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LDRAW_ORG Part UPDATE 2009-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -12,8 +12,12 @@
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [cwdee] Insert edge lines removed from subpart (2005-08-22)
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2345s01.dat
+2 24 30 24 10 30 120 10
+2 24 -10 24 -30 -10 120 -30
 2 8 30 144 10 24.2418 144 4.2424
 2 8 24.2418 144 4.2424 24.2418 140 4.2424
 2 8 24.2418 140 4.2424 15.7566 140 -4.2428

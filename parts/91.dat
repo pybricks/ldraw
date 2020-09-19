@@ -1,19 +1,12 @@
-0 Technic Universal Joint Centre
+0 ~Moved to 3326
 0 Name: 91.dat
-0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 1998-06
+0 Author: [PTadmin]
+0 !LDRAW_ORG Part UPDATE 2009-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
-0 !HISTORY 2007-07-25 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 BFC CERTIFY CCW
 
- 1 16 0 0 4 6 0 0 0 0 6 0 0 0 4-4edge.dat
- 1 16 0 0 -4 6 0 0 0 0 6 0 0 0 4-4edge.dat
- 1 16 0 0 4 6 0 0 0 0 6 0 0 0 4-4disc.dat
- 1 16 0 0 -4 6 0 0 0 0 6 0 0 0 4-4disc.dat
- 1 16 0 0 -4 6 0 0 0 0 6 0 8 0 4-4cyli.dat
- 1 16 0 -6 0 0.5 0 0 0 0.7 0 0 0 0.5 stud3.dat
- 1 16 0 6 0 0.5 0 0 0 -0.7 0 0 0 0.5 stud3.dat
- 1 16 6 0 0 0 -0.7 0 0.5 0 0 0 0 0.5 stud3.dat
- 1 16 -6 0 0 0 0.7 0 0.5 0 0 0 0 0.5 stud3.dat
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
+0 // Technic Universal Joint Centre
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3326.dat

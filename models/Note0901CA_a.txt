@@ -1,0 +1,24 @@
+LDraw.org Parts Update 2009-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Alias Parts Library
+---------------------------------------------------------------------------
+
+Notes created Sat May  2 14:20:15 2009 by the Parts Tracker.
+
+Release statistics:
+   Total files: 6
+   New files: 6
+   New parts: 6
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   No parts were moved.
+
+Renamed Parts
+   No parts were renamed.
+
+Other Fixed Parts
+   No other parts were fixed.

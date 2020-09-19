@@ -1,0 +1,274 @@
+LDraw.org Parts Update 2009-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Sat May  2 14:20:15 2009 by the Parts Tracker.
+
+Release statistics:
+   Total files: 671
+   New files: 489
+   New parts: 307
+   New subparts: 70
+   New primitives: 77
+   New hi-res primitives: 35
+
+New 3-digit part numbers assigned:
+   172.dat ~Technic Gearbox  4.5V Output Shaft
+   173.dat ~Technic Gearbox  4.5V Input Shaft
+   250.dat Duplo Brick  2 x  6 x  2 Double Concave
+   273.dat Technic Chain Link with Two Studs 
+   400.dat Baseplate 14 x 14 with Rounded Corners
+   503.dat Wheelbarrow with 1 Wheel
+   569.dat Technic Gear  9 Large Tooth
+   570.dat Technic Gear 15 Large Tooth
+   572.dat Technic Gear 21 Large Tooth
+   575.dat Technic Universal Joint End Old
+   576.dat Technic Universal Joint Centre Old
+   585.dat Technic Bush Old Type 2
+   844.dat ~Window  1 x  1 x  1 Classic Glass
+   845.dat ~Window  1 x  1 x  2 Classic Glass
+   846.dat ~Window  1 x  2 x  1 Classic Glass
+   848.dat ~Window  1 x  3 x  2 Classic Glass
+   849.dat ~Window  1 x  4 x  2 Classic Glass
+   853.dat ~Window  1 x  6 x  2 Classic Glass 
+   854.dat ~Window  1 x  6 x  2 Classic Shuttered Glass
+   896.dat Baseplate 14 x 20 with Rounded Corners
+
+Moved Parts
+   RING1.DAT     ~Moved to 4-4ring1
+   RING2.DAT     ~Moved to 4-4ring2
+   RING3.DAT     ~Moved to 4-4ring3
+   RING4.DAT     ~Moved to 4-4ring4
+   RING7.DAT     ~Moved to 4-4ring7
+   105.DAT       ~Moved to 30322
+   120.DAT       ~Moved to 40490
+   13.DAT        ~Moved to 3081cc01
+   152.DAT       ~Moved to 32271
+   153.DAT       ~Moved to 32526
+   169.DAT       ~Moved to 41677
+   27.DAT        ~Moved to 27c
+   2739.DAT      ~Moved to 2739a
+   29.DAT        ~Moved to 29c
+   29C01.DAT     ~Moved to 29cc01
+   31.DAT        ~Moved to 31cc01
+   34A.DAT       ~Moved to 3109
+   34B.DAT       ~Moved to 3110
+   34C.DAT       ~Moved to 3112
+   34D.DAT       ~Moved to 3111
+   378.DAT       ~Moved to 40379
+   3829.DAT      ~Moved to 3829c01
+   3829B.DAT     ~Moved to 3828
+   39.DAT        ~Moved to 3087c
+   39C01.DAT     ~Moved to 3087cc01
+   4093.DAT      ~Moved to 4093a
+   4265C.DAT     ~Moved to 32123
+   4275.DAT      ~Moved to 4275b
+   4276.DAT      ~Moved to 4276b
+   43.DAT        ~Moved to 2525
+   43PS1.DAT     ~Moved to 2525ps1
+   453.DAT       ~Moved to 453cc01
+   464.DAT       ~Moved to 42022
+   471.DAT       ~Moved to 30127
+   471P01.DAT    ~Moved to 30127p01
+   472.DAT       ~Moved to 30126
+   472P01.DAT    ~Moved to 30126p01
+   6093.DAT      ~Moved to 4530
+   645.DAT       ~Moved to 645cc01
+   646.DAT       ~Moved to 646cc01
+   7.DAT         ~Moved to 3139
+   7026.DAT      ~Moved to 3081cc01
+   73090.DAT     ~Moved to 73090a
+   774.DAT       ~Moved to 3835
+   90.DAT        ~Moved to 3712
+   91.DAT        ~Moved to 3326
+   3044S01.DAT   ~Moved to s\3044bs01
+   43PS1A.DAT    ~Moved to 2525ps1a
+   43S01.DAT     ~Moved to s\2525s01
+   471P01A.DAT   ~Moved to s\30126a01
+   471S01.DAT    ~Moved to s\30126s01
+   MAGNET.DAT    ~Moved to s\735s01
+
+Renamed Parts
+   CONNECT5.DAT  
+   changed to    Technic Pin 1.0 with Base Collar and Slots
+
+   263.DAT       Train Steam Cylinder  2 x  2 x  1 & 2/3
+   changed to    Train Steam Cylinder  2 x  2 x  1 & 2/3 Sloped
+
+   2951.DAT      Technic Bucket 10 x  8
+   changed to    Technic Excavator Bucket 10 x  8
+
+   30029.DAT     Car Base 10 x  4 x  2/3
+   changed to    Car Base 10 x  4 x  2/3 with 4 x 2 Centre Well
+
+   3004P50.DAT   Brick  1 x  2 with Lego-Logo Old
+   changed to    Brick  1 x  2 with LEGO Logo with Open "O" Pattern
+
+   3009P03.DAT   Brick  1 x  6 with Lego Text
+   changed to    Brick  1 x  6 with White "LEGO" Pattern
+
+   3009P21.DAT   Brick  1 x  6 with Light Blue Squares Pattern
+   changed to    Brick  1 x  6 with 24 Light Blue Squares Pattern
+
+   30390.DAT     Slope Brick 45  2 x  4 Double Inverted with Pins
+   changed to    Slope Brick 45  4 x  2 Double Inverted with Pins
+
+   30400.DAT     Brick  4 x  18
+   changed to    Brick  4 x 18
+
+   3067P11.DAT   Brick  1 x  6 without Center Studs with "TAXI" Pattern
+   changed to    Brick  1 x  6 w/out Centre Studs w/ White Sans-serif "TAXI" Pat.
+
+   3067P12.DAT   Brick  1 x  6 without Center Studs with "POLICE" Pattern
+   changed to    Brick  1 x  6 without Centre Studs with "POLICE" Pattern
+
+   32002.DAT     Technic Pin 3/4
+   changed to    Technic Pin  3/4
+
+   32009.DAT     Technic Liftarm  1 x 11.5 Double Bent
+   changed to    Technic Beam  3 x  3.8 x  7 Liftarm Bent 45 Double
+
+   32017.DAT     Technic Liftarm  1 x  5
+   changed to    Technic Beam  5 x  0.5
+
+   32056.DAT     Technic Liftarm  3 x  3 L Shape
+   changed to    Technic Beam  3 x  3 x  0.5 Liftarm Bent 90
+
+   32063.DAT     Technic Liftarm  1 x  6
+   changed to    Technic Beam  6 x  0.5
+
+   32065.DAT     Technic Liftarm  1 x  7
+   changed to    Technic Beam  7 x  0.5
+
+   32249.DAT     Technic Liftarm  3 x  3 L Shape with Quarter Circle
+   changed to    Technic Beam  3 x  3 x  0.5 Liftarm Bent 90 Quarter Circle
+
+   32250.DAT     Technic Liftarm  3 x  5 L Shape with Quarter Oval
+   changed to    Technic Beam  3 x  5 x  0.5 Liftarm Bent 90 Quarter Ellipse
+
+   32278.DAT     Technic Liftarm  1 x 15 Straight
+   changed to    Technic Beam 15
+
+   32348.DAT     Technic Liftarm  1 x  7 Bent
+   changed to    Technic Beam  4 x  4 Liftarm Bent 53.5
+
+   4859.DAT      Wing  3 x  4 with  1 x  2 Cutout
+   changed to    Wing  3 x  4 with  1 x  2 Cutout without Stud Notches
+
+   6558.DAT      Technic Pin Long with Friction
+   changed to    Technic Pin Long with Friction and Slot
+
+   6629.DAT      Technic Liftarm  1 x  9 Bent
+   changed to    Technic Beam  4 x  6 Liftarm Bent 53.5
+
+   9244.DAT      Technic Universal Joint (Complete Assembly Shortcut)
+   changed to    _Technic Universal Joint (Complete Assembly Shortcut) Light Grey
+
+Other Fixed Parts
+   1-4CYLI.DAT   Hi-Res Cylinder 0.25
+   CLIP3.DAT     Clip 3
+   210.DAT       Baseplate 16 x 22
+   2335.DAT      Flag  2 x  2
+   2335P01.DAT   Flag  2 x  2 with Diver Pattern
+   2335P02.DAT   Flag  2 x  2 with Diver Stripe Pattern
+   2335P03.DAT   Flag  2 x  2 with Chequered Pattern
+   2335P04.DAT   Flag  2 x  2 with Blue Imperial Guard Pattern
+   2335P44.DAT   Flag  2 x  2 with Wolfman Pattern
+   2339.DAT      Arch  1 x  5 x  4
+   2340.DAT      Tail  4 x  1 x  3
+   2345.DAT      Panel Wall  3 x  3 x  6 Corner
+   2345P01.DAT   Panel Wall  3 x  3 x  6 Corner with Lines Pattern
+   2345P44.DAT   Panel Wall  3 x  3 x  6 Corner with Blacktron I Logo Pattern
+   2349.DAT      Hinge Car Roof  4 x  4 Sunroof
+   2360P02.DAT   Baseplate 32 x 32 Road 7-Stud T Intersection w/ Runway Pattern
+   2375.DAT      Hinge Bar 12 with Split Rod Holder
+   2401.DAT      Plate 10 x 10 without Corner
+   2409.DAT      Panel 10 x 10 x 12 Corner
+   2422.DAT      Bracket  2 x  2 -  1 x  4
+   2432.DAT      Tile  1 x  2 with Handle
+   2439.DAT      Container  2 x  2 Rubbish Bin 
+   2447.DAT      Minifig Helmet Visor
+   2448.DAT      Panel  3 x  2 x  5 & 2/3
+   2453.DAT      Brick  1 x  1 x  5
+   2454PS5.DAT   Brick  1 x  2 x  5 with SW Han Solo Carbonite Pattern
+   2462.DAT      Brick  3 x  3 Facet
+   2463.DAT      Brick  3 x  3 x  2 Facet Top
+   2466.DAT      Panel  3 x  2 x  6
+   2468.DAT      Panel  3 x  3 x  6 Corner Convex
+   2563.DAT      Plant Tree Palm Base
+   2566.DAT      Plant Tree Palm Top
+   2578.DAT      Brush Holder Street Sweeper
+   2655.DAT      Plate  2 x  2 Round with Wheel Holder
+   2989.DAT      Technic Brick  1 x  4 with Holes and Bumper Holder
+   3001PE1.DAT   Brick  2 x  4 with Happy and Sad Face Pattern
+   3010P21.DAT   Brick  1 x  4 with Light Blue Squares Pattern
+   3010P42.DAT   Brick  1 x  4 with Yellow Left Arrow and Black Border Pattern
+   30137.DAT     Brick  1 x  4 Log
+   30147.DAT     Car Grille  1 x  2 x  2 Round Top with Lights
+   30149.DAT     Car Base  4 x  5 with 2 Seats
+   30236.DAT     Brick  1 x  2 with Handle
+   30237.DAT     Brick  1 x  2 with Clip Vertical
+   30250.DAT     Bracket  4 x  7 x  3
+   30359B.DAT    Bar  1 x  8 with Brick  1  x  2 Curved Top End With Axlehole
+   30360.DAT     Cylinder  3 x  6 x  2 2/3 Horizontal
+   3037.DAT      Slope Brick 45  2 x  4
+   30389A.DAT    Hinge Brick  2 x  2 Locking with Single Finger On Side
+   30592.DAT     Brick  2 x  2 with Vertical Pin and  1 x  2 Side Plates
+   3069BP06.DAT  Tile  1 x  2 with Long Yellow Arrow with Black Border Pattern
+   309.DAT       Baseplate 32 x 32 Service Station
+   309P01.DAT    Baseplate 32 x 32 Service Station with Pattern
+   3194.DAT      Door  1 x  5 x  4 Right
+   32028.DAT     Plate  1 x  2 with Door Rail
+   32172.DAT     Technic Connector Block  3 x  3 with Ball Socket
+   3626BPA8.DAT  Minifig Head with Evil Skeleton Skull Pattern
+   3633.DAT      Fence  1 x  4 x  1
+   3651.DAT      Technic Connector
+   3713.DAT      Technic Bush
+   374P01.DAT    Baseplate 16 x 32 with Rounded Corners and Set 350 Dots Pattern
+   3787.DAT      Car Mudguard  2 x  4 without Studs
+   3788.DAT      Car Mudguard  2 x  4
+   3811P01.DAT   Baseplate 32 x 32 with Set 7838 Dots Pattern
+   3829A.DAT     ~Car Steering Wheel Stand
+   3830.DAT      Hinge Brick  1 x  4 Top
+   3831.DAT      Hinge Brick  1 x  4 Base
+   3857.DAT      Baseplate 16 x 32 with Square Corners
+   3941P01.DAT   Brick  2 x  2 Round with Buttons Pattern
+   3958.DAT      Plate  6 x  6
+   4088.DAT      Brick  1 x  4 x  2 with Centre Stud Top
+   4151.DAT      Plate  8 x  8 with Grille
+   4185.DAT      Technic Wedge Belt Wheel
+   4211.DAT      Car Base  4 x  5
+   4216.DAT      Brick  1 x  2 with Groove
+   4217.DAT      Brick  1 x 14 with Groove
+   4289.DAT      Boat Mast  2 x  2
+   44342P01.DAT  Baseplate 32 x 32 Road 6-Stud Curve with Pattern
+   4532.DAT      Container Cupboard  2 x  3 x  2
+   4534.DAT      Container Cupboard  2 x  3 x  4
+   4536.DAT      Container Cupboard  2 x  3 x  2 Drawer
+   4625.DAT      Hinge Tile  1 x  4 
+   4732.DAT      Bracket  8 x  2 x  1 & 1/3
+   4743.DAT      Arch  2 x  8 x  3
+   6020.DAT      Bar  7 x  3 with Double Clips
+   6079.DAT      Fence  1 x  8 x  2
+   6087.DAT      Bracket  5 x  2 x  2 & 1/3
+   6106.DAT      Plate  6 x  6 without Corner
+   6108.DAT      Arch  1 x 12 x  3
+   6183.DAT      Arch  1 x  6 x  2 with Curved Top
+   6187.DAT      Bar  1 x  4 x  2
+   6259.DAT      Cylinder  2 x  4 x  4 
+   647.DAT       Roadsign Square
+   6575.DAT      Technic Cam
+   6630.DAT      Technic Gear Rack  1 x  8 with Holes
+   735.DAT       Magnet Holder for Train Base  6 x 16 Type 1
+   780.DAT       Car Base  6 x  7
+   781.DAT       Car Base  6 x 12
+   973.DAT       Minifig Torso
+   2335S01.DAT   ~Flag  2 x  2 without Main Faces
+   2345S01.DAT   ~Panel Wall  3 x  3 x  6 Corner without Front Faces
+   2454PS5A.DAT  ~Brick  1 x  2 x  5 with Han Solo Carbon - Silver
+   2454PS5B.DAT  ~Brick  1 x  2 x  5 with Han Solo Carbon - Dark Silver
+   2454S01.DAT   ~Brick  1 x  2 x  5 without Front Face
+   3846P44A.DAT  ~Wolfpack Pattern - Wolf Head
+   3846P44B.DAT  ~Wolfpack Pattern - Background

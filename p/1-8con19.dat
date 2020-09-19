@@ -1,0 +1,21 @@
+0 Cone 19 x 0.125
+0 Name: 1-8con19.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Primitive UPDATE 2009-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
+4 16 19 1 0 20 0 0 18.478 0 7.654 17.5541 1 7.2713
+4 16 17.5541 1 7.2713 18.478 0 7.654 14.142 0 14.142 13.4349 1 13.4349
+
+0 conditional lines
+5 24 19 1 0 20 0 0 17.5541 1 -7.2713 17.5541 1 7.2713
+5 24 17.5541 1 7.2713 18.478 0 7.654 19 1 0 13.4349 1 13.4349
+5 24 13.4349 1 13.4349 14.142 0 14.142 17.5541 1 7.2713 7.2713 1 17.5541
+
+0 end of file 
+
+

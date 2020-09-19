@@ -1,7 +1,7 @@
 0 Baseplate 32 x 32 Service Station with Pattern
 0 Name: 309p01.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 1999-05
+0 !LDRAW_ORG Part UPDATE 2009-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !KEYWORDS roadplate, gas station, island, driveway, two lane
@@ -9,6 +9,8 @@
 0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
 0 !HISTORY 2007-10-12 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [cwdee] Modify description to align with patterned versions (2005-12-29)
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
 2 10 320 0 -133 310 0 -133
 2 10 310 0 -133 301.5 0 -135.277

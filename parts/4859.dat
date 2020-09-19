@@ -1,7 +1,7 @@
-0 Wing  3 x  4 with  1 x  2 Cutout
+0 Wing  3 x  4 with  1 x  2 Cutout without Stud Notches
 0 Name: 4859.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LDRAW_ORG Part UPDATE 2009-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,6 +11,8 @@
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [cwdee] Further qualify description, replaced four stud.dat with stug2.dat and rotated (2005-12-29)
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
 1 16 0 4 0 -1 0 0 0 -1 0 0 0 1 stud4.dat
 
@@ -208,8 +210,7 @@
 4 16 20 8 -20 20 0 -20 -20 0 -20 -20 8 -20
 4 16 40 8 40 40 0 40 20 0 -20 20 8 -20
 
- 1 16 10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
- 1 16 -10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
- 1 16 10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
- 1 16 -10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 stug2.dat
+
+
 0

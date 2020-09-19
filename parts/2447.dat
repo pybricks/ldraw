@@ -1,7 +1,7 @@
 0 Minifig Helmet Visor
 0 Name: 2447.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LDRAW_ORG Part UPDATE 2009-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -14,6 +14,8 @@
 0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
 0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [DeanEarley] Removed erroneous BFC Certifies (2005-11-13)
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
 1 16 -15 6.5 0 0 -1 0 -4 0 0 0 0 4 1-4disc.dat
 1 16 -15 6.5 0 0 -1 0 0 0 4 4 0 0 1-8disc.dat

@@ -1,7 +1,7 @@
 0 Tile  1 x  2 with Long Yellow Arrow with Black Border Pattern
 0 Name: 3069bp06.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LDRAW_ORG Part UPDATE 2009-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,23 +12,12 @@
 0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
 0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [WilliamH] Sub-parted
+0 !HISTORY 2008-12-16 [anathema] Reinstated missing subpart
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069p06a.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\3069p06b.dat
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 s\3069p06c.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
-4 0 16 0 0 18.539 0 0 3 0 7.515 4 0 6
-4 0 4 0 6 3 0 7.515 3 0 2 4 0 2
-4 0 3 0 2 3 0 3 -15 0 3 -14 0 2
-4 0 -14 0 2 -15 0 3 -15 0 -3 -14 0 -2
-4 0 16 0 0 4 0 -6 3 0 -7.515 18.539 0 0
-4 0 4 0 -6 4 0 -2 3 0 -2 3 0 -7.515
-4 0 3 0 -2 -14 0 -2 -15 0 -3 3 0 -3
-3 14 4 0 -6 16 0 0 4 0 6
-4 14 4 0 2 -14 0 2 -14 0 -2 4 0 -2
-3 16 20 0 10 18.539 0 0 20 0 -10
-3 16 20 0 -10 18.539 0 0 3 0 -7.515
-3 16 20 0 -10 3 0 -7.515 -20 0 -10
-4 16 -20 0 -10 3 0 -7.515 3 0 -3 -15 0 -3
-4 16 -15 0 3 -20 0 10 -20 0 -10 -15 0 -3
-3 16 20 0 10 3 0 7.515 18.539 0 0
-3 16 -20 0 10 3 0 7.515 20 0 10
-4 16 -20 0 10 -15 0 3 3 0 3 3 0 7.515
 0

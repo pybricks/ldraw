@@ -1,23 +1,15 @@
-0 ~Magnet Holder Old
+0 ~Moved to s\735s01
 0 Name: s\magnet.dat
-0 Author: Tore Eriksson [simlego]
-0 !LDRAW_ORG Subpart UPDATE 1999-06
+0 Author: [PTadmin]
+0 !LDRAW_ORG Subpart UPDATE 2009-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
-0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 BFC CERTIFY CCW
 
-1 8 4 0 0 0 18 0 12 0 0 0 0 12 4-4cyli.dat
-1 8 22 0 0 0 0 0 12 0 0 0 0 12 4-4edge.dat
-1 8 22 0 0 0 18 0 12 0 0 0 0 12 4-4disc.dat
-1 16 20 0 0 0 0 0 12 0 0 0 0 12 4-4edge.dat
-1 16 0 0 0 0 0 0 14 0 0 0 0 14 4-4edge.dat
-1 16 20 0 0 0 0 0 14 0 0 0 0 14 4-4edge.dat
-1 16 20 0 0 0 0 0 14 0 0 0 0 14 4-4disc.dat
-0  line above should be:
-0  1 16  20 0 0  0 0 0  2 0 0  0 0 2 ring6.dat
-0  problem is we have no ring6 primitive
-1 16 0 0 0 0 0 0 14 0 0 0 0 14 4-4disc.dat
-1 16 0 0 0 0 20 0 14 0 0 0 0 14 4-4cyli.dat
-0
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
+0 // ~Magnet Holder Old
+
+
+
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\735s01.dat

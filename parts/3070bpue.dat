@@ -1,0 +1,25 @@
+0 Tile  1 x  1 with Silver "U Diaeresis" Pattern
+0 Name: 3070bpue.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2009-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
+1 383 0 0 0 1 0 0 0 1 0 0 0 1 s\3070baue.dat
+
+1 16 0 0 -2.4 -5.4 0 0 0 1 0 0 0 -5.1 2-4ndis.dat
+1 16 0 0 -2.4 -3.6 0 0 0 1 0 0 0 -3.4 2-4disc.dat
+4 16 -5.4 0 -7.5 -10 0 -10 -10 0 10 -5.4 0 5.25
+4 16 -5.4 0 5.25 -2 0 6 2 0 6 5.4 0 5.25
+4 16 5.4 0 5.25 10 0 10 10 0 -10 5.4 0 -7.5
+4 16 5.4 0 -7.5 10 0 -10 -10 0 -10 -5.4 0 -7.5
+4 16 -3.6 0 -2.4 -3.6 0 5.25 3.6 0 5.25 3.6 0 -2.4
+4 16 10 0 10 5.4 0 5.25 2 0 6 2 0 7.5
+4 16 -2 0 6 -5.4 0 5.25 -10 0 10 -2 0 7.5
+4 16 0.5 0 6 -0.5 0 6 -0.5 0 7.5 0.5 0 7.5
+4 16 10 0 10 2 0 7.5 -2 0 7.5 -10 0 10 
+0
