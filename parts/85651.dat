@@ -1,17 +1,20 @@
 0 Sail Triangular 17 x 21
 0 Name: 85651.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2019-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Canvas
+0 !CATEGORY Sheet Fabric
 0 !KEYWORDS Black Pearl, set 4184
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2019-01-25 [cwdee] Update category
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 0 // Bottom Surface
+
 4 16 -152.9 0 208.2 -147.6 0 206.7 -152.41 0 195.25 -155 0 195.76
 4 16 -159.6 0 207.7 -152.9 0 208.2 -155 0 195.76 -157.59 0 195.25
 4 16 -165.7 0 204.7 -159.6 0 207.7 -157.59 0 195.25 -159.78 0 193.78

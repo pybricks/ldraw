@@ -1,0 +1,32 @@
+LDraw.org Parts Update 2019-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Physical Colour Parts Library
+---------------------------------------------------------------------------
+
+Notes created Fri Jun 28 07:45:13 2019 by the Parts Tracker.
+
+Release statistics:
+   Total files: 4
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   No parts were moved.
+
+Renamed Parts
+   4109600.DAT                _Baseplate 32 x 32 Road 8-Stud T Intersection with Pattern
+   changed to    ~_Baseplate 32 x 32 Road 8-Stud T Intersection with Pattern (Obsolete)
+
+   4109601.DAT                _Baseplate 32 x 32 Road 8-Stud Curve with Pattern
+   changed to    ~_Baseplate 32 x 32 Road 8-Stud Curve with Pattern (Obsolete)
+
+   4109602.DAT                _Baseplate 32 x 32 Road 8-Stud Straight with Pattern
+   changed to    ~_Baseplate 32 x 32 Road 8-Stud Straight with Pattern (Obsolete)
+
+   4109603.DAT                _Baseplate 32 x 32 Road 8-Stud Crossroads with Pattern
+   changed to    ~_Baseplate 32 x 32 Road 8-Stud Crossroads with Pattern (Obsolete)
+
+Other Fixed Parts
+   No other parts were fixed.

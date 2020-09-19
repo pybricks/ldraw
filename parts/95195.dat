@@ -1,14 +1,17 @@
 0 Canvas Triangular 22 x 18 Carousel Roof
 0 Name: 95195.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2016-01
+0 !LDRAW_ORG Part UPDATE 2019-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Sheet Fabric
 0 !KEYWORDS Set 10196
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+0 !HISTORY 2019-01-25 [cwdee] Update category
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 4 16 172.2 0 -23 152.5 0 -8 155.3 0 -6.1 179.3 0 -12.5
 4 16 141.2 0 3.3 140.5 0 0 -140.5 0 0 -141.2 0 3.3

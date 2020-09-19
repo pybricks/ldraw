@@ -1,14 +1,17 @@
 0 Baseplate 60 x 68 Cardboard with Wild West Scene Pattern
 0 Name: u572p01.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2016-01
+0 !LDRAW_ORG Part UPDATE 2019-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Sheet Cardboard
 0 !KEYWORDS Set 365, Western, Cowboy
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+0 !HISTORY 2019-01-25 [cwdee] Update category
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 3 2 32.6 0 -607.3 0 0 -610 36.37 0 -610
 3 2 30.4 0 -602.5 0 0 -610 32.6 0 -607.3

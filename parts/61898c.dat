@@ -1,14 +1,17 @@
 0 Sheet Plastic 18 x 66 Propellor
 0 Name: 61898c.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LDRAW_ORG Part UPDATE 2019-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Sheet Plastic
 0 !KEYWORDS Duplo, Dacta, Early Simple Machines
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+0 !HISTORY 2019-01-25 [cwdee] Set new category
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61898s01.dat
 1 16 0 0 80 1 0 0 0 1 0 0 0 1 s\61898s01.dat

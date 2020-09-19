@@ -1,0 +1,22 @@
+0 Tile  1 x  1 Round with Metallic Gold Speaker Grille Pattern
+0 Name: 98138p88.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 98138pb064
+
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s01.dat
+1 16 0 0 0 9 0 0 0 1 0 0 0 9 4-4ering.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138p88s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\98138p88s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\98138p88s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\98138p88s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\98138p88s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\98138p88s01.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\98138p88s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\98138p88s01.dat

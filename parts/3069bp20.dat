@@ -1,0 +1,27 @@
+0 Tile  1 x  2 with  2 Black Squares Pattern
+0 Name: 3069bp20.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 21307, Cuusoo, Ideas, Caterham, Bricklink 3069pbb522, Car 
+0 !CMDLINE c-14
+
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
+0 // Main
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
+4 16 20 0 10 19.5 0 9.5 19.5 0 -9.5 20 0 -10
+4 16 2 0 9.5 19.5 0 9.5 20 0 10 0 0 10
+4 16 2 0 9.5 0 0 10 0 0 -10 2 0 -9.5
+4 16 0 0 -10 20 0 -10 19.5 0 -9.5 2 0 -9.5
+4 16 -20 0 -10 -19.5 0 -9.5 -19.5 0 9.5 -20 0 10
+4 16 -2 0 -9.5 -19.5 0 -9.5 -20 0 -10 0 0 -10
+4 16 -2 0 -9.5 0 0 -10 0 0 10 -2 0 9.5
+4 16 0 0 10 -20 0 10 -19.5 0 9.5 -2 0 9.5
+
+0 // Black
+4 0 2 0 -9.5 19.5 0 -9.5 19.5 0 9.5 2 0 9.5
+4 0 -2 0 9.5 -19.5 0 9.5 -19.5 0 -9.5 -2 0 -9.5

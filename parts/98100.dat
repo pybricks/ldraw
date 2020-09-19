@@ -1,12 +1,14 @@
-0 Brick  2 x  2 Round Sloped
+0 Cone  2 x  2 Truncated
 0 Name: 98100.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2015-02
+0 !LDRAW_ORG Part UPDATE 2019-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+0 !HISTORY 2019-05-06 [cwdee] Update description
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98100s01.dat
 0 // outside surface

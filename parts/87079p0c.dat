@@ -1,0 +1,27 @@
+0 Tile  2 x  4 with  2 Black Stripes Pattern
+0 Name: 87079p0c.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 21307, Cuusoo, Ideas, Caterham, Bricklink 87079pb341, Car 
+0 !CMDLINE c-14
+
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
+0 // Main
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
+4 16 -40 0 20 -39.5 0 19.5 39.5 0 19.5 40 0 20
+4 16 -39.5 0 2 -39.5 0 19.5 -40 0 20 -40 0 0
+4 16 -39.5 0 2 -40 0 0 40 0 0 39.5 0 2
+4 16 40 0 0 40 0 20 39.5 0 19.5 39.5 0 2
+4 16 40 0 -20 39.5 0 -19.5 -39.5 0 -19.5 -40 0 -20
+4 16 39.5 0 -2 39.5 0 -19.5 40 0 -20 40 0 0
+4 16 39.5 0 -2 40 0 0 -40 0 0 -39.5 0 -2
+4 16 -40 0 0 -40 0 -20 -39.5 0 -19.5 -39.5 0 -2
+
+0 // Black
+4 0 39.5 0 2 39.5 0 19.5 -39.5 0 19.5 -39.5 0 2
+4 0 -39.5 0 -2 -39.5 0 -19.5 39.5 0 -19.5 39.5 0 -2

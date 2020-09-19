@@ -1,17 +1,19 @@
-0 Sail Triangular 17 x 21 Formed Shape 2
+0 Sail Triangular 17 x 21 (Formed Shape 2)
 0 Name: 85651c02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2019-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !HELP Shaped for 4184 The Black Pearl, ship front
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Canvas
+0 !CATEGORY Sheet Fabric
 0 !KEYWORDS Black Pearl, set 4184
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2019-01-25 [cwdee] Update category
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 3 16 -5.33 -3.8 1.1 -20.57 -21.13 14.23 -29.07 -17.59 35.35
 3 16 -26.38 -39.77 12.4 -29.07 -17.59 35.35 -20.57 -21.13 14.23

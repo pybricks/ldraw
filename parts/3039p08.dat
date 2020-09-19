@@ -1,0 +1,17 @@
+0 Slope Brick 45  2 x  2 with Police Yellow Star Badge Pattern
+0 Name: 3039p08.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !HISTORY 2018-04-09 [MagFors] removed one level of subfiles
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
+1 16 0 2.8 -12.8 1 0 0 0 1 -.70711 0 0 .70711 s\3039p08s02.dat
+1 16 0 2.8 -12.8 -1 0 0 0 1 -.70711 0 0 .70711 s\3039p08s02.dat
+4 16 -9 2.8 -12.8 9 2.8 -12.8 20 0 -10 -20 0 -10
+4 16 -9 2.8 -12.8 -20 0 -10 -20 20 -30 -9 18.35642 -28.35642
+4 16 9 18.35642 -28.35642 20 20 -30 20 0 -10 9 2.8 -12.8
+4 16 9 18.35642 -28.35642 -9 18.35642 -28.35642 -20 20 -30 20 20 -30

@@ -1,0 +1,32 @@
+0 Minifig Head with White and Light Bluish Grey Bushy Eyebrows, Open Mouth Smile Pattern
+0 Name: 3626bp0h.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 10245, Set 40125, Set 60024, Set 60099, Set 60133, Bricklink 3626bpb0798
+0 !CMDLINE -c14
+
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
+0 // Main
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs04.dat
+1 16 0 4 0 0 0 -8 0 -6.4 0 -8 0 0 t04o6250.dat
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
+1 16 0 17 0 0 0 8 0 6.4 0 -8 0 0 t04o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t04o6250.dat
+1 16 0 4 0 13 0 0 0 13 0 0 0 -13 1-8cyli.dat
+1 16 0 4 0 -13 0 0 0 13 0 0 0 -13 1-8cyli.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626p0hs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626p0hs01.dat
+
+0 // Condlines
+5 24 -9.192 17 -9.192 -9.192 4 -9.192 -12.0104 17 -4.9752 -4.9752 17 -12.0104
+5 24 -4.9752 17 -12.0104 -4.9752 4 -12.0104 -9.192 17 -9.192 0 17 -13
+5 24 0 17 -13 0 4 -13 -4.9752 17 -12.0104 4.9752 17 -12.0104
+5 24 4.9752 17 -12.0104 4.9752 4 -12.0104 0 17 -13 9.192 17 -9.192
+5 24 9.192 17 -9.192 9.192 4 -9.192 4.9752 17 -12.0104 12.0104 17 -4.9752

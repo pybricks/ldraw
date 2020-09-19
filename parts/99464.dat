@@ -1,15 +1,17 @@
 0 Minifig Cape Cloth Short
 0 Name: 99464.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LDRAW_ORG Part UPDATE 2019-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Canvas
+0 !CATEGORY Sheet Fabric
 0 !KEYWORDS Cloak, Shawl, Drape, Poncho, Neckwear
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+0 !HISTORY 2019-01-25 [cwdee] Update category
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 0 // Bottom surface
 

@@ -1,7 +1,7 @@
-0 Minifig Shield Round with Helmet on Dark/Medium Blue Quarters Pattern
+0 Minifig Shield Round Flat with Helmet on Dark/Medium Blue Quarters Pattern
 0 Name: 59231p40.dat
 0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LDRAW_ORG Part UPDATE 2019-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !CATEGORY Minifig Accessory
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+0 !HISTORY 2018-12-20 [cwdee] Update description
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\59231s01.dat
 1 82 0 0 -3 2 0 0 0 0 -2 0 1 0 4-4ring9.dat

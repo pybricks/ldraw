@@ -1,7 +1,7 @@
 0 Technic Gear 16 Tooth with Clutch
 0 Name: 6542a.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2012-02
+0 !LDRAW_ORG Part UPDATE 2019-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,8 +12,28 @@
 0 !HISTORY 2010-04-05 [Philo] Use bushloc2, inlined tooth subpart
 0 !HISTORY 2011-11-01 [PTadmin] Renamed from 6542
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+0 !HISTORY 2018-10-01 [mkennedy] Moved inner edgelines of bushloc2 to main file.
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 1 16 0 0 -8 1 0 0 0 0 1 0 -1 0 bushloc2.dat
+
+2 24 0 6 -8 1.15 5.77 -8
+2 24 2.3 5.54 -8 3.27 4.89 -8
+2 24 4.24 4.24 -8 4.89 3.27 -8
+2 24 5.54 2.3 -8 5.77 1.15 -8
+2 24 6 0 -8 5.77 -1.15 -8
+2 24 5.54 -2.3 -8 4.89 -3.27 -8
+2 24 4.24 -4.24 -8 3.27 -4.89 -8
+2 24 2.3 -5.54 -8 1.15 -5.77 -8
+2 24 0 -6 -8 -1.15 -5.77 -8
+2 24 -2.3 -5.54 -8 -3.27 -4.89 -8
+2 24 -4.24 -4.24 -8 -4.89 -3.27 -8
+2 24 -5.54 -2.3 -8 -5.77 -1.15 -8
+2 24 -6 0 -8 -5.77 1.15 -8
+2 24 -5.54 2.3 -8 -4.89 3.27 -8
+2 24 -4.24 4.24 -8 -3.27 4.89 -8
+2 24 -2.3 5.54 -8 -1.15 5.77 -8
+
 1 16 0 0 -5 0 0 -2.151 2.151 0 0 0 1.053 0 48\4-4ring7.dat
 1 16 0 0 -5 0 0 -17.17 17.17 0 0 0 15 0 48\4-4cyli.dat
 1 16 0 -17.21 0 1.01 0 0 0 -1.01 0 0 0 1.053 tooth16.dat
@@ -116,20 +136,18 @@
 1 16 0 0 -4 15.053 0 0 0 0 15.053 0 1 0 48\4-4edge.dat
 1 16 0 0 -5 15.053 0 0 0 0 15.053 0 1 0 48\4-4edge.dat
 1 16 0 0 10 17.17 0 0 0 0 17.17 0 1 0 48\4-4edge.dat
-1 16 0 0 -2 8 0 0 0 0 8 0 1 0 4-4edge.dat
 1 16 0 0 -2 8 0 0 0 0 8 0 -1 0 4-4ring1.dat
 1 16 0 0 -4 8 0 0 0 0 8 0 1 0 4-4ring1.dat
 1 16 0 0 -2 15 0 0 0 0 15 0 1 0 48\4-4edge.dat
 1 16 0 0 10 6 0 0 0 0 6 0 1 0 4-4edge.dat
 1 16 0 0 10 2 0 0 0 0 2 0 -1 0 4-4ring3.dat
-1 16 0 0 10 8 0 0 0 0 8 0 1 0 4-4edge.dat
 1 16 0 0 10 15 0 0 0 0 15 0 1 0 48\4-4edge.dat
 1 16 0 0 10 1 0 0 0 0 1 0 -1 0 48\4-4rin15.dat
 1 16 0 0 10 1 0 0 0 0 1 0 -1 0 48\4-4rin16.dat
-1 16 0 0 10 0.17 0 0 0 0 0.17 0 -1 0 48\4-4ri100.dat
+1 16 0 0 10 0.17 0 0 0 0 0.17 0 -1 0 48\4-4ring100.dat
 0 BFC INVERTNEXT
 1 16 0 0 -8 6 0 0 0 0 6 0 18 0 4-4cyli.dat
-1 16 0 0 -2 8 0 0 0 0 8 0 12 0 4-4cyli.dat
+1 16 0 0 -2 8 0 0 0 0 8 0 12 0 4-4cylo.dat
 1 16 0 0 -8 9 0 0 0 0 9 0 4 0 4-4cyli.dat
 0 BFC INVERTNEXT
 1 16 0 0 -2 15 0 0 0 0 15 0 12 0 48\4-4cyli.dat

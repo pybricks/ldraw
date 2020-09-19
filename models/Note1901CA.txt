@@ -1,0 +1,283 @@
+LDraw.org Parts Update 2019-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Fri Jun 28 07:45:13 2019 by the Parts Tracker.
+
+Release statistics:
+   Total files: 819
+   New files: 667
+   New parts: 498
+   New subparts: 137
+   New primitives: 27
+   New hi-res primitives: 5
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   110.DAT                    ~Moved to u9409-f1
+   2772C01.DAT                ~Moved to 2772-f1
+   2772C02.DAT                ~Moved to 2772-f2
+   2772C03.DAT                ~Moved to 2772-f3
+   3004PTC1.DAT               ~Moved to 3004pt7
+   3010P20B.DAT               ~Moved to 3010p0c
+   3010P20C.DAT               ~Moved to 3010p0d
+   3067PT3.DAT                ~Moved to 3067apt3
+   3069BPT6.DAT               ~Moved to 3069bp82
+   3070P1K.DAT                ~Moved to 3070bp1k
+   44302.DAT                  ~Moved to 44302a
+   44375P01.DAT               ~Moved to 44375aps1
+   44375P02.DAT               ~Moved to 44375aps2
+   6153.DAT                   ~Moved to 6153a
+   6153P7A.DAT                ~Moved to 6153ap7a
+   650A.DAT                   ~Moved to 650k01
+   712.DAT                    ~Moved to 712a
+   U9111.DAT                  ~Moved to 21828
+
+Renamed Parts
+   004695C.DAT                Sticker Minifig Torso with Shell Logo
+   changed to    Sticker Minifig Torso with Shell Logo 1971
+
+   164575D.DAT                Sticker  1.15 x  1.875 with White Train Logo
+   changed to    Sticker  1.2 x  1.9 with White Train Logo
+
+   164575E.DAT                Sticker  1.15 x  1.875 with Red Train Logo
+   changed to    Sticker  1.2 x  1.9 with Red Train Logo
+
+   164575F.DAT                Sticker  1.15 x  1.875 with Black Train Logo
+   changed to    Sticker  1.2 x  1.9 with Black Train Logo
+
+   164575G.DAT                Sticker  0.625 x  1.45 with White Train Logo
+   changed to    Sticker  0.6 x  1.5 with White Train Logo
+
+   168265A.DAT                Sticker  1.1 x  1.95 with Black Train Logo
+   changed to    Sticker  1.1 x  2 with Black Train Logo
+
+   168265B.DAT                Sticker  0.65 x  1.47 with Black Train Logo
+   changed to    Sticker  0.7 x  1.5 with Black Train Logo
+
+   170.DAT                    ~Technic Gearbox  4.5V Casing
+   changed to    ~Technic Gearbox 20:1 Reduction Casing
+
+   170C01.DAT                 Technic Gearbox  4.5V (Complete Assembly)
+   changed to    Technic Gearbox 20:1 Reduction (Complete Assembly)
+
+   171.DAT                    ~Technic Gearbox  4.5V Back Plate
+   changed to    ~Technic Gearbox 20:1 Reduction Back Plate
+
+   172.DAT                    ~Technic Gearbox  4.5V Output Shaft
+   changed to    ~Technic Gearbox 20:1 Reduction Output Shaft
+
+   173.DAT                    ~Technic Gearbox  4.5V Input Shaft
+   changed to    ~Technic Gearbox 20:1 Reduction Input Shaft
+
+   21490C01.DAT               Figure Friends Cape Cloth Short with 2 Bottom Curves and 4 Heart Shaped Holes Formed Shape 1
+   changed to    Figure Friends Cape Cloth Short with 2 Bottom Curves and 4 Heart Shaped Holes (Formed Shape 1)
+
+   21490C02.DAT               Figure Friends Cape Cloth Short with 2 Bottom Curves and 4 Heart Shaped Holes Formed Shape 2
+   changed to    Figure Friends Cape Cloth Short with 2 Bottom Curves and 4 Heart Shaped Holes (Formed Shape 2)
+
+   2556.DAT                   ~Boat Bow 16 x 12 x  5 & 1/3 Hull Outside
+   changed to    ~Boat Bow 16 x 12 x  5.333 Hull Outside (Needs Work)
+
+   2557.DAT                   ~Boat Bow 16 x 12 x 5 1/3 Hull Inside
+   changed to    ~Boat Bow 16 x 12 x  5.333 Hull Inside (Needs Work)
+
+   2557C01.DAT                Boat Bow 16 x 12 x  5 & 1/3 (Complete)
+   changed to    Boat Bow 16 x 12 x  5.333 with Brown Bottom
+
+   3010P12.DAT                Brick  1 x  4 with Envelope on Red Background, Left Pattern
+   changed to    Brick  1 x  4 with Envelope on Red Background Left-Aligned Pattern
+
+   3010P13.DAT                Brick  1 x  4 with Envelope on Red Background, Right Pattern
+   changed to    Brick  1 x  4 with Envelope on Red Background Right-Aligned Pattern
+
+   30407.DAT                  Hinge Plate  1 x  8 with Angled Side Extensions
+   changed to    Hinge Plate  1 x  8 with Angled Side Extensions and Rounded Underside Frame
+
+   3626AP01.DAT               Minifig Head with Stud Solid with Standard Grin Pattern
+   changed to    Minifig Head with Standard Grin Pattern (Solid Stud)
+
+   3626BP01.DAT               Minifig Head with Standard Grin Pattern
+   changed to    Minifig Head with Standard Grin Pattern (Hollow Stud with Pierced Base)
+
+   3941.DAT                   Brick  2 x  2 Round
+   changed to    Brick  2 x  2 Round Type 1
+
+   3941P01.DAT                Brick  2 x  2 Round with Buttons Pattern
+   changed to    Brick  2 x  2 Round with Black Panels with Buttons 2-Sided Pattern
+
+   42446.DAT                  Bracket  1 x  1 -  1 x  1
+   changed to    Bracket  1 x  1 -  1 x  1 with Stud Hole
+
+   4265A.DAT                  Technic Bush 1/2 Type 1
+   changed to    Technic Bush  1/2 Type 1
+
+   43710.DAT                  Slope Brick  2 x  4 Triple Left
+   changed to    Wedge  4 x  2 Double Left
+
+   43711.DAT                  Slope Brick  2 x  4 Triple Right
+   changed to    Wedge  4 x  2 Double Right
+
+   50231C02.DAT               Minifig Cape Cloth Floating (Formed)
+   changed to    Minifig Cape Cloth (Formed Floating)
+
+   54200.DAT                  Slope Brick 31  1 x  1 x  0.667 
+   changed to    Slope Brick 31  1 x  1 x  0.667
+
+   57539K01.DAT               ~Hose Flexible 19M End Segment
+   changed to    ~Hose Flexible 19L End Segment
+
+   57539K02.DAT               ~Hose Flexible 19M Segment
+   changed to    ~Hose Flexible 19L Segment
+
+   59231P40.DAT               Minifig Shield Round with Helmet on Dark/Medium Blue Quarters Pattern
+   changed to    Minifig Shield Round Flat with Helmet on Dark/Medium Blue Quarters Pattern
+
+   6050.DAT                   ~Boat Bow 12 x 12 x  5 & 1/3 Hull Outside
+   changed to    ~Boat Bow 12 x 12 x  5.333 Hull Outside (Needs Work)
+
+   6051C01.DAT                Boat Bow 12 x 12 x  5 & 1/3 (Complete)
+   changed to    Boat Bow 12 x 12 x  5.333 with Brown Bottom
+
+   6239.DAT                   Tail Shuttle
+   changed to    Tail Shuttle  2 x  6 x  4
+
+   6239D01.DAT                Tail Shuttle with "J" Sticker on Two Sides
+   changed to    Tail Shuttle  2 x  6 x  4 with "J" Sticker on Two Sides
+
+   6239D02.DAT                Tail Shuttle with Eagle Head Sticker on Two Sides
+   changed to    Tail Shuttle  2 x  6 x  4 with Eagle Head Sticker on Two Sides
+
+   63864.DAT                  Tile  1 x  3 with Groove
+   changed to    Tile  1 x  3
+
+   6595.DAT                   Wheel 49.6 x 28 VR
+   changed to    Wheel 25 x 28 VR with 35mm Diameter Rear Rim and Partial Cross Axle Hole
+
+   768.DAT                    Technic Gear Block  2 x  8 x  3
+   changed to    Technic Gear Block  2 x  4 x  3
+
+   85651C01.DAT               Sail Triangular 17 x 21 Formed Shape 1
+   changed to    Sail Triangular 17 x 21 (Formed Shape 1)
+
+   85651C02.DAT               Sail Triangular 17 x 21 Formed Shape 2
+   changed to    Sail Triangular 17 x 21 (Formed Shape 2)
+
+   95195C01.DAT               Canvas Triangular 22 x 18 Carousel Roof (Formed - Shape 1)
+   changed to    Canvas Triangular 22 x 18 Carousel Roof (Formed Shape 1)
+
+   95195C02.DAT               Canvas Triangular 22 x 18 Carousel Roof (Formed - Shape 2)
+   changed to    Canvas Triangular 22 x 18 Carousel Roof (Formed Shape 2)
+
+   96910.DAT                  Gold Ingot
+   changed to    Tile  1 x  2 Chamfered with 2 Top Indentations
+
+   98100.DAT                  Brick  2 x  2 Round Sloped
+   changed to    Cone  2 x  2 Truncated
+
+   3004S60.DAT                ~Pattern Shell Logo I
+   changed to    ~Pattern Shell Logo 1971
+
+   50947S01.DAT               ~Car Mudguard  4.5 x  1 x  1 without top face
+   changed to    ~Car Mudguard  4.5 x  1 x  1 without Top Face
+
+   6153S01.DAT                ~Wedge  6 x  4 without Front Faces
+   changed to    ~Wedge  6 x  4 without Front Faces and Notches Areas
+
+   6595A.DAT                  ~6595 wheel 11 sections
+   changed to    ~Wheel 25 x 28 VR with 35mm Diameter Rear Rim
+
+   6595B.DAT                  ~6595 wheel 12 sections
+   changed to    ~Wheel 25 x 28 VR with 35mm Diameter Rear Rim without Axle Hole
+
+   98100S01.DAT               ~Brick  2 x  2 Round Sloped without Top Surface
+   changed to    ~Cone  2 x  2 Truncated without Top Surface
+
+   U9328C01.DAT               Canvas Tepee Cover Formed
+   changed to    Canvas Tepee Cover (Formed)
+
+Other Fixed Parts
+   BUSHLOC2.DAT               Bush Lock 2
+   STUD10.DAT                 Stud For Round   2 x  2 Parts
+   14295.DAT                  Minifig Skirt  1.5L Fringed
+   16820.DAT                  Minifig Skirt  0.7L with 11 Diamond Points
+   18200.DAT                  Minifig Skirt  1.5L Fringed with Stepped Edge
+   21490.DAT                  Figure Friends Cape Cloth Short with 2 Bottom Curves and 4 Heart Shaped Holes
+   24593.DAT                  Cylinder Half  2 x  4 x  2 with  1 x  2 Cutout
+   2618.DAT                   Cockpit 10 x 10 x  4 Octagonal Base
+   30102.DAT                  Door  2 x  8 x  6 Revolving
+   30156.DAT                  Panel  4 x  6 x  6 Sloped
+   32828.DAT                  Plate  1 x  1 Round with Bar
+   3626BPS4.DAT               Minifig Head with SW Grey Beard and Eyebrows Pattern
+   3820.DAT                   Minifig Hand
+   384.DAT                    Cardboard Trading Card
+   4150P02.DAT                Tile  2 x  2 Round with Pizza Pattern
+   50231.DAT                  Minifig Cape Cloth
+   50231C01.DAT               Minifig Cape Cloth (Formed)
+   50231P01C01.DAT            Minifig Cape Cloth with Inside Dark Red Pattern (Formed)
+   50947.DAT                  Car Mudguard  4.5 x  1 x  1
+   56630.DAT                  Minifig Cape Cloth Scalloped  5 Points
+   56630C01.DAT               Minifig Cape Cloth Scalloped  5 Points (Formed)
+   600880.DAT                 Minifig Skirt  1.1L with Straight Bottom
+   600880P01.DAT              Minifig Skirt  1.1L with Straight Bottom with Dark Green Apron Pattern
+   6051.DAT                   ~Boat Bow 12 x 12 x  5.333 Hull Inside (Needs Work)
+   60601.DAT                  Glass for Window  1 x  2 x  2 without Sill
+   61898A.DAT                 Sheet Plastic 10 x 10 Disc with Eye Pattern
+   61898B.DAT                 Sheet Plastic 13 x 26 Propellor
+   61898BC01.DAT              Sheet Plastic 13 x 26 Propellor (Formed)
+   61898C.DAT                 Sheet Plastic 18 x 66 Propellor
+   61898CC01.DAT              Sheet Plastic 18 x 66 Propellor (Formed)
+   61898D.DAT                 Sheet Plastic 24 x 25 Rectangle
+   61898E.DAT                 Sheet Plastic 11 x 25 Rectangle
+   61898F.DAT                 Sheet Plastic 11 x 13 Disc with Base with Graduated Dial Pattern
+   6199.DAT                   Belville Swing
+   64991.DAT                  Sail Trapezoidal 28 x 17
+   64991C01.DAT               Sail Trapezoidal 28 x 17 (Formed Shape 1)
+   64991C02.DAT               Sail Trapezoidal 28 x 17 (Formed Shape 2)
+   64991C03.DAT               Sail Trapezoidal 28 x 17 (Formed Shape 3)
+   6542A.DAT                  Technic Gear 16 Tooth with Clutch
+   71396P01C01.DAT            Canvas Wagon Cover with Crossed Cutlasses Pattern (Formed)
+   792C03.DAT                 Brick  2 x  2 Arm Holder with Hole and 2 Arms (Complete)
+   85651.DAT                  Sail Triangular 17 x 21
+   86038.DAT                  Minifig Cape Cloth with Holes and Tattered Edges
+   86038C01.DAT               Minifig Cape Cloth with Holes and Tattered Edges (Formed)
+   87079PZ4.DAT               Tile  2 x  4 with Brickheadz Seasonal Calendar Pattern
+   92088.DAT                  Train Base  6 x 24 with  6 Holes, Twin  2 x  2 Cutouts and Reinforced Underside
+   93668.DAT                  Sheet Plastic 15 x 14 Curved
+   93668C01.DAT               Sheet Plastic 15 x 14 Curved (Formed Shape 1)
+   93668P01.DAT               Sheet Plastic 15 x 14 Curved with Hieroglyphs Pattern
+   93668P01C01.DAT            Sheet Plastic 15 x 14 Curved with Hieroglyphs Pattern (Formed Shape 1)
+   95195.DAT                  Canvas Triangular 22 x 18 Carousel Roof
+   96714.DAT                  Sail Trapezoidal 17.5 x 12.5
+   96714C01.DAT               Sail Trapezoidal 17.5 x 12.5 (Formed)
+   97122.DAT                  Curtain for Window  1 x  4 x  3 with Red/Green/Dark Flesh Plaid Pattern
+   973P84.DAT                 Minifig Torso with Four Button Suit and Train Logo Pattern
+   973PH1.DAT                 Minifig Torso with Gryffindor Uniform Pattern
+   99464.DAT                  Minifig Cape Cloth Short
+   99464C01.DAT               Minifig Cape Cloth Short (Formed)
+   30102S01.DAT               ~Door  2 x  8 x  6 Revolving without Front and Back
+   32551S01.DAT               ~Technic Hook with Axle - Hook tip
+   3822S01.DAT                ~Door  1 x  3 x  1 Left without Front Face and Stud
+   88000S01.DAT               ~Plate  2 x  4 with 2 Studs with Curved, Beveled Sides - Quarter
+   SWH1.DAT                   ~Click Lock Hinge Half Dual Finger
+   SWH4.DAT                   ~Click Lock Hinge Half Dual Finger Wedged
+   U1023A.DAT                 Sheet Plastic 11 x 27 Trapezoidal
+   U1023B.DAT                 Sheet Plastic 14 x 20 Triangular
+   U1023C.DAT                 Sheet Plastic 11 x 20 Trapezoidal
+   U1023D.DAT                 Sheet Plastic 10 x 17 Trapezoidal
+   U572P01.DAT                Baseplate 60 x 68 Cardboard with Wild West Scene Pattern
+   U66.DAT                    Sheet Plastic  6 x 12 Triangular
+   U66C01.DAT                 Sheet Plastic  6 x 12 Triangular (Formed Shape 1)
+   U66C02.DAT                 Sheet Plastic  6 x 12 Triangular (Formed Shape 2)
+   U66P01.DAT                 Sheet Plastic  6 x 12 Triangular with Blue and Red Triangles and Blue Lines Pattern
+   U66P01C01.DAT              Sheet Plastic  6 x 12 Triangular with Blue and Red Triangles and Blue Lines Pattern (Formed Shape 1)
+   U66P01C02.DAT              Sheet Plastic  6 x 12 Triangular with Blue and Red Triangles and Blue Lines Pattern (Formed Shape 2)
+   U9209.DAT                  Minifig Skirt  1.4L with Straight Bottom
+   U9209P01.DAT               Minifig Skirt  1.4L with Straight Bottom with White Apron with Lace Pattern
+   U9328.DAT                  Canvas Tepee Cover
+   U9331.DAT                  Cardboard Ramp 16 x 14
+   U9331C01.DAT               Cardboard Ramp 16 x 14 (Formed)

@@ -1,17 +1,20 @@
 0 Minifig Cape Cloth
 0 Name: 50231.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LDRAW_ORG Part UPDATE 2019-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Canvas
+0 !CATEGORY Sheet Fabric
 0 !KEYWORDS Cloak, Shawl, Drape, Poncho, Neckwear
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+0 !HISTORY 2019-01-25 [cwdee] Update category
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 0 // Bottom surface
+
 4 16 1.82 0 -11.55 0.1 0 -11.06 6.02 0 0 6.51 0 -2.48
 4 16 3.15 0 -12.88 1.82 0 -11.55 6.51 0 -2.48 7.92 0 -4.58
 4 16 3.64 0 -14.7 3.15 0 -12.88 7.92 0 -4.58 10.02 0 -5.99

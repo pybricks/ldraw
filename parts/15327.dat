@@ -1,0 +1,23 @@
+0 Duplo Shower Head on Stand with  1 x  1 Base
+0 Name: 15327.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Tap
+
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4894s01.dat
+
+1 16 0 -10 0 6 0 0 0 -160 0 0 0 6 4-4cyli.dat
+1 16 0 -10 0 6 0 0 0 -1 0 0 0 6 4-4edge.dat
+1 16 0 0 0 -1 0 0 0 -4 0 0 0 1 stud8.dat
+1 16 0 -4 0 6 0 0 0 -6 0 0 0 6 4-4con1.dat
+1 16 0 0 0 4 0 0 0 -4 0 0 0 4 4-4con3.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 7 0 0 0 -6 0 0 0 7 4-4con1.dat
+1 16 0 -6 0 7 0 0 0 -1 0 0 0 7 4-4edge.dat
+1 16 0 -6 0 7 0 0 0 -1 0 0 0 7 4-4disc.dat

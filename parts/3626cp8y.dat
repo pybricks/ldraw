@@ -1,0 +1,16 @@
+0 Minifig Head with Glasses Rounded, Brown Eyebrows and Smile Pattern
+0 Name: 3626cp8y.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3626cpb1507
+
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cp8ys01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626cp8ys01.dat
+5 24 0 17 -13 0 4 -13 4.9751 17 -12.0107 -4.9751 17 -12.0107

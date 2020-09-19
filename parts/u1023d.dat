@@ -1,17 +1,18 @@
 0 Sheet Plastic 10 x 17 Trapezoidal
 0 Name: u1023d.dat
 0 Author: Marek Idec [Maras]
-0 !LDRAW_ORG Part UPDATE 2010-01
+0 !LDRAW_ORG Part UPDATE 2019-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Sheet Plastic
+
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+0 !HISTORY 2019-01-25 [cwdee] Set new category
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
 0 // Top edges
-
-
-
 
 2 24 17.5 0 -17.5 -17.5 0 -17.5
 2 24 17.5 0 12.5 17.5 0 -17.5

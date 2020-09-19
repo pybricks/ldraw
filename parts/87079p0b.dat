@@ -1,0 +1,16 @@
+0 Tile  2 x  4 with Dark Blue Stripe Pattern
+0 Name: 87079p0b.dat
+0 Author: Bjoern Sigve Storesund [Storesund]
+0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 10265, Ford, Mustang
+
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
+4 16 -40 0 20 -40 0 4 40 0 4 40 0 20
+4 16 -40 0 -4 -40 0 -20 40 0 -20 40 0 -4
+4 272 -40 0 4 -40 0 -4 40 0 -4 40 0 4

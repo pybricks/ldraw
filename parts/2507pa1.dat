@@ -1,0 +1,20 @@
+0 Windscreen 10 x  4 x  2.333 Canopy with Blue Outlines and Red Square Pattern
+0 Name: 2507pa1.dat
+0 Author: Mikkel Bech Jensen [gaia]
+0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Aquazone, Aquasharks, Set 6155
+
+0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2507s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2507pa1s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2507pa1s01.dat
+
+4 16 20 52 -196 20 46 -196 -20 46 -196 -20 52 -196
+4 16 -40 -4 -16 40 -4 -16 40 -4 -4 -40 -4 -4
+4 16 -20 -4 -76 20 -4 -76 40 -4 -16 -40 -4 -16
+4 16 20 46 -196 20 -4 -76 -20 -4 -76 -20 46 -196
