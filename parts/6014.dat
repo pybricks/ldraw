@@ -1,7 +1,7 @@
-0 Wheel Hub 11.2 x 10.4
+0 Wheel Rim 11.2 x 10.4
 0 Name: 6014.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2012-01
+0 !LDRAW_ORG Part UPDATE 2014-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -12,6 +12,8 @@
 0 !HISTORY 2010-04-03 [Philo] Corrected BFC issue, used even more primitives
 0 !HISTORY 2012-01-08 [MagFors] Added missing edgeline.
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+0 !HISTORY 2014-03-08 [cwdee] Description change
+0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
 0 // Nomenclature: width_(mm) x rim_diameter_(mm) [optional qualifier]
 

@@ -1,16 +1,18 @@
 0 Sticker  1.8 x  1.2 with Yellow Outline "5" 
 0 Name: 820675a.dat
 0 Author: Miklos Hosszu [hmick]
-0 !LDRAW_ORG Part UPDATE 2012-02
+0 !LDRAW_ORG Part UPDATE 2014-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS Nautica, Dark, Shark, set 6679
+0 !KEYWORDS Nautica, Dark Shark, set 6679
 
 0 !HISTORY 2007-07-05 [Holly-Wood] Fixed color issue, new CA-header
 0 !HISTORY 2011-08-20 [cwdee] Change background colour to 16
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+0 !HISTORY 2014-01-23 [cwdee] Correct keywords
+0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
 0 // Yellow
 

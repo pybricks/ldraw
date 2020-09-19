@@ -1,12 +1,12 @@
-0 Minifig Cap
+0 Minifig Cap with Long Flat Peak
 0 Name: 4485.dat
 0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Part UPDATE 2012-03
+0 !LDRAW_ORG Part UPDATE 2014-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS cap, hat, ballcap, baseball, sports
+0 !KEYWORDS hat, ballcap, baseball, sports
 
 0 !HISTORY 1998-05-21 [PTadmin] Official Update 1998-05
 0 !HISTORY 2003-09-24 [westrate] Fixed gaps and inner radius; Replaced quads with primitives; BFC'd
@@ -16,6 +16,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-12-24 [cwdee] Update category
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+0 !HISTORY 2014-01-22 [cwdee] Description change
+0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
 0 // brim
 

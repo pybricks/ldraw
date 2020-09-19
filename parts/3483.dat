@@ -1,7 +1,7 @@
-0 Tyre Small
+0 Tyre  7/ 56 x 17 Offset Tread
 0 Name: 3483.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2003-02
+0 !LDRAW_ORG Part UPDATE 2014-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,6 +12,8 @@
 0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
 0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2014-03-10 [cwdee] Change description
+0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
 2 24 0 22 9 -6.2 21.11 9
 2 24 0 22 6 -6.2 21.11 6

@@ -1,0 +1,189 @@
+LDraw.org Parts Update 2014-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Sat Jun 21 15:09:09 2014 by the Parts Tracker.
+
+Release statistics:
+   Total files: 543
+   New files: 454
+   New parts: 262
+   New subparts: 146
+   New primitives: 28
+   New lo-res primitives: 2
+   New hi-res primitives: 16
+
+New 3-digit part numbers assigned:
+   581.dat ~Electric Motor  4 x 12 x  3.333 Type 2 Cover
+
+Moved Parts
+   2634.DAT                   ~Moved to 2634c01
+   6126.DAT                   ~Moved to 6126a
+
+Renamed Parts
+   HANDLE.DAT                 Handle for Shields
+   changed to    Handle for Flat Shields
+
+   2038.DAT                   Signpost Ornamented
+   changed to    Signpost Ornamented Type 1
+
+   2038D01.DAT                Signpost Ornamented with 1 Sticker Mirror Round
+   changed to    Signpost Ornamented Type 1 with 1 Sticker Mirror Round
+
+   2038D02.DAT                Signpost Ornamented with 2 Stickers "9 3/4" Round
+   changed to    Signpost Ornamented Type 1 with 2 Stickers "9 3/4" Round
+
+   2336P90.DAT                Space Nose with Classic Space Logo Pattern
+   changed to    Wedge  2 x  3 with Brick  2 x  4 with Classic Space Logo Pattern
+
+   2516.DAT                   Space Chainsaw Body
+   changed to    Minifig Tool Holder
+
+   2546P02.DAT                Animal Parrot with Blended Green Pattern
+   changed to    Animal Bird Parrot with Blended Green Wings and Tail Pattern
+
+   2998.DAT                   Wheel 81.6 x 34 ZR for Large Wheel Hub
+   changed to    Wheel Rim 32 x 56 with Peghole and 6 Spokes with Pegholes
+
+   3010P06.DAT                Brick  1 x  4 with Danger Stripes Pattern
+   changed to    Brick  1 x  4 with Red Diagonal Stripes Pattern
+
+   3010P15.DAT                Brick  1 x  4 with Danger Stripes with White Background Pattern
+   changed to    Brick  1 x  4 with Red Diagonal Stripes and White Background Pattern
+
+   3010P71.DAT                Brick  1 x  4 with Car Headlights and Blinkers Black Pattern
+   changed to    Brick  1 x  4 with Car Headlights and Indicators Pattern
+
+   30285.DAT                  Wheel Hub 14.8 x 16.8 with Centre Groove
+   changed to    Wheel Rim 14.8 x 16.8 with Centre Groove
+
+   30332.DAT                  Propellor  3 Blade  9 Diameter
+   changed to    Propellor  3 Blade  9 Diameter with Freestyle Pinhole
+
+   3069BP0F.DAT               Tile  1 x  2 with Bedroll Pattern
+   changed to    Tile  1 x  2 with Light Grey Bedroll Pattern
+
+   32174.DAT                  Technic Connector  2 x  3 with Ball Socket
+   changed to    Technic Ball Socket  3 x  2 Single Rounded
+
+   3482.DAT                   Wheel Hub  8 x 17.5 with Axlehole
+   changed to    Wheel Rim  8 x 17.5 with Axlehole
+
+   3483.DAT                   Tyre Small
+   changed to    Tyre  7/ 56 x 17 Offset Tread
+
+   3741AC01.DAT               Plant Flower Stem with Three Flowers Centre Upwards
+   changed to    Plant Flower Stem with Three Flowers with 6 Petals Centre Upwards
+
+   3741AC02.DAT               Plant Flower Stem with Three Flowers Centre Downwards
+   changed to    Plant Flower Stem with Three Flowers with 6 Petals Centre Downwards
+
+   40339.DAT                  Technic Bionicle Weapon Trident with Axle
+   changed to    Technic Bionicle Weapon Trident with Axle 6L
+
+   42610.DAT                  Wheel Hub  8 x 11.2 with Centre Groove
+   changed to    Wheel Rim  8 x 11.2 with Centre Groove
+
+   4444P01.DAT                Panel  2 x  5 x  6 Wall with Dark Gray Stones Pattern
+   changed to    Panel  2 x  5 x  6 Wall with Dark Grey Stones Pattern
+
+   4444P02.DAT                Panel  2 x  5 x  6 Wall with Dark Gray Scattered Stones Pattern
+   changed to    Panel  2 x  5 x  6 Wall with Dark Grey Scattered Stones Pattern
+
+   4444P04.DAT                Panel  2 x  5 x  6 Wall with Light Gray Window Stones Pattern
+   changed to    Panel  2 x  5 x  6 Wall with Light Grey Window Stones Pattern
+
+   4444P05.DAT                Panel  2 x  5 x  6 Wall with Light Gray Scattered Stones Pattern
+   changed to    Panel  2 x  5 x  6 Wall with Light Grey Scattered Stones Pattern
+
+   44799.DAT                  Tyre  7/ 86 x  7 with Centre Groove
+   changed to    Tyre  7/ 86 x 17 with Centre Groove
+
+   4485.DAT                   Minifig Cap
+   changed to    Minifig Cap with Long Flat Peak
+
+   49668.DAT                  Plate  1 x  1 with Tooth
+   changed to    Plate  1 x  1 with Tooth In-line
+
+   6014.DAT                   Wheel Hub 11.2 x 10.4
+   changed to    Wheel Rim 11.2 x 10.4
+
+   6216.DAT                   Brick  2 x  4 x  2 with Curved Top (needs work)
+   changed to    Brick  2 x  4 x  2 with Curved Top
+
+   6571.DAT                   Technic Steering arm 3H with Towball Sockets
+   changed to    Technic Steering Arm 3H with Towball Sockets
+
+   89648C01.DAT               Window  2 x  8 x  2 Inverted Sloped Reinforced w/ TrBlack Glass
+   changed to    Window  2 x  8 x  2 Inverted Sloped Reinforced with TransBlack Glass
+
+   89648C02.DAT               Window  2 x  8 x  2 Inverted Sloped Reinforced w TrLtBlue Glass
+   changed to    Window  2 x  8 x  2 Inverted Sloped Reinforced with TransLightBlue Glass
+
+   2546P02S01.DAT             ~Animal Parrot Head Half
+   changed to    ~Animal Bird Parrot Head - Half
+
+   2546P02S02.DAT             ~Animal Parrot Tail Half
+   changed to    ~Animal Bird Parrot Tail - Half
+
+   2998A.DAT                  ~Wheel 81.6x34 ZR for Large Wheel Hub - Center
+   changed to    ~Wheel Rim 32 x 56 with Peghole and 6 Spokes with Pegholes - Centre
+
+   2998B.DAT                  ~Wheel 81.6x34 ZR for Large Wheel Hub - Spoke
+   changed to    ~Wheel Rim 32 x 56 with Peghole and 6 Spokes with Pegholes - Spoke
+
+   41765S01.DAT               ~Wedge  2 x  6 Double Inverted Left
+   changed to    ~Wedge  2 x  6 Double Inverted Left without Side Faces and Solid Studs
+
+Other Fixed Parts
+   10350P01.DAT               ~Animal Horse Poseable Head Left with Black Bridle and White Blaze Pattern
+   2340P90.DAT                Tail  4 x  1 x  3 with Classic Space Logo Pattern
+   2508.DAT                   Plate  1 x  2 with 3L Extension and Towball
+   2736.DAT                   Technic Axle Towball
+   2908.DAT                   Technic Helicopter Rotor Holder
+   2986C01.DAT                Electric Technic Micromotor (Complete)
+   3001P11.DAT                Brick  2 x  4 with Yellow Car Grille Pattern
+   3001PT1.DAT                Brick  2 x  4 with "SHELL" Pattern
+   3004P90.DAT                Brick  1 x  2 with Classic Space Logo Pattern
+   3007.DAT                   Brick  2 x  8
+   30144.DAT                  Brick  2 x  4 x  3
+   3024PTC2.DAT               Plate  1 x  1 with Minecraft Micro Mob Steve Eyes Pattern
+   3024PTC3.DAT               Plate  1 x  1 with Minecraft Micro Mob Steve Nose/Mouth Pattern
+   3069BP68.DAT               Tile  1 x  2 with Red & Yellow Controls Pattern
+   3069BPS9.DAT               Tile  1 x  2 with Underwater Navigation Pattern
+   3184.DAT                   Plate  1 x  4 with Towball
+   3186.DAT                   Gate  1 x  4 x  2
+   32474.DAT                  Technic Ball Joint with Axlehole Blind
+   3297P90.DAT                Slope Brick 33  3 x  4 with Classic Space Pattern
+   3298P90.DAT                Slope Brick 33  3 x  2 with Classic Space Logo Pattern
+   33291.DAT                  Plate  1 x  1 Round with Tabs
+   3358.DAT                   Gate  1 x  3 x  2
+   3626BP63.DAT               Minifig Head with Silver Robot Pattern
+   3626BPST.DAT               Minifig Head with SW Tusken Raider Pattern
+   3731.DAT                   Plate  2 x  2 with Towball
+   3865.DAT                   Baseplate  8 x 16
+   3900.DAT                   Minifig Signal Holder
+   3939P90.DAT                Slope Brick 33  3 x  6 with Classic Space Small Pattern
+   3939P91.DAT                Slope Brick 33  3 x  6 with Classic Space Large Pattern
+   4089.DAT                   Slope Brick 33  3 x  2 Inverted Hollow with Towball
+   41764.DAT                  Wedge  2 x  6 Double Inverted Right
+   41765.DAT                  Wedge  2 x  6 Double Inverted Left
+   41895.DAT                  Technic Steering Arm with 2 Ball Joints
+   4544258FC01.DAT            Sticker  0.9 x  2.9 with Gold Stripe Left (Formed)
+   4858P90.DAT                Wedge  4 x  4 with Classic Space Pattern
+   4864AP12.DAT               Panel  1 x  2 x  2 with Black Stripes Pattern
+   61678.DAT                  Slope Brick Curved  4 x  1
+   6574.DAT                   Technic Gear Rack  1 x  2.4 with Towballs
+   6628.DAT                   Technic Pin Towball with Friction
+   73090B.DAT                 Brick  2 x  6 x  2 Weight with Plate Bottom
+   820675A.DAT                Sticker  1.8 x  1.2 with Yellow Outline "5" 
+   93606.DAT                  Slope Brick Curved  4 x  2 
+   973P90.DAT                 Minifig Torso with Classic Space Pattern
+   2586P4FA.DAT               ~Black and Red Bat Pattern
+   3004P90A.DAT               ~Brick  1 x  2 with Classic Space Logo - Frontside
+   3004S60.DAT                ~Pattern Shell Logo I
+   30614S00.DAT               ~Roof  6 x  6 x  3 without Top Stud
+   3939P91B.DAT               ~Classic Space Logo Pattern - Red, White, Yellow Detail
+   93606S01.DAT               ~Slope Brick Curved  4 x  2 without Top Surface

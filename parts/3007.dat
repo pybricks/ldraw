@@ -1,7 +1,7 @@
 0 Brick  2 x  8
 0 Name: 3007.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2002-03
+0 !LDRAW_ORG Part UPDATE 2014-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,41 +11,8 @@
 0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
 0 !HISTORY 2007-05-11 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2013-12-24 [Steffen] used subfile
+0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
-1 16 60 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
-1 16 40 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
-1 16 20 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
-1 16 0 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
-1 16 -20 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
-1 16 -40 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
-1 16 -60 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
-
-0 BFC INVERTNEXT
-1 16 0 24 0 76 0 0 0 -20 0 0 0 16 box5.dat
-
-4 16 80 24 20 76 24 16 -76 24 16 -80 24 20
-0 Next Line was 4 16 80 24 -20 76 24 -16 -76 24 -16 -80 24 -20
-4 16 -80 24 -20 -76 24 -16 76 24 -16 80 24 -20
-0 Next Line was 4 16 80 24 20 76 24 16 76 24 -16 80 24 -20
-4 16 80 24 -20 76 24 -16 76 24 16 80 24 20
-4 16 -80 24 20 -76 24 16 -76 24 -16 -80 24 -20
-
-1 16 0 24 0 80 0 0 0 -24 0 0 0 20 box5.dat
-
-1 16 70 0 10 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 50 0 10 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 30 0 10 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 -10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 -30 0 10 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 -50 0 10 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 -70 0 10 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 70 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 50 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 30 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 -10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 -30 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 -50 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 -70 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
-0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3007s01.dat
+4 16 -80 0 -20 -80 24 -20 80 24 -20 80 0 -20

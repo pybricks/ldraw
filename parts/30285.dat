@@ -1,7 +1,7 @@
-0 Wheel Hub 14.8 x 16.8 with Centre Groove
+0 Wheel Rim 14.8 x 16.8 with Centre Groove
 0 Name: 30285.dat
 0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Part UPDATE 2012-01
+0 !LDRAW_ORG Part UPDATE 2014-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,6 +10,8 @@
 0 !HISTORY 2009-01-15 [Philo] Corrected peghole depth; used more primitives; changed origin/orientation
 0 !HISTORY 2012-01-08 [MagFors] Corrected length of spokes, added condlines in centre groove
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+0 !HISTORY 2014-03-08 [cwdee] Description change
+0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
 1 16 0 0 4 10 0 0 0 0 10 0 -1 0 4-4edge.dat
 1 16 0 0 20 10 0 0 0 0 10 0 -1 0 4-4edge.dat
