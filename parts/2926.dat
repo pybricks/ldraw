@@ -1,7 +1,7 @@
-0 Plate  1 x  4 with Wheels Holder
+0 Plate  1 x  4 with 2 Wheel Pins
 0 Name: 2926.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,6 +12,8 @@
 0 !HISTORY 2008-07-08 [WilliamH] Used new wpin2 primitive (2006-06-26)
 0 !HISTORY 2008-07-09 [WilliamH] Added missing edge lines (2006-09-30)
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2018-11-25 [cwdee] Update description
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 20 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat

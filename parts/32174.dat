@@ -1,7 +1,7 @@
-0 Technic Ball Socket  3 x  2 Single Rounded
+0 Constraction Connector  3 x  2 with Single Round Ball Socket
 0 Name: 32174.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2014-01
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,8 +12,10 @@
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
 0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-03-04 [arezey] Subparted, used far more primitives, modelled reinforcement and stop
+0 !HISTORY 2010-03-04 [arezey]  Subparted, used far more primitives, modelled reinforcement and stop
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2018-02-13 [cwdee]   Update description
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32174s01.dat
 1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\32174s01.dat

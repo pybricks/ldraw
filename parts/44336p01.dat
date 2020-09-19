@@ -1,15 +1,17 @@
-0 Baseplate 32 x 32 Road 6-Stud Straight with Road Pattern
+0 Baseplate 32 x 32 Road 6-Stud Straight with Yellow Road Edge Pattern
 0 Name: 44336p01.dat
 0 Author: William Howard [WilliamH]
-0 !LDRAW_ORG Part UPDATE 2004-03
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS roadplate, 6-stud, straight
+0 !KEYWORDS roadplate, straight
 
 0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
 0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2018-11-29 [cwdee] Update description
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3811s01.dat
 1 16 316 0 316 4 0 0 0 1 0 0 0 4 1-4disc.dat

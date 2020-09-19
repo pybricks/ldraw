@@ -1,0 +1,21 @@
+0 Tile  1 x  2 with Purple Rectangle with White Border Pattern
+0 Name: 3069bpf6.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Scala, set 4307
+
+0 !CMDLINE -c0
+
+0 !HISTORY 2018-01-21 [Steffen] created based on 3069bpf2 by Niels Karsdorp [nielsk]
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
+4 15 -20 0 -10 20 0 -10 17.5 0 -7.5 -17.5 0 -7.5
+4 15 -20 0 10 -20 0 -10 -17.5 0 -7.5 -17.5 0 7.5
+4 15 20 0 10 -20 0 10 -17.5 0 7.5 17.5 0 7.5
+4 15 20 0 -10 20 0 10 17.5 0 7.5 17.5 0 -7.5
+4 22 -17.5 0 -7.5 17.5 0 -7.5 17.5 0 7.5 -17.5 0 7.5

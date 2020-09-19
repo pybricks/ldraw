@@ -1,0 +1,26 @@
+0 Roadsign Rectangular Tall with Sans-Serif "P" Parking Pattern
+0 Name: 3349p02.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2004-10-16 [cwdee]   Add lines at top of post removed from 674s00
+0 !HISTORY 2018-01-14 [Steffen] used subfile, made pattern sans-serif
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3349s01.dat
+
+1 1 2 -102 -2 0 0 4 4 0 0 0 2 0 2-4disc.dat
+1 16 2 -102 -2 0 0 4 4 0 0 0 2 0 2-4ring1.dat
+1 1 2 -102 -2 0 0 8 8 0 0 0 2 0 2-4ndis.dat
+4 16 -6 -82 -2 -10 -82 -2 -10 -110 -2 -6 -106 -2
+4 16 2 -98 -2 2 -94 -2 -6 -94 -2 -6 -98 -2
+4 16 2 -110 -2 2 -106 -2 -6 -106 -2 -10 -110 -2
+4 1 -6 -98 -2 -6 -106 -2 2 -106 -2 2 -98 -2
+4 1 -18 -116 -2 -10 -110 -2 -10 -82 -2 -18 -68 -2
+4 1 -18 -68 -2 -10 -82 -2 -6 -82 -2 18 -68 -2
+4 1 18 -68 -2 -6 -82 -2 -6 -94 -2 10 -94 -2
+4 1 18 -68 -2 10 -94 -2 10 -110 -2 18 -116 -2
+4 1 18 -116 -2 10 -110 -2 -10 -110 -2 -18 -116 -2

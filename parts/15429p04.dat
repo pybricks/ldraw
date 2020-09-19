@@ -1,0 +1,15 @@
+0 Animal Cat Tail with Gold Swirls Pattern
+0 Name: 15429p04.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 15429pb04
+
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15429s01.dat
+1 16 10 0 0 -1 0 0 0 1 0 0 0 -1 s\15429p04s01.dat
+1 16 -10 0 0 1 0 0 0 1 0 0 0 -1 s\15429p04s01.dat

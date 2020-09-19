@@ -1,12 +1,14 @@
 0 ~Technic Suspension Arm  2 x  6.5 Main
 0 Name: s\32195s01.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Subpart UPDATE 2011-02
+0 !LDRAW_ORG Subpart UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2018-03-26 [cwdee] Replace t04ounit with identical r04o1000
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 2 24 10 -10 18 10 -10 -36
 2 24 -10 -10 18 -10 -10 -36
@@ -189,13 +191,13 @@
 1 16 -8 0 -60 0 -1 0.597 3 0 0 0 0 -3 2-4edge.dat
 1 16 0 -3 -60 -9.239 0 3.827 0 6 0 -3.827 0 -9.239 3-8cyli.dat
 0 BFC INVERTNEXT
-1 16 0 -3 -60 -4 0 0 0 -5 0 0 0 4 t04ounit.dat
+1 16 0 -3 -60 -4 0 0 0 -5 0 0 0 4 r04o1000.dat
 0 BFC INVERTNEXT
-1 16 0 -3 -60 0 0 4 0 -5 0 4 0 0 t04ounit.dat
+1 16 0 -3 -60 0 0 4 0 -5 0 4 0 0 r04o1000.dat
 0 BFC INVERTNEXT
-1 16 0 -3 -60 4 0 0 0 -5 0 0 0 -4 t04ounit.dat
+1 16 0 -3 -60 4 0 0 0 -5 0 0 0 -4 r04o1000.dat
 0 BFC INVERTNEXT
-1 16 0 -3 -60 0 0 -4 0 -5 0 -4 0 0 t04ounit.dat
+1 16 0 -3 -60 0 0 -4 0 -5 0 -4 0 0 r04o1000.dat
 1 16 0 -8 -60 -4 0 0 0 -3 0 0 0 4 4-4disc.dat
 1 16 10 0 -60 0 -1 -0.597 3 0 0 0 0 -3 2-4ndis.dat
 1 16 10 0 -60 0 0.94 -0.6 3 0 0 0 0 -3 2-4edge.dat

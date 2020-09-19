@@ -1,12 +1,14 @@
-0 Slope 45  2 x  2 with Worn Out Black and Yellow Danger Stripes Pattern
+0 Slope Brick 45  2 x  2 with Worn Out Black and Yellow Danger Stripes Pattern
 0 Name: 3039p04.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2016-01
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+0 !HISTORY 2018-03-14 [cwdee] Update description
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 4 0 -18 0 -10 -20 1.4142 -11.4142 -20 5.3033 -15.3033 -13.5 0 -10

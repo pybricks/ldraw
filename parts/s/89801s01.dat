@@ -1,7 +1,7 @@
-0 ~Minifig Trophy Cup Half
+0 ~Minifig Trophy Cup  3.6L - Half
 0 Name: s\89801s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2017-01
+0 !LDRAW_ORG Subpart UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2017-02-11 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+0 !HISTORY 2018-08-06 [cwdee] Modify description
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 30 -48 0 4 0 0 0 -16 0 0 0 4 4-4cylc.dat
 1 16 30 -64 0 4 0 0 0 1 0 0 0 4 4-4disc.dat

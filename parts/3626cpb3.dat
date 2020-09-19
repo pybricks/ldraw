@@ -1,0 +1,25 @@
+0 Minifig Head with Iron Spider Pattern
+0 Name: 3626cpb3.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS MARVEL, Super Heroes, Spider-Man, set 76037
+
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
+1 16 0 4 0 0 0 -13 0 13 0 13 0 0 5-16cyli.dat
+1 16 0 4 0 0 0 13 0 13 0 13 0 0 5-16cyli.dat
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t16o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 -8 t16o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
+1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t04o6250.dat
+1 16 0 17 0 0 0 8 0 6.4 0 -8 0 0 t04o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t04o6250.dat
+1 16 0 17 0 0 0 -8 0 6.4 0 8 0 0 t04o6250.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cpb3s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626cpb3s01.dat

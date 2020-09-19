@@ -1,0 +1,33 @@
+0 Slope Brick 45  2 x  1 Inverted without Inner Stopper Ring with  2 Black Rectangles Pattern
+0 Name: 3665ap01.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS boat, ferry, windows, Viking Line
+
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+0 !HISTORY 2016-01-11 [PTadmin] Renamed from 3665p01
+0 !HISTORY 2016-01-14 [MMR1988] Removed t-juntions, deleted trailing zeros
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3665as01.dat
+0 // Pattern
+3 16 -10 4 -30 -10 8 -26 -7.5 8 -26
+3 16 -10 4 -30 -7.5 8 -26 -2.5 8 -26
+4 16 -10 4 -30 -2.5 8 -26 2.5 8 -26 10 4 -30
+3 16 2.5 8 -26 7.5 8 -26 10 4 -30
+3 16 7.5 8 -26 10 8 -26 10 4 -30
+
+3 16 -10 16 -18 -10 24 -10 -7.5 16 -18
+3 16 -7.5 16 -18 -10 24 -10 -2.5 16 -18
+4 16 -2.5 16 -18 -10 24 -10 10 24 -10 2.5 16 -18
+3 16 2.5 16 -18 10 24 -10 7.5 16 -18
+3 16 7.5 16 -18 10 24 -10 10 16 -18
+
+4 0 -2.5 8 -26 -7.5 8 -26 -7.5 16 -18 -2.5 16 -18
+4 0 7.5 8 -26 2.5 8 -26 2.5 16 -18 7.5 16 -18
+4 16 -7.5 8 -26 -10 8 -26 -10 16 -18 -7.5 16 -18
+4 16 2.5 8 -26 -2.5 8 -26 -2.5 16 -18 2.5 16 -18
+4 16 10 8 -26 7.5 8 -26 7.5 16 -18 10 16 -18

@@ -1,14 +1,17 @@
-0 Technic Bionicle Leg Bent 33 with  2 Ball Joints
+0 Constraction Limb  7 Bent 33
 0 Name: 32482.dat
 0 Author: Robert Sexton [rhsexton]
-0 !LDRAW_ORG Part UPDATE 2018-01
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2017-12-06 [arezey] Fixed gaps and edge lines, BFC'd, added details
+0 !HISTORY 2017-12-06 [arezey]  Fixed gaps and edge lines, BFC'd, added details
 0 !HISTORY 2017-12-17 [MagFors] Unscaled flat primitives, used connhole
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+0 !HISTORY 2018-02-13 [cwdee]   Update description
+0 !HISTORY 2018-04-01 [MMR1988] Added a missing condline
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 0 0 0 0 -1 0 0 0 -1 1 0 0 connhole.dat
 1 16 0 0 20 0 -1 0 -1 0 0 0 0 -1 beamhole.dat
@@ -729,3 +732,4 @@
 2 24 5 -21.5 -3.045 5 -21.5 -5.045
 5 24 -4 -0.8672 63.9985 4 -0.8672 63.9985 4 -2.2327 63.9805 4 5.705 60.644
 2 24 -5 -21.5 -5.045 -5 -21.5 -3.045
+5 24 10 -5.5558 46.3149 -10 -5.5558 46.3149 -10 -9.00002 47.0002 -10 -4.196 45.406

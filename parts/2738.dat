@@ -1,12 +1,14 @@
 0 Technic Suspension Arm  2 x  6.5 Type 1
 0 Name: 2738.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2018-03-26 [cwdee] Replace t04ounit with identical r04o1000
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 2 24 10 -10 18 10 -10 -36
 2 24 -10 -10 18 -10 -10 -36
@@ -233,13 +235,13 @@
 0 BFC INVERTNEXT
 1 16 0 -3 -60 -7.39 0 3.06 0 6 0 -3.06 0 -7.39 3-8cyli.dat
 0 BFC INVERTNEXT
-1 16 0 -3 -60 -4 0 0 0 -5 0 0 0 4 t04ounit.dat
+1 16 0 -3 -60 -4 0 0 0 -5 0 0 0 4 r04o1000.dat
 0 BFC INVERTNEXT
-1 16 0 -3 -60 0 0 4 0 -5 0 4 0 0 t04ounit.dat
+1 16 0 -3 -60 0 0 4 0 -5 0 4 0 0 r04o1000.dat
 0 BFC INVERTNEXT
-1 16 0 -3 -60 4 0 0 0 -5 0 0 0 -4 t04ounit.dat
+1 16 0 -3 -60 4 0 0 0 -5 0 0 0 -4 r04o1000.dat
 0 BFC INVERTNEXT
-1 16 0 -3 -60 0 0 -4 0 -5 0 -4 0 0 t04ounit.dat
+1 16 0 -3 -60 0 0 -4 0 -5 0 -4 0 0 r04o1000.dat
 1 16 0 -8 -60 -4 0 0 0 -3 0 0 0 4 4-4disc.dat
 5 24 0 -6 -70 0 6 -70 3.83 0 -69.24 -3.83 0 -69.24
 4 16 0 -6 -70 3.83 -7 -69.24 3.83 6.15 -69.24 0 6 -70
@@ -422,4 +424,4 @@
 4 16 -14 0 -38 -14 0 -46 -14 7.07 -46 -14 7.07 -33.5
 1 16 -17 6.365 -34.58 3 0 0 0 -1 0.705 0 0 1.08 rect3.dat
 1 16 -17 -6.365 -34.58 -3 0 0 0 1 -0.705 0 0 1.08 rect3.dat
-0
+

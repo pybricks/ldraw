@@ -1,12 +1,14 @@
-0 Plate  2 x  4 with Side Bricks  1 x  2 and Wheel Holders
+0 Brick  2 x  4 with  2 x  2 x  0.667 Cutout and 2 Wheel Pins
 0 Name: 18892.dat
 0 Author: Owen Burgoyne [C3POwen]
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2018-11-25 [cwdee] Update description
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 0 24 0 40 0 0 0 1 0 0 0 20 recte4.dat
 1 16 -30 4 0 1 0 0 0 -5 0 0 0 1 stud3.dat

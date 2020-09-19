@@ -1,7 +1,7 @@
-0 Plate  2 x  2 Round with Wheel Holder
+0 Plate  2 x  2 Round with 2 Wheel Clips
 0 Name: 2655.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2009-01
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,6 +10,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant (2004-03-27)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2018-11-25 [cwdee] Update description
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 10 0 10 1 0 0 0 1 0 0 0 1 stud6.dat
 1 16 -10 0 10 0 0 -1 0 1 0 1 0 0 stud6.dat

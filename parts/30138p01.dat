@@ -1,7 +1,7 @@
-0 Minifig Headdress Indian Warbonnet with Colored Feathers Pattern
+0 Minifig Headdress Indian Warbonnet with Coloured Feathers Pattern
 0 Name: 30138p01.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2016-01
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -13,9 +13,12 @@
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2016-03-14 [Holly-Wood] File preparation for LDraw Parts Tracker
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+0 !HISTORY 2018-03-25 [cwdee] Correct description spelling
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 0 // Pattern
 0 // Red
+
 3 4 0 -5.086 -12.935 1.426 -4.931 -12.866 0 -11.056 -10.363
 3 4 14.044 1.304 -7.587 14.146 2.153 -7.048 16.014 -1.136 -4.395
 3 4 16.014 -1.136 -4.395 15.894 -1.923 -4.927 14.044 1.304 -7.587

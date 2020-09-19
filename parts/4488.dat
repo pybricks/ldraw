@@ -1,7 +1,7 @@
-0 Plate  2 x  2 with Wheel Holder
+0 Plate  2 x  2 with 1 Wheel Pin
 0 Name: 4488.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -11,6 +11,8 @@
 0 !HISTORY 2008-07-07 [mkennedy] Made BFC Compliant and optimized (2003-07-10)
 0 !HISTORY 2008-07-08 [WilliamH] Used new wpin2a primitive (2006-06-26)
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2018-11-26 [cwdee] Update description
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 10 4 0 1 0 0 0 -3 0 0 0 1 stud3.dat
 1 16 -10 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
@@ -45,7 +47,7 @@
 4 16 0 16 -20 0 8 -20 20 0 -20 20 16 -20
 4 16 -20 0 20 -20 8 20 0 8 20 20 0 20
 4 16 20 0 -20 0 8 -20 -20 8 -20 -20 0 -20
-1 16 0 0 0 0 0 -1 0 1 0 1 0 0 stug2.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 stug-2x2.dat
 1 16 22 5 0 0 -1 0 1 0 0 0 0 1 wpin2a.dat
 1 16 22 5 0 0 1 0 3.53 0 3.53 -3.53 0 3.53 1-4edge.dat
 2 24 22 8.53 3.53 22 8 3.89

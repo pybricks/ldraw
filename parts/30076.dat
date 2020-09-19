@@ -1,17 +1,19 @@
-0 Brick  4 x 10 with Wheel Holders
+0 Brick  4 x 10 with 4 Pins
 0 Name: 30076.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2016-01
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2007-12-20 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-01-16 [Steffen] BFCed, used stugs
 0 !HISTORY 2016-09-30 [MagFors] Closed gaps around understuds
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+0 !HISTORY 2018-11-24 [cwdee]   Update description
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 80 4 20 1 0 0 0 -5 0 0 0 1 stud4.dat
 1 16 60 4 22 0 0 -1.5 0 20 0 14 0 0 box3u6.dat

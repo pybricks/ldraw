@@ -1,13 +1,15 @@
-0 Slope Brick Curved  2 x  2 x   2/3 with Fin and 2 Studs
+0 Slope Brick Curved  2 x  3 x  0.667 with Fin and 2 Studs
 0 Name: 47456.dat
 0 Author: Paul Izquierdo Rojas [pir]
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2007-11-01 [mikeheide] Added missing egdelines, corrected four 1-4edge.dat
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2018-05-13 [cwdee] Correct description
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 4 16 -10 0 -10 -10 0 10 10 0 10 10 0 -10
 4 16 -10 0 10 -20 8 10 20 8 10 10 0 10

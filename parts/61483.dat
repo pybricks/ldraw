@@ -1,14 +1,18 @@
-0 Technic Pin with Wheels Holder Plane
+0 Technic Pin with 2 Wheel Pins
 0 Name: 61483.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2010-01
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
+0 !KEYWORDS Plane, Aircraft
+
+0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2010-02-20 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+0 !HISTORY 2018-11-24 [cwdee]   Update description
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 2 29 16 0 1 0 -6 0 0 0 0 6 2-4edge.dat
 1 16 -2 29 16 0 1 0 -6 0 0 0 0 6 2-4edge.dat

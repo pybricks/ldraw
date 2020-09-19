@@ -1,7 +1,7 @@
-0 Electric Technic Micromotor Top
+0 Electric Technic Micromotor Top Holder
 0 Name: 2984.dat
 0 Author: Remco Braak [remco1974]
-0 !LDRAW_ORG Part UPDATE 2018-01
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -14,6 +14,8 @@
 0 !HISTORY 2017-07-31 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2017-08-01 [MagFors] Used primitives
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+0 !HISTORY 2018-10-13 [cwdee] Update description
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 0 -10 0 -20 0 0 0 1 0 0 0 -20 rect.dat
 2 24 20 -10 -20 20 4 -20

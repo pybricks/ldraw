@@ -1,14 +1,17 @@
 0 Sticker  1.75 x  1.75 Round with Quarter Circle Arrow
 0 Name: 59826g.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2014-01
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2017-07-03 [cwdee]   Use cylinder primitive with conditional lines
+0 !HISTORY 2017-08-19 [MagFors] added a 4-4ering
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
-1 16 0 0 0 17.5 0 0 0 -0.25 0 0 0 17.5 4-4cylc2.dat
+1 16 0 0 0 17.5 0 0 0 -0.25 0 0 0 17.5 4-4cylc3.dat
 
 3 1 2.2 -0.25 9.6 2.2 -0.25 12.2 6.5 -0.25 7.9
 3 1 2.2 -0.25 3.5 2.2 -0.25 6.3 6.5 -0.25 7.9
@@ -83,4 +86,4 @@
 3 7 8.5 -0.25 8.3 16.1682 -0.25 6.6972 1.3 -0.25 1.2
 4 7 6.6972 -0.25 16.1682 12.3743 -0.25 12.3743 16.1682 -0.25 6.6972 8.5 -0.25 8.3
 4 7 8.5 -0.25 8.3 1.4 -0.25 15 0 -0.25 17.5 6.6972 -0.25 16.1682
-
+1 7 0 -.25 0 17.5 0 0 0 1 0 0 0 17.5 4-4ering.dat

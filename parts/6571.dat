@@ -1,7 +1,7 @@
 0 Technic Steering Arm 3H with Towball Sockets
 0 Name: 6571.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Part UPDATE 2014-01
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -9,6 +9,8 @@
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 0 !HISTORY 2013-12-28 [MagFors] Corrected edgeline at the sphere
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2018-03-26 [cwdee] Replace t04ounit with identical r04o1000
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 0 0 -10 9 0 0 0 0 -9 0 20 0 4-4cyli.dat
 1 16 0 0 -10 9 0 0 0 0 -9 0 20 0 4-4edge.dat
@@ -81,8 +83,8 @@
 1 16 0 -16 0 8 0 0 0 -1 0 0 0 -8 1-8edge.dat
 1 16 0 16 0 8 0 0 0 -1 0 0 0 -8 1-8edge.dat
 1 16 0 24 0 8 0 0 0 -1 0 0 0 -8 1-8edge.dat
-1 16 0 24 0 -4.75 0 0 0 5.5 0 0 0 -4.75 t04ounit.dat
-1 16 0 24 0 0 0 4.75 0 5.5 0 -4.75 0 0 t04ounit.dat
+1 16 0 24 0 -4.75 0 0 0 5.5 0 0 0 -4.75 r04o1000.dat
+1 16 0 24 0 0 0 4.75 0 5.5 0 -4.75 0 0 r04o1000.dat
 1 16 0 29.5 0 -4.75 0 0 0 -1 0 0 0 -4.75 2-4disc.dat
 0 BFC INVERTNEXT
 1 16 0 24 0 -4.571 0 0 0 5.333 0 0 0 -4.571 t04o7500.dat
@@ -101,8 +103,8 @@
 1 16 -4.571 24 8 -3.429 0 0 0 0 4 0 8 0 1-4edge.dat
 1 16 -4.75 24 0 -4.75 0 0 0 0 5.5 0 8 0 1-4cyli.dat
 1 16 -4.75 24 8 -4.75 0 0 0 0 5.5 0 8 0 1-4edge.dat
-1 16 0 -24 0 4.75 0 0 0 -5.5 0 0 0 -4.75 t04ounit.dat
-1 16 0 -24 0 0 0 -4.75 0 -5.5 0 -4.75 0 0 t04ounit.dat
+1 16 0 -24 0 4.75 0 0 0 -5.5 0 0 0 -4.75 r04o1000.dat
+1 16 0 -24 0 0 0 -4.75 0 -5.5 0 -4.75 0 0 r04o1000.dat
 1 16 0 -29.5 0 4.75 0 0 0 1 0 0 0 -4.75 2-4disc.dat
 0 BFC INVERTNEXT
 1 16 0 -24 0 4.571 0 0 0 -5.333 0 0 0 -4.571 t04o7500.dat

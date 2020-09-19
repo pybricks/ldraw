@@ -1,12 +1,14 @@
 0 Door Arched  5 x  7.5 for Frame  7 x  8 Fabuland
 0 Name: u9318.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+0 !HISTORY 2018-01-26 [Steffen] removed duplicate lines
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 0 // outer surfaces
 
@@ -172,7 +174,6 @@
 4 16 -47.75 -69.38 6 -48.71 -67.5 6 -48.71 -67.5 2 -47.75 -69.38 2
 4 16 -48.71 -67.5 6 -49 -65 6 -49 -65 2 -48.71 -67.5 2
 0 // Upper right window pane conditional lines
-5 24 -49 -65 2 -49 -65 6 -48.71 -67.5 6 -49 -44 6 
 5 24 -44 -39 2 -44 -39 6 -45.913 -39.38 6 -25 -39 6
 5 24 -25 -39 2 -25 -39 6 -44 -39 6 -23.25 -39.24 6 
 5 24 -23.25 -39.24 2 -23.25 -39.24 6 -25 -39 6 -21.92 -39.84 6 
@@ -508,7 +509,6 @@
 4 16 -60.25 -69.38 2 -59.29 -67.5 2 -59.29 -67.5 6 -60.25 -69.38 6
 4 16 -59.29 -67.5 2 -59 -65 2 -59 -65 6 -59.29 -67.5 6
 0 // Upper left window pane conditional lines
-5 24 -59 -65 2 -59 -65 6 -59.29 -67.5 6 -59 -44 6
 5 24 -64 -39 2 -64 -39 6 -62.086 -39.38 6 -83 -39 6
 5 24 -83 -39 2 -83 -39 6 -64 -39 6 -84.75 -39.24 6
 5 24 -84.75 -39.24 2 -84.75 -39.24 6 -83 -39 6 -86.08 -39.84 6

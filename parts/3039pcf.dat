@@ -1,12 +1,14 @@
-0 Slope 45  2 x  2 with Red Cash Register Pattern
+0 Slope Brick 45  2 x  2 with Red Cash Register Pattern
 0 Name: 3039pcf.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2016-01
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+0 !HISTORY 2018-03-14 [cwdee] Update description
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 4 0 6.9713 15.3459 -25.3459 6.8929 15.1609 -25.1609 6.6005 15.2409 -25.2409 6.7464 15.4944 -25.4944

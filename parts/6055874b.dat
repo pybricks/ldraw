@@ -1,7 +1,7 @@
 0 Sticker  1.6 x  1.6 Round with Mini Cooper Logo
 0 Name: 6055874b.dat
 0 Author: Max Martin Richter [MMR1988]
-0 !LDRAW_ORG Part UPDATE 2015-02
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,8 +9,11 @@
 0 !KEYWORDS set 10242, Mini Cooper MK VII
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+0 !HISTORY 2017-07-03 [cwdee]   Use cylinder primitive with conditional lines
+0 !HISTORY 2017-08-19 [MagFors] added a 4-4ering
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
-1 16 0 0 0 16.375 0 0 0 -0.25 0 0 0 16.375 4-4cylc2.dat
+1 16 0 0 0 16.375 0 0 0 -0.25 0 0 0 16.375 4-4cylc3.dat
 
 4 15 2.286 -0.25 -7.838 2.395 -0.25 -7.511 2.068 -0.25 -7.566 2.068 -0.25 -8.11
 4 15 2.068 -0.25 -8.11 2.068 -0.25 -7.566 1.742 -0.25 -7.729 1.578 -0.25 -8.001
@@ -855,3 +858,4 @@
 4 288 7.947 -0.25 1.143 7.402 -0.25 -1.089 8.328 -0.25 -1.089 8.872 -0.25 1.143
 3 288 9.471 -0.25 2.83 9.362 -0.25 2.776 10.396 -0.25 2.558
 4 288 4.572 -0.25 -7.62 4.572 -0.25 -7.402 4.3 -0.25 -7.348 4.245 -0.25 -8.056
+1 288 0 -.25 0 16.375 0 0 0 1 0 0 0 16.375 4-4ering.dat

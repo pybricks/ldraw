@@ -1,7 +1,7 @@
 0 Beehive
 0 Name: 35574.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2018-01
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !HELP to put it on a Minifig Head move it -16 in Y direction
@@ -13,6 +13,8 @@
 0 !KEYWORDS Minifig Headdress
 
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+0 !HISTORY 2018-05-12 [Steffen] fixed syntax error
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 0 // Inside
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
@@ -62,7 +64,7 @@
 5 24 -8.4852 17 -8.4852 -4.5924 17 -11.0868 -4.9751 19 -12.0107 -3.827 15.5 -9.239
 5 24 -4.5924 17 -11.0868 0 17 -12 0 19 -13 0 15.5 -10
 0 BFC INVERTNEXT
-1 16 0 19 0 1 0 0 0 -2. 0 0 0 1 4-4con12.dat
+1 16 0 19 0 1 0 0 0 -2 0 0 0 1 4-4con12.dat
 5 24 12.0107 19 4.9751 13 19 0 11.0866 17 4.5922 12.0107 40 4.9751
 5 24 12.0107 19 4.9751 9.1923 19 9.1923 8.4852 17 8.4852 9.1923 40 9.1923
 5 24 9.1923 19 9.1923 4.9751 19 12.0107 4.5922 17 11.0866 4.9751 40 12.0107

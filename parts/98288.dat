@@ -1,7 +1,7 @@
-0 Wheelbarrow with Two Studs and  1 Front Wheel Holder
+0 Wheelbarrow with Two Studs and 2 Wheel Clips
 0 Name: 98288.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2018-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !HELP Front wheel: y=5.25, z=-40
@@ -13,6 +13,8 @@
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2015-01-16 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2018-11-25 [cwdee] Update description
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
 4 16 8.188 -21 -37.196 -8.188 -21 -37.196 -8.188 -24 -37.196 8.188 -24 -37.196
 4 16 8.125 -24 -40.671 -8.125 -24 -40.671 -8.125 -21 -40.671 8.125 -21 -40.671

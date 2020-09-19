@@ -1,0 +1,18 @@
+0 Panel 10 x 10 x  2.333 Quarter Saucer with Insectoid Pattern Right
+0 Name: 30117p61.dat
+0 Author: Mikkel Bech Jensen [gaia]
+0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Space, Set 6977
+
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30117s01.dat
+1 16 10 0 -70 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 70 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
+0 BFC NOCLIP
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30117p61s01.dat
+0 BFC CLIP
