@@ -1,0 +1,471 @@
+LDraw.org Parts Update 2015-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Sun Oct 11 06:44:51 2015 by the Parts Tracker.
+
+Release statistics:
+   Total files: 768
+   New files: 502
+   New parts: 338
+   New subparts: 130
+   New primitives: 24
+   New hi-res primitives: 10
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   10.DAT                     ~Moved to 10a
+   206A.DAT                   ~Moved to 4141
+   206B.DAT                   ~Moved to 4142
+   2350.DAT                   ~Moved to 2350a
+   3068BPD13.DAT              ~Moved to 3068bp8a
+   4073.DAT                   ~Moved to 6141
+   481.DAT                    ~Moved to 30552
+   482.DAT                    ~Moved to 30553
+   4868.DAT                   ~Moved to 4868a
+   7049.DAT                   ~Moved to 7049b
+   98138PD11.DAT              ~Moved to 98138p80
+   481S01.DAT                 ~Moved to s\30552s01
+   U9017.DAT                  ~Moved to 4868b
+
+Renamed Parts
+   004585A.DAT                Sticker Minifig Torso with White Buttons and Old Police Badge
+   changed to    Sticker Minifig Torso with White Buttons and Police Badge Plain
+
+   15677.DAT                  Figure Friend Hair Wavy with Curls and  2 Pinholes
+   changed to    Figure Friends Hair Wavy with Curls and  2 Pinholes
+
+   2397.DAT                   Animal Horse Hitching
+   changed to    Plate  2 x  2 with Angled Bars and Attached  1 x  2 Plate
+
+   2714.DAT                   Bar 7.6L with Stop
+   changed to    Bar  7.6L with Stop
+
+   30037.DAT                  Wing 12 x  9 (Exploriens)
+   changed to    Wing  9 x 12 -  6 x  2.333 Down 
+
+   30362.DAT                  Minifig Robot Leg
+   changed to    ~Minifig Robot Leg (Obsolete)
+
+   3039P32.DAT                Slope Brick 45  2 x  2 with 12 Buttons 3 Lamps on Black Pattern
+   changed to    Slope Brick 45  2 x  2 with 12 Buttons and  3 Red Lamps on Black Panel Pattern
+
+   3039P33.DAT                Slope Brick 45  2 x  2 with 12 Buttons 3 Lamps on Yellow Pattern
+   changed to    Slope Brick 45  2 x  2 with 12 Buttons and  3 Red Lamps on Yellow Panel Pattern
+
+   3194P02.DAT                Door  1 x  5 x  4 Right with Fish and "Transport" Pattern
+   changed to    Door  1 x  5 x  4 Right with Blue Fish and "Transport" Pattern
+
+   3195P02.DAT                Door  1 x  5 x  4 Left with Fish and "Transport" Pattern
+   changed to    Door  1 x  5 x  4 Left with Blue Fish and "Transport" Pattern
+
+   3297P04.DAT                Slope Brick 33  3 x  4 with Roof Tile Pattern
+   changed to    Slope Brick 33  3 x  4 with Medium Violet Roof Tile Pattern
+
+   3298P04.DAT                Slope Brick 33  3 x  2 with Roof Tile Pattern
+   changed to    Slope Brick 33  3 x  2 with Medium Violet Roof Tile Pattern
+
+   3298P19.DAT                Slope Brick 33  3 x  2 with Freestyle Pattern
+   changed to    Slope Brick 33  3 x  2 with Freestyle Pennant Pattern
+
+   3596P01.DAT                Flag on Flagpole with Stripes Pattern
+   changed to    Flag on Flagpole with Vertical Black/White/Blue/Red/Yellow Stripes Pattern
+
+   367.DAT                    Baseplate 24 x 24 with Studs on Edges
+   changed to    Baseplate 24 x 24 with Studs on 3 Sides
+
+   3679.DAT                   ~Turntable  2 x  2 Plate Top
+   changed to    Turntable  2 x  2 Plate Top
+
+   3680C01.DAT                Turntable  2 x  2 Plate (Complete)
+   changed to    Turntable  2 x  2 Plate with Light Grey Top
+
+   4186P01.DAT                Baseplate 48 x 48 with Playing Field Pattern
+   changed to    Baseplate 48 x 48 with Soccer Field Half Pattern
+
+   4266.DAT                   Wheel 20 x 30 Smooth with 6 Pegholes
+   changed to    Wheel Rim 20 x 30 Smooth with 6 Pinholes
+
+   4492P03.DAT                Animal Horse Head with Red Tack Pattern
+   changed to    Animal Horse Head with Red/Black Tack Pattern
+
+   4492P04.DAT                Animal Horse Head with Red Tack and Black Mane Pattern
+   changed to    Animal Horse Head with Red/Black Tack and Black Mane Pattern
+
+   4493.DAT                   Animal Horse Body Left
+   changed to    ~Animal Horse Body Left
+
+   4494.DAT                   Animal Horse Body Right
+   changed to    ~Animal Horse Body Right
+
+   4508.DAT                   ~Turntable  2 x  2 Plate Base with Hinge
+   changed to    Turntable  2 x  2 Plate Base with Hinge
+
+   4613857F.DAT               Sticker  4.8 x  1.8 Horus Head and Hieroglyphs on Tan
+   changed to    Sticker  4.8 x  1.8 with Hieroglyphs and Horus Head on Tan Background
+
+   4613857G.DAT               Sticker  4.8 x  1.8 Tan with Hieroglyphs
+   changed to    Sticker  4.8 x  1.8 with Hieroglyphs on Tan Background
+
+   4613905C.DAT               Sticker  2.2 x  1.8 Tan with Hieroglyphs, 3 Snakes
+   changed to    Sticker  2.2 x  1.8 with Hieroglyphs and 3 Snakes on Tan Background
+
+   4714.DAT                   Minifig Stretcher
+   changed to    Minifig Stretcher with Bottom Hinges
+
+   4796.DAT                   Fabuland Car Chassis  8 x  6
+   changed to    ~Vehicle Chassis  8 x  6 with Tow-Hook
+
+   4868A.DAT                  Plane Jet Engine
+   changed to    Plane Jet Engine with Plate  1 x  2
+
+   50860.DAT                  ~Bike  2 Wheel Motorcycle Body with Dirt Bike Fairing
+   changed to    Bike  2 Wheel Motorcycle Body with Dirt Bike Fairing
+
+   56902.DAT                  Wheel Rim  8 x 18 with Deep Center Groove
+   changed to    Wheel Rim  8 x 18 with Deep Centre Groove and Peghole
+
+   6040.DAT                   Propellor Housing
+   changed to    Plate  2 x  2 x  0.667 with Axleholes and Octagonal Ring with Wings
+
+   6051.DAT                   ~Boat Bow 12 x 12 x  5 & 1/3 Hull Inside
+   changed to    ~Boat Bow 12 x 12 x  5.333 Hull Inside (Needs Work)
+
+   6061.DAT                   Brick  2 x  4 x  2 with Holes on Sides
+   changed to    Brick  2 x  4 x  2 with 3 Understuds with Axlehole at Left and Right Side
+
+   6085.DAT                   Cockpit  8 x  5 x  3 
+   changed to    Cockpit  8 x  5 x  3
+
+   6117.DAT                   Minifig Tool Chainsaw Blade
+   changed to    Minifig Chainsaw Blade
+
+   6141.DAT                   =Plate  1 x  1 Round
+   changed to    Plate  1 x  1 Round
+
+   630.DAT                    Conveyor Belt (Complete Assembly Shortcut)
+   changed to    Conveyor Belt (Complete)
+
+   631.DAT                    Conveyor Belt Part 1
+   changed to    Conveyor Belt Base
+
+   632.DAT                    Conveyor Belt Part 2
+   changed to    Conveyor Belt Feeder
+
+   633.DAT                    Conveyor Belt Part 3
+   changed to    Conveyor Belt Frame
+
+   634.DAT                    Conveyor Belt Part 4
+   changed to    Conveyor Belt Rubber Cleated
+
+   637.DAT                    Conveyor Belt Part 7
+   changed to    Conveyor Belt Stand
+
+   654.DAT                    Hinge Brick  1 x  8 Joining Ring 
+   changed to    Hinge Brick  1 x  8 Joining Ring
+
+   6556.DAT                   Train Window  1 x  4 x  3 New
+   changed to    Train Window  1 x  4 x  3 with Shutter Holes
+
+   678.DAT                    Homemaker Awning  2 x  6
+   changed to    Slope Homemaker Awning  2 x  6
+
+   679.DAT                    Homemaker Windowsill  2 x  6 x  2 & 1/3
+   changed to    Homemaker Windowsill  2 x  6 x  2.333
+
+   740.DAT                    Roadsign Old Square
+   changed to    Roadsign Square without Base
+
+   740P01.DAT                 Roadsign Old Square with Free Parking Sign
+   changed to    Roadsign Square without Base with White Parking "P" Pattern
+
+   785.DAT                    Baseplate 24 x 32 with Studs on Edges
+   changed to    Baseplate 24 x 32 with Studs on 3 Sides
+
+   809.DAT                    Baseplate 40 x 24 Gravel Quarry with Set EU360/US580 Dot Pattern
+   changed to    Baseplate 24 x 40 with Rounded Corners, Driveways and Set EU360/US580 Dot Pattern
+
+   87994.DAT                  Bar 3L
+   changed to    Bar  3L
+
+   87994P01.DAT               Bar 3L with White Ends Pattern
+   changed to    Bar  3L with White Ends Pattern
+
+   973D03.DAT                 Minifig Torso w/ White Buttons and Old Police Badge Sticker
+   changed to    Minifig Torso with White Buttons and Police Badge Plain Sticker
+
+   973P1F.DAT                 Minifig Torso with Buttons and Old Police Badge Pattern
+   changed to    Minifig Torso with Buttons and Police Badge Plain Pattern
+
+   973P1G.DAT                 Minifig Torso with Zipper and Old Police Badge Pattern
+   changed to    Minifig Torso with Zipper and Police Badge Plain Pattern
+
+   973P31.DAT                 Minifig Torso with Pirate Stripes Pattern (Red/Cream)
+   changed to    Minifig Torso with Pirate Stripes Red/Cream Pattern
+
+   973P32.DAT                 Minifig Torso with Pirate Stripes Pattern (Blue/Cream)
+   changed to    Minifig Torso with Pirate Stripes Blue/Cream Pattern
+
+   973P33.DAT                 Minifig Torso with Pirate Stripes Pattern (Red/Black)
+   changed to    Minifig Torso with Pirate Stripes Red/Black Pattern
+
+   973P74.DAT                 Minifig Torso with Vest, Patch Pockets and Police Badge Pattern
+   changed to    Minifig Torso with Vest, Patch Pockets and Police Badge Yellow Star Pattern
+
+   973P76.DAT                 Minifig Torso with Jacket, Tie and Police Badge Pattern 
+   changed to    Minifig Torso with Jacket, Tie and Police Badge Yellow Star Pattern
+
+   973P79.DAT                 Minifig Torso with Lifebelt Logo and ID Card Pattern 
+   changed to    Minifig Torso with Lifebelt Logo and ID Card Pattern
+
+   973P7B.DAT                 Minifig Torso with Arctic Parka A2 Pattern
+   changed to    Minifig Torso with Arctic Parka "A2" Pattern
+
+   973PB8.DAT                 Minifig Torso with Catsuit, O-Ring and Belt Pattern
+   changed to    Minifig Torso with Catsuit, Ring Zipper Pull and Belt Pattern
+
+   30480S01.DAT               ~Minifig Head Protocol Droid Half
+   changed to    ~Minifig Head Protocol Droid Half without Eye
+
+   3297P04A.DAT               ~Slope Brick 33 with Roof Tile Pattern - Violet
+   changed to    ~Slope Brick 33 Roof Tile Pattern
+
+   3960P2A.DAT                ~Space Radar Dish  4 x  4 with Spiral Pattern - Outline
+   changed to    ~Dish  4 x  4 Inverted with Spiral Pattern - Outline
+
+   3960P2B.DAT                ~Space Radar Dish  4 x  4 with Spiral Pattern - Spiral
+   changed to    ~Dish  4 x  4 Inverted with Spiral Pattern - Spiral
+
+   4181S01.DAT                ~Train Door  1 x  4 x  5 Left without Pattern Area
+   changed to    ~Train Door  1 x  4 x  5 Left without Lower Front
+
+   4186P01A.DAT               ~Row of 48 studs without tops
+   changed to    ~Stud Group 44 x  1 without Tops
+
+   4186P01E.DAT               ~Playing Field lines
+   changed to    ~Stud Tops with White Soccer Field Lines Pattern
+
+   4186P01L.DAT               ~Stud-top with white line pattern
+   changed to    ~Stud Top with White Line Pattern
+
+   4186P01R.DAT               ~1 row of stud-tops
+   changed to    ~44 Stud Tops with White Line Border
+
+   4186P01S.DAT               ~Studs along side of field
+   changed to    ~Stud Tops Along Side of Field
+
+   4492B1.DAT                 ~Animal Horse Head Bridle Metal 
+   changed to    ~Animal Horse Head Bridle Metal
+
+   4492B2.DAT                 ~Animal Horse Head Harness
+   changed to    ~Animal Horse Head Bridle Straps
+
+   4492S.DAT                  ~Animal Horse Head Side
+   changed to    ~Animal Horse Head Side with Bridle Pattern Background
+
+   4493S1.DAT                 ~Animal Horse Body Connector Male 1/12
+   changed to    ~Animal Horse Body Connector Male - 1/12
+
+   4494S.DAT                  ~Animal Horse Body Connector Female 1/6
+   changed to    ~Animal Horse Body Connector Female - 1/6
+
+   4494T.DAT                  ~Animal Horse Tail
+   changed to    ~Animal Horse Tail - Half
+
+   6582B.DAT                  ~6582 Wheel 1/4
+   changed to    ~Wheel Rim 20 x 33 with 6 Pinholes - 1/4 of Inner Structure
+
+   6594C.DAT                  ~6594 Tyre 49 x 28 treads
+   changed to    ~Obsolete file
+
+   6595C.DAT                  ~6595 Wheel 1-4
+   changed to    ~Obsolete file
+
+   6595D.DAT                  ~6595 axle edge
+   changed to    ~Obsolete file
+
+   973P42A.DAT                ~Minifig Torso with Castle Crossed Pikes Pattern - Gold
+   changed to    ~Obsolete file
+
+   973P4TA.DAT                ~Minifig Torso with Quarters Shield - Dithered Detail
+   changed to    ~Obsolete file
+
+   973P61A.DAT                ~Minifig Torso New with Gold Ice Planet Pattern - Gold
+   changed to    ~Obsolete file
+
+   973PN6A.DAT                ~Minifig Torso with Ninja Wrap, Shuriken and Armour - Gold
+   changed to    ~Obsolete file
+
+   973SP1F1.DAT               ~Old Police Badge
+   changed to    ~Police Badge - Plain
+
+   973SP1F3.DAT               ~Minifig Torso with Old Police Uniform - Pocket
+   changed to    ~Minifig Torso with Buttons and Police Badge Plain Pattern - Pocket
+
+Other Fixed Parts
+   1-4RIN39.DAT               Ring 39 x 0.25
+   1-4RING2.DAT               Ring  2 x 0.25
+   1-4RING6.DAT               Ring  6 x 0.25
+   1-3CHRD.DAT                Hi-Res Chord 0.3333
+   1-6CYLI.DAT                Hi-Res Cylinder 0.1667
+   2145.DAT                   Arch  2 x  6 x  5 Ornamented
+   2351.DAT                   Crane Arm Centre
+   2466P07.DAT                Panel  3 x  2 x  6 with Black Grille Pattern
+   2467.DAT                   Panel  4 x  4 x  6 Corner Concave
+   2486.DAT                   Bar  1 x  8 x  2
+   2561.DAT                   Minifig Gun Musket
+   2571.DAT                   Panel  3 x  4 x  6 with Curved Top
+   2579.DAT                   Support  2 x  2 x  5 Lattice Pillar Top
+   2580.DAT                   Support  2 x  2 x  5 Lattice Pillar
+   2580C01.DAT                Support  2 x  2 x  5 Lattice Pillar (Complete)
+   2586PW1.DAT                Minifig Shield Ovoid with American Indian Pattern
+   2637.DAT                   Technic Link 16L
+   2681.DAT                   Support  6 x  6 x 10 Stanchion 
+   2694.DAT                   Windscreen  3 x 10 x  3
+   272.DAT                    Cone  4 x  4 x  3
+   30034.DAT                  Panel  3 x  5 Solar/Clip-On/Deltoid
+   3005PTI.DAT                Brick  1 x  1 with Blue "I" Pattern
+   3005PTL.DAT                Brick  1 x  1 with Blue "L" Pattern
+   3005PTM.DAT                Brick  1 x  1 with Blue "M" Pattern
+   3005PTN.DAT                Brick  1 x  1 with Blue "N" Pattern
+   3005PTQ.DAT                Brick  1 x  1 with Blue "Q" Pattern
+   3005PTR.DAT                Brick  1 x  1 with Blue "R" Pattern
+   3005PTS.DAT                Brick  1 x  1 with Blue "S" Pattern
+   3005PTV.DAT                Brick  1 x  1 with Blue "V" Pattern
+   3005PTW.DAT                Brick  1 x  1 with Blue "W" Pattern
+   3005PTY.DAT                Brick  1 x  1 with Blue "Y" Pattern
+   3005PTZ.DAT                Brick  1 x  1 with Blue "Z" Pattern
+   3005PV1.DAT                Brick  1 x  1 with Lightblue "1" Pattern
+   3005PV6.DAT                Brick  1 x  1 with Lightblue "6" Pattern
+   3010P05.DAT                Brick  1 x  4 with White Grille Pattern
+   30140.DAT                  Panel  2 x  6 x  6 Log Wall
+   30171.DAT                  Minifig Cap Aviator
+   30376.DAT                  Minifig Mechanical Legs
+   3039P15.DAT                Slope Brick 45  2 x  2 with Space Display Pattern
+   3039P58.DAT                Slope Brick 45  2 x  2 with Divers Computer Pattern
+   30480.DAT                  Minifig Head Protocol Droid
+   3068BP66.DAT               Tile  2 x  2 with Coastguard Pattern
+   3110.DAT                   ~Brick  2 x  4 with Wheels Holder Base
+   32186.DAT                  Technic Steering Arm with 3 Ball Joints
+   32188.DAT                  Technic Panel Fairing #3
+   32189.DAT                  Technic Panel Fairing #4
+   32190.DAT                  Technic Panel Fairing #1
+   32191.DAT                  Technic Panel Fairing #2
+   32527.DAT                  Technic Panel Fairing #5
+   32528.DAT                  Technic Panel Fairing #6
+   32534.DAT                  Technic Panel Fairing #7
+   32535.DAT                  Technic Panel Fairing #8
+   32556.DAT                  Technic Pin Long
+   3297PS1.DAT                Slope Brick 33  3 x  4 with SW Grille Pattern
+   3298P21.DAT                Slope Brick 33  3 x  2 with Red Stars Pattern
+   3298P61.DAT                Slope Brick 33  3 x  2 with Ice Planet Logo Pattern
+   3334.DAT                   Baseplate 16 x 24
+   3497.DAT                   Baseplate  8 x 24
+   3680.DAT                   Turntable  2 x  2 Plate Base
+   3749.DAT                   Technic Axle Pin
+   3761.DAT                   Window  1 x  6 x  5
+   3762.DAT                   Glass for Window  1 x  6 x  5
+   3821P24.DAT                Door  1 x  3 x  1 Right with Red Cross Pattern
+   3822P24.DAT                Door  1 x  3 x  1 Left with Red Cross Pattern
+   3833.DAT                   Minifig Construction Helmet
+   3957A.DAT                  Antenna  4H with Rounded Top
+   4083.DAT                   Bar  1 x  4 x  2 with Studs
+   4150PS3.DAT                Tile  2 x  2 Round with Star Wars Dejarik Hologame Board Pattern
+   4186.DAT                   Baseplate 48 x 48
+   4187.DAT                   Baseplate  8 x 32
+   4289.DAT                   Boat Mast  2 x  2
+   43093.DAT                  Technic Axle Pin with Friction
+   4360.DAT                   Minifig Camera with Side Sight
+   43708.DAT                  Slope Brick 18  4 x  4 Corner
+   4452.DAT                   Container Box  6 x  6
+   44675.DAT                  Slope Brick Curved Top  2 x  2 x  1 with Dimples
+   4491A.DAT                  Animal Horse Saddle with One Clip
+   4491B.DAT                  Animal Horse Saddle with Two Clips
+   4492.DAT                   Animal Horse Head
+   4492P01.DAT                Animal Horse Head with Brown/White Tack Pattern
+   4492P02.DAT                Animal Horse Head with Brown/Black Tack Pattern
+   4493C00.DAT                Animal Horse (Complete)
+   4493C01.DAT                Animal Horse with Brown/White Tack Pattern (Complete)
+   4493C02.DAT                Animal Horse with Brown/Black Tack Pattern (Complete)
+   4493C03.DAT                Animal Horse with Red Tack Pattern (Complete)
+   4493C04.DAT                Animal Horse with Red Tack and Black Mane Pattern (Complete)
+   4498.DAT                   Minifig Arrow Quiver
+   45.DAT                     Tile  1 x  2 with Ball
+   4503.DAT                   Minifig Helmet Castle with Fixed Face Grille
+   4523.DAT                   Minifig Container D-Basket
+   4587.DAT                   Animal Horse Hitching with Hinge
+   4727.DAT                   Plant Flower  2 x  2 Leaves
+   4747.DAT                   Brick  2 x  4 with Coupling, Male
+   4748.DAT                   Brick  2 x  4 with Coupling, Female
+   4856.DAT                   Wedge  6 x  4 Inverted
+   4858P01.DAT                Wedge  4 x  4 with Blacktron I Logo
+   4873.DAT                   Bar  1 x  6 with Studs Open
+   54200.DAT                  Slope Brick 31  1 x  1 x  0.667 
+   59230.DAT                  Minifig Mechanical Arm Straight
+   6016.DAT                   Bar  1 x  4 x  3 Window
+   6046.DAT                   Bar  9 x 13
+   6131.DAT                   Minifig Wizards Hat
+   6140.DAT                   Bar  1 x  6 with Studs Closed
+   6160A.DAT                  ~Window  1 x  4 x  6 Frame
+   6222.DAT                   Brick  4 x  4 Round with Holes
+   6239.DAT                   Tail Shuttle
+   6249.DAT                   Brick  2 x  4 with Pins
+   6253.DAT                   Belville Parasol Stand
+   648.DAT                    Baseplate 16 x 32 with Railway Station Studs
+   6546.DAT                   Door  1 x  2 x  3 Pane
+   6628.DAT                   Technic Pin Towball with Friction
+   683.DAT                    ~Wheel  5.5 x 20 with 10 Spokes
+   709.DAT                    Plate  4 x  6 with Hole
+   711.DAT                    Plate  5 x  6 with Hole
+   749.DAT                    Container Side Bags
+   811.DAT                    Baseplate 16 x 32 Warehouse Set 341
+   813.DAT                    Train Level Crossing Base
+   85984.DAT                  Slope Brick 31  1 x  2 x  0.667
+   973P16.DAT                 Minifig Torso with Airplane Logo Pattern
+   973P17.DAT                 Minifig Torso with Red V-Neck and Buttons Pattern
+   973P20.DAT                 Minifig Torso with Waiter Pattern
+   973P24.DAT                 Minifig Torso with Red Cross Pattern
+   973P34.DAT                 Minifig Torso with Open Jacket over Striped Vest Pattern
+   973P36.DAT                 Minifig Torso with Pirate Captain Pattern
+   973P42.DAT                 Minifig Torso with Castle Crossed Pikes Pattern
+   973P47.DAT                 Minifig Torso with Castle Red/Grey Pattern
+   973P4R.DAT                 Minifig Torso with Tri-Coloured Shield Large Pattern
+   973P4T.DAT                 Minifig Torso with Red/Peach Quarters Shield Pattern
+   973P4U.DAT                 Minifig Torso with Maroon/Red Quarters Shield Pattern
+   973P52.DAT                 Minifig Torso with Blacktron I Pattern
+   973P55.DAT                 Minifig Torso with Explorien Logo Pattern
+   973P60.DAT                 Minifig Torso with Shell Logo Pattern
+   973P61.DAT                 Minifig Torso with Gold Ice Planet Pattern
+   973P64.DAT                 Minifig Torso with Unitron Pattern
+   973P71.DAT                 Minifig Torso with Red Necklace and Blue Undershirt Pattern
+   973P72.DAT                 Minifig Torso with Gold Necklace and Yellow Undershirt Pattern
+   973PA2.DAT                 Minifig Torso with Pharaoh Breastplate Pattern
+   973PA3.DAT                 Minifig Torso with Safari Shirt, Gun & Red Bandana Pattern
+   973PA4.DAT                 Minifig Torso with White Suit, Brown Vest and Tie Pattern
+   973PAQ.DAT                 Minifig Torso with 2 Chinese Letters Yellow Stripe Pattern
+   973PHB.DAT                 Minifig Torso with Purple Greatcoat Pattern
+   973PN6.DAT                 Minifig Torso with Ninja Wrap, Gold Shuriken, and Armour Pattern
+   973PS2.DAT                 Minifig Torso with SW Jedi Robes and Sash Pattern
+   973PSF.DAT                 Minifig Torso with SW Tunic and Belt Pattern
+   973PSK.DAT                 Minifig Torso with SW Stormtrooper Pattern
+   32186S01.DAT               ~Technic Steering Arm with 3 Ball Joints - Stiffening
+   33320S01.DAT               ~Animal Frog Half
+   4209S02.DAT                ~Hose Reel  2 x  4 x  2 Holder without Side Faces
+   4492E1.DAT                 ~Animal Horse Eye Highlight
+   4492E2.DAT                 ~Animal Horse Eye Ring
+   4492E3.DAT                 ~Animal Horse Eye Pupil
+   4492H.DAT                  ~Animal Horse Head Holder
+   4492M.DAT                  ~Animal Horse Head Mane
+   4493S.DAT                  ~Animal Horse Side
+   4503S01.DAT                ~Minifig Helmet Castle with Fixed Face Grille - Half
+   58135S01.DAT               ~Electric Power Functions IR Remote Control Battery Lid Half
+   777S02.DAT                 ~Flag on Flagpole Type 2 without Faces
+   973P71A.DAT                ~Minifig Torso with Bead Necklace - Beads
+   973P71B.DAT                ~Minifig Torso with Bead Necklace - Outline
+   973P79A.DAT                ~Lifebelt Logo Pattern
+   973P79B.DAT                ~ID Card with Rectangular Clip Pattern
+   U9310.DAT                  ~Fabuland House Block Floor

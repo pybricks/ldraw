@@ -1,12 +1,14 @@
-0 Sticker Minifig Torso with White Buttons and Old Police Badge
+0 Sticker Minifig Torso with White Buttons and Police Badge Plain
 0 Name: 004585a.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2012-02
+0 !LDRAW_ORG Part UPDATE 2015-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+0 !HISTORY 2015-09-12 [cwdee] Revise description
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\004315s01.dat
 1 0 8 -0.25 5 -1 0 0  0 0 1  0 -1 0 s\973sp1f1.dat

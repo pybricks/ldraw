@@ -1,7 +1,7 @@
 0 ~Fabuland House Block Floor
 0 Name: u9310.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LDRAW_ORG Part UPDATE 2015-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -9,6 +9,8 @@
 0 !CATEGORY Brick
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+0 !HISTORY 2015-06-13 [cwdee] Adjust height of locator ribs
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 0 // Connection structure guessed from assembled part
 
@@ -60,8 +62,8 @@
 3 16 200 0 -100 196 0 -96 196 0 -80
 3 16 200 0 -100 196 0 -80 196 0 -8
 0 // Upper side guesswork
-1 16 80 0 97 68 0 0 0 -4 0 0 0 1 box5.dat
-1 16 -80 0 97 68 0 0 0 -4 0 0 0 1 box5.dat
+1 16 80 0 97 68 0 0 0 -3 0 0 0 1 box5.dat
+1 16 -80 0 97 68 0 0 0 -3 0 0 0 1 box5.dat
 0 // Underside
 1 16 0 0 0 200 0 0 0 12 0 0 0 100 box4.dat
 0 BFC INVERTNEXT
@@ -195,7 +197,7 @@
 4 16 -196 0 8 -184 0 8 -184 2 8 -196 4 8
 
 2 24 -196 12 -62 -196 12 62
-4 16 -196 12 -62 -196 4 -16 -196 4 16 -196 12 62
+4 16 -196 12 -62 -196 4 -8 -196 4 8 -196 12 62
 0 BFC INVERTNEXT
 1 16 -121.5 12 -32.75 40.5 0 0 0 -8 0 0 0 29.25 box5.dat
 0 BFC INVERTNEXT
@@ -232,7 +234,7 @@
 4 16 196 4 8 184 2 8 184 0 8 196 0 8
 
 2 24 196 12 -62 196 12 62
-4 16 196 12 62 196 4 16 196 4 -16 196 12 -62
+4 16 196 12 62 196 4 8 196 4 -8 196 12 -62
 1 16 171 4 -1.5 8 0 0 0 0 8 0 -2 0 1-4cylc.dat
 1 16 171 4 -3.5 8 0 0 0 0 8 0 1 0 1-4disc.dat
 2 24 179 4 -3.5 164 4 -3.5

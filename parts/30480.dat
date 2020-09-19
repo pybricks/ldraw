@@ -1,7 +1,7 @@
 0 Minifig Head Protocol Droid
 0 Name: 30480.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2015-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,9 +9,15 @@
 0 !KEYWORDS Star Wars, C3-PO, C3PO
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2015-01-26 [Gargan] Updated to allow patterning of eyes
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30480s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30480s01.dat
+1 16 4.5 -15.8 -11.5 0.5 0 0 0 0 -0.5 0 1 0 4-4ring1.dat
+1 16 4.5 -15.8 -11.5 1 0 0 0 0 -1 0 1 0 4-4ring1.dat
+1 16 -4.5 -15.8 -11.5 -0.5 0 0 0 0 -0.5 0 1 0 4-4ring1.dat
+1 16 -4.5 -15.8 -11.5 -1 0 0 0 0 -1 0 1 0 4-4ring1.dat
 0 BFC INVERTNEXT
 1 16 0 -18.5 11.8 0 0 3.5 -3.5 0 0 0 -0.5 0 4-4cylo.dat
 1 16 0 -18.5 11.8 0 0 3 -3 0 0 0 -0.5 0 4-4cylo.dat

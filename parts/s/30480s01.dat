@@ -1,12 +1,14 @@
-0 ~Minifig Head Protocol Droid Half
+0 ~Minifig Head Protocol Droid Half without Eye
 0 Name: s\30480s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2011-02
+0 !LDRAW_ORG Subpart UPDATE 2015-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2015-01-26 [Gargan] Removed eye for patterning
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 2 24 3.3 -3.9 7.5 1.7 -3.9 8.1
 2 24 3.3 -3.9 7.5 4.8 -3.9 6.8
@@ -16,11 +18,9 @@
 2 24 8.3 -3.9 2.8 7.6 -3.9 4
 2 24 8.3 -3.9 2.8 9.2 -3.9 2.1
 2 24 1.7 -3.9 8.1 0 -3.9 8.2
-1 16 4.5 -15.8 -11.5 2 0 0 0 0 -2 0 1 0 4-4edge.dat
 0 BFC INVERTNEXT
 1 16 4.5 -15.8 -11 0.5 0 0 0 0 -0.5 0 -0.5 0 4-4cylc.dat
-1 16 4.5 -15.8 -11.5 0.5 0 0 0 0 -0.5 0 1 0 4-4ring1.dat
-1 16 4.5 -15.8 -11.5 1 0 0 0 0 -1 0 1 0 4-4ring1.dat
+1 16 4.5 -15.8 -11.5 2 0 0 0 0 -2 0 1 0 4-4edge.dat
 1 16 11.8 -5.2 0.9 0 1 0 -1.8 0 0 0 0 1.8 4-4edge.dat
 1 16 11.8 -5.2 0.9 0 -1 0 -1.8 0 0 0 0 1.8 4-4disc.dat
 1 16 1 -7.481 -11 0 0 1 0.7185 0 0 0 1 0 rect3.dat
@@ -1530,7 +1530,8 @@
 2 24 1.325 -6.763 -12.325 1.586 -6.763 -12.286
 2 24 1.586 -6.763 -12.286 2 -6.763 -12.143
 2 24 0 -6.763 -12.4 0.62 -6.763 -12.4
-0 //
+
+
 4 16 2 -6.2 -12.143 2 -6.763 -12.143 1.586 -6.763 -12.286 1.586 -6.2 -12.286
 4 16 1.586 -6.2 -12.286 1.586 -6.763 -12.286 1.325 -6.763 -12.325 1.325 -6.2 -12.325
 4 16 1.325 -6.2 -12.325 1.325 -6.763 -12.325 0.62 -6.763 -12.4 0.62 -6.2 -12.4

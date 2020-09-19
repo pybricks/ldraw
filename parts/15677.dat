@@ -1,7 +1,7 @@
-0 Figure Friend Hair Wavy with Curls and  2 Pinholes
+0 Figure Friends Hair Wavy with Curls and  2 Pinholes
 0 Name: 15677.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LDRAW_ORG Part UPDATE 2015-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !HELP top accessory at y = -10.25, z = 1.5
@@ -15,6 +15,8 @@
 0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-10-07 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+0 !HISTORY 2015-01-07 [cwdee] Updated description
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
 3 16 0 1.012 11.504 5.011 0 8.679 0 0 10.022
 3 16 1.998 1.012 11.329 5.011 0 8.679 0 1.012 11.504

@@ -1,7 +1,7 @@
 0 Minifig Torso with Explorien Logo Pattern
 0 Name: 973p55.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LDRAW_ORG Part UPDATE 2015-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,24 +10,18 @@
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2014-09-27 [Steffen] used s\973p55s01.dat
+0 !HISTORY 2015-02-19 [MMR1988] Removed superfluous rings
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
-0 // body
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
-0 // back
 4 16 19 32 10 -19 32 10 -19 29 10 19 29 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -12 0 10 12 0 10 14.345 2 10 -14.345 2 10
-0 // neck
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-0 // pattern
-1   7 0 16 -10 .75 0 0 0 0 -.75 0 .75 0 s\973p55a.dat
-1 496 0 16 -10 .75 0 0 0 0 -.75 0 .75 0 s\973p55b.dat
-0 // Front area outside of pattern
-1 16 0 16 -10 -15 0 0 0 0 15 0 .75 0 48\1-4ndis.dat
-1 16 0 16 -10 0 0 15 15 0 0 0 .75 0 48\1-4ndis.dat
-0 // following rings prevent gaps in raytracers
-1 16 0 16 -10 0 0 -1 -1 0 0 0 1 0 48\1-4rin15.dat
-1 16 0 16 -10 1 0 0 0 0 -1 0 1 0 48\1-4rin15.dat
+1 7 0 16 -10 .75 0 0 0 0 -.75 0 .75 0 s\973p55s01.dat
+1 16 0 16 -10 -15 0 0 0 0 15 0 1 0 48\1-4ndis.dat
+1 16 0 16 -10 0 0 15 15 0 0 0 1 0 48\1-4ndis.dat
 3 16 0 1 -10 12 0 -10 -12 0 -10
 4 16 14.871 14.0425 -10 15 16 -10 19 29 -10 14.345 2 -10
 3 16 14.4885 12.118 -10 14.871 14.0425 -10 14.345 2 -10
@@ -57,4 +51,3 @@
 4 16 -15 31 -10 -15 16 -10 -19 29 -10 -19 32 -10
 4 16 -19 32 -10 19 32 -10 15 31 -10 0 31 -10
 3 16 0 31 -10 -15 31 -10 -19 32 -10
-0
