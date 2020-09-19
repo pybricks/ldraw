@@ -1,7 +1,7 @@
-0 Technic Axle Flexible 7
+0 Technic Axle Flexible  7
 0 Name: 32580.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !HELP This part is written so the main axle (everything except the rod-sized 
@@ -12,8 +12,11 @@
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2013-07-27 [cwdee]   Update description
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 0 // Skinny tip
+
 1 16 -50 0 0 0 5 0 -1 0 0 0 0 1 STUD3A.DAT
 
 0 To flex the 'skinny tip', replace the above line with:

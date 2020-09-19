@@ -1,19 +1,12 @@
-0 Brick  1 x  1 with Clip Vertical
+0 ~Moved to 60475a
 0 Name: 60475.dat
-0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 Author: [PTadmin]
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2010-10-16 [Holly-Wood] Changed subpart to primitive clip2.dat; corrected stud orientation
-0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
-1 16 0 0 0 0 0 -1 0 1 0 1 0 0 3005.dat
-1 16 0 12 -10 1 0 0 0 1 0 0 0 1 clip2.dat
-
-2 24 -4.75 8 -10 -4.75 16 -10
-2 24 4.75 8 -10 4.75 16 -10
-2 24 -4.75 8 -10 4.75 8 -10
-2 24 -4.75 16 -10 4.75 16 -10
-0 //
+0 // Brick  1 x  1 with Clip Vertical
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 60475a.dat

@@ -1,7 +1,7 @@
-0 Minifig Cup
+0 =Minifig Cup
 0 Name: 6264.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part Alias UPDATE 2009-03
+0 !LDRAW_ORG Part Alias UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !HELP Part 6264 is the counterpart of 3899. Visually, the two parts seem
@@ -14,6 +14,8 @@
 0 !KEYWORDS Town, mug, coffee, cocoa, tea, drink, utensil, cookware
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2013-12-14 [cwdee] Add = prefix
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3899.dat
 0

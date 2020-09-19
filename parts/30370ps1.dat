@@ -1,15 +1,17 @@
-0 Minifig Helmet Star Wars Rebel Pilot with Yellow Grid Pattern
+0 Minifig Helmet SW Rebel Pilot with Yellow Grid on BluishGrey Pattern
 0 Name: 30370ps1.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Headwear
 0 !KEYWORDS T-16, Skyhopper, X-Wing, Y-Wing
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2012-06-01 [TK-949] Partial Rewrite
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30370s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30370s01.dat
@@ -17,8 +19,8 @@
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30370s02.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30370ps1a.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30370ps1a.dat
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30370ps1b.dat
-1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30370ps1b.dat
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 s\30370ps1b.dat
+1 72 0 0 0 -1 0 0 0 1 0 0 0 1 s\30370ps1b.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30370s05.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30370s05.dat
 1 16 0 -4 0 -8 0 0 0 -1 0 0 0 8 4-4disc.dat

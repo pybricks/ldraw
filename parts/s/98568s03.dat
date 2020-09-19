@@ -1,14 +1,16 @@
 0 ~Technic Sword 11.5L with Sawtooth Back Hilt and Back
 0 Name: s\98568s03.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2013-01
+0 !LDRAW_ORG Subpart UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2012-05-20 {LEGO Mindstorms Team} Original part shape
+0 !HISTORY 2012-05-20 {LEGO MINDSTORMS Team} Original part shape
 0 !HISTORY 2012-09-05 [Philo] Complete rebuild for LDraw Parts Tracker
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2013-08-04 [cwdee] Correct tag in first HISTORY line
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 0 0 1 0 0 0 0 1 0 -20 0 axle.dat
 1 16 -8 -3 -36 0 16 0 0 0 -9 -9 0 0 4-4cylo.dat

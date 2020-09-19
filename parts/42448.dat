@@ -1,15 +1,18 @@
 0 Gate  1 x  4 x  9 Arched with Bars
 0 Name: 42448.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+0 !CATEGORY Fence
 
 0 !HISTORY 2004-10-23 [Steffen]  un-mirrored studs, BFCed
 0 !HISTORY 2007-08-08 [mikeheide] added edges between cylinders
 0 !HISTORY 2008-02-18 [Philo] Adjusted size and added missing edges
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2013-08-29 [cwdee] Updated category
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 4 16 4 -4 0 4 4 0 4 4 70 4 -4 70
 4 16 4 -4 13.24 1.5 -4 13.24 1.5 -4 0 4 -4 0

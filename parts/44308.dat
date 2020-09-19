@@ -1,13 +1,15 @@
-0 Tyre 22/ 73 x 30 H
+0 Tyre 22/ 30 x 30 H
 0 Name: 44308.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-02-09 [Philo] Used more primitives
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2013-12-05 [cwdee] Correct description
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 0 0 0.90097 0 0.43388 0.43388 0 -0.90097 0 1 0 s\44308s01.dat
 1 16 0 0 0 0.90097 0 -0.43388 -0.43388 0 -0.90097 0 1 0 s\44308s01.dat

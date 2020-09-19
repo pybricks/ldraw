@@ -1,7 +1,7 @@
 0 Train Window  1 x  2 x  3
 0 Name: 4035.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -10,6 +10,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [DeannaEarley] BFCd and tidied (2005-02-21)
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2013-07-18 [cwdee] Correct overlapping faces (per Kevin Loddewykx)
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
  1 16 0 68 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 
@@ -96,8 +98,8 @@
 
  4 16  20  0 -10  10  8 -10 -10  8 -10 -20  0 -10
  4 16  10 64 -10  20 72 -10 -20 72 -10 -10 64 -10
- 4 16  10  4 -10  20  0 -10  20 72 -10  10 68 -10
- 4 16 -10 68 -10 -20 72 -10 -20 0 -10 -10 4 -10 
+ 4 16  10  8 -10  20  0 -10  20 72 -10  10 64 -10
+ 4 16 -10 64 -10 -20 72 -10 -20 0 -10 -10 8 -10 
 
  4 16 -20 0 -10 -20 0 10 20 0 10 20 0 -10 
  4 16  20  0 -10  20  0 10  20 72 10  20 72 -10

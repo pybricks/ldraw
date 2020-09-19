@@ -1,17 +1,18 @@
 0 Tail 12 x  2 x  5
 0 Name: 87614.dat
 0 Author: Tim Gould [timgould]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !HELP Angle of bar is 55.342 degrees
 0 !HELP along this line: 2 4 0 -3.289 -68.205 0 -107.289 82.226
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Plane
 
 0 !HISTORY 2011-10-02 [MagFors] Finished part
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2013-08-29 [cwdee] Removed category Plane
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 4 16 20 8 80 16 8 76 -16 8 76 -20 8 80
 4 16 -16 8 76 -16 8 -76 -20 8 -80 -20 8 80

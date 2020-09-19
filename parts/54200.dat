@@ -1,13 +1,15 @@
-0 Slope Brick 31  1 x  1 x   2/3 
+0 Slope Brick 31  1 x  1 x  0.667 
 0 Name: 54200.dat
 0 Author: Orion Pobursky [OrionP]
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2006-01-14 [cwdee] Rotated to match other slope bricks
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2013-08-04 [cwdee] Description change
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 2 24 10 -16 10 10 -1 10
 2 24 -10 -16 10 -10 -1 10

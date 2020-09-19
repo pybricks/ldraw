@@ -1,12 +1,14 @@
-0 Bar 0.5L with Blade 3L
+0 Bar  0.5L with Blade 3L
 0 Name: 64727.dat
 0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2013-08-30 [cwdee] Add space in description
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 0 0 0 0 1 0 -2.5 0 1 0 0 stud3.dat
 2 24 -1 0 10 1 0 10

@@ -1,12 +1,14 @@
-0 Slope Brick Curved  8 x  1 with Plate  1 x  2
+0 Slope Brick Curved  1 x  8 with Plate  1 x  2
 0 Name: 85970.dat
 0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG Part UPDATE 2010-02
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+0 !HISTORY 2013-09-10 [cwdee] Adjusted description
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 4 16 10 16 -60 6 16 -64 -6 16 -64 -10 16 -60
 1 16 0 6.2532 -64 0 0 -6 -9.7468 0 0 0 1 0 rect.dat

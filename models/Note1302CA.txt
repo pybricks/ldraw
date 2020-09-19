@@ -1,0 +1,395 @@
+LDraw.org Parts Update 2013-02
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Mon Dec 23 16:32:19 2013 by the Parts Tracker.
+
+Release statistics:
+   Total files: 1106
+   New files: 869
+   New parts: 570
+   New subparts: 169
+   New primitives: 61
+   New lo-res primitives: 45
+   New hi-res primitives: 24
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   STU2.DAT                   ~Moved to 8\stud
+   STU210.DAT                 ~Moved to 8\stud10
+   STU211.DAT                 ~Moved to 8\stud11
+   STU212.DAT                 ~Moved to 8\stud12
+   STU213.DAT                 ~Moved to 8\stud13
+   STU215.DAT                 ~Moved to 8\stud15
+   STU216.DAT                 ~Moved to 8\stud16
+   STU217A.DAT                ~Moved to 8\stud17a
+   STU218A.DAT                ~Moved to 8\stud18a
+   STU22.DAT                  ~Moved to 8\stud2
+   STU220.DAT                 ~Moved to 8\stud20
+   STU22A.DAT                 ~Moved to 8\stud2a
+   STU22S.DAT                 ~Moved to 8\stud2s
+   STU23.DAT                  ~Moved to 8\stud3
+   STU23A.DAT                 ~Moved to 8\stud3a
+   STU24.DAT                  ~Moved to 8\stud4
+   STU24A.DAT                 ~Moved to 8\stud4a
+   STU24F1S.DAT               ~Moved to 8\stud4f1s
+   STU24F1W.DAT               ~Moved to 8\stud4f1w
+   STU24F2N.DAT               ~Moved to 8\stud4f2n
+   STU24F2S.DAT               ~Moved to 8\stud4f2s
+   STU24F2W.DAT               ~Moved to 8\stud4f2w
+   STU24F3S.DAT               ~Moved to 8\stud4f3s
+   STU24F4N.DAT               ~Moved to 8\stud4f4n
+   STU24F4S.DAT               ~Moved to 8\stud4f4s
+   STU24F5N.DAT               ~Moved to 8\stud4f5n
+   STU24H.DAT                 ~Moved to 8\stud4h
+   STU24O.DAT                 ~Moved to 8\stud4o
+   STU24S.DAT                 ~Moved to 8\stud4s
+   STU24S2.DAT                ~Moved to 8\stud4s2
+   STU25.DAT                  ~Moved to 8\stud5
+   STU26.DAT                  ~Moved to 8\stud6
+   STU26A.DAT                 ~Moved to 8\stud6a
+   STU27.DAT                  ~Moved to 8\stud7
+   STU28.DAT                  ~Moved to 8\stud8
+   STU28A.DAT                 ~Moved to 8\stud8a
+   STU29.DAT                  ~Moved to 8\stud9
+   STU2A.DAT                  ~Moved to 8\studa
+   STU2P01.DAT                ~Moved to 8\studp01
+   STU2X.DAT                  ~Moved to 8\studx
+   2349.DAT                   ~Moved to 2349a
+   247A.DAT                   ~Moved to 4343
+   2839.DAT                   ~Moved to 2837b
+   2879C01.DAT                ~Moved to 70720c01
+   30.DAT                     ~Moved to 70644
+   30554.DAT                  ~Moved to 30554a
+   4460.DAT                   ~Moved to 4460a
+   4489.DAT                   ~Moved to 4489a
+   577.DAT                    ~Moved to 577b
+   604.DAT                    ~Moved to 604bc01
+   60475.DAT                  ~Moved to 60475a
+   676.DAT                    ~Moved to 3897
+   90514.DAT                  ~Moved to 90540
+   92693.DAT                  ~Moved to 92694
+   2913S01.DAT                ~Moved to u9188
+   U9046S01.DAT               ~Moved to s\93348s01
+   U9046.DAT                  ~Moved to 93348
+
+Renamed Parts
+   T04O0625.DAT               Torus Outside 1 x 0.0625 x 0.25
+   changed to    Torus Outside  1 x 0.0625 x 0.25
+
+   T04O1304.DAT               Torus Outside 1 x 0.1304 x 0.25
+   changed to    Torus Outside  1 x 0.1304 x 0.25
+
+   T04O1333.DAT               Torus Outside 1 x 0.1333 x 0.25
+   changed to    Torus Outside  1 x 0.1333 x 0.25
+
+   T04O1429.DAT               Torus Outside 1 x 0.1429 x 0.25
+   changed to    Torus Outside  1 x 0.1429 x 0.25
+
+   T04O1538.DAT               Torus Outside 1 x 0.1538 x 0.25
+   changed to    Torus Outside  1 x 0.1538 x 0.25
+
+   T04Q0625.DAT               Torus Tube    1 x 0.0625 x 0.25
+   changed to    Torus Tube  1 x 0.0625 x 0.25
+
+   T04Q3333.DAT               Torus Tube    1 x 0.3333 x 0.25
+   changed to    Torus Tube  1 x 0.3333 x 0.25
+
+   11252.DAT                  Minfig Tray Oval
+   changed to    Minifig Tray Oval
+
+   2342.DAT                   Space Control Panel (needs work)
+   changed to    Tile  1 x  2 with Console
+
+   2444.DAT                   Plate  2 x  2 with Hole
+   changed to    Plate  2 x  2 with Hole and Split Underside Ribs
+
+   2470.DAT                   Castle Wagon Wheel Small
+   changed to    Wheel  2.8 x 27 with  8 Spokes
+
+   2688.DAT                   ~Axle Steel  5 x 67.5 with Two Wheels  1.6 x 10
+   changed to    ~Axle Steel  5 x  67.5 LDU with Two Wheels  1.6 x 10
+
+   2878.DAT                   Train Wheel Holder  9V
+   changed to    Train Wheel Bogie Single Axle without Wheelset
+
+   2878C01.DAT                Train Wheel Holder  9V with Wheels (Complete)
+   changed to    Train Wheel Bogie Single Axle with Wheelset with Open Centre Wheels
+
+   2879.DAT                   Train Wheel  9V
+   changed to    ~Train Wheel with Open Centre for Wheel Bogie
+
+   2995.DAT                   Tyre 68.8 x 40 Q
+   changed to    Tyre 40/ 48 x 30 Off Road
+
+   2997.DAT                   Tyre 81.6 x 34 ZR for Large Wheel Hub
+   changed to    Tyre 34/ 38 x 56 ZR
+
+   30293.DAT                  Rock  4 x  4 x  1.333 Top
+   changed to    =Rock  4 x  4 x  1.333 Top
+
+   30294.DAT                  Rock  4 x  4 x  1.667 Bottom
+   changed to    =Rock  4 x  4 x  1.667 Bottom
+
+   30370PS1.DAT               Minifig Helmet Star Wars Rebel Pilot with Yellow Grid Pattern
+   changed to    Minifig Helmet SW Rebel Pilot with Yellow Grid on BluishGrey Pattern
+
+   30372P79.DAT               Windscreen  4 x  7 x  1 2/3 w/ SW Pattern
+   changed to    Windscreen  4 x  7 x  1.667 with SW Pattern LightGrey/DarkGrey
+
+   30400.DAT                  Brick  4 x 18
+   changed to    Brick  4 x 18 with Reinforced Underside
+
+   30614.DAT                  Roof  6 x  6 x  3
+   changed to    Roof  6 x  6 x  3 with Hollow Top Stud
+
+   3066P01.DAT                Brick  1 x  4 without Centre Studs, LEGO Logo Open "O"/Red Patt.
+   changed to    Brick  1 x  4 without Centre Studs with LEGO Logo Open "O" on Red Background Pattern
+
+   3068BPS1.DAT               Tile  2 x  2 with SW Rebel Mechanical Pattern
+   changed to    Tile  2 x  2 with SW Light Grey Rebel Mechanical Pattern
+
+   32580.DAT                  Technic Axle Flexible 7
+   changed to    Technic Axle Flexible  7
+
+   3307.DAT                   Arch  1 x  6 x  2
+   changed to    Arch  1 x  6 x  2 with Thick Top and Reinforced Underside
+
+   3940.DAT                   Space Stand  2 x  2 x  2
+   changed to    Support  2 x  2 x  2 Round
+
+   4085A.DAT                  Plate  1 x  1 with Clip Vertical Type 1
+   changed to    Plate  1 x  1 with Clip Vertical (Thin C-Clip)
+
+   4085B.DAT                  Plate  1 x  1 with Clip Vertical Type 2
+   changed to    Plate  1 x  1 with Clip Vertical (Thin U-Clip)
+
+   4085C.DAT                  Plate  1 x  1 with Clip Vertical Type 3
+   changed to    Plate  1 x  1 with Clip Vertical (Thick U-Clip)
+
+   4218A.DAT                  Roller Door Normal
+   changed to    ~Roller Door Normal (Obsolete)
+
+   4219A.DAT                  Roller Door with Handle
+   changed to    ~Roller Door with Handle (Obsolete)
+
+   4234.DAT                   Motor Wind-Up  4 x 10 x  3 Key
+   changed to    Key for Motor Wind-Up  4 x 10 x  3
+
+   44308.DAT                  Tyre 22/ 73 x 30 H
+   changed to    Tyre 22/ 30 x 30 H
+
+   44309.DAT                  Tyre 22/ 73 x 30 ZR
+   changed to    Tyre 22/ 30 x 30 ZR
+
+   4714.DAT                   Stretcher
+   changed to    Minifig Stretcher
+
+   47154C01.DAT               Electric Technic Motor 9v Geared (480RPM) (Complete)
+   changed to    Electric Technic Motor 9V Geared (480RPM)
+
+   47543.DAT                  Cone  8 x  4 x  6 Half
+   changed to    =Cone  8 x  4 x  6 Half
+
+   50947P01.DAT               Car Mudguard  4.5 x  1 x  1 with Flame and Headlight Pattern
+   changed to    Car Mudguard  4.5 x  1 x  1 with Flame and Headlight Pattern (Needs Work)
+
+   54200.DAT                  Slope Brick 31  1 x  1 x   2/3 
+   changed to    Slope Brick 31  1 x  1 x  0.667 
+
+   55423.DAT                  Train Wheel for RC Train with Technic Axle Hole
+   changed to    Train Wheel for RC Train w Technic Axle Hole and Rubber Ring
+
+   577C01.DAT                 Minifig Tool Light Sabre - On (Shortcut)
+   changed to    ~Minifig Lightsaber Chrome Silver - 1 Side On (Obsolete)
+
+   577C02.DAT                 Minifig Tool Light Sabre - Dual On (Shortcut)
+   changed to    ~Minifig Lightsaber Chrome Silver - 2 Sides On (Obsolete)
+
+   6039.DAT                   Cone  2 x  2 x  1 & 2/3 Octagonal
+   changed to    Cone  2 x  2 x  1.667 Octagonal
+
+   60476.DAT                  Brick  1 x  1 with Clip Horizontal
+   changed to    Brick  1 x  1 with Clip Horizontal (Thick C-Clip)
+
+   61252.DAT                  Plate  1 x  1 with Clip Horizontal (Open O-Clip)
+   changed to    Plate  1 x  1 with Clip Horizontal (Thick C-Clip)
+
+   63868.DAT                  Plate  1 x  2 with Clip Horizontal on End
+   changed to    Plate  1 x  2 with Clip Horizontal on End (Thick C-Clip)
+
+   64727.DAT                  Bar 0.5L with Blade 3L
+   changed to    Bar  0.5L with Blade 3L
+
+   650.DAT                    Hinge Coupling-Nylon 
+   changed to    Hinge Plate  2 x  7 with 3L Bendable Coupling Nylon
+
+   676P01.DAT                 Roadsign Rectangle with Snack Bar Sign
+   changed to    ~Roadsign Wide Rectangle with Snack Bar White Pattern (Obsolete)
+
+   764.DAT                    Signpost Old
+   changed to    Signpost Cantilever with Suspended Sign
+
+   85970.DAT                  Slope Brick Curved  8 x  1 with Plate  1 x  2
+   changed to    Slope Brick Curved  1 x  8 with Plate  1 x  2
+
+   2683S01.DAT                ~Monorail Motor Top Subpart
+   changed to    ~Monorail Motor Case Quarter
+
+   2684S02.DAT                ~Monorail Motor Bottom Subpart
+   changed to    ~Monorail Motor Bottom - 1/4
+
+   2685S02.DAT                ~Clip for Monorail Connectors
+   changed to    ~Clip for Monorail Motor Connectors
+
+   2995S.DAT                  ~Tyre 68.8 x 40 Q
+   changed to    ~Tyre 40/ 48 x 30 Off Road - 1/18
+
+   2997A.DAT                  ~Tyre 81.6x34 ZR for Large Wheel Hub 1/36
+   changed to    ~Tyre 34/ 38 x 56 ZR - 1/36
+
+   3010B20.DAT                ~Pattern Car Grille for Brick 1 x 4 - Mask
+   changed to    ~Pattern Car Grille for Brick  1 x  4 - Mask
+
+   42511S01.DAT               ~Minifig Skateboard 1/4-part
+   changed to    ~Minifig Skateboard without Top Surface - 1/4
+
+   44308S01.DAT               ~Tyre 22/ 73 x 30 H Segment
+   changed to    ~Tyre 22/ 30 x 30 H Segment
+
+   44309S01.DAT               ~Tyre 22/ 73 x 30 ZR Segment
+   changed to    ~Tyre 22/ 30 x 30 ZR Segment
+
+   4774A.DAT                  ~Electric L. & S. Brick  2 x  2 x  1 &  1/3 Siren Base - Chrome
+   changed to    ~Electric Light & Sound Brick  2 x  2 x  1.333 Siren Base - Plate
+
+   U600P01C02.DAT             _Figure Fabuland Poodle  1 with Body Red/Red/White
+   changed to    _Figure Fabuland Poodle  1 with Body Red/White/White
+
+   U600P02C02.DAT             _Figure Fabuland Poodle  2 with Body Red/Red/White
+   changed to    _Figure Fabuland Poodle  2 with Body Red/White/White
+
+   U9132C01.DAT               ~Axle Steel  4 x 72 with Two Wheels  4 x  8
+   changed to    ~Axle Steel  4 x  72 LDU with Two Wheels  4 x  8
+
+   U9133C01.DAT               ~Axle Steel  4 x 114 with Two Wheels  4 x  8
+   changed to    ~Axle Steel  4 x 114 LDU with Two Wheels  4 x  8
+
+Other Fixed Parts
+   1-4CYLS2.DAT               Hi-Res Cylinder Sloped 0.25 Convex
+   T06Q5000.DAT               Hi-Res Torus Tube  1 x 0.5000 x 0.1667
+   T12O0349.DAT               Hi-Res Torus Outside  1 x 0.0349 x 0.0833
+   BUSH0.DAT                  Technic Bush without Collars
+   R04O1500.DAT               Torus Outside  1 x 1.5000 x 0.25
+   T01I1579.DAT               Torus Inside  1 x 0.1579 x  1
+   T01I3333.DAT               Torus Inside  1 x 0.3333 x 1
+   T01I3600.DAT               Torus Inside  1 x 0.3600 x 1
+   T01O0556.DAT               Torus Outside  1 x 0.0556 x 1
+   T01O0625.DAT               Torus Outside  1 x 0.0625 x 1
+   T01O1154.DAT               Torus Outside  1 x 0.1154 x 1
+   T01O1429.DAT               Torus Outside  1 x 0.1429 x 1
+   T01O1579.DAT               Torus Outside  1 x 0.1579 x 1
+   T01O2500.DAT               Torus Outside  1 x 0.2500 x 1
+   T01O3333.DAT               Torus Outside  1 x 0.3333 x 1
+   T01O3750.DAT               Torus Outside  1 x 0.3750 x 1
+   T01O3810.DAT               Torus Outside  1 x 0.3810 x 1
+   T01O4000.DAT               Torus Outside  1 x 0.4000 x 1
+   T02I1111.DAT               Torus Inside  1 x 0.1111 x 0.5
+   T02O1111.DAT               Torus Outside  1 x 0.1111 x 0.5
+   T02Q3333.DAT               Torus Tube  1 x 0.3333 x 0.5
+   T04I1429.DAT               Torus Inside  1 x 0.1429 x 0.25
+   T04I1765.DAT               Torus Inside  1 x 0.1765 x 0.25
+   T04I2000.DAT               Torus Inside  1 x 0.2000 x 0.25
+   T04I2667.DAT               Torus Inside  1 x 0.2667 x 0.25
+   T04O0833.DAT               Torus Outside  1 x 0.0833 x 0.25
+   T04O1765.DAT               Torus Outside  1 x 0.1765 x 0.25
+   T04O1905.DAT               Torus Outside  1 x 0.1905 x 0.25
+   T04O2667.DAT               Torus Outside  1 x 0.2667 x 0.25
+   T04O8889.DAT               Torus Outside  1 x 0.8889 x 0.25
+   T04OUNIT.DAT               Torus Outside  1 x 1 x 0.25
+   T04Q1538.DAT               Torus Tube  1 x 0.1538 x 0.25
+   T04Q3750.DAT               Torus Tube  1 x 0.3750 x 0.25
+   T16O1429.DAT               Torus Outside  1 x 0.1429 x 0.0625
+   11954.DAT                  Technic Panel Smooth 11 x  2 x  3 with 10 Front Pin Holes
+   2039.DAT                   Lamppost  2 x  2 x  7
+   2340.DAT                   Tail  4 x  1 x  3
+   2352.DAT                   Windscreen  2 x  4 x  3
+   2356.DAT                   Brick  4 x  6
+   2475.DAT                   Brush Holder Car Wash
+   2545.DAT                   Minifig Hat Imperial Guard Shako
+   2555.DAT                   Tile  1 x  1 with Clip
+   2564.DAT                   Boat Anchor
+   2682.DAT                   ~Monorail Motor Switch
+   2683.DAT                   ~Monorail Motor Case
+   2684.DAT                   ~Monorail Motor Base
+   2685.DAT                   ~Monorail Motor Clip
+   2819.DAT                   Technic Steering Wheel Small
+   2838.DAT                   ~Electric Technic Motor  9V Base
+   2912.DAT                   ~Electric Train Track  9V Power Connector Top (Needs Work)
+   2913.DAT                   ~Electric Train Track  9V Power Connector 
+   3004P06.DAT                Brick  1 x  2 with Black Grille Pattern
+   30083.DAT                  Windscreen  6 x  6 x  3 Dome with Hinge
+   30094.DAT                  Plate  2 x  2 with Rod Frame Rectangular
+   3039PS1.DAT                Slope Brick 45  2 x  2 with SW Trench Computer Pattern
+   3040P58.DAT                Slope Brick 45  2 x  1 with Targeting Screen Pattern
+   30503.DAT                  Plate  4 x  4 without Corner
+   30619.DAT                  Cockpit  6 x  6 x  2.667 with Click Hinge
+   3187.DAT                   Gate  1 x  4 x  2 Base
+   32072.DAT                  Technic Gear  4 Knob
+   3359.DAT                   Gate  1 x  3 x  2 Base
+   3754P01.DAT                Brick  1 x  6 x  5 with Satellite Repair Pattern
+   3816P6W.DAT                Minifig Leg Right with Golden Circuit Pattern
+   3816PDE.DAT                Minifig Leg Right with Laboratory Smock Pattern
+   3962A.DAT                  Minifig Radio with Short Handle
+   3962B.DAT                  Minifig Radio with Long Handle
+   4035.DAT                   Train Window  1 x  2 x  3
+   41881.DAT                  Windscreen 12 x  6 x  6 Curved
+   4201.DAT                   Brick  8 x  8
+   4202.DAT                   Brick  4 x 12
+   4204.DAT                   Brick  8 x 16
+   4222A.DAT                  Fabuland Chair
+   42448.DAT                  Gate  1 x  4 x  9 Arched with Bars
+   42511.DAT                  Minifig Skateboard with Four Wheel Clips
+   4438.DAT                   Fabuland Axe
+   4588.DAT                   Brick  1 x  1 Round with Fins
+   4736.DAT                   Minifig Jet-Pack with Stud On Front
+   47405.DAT                  Boat Bow Plate 12 x  8
+   4774.DAT                   ~Electric Light & Sound Brick  2 x  2 x  1.333 Siren Base
+   4794B.DAT                  Fabuland Oar with Bar Handle 
+   501A.DAT                   ~Electric Train Motor 12V with 2-Hole Plugs
+   501B.DAT                   ~Electric Train Motor 12V Unslotted with 3-Hole Plugs
+   501C.DAT                   ~Electric Train Motor 12V Slotted with 3-Hole Plugs
+   560.DAT                    ~Electric  4.5V Battery Box  7 x 11 x  3 Type 1 Lid
+   6107.DAT                   Brick  5 x  5 Facet
+   6168.DAT                   ~Support  2 x  2 x 11 Solid Pillar Base
+   6212.DAT                   Brick  4 x 10
+   784.DAT                    Excavator Bucket  2 x  4
+   84728.DAT                  ~Electric Power Functions Rechargeable Battery Box Power Input
+   87614.DAT                  Tail 12 x  2 x  5
+   92693C01.DAT               Technic Linear Actuator Small Body Assembly
+   973P2A.DAT                 Minifig Torso with Chef Pattern
+   973PDB.DAT                 Minifig Torso with 3-Piece Suit, White Shirt and Red Tie Pattern
+   98347.DAT                  Technic Blade Curved  0.5 x  4 with Pin Hole
+   98568.DAT                  Technic Sword 11.5L with Sawtooth Back
+   993.DAT                    ~Electric Cable 3LDU Twin
+   994.DAT                    ~Electric Cable 3LDU Twin End for Plug Twin
+   2685S01.DAT                ~Monorail Motor Connector Subpart 1
+   3003S01.DAT                ~Brick  2 x  2 without Front Face
+   3010A20.DAT                ~Pattern Car Grille for Brick 1 x 4 - Colour
+   30370PS1A.DAT              ~Minifig Helmet Star Wars Rebel Pilot - Red & Black Line Pattern
+   30370PS1B.DAT              ~Minifig Helmet Star Wars Rebel Pilot - Yellow Grid Pattern
+   3068BP54S01.DAT            ~UFO Pattern - Half
+   3816S01.DAT                ~Minifig Leg Right without Front Surfaces
+   40575S01.DAT               ~Electric Spybotic Cover Top Side
+   5292S01.DAT                ~Electric RC Race Buggy Motor - Half
+   58124S01.DAT               ~Electric Power Functions Connector Top
+   647S01.DAT                 ~Roadsign Square without Decorated Surface
+   700S02.DAT                 ~Technic Gear Large - Hub Subpart
+   98568S01.DAT               ~Technic Sword 11.5L with Sawtooth Back Tooth
+   98568S02.DAT               ~Technic Sword 11.5L with Sawtooth Back Blade
+   98568S03.DAT               ~Technic Sword 11.5L with Sawtooth Back Hilt and Back
+   U9016.DAT                  ~Electric RC Race Buggy Motor

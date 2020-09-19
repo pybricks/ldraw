@@ -1,14 +1,18 @@
 0 Excavator Bucket  2 x  4
 0 Name: 784.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Vehicle
+
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-07-22 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2013-08-29 [cwdee] Update category
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 3 16 24 8 40 4 8 40 4 -16 40
 4 16 47 -14 40 24 8 40 4 -16 40 45 -16 40

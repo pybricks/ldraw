@@ -1,7 +1,7 @@
-0 Minfig Tray Oval
+0 Minifig Tray Oval
 0 Name: 11252.dat
 0 Author: Owen Burgoyne [C3POwen]
-0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,6 +10,8 @@
 0 !KEYWORDS Waiter
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2013-07-27 [cwdee] Correct typo in description
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 -4 0 26.5 0 0 0 -1 0 0 0 18 48\4-4disc.dat

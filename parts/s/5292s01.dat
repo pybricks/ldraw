@@ -1,12 +1,14 @@
 0 ~Electric RC Race Buggy Motor - Half
 0 Name: s\5292s01.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2009-02
+0 !LDRAW_ORG Subpart UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2013-03-29 [MagFors] Changed colour 383 to 494 (real metal)
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 0 BFC INVERTNEXT
 1 16 0 -40 32 6 0 0 0 0 -6 0 16 0 4-4cyli.dat
@@ -1406,6 +1408,7 @@
 1 16 121.25 -24 58.094 0 0 1.5 -1.5 0 0 0 0.281 0 2-4cyls.dat
 1 16 121.25 -24 58.375 1.5 0 0 0 0 -1.5 0 1 -0.281 4-4edge.dat
 1 16 121.25 -24 58.375 1.5 0 0 0 0 -1.5 0 -1 -0.281 4-4ndis.dat
-1 383 91 15 -30 0 0 -16 -40 0 0 0 60 0 3-16cyli.dat
-4 383 91 -25 30 91 -25 -30 128 -25 -30 128 -25 30
-0
+
+1 494 91 15 -30 0 0 -16 -40 0 0 0 60 0 3-16cyli.dat
+4 494 91 -25 30 91 -25 -30 128 -25 -30 128 -25 30
+

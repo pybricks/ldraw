@@ -1,14 +1,16 @@
 0 Technic Panel Smooth 11 x  2 x  3 with 10 Front Pin Holes
 0 Name: 11954.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2013-02-04 {LEGO Mindstorms Team} Original part shape
+0 !HISTORY 2013-02-04 {LEGO MINDSTORMS Team} Original part shape
 0 !HISTORY 2013-02-14 [Philo] Complete rebuild for LDraw Parts Tracker
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2013-08-04 [cwdee] Correct tag in first HISTORY line
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 0 -20 0 1 0 -1 0 0 0 0 1 connhole.dat
 1 16 0 0 -60 0 1 0 -1 0 0 0 0 1 connhole.dat

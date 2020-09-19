@@ -1,12 +1,14 @@
-0 ~Tyre 22/ 73 x 30 ZR Segment
+0 ~Tyre 22/ 30 x 30 ZR Segment
 0 Name: s\44309s01.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Subpart UPDATE 2013-01
+0 !LDRAW_ORG Subpart UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2013-12-05 [cwdee] Correct description
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 3 16 11.735 50.455 27 8.712 50.853 27 11.388 42.501 27
 2 24 11.735 50.455 27 8.712 50.853 27

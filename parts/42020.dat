@@ -1,7 +1,7 @@
-0 Slope Brick Round  3 x  8 x  2 Left
+0 =Slope Brick Round  3 x  8 x  2 Left
 0 Name: 42020.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part Alias UPDATE 2009-02
+0 !LDRAW_ORG Part Alias UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 0 BFC CERTIFY CW
 
@@ -11,6 +11,8 @@
 0 !HELP 41750 is used for moulding opaque parts, 42020 for transparent parts.
 
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2013-12-14 [cwdee] Add = prefix
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 0 0  1 0 0  0 1 0  0 0 1 41750.dat
 0

@@ -1,7 +1,7 @@
-0 Roller Door Normal
+0 ~Roller Door Normal (Obsolete)
 0 Name: 4218a.dat
 0 Author: Jaco van der Molen [Jaco]
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -16,6 +16,8 @@
 0 !HISTORY 2008-07-07 [tchang] Add BFC, partially rebuild (2008-02-24)
 0 !HISTORY 2009-07-15 [PTadmin] Renamed from 4219 (incorrect number)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2013-11-17 [PTadmin] Geometry corrected in 4218b
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 2 24 -75 23 -2 75 23 -2
 2 24 -75 15 -2 -75 23 -2

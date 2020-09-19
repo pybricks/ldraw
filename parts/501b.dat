@@ -1,7 +1,7 @@
 0 ~Electric Train Motor 12V Unslotted with 3-Hole Plugs
 0 Name: 501b.dat
 0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -15,12 +15,26 @@
 0 !HISTORY 2009-10-06 [Steffen] adjusted origin to match 2894c01.dat
 0 !HISTORY 2009-11-07 [Steffen] removed BFC NOCLIP portions
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2013-04-20 [MagFors] Changed colour 383 to 494 (real metal)
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\501s01.dat
+
 0 BFC INVERTNEXT
-1 383 0 28.5 -99 -15 0 0 0 0 2.5 0 20 0 box4-7a.dat
+1 494 0 28.5 -99 -15 0 0 0 0 2.5 0 20 0 box4-7a.dat
 0 BFC INVERTNEXT
-1 383 0 23.5 -99 -15 0 0 0 0 -2.5 0 20 0 box4-7a.dat
+1 494 0 23.5 -99 -15 0 0 0 0 -2.5 0 20 0 box4-7a.dat
+1 494 -10 26 -85 -3.5 0 0 0 0 3.5 0 -1 0 4-4edge.dat
+0 BFC INVERTNEXT
+1 494 -10 26 -85 -3.5 0 0 0 0 3.5 0 -11 0 4-4cyli.dat
+1 494 -10 26 -85 -3.75 0 0 0 0 3.75 0 -11 0 4-4edge.dat
+1 494 -10 26 -85 -3.75 0 0 0 0 3.75 0 -11 0 4-4cyli.dat
+1 494 10 26 -85 -3.5 0 0 0 0 3.5 0 -1 0 4-4edge.dat
+0 BFC INVERTNEXT
+1 494 10 26 -85 -3.5 0 0 0 0 3.5 0 -11 0 4-4cyli.dat
+1 494 10 26 -85 -3.75 0 0 0 0 3.75 0 -11 0 4-4cyli.dat
+1 494 10 26 -85 -3.75 0 0 0 0 3.75 0 -11 0 4-4edge.dat
+
 1 16 0 26 -100 -4 0 0 0 0 4 0 -1 0 4-4edge.dat
 1 16 0 26 -100 4 0 0 0 0 4 0 1 0 4-4ndis.dat
 1 16 0 26 -96 -4 0 0 0 0 4 0 -1 0 4-4edge.dat
@@ -39,23 +53,29 @@
 1 16 -10 26 -100 -3.5 0 0 0 0 3.5 0 -1 0 4-4edge.dat
 1 16 -10 26 -100 3.5 0 0 0 0 3.5 0 1 0 4-4ndis.dat
 1 16 -10 26 -96 -3.5 0 0 0 0 3.5 0 -1 0 4-4edge.dat
-1 383 -10 26 -85 -3.5 0 0 0 0 3.5 0 -1 0 4-4edge.dat
 0 BFC INVERTNEXT
 1 16 -10 26 -96 -3.5 0 0 0 0 3.5 0 -4 0 4-4cyli.dat
-0 BFC INVERTNEXT
-1 383 -10 26 -85 -3.5 0 0 0 0 3.5 0 -11 0 4-4cyli.dat
-1 383 -10 26 -85 -3.75 0 0 0 0 3.75 0 -11 0 4-4cyli.dat
-1 383 -10 26 -85 -3.75 0 0 0 0 3.75 0 -11 0 4-4edge.dat
-0 BFC INVERTNEXT
-1 383 10 26 -85 -3.5 0 0 0 0 3.5 0 -11 0 4-4cyli.dat
-1 383 10 26 -85 -3.75 0 0 0 0 3.75 0 -11 0 4-4cyli.dat
-1 383 10 26 -85 -3.75 0 0 0 0 3.75 0 -11 0 4-4edge.dat
 1 16 10 26 -100 -3.5 0 0 0 0 3.5 0 -1 0 4-4edge.dat
 1 16 10 26 -100 3.5 0 0 0 0 3.5 0 1 0 4-4ndis.dat
 1 16 10 26 -96 -3.5 0 0 0 0 3.5 0 -1 0 4-4edge.dat
-1 383 10 26 -85 -3.5 0 0 0 0 3.5 0 -1 0 4-4edge.dat
 0 BFC INVERTNEXT
 1 16 10 26 -96 -3.5 0 0 0 0 3.5 0 -4 0 4-4cyli.dat
+
+0 BFC INVERTNEXT
+1 494 0 18 87.5 -15 0 0 0 20 0 0 0 -2.5 box4-7a.dat
+0 BFC INVERTNEXT
+1 494 0 18 92.5 -15 0 0 0 20 0 0 0 2.5 box4-7a.dat
+1 494 10 31 90 -3.5 0 0 0 -1 0 0 0 -3.5 4-4edge.dat
+0 BFC INVERTNEXT
+1 494 10 31 90 -3.5 0 0 0 -11 0 0 0 -3.5 4-4cyli.dat
+1 494 10 31 90 -3.75 0 0 0 -11 0 0 0 -3.75 4-4edge.dat
+1 494 10 31 90 -3.75 0 0 0 -11 0 0 0 -3.75 4-4cyli.dat
+1 494 -10 31 90 -3.5 0 0 0 -1 0 0 0 -3.5 4-4edge.dat
+0 BFC INVERTNEXT
+1 494 -10 31 90 -3.5 0 0 0 -11 0 0 0 -3.5 4-4cyli.dat
+1 494 -10 31 90 -3.75 0 0 0 -11 0 0 0 -3.75 4-4edge.dat
+1 494 -10 31 90 -3.75 0 0 0 -11 0 0 0 -3.75 4-4cyli.dat
+
 1 16 0 16 90 -4 0 0 0 -1 0 0 0 -4 4-4edge.dat
 1 16 0 16 90 -4 0 0 0 1 0 0 0 4 4-4ndis.dat
 1 16 0 20 90 -4 0 0 0 -1 0 0 0 -4 4-4edge.dat
@@ -74,14 +94,12 @@
 1 16 -10 16 90 -3.5 0 0 0 -1 0 0 0 -3.5 4-4edge.dat
 1 16 -10 16 90 -3.5 0 0 0 1 0 0 0 3.5 4-4ndis.dat
 1 16 -10 20 90 -3.5 0 0 0 -1 0 0 0 -3.5 4-4edge.dat
-1 383 -10 31 90 -3.5 0 0 0 -1 0 0 0 -3.5 4-4edge.dat
 0 BFC INVERTNEXT
 1 16 -10 20 90 -3.5 0 0 0 -4 0 0 0 -3.5 4-4cyli.dat
 0 BFC INVERTNEXT
 1 16 10 16 90 -3.5 0 0 0 -1 0 0 0 -3.5 4-4edge.dat
 1 16 10 16 90 -3.5 0 0 0 1 0 0 0 3.5 4-4ndis.dat
 1 16 10 20 90 -3.5 0 0 0 -1 0 0 0 -3.5 4-4edge.dat
-1 383 10 31 90 -3.5 0 0 0 -1 0 0 0 -3.5 4-4edge.dat
 0 BFC INVERTNEXT
 1 16 10 20 90 -3.5 0 0 0 -4 0 0 0 -3.5 4-4cyli.dat
 1 16 -10 16 90 1 0 0 0 1 0 0 0 1 stud2a.dat
@@ -90,18 +108,7 @@
 1 16 10 16 90 4 0 0 0 4 0 0 0 4 4-4edge.dat
 1 16 -10 16 90 4 0 0 0 4 0 0 0 4 4-4edge.dat
 1 16 -10 16 90 6 0 0 0 6 0 0 0 6 4-4edge.dat
-0 BFC INVERTNEXT
-1 383 0 18 87.5 -15 0 0 0 20 0 0 0 -2.5 box4-7a.dat
-0 BFC INVERTNEXT
-1 383 0 18 92.5 -15 0 0 0 20 0 0 0 2.5 box4-7a.dat
-0 BFC INVERTNEXT
-1 383 10 31 90 -3.5 0 0 0 -11 0 0 0 -3.5 4-4cyli.dat
-1 383 10 31 90 -3.75 0 0 0 -11 0 0 0 -3.75 4-4cyli.dat
-1 383 10 31 90 -3.75 0 0 0 -11 0 0 0 -3.75 4-4edge.dat
-0 BFC INVERTNEXT
-1 383 -10 31 90 -3.5 0 0 0 -11 0 0 0 -3.5 4-4cyli.dat
-1 383 -10 31 90 -3.75 0 0 0 -11 0 0 0 -3.75 4-4cyli.dat
-1 383 -10 31 90 -3.75 0 0 0 -11 0 0 0 -3.75 4-4edge.dat
+
 4 16 -40 16 -96 40 16 -96 40 16 -100 -40 16 -100
 2 24 -40 16 -100 40 16 -100
-0
+

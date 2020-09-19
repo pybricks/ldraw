@@ -1,15 +1,17 @@
 0 Cockpit  6 x  6 x  2.667 with Click Hinge
 0 Name: 30619.dat
 0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Vehicle
 0 !KEYWORDS base, cabin
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2013-08-29 [cwdee] Remove category Vehicle as Cockpit now valid
+0 !HISTORY 2013-08-30 [MMR1988] Used more Stud Groups, corrected a typo
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 0 // Origin and geometry according to 45406.
 
@@ -57,15 +59,7 @@
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30619s01.dat
 1 16 -10 112 -20 0 0 1 0 1 0 -1 0 0 stug-3x3.dat
 1 16 30 112 -20 0 0 1 0 1 0 -1 0 0 stug-1x3.dat
-1 16 -30 96 -60 0 0 1 0 1 0 -1 0 0 stud2.dat
-1 16 -50 96 -40 0 0 1 0 1 0 -1 0 0 stud2.dat
-1 16 -50 96 -20 0 0 1 0 1 0 -1 0 0 stud2.dat
-1 16 -50 96 0 0 0 1 0 1 0 -1 0 0 stud2.dat
-1 16 50 96 0 0 0 1 0 1 0 -1 0 0 stud2.dat
-1 16 50 96 -20 0 0 1 0 1 0 -1 0 0 stud2.dat
-1 16 50 96 -40 0 0 1 0 1 0 -1 0 0 stud2.dat
-1 16 -10 96 -60 0 0 1 0 1 0 -1 0 0 stud2.dat
-1 16 10 96 -60 0 0 1 0 1 0 -1 0 0 stud2.dat
-1 16 30 96 -60 0 0 1 0 1 0 -1 0 0 stud2.dat
-1 16 -10 0 40 0 0 1 0 1 0 -1 0 0 stud2.dat
-1 16 10 0 40 0 0 1 0 1 0 -1 0 0 stud2.dat
+1 16 -50 96 -20 0 0 1 0 1 0 -1 0 0 stug2-1x3.dat
+1 16 50 96 -20 0 0 1 0 1 0 -1 0 0 stug2-1x3.dat
+1 16 0 96 -60 0 0 1 0 1 0 -1 0 0 stug2-4x1.dat
+1 16 0 0 40 0 0 1 0 1 0 -1 0 0 stug2-2x1.dat

@@ -1,7 +1,7 @@
-0 Hinge Coupling-Nylon 
+0 Hinge Plate  2 x  7 with 3L Bendable Coupling Nylon
 0 Name: 650.dat
 0 Author: Arne Hackstein
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,42 +11,10 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [OrionP] Made BFC compliant (2005-01-08)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2013-09-12 [tchang]  Rewrite from scratch
+0 !HISTORY 2013-11-23 [Steffen] added 650c.dat
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
-1 16 0 2 -24 2 0 0 0 0 -2 0 48 0 box4o8a.dat
-1 16 0 2 30 0 0 -20 -2 0 0 0 40 0 box5-4a.dat
-1 16 0 2 -30 0 0 20 -2 0 0 0 -40 0 box5-4a.dat
-1 16 14 2 -30 0 0 6 -2 0 0 0 -1 0 rect3.dat
-1 16 -14 2 -30 0 0 -6 2 0 0 0 -1 0 rect3.dat
-1 16 -14 2 30 0 0 -6 -2 0 0 0 1 0 rect3.dat
-1 16 14 2 30 0 0 6 2 0 0 0 1 0 rect3.dat
-1 16 8 4 -24 -6 0 0 0 1 0 0 0 -6 1-4edge.dat
-1 16 -8 4 -24 6 0 0 0 1 0 0 0 -6 1-4edge.dat
-1 16 8 0 -24 -6 0 0 0 1 0 0 0 -6 1-4edge.dat
-1 16 -8 0 -24 6 0 0 0 1 0 0 0 -6 1-4edge.dat
-1 16 8 4 -24 -6 0 0 0 -1 0 0 0 -6 1-4ndis.dat
-1 16 -8 4 -24 6 0 0 0 -1 0 0 0 -6 1-4ndis.dat
-1 16 8 0 -24 -6 0 0 0 1 0 0 0 -6 1-4ndis.dat
-1 16 -8 0 -24 6 0 0 0 1 0 0 0 -6 1-4ndis.dat
-0 BFC INVERTNEXT
-1 16 8 4 -24 -6 0 0 0 -4 0 0 0 -6 1-4cyli.dat
-0 BFC INVERTNEXT
-1 16 -8 4 -24 6 0 0 0 -4 0 0 0 -6 1-4cyli.dat
-1 16 8 4 24 -6 0 0 0 1 0 0 0 6 1-4edge.dat
-1 16 -8 4 24 6 0 0 0 1 0 0 0 6 1-4edge.dat
-1 16 8 0 24 -6 0 0 0 1 0 0 0 6 1-4edge.dat
-1 16 -8 0 24 6 0 0 0 1 0 0 0 6 1-4edge.dat
-1 16 8 4 24 -6 0 0 0 -1 0 0 0 6 1-4ndis.dat
-1 16 -8 4 24 6 0 0 0 -1 0 0 0 6 1-4ndis.dat
-1 16 8 0 24 -6 0 0 0 1 0 0 0 6 1-4ndis.dat
-1 16 -8 0 24 6 0 0 0 1 0 0 0 6 1-4ndis.dat
-0 BFC INVERTNEXT
-1 16 8 4 24 -6 0 0 0 -4 0 0 0 6 1-4cyli.dat
-0 BFC INVERTNEXT
-1 16 -8 4 24 6 0 0 0 -4 0 0 0 6 1-4cyli.dat
-1 16 0 0 50 1 0 0 0 1 0 0 0 1 stug2.dat
-1 16 0 0 -50 1 0 0 0 1 0 0 0 1 stug2.dat
-4 16 -2 0 30 -2 0 24 2 0 24 2 0 30
-4 16 2 4 30 2 4 24 -2 4 24 -2 4 30
-4 16 2 0 -30 2 0 -24 -2 0 -24 -2 0 -30
-4 16 -2 4 -30 -2 4 -24 2 4 -24 2 4 -30
-0
+1 16 0 0 -50 1 0 0 0 1 0 0 0 1 650a.dat
+1 16 0 0 50 1 0 0 0 1 0 0 0 1 650b.dat
+1 16 0 1.25 132 1 0 0 0 0 1 0 -48 0 650c.dat

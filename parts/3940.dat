@@ -1,7 +1,7 @@
-0 Space Stand  2 x  2 x  2
+0 Support  2 x  2 x  2 Round
 0 Name: 3940.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,6 +12,8 @@
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant; changed edges/polygons to primitives; added missing surfaces (2004-11-16)
 0 !HISTORY 2008-07-08 [sbliss] Restored essentially unmodified codelines (2004-11-16)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2013-08-29 [cwdee] Updated description
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 2 24 20 48 0 18.48 48 7.65
 2 24 18.48 48 7.65 16 48 11.36

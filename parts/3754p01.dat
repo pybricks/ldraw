@@ -1,7 +1,7 @@
 0 Brick  1 x  6 x  5 with Satellite Repair Pattern
 0 Name: 3754p01.dat
 0 Author: Arne Hackstein
-0 !LDRAW_ORG Part UPDATE 2010-02
+0 !LDRAW_ORG Part UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -14,9 +14,10 @@
 0 !HISTORY 2008-07-07 [Holly-Wood] Complete rewrite to substitute BMP2DAT version (2005-08-21)
 0 !HISTORY 2009-02-28 [Holly-Wood] Changed color 257 to 272
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+0 !HISTORY 2013-07-18 [cwdee] Removed unnecessary overlapping triangle (per Kevin Loddewykx)
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 0 // White
-
 
 1 15 -23.03 75.32 -10 -0.871 0 -1.77 -1.868 0 0.825 0 1 0 1-4disc.dat
 1 15 -24.19 70.37 -10 -0.391 0 -0.921 -0.921 0 0.391 0 1 0 1-4disc.dat
@@ -1085,8 +1086,8 @@
 4 7 -33.425 57.612 -10 -34.636 57.691 -10 -34.774 57.277 -10 -33.229 57.138 -10
 4 7 -33.754 58.036 -10 -34.407 58.03 -10 -34.636 57.691 -10 -33.425 57.612 -10
 3 7 -33.754 58.036 -10 -34.123 58.17 -10 -34.407 58.03 -10
-3 7 -37.979 46.743 -10 -31.128 40.212 -10 -32.27 43.557 -10
-3 7 -31.128 40.212 -10 -32.27 43.557 -10 -32.605 43.728 -10
+3 7 -37.979 46.743 -10 -31.128 40.212 -10 -32.605 43.728 -10
+3 7 -32.27 43.557 -10 -32.605 43.728 -10 -31.128 40.212 -10
 4 7 -37.979 46.743 -10 -32.605 43.728 -10 -35.875 47.271 -10 -36.208 47.442 -10
 3 7 -35.875 47.271 -10 -32.605 43.728 -10 -32.813 44.089 -10
 3 7 -35.875 47.271 -10 -32.813 44.089 -10 -32.877 44.471 -10

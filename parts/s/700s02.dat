@@ -1,20 +1,22 @@
 0 ~Technic Gear Large - Hub Subpart
 0 Name: s\700s02.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2009-01
+0 !LDRAW_ORG Subpart UPDATE 2013-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2013-03-29 [MagFors] Changed colour 383 to 494 (real metal)
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
 1 16 0 0 6 10 0 0 0 0 -10 0 1 0 4-4edge.dat
 1 16 0 0 10 10 0 0 0 0 -10 0 1 0 4-4edge.dat
-1 16 0 0 2 6 0 0 0 0 -6 0 1 0 ring1.dat
+1 16 0 0 2 6 0 0 0 0 -6 0 1 0 4-4ring1.dat
 1 16 0 0 2 12 0 0 0 0 -12 0 1 0 4-4ndis.dat
 1 16 0 0 6 -12 0 0 0 0 -12 0 -1 0 4-4ndis.dat
 1 16 0 0 6 -2 0 0 0 0 -2 0 -1 0 4-4ring5.dat
-1 16 0 0 10 3 0 0 0 0 -3 0 -1 0 ring2.dat
+1 16 0 0 10 3 0 0 0 0 -3 0 -1 0 4-4ring2.dat
 1 16 0 0 10 1 0 0 0 0 -1 0 -1 0 4-4ring9.dat
 1 16 0 0 2 0.707107 0 -0.707107 -0.707107 0 -0.707107 0 8 0 axlehole.dat
 1 16 0 0 10 0.707107 0 -0.707107 -0.707107 0 -0.707107 0 1 0 axlehol2.dat
@@ -231,9 +233,11 @@
 1 16 0 0 -2 7 0 0 0 0 -7 0 4 0 4-4cyli.dat
 1 16 0 0 2 7 0 0 0 0 -7 0 1 0 4-4edge.dat
 1 16 0 0 -2 8 0 0 0 0 -8 0 4 0 4-4cyli.dat
-1 16 0 0 -2 1 0 0 0 0 -1 0 1 0 ring7.dat
-1 383 0 0 0 6 0 0 0 0 -6 0 -6 0 t04q0625.dat
-1 383 0 0 0 0 0 -6 -6 0 0 0 -6 0 t04q0625.dat
-1 383 0 0 0 -6 0 0 0 0 6 0 -6 0 t04q0625.dat
-1 383 0 0 0 0 0 6 6 0 0 0 -6 0 t04q0625.dat
-0
+1 16 0 0 -2 1 0 0 0 0 -1 0 1 0 4-4ring7.dat
+
+0 // Steel ring, spring locking device
+1 494 0 0 0 6 0 0 0 0 -6 0 -6 0 t04q0625.dat
+1 494 0 0 0 0 0 -6 -6 0 0 0 -6 0 t04q0625.dat
+1 494 0 0 0 -6 0 0 0 0 6 0 -6 0 t04q0625.dat
+1 494 0 0 0 0 0 6 6 0 0 0 -6 0 t04q0625.dat
+
