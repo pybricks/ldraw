@@ -1,12 +1,14 @@
-0 ~Brick Round Corner  3 x  3 x  2 Dome Top Half
+0 ~Brick  3 x  3 x  2 Round Corner with Dome Top - Half
 0 Name: s\88293s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
+0 !LDRAW_ORG Subpart UPDATE 2015-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+0 !HISTORY 2015-12-24 [cwdee] Update description
+0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
 
 1 16 -10 40 10 20 0 0 0 -20 0 0 0 -20 48\r08o2000.dat
 1 16 -10 40 10 60 0 0 0 4 0 0 0 -60 48\1-8cyli.dat
