@@ -1,12 +1,16 @@
-0 Wedge  4 x  6 x  0.667 Curved
+0 Slope Brick 45  4 x  6 x  0.667 Double Curved
 0 Name: 52031.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Part UPDATE 2010-01
+0 !LDRAW_ORG Part UPDATE 2019-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS Wedge
+
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+0 !HISTORY 2019-06-01 [cwdee] Align description with 32739
+0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
 4 16 -41 16 -61 -44 16 -60 -44 16 6 -41 16 6
 4 16 -40 16 10 -40 16 6 -56 16 6 -60 16 10

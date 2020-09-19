@@ -1,7 +1,7 @@
-0 ~Motor Pull Back  2 x  6 x  1.333 Type 1 - Top
+0 ~Motor Pull Back  2 x  6 x  1.333 Top
 0 Name: 41856.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LDRAW_ORG Part UPDATE 2019-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -9,6 +9,8 @@
 0 !CATEGORY Vehicle
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2019-08-31 [PTadmin] Update description
+0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
 2 24 20 8 80 -20 8 80
 2 24 16 8 76 -16 8 76

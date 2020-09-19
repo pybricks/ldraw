@@ -1,0 +1,15 @@
+0 Tile  1 x  4 with Metallic Silver Stormtrooper Utility Belt Pattern
+0 Name: 2431pzc.dat
+0 Author: Damien Roux [Darats]
+0 !LDRAW_ORG Part UPDATE 2019-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 2431pb490, Set 41486, Brickheadz, Captain Phasma
+
+0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
+1 80 0 0 0 1 0 0 0 1 0 0 0 1 s\2431pzbs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431pzbs02.dat

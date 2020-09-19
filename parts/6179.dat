@@ -1,7 +1,7 @@
 0 Tile  4 x  4 with Studs on Edge
 0 Name: 6179.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2019-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,29 +11,8 @@
 0 !HISTORY 2008-07-07 [tchang] Add BFC (2008-03-20)
 0 !HISTORY 2008-07-08 [tchang] Change studs orientation (2008-03-28)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2019-07-28 [Cheenzo] Subparted for patterns
+0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
-1 16 20 4 20 1 0 0 0 -1 0 0 0 1 stud4.dat
-1 16 0 4 20 1 0 0 0 -1 0 0 0 1 stud4.dat
-1 16 -20 4 20 1 0 0 0 -1 0 0 0 1 stud4.dat
-1 16 20 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
-1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
-1 16 -20 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
-1 16 20 4 -20 1 0 0 0 -1 0 0 0 1 stud4.dat
-1 16 0 4 -20 1 0 0 0 -1 0 0 0 1 stud4.dat
-1 16 -20 4 -20 1 0 0 0 -1 0 0 0 1 stud4.dat
-
-0 BFC INVERTNEXT
-1 16 0 8 0 36 0 0 0 -4 0 0 0 36 box5.dat
-
-4 16 40 8 40 36 8 36 -36 8 36 -40 8 40
-4 16 -40 8 40 -36 8 36 -36 8 -36 -40 8 -40
-4 16 -40 8 -40 -36 8 -36 36 8 -36 40 8 -40
-4 16 40 8 -40 36 8 -36 36 8 36 40 8 40
-
-1 16 0 8 0 40 0 0 0 -8 0 0 0 40 box5.dat
-
-1 16 30 0 30 0 0 -1 0 1 0 1 0 0 stud.dat
-1 16 10 0 30 0 0 -1 0 1 0 1 0 0 stud.dat
-1 16 -10 0 30 0 0 -1 0 1 0 1 0 0 stud.dat
-1 16 -30 0 30 0 0 -1 0 1 0 1 0 0 stud.dat
-0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6179s01.dat
+4 16 -40 0 20 -40 0 -40 40 0 -40 40 0 20

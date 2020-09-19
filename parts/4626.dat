@@ -1,25 +1,28 @@
 0 Excavator Bucket  2 x  3
 0 Name: 4626.dat
 0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2019-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Vehicle
 0 !KEYWORDS excavation, digger, town, heavy equipment, construction
 0 !KEYWORDS hinge, 2-finger
 
 0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
-0 !HISTORY 2001-10-16 [pneaster] adjusted a few quads, rearranged quad winding, Added bfc 
+0 !HISTORY 2001-10-16 [pneaster] adjusted a few quads, rearranged quad winding, Added bfc
 0 !HISTORY 2001-11-23 [pneaster] corrected BFC primitive use
 0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
 0 !HISTORY 2003-07-09 [sbliss] Updated name to align with similar parts
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-07-15 [MMR1988] Add bumps
 0 !HISTORY 2010-07-15 [MagFors] Added condlines, used more primitives
+0 !HISTORY 2010-07-15 [MMR1988] Add bumps
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2019-05-29 [Philo] Corrected wrong back stud spacing
+0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
 1 16 -20 20 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT
@@ -40,8 +43,8 @@
 
 0 BFC INVERTNEXT
 1 16 -18 9.5 0 0 0 -9 0 9.5 0 17 0 0 box2-5.dat
-1 16 -8.5 20.15 0 0 -39.1 0.5 0 17 1.15 -17 0 0 rect3.dat
-1 16 -6.5 21.325 0 1.5 -1.7 0 0.025 102 0 0 0 17 rect2p.dat
+1 16 -8.5 20.15 0 0 0 0.5 0 1 1.15 -17 0 0 rect3.dat
+1 16 -6.5 21.325 0 1.5 0 0 0.025 1 0 0 0 17 rect2p.dat
 2 24 -5 21.35 -17 3.65 19.25 -17
 2 24 3.65 19.25 -17 13.7 13.7 -17
 2 24 13.7 13.7 -17 21 7.8 -17
@@ -101,7 +104,7 @@
 4 16 -27 0 -17 -27 0 17 -30 0 20 -30 0 -20
 4 16 27 0 -17 -27 0 -17 -30 0 -20 30 0 -20
 4 16 27 0 17 27 0 -17 30 0 -20 30 0 20
-0 //
+
 1 16 -34 0 0 0 0 -4 0 4 0 10 0 0 box4-2p.dat
 1 16 -34 0 0 0 0 -4 0 1 0 2 0 0 rect3.dat
 2 24 -38 0 10 -38 0 6
@@ -116,8 +119,7 @@
 1 16 -34 -4 -6 0 0 4 4 0 0 0 4 0 box3u8p.dat
 1 16 -34 -8 -2 -4 0 0 0 0 -4 0 -4 0 2-4cylc.dat
 1 16 -34 -8 2 -4 0 0 0 0 -4 0 4 0 2-4cylc.dat
-1 16 -30 14 -8 0 1 0 1 0 0 0 0 -1 stud2.dat
-1 16 -30 14 8 0 1 0 1 0 0 0 0 -1 stud2.dat
+1 16 -30 14 0 0 1 0 1 0 0 0 0 -1 stug2-2x1.dat
 0 BFC INVERTNEXT
 1 16 -34 -8 -6 0 0 3.5 -3.5 0 0 0 -1.5 0 bump5000.dat
 1 16 -34 -8 -6 -0.5 0 0 0 0 -0.5 0 1 0 4-4ring7.dat

@@ -1,7 +1,7 @@
-0 ~Motor Pull Back  2 x  6 x  1.667 Type 2 Case Top (Needs Work)
+0 ~Motor Pull Back  2 x  6 x  1.667 Top (Needs Work)
 0 Name: 41858.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2019-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -9,6 +9,8 @@
 0 !CATEGORY Vehicle
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2019-08-31 [PTadmin] Update description
+0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
 0 // Needs Work: Details on back of part needs to be adjusted
 

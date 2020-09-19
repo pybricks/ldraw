@@ -1,0 +1,790 @@
+LDraw.org Parts Update 2019-02
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Physical Colour Parts Library
+---------------------------------------------------------------------------
+
+Notes created Mon Sep  9 15:41:57 2019 by the Parts Tracker.
+
+Release statistics:
+   Total files: 264
+   New files: 7
+   New parts: 7
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   No parts were moved.
+
+Renamed Parts
+   241901.DAT                 _Plate  3 x  6 without Corners White
+   changed to    ~_Plate  3 x  6 without Corners White (Obsolete)
+
+   241921.DAT                 _Plate  3 x  6 without Corners Red
+   changed to    ~_Plate  3 x  6 without Corners Red (Obsolete)
+
+   242021.DAT                 _Plate  2 x  2 Corner Red
+   changed to    ~_Plate  2 x  2 Corner Red (Obsolete)
+
+   243101.DAT                 _Tile  1 x  4 White
+   changed to    ~_Tile  1 x  4 White (Obsolete)
+
+   245021.DAT                 _Plate  3 x  3 without Corner Red
+   changed to    ~_Plate  3 x  3 without Corner Red (Obsolete)
+
+   255526.DAT                 _Tile  1 x  1 with Clip Black
+   changed to    ~_Tile  1 x  1 with Clip Black (Obsolete)
+
+   292126.DAT                 _Brick  1 x  1 with Handle Black
+   changed to    ~_Brick  1 x  1 with Handle Black (Obsolete)
+
+   300301.DAT                 _Brick  2 x  2 White
+   changed to    ~_Brick  2 x  2 White (Obsolete)
+
+   3003126.DAT                _Minifig Handlebars Black 
+   changed to    ~_Minifig Handlebars Black (Obsolete)
+
+   300321.DAT                 _Brick  2 x  2 Red
+   changed to    ~_Brick  2 x  2 Red (Obsolete)
+
+   3003941.DAT                _Tile  1 x  1 with Groove Trans Red
+   changed to    ~_Tile  1 x  1 with Groove Trans Red (Obsolete)
+
+   300401.DAT                 _Brick  1 x  2 White
+   changed to    ~_Brick  1 x  2 White (Obsolete)
+
+   300421.DAT                 _Brick  1 x  2 Red
+   changed to    ~_Brick  1 x  2 Red (Obsolete)
+
+   300521.DAT                 _Brick  1 x  1 Red
+   changed to    ~_Brick  1 x  1 Red (Obsolete)
+
+   3005741.DAT                _Plate  1 x  1 Round Trans Red
+   changed to    ~_Plate  1 x  1 Round Trans Red (Obsolete)
+
+   3005744.DAT                _Plate  1 x  1 Round Trans Yellow
+   changed to    ~_Plate  1 x  1 Round Trans Yellow (Obsolete)
+
+   301021.DAT                 _Brick  1 x  4 Red
+   changed to    ~_Brick  1 x  4 Red (Obsolete)
+
+   302021.DAT                 _Plate  2 x  4 Red
+   changed to    ~_Plate  2 x  4 Red (Obsolete)
+
+   302026.DAT                 _Plate  2 x  4 Black
+   changed to    ~_Plate  2 x  4 Black (Obsolete)
+
+   302101.DAT                 _Plate  2 x  3 White
+   changed to    ~_Plate  2 x  3 White (Obsolete)
+
+   302226.DAT                 _Plate  2 x  2 Black
+   changed to    ~_Plate  2 x  2 Black (Obsolete)
+
+   302323.DAT                 _Plate  1 x  2 Blue
+   changed to    ~_Plate  1 x  2 Blue (Obsolete)
+
+   302421.DAT                 _Plate  1 x  1 Red
+   changed to    ~_Plate  1 x  1 Red (Obsolete)
+
+   303223.DAT                 _Plate  4 x  6 Blue
+   changed to    ~_Plate  4 x  6 Blue (Obsolete)
+
+   303226.DAT                 _Plate  4 x  6 Black
+   changed to    ~_Plate  4 x  6 Black (Obsolete)
+
+   303923.DAT                 _Slope Brick 45  2 x  2 Blue
+   changed to    ~_Slope Brick 45  2 x  2 Blue (Obsolete)
+
+   303926.DAT                 _Slope Brick 45  2 x  2 Black
+   changed to    ~_Slope Brick 45  2 x  2 Black (Obsolete)
+
+   304826.DAT                 _Slope Brick 45  1 x  2 Triple Black
+   changed to    ~_Slope Brick 45  1 x  2 Triple Black (Obsolete)
+
+   306901.DAT                 _Tile  1 x  2 with Groove White
+   changed to    ~_Tile  1 x  2 with Groove White (Obsolete)
+
+   307024.DAT                 _Tile  1 x  1 with Groove Yellow 
+   changed to    ~_Tile  1 x  1 with Groove Yellow (Obsolete) 
+
+   317626.DAT                 _Plate  3 x  2 with Hole Black
+   changed to    ~_Plate  3 x  2 with Hole Black (Obsolete)
+
+   329826.DAT                 _Slope Brick 33  3 x  2 Black
+   changed to    ~_Slope Brick 33  3 x  2 Black (Obsolete)
+
+   362321.DAT                 _Plate  1 x  3 Red
+   changed to    ~_Plate  1 x  3 Red (Obsolete)
+
+   362626.DAT                 _Minifig Head with Hollow Stud Black
+   changed to    ~_Minifig Head with Hollow Stud Black (Obsolete)
+
+   370101.DAT                 _Technic Brick  1 x  4 with Holes White
+   changed to    ~_Technic Brick  1 x  4 with Holes White (Obsolete)
+
+   370226.DAT                 _Technic Brick  1 x  8 with Holes Black
+   changed to    ~_Technic Brick  1 x  8 with Holes Black (Obsolete)
+
+   370526.DAT                 _Technic Axle  4 Black
+   changed to    ~_Technic Axle  4 Black (Obsolete)
+
+   370626.DAT                 _Technic Axle  6 Black
+   changed to    ~_Technic Axle  6 Black (Obsolete)
+
+   370726.DAT                 _Technic Axle  8 Black
+   changed to    ~_Technic Axle  8 Black (Obsolete)
+
+   370826.DAT                 _Technic Axle 12 Black
+   changed to    ~_Technic Axle 12 Black (Obsolete)
+
+   370926.DAT                 _Technic Plate  2 x  4 Black
+   changed to    ~_Technic Plate  2 x  4 Black (Obsolete)
+
+   371026.DAT                 _Plate  1 x  4 Black
+   changed to    ~_Plate  1 x  4 Black (Obsolete)
+
+   374726.DAT                 _Slope Brick 33  3 x  2 Inverted Black
+   changed to    ~_Slope Brick 33  3 x  2 Inverted Black (Obsolete)
+
+   379421.DAT                 _Plate  1 x  2 with 1 Stud Red
+   changed to    ~_Plate  1 x  2 with 1 Stud Red (Obsolete)
+
+   379424.DAT                 _Plate  1 x  2 with 1 Stud Yellow
+   changed to    ~_Plate  1 x  2 with 1 Stud Yellow (Obsolete)
+
+   379501.DAT                 _Plate  2 x  6 White
+   changed to    ~_Plate  2 x  6 White (Obsolete)
+
+   379523.DAT                 _Plate  2 x  6 Blue
+   changed to    ~_Plate  2 x  6 Blue (Obsolete)
+
+   383201.DAT                 _Plate  2 x 10 White
+   changed to    ~_Plate  2 x 10 White (Obsolete)
+
+   395701.DAT                 _Antenna 4H White
+   changed to    ~_Antenna 4H White (Obsolete)
+
+   40000.DAT                  _Ball 52mm Diameter Yellow
+   changed to    ~_Ball 52mm Diameter Yellow (Obsolete)
+
+   401926.DAT                 _Technic Gear 16 Tooth Black
+   changed to    ~_Technic Gear 16 Tooth Black (Obsolete)
+
+   407026.DAT                 _Brick  1 x  1 with Headlight Black
+   changed to    ~_Brick  1 x  1 with Headlight Black (Obsolete)
+
+   407924.DAT                 _Minifig Seat  2 x  2 Yellow
+   changed to    ~_Minifig Seat  2 x  2 Yellow (Obsolete)
+
+   408126.DAT                 _Plate  1 x  1 with Clip Light Type 2 Black
+   changed to    ~_Plate  1 x  1 with Clip Light Type 2 Black (Obsolete)
+
+   408523.DAT                 _Plate  1 x  1 with Clip Vertical Type 3 Blue
+   changed to    ~_Plate  1 x  1 with Clip Vertical Type 3 Blue (Obsolete)
+
+   408526.DAT                 _Plate  1 x  1 with Clip Vertical - Type 3 Black
+   changed to    ~_Plate  1 x  1 with Clip Vertical - Type 3 Black (Obsolete)
+
+   4100339.DAT                _Boat Stern 16 x 14 x  5 & 1/3 Red/Dark Grey
+   changed to    ~_Boat Stern 16 x 14 x  5 & 1/3 Red/Dark Grey (Obsolete)
+
+   4100340.DAT                _Boat Bow 12 x 12 x  5 & 1/3 White/Blue
+   changed to    ~_Boat Bow 12 x 12 x  5 & 1/3 White/Blue (Obsolete)
+
+   4100341.DAT                _Boat Stern 12 x 14 x  5 & 1/3 White/Blue
+   changed to    ~_Boat Stern 12 x 14 x  5 & 1/3 White/Blue (Obsolete)
+
+   4105279.DAT                _Flag  2 x  2 with Cavalry Logo Pattern White
+   changed to    ~_Flag  2 x  2 with Cavalry Logo Pattern White (Obsolete)
+
+   4106592.DAT                _Flag  2 x  2 with Diver Pattern White
+   changed to    ~_Flag  2 x  2 with Diver Pattern White (Obsolete)
+
+   4106593.DAT                _Flag  2 x  2 with Diver Stripe Pattern White
+   changed to    ~_Flag  2 x  2 with Diver Stripe Pattern White (Obsolete)
+
+   4107073.DAT                _Technic Pneumatic Airtank Blue
+   changed to    ~_Technic Pneumatic Airtank Blue (Obsolete)
+
+   4107488.DAT                _Technic Tread Black
+   changed to    ~_Technic Tread Black (Obsolete)
+
+   4107630.DAT                _Minifig Feathers with Pin and Black Tip Pattern White
+   changed to    ~_Minifig Feathers with Pin and Black Tip Pattern White (Obsolete)
+
+   4107767.DAT                _Technic Angle Connector #6 (90 degree) Black
+   changed to    ~_Technic Angle Connector #6 (90 degree) Black (Obsolete)
+
+   4109810.DAT                _Technic Axle  2 Notched Black
+   changed to    ~_Technic Axle  2 Notched Black (Obsolete)
+
+   4113993.DAT                _Plate  2 x  6 Tan
+   changed to    ~_Plate  2 x  6 Tan (Obsolete)
+
+   4114324.DAT                _Plate  1 x  8 Tan
+   changed to    ~_Plate  1 x  8 Tan (Obsolete)
+
+   4114505.DAT                _Rock  1 x  1 Gem Facetted Trans_Neon_Green
+   changed to    ~_Rock  1 x  1 Gem Facetted Trans_Neon_Green (Obsolete)
+
+   4116679.DAT                _Roadsign Clip-on  2.2 x  2.667 Triangular w/ Bend Pattern White
+   changed to    ~_Roadsign Clip-on  2.2 x  2.667 Triangular with Bend Pattern White (Obsolete)
+
+   4116683.DAT                _Roadsign Clip-on  2.2 x  2.667 Triang. w/ Warning Patt. White
+   changed to    ~_Roadsign Clip-on  2.2 x  2.667 Triangular with Warning Pattern White (Obsolete)
+
+   4116688.DAT                _Roadsign Clip-on  2 x  2 Square with Ped. Crossing Patt. White
+   changed to    ~_Roadsign Clip-on  2 x  2 Square with Pedestrian Crossing Pattern White (Obsolete)
+
+   4116689.DAT                _Roadsign Clip-on  2 x  2 Square w/ Speed Limit "30" Patt. White
+   changed to    ~_Roadsign Clip-on  2 x  2 Square with Speed Limit "30" Pattern White (Obsolete)
+
+   4116691.DAT                _Roadsign Clip-on 2 x 2 Square w Black Turn Arrow Pat. Yellow
+   changed to    ~_Roadsign Clip-on  2 x  2 Square with Black Turn Arrow Pattern Yellow (Obsolete)
+
+   4116692.DAT                _Roadsign Clip-on  2 x  2 Square with Black Arrow Pattern Yellow
+   changed to    ~_Roadsign Clip-on  2 x  2 Square with Black Arrow Pattern Yellow (Obsolete)
+
+   4116859.DAT                _Roadsign Clip-on  2.2 x  2.667 Triangular w/ Fire Patt. Yellow
+   changed to    ~_Roadsign Clip-on  2.2 x  2.667 Triangular with Fire Pattern Yellow (Obsolete)
+
+   4118782.DAT                _Plate  1 x  4 Orange
+   changed to    ~_Plate  1 x  4 Orange (Obsolete)
+
+   4119350.DAT                _Brick  1 x  1 Trans_Blue
+   changed to    ~_Brick  1 x  1 Trans_Blue (Obsolete)
+
+   4121715.DAT                _Technic Pin with Friction and Slots Black
+   changed to    ~_Technic Pin with Friction and Slots Black (Obsolete)
+
+   4121921.DAT                _Plate  1 x  3 Tan
+   changed to    ~_Plate  1 x  3 Tan (Obsolete)
+
+   4124174.DAT                _Brick  4 x  4 Round with Holes Yellow
+   changed to    ~_Brick  4 x  4 Round with Holes Yellow (Obsolete)
+
+   4124456.DAT                _Tile  1 x  2 Grille with Groove Tan
+   changed to    ~_Tile  1 x  2 Grille with Groove Tan (Obsolete)
+
+   41250.DAT                  _Ball 52mm Diameter Red
+   changed to    ~_Ball 52mm Diameter Red (Obsolete)
+
+   4125254.DAT                _Tile  1 x  2 Grille with Groove Orange
+   changed to    ~_Tile  1 x  2 Grille with Groove Orange (Obsolete)
+
+   4140801.DAT                _Technic Pin Long with Stop Bush Black
+   changed to    ~_Technic Pin Long with Stop Bush Black (Obsolete)
+
+   4142925.DAT                _Tile  8 x  8 Round with  2 x  2 Studs and Grille Pattern [7]
+   changed to    ~_Tile  8 x  8 Round with  2 x  2 Studs and Grille Pattern [7] (Obsolete)
+
+   4143005.DAT                _Technic Pin 1/2 Blue
+   changed to    ~_Technic Pin 1/2 Blue (Obsolete)
+
+   4144485.DAT                _Exhaust Pipe with Pin [383]
+   changed to    ~_Exhaust Pipe with Pin [383] (Obsolete)
+
+   4155708.DAT                _Plate  1 x  2 with 1 Stud Tan
+   changed to    ~_Plate  1 x  2 with 1 Stud Tan (Obsolete)
+
+   4160101.DAT                _Wedge  2 x  6 Double Right White
+   changed to    ~_Wedge  2 x  6 Double Right White (Obsolete)
+
+   4160108.DAT                _Wedge  2 x  6 Double Right Black
+   changed to    ~_Wedge  2 x  6 Double Right Black (Obsolete)
+
+   4160124.DAT                _Wedge  2 x  6 Double Left White
+   changed to    ~_Wedge  2 x  6 Double Left White (Obsolete)
+
+   4160130.DAT                _Wedge  2 x  6 Double Left Black
+   changed to    ~_Wedge  2 x  6 Double Left Black (Obsolete)
+
+   4160409.DAT                _Slope Brick Curved  6 x  1 Inverted Black
+   changed to    ~_Slope Brick Curved  6 x  1 Inverted Black (Obsolete)
+
+   4160689.DAT                _Technic Pulley Wheel 5D White
+   changed to    ~_Technic Pulley Wheel 5D White (Obsolete)
+
+   4161103.DAT                _Minifig Feathers with Pin and Black Tip Pattern White
+   changed to    ~_Minifig Feathers with Pin and Black Tip Pattern White (Obsolete)
+
+   4162235.DAT                _Hinge Brick  2 x  2 Locking with Axlehole and Dual Finger Black
+   changed to    ~_Hinge Brick  2 x  2 Locking with Axlehole and Dual Finger Black (Obsolete)
+
+   4162628.DAT                _Slope Brick 75  2 x  1 x  3 Red
+   changed to    ~_Slope Brick 75  2 x  1 x  3 Red (Obsolete)
+
+   4164290.DAT                _Flag  6 x  4 with SW Jedi Starfighter Pattern White
+   changed to    ~_Flag  6 x  4 with SW Jedi Starfighter Pattern White (Obsolete)
+
+   4171849.DAT                _Slope Brick Curved Top  2 x  2 x  1 Blue
+   changed to    ~_Slope Brick Curved Top  2 x  2 x  1 Blue (Obsolete)
+
+   4177932.DAT                _Plate  1 x  2 Orange
+   changed to    ~_Plate  1 x  2 Orange (Obsolete)
+
+   4178523.DAT                _Tile  1 x  1 with Spider Pattern [378]
+   changed to    ~_Tile  1 x  1 with Spider Pattern [378] (Obsolete)
+
+   4179872.DAT                _Wedge  4 x  2 Sloped Right White
+   changed to    ~_Wedge  4 x  2 Sloped Right White (Obsolete)
+
+   4179873.DAT                _Wedge  4 x  2 Sloped Left White
+   changed to    ~_Wedge  4 x  2 Sloped Left White (Obsolete)
+
+   4180508.DAT                _Wing  2 x  3 Right Black
+   changed to    ~_Wing  2 x  3 Right Black (Obsolete)
+
+   4180536.DAT                _Wing  2 x  3 Left Black
+   changed to    ~_Wing  2 x  3 Left Black (Obsolete)
+
+   4181142.DAT                _Brick  2 x  6 White
+   changed to    ~_Brick  2 x  6 White (Obsolete)
+
+   4183048.DAT                _Hinge Plate  1 x  2 Locking with Dual Finger on End Vert. White
+   changed to    ~_Hinge Plate  1 x  2 Locking with Dual Finger on End Vertical with Groove on Short Side White (Obsolete)
+
+   4185177.DAT                _Tile  2 x  2 with Groove Tan
+   changed to    ~_Tile  2 x  2 with Groove Tan (Obsolete)
+
+   4186017.DAT                _Technic Axle Pin Tan
+   changed to    ~_Technic Axle Pin Tan (Obsolete)
+
+   4187750.DAT                _Dish  2 x  2 Inverted Trans Clear
+   changed to    ~_Dish  2 x  2 Inverted Trans Clear (Obsolete)
+
+   4188055.DAT                _Flag  2 x  2 with SW Mini AT-ST Pattern LtGrey
+   changed to    ~_Flag  2 x  2 with SW Mini AT-ST Pattern LtGrey (Obsolete)
+
+   4193479.DAT                _Hinge Plate  1 x  4 Locking with Two Fingers On Side White
+   changed to    ~_Hinge Plate  1 x  4 Locking with Two Fingers On Side White (Obsolete)
+
+   4193528.DAT                _Brick  4 x  4 Round with Holes Yellow
+   changed to    ~_Brick  4 x  4 Round with Holes Yellow (Obsolete)
+
+   4195004.DAT                _Slope Brick 45  1 x  2 Triple Red
+   changed to    ~_Slope Brick 45  1 x  2 Triple Red (Obsolete)
+
+   4198367.DAT                _Technic Axle Joiner Double Flexible Rubber_Black
+   changed to    ~_Technic Axle Joiner Double Flexible Rubber_Black (Obsolete)
+
+   4206482.DAT                _Technic Axle Pin with Friction Blue
+   changed to    ~_Technic Axle Pin with Friction Blue (Obsolete)
+
+   4210531.DAT                _Tile  1 x  2 Grille with Groove Black
+   changed to    ~_Tile  1 x  2 Grille with Groove Black (Obsolete)
+
+   4210633.DAT                _Plate  1 x  1 Round Dark_Bluish_Gray
+   changed to    ~_Plate  1 x  1 Round Dark_Bluish_Gray (Obsolete)
+
+   4210698.DAT                _Minifig Loudhailer Dark_Bluish_Gray
+   changed to    ~_Minifig Loudhailer Dark_Bluish_Gray (Obsolete)
+
+   4211044.DAT                _Brick  1 x  1 with Headlight Dark_Bluish_Gray
+   changed to    ~_Brick  1 x  1 with Headlight Dark_Bluish_Gray (Obsolete)
+
+   4211063.DAT                _Plate  1 x  2 Dark_Bluish_Gray
+   changed to    ~_Plate  1 x  2 Dark_Bluish_Gray (Obsolete)
+
+   4211119.DAT                _Plate  1 x  2 with 1 Stud Dark_Bluish_Gray
+   changed to    ~_Plate  1 x  2 with 1 Stud Dark_Bluish_Gray (Obsolete)
+
+   4211152.DAT                _Plate  1 x  3 Reddish_Brown
+   changed to    ~_Plate  1 x  3 Reddish_Brown (Obsolete)
+
+   4211385.DAT                _Brick  2 x  4 Light_Bluish_Gray
+   changed to    ~_Brick  2 x  4 Light_Bluish_Gray (Obsolete)
+
+   4211388.DAT                _Brick  1 x  2 Light_Bluish_Gray
+   changed to    ~_Brick  1 x  2 Light_Bluish_Gray (Obsolete)
+
+   4211395.DAT                _Plate  2 x  4 Light_Bluish_Gray
+   changed to    ~_Plate  2 x  4 Light_Bluish_Gray (Obsolete)
+
+   4211396.DAT                _Plate  2 x  3 Light_Bluish_Gray
+   changed to    ~_Plate  2 x  3 Light_Bluish_Gray (Obsolete)
+
+   4211477.DAT                _Plate  1 x  1 with Clip Light - Type 2 Light_Bluish_Gray
+   changed to    ~_Plate  1 x  1 with Clip Light - Type 2 Light_Bluish_Gray (Obsolete)
+
+   4211483.DAT                _Technic Pin 1/2 [71]
+   changed to    ~_Technic Pin 1/2 [71] (Obsolete)
+
+   4211536.DAT                _Technic Pole Reverser Handle [71]
+   changed to    ~_Technic Pole Reverser Handle [71] (Obsolete)
+
+   4211550.DAT                _Technic Angle Connector #1 Light_Bluish_Gray
+   changed to    ~_Technic Angle Connector #1 Light_Bluish_Gray (Obsolete)
+
+   4211573.DAT                _Technic Bush 1/2 Smooth Light_Bluish_Gray
+   changed to    ~_Technic Bush 1/2 Smooth Light_Bluish_Gray (Obsolete)
+
+   4211622.DAT                _Technic Bush Light_Bluish_Gray
+   changed to    ~_Technic Bush Light_Bluish_Gray (Obsolete)
+
+   4211807.DAT                _Technic Pin Light_Bluish_Gray
+   changed to    ~_Technic Pin Light_Bluish_Gray (Obsolete)
+
+   4211815.DAT                _Technic Axle  3 Light_Bluish_Gray
+   changed to    ~_Technic Axle  3 Light_Bluish_Gray (Obsolete)
+
+   4212454.DAT                _Brick  1 x  1 Round with Hollow Stud Lime
+   changed to    ~_Brick  1 x  1 Round with Hollow Stud Lime (Obsolete)
+
+   4216384.DAT                _Tile  1 x  1 with Groove Trans Green
+   changed to    ~_Tile  1 x  1 with Groove Trans Green (Obsolete)
+
+   4216695.DAT                _Plate  2 x  2 Reddish_Brown
+   changed to    ~_Plate  2 x  2 Reddish_Brown (Obsolete)
+
+   4223189.DAT                _Minifig Goblet Black
+   changed to    ~_Minifig Goblet Black (Obsolete)
+
+   4224792.DAT                _Plate  1 x  1 with Tooth White
+   changed to    ~_Plate  1 x  1 with Tooth White (Obsolete)
+
+   4234927.DAT                _Wing  4 x  4 with 2 x 2 Cutout Yellow
+   changed to    ~_Wing  4 x  4 with 2 x 2 Cutout Yellow (Obsolete)
+
+   4234932.DAT                _Wing  4 x  4 with  2 x  2 Cutout Black
+   changed to    ~_Wing  4 x  4 with  2 x  2 Cutout Black (Obsolete)
+
+   4243824.DAT                _Plate  4 x  4 Tan
+   changed to    ~_Plate  4 x  4 Tan (Obsolete)
+
+   4244362.DAT                _Slope Brick 31  1 x  1 x  0.667 Trans Clear
+   changed to    ~_Slope Brick 31  1 x  1 x  0.667 Trans Clear (Obsolete)
+
+   4247772.DAT                _Slope Brick Curved  8 x  1 x  1.667 with Arch Red
+   changed to    ~_Slope Brick Curved  8 x  1 x  1.667 with Arch Red (Obsolete)
+
+   4251162.DAT                _Slope Brick Curved  3 x  1 Red
+   changed to    ~_Slope Brick Curved  3 x  1 Red (Obsolete)
+
+   4256738.DAT                _Brick  4 x  4 Round with Holes Yellow
+   changed to    ~_Brick  4 x  4 Round with Holes Yellow (Obsolete)
+
+   4261453.DAT                _Technic Cross Block 1 x 2 (Axle/Pin) Lime 
+   changed to    ~_Technic Cross Block 1 x 2 (Axle/Pin) Lime (Obsolete) 
+
+   4261693.DAT                _Wedge  6 x  4 Inverted Rounded White
+   changed to    ~_Wedge  6 x  4 Inverted Rounded White (Obsolete)
+
+   4263624.DAT                _Technic Axle 5.5 With Stop Dark_Bluish_Gray
+   changed to    ~_Technic Axle 5.5 With Stop Dark_Bluish_Gray (Obsolete)
+
+   4277932.DAT                _Bracket  1 x  2 -  2 x  2 Black
+   changed to    ~_Bracket  1 x  2 -  2 x  2 Black (Obsolete)
+
+   4277933.DAT                _Bracket  1 x  2 -  2 x  2 Red
+   changed to    ~_Bracket  1 x  2 -  2 x  2 Red (Obsolete)
+
+   428621.DAT                 _Slope Brick 33  3 x  1 Red
+   changed to    ~_Slope Brick 33  3 x  1 Red (Obsolete)
+
+   4287707.DAT                _Wing  3 x  6 Right White
+   changed to    ~_Wing  3 x  6 Right White (Obsolete)
+
+   4287708.DAT                _Wing  3 x  6 Left White
+   changed to    ~_Wing  3 x  6 Left White (Obsolete)
+
+   4288960.DAT                _Tail  2 x  3 x  2 Fin White
+   changed to    ~_Tail  2 x  3 x  2 Fin White (Obsolete)
+
+   4289538.DAT                _Bar  1.5L with Clip Black 
+   changed to    ~_Bar  1.5L with Clip Black (Obsolete) 
+
+   4294998.DAT                _Minifig Lance White
+   changed to    ~_Minifig Lance White (Obsolete)
+
+   4298609.DAT                _Minifig Helmet Modern White
+   changed to    ~_Minifig Helmet Modern White (Obsolete)
+
+   43122.DAT                  _Jet Engine Fan with 10 Blades and Technic Pin [383]
+   changed to    ~_Jet Engine Fan with 10 Blades and Technic Pin [383] (Obsolete)
+
+   449521.DAT                 _Flag  4 x 1 Red
+   changed to    ~_Flag  4 x 1 Red (Obsolete)
+
+   4497943.DAT                _Cylinder Domed  1 x  1 x  1.667 with Bar Trans Red
+   changed to    ~_Cylinder Domed  1 x  1 x  1.667 with Bar Trans Red (Obsolete)
+
+   4497946.DAT                _Technic Connector Block  3 x  3 Triangular with Axlehole Black
+   changed to    ~_Technic Connector Block  3 x  3 Triangular with Axlehole Black (Obsolete)
+
+   4501575.DAT                _Brick  4 x  4 Round with Holes Yellow
+   changed to    ~_Brick  4 x  4 Round with Holes Yellow (Obsolete)
+
+   4504369.DAT                _Slope Brick 31  1 x  1 x  0.667 White
+   changed to    ~_Slope Brick 31  1 x  1 x  0.667 White (Obsolete)
+
+   4504371.DAT                _Slope Brick 31  1 x  1 x  0.667 Orange
+   changed to    ~_Slope Brick 31  1 x  1 x  0.667 Orange (Obsolete)
+
+   4505156.DAT                _Windscreen  6 x  6 x  3 Dome Hinge Locking Trans_Orange
+   changed to    ~_Windscreen  6 x  6 x  3 Dome Hinge Locking Trans_Orange (Obsolete)
+
+   4506480.DAT                _Cylinder Domed  1 x  1 x  1.667 with Bar Trans Light Blue
+   changed to    ~_Cylinder Domed  1 x  1 x  1.667 with Bar Trans Light Blue (Obsolete)
+
+   4506697.DAT                _Technic Angle Connector #5 (112.5 degree) White
+   changed to    ~_Technic Angle Connector #5 (112.5 degree) White (Obsolete)
+
+   4506847.DAT                _Windscreen  9 x  3 x  1.667 Bubble Canopy Trans_Orange
+   changed to    ~_Windscreen  9 x  3 x  1.667 Bubble Canopy Trans_Orange (Obsolete)
+
+   4517925.DAT                _Plate  1 x  1 with Clip Horizontal Black
+   changed to    ~_Plate  1 x  1 with Clip Horizontal Black (Obsolete)
+
+   4520782.DAT                _Slope Brick Curved  4 x  1 Red
+   changed to    ~_Slope Brick Curved  4 x  1 Red (Obsolete)
+
+   4521166.DAT                _Plate  1 x  2 with Tooth and Flexible Tip [0/65]
+   changed to    ~_Plate  1 x  2 with Tooth and Flexible Tip [0/65] (Obsolete)
+
+   4521852.DAT                _Brick  2 x  2 with Curved Top and 2 Studs on Top Red
+   changed to    ~_Brick  2 x  2 with Curved Top and 2 Studs on Top Red (Obsolete)
+
+   4524903.DAT                _Minifig Jester's Cap Red/Blue with Blue/Red Poms
+   changed to    ~_Minifig Jester's Cap Red/Blue with Blue/Red Poms (Obsolete)
+
+   4526562.DAT                _Minifig Jester's Cap Red/Black with White Poms
+   changed to    ~_Minifig Jester's Cap Red/Black with White Poms (Obsolete)
+
+   4538781.DAT                _Wheel 20 x 64 with Spikes and 13 Pegholes [0]
+   changed to    ~_Wheel 20 x 64 with Spikes and 13 Pegholes [0] (Obsolete)
+
+   4538782.DAT                _Wheel 32 x 64 Conical with Spikes and Inner 48 Tooth Gear [0]
+   changed to    ~_Wheel 32 x 64 Conical with Spikes and Inner 48 Tooth Gear [0] (Obsolete)
+
+   4539364.DAT                _Die 6 Sided 2 x 2 x 2 Red/Black
+   changed to    ~_Die 6 Sided 2 x 2 x 2 Red/Black (Obsolete)
+
+   4542272.DAT                _Plate  1 x  2 with Tooth and Flexible Tip [72/496]
+   changed to    ~_Plate  1 x  2 with Tooth and Flexible Tip [72/496] (Obsolete)
+
+   4570481.DAT                _Cylinder Domed  1 x  1 x  1.667 with Bar Trans Bright Green
+   changed to    ~_Cylinder Domed  1 x  1 x  1.667 with Bar Trans Bright Green (Obsolete)
+
+   4570662.DAT                _Minifig Ring with Triangle with Turtle Pattern Trans Yellow
+   changed to    ~_Minifig Ring with Triangle with Turtle Pattern Trans Yellow (Obsolete)
+
+   4582471.DAT                _Plate  1 x  2 with Tooth and Flexible Tip [0/350]
+   changed to    ~_Plate  1 x  2 with Tooth and Flexible Tip [0/350] (Obsolete)
+
+   4585450.DAT                _Minifig Jester's Cap Red/White with White/Red Poms
+   changed to    ~_Minifig Jester's Cap Red/White with White/Red Poms (Obsolete)
+
+   459923.DAT                 _Tap  1 x  1 Blue
+   changed to    ~_Tap  1 x  1 Blue (Obsolete)
+
+   4616992.DAT                _Train Base  6 x 28 with 6 Holes and Twin  2 x  2 Cutouts Black
+   changed to    ~_Train Base  6 x 28 with 6 Holes and Twin  2 x  2 Cutouts Black (Obsolete)
+
+   4623959.DAT                _Animal Chicken with Red Comb Pattern White
+   changed to    ~_Animal Chicken with Red Comb Pattern White (Obsolete)
+
+   4624282.DAT                _Animal Chicken with Red Comb Pattern Dark Tan
+   changed to    ~_Animal Chicken with Red Comb Pattern Dark Tan (Obsolete)
+
+   4629916.DAT                _Wedge  4 x  4 with Stud Notches White
+   changed to    ~_Wedge  4 x  4 with Stud Notches White (Obsolete)
+
+   4633881.DAT                _Tile  2 x  2 with Ship Portrait Pattern Dark Tan
+   changed to    ~_Tile  2 x  2 with Ship Portrait Pattern Dark Tan (Obsolete)
+
+   4650624.DAT                _Plate  1 x  2 with Tooth and Flexible Tip [0/256]
+   changed to    ~_Plate  1 x  2 with Tooth and Flexible Tip [0/256] (Obsolete)
+
+   57718.DAT                  _Technic Ribbed Hose 19 Ribs Flat Silver
+   changed to    ~_Technic Ribbed Hose 19 Ribs Flat Silver (Obsolete)
+
+   601926.DAT                 _Plate  1 x  1 with Clip Horizontal Black
+   changed to    ~_Plate  1 x  1 with Clip Horizontal Black (Obsolete)
+
+   6019987.DAT                _Plate  1 x  2 with Offset Peghole [72]
+   changed to    ~_Plate  1 x  2 with Offset Peghole [72] (Obsolete)
+
+   618843.DAT                 _Cone  1 x  1 Trans Blue
+   changed to    ~_Cone  1 x  1 Trans Blue (Obsolete)
+
+   663626.DAT                 _Tile  1 x  6 Black
+   changed to    ~_Tile  1 x  6 Black (Obsolete)
+
+   70496.DAT                  _Technic Hook Large Metallic
+   changed to    ~_Technic Hook Large Metallic (Obsolete)
+
+   70770.DAT                  _Rock  1 x  1 Crystal  5 Point Chrome Silver
+   changed to    ~_Rock  1 x  1 Crystal  5 Point Chrome Silver (Obsolete)
+
+   70942.DAT                  _Tile  1 x  2 with Ball Chrome Silver
+   changed to    ~_Tile  1 x  2 with Ball Chrome Silver (Obsolete)
+
+   71014.DAT                  _Minifig Sword Greatsword Chrome Silver
+   changed to    ~_Minifig Sword Greatsword Chrome Silver (Obsolete)
+
+   71128.DAT                  _Electric Light Reflector Round  2 x  2 x  0.667 Chrome Silver
+   changed to    ~_Electric Light Reflector Round  2 x  2 x  0.667 Chrome Silver (Obsolete)
+
+   71182.DAT                  _Car Air Horn Chrome Silver
+   changed to    ~_Car Air Horn Chrome Silver (Obsolete)
+
+   71185.DAT                  _Antenna 6H Chrome
+   changed to    ~_Antenna 6H Chrome (Obsolete)
+
+   71874.DAT                  _Dish  2 x  2 Inverted Chrome
+   changed to    ~_Dish  2 x  2 Inverted Chrome (Obsolete)
+
+   7284.DAT                   _Roadsign Round with No Entry Sign Pattern White
+   changed to    ~_Roadsign Round with No Entry Sign Pattern White (Obsolete)
+
+   74330.DAT                  _Minifig Hips and Leg / Leg Wooden Black/Brown
+   changed to    ~_Minifig Hips and Leg / Leg Wooden Black/Brown (Obsolete)
+
+   80039.DAT                  _Roadsign Round with No Left Turn Pattern White
+   changed to    ~_Roadsign Round with No Left Turn Pattern White (Obsolete)
+
+   80045.DAT                  _Roadsign Round with No Waiting Left Pattern White
+   changed to    ~_Roadsign Round with No Waiting Left Pattern White (Obsolete)
+
+   80120.DAT                  _Panel  1 x  4 x  3 with Red Bar and White Grille Pattern
+   changed to    ~_Panel  1 x  4 x  3 with Red Bar and White Grille Pattern (Obsolete)
+
+   80123.DAT                  _Slope Brick 33  3 x  2 with Classic Space Logo Pattern
+   changed to    ~_Slope Brick 33  3 x  2 with Classic Space Logo Pattern (Obsolete)
+
+   80256.DAT                  _Baseplate 32 x 32 Road 9-Stud Landing Pad with Yellow Circle
+   changed to    ~_Baseplate 32 x 32 Road 9-Stud Landing Pad with Yellow Circle (Obsolete)
+
+   80394.DAT                  _Container Box  2 x  2 x  2 Door with Slot and Fire Logo Pattern
+   changed to    ~_Container Box  2 x  2 x  2 Door with Slot and Fire Logo Pattern (Obsolete)
+
+   80395.DAT                  _Panel  1 x  4 x  3 with Red Cross Pattern
+   changed to    ~_Panel  1 x  4 x  3 with Red Cross Pattern (Obsolete)
+
+   80400.DAT                  _Brick  1 x  4 with Garage Tools Pattern White
+   changed to    ~_Brick  1 x  4 with Garage Tools Pattern White (Obsolete)
+
+   80546.DAT                  _Baseplate 32 x 32 Road 7-Stud Curve with Pattern
+   changed to    ~_Baseplate 32 x 32 Road 7-Stud Curve with Pattern (Obsolete)
+
+   80548.DAT                  _Baseplate 32 x 32 Road 7-Stud T Intersection with Crosswalks
+   changed to    ~_Baseplate 32 x 32 Road 7-Stud T Intersection with Crosswalks (Obsolete)
+
+   80549.DAT                  _Baseplate 32 x 32 Road 7-Stud Crossroads with Crosswalks
+   changed to    ~_Baseplate 32 x 32 Road 7-Stud Crossroads with Crosswalks (Obsolete)
+
+   80581.DAT                  _Flag  2 x  2 with Black Falcon Pattern
+   changed to    ~_Flag  2 x  2 with Black Falcon Pattern (Obsolete)
+
+   80582.DAT                  _Panel  2 x  5 x  6 Wall with Black Half-Timber Pattern Yellow
+   changed to    ~_Panel  2 x  5 x  6 Wall with Black Half-Timber Pattern Yellow (Obsolete)
+
+   80587.DAT                  _Panel  2 x  5 x  6 Wall with Black Half-Timber Pattern Red
+   changed to    ~_Panel  2 x  5 x  6 Wall with Black Half-Timber Pattern Red (Obsolete)
+
+   80588.DAT                  _Panel Wall  3 x  3 x  6 Corner with Black Half-Timber Patt. Red
+   changed to    ~_Panel Wall  3 x  3 x  6 Corner with Black Half-Timber Pattern Red (Obsolete)
+
+   80589.DAT                  _Flag  2 x  2 with Goblets and Grapes Pattern Black
+   changed to    ~_Flag  2 x  2 with Goblets and Grapes Pattern Black (Obsolete)
+
+   80602.DAT                  _Baseplate 32 x 32 Service Station with Pattern
+   changed to    ~_Baseplate 32 x 32 Service Station with Pattern (Obsolete)
+
+   80648.DAT                  _Panel  1 x  4 x  3 Right with Red/Blue Stripe Pattern White
+   changed to    ~_Panel  1 x  4 x  3 Right with Red/Blue Stripe Pattern White (Obsolete)
+
+   80649.DAT                  _Panel  1 x  4 x  3 Left with Red/Blue Stripe Pattern White
+   changed to    ~_Panel  1 x  4 x  3 Left with Red/Blue Stripe Pattern White (Obsolete)
+
+   80650.DAT                  _Panel  1 x  4 x  3 Right with Blue Stripe Pattern White
+   changed to    ~_Panel  1 x  4 x  3 Right with Blue Stripe Pattern White (Obsolete)
+
+   80651.DAT                  _Panel  1 x  4 x  3 Left with Blue Stripe Pattern White
+   changed to    ~_Panel  1 x  4 x  3 Left with Blue Stripe Pattern White (Obsolete)
+
+   80671.DAT                  _Baseplate 32 x 32 Road 9-Stud Landing Pad with Green Octagon
+   changed to    ~_Baseplate 32 x 32 Road 9-Stud Landing Pad with Green Octagon (Obsolete)
+
+   80672.DAT                  _Baseplate 32 x 32 Road 9-Stud T Intersection with Green Octagon
+   changed to    ~_Baseplate 32 x 32 Road 9-Stud T Intersection with Green Octagon (Obsolete)
+
+   80973.DAT                  _Space Nose with Classic Space Logo Pattern White
+   changed to    ~_Wedge 2 x 3 with Brick 2 x 4 with Classic Space Logo Pattern (Obsolete)
+
+   81022.DAT                  _Baseplate 32 x 32 With Driveway and Grey Pattern
+   changed to    ~_Baseplate 32 x 32 With Driveway and Grey Pattern (Obsolete)
+
+   81038.DAT                  _Hose Reel  2 x  4 x  2 Holder with Fire Logo Pattern [4]
+   changed to    ~_Hose Reel  2 x  4 x  2 Holder with Fire Logo Pattern [4] (Obsolete)
+
+   81043.DAT                  _Baseplate 32 x 32 Road 3 Lane with Race Track pattern (6381)
+   changed to    ~_Baseplate 32 x 32 Road 3 Lane with Race Track Pattern (6381) (Obsolete)
+
+   81048.DAT                  _Brick  1 x  3 with Control Panel Pattern White
+   changed to    ~_Brick  1 x  3 with Control Panel Pattern White (Obsolete)
+
+   81055.DAT                  _Panel  1 x  2 x  1 with Black Grille Pattern White
+   changed to    ~_Panel  1 x  2 x  1 with Black Grille Pattern White (Obsolete)
+
+   81149.DAT                  _Slope Brick 45  1 x  2 with 3 Buttons, 3 Red Lamps/Yellow Panel
+   changed to    ~_Slope Brick 45  1 x  2 with 3 Buttons, 3 Red Lamps/Yellow Panel (Obsolete)
+
+   81155.DAT                  _Castle Wall  3 x  3 x  6 Corner with Blacktron I Logo Pattern
+   changed to    ~_Panel Wall 3 x 3 x 6 Corner with Blacktron I Logo Pattern (Obsolete)
+
+   81267.DAT                  _Flag  2 x  2 with Chequered Pattern White
+   changed to    ~_Flag  2 x  2 with Chequered Pattern White (Obsolete)
+
+   81379.DAT                  _Animal Bird Parrot with Yellow/Green Wings Pattern Red
+   changed to    ~_Animal Bird Parrot with Yellow/Green Wings Pattern Red (Obsolete)
+
+   81426.DAT                  _Flag  2 x  2 with Jolly Roger Pattern White
+   changed to    ~_Flag  2 x  2 with Jolly Roger Pattern White (Obsolete)
+
+   81427.DAT                  _Flag  6 x  4 with Jolly Roger Pattern
+   changed to    ~_Flag  6 x  4 with Jolly Roger Pattern (Obsolete)
+
+   81599.DAT                  _Panel 10 x  6 x 11 with Blacktron II Logo Pattern
+   changed to    ~_Panel 10 x  6 x 11 with Blacktron II Logo Pattern (Obsolete)
+
+   81714.DAT                  _Minifig Shield Triangular with Wolfpack Pattern
+   changed to    ~_Minifig Shield Triangular with Wolfpack Pattern (Obsolete)
+
+   81715.DAT                  _Flag  2 x  2 with Wolfman Pattern Red
+   changed to    ~_Flag  2 x  2 with Wolfman Pattern Red (Obsolete)
+
+   81772.DAT                  _Slope Brick 10  6 x  8 with Slate Roof Pattern
+   changed to    ~_Slope Brick 10  6 x  8 with Slate Roof Pattern (Obsolete)
+
+   83396.DAT                  _Roadsign Clip-on  2 x  2 Octagonal w/ Red Stop Sign Patt. White
+   changed to    ~_Roadsign Clip-on  2 x  2 Octagonal with Red Stop Sign Pattern White (Obsolete)
+
+   9230.DAT                   _Brick  1 x  2 with Red Cross Pattern White
+   changed to    ~_Brick  1 x  2 with Red Cross Pattern White (Obsolete)
+
+   93549.DAT                  _Minifig Conical Flask [47/35]
+   changed to    ~_Minifig Conical Flask [47/35] (Obsolete)
+
+   9358.DAT                   _Brick  1 x  6 without Centre Studs w. "POLICE" Pattern Tr.Blue
+   changed to    ~_Brick  1 x  6 without Centre Studs with "POLICE" Pattern TransBlue (Obsolete)
+
+   9359.DAT                   _Brick  1 x  6 w/out Centre Studs with "TAXI" Pat. Trans Green
+   changed to    ~_Brick  1 x  6 without Centre Studs with "TAXI" Pattern Trans Green (Obsolete)
+
+   93772.DAT                  _Figure Friends Male Head, Light Brown Eyes and Beard Pat. [78]
+   changed to    ~_Figure Friends Male Head, Light Brown Eyes and Beard Pattern [78] (Obsolete)
+
+   9460.DAT                   _Brick  1 x  2 with Classic Space Logo Pattern Blue
+   changed to    ~_Brick  1 x  2 with Classic Space Logo Pattern Blue (Obsolete)
+
+   96094.DAT                  _Animal Chicken with Red Comb Pattern White
+   changed to    ~_Animal Chicken with Red Comb Pattern White (Obsolete)
+
+   96143.DAT                  _Animal Chicken with Red Comb Pattern Dark Tan
+   changed to    ~_Animal Chicken with Red Comb Pattern Dark Tan (Obsolete)
+
+Other Fixed Parts
+   23065.DAT                  ~_Ball 52mm Diameter Dark Gray (Obsolete)

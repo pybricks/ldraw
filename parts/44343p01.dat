@@ -1,13 +1,15 @@
-0 Baseplate 32 x 32 Road 6-Stud Crossroad with Pattern
+0 Baseplate 32 x 32 Road 6-Stud Crossroads with Yellow Road Edge and White Pedestrian Crossing Pattern
 0 Name: 44343p01.dat
 0 Author: William Howard [WilliamH]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2019-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 0 !KEYWORDS roadplate, x-road
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2019-09-04 [cwdee] Re-titled
+0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\44343s01.dat
 4 8 182 0 182 -182 0 182 -182 0 -182 182 0 -182

@@ -1,0 +1,342 @@
+LDraw.org Parts Update 2019-02
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Mon Sep  9 15:41:57 2019 by the Parts Tracker.
+
+Release statistics:
+   Total files: 790
+   New files: 664
+   New parts: 572
+   New subparts: 71
+   New primitives: 18
+   New lo-res primitives: 1
+   New hi-res primitives: 2
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   2574.DAT                   ~Moved to 2574c01
+   30089.DAT                  ~Moved to 30089a
+   314.DAT                    ~Moved to 3148
+   3149B.DAT                  ~Moved to 3148
+   314E.DAT                   ~Moved to 3148
+   3626CPCOB.DAT              ~Moved to 3626cpcfb
+   4265.DAT                   ~Moved to 6577
+   4265B.DAT                  ~Moved to 6577
+   U9227.DAT                  ~Moved to 70591
+   U9355.DAT                  ~Moved to 29124
+   U9356.DAT                  ~Moved to 29125
+   U9356C01.DAT               ~Moved to 29125c01
+
+Renamed Parts
+   10039.DAT                  Motor Pull Back  8 x  4 x  0.667
+   changed to    Motor Pull Back  4 x  8 x  0.667 with White Axle
+
+   23167.DAT                  _Electric Technic Micro-Scout Grey/Black
+   changed to    ~_Electric Technic Micro-Scout Grey/Black (Obsolete)
+
+   2684C01.DAT                Monorail Motor (Complete)
+   changed to    Monorail Motor with White Motor Unit (Complete)
+
+   2922A.DAT                  Hinge Train Pantograph Shoe
+   changed to    Train Pantograph Shoe with Three Finger Hinge 
+
+   2922B.DAT                  Hinge Train Pantograph Shoe Locking
+   changed to    Train Pantograph Shoe with Locking Hinge 
+
+   30178.DAT                  ~Door  1 x  4 x  6 with 3 Panes - Frame
+   changed to    ~Door  1 x  4 x  6 with  3 Panes - Frame
+
+   30413.DAT                  Panel  1 x  4 x  1 with Rounded Corners
+   changed to    Panel  1 x  4 x  1 with Rounded Corners, Thick Wall
+
+   3069BP05.DAT               Tile  1 x  2 with Black Grille Pattern
+   changed to    Tile  1 x  2 with Black Grille with  7 Stripes Pattern
+
+   3626BP89.DAT               Minifig Head with Red Lips Annoyed / Smiling 2-Sided Pattern (Hollow Stud with Pierced Base)
+   changed to    Minifig Head Female with Red Lips Annoyed / Smiling 2-Sided Pattern (Hollow Stud with Pierced Base)
+
+   3626CP89.DAT               Minifig Head with Red Lips Annoyed / Smiling 2-Sided Pattern (Hollow Stud)
+   changed to    Minifig Head Female with Red Lips Annoyed / Smiling 2-Sided Pattern (Hollow Stud)
+
+   3626CP8Q.DAT               Minifig Head Female Brown Eyebrows, Peach Lips, Pensive Smile / Scared 2-Sided Pattern
+   changed to    Minifig Head Female with Brown Eyebrows, Peach Lips, Pensive Smile / Scared 2-Sided Pattern
+
+   3626CP8R.DAT               Minifig Head Female Black Eyebrows, Peach Lips, Open Smile with Teeth / Sleeping 2-Sided Pattern
+   changed to    Minifig Head Female with Black Eyebrows, Peach Lips, Open Smile with Teeth / Sleeping 2-Sided Pattern
+
+   3626CP8U.DAT               Minifig Head Medium Dark Flesh Glasses, Laugh Lines, Red Lips, Neutral / Raised Eyebrows Amused 2-Sided Pattern
+   changed to    Minifig Head Female with Medium Dark Flesh Glasses, Laugh Lines, Red Lips, Neutral / Raised Eyebrows Amused 2-Sided Pattern
+
+   3626CP8X.DAT               Minifig Head Female Black Eyebrows, Pink Lips, Eyelashes / Sunglasses with Medium Lavender Frames 2-Sided Pattern
+   changed to    Minifig Head Female with Black Eyebrows, Pink Lips, Eyelashes / Sunglasses with Medium Lavender Frames 2-Sided Pattern
+
+   3626CPD6A.DAT              Minifig Head with Magenta Eye Mask, Dark Red Lips, Grin with Teeth / Neutral 2-Sided Pattern  
+   changed to    Minifig Head Female with Magenta Eye Mask, Dark Red Lips, Grin with Teeth / Neutral 2-Sided Pattern  
+
+   3626CPD6D.DAT              Minifig Head Female Black Eye Mask, Dark Red Lips, Red Tongue and Diamond on Cheek, Open Smile with Top Teeth Pattern 
+   changed to    Minifig Head Female with Black Eye Mask, Dark Red Lips, Red Tongue and Diamond on Cheek, Open Smile with Top Teeth Pattern 
+
+   3626CPD8E.DAT              Minifig Head with Black Eyebrows and Eyes with Eyelash, Broad Grin Pattern 
+   changed to    Minifig Head Female with Black Eyebrows and Eyes with Eyelash, Broad Grin Pattern 
+
+   40573.DAT                  Electric Spybotic Brick with TransRed Cover
+   changed to    ~_Electric Spybotic Brick with TransRed Cover (Obsolete)
+
+   4080.DAT                   Tipper Bucket  4 x  6
+   changed to    Tipper Bucket  4 x  6 with Open Studs Front Lip 
+
+   4100545.DAT                _Crane Grab Jaws Yellow/Trans Dark Blue (Complete)
+   changed to    ~_Crane Grab Jaws Yellow/Trans Dark Blue (Complete) (Obsolete)
+
+   4106548.DAT                _Boat Inflatable 12 x  6 x  1.333 (Complete) Yellow
+   changed to    ~_Boat Inflatable 12 x  6 x  1.333 (Complete) Yellow (Obsolete)
+
+   4107623.DAT                _Minifig Hips and Legs (Complete) Tan
+   changed to    ~_Minifig Hips and Legs (Complete) Tan (Obsolete)
+
+   4120158.DAT                _Minifig Hips and Legs (Complete) Orange
+   changed to    ~_Minifig Hips and Legs (Complete) Orange (Obsolete)
+
+   4128503.DAT                _Technic Turntable  5 x  5 (Complete) Blue
+   changed to    ~_Technic Turntable  5 x  5 (Complete) Blue (Obsolete)
+
+   4140643.DAT                _Znap Connector  3 x  3 -  4 Way Closed w. Rotating Black/Yellow
+   changed to    ~_Znap Connector  3 x  3 -  4 Way Closed with Rotating Section Black/Yellow (Obsolete)
+
+   4162916.DAT                _Minifig Hips and Legs (Complete) Dark Blue
+   changed to    ~_Minifig Hips and Legs (Complete) Dark Blue (Obsolete)
+
+   4168950.DAT                _Minifig Hips and Legs (Complete) Dark Red/Black
+   changed to    ~_Minifig Hips and Legs (Complete) Dark Red/Black (Obsolete)
+
+   4185495.DAT                _Minifig Hips and Legs with Buttoned Pockets (Complete) Tan
+   changed to    ~_Minifig Hips and Legs with Buttoned Pockets (Complete) Tan (Obsolete)
+
+   41856.DAT                  ~Motor Pull Back  2 x  6 x  1.333 Type 1 - Top
+   changed to    ~Motor Pull Back  2 x  6 x  1.333 Top
+
+   41857.DAT                  ~Motor Pull Back  2 x  6 x  1.333 Type 1 - Base
+   changed to    ~Motor Pull Back  2 x  6 Base
+
+   41858.DAT                  ~Motor Pull Back  2 x  6 x  1.667 Type 2 Case Top (Needs Work)
+   changed to    ~Motor Pull Back  2 x  6 x  1.667 Top (Needs Work)
+
+   41861.DAT                  ~Motor Pull Back  2 x  6 x  1.667 Type 2 - Base
+   changed to    ~Motor Pull Back  2 x  6 Base
+
+   4206504.DAT                _Minifig Hips and Legs (Complete) Sand Green
+   changed to    ~_Minifig Hips and Legs (Complete) Sand Green (Obsolete)
+
+   4211069.DAT                _Tile  1 x  1 with Clip Dark_Bluish_Gray
+   changed to    ~_Tile  1 x  1 with Clip Dark_Bluish_Gray (Obsolete)
+
+   4214921.DAT                _Minifig Hips and Legs (Complete) Dark Grey/Orange
+   changed to    ~_Minifig Hips and Legs (Complete) Dark Grey/Orange (Obsolete)
+
+   4221858.DAT                _Minifig Hips and Legs (Complete) Medium Stone/White
+   changed to    ~_Minifig Hips and Legs (Complete) Medium Stone/White (Obsolete)
+
+   4221886.DAT                _Minifig Hips and Legs (Complete) Reddish Brown
+   changed to    ~_Minifig Hips and Legs (Complete) Reddish Brown (Obsolete)
+
+   4222693.DAT                _Minifig Hips and Legs (Complete) Dark Stone
+   changed to    ~_Minifig Hips and Legs (Complete) Dark Stone (Obsolete)
+
+   4225787.DAT                _Minifig Hips and Legs (Complete) Dark Stone Grey/Reddish Brown
+   changed to    ~_Minifig Hips and Legs (Complete) Dark Stone Grey/Reddish Brown (Obsolete)
+
+   4226869.DAT                _Minifig Hips and Legs (Complete) Dark Green
+   changed to    ~_Minifig Hips and Legs (Complete) Dark Green (Obsolete)
+
+   4226995.DAT                _Car Steering Stand and Wheel (Complete) Light_Bluish_Gray
+   changed to    ~_Car Steering Stand and Wheel (Complete) Light_Bluish_Gray (Obsolete)
+
+   42288.DAT                  Motor Pull Back  2 x  6 x  1.333 Type  1 Black Base/White Axle
+   changed to    Motor Pull Back  2 x  6 x  1.333 with Black Base/White Axle
+
+   42446.DAT                  Bracket  1 x  1 -  1 x  1 with Stud Hole
+   changed to    Bracket  1 x  1 -  1 x  1 Thin with Stud Hole
+
+   4270181.DAT                _Dish  4 x  4 Inverted Reddish_Brown
+   changed to    ~_Dish  4 x  4 Inverted Reddish_Brown (Obsolete)
+
+   4296152.DAT                _Hinge Control Stick and Base (Complete) Black/Blue
+   changed to    ~_Hinge Control Stick and Base (Complete) Black/Blue (Obsolete)
+
+   43560.DAT                  Electric Spybotic Brick with TransGreen Cover
+   changed to    ~Electric Spybotic Brick with TransGreen Cover (Obsolete)
+
+   43561.DAT                  Electric Spybotic Brick with TransPurple Cover
+   changed to    ~Electric Spybotic Brick with TransPurple Cover (Obsolete)
+
+   43562.DAT                  Electric Spybotic Brick with TransDarkBlue Cover
+   changed to    ~Electric Spybotic Brick with TransDarkBlue Cover (Obsolete)
+
+   44341P01.DAT               Baseplate 32 x 32 Road 6-Stud T-Junction with Pattern
+   changed to    Baseplate 32 x 32 Road 6-Stud T-Junction with Yellow Road Edge and White Pedestrian Crossing Pattern
+
+   44343P01.DAT               Baseplate 32 x 32 Road 6-Stud Crossroad with Pattern
+   changed to    Baseplate 32 x 32 Road 6-Stud Crossroads with Yellow Road Edge and White Pedestrian Crossing Pattern
+
+   44486.DAT                  _Electric Technic Motor 9V Geared (480RPM) (Trans-Clear)
+   changed to    ~_Electric Technic Motor 9V Geared (480RPM) (Trans-Clear) (Obsolete)
+
+   4544143.DAT                _Train Wheel Large Traction Band Red
+   changed to    ~_Train Wheel Large Traction Band Red (Obsolete)
+
+   4870.DAT                   Plate  2 x  2 with Wheels Holder Plane
+   changed to    Plate  2 x  2 with 2 Wheel Pins
+
+   50163.DAT                  _Technic Turntable Type 2 (Complete) Black/Dark Stone
+   changed to    ~_Technic Turntable Type 2 (Complete) Black/Dark Stone (Obsolete)
+
+   52031.DAT                  Wedge  4 x  6 x  0.667 Curved
+   changed to    Slope Brick 45  4 x  6 x  0.667 Double Curved
+
+   52031D50.DAT               Wedge  4 x  6 x  0.667 Curved with White 'LL 929' Exclamation and Arrow Pointing Right Sticker
+   changed to    Slope Brick 45 4 x 6 x 0.667 Double Curved with White 'LL 929' Exclamation and Arrow Pointing Right Sticker
+
+   52031D51.DAT               Wedge  4 x  6 x  0.667 Curved with White 'LL 929' Exclamation and Arrow Pointing Left Sticker
+   changed to    Slope Brick 45 4 x 6 x 0.667 Double Curved with White 'LL 929' Exclamation and Arrow Pointing Left Sticker
+
+   54870.DAT                  _Electric Sound Brick  2 x  4 x  2 Clear Top Revving Motor Sound
+   changed to    ~_Electric Sound Brick  2 x  4 x  2 Clear Top Revving Motor Sound (Obsolete)
+
+   55707C.DAT                 Minifig Batarang
+   changed to    =Minifig Bar with Bat Wings
+
+   575C02.DAT                 _Technic Universal Joint Type 1 (Complete) Red
+   changed to    ~_Technic Universal Joint Type 1 (Complete) Red (Obsolete)
+
+   60125.DAT                  _Electric Sound Brick  2 x  4 x  2 Grey Top Animal Roaring Sound
+   changed to    ~_Electric Sound Brick  2 x  4 x  2 Grey Top Animal Roaring Sound (Obsolete)
+
+   61484.DAT                  Wedge  5 x  6 x  2 Curved
+   changed to    Slope Brick 45  5 x  6 x  2 Double Curved
+
+   62931.DAT                  _Electric Sound Brick  2 x  4 x  2 Clear Top Klaxon Alarm Sound
+   changed to    ~_Electric Sound Brick  2 x  4 x  2 Clear Top Klaxon Alarm Sound (Obsolete)
+
+   70358.DAT                  _Electric Train Motor 9V (Complete) Black
+   changed to    ~_Electric Train Motor 9V (Complete) Black (Obsolete)
+
+   7065.DAT                   _Hinge Plate  2 x  5 with Large Hole (Complete) Red
+   changed to    ~_Hinge Plate  2 x  5 with Large Hole (Complete) Red (Obsolete)
+
+   7067.DAT                   _Hinge Plate  2 x  5 with Large Hole (Complete) Light_Grey
+   changed to    ~_Hinge Plate  2 x  5 with Large Hole (Complete) Light_Grey (Obsolete)
+
+   7284.DAT                   Roadsign Round with No Entry Sign Pattern
+   changed to    ~_Roadsign Round with No Entry Sign Pattern White (Obsolete)
+
+   73200.DAT                  _Minifig Hips and Legs (Complete) Yellow
+   changed to    ~_Minifig Hips and Legs (Complete) Yellow (Obsolete)
+
+   73312.DAT                  Door  1 x  4 x  5 with 6 Panes
+   changed to    =Door  1 x  4 x  5 Right with  6 Panes with TransClear Glass
+
+   73418.DAT                  _Minifig Hips and Legs (Complete) Black/Blue
+   changed to    ~_Minifig Hips and Legs (Complete) Black/Blue (Obsolete)
+
+   73479.DAT                  _Technic Pneumatic Distribution Block  2 x  4 (Complete) Lt Grey
+   changed to    ~_Technic Pneumatic Distribution Block  2 x  4 (Complete) Lt Grey (Obsolete)
+
+   73587.DAT                  _Hinge Control Stick and Base (Complete) Black/Black
+   changed to    ~_Hinge Control Stick and Base (Complete) Black/Black (Obsolete)
+
+   760.DAT                    ~Hose Flexible 12L Base  1 x  1 x   2/3
+   changed to    ~Hose Flexible 12L Base  1 x  1 x  0.667
+
+   76424.DAT                  _Electric Technic Micro-Scout White/Dark Grey
+   changed to    ~_Electric Technic Micro-Scout White/Dark Grey (Obsolete)
+
+   7940.DAT                   _Crane Grab Jaws (Complete) Yellow
+   changed to    ~_Crane Grab Jaws (Complete) Yellow (Obsolete)
+
+   80039.DAT                  Roadsign Round with Left Turn Prohibited Sign
+   changed to    ~_Roadsign Round with No Left Turn Pattern White (Obsolete)
+
+   80045.DAT                  Roadsign Round with No Parking Sign
+   changed to    ~_Roadsign Round with No Waiting Left Pattern White (Obsolete)
+
+   80276.DAT                  _Train Level Crossing Gate Type 2 with Red Stripes Pattern White
+   changed to    ~_Train Level Crossing Gate Type 2 with Red Stripes Pattern White (Obsolete)
+
+   81615.DAT                  _Minifig Hips and Legs w/ Grass Skirt Pattern (Complete) Yellow
+   changed to    ~_Minifig Hips and Legs w/ Grass Skirt Pattern (Complete) Yellow (Obsolete)
+
+   82059.DAT                  _Minifig Hips and Legs with Robot Pattern (Complete) [4]
+   changed to    ~_Minifig Hips and Legs with Robot Pattern (Complete) [4] (Obsolete)
+
+   82532.DAT                  _Minifig Hips and Legs with Robot Pattern (Complete) [15]
+   changed to    ~_Minifig Hips and Legs with Robot Pattern (Complete) [15] (Obsolete)
+
+   85614.DAT                  _Electric Sound Brick  2 x  4 x  2 Grey Top Carousel Sound
+   changed to    ~_Electric Sound Brick  2 x  4 x  2 Grey Top Carousel Sound (Obsolete)
+
+   9244.DAT                   Technic Universal Joint (Complete Assembly Shortcut)
+   changed to    ~_Technic Universal Joint (Complete Assembly Shortcut) Light Grey (Obsolete)
+
+   9327.DAT                   _Minifig Hips and Legs (Complete) White
+   changed to    ~_Minifig Hips and Legs (Complete) White (Obsolete)
+
+   9339.DAT                   _Minifig Hips and Legs (Complete) Black
+   changed to    ~_Minifig Hips and Legs (Complete) Black (Obsolete)
+
+   9341.DAT                   _Minifig Hips and Legs (Complete) Blue
+   changed to    ~_Minifig Hips and Legs (Complete) Blue (Obsolete)
+
+   9342.DAT                   _Minifig Hips and Legs (Complete) Red
+   changed to    ~_Minifig Hips and Legs (Complete) Red (Obsolete)
+
+   96285.DAT                  _Electric Sound Brick  2 x  4 x  2 Grey Top Space Sound
+   changed to    ~_Electric Sound Brick  2 x  4 x  2 Grey Top Space Sound (Obsolete)
+
+   99841.DAT                  _Electric Sound Brick  2 x  4 x  2 Grey Top Doorbell / Dog Sound
+   changed to    ~_Electric Sound Brick  2 x  4 x  2 Grey Top Doorbell / Dog Sound (Obsolete)
+
+   2684S01.DAT                ~Monorail Motor Gear Subpart
+   changed to    ~Monorail Motor - Brass Metal Twelve Tooth Gear (Obsolete)
+
+   2845S01.DAT                ~Technic Control Centre - Rubber Foot in Holder
+   changed to    ~Technic Control Centre - White Rubber Foot in Holder
+
+   3626BS01.DAT               ~Minifig Head - Stud Hollow without Face Area (obsolete)
+   changed to    ~Minifig Head - Stud Hollow without Face Area (Obsolete)
+
+   41856S01.DAT               ~Motor Pull Back  2 x  6 x  1.333 Type 1 - Top Back (Needs Work)
+   changed to    ~Motor Pull Back  2 x  6 x  1.333 Top Back (Needs Work)
+
+   41857S01.DAT               ~Motor Pull Back  2 x  6 x  1.333 Type 1 - Base Half
+   changed to    ~Motor Pull Back  2 x  6 Base - Half
+
+   U9048.DAT                  ~Motor Pull Back  2 x  6 x  1.333 Type 1 - Axle
+   changed to    ~Motor Pull Back  2 x  6 Axle
+
+   U9462.DAT                  ~Electric Spike Prime Force Sensor Button
+   changed to    Electric Spike Prime Force Sensor Button
+
+Other Fixed Parts
+   2494.DAT                   Glass for Window  1 x  4 x  5
+   2840.DAT                   ~Technic Control Centre II - Base Bottom
+   3069BPC1.DAT               Tile  1 x  2 with Yellow Buttons and Knob Controls Pattern
+   4207.DAT                   ~Ladder  2.5 x 14 (Obsolete)
+   43898.DAT                  Dish  3 x  3 Inverted
+   4626.DAT                   Excavator Bucket  2 x  3
+   60581.DAT                  Panel  1 x  4 x  3 with Side Flanges
+   60581D50.DAT               Panel  1 x  4 x  3 with Thermometer, Radioactivity Symbol and 'LL2079' in White Squares Sticker
+   6179.DAT                   Tile  4 x  4 with Studs on Edge
+   6936.DAT                   Tap  1 x  2 with Two Valves
+   973P45.DAT                 Minifig Torso with Studded Armour Pattern
+   973P4A.DAT                 ~Minifig Torso with Castle Bodice Pattern (Obsolete)
+   30173S01.DAT               ~Minifig Sword Katana Blade
+   43898S01.DAT               ~Dish  3 x  3 without Top Face
+   57515S01.DAT               ~Technic Suspension Arm Ball Socket
+   6936S01.DAT                ~Tap  1 x  2 with Two Valves - Handle Quarter
+   973P4AB.DAT                ~Minifig Torso with Castle Bodice Pattern - Background
+   SWH2.DAT                   ~Obsolete file
