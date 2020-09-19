@@ -1,7 +1,7 @@
-0 Tile  1 x  4 with Black Moustache and Black Beard Pattern
+0 Tile  1 x  4 with Black Beard and Moustache Curved Pattern
 0 Name: 2431pz7.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LDRAW_ORG Part UPDATE 2019-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Set 41493, Brickheadz, Dr. Strange
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+0 !HISTORY 2019-12-11 [cwdee] Update description
+0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
 4 0 14.87 0 3.75 17.17 0 7.04 16.3 0 7.37 15.13 0 7.7

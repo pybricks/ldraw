@@ -1,0 +1,31 @@
+0 Tile  1 x  2 with  3 Black Diagonal Stripes Pattern
+0 Name: 3069bp0i.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 3069bpb436
+
+0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
+
+4 0 -4 0 9 -12 0 9 -19 0 1 -19 0 -7
+4 0 4 0 -9 12 0 -9 19 0 -1 19 0 7
+4 0 -12 0 -9 -4 0 -9 12 0 9 4 0 9
+3 16 -20 0 10 -19 0 1 -12 0 9
+4 16 -20 0 -10 -19 0 -7 -19 0 1 -20 0 10
+3 16 -12 0 -9 -20 0 -10 -4 0 -9
+4 16 20 0 -10 4 0 -9 -4 0 -9 -20 0 -10
+3 16 4 0 -9 20 0 -10 12 0 -9
+3 16 12 0 -9 20 0 -10 19 0 -1
+4 16 19 0 7 19 0 -1 20 0 -10 20 0 10
+4 16 4 0 -9 19 0 7 20 0 10 12 0 9
+3 16 4 0 9 -4 0 9 -19 0 -7
+4 16 -20 0 -10 -12 0 -9 4 0 9 -19 0 -7
+3 16 -4 0 -9 4 0 -9 12 0 9
+3 16 -20 0 10 -12 0 9 -4 0 9
+4 16 -20 0 10 -4 0 9 4 0 9 20 0 10
+3 16 4 0 9 12 0 9 20 0 10

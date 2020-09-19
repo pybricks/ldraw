@@ -1,15 +1,18 @@
-0 Technic Linear Actuator Small Axle Actuator
+0 Technic Linear Actuator  4 x  1 x  1 Axle Actuator
 0 Name: 92695.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2019-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS Power Functions
+
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2019-11-13 [cwdee] Update description
+0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 
 0 // Note: Tip simplified (thread and torque limiter not modelled)
-
 
 1 16 0 0 0 6 0 0 0 0 6 0 3 0 4-4cyli.dat
 1 16 0 0 3 6 0 0 0 0 6 0 3 0 4-4edge.dat

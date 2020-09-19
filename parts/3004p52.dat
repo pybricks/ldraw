@@ -1,0 +1,25 @@
+0 Brick  1 x  2 with Shuttle and Yellow Circle Pattern
+0 Name: 3004p52.dat
+0 Author: Tim Lampmann [L4mpi]
+0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3004pb010
+
+0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
+
+1 16 0 11.5 -10 10.5 0 0 0 0 -10.5 0 1 0 48\4-4ndis.dat
+1 16 0 11.5 -10 0.525 0 0 0 0 -0.525 0 1 0 s\3068bp53s01.dat
+
+4 16 -20 0 -10 -10.5 1 -10 0 1 -10 20 0 -10
+3 16 20 0 -10 0 1 -10 10.5 1 -10
+4 16 20 0 -10 10.5 1 -10 10.5 11.5 -10 20 24 -10
+3 16 10.5 11.5 -10 10.5 22 -10 20 24 -10
+3 16 10.5 22 -10 0 22 -10 20 24 -10
+4 16 20 24 -10 0 22 -10 -10.5 22 -10 -20 24 -10
+4 16 -20 24 -10 -10.5 22 -10 -10.5 11.5 -10 -20 0 -10
+3 16 -20 0 -10 -10.5 11.5 -10 -10.5 1 -10

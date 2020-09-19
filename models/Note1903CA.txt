@@ -1,0 +1,480 @@
+LDraw.org Parts Update 2019-03
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Fri Dec 27 15:25:33 2019 by the Parts Tracker.
+
+Release statistics:
+   Total files: 817
+   New files: 627
+   New parts: 474
+   New subparts: 123
+   New primitives: 24
+   New lo-res primitives: 1
+   New hi-res primitives: 5
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   23816.DAT                  ~Moved to 23816c01
+   2983.DAT                   ~Moved to 2986ac01
+   2986.DAT                   ~Moved to u9384c01
+   2986C01.DAT                ~Moved to u9384c01
+   4343C01.DAT                ~Moved to 47899c01
+   4343C02.DAT                ~Moved to 73194c01
+   568.DAT                    ~Moved to 244
+   60583.DAT                  ~Moved to 60583a
+   U9149.DAT                  ~Moved to 88112
+   U9352.DAT                  ~Moved to 29034
+   U9354.DAT                  ~Moved to 29036
+
+Renamed Parts
+   2039.DAT                   Lamppost  2 x  2 x  7
+   changed to    Support  2 x  2 x  7 Lamppost with  6 Base Flutes
+
+   243.DAT                    ~Train Wheel Spoked with Straight Hub
+   changed to    ~Train Wheel Spoked with Cylindrical Rim
+
+   2431PZ7.DAT                Tile  1 x  4 with Black Moustache and Black Beard Pattern
+   changed to    Tile  1 x  4 with Black Beard and Moustache Curved Pattern
+
+   243C01.DAT                 Train Wheel Spoked with Straight Hub (Complete)
+   changed to    Train Wheel Spoked with Cylindrical Rim with Stub Axle
+
+   243C02.DAT                 ~Train Wheel Spoked for Wagon and Steel Axle 96 LDU (Shortcut)
+   changed to    ~Train Wheels Spoked with Cylindrical Rim with Steel Axle 96 LDU
+
+   244.DAT                    ~Train Wheel Spoked for Motor
+   changed to    ~Train Wheel Spoked with Conical Rim
+
+   245.DAT                    ~Train Wheel with 4 Studs and Beveled Hub without Axle
+   changed to    ~Train Wheel 4 Studs with Conical Rim
+
+   245C01.DAT                 Train Wheel with  4 Studs and Beveled Hub (Complete)
+   changed to    Train Wheel 4 Studs with Conical Rim with Stub Axle
+
+   245C02.DAT                 Train Wheel with  4 Studs and Beveled Hub with LtGrey Tyre
+   changed to    Train Wheel 4 Studs with Conical Rim with Stub Axle and LtGrey Tyre
+
+   30178C01.DAT               Door  1 x  4 x  6 with 3 Panes (Complete)
+   changed to    Door  1 x  4 x  6 with 3 Panes with TransClear Glass
+
+   30240.DAT                  Animal Spider Web
+   changed to    Animal Spider Web with 2 Clips
+
+   32475.DAT                  Technic Mechanical Foot with Ball Joint  3 x  6 x  2.333
+   changed to    Constraction Foot  3 x  6 x  2.333 with Ball Socket
+
+   3712.DAT                   Technic Universal Joint End
+   changed to    Technic Universal Joint 4L End with Bush End
+
+   3712C01.DAT                Technic Universal Joint (Complete Assembly Shortcut)
+   changed to    Technic Universal Joint 4L with Bush Ends with Centre Type 2 (Complete)
+
+   4116604.DAT                _Brick  1 x  6 with TURBO Pattern Red
+   changed to    ~_Brick  1 x  6 with TURBO Pattern Red (Obsolete)
+
+   4141498.DAT                _Electric Technic Micro-Scout White/Dark Grey
+   changed to    ~_Electric Technic Micro-Scout White/Dark Grey (Obsolete)
+
+   4615865E.DAT               Sticker  1.1 x  0.9 with Twin Exhaust Pipes Right
+   changed to    Sticker  1.0 x  0.9 with Twin Exhaust Pipes Right
+
+   50858.DAT                  Technic Bionicle Foot Pointed with Three Holes
+   changed to    Constraction Foot  2 x  7 Pointed with 3 Pegholes
+
+   54869.DAT                  _Electric Light Brick  2 x  3 x  1.333 - TrRed Top - Red LED
+   changed to    ~_Electric Light Brick  2 x  3 x  1.333 - TrRed Top - Red LED (Obsolete)
+
+   575.DAT                    Technic Universal Joint End Old
+   changed to    Technic Universal Joint 4L End with Slotted End
+
+   6141P01.DAT                Plate  1 x  1 Round with Chrome Gold Pattern
+   changed to    ~Plate  1 x  1 Round with Chrome Gold Pattern (Obsolete)
+
+   61904.DAT                  Technic Power Functions Linear Actuator Bracket Hinged Mount
+   changed to    Technic Linear Actuator  2 x  2 Bracket Hinged Mount
+
+   61905.DAT                  Technic Power Functions Linear Actuator Motor Mount
+   changed to    Technic Linear Actuator  2 x  2 Motor Mount
+
+   61927-F1.DAT               Technic Power Functions Linear Actuator (Contracted)
+   changed to    Technic Linear Actuator  8 x  2 x  2 (Contracted)
+
+   61927-F2.DAT               Technic Power Functions Linear Actuator (Extended)
+   changed to    Technic Linear Actuator  8 x  2 x  2 (Extended)
+
+   6205.DAT                   Tile  6 x 16 with Studs on 3 Edges
+   changed to    Tile  6 x 16 with Studs on  3 Edges
+
+   62271.DAT                  ~Technic Power Functions Linear Actuator Base
+   changed to    ~Technic Linear Actuator  8 x  2 x  2 Base
+
+   62271C01.DAT               Technic Power Functions Linear Actuator Body (Complete)
+   changed to    Technic Linear Actuator  8 x  2 x  2 Body Assembly
+
+   62272.DAT                  ~Technic Power Functions Linear Actuator Body
+   changed to    ~Technic Linear Actuator  8 x  2 x  2 Body
+
+   62273.DAT                  =Technic Power Functions Linear Actuator Axle Bush
+   changed to    =Technic Linear Actuator  8 x  2 x  2 Axle Bush
+
+   62274.DAT                  ~Technic Power Functions Linear Actuator Piston Head
+   changed to    ~Technic Linear Actuator  8 x  2 x  2 Piston Head
+
+   62274C01.DAT               Technic Power Functions Linear Actuator Piston (Complete)
+   changed to    Technic Linear Actuator  8 x  2 x  2 Piston Assembly
+
+   62275.DAT                  ~Technic Power Functions Linear Actuator Piston
+   changed to    ~Technic Linear Actuator  8 x  2 x  2 Piston
+
+   62930.DAT                  _Electric Light Brick  2 x  3 x  1.333 - Clear Top - Yellow LED
+   changed to    ~_Electric Light Brick  2 x  3 x  1.333 - Clear Top - Yellow LED (Obsolete)
+
+   70823.DAT                  _Electric Technic Micromotor (Complete) Red
+   changed to    ~_Electric Technic Micromotor (Complete) Red (Obsolete)
+
+   73081.DAT                  ~_Car Steering Stand and Wheel (Complete) Black
+   changed to    ~_Car Steering Stand and Wheel Black (Obsolete)
+
+   73092.DAT                  _Magnet Cylindrical in Casing (Complete) Black
+   changed to    ~_Magnet Cylindrical in Casing Black (Obsolete)
+
+   87926.DAT                  Cylinder Half  3 x  6 x  6 with  1 x  2 Cutout (needs work)
+   changed to    Cylinder Half  3 x  6 x  6 with  1 x  2 Cutout
+
+   92693C01-F1.DAT            Technic Linear Actuator Small (Contracted)
+   changed to    Technic Linear Actuator  4 x  1 x  1 (Contracted)
+
+   92693C01-F2.DAT            Technic Linear Actuator Small (Extended)
+   changed to    Technic Linear Actuator  4 x  1 x  1 (Extended)
+
+   92693C01.DAT               Technic Linear Actuator Small Body Assembly
+   changed to    Technic Linear Actuator  4 x  1 x  1 Body Assembly
+
+   92694.DAT                  ~Technic Linear Actuator Small Body
+   changed to    ~Technic Linear Actuator  4 x  1 x  1 Body
+
+   92695.DAT                  Technic Linear Actuator Small Axle Actuator
+   changed to    Technic Linear Actuator  4 x  1 x  1 Axle Actuator
+
+   92696.DAT                  Technic Linear Actuator Small Piston
+   changed to    Technic Linear Actuator  4 x  1 x  1 Piston
+
+   92697.DAT                  ~Technic Linear Actuator Small Cap
+   changed to    ~Technic Linear Actuator  4 x  1 x  1 Cap
+
+   2362P53A.DAT               ~Panel  1 x  2 x  3 with Space Police I - Silver Detail
+   changed to    ~Obsolete file
+
+   2362P53B.DAT               ~Panel  1 x  2 x  3 with Space Police I - Brown-Red Details
+   changed to    ~Obsolete file
+
+   2431P11A.DAT               ~Pattern  1 x  4 Octan
+   changed to    ~Obsolete file
+
+   2468P53A.DAT               ~Panel  3 x  3 x  6 Corner Convex with SP I Pattern - Silver
+   changed to    ~Obsolete file
+
+   2468P53B.DAT               ~Panel  3 x  3 x  6 Corner Convex with SP I Pattern - Dark Red
+   changed to    ~Obsolete file
+
+   30361S1A.DAT               ~Cylinder  2 x  2 x  2 Robot Body with SW R2-D2 - Silver
+   changed to    ~Obsolete file
+
+   30372S02.DAT               ~Windscreen  4 x  7 x  1 2/3 w/ SW Pattern
+   changed to    ~Obsolete file
+
+   3040P58A.DAT               ~Slope Brick 45  2 x  1 with Targetting Screen - Silver
+   changed to    ~Obsolete file
+
+   3040P58B.DAT               ~Slope Brick 45 2 x 1 with Targetting Screen - Gold
+   changed to    ~Obsolete file
+
+   3068BP3A.DAT               ~Tile  2 x  2 with SW Orange and White Pattern - Orange
+   changed to    ~Obsolete file
+
+   3068P51A.DAT               ~Tile  2 x  2 with Spyrius Machinery - Silver/Chrome
+   changed to    ~Obsolete file
+
+   3068S.DAT                  ~Tile  2 x  2 without top face
+   changed to    ~Obsolete file
+
+   3068S101.DAT               ~Tile  2 x  2 with SW Rebel Mechanical Pattern
+   changed to    ~Obsolete file
+
+   3069BSAP.DAT               ~Tile  1 x  2 with Blue Boxes and Bubbles Pattern - Silver
+   changed to    ~Obsolete file
+
+   3069P54A.DAT               ~Tile  1 x  2 with UFO Controls Pattern - Grey
+   changed to    ~Obsolete file
+
+   3069P54B.DAT               ~Tile  1 x  2 with UFO Controls Pattern - Orange
+   changed to    ~Obsolete file
+
+   3069PA2A.DAT               ~Tile  1 x  2 with Stingray Control Panel - Gold details
+   changed to    ~Obsolete file
+
+   3069PS2A.DAT               ~Tile  1 x  2 with SW Avionics Pattern - Gold detail
+   changed to    ~Obsolete file
+
+   3069PS2B.DAT               ~Tile  1 x  2 with SW Avionics Pattern - Silver detail
+   changed to    ~Obsolete file
+
+   309P02A.DAT                ~Baseplate 32 x 32 Island with River Pattern
+   changed to    ~Obsolete file
+
+   32475S01.DAT               ~Technic Mechanical Foot with Ball Joint  3 x  6 x  2.333 - 1/2
+   changed to    ~Constraction Foot  3 x  6 x  2.333 with Ball Socket - 1/2
+
+   3297PS1A.DAT               ~Slope Brick 33  3 x  4 with SW Grille Pattern - Semi-Black
+   changed to    ~Obsolete file
+
+   3298P53A.DAT               ~Slope Brick 33  3 x  2 with Space Police I Pattern - Maroon
+   changed to    ~Obsolete file
+
+   3298P53B.DAT               ~Slope Brick 33  3 x  2 with Space Police I Pattern - Silver
+   changed to    ~Obsolete file
+
+   3298P69A.DAT               ~Slope Brick 33  3 x  2 with Space Police II Pattern - Silver
+   changed to    ~Obsolete file
+
+   3298P90A.DAT               ~Slope Brick 33  3 x  2 with Classic Space Logo - Gold
+   changed to    ~Obsolete file
+
+   3626BS00.DAT               ~Minifig Head without Vertical Faces with Edge Lines
+   changed to    ~Obsolete file
+
+   3626BSC1.DAT               ~Minifig Head with SW Lobot - Silver detail
+   changed to    ~Obsolete file
+
+   3626BSC2.DAT               ~Minifig Head with SW Lobot - Shiny Lt. Blue detail
+   changed to    ~Obsolete file
+
+   3626P63A.DAT               ~Minifig Head with Silver Robot Pattern - Silver
+   changed to    ~Obsolete file
+
+   3626P7AA.DAT               ~Minifig Head with Brown Hair and Black Eyebrows - Eye details 
+   changed to    ~Obsolete file
+
+   3626P7AB.DAT               ~Minifig Head with Brown Hair and Black Eyebrows - Hair details 
+   changed to    ~Obsolete file
+
+   3626PA7A.DAT               ~Minifig Head with Monocle and Moustache - Silver Details
+   changed to    ~Obsolete file
+
+   3626PSTA.DAT               ~Minifig Head with SW Tusken Raider Pattern - Silver Detail
+   changed to    ~Obsolete file
+
+   3678P4HA.DAT               ~Slope Brick 65  2 x  2 x  2 with Queen's Dress Pattern - Gold
+   changed to    ~Obsolete file
+
+   3736SP.DAT                 ~Technic Pulley Large Fillet Subpart
+   changed to    ~Obsolete file
+
+   3939P90A.DAT               ~Slope Brick 33  3 x  6 with Classic Space Small - Gold
+   changed to    ~Obsolete file
+
+   4150PS3A.DAT               ~Tile  2 x  2 Round with Dejarik Hologame Board - Spaces
+   changed to    ~Obsolete file
+
+   4492S01.DAT                ~Animal Horse Head Side without Surface
+   changed to    ~Animal Horse Head - Side without Surface
+
+   4858P90A.DAT               ~Wedge  4 x  4 with Classic Space Pattern - Gold
+   changed to    ~Obsolete file
+
+   50858S01.DAT               ~Technic Bionicle Foot Pointed with Three Holes - Half without Holes
+   changed to    ~Constraction Foot  2 x  7 Pointed with 3 Pegholes - Half without Holes
+
+   551PS1A.DAT                ~Windscreen  6 x  8 x  3 SW Shuttle White/Lt.Grey x1/2
+   changed to    ~Obsolete file
+
+   551PS1B.DAT                ~Windscreen  6 x  8 x  3 SW Shuttle Background x1/2
+   changed to    ~Obsolete file
+
+   551S01.DAT                 ~Windscreen  6 x  8 x  3 without Printable Surfaces
+   changed to    ~Obsolete file
+
+   6069S101.DAT               ~Wedge  4 x  4 Triple w/ SW X-wing Nose Pattern
+   changed to    ~Obsolete file
+
+   61904S01.DAT               ~Technic Power Functions Linear Actuator Bracket Hinged Mount
+   changed to    ~Technic Linear Actuator  2 x  2 Bracket Hinged Mount
+
+   61905S01.DAT               ~Technic Power Functions Linear Actuator Motor Mount Quarter
+   changed to    ~Technic Linear Actuator  2  x  2 Motor Mount Quarter
+
+   62271S01.DAT               ~Technic Power Functions Linear Actuator Base Half
+   changed to    ~Technic Linear Actuator  8 x  2 x  2 Base Half
+
+   62272S01.DAT               ~Technic Power Functions Linear Actuator Body Quarter
+   changed to    ~Technic Linear Actuator  8 x  2 x  2 Body Quarter
+
+   921B.DAT                   ~Technic Axle Connector End
+   changed to    ~Obsolete file
+
+   971P63A.DAT                ~Minifig Leg Right with Robot Pattern - Silver Colour
+   changed to    ~Obsolete file
+
+   971PS5A.DAT                ~Minifig Right Leg with SW Gunbelt - Silver detail
+   changed to    ~Obsolete file
+
+   972P63A.DAT                ~Minifig Leg Left with Robot Pattern - Silver Colour
+   changed to    ~Obsolete file
+
+   973AS1.DAT                 ~Minifig Torso with SW Rebel Pilot Pattern
+   changed to    ~Obsolete file
+
+   973P2EA.DAT                ~Minifig Torso with Blue and Mint Green Stripes Pattern - Green
+   changed to    ~Obsolete file
+
+   973P39A.DAT                ~Minifig Torso Pirate Open Jacket/Brown Shirt - Silver Detail
+   changed to    ~Obsolete file
+
+   973P39B.DAT                ~Minifig Torso - Pirate Jacket & Brown Vest - Lt. Brown
+   changed to    ~Obsolete file
+
+   973P3AA.DAT                ~Minifig Torso with Pirate Ragged Shirt/Dagger - Silver Detail
+   changed to    ~Obsolete file
+
+   973P3DA.DAT                ~Minifig Torso with Medallion/Belt/Buttons - Silver Pattern
+   changed to    ~Obsolete file
+
+   973P40A.DAT                ~Minifig Torso with Castle Breastplate Pattern - silver
+   changed to    ~Obsolete file
+
+   973P41A.DAT                ~Minifig Torso with Castle Chainmail Pattern - silver 
+   changed to    ~Obsolete file
+
+   973P45S1.DAT               ~Minifig Torso Armor Stud Subpart 
+   changed to    ~Obsolete file
+
+   973P46A.DAT                ~Minifig Torso with Forestman and Purse Pattern
+   changed to    ~Obsolete file
+
+   973P4GA.DAT                ~Minifig Torso with Castle Female Armor Light Gray Area
+   changed to    ~Obsolete file
+
+   973P4GB.DAT                ~Minifig Torso with Castle Female Armor Silver Area
+   changed to    ~Obsolete file
+
+   973P4GC.DAT                ~Minifig Torso with Castle Female Armor Gold Area
+   changed to    ~Obsolete file
+
+   973P62A.DAT                ~Minifig Torso with Silver Ice Planet pattern - silver 
+   changed to    ~Obsolete file
+
+   973P63A.DAT                ~Minifig Torso New with Robot Design - Silver
+   changed to    ~Obsolete file
+
+   973P66A.DAT                ~Minifig Torso with Spyrius Pattern - Silver
+   changed to    ~Obsolete file
+
+   973P82A.DAT                ~Minifig Torso with Train Vest Pattern - Silver
+   changed to    ~Obsolete file
+
+   973P8BA.DAT                ~Minifig Torso with RES-Q Orange Pockets - Orange Detail
+   changed to    ~Obsolete file
+
+   973P8BB.DAT                ~Minifig Torso with RES-Q Orange Pockets - Silver Detail
+   changed to    ~Obsolete file
+
+   973PA8A.DAT                ~Minifig Torso with Jacket, Necklace, and Compass - Silver 
+   changed to    ~Obsolete file
+
+   973PDGA.DAT                ~Minifig Torso with White Rope & Patched Collar - Shadows
+   changed to    ~Obsolete file
+
+   973PDGB.DAT                ~Minifig Torso with White Rope & Patched Collar - Yellowish
+   changed to    ~Obsolete file
+
+   973PH1A.DAT                ~Minifig Torso with Gryffindor Uniform - Gold Detail
+   changed to    ~Obsolete file
+
+   973PH1B.DAT                ~Minifig Torso with Gryffindor Uniform - Maroon Detail
+   changed to    ~Obsolete file
+
+   973PN1A.DAT                ~Minifig Torso with Samurai Robe/Sash/Dagger - Gold Detail
+   changed to    ~Obsolete file
+
+   973PN5A.DAT                ~Minifig Torso with Ninja Wrap, Shuriken and Dagger - Metallic
+   changed to    ~Obsolete file
+
+   973PS0A.DAT                ~Minifig Torso SW A-Wing Pilot - Silver Detail
+   changed to    ~Obsolete file
+
+   973PS7A.DAT                ~Minifig Torso with SW Darth Vader Pattern Chrome Area
+   changed to    ~Obsolete file
+
+   973PSCA.DAT                ~Minifig Torso SW Vest & Pockets - Silver Buckle
+   changed to    ~Obsolete file
+
+   973PSE1.DAT                ~Minifig Torso with SW Scout Trooper - Dithered Color
+   changed to    ~Obsolete file
+
+   973PSM1.DAT                ~Minifig Torso with SW Camouflage Smock - Light Gray
+   changed to    ~Obsolete file
+
+   973PSN1.DAT                ~Minifig Torso with SW Imperial Shuttle Pilot - Silver Detail
+   changed to    ~Obsolete file
+
+   973PSQ1.DAT                ~Minifig Torso with SW Imperial Officer - Silver Detail
+   changed to    ~Obsolete file
+
+   973PSRA.DAT                ~Minifig Torso with SW C-3PO Dark Grey Pattern
+   changed to    ~Obsolete file
+
+   973PSRB.DAT                ~Minifig Torso with SW C-3PO Grey Gold Pattern
+   changed to    ~Obsolete file
+
+Other Fixed Parts
+   1-4CON9.DAT                Hi-Res Cone  9 x 0.25
+   TYPESTUB.DAT               Type Stencil Upper Case B
+   TYPESTUE.DAT               Type Stencil Upper Case E
+   TYPESTUN.DAT               Type Stencil Upper Case N
+   TYPESTUO.DAT               Type Stencil Upper Case O
+   TYPESTUR.DAT               Type Stencil Upper Case R
+   TYPESTUS.DAT               Type Stencil Upper Case S
+   TYPESTUT.DAT               Type Stencil Upper Case T
+   TYPESTUY.DAT               Type Stencil Upper Case Y
+   003439A.DAT                Sticker  1.6 x  2.7 with White "171" on Black
+   004585A.DAT                Sticker Minifig Torso with White Buttons and Police Badge Plain
+   10P04.DAT                  Baseplate 24 x 32 with Set 345 Dots Pattern
+   190775A.DAT                Sticker  3.1 x  3.1 Round with Black "6" or "9" on White
+   2489.DAT                   Barrel  2 x  2 x  1.667
+   26913.DAT                  Electric Power Functions 2.0 Boost Interactive Motor
+   2723.DAT                   Technic Disc  3 x  3 with Axlehole
+   2775.DAT                   ~Electric Plug (Type 4) Twin Extra-Wide
+   2985.DAT                   Electric Technic Micromotor Bottom Holder
+   30250.DAT                  Bracket  4 x  7 x  3
+   3069BPW0.DAT               Tile  1 x  2 with "Wanted - Flatfoot Thomsen" Pattern
+   31111.DAT                  Duplo Brick  2 x  4 x  2
+   31111P01.DAT               Duplo Brick  2 x  4 x  2 with Fence Pattern
+   31625.DAT                  Duplo Worm Gear
+   32089.DAT                  Technic Tread Sprocket Wheel 20 Tooth Thin
+   334.DAT                    ~Technic Micro-Scout Button (Needs Work)
+   61100.DAT                  Motor Windup  2 x  4 x  2.333 (Complete)
+   766A.DAT                   ~Electric Plug (Type 4) Twin with Centre Plastic Pin
+   2336S35.DAT                ~Obsolete file
+   3039A101.DAT               ~Obsolete file
+   3039S101.DAT               ~Obsolete file
+   3068A101.DAT               ~Obsolete file
+   3068B101.DAT               ~Obsolete file
+   3068C101.DAT               ~Obsolete file
+   32506S01.DAT               ~Technic Bionicle Claw with Axle - Finger
+   3846P4TA.DAT               ~Obsolete file
+   6179S01.DAT                ~Tile  4 x  4 with Studs on Edge without Top Surface
+   6594C.DAT                  ~Obsolete file
+   6595D.DAT                  ~Obsolete file
+   973P42A.DAT                ~Obsolete file
+   973P4TA.DAT                ~Obsolete file
+   973P61A.DAT                ~Obsolete file
+   973P90A.DAT                ~Obsolete file
+   973PN6A.DAT                ~Obsolete file
+   COG2.DAT                   ~Obsolete file
+   S12S01.DAT                 ~Sticker with Heat Sensitive UFO Drawing Background - Half
+   SWH3.DAT                   ~Obsolete file

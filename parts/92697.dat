@@ -1,12 +1,16 @@
-0 ~Technic Linear Actuator Small Cap
+0 ~Technic Linear Actuator  4 x  1 x  1 Cap
 0 Name: 92697.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2019-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS Power Functions
+
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2019-11-13 [cwdee] Update description
+0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 
 4 16 -4 -9 5 -10 0 5 -12 0 5 -12 -9 5
 4 16 -12 -9 0 -12 0 0 -10 0 0 -4 -9 0

@@ -1,0 +1,22 @@
+0 Tile  2 x  3 with Flesh Diamond Pattern
+0 Name: 26603pz0.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 41603, BrickLink 26603pb016, Kylo Ren, BrickHeadz
+
+0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\26603s01.dat
+
+4 92 -23.25 0 -17.5 -16.25 0 -10.5 -11.5 0 -1.25 -19.25 0 -9.25
+
+3 16 -30 0 20 -19.25 0 -9.25 -11.5 0 -1.25
+4 16 -30 0 20 -11.5 0 -1.25 30 0 -20 30 0 20
+3 16 30 0 -20 -11.5 0 -1.25 -16.25 0 -10.5
+3 16 30 0 -20 -16.25 0 -10.5 -23.25 0 -17.5
+3 16 30 0 -20 -23.25 0 -17.5 -30 0 -20
+4 16 -30 0 -20 -23.25 0 -17.5 -19.25 0 -9.25 -30 0 20

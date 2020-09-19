@@ -1,13 +1,15 @@
 0 ~Tile  4 x  4 with Studs on Edge without Top Surface
 0 Name: s\6179s01.dat
 0 Author: Vincent Messenet [Cheenzo]
-0 !LDRAW_ORG Part UPDATE 2019-02
+0 !LDRAW_ORG Subpart UPDATE 2019-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-07-28 [Cheenzo] Subparted from James Jessiman initial design
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+0 !HISTORY 2019-11-02 [MagFors] Corrected parttype
+0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 
 1 16 0 8 0 40 0 0 0 -8 0 0 0 40 box4.dat
 1 16 0 0 30 0 0 -1 0 1 0 1 0 0 stug-4x1.dat

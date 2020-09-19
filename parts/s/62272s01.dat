@@ -1,12 +1,14 @@
-0 ~Technic Power Functions Linear Actuator Body Quarter
+0 ~Technic Linear Actuator  8 x  2 x  2 Body Quarter
 0 Name: s\62272s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2010-03
+0 !LDRAW_ORG Subpart UPDATE 2019-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2019-11-13 [cwdee] Update description
+0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 
 2 24 -15.73 -10 40 -15.73 -10 60
 2 24 -10 -15.73 40 -10 -15.73 60

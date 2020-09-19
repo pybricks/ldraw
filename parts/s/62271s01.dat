@@ -1,12 +1,14 @@
-0 ~Technic Power Functions Linear Actuator Base Half
+0 ~Technic Linear Actuator  8 x  2 x  2 Base Half
 0 Name: s\62271s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
+0 !LDRAW_ORG Subpart UPDATE 2019-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+0 !HISTORY 2019-11-13 [cwdee] Update description
+0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 
 4 16 -10.607 10.607 0 -10.607 10.607 20 -10.019 11 20 -10.019 11 0
 2 24 -10.607 10.607 0 -10.019 11 0

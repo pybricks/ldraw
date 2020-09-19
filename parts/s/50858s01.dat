@@ -1,12 +1,14 @@
-0 ~Technic Bionicle Foot Pointed with Three Holes - Half without Holes
+0 ~Constraction Foot  2 x  7 Pointed with 3 Pegholes - Half without Holes
 0 Name: s\50858s01.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Subpart UPDATE 2014-01
+0 !LDRAW_ORG Subpart UPDATE 2019-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2019-10-18 [cwdee] Update description
+0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 
 3 16 3.058 8.874 -86.229 2.64 8.76 -86.087 2.64 10 -88.817
 3 16 3.406 9.15 -86.335 3.058 8.874 -86.229 2.64 10 -88.817

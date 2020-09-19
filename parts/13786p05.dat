@@ -1,0 +1,33 @@
+0 Animal Cat Standing Looking Forward with White Muzzle and Bright Pink Nose Pattern
+0 Name: 13786p05.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
+0 // Subfile without Patterns
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\13786s01.dat
+
+0 // Filling Stripes Area
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\13786s02.dat
+
+0 // Chest
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\13786s03.dat
+
+0 // Head
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\13786s04.dat
+
+0 // Muzzle Filling
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\13786p01s03.dat
+
+0 // Muzzle Border
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\13786p01s04.dat
+3 16 2.187 -38.873 -14.537 3.375 -36.834 -11.445 3.362 -40.691 -14.65
+3 16 -2.187 -38.873 -14.537 -3.362 -40.691 -14.65 -3.375 -36.834 -11.445
+
+0 // Eyes
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\13786p01s05.dat

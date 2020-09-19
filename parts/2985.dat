@@ -1,7 +1,7 @@
-0 Electric Technic Micromotor Base
+0 Electric Technic Micromotor Bottom Holder
 0 Name: 2985.dat
 0 Author: Remco Braak [remco1974]
-0 !LDRAW_ORG Part UPDATE 2018-01
+0 !LDRAW_ORG Part UPDATE 2019-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -13,6 +13,8 @@
 0 !HISTORY 2017-08-01 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2017-08-01 [MagFors] Used primitives
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+0 !HISTORY 2018-10-13 [cwdee] Update description
+0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 
 1 16 0 4 0 1 0 0 0 -1.5 0 0 0 1 stud4f4s.dat
 1 16 0 4 0 6 0 0 0 1 0 0 0 6 4-4edge.dat

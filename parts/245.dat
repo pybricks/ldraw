@@ -1,12 +1,14 @@
-0 ~Train Wheel with 4 Studs and Beveled Hub without Axle
+0 ~Train Wheel 4 Studs with Conical Rim
 0 Name: 245.dat
 0 Author: Niels Karsdorp [nielsk]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2019-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2019-12-10 [cwdee] Update description
+0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 
 1 16 0 0 10 4 0 0 0 0 4 0 1 0 4-4edge.dat
 1 16 0 0 10 8 0 0 0 0 8 0 1 0 4-4edge.dat

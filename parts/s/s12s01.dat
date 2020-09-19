@@ -1,15 +1,17 @@
 0 ~Sticker with Heat Sensitive UFO Drawing Background - Half
 0 Name: s\s12s01.dat
 0 Author: Nils Schmidt [BlackBrick89]
-0 !LDRAW_ORG Subpart UPDATE 2012-01
+0 !LDRAW_ORG Subpart UPDATE 2019-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+0 !HISTORY 2017-07-03 [cwdee] Use cylinder primitive with conditional lines
+0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 
 1 16 0 0 0 0 0 -19.4181 0 -1 0 -19.4181 0 0 48\2-4disc.dat
-1 16 0 0 0 0 0 -19.4181 0 -0.25 0 -19.4181 0 0 48\2-4cyli2.dat
+1 16 0 0 0 0 0 -19.4181 0 -0.25 0 -19.4181 0 0 48\2-4cyli.dat
 4 16 -0.555 -0.25 -3.585 0 -0.25 -3.955 0 -0.25 4.925 -0.555 -0.25 4.925
 4 16 -0.555 -0.25 9.365 -2.22 -0.25 9.365 -2.22 -0.25 8.07 -0.555 -0.25 8.07
 4 16 0 -0.25 9.365 -0.555 -0.25 9.365 -0.555 -0.25 8.07 0 -0.25 8.07
