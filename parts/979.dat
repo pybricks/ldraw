@@ -1,0 +1,32 @@
+0 Minifig (Complete Figure Shortcut)
+0 Name: 979.dat
+0 Author: Leonardo Zide
+0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
+0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-07-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 // legs & hip
+ 1 0 0 -28 0 1 0 0 0 1 0 0 0 1 972.dat
+ 1 0 0 -28 0 1 0 0 0 1 0 0 0 1 971.dat
+ 1 0 0 -40 0 1 0 0 0 1 0 0 0 1 970.dat
+0 torso
+ 1 1 0 -72 0 1 0 0 0 1 0 0 0 1 973.dat
+0 head
+ 1 14 0 -100 0 1 0 0 0 1 0 0 0 1 3626bp01.dat
+0 hat
+ 1 4 0 -100 0 1 0 0 0 1 0 0 0 1 3624.dat
+0 airtank
+ 1 2 0 -74 0 1 0 0 0 1 0 0 0 1 3838.dat
+0 arms
+ 1 4 0 -64 0 1 0 0 0 1 0 0 0 1 975.dat
+ 1 4 0 -64 0 1 0 0 0 1 0 0 0 1 976.dat
+0 hands
+ 1 14 -23 -44 -15.50 0 0 1 -0.71 0.71 0 0.71 0.71 0 977.dat
+ 1 14 23 -44 -15.50 0 0 1 -0.71 0.71 0 0.71 0.71 0 977.dat

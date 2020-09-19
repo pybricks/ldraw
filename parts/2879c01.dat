@@ -1,0 +1,18 @@
+0 Train Wheel  9V Pair on Axle (Shortcut)
+0 Name: 2879c01.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Shortcut UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-05-20 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 16 50 34 0 0 0 -1 0 1 0 1 0 0 2879.dat
+1 16 -50 34 0 0 0 1 0 1 0 1 0 0 2879.dat
+1 383 -54 34 0 0 108 0 3 0 0 0 0 3 4-4cyli.dat
+1 15 54 34 0 0 1 0 3 0 0 0 0 3 4-4edge.dat
+1 15 -54 34 0 0 1 0 3 0 0 0 0 3 4-4edge.dat
+1 383 54 34 0 0 3 0 3 0 0 0 0 3 4-4con0.dat
+1 383 -54 34 0 0 -3 0 3 0 0 0 0 3 4-4con0.dat
+0

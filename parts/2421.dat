@@ -1,0 +1,24 @@
+0 Propellor  3 Blade  4 Diameter
+0 Name: 2421.dat
+0 Author: Lutz Uhlmann
+0 !LDRAW_ORG Part UPDATE 2001-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15
+0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
+0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
+0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+ 1 16 0 5 0 4 0 0 0 -10 0 0 0 4 4-4cyli.dat
+ 1 16 0 5 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+ 1 16 0 -5 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+ 1 16 0 5 0 4 0 0 0 1 0 0 0 4 ring1.dat
+ 1 16 0 -5 0 4 0 0 0 1 0 0 0 4 ring1.dat
+ 1 16 0 5 0 8 0 0 0 -10 0 0 0 8 4-4cyli.dat
+ 1 16 0 5 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+ 1 16 0 -5 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+ 1 16 0 0 0 -0.94 0.34 0 0.34 0.94 0 0 0 -1 s\2421a.dat
+ 1 16 0 0 0 0.47 -0.17 -0.87 0.34 0.94 0 0.81 -0.30 0.50 s\2421a.dat
+ 1 16 0 0 0 0.47 -0.17 0.87 0.34 0.94 0 -0.81 0.30 0.50 s\2421a.dat
+0

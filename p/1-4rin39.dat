@@ -1,0 +1,18 @@
+0 Ring 39 x 0.25
+0 Name: 1-4rin39.dat
+0 Author: Paul Easter [pneaster]
+0 !LDRAW_ORG Primitive UPDATE 2001-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
+0 !HISTORY 2007-06-22 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+4 16 39 0 0 36.0313 0 14.9247 36.9552 0 15.3073 40 0 0
+4 16 36.0313 0 14.9247 27.5772 0 27.5772 28.2843 0 28.2843 36.9552 0 15.3073
+4 16 27.5772 0 27.5772 14.9247 0 36.0313 15.3073 0 36.9552 28.2843 0 28.2843
+4 16 14.9247 0 36.0313 0 0 39 0 0 40 15.3073 0 36.9552
+0
+0 End of File

@@ -1,0 +1,46 @@
+0 ~Minifig Chain Link End (Open File for Usage Guide)
+0 Name: 208.dat
+0 Author: Matt Schild [mschild]
+0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Use this file in conjuction with the file 
+0 !HELP 209.dat.  This file is the end segment of
+0 !HELP the chain.  For a full 17 stud long chain,
+0 !HELP use one of these for each end and 21 links
+0 !HELP in the middle.
+
+0 BFC CERTIFY CW
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Plate  1 x  1 Round with Chain Link, chainlink, padlock, lock
+
+0 !HISTORY 2002-05-27 [mschild] rebuilt link connector using primitives and corrected its size
+0 !HISTORY 2003-07-23 [Steffen] BFCed
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+0 BFC INVERTNEXT
+1 16 0 0 0 1 0 0 0 4 0 0 0 1 peghole.dat
+0 BFC INVERTNEXT
+1 16 0 -4 0 0.75 0 0 0 2 0 0 0 0.75 peghole.dat
+0 BFC INVERTNEXT
+1 16 0 -4 0 4.5 0 0 0 4 0 0 0 4.5 4-4cyli.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 6 0 0 0 8 0 0 0 6 4-4cyli.dat
+1 16 0 0 0 2 0 0 0 1 0 0 0 2 ring3.dat
+1 16 0 -4 0 1.5 0 0 0 1 0 0 0 1.5 ring3.dat
+1 16 0 -4 0 4.5 0 0 0 4 0 0 0 4.5 4-4edge.dat
+1 16 3.1 2.001 6.75 1 0 0 0 0 1 0 8 0 4-4cyli.dat
+1 16 -2.9 2.001 6.75 1 0 0 0 0 1 0 8 0 4-4cyli.dat
+1 16 0.1 2 14.75 0 0 -3 0 3 0 3 0 0 t04q3333.dat
+1 16 0.1 2 14.75 3 0 0 0 3 0 0 0 3 t04q3333.dat
+1 16 -3.085 2 7.395 -0.819152 0.630934 0 0 0 -1 -0.573576 -0.901067 0 1-4edge.dat
+1 16 -3.085 2 7.395 -0.819152 -0.630934 0 0 0 1 -0.573576 0.901067 0 1-4edge.dat
+1 16 -3.085 2 7.395 1.17795 -0.190809 0 0 0 -1 0.228971 0.981627 0 1-4edge.dat
+1 16 -3.085 2 7.395 1.17795 0.190809 0 0 0 1 0.228971 -0.981627 0 1-4edge.dat
+1 16 3.315 2 7.395 0.819152 -0.630934 0 0 0 1 -0.573576 -0.901067 0 1-4edge.dat
+1 16 3.315 2 7.395 0.819152 0.630934 0 0 0 -1 -0.573576 0.901067 0 1-4edge.dat
+1 16 3.315 2 7.395 -1.17795 0.190809 0 0 0 1 0.228971 0.981627 0 1-4edge.dat
+1 16 3.315 2 7.395 -1.17795 -0.190809 0 0 0 -1 0.228971 -0.981627 0 1-4edge.dat
+0

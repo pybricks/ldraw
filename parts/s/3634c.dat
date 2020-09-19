@@ -1,0 +1,25 @@
+0 ~Tyre 17 x 43 back hole
+0 Name: s\3634c.dat
+0 Author: Leonardo Zide
+0 !LDRAW_ORG Subpart UPDATE 1998-10
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10
+0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+4 16 41 1 -10.5 31 1 -10.5 24 1 12 41 1 12
+4 16 41 -1 -10.5 31 -1 -10.5 24 -1 12 41 -1 12
+4 16 41 1 12 24 1 12 41 -1 12 24 -1 12
+
+2 24 41 1 -10.5 31 1 -10.5
+2 24 41 -1 -10.5 31 -1 -10.5
+2 24 41 1 12 24 1 12
+2 24 41 -1 12 24 -1 12
+2 24 41 1 12 41 1 -10.5
+2 24 41 -1 12 41 -1 -10.5
+2 24 24 1 12 31 1 -10.5
+2 24 24 -1 12 31 -1 -10.5
+2 24 24 1 12 24 -1 12
+2 24 41 1 12 41 -1 12
+0

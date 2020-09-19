@@ -1,0 +1,38 @@
+0 Tile  1 x  1 with "60" Pattern
+0 Name: 3070bp05.dat
+0 Author: John Riley [jriley]
+0 !LDRAW_ORG Part UPDATE 2004-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2003-07-02 [Steffen] fixed BFC errors
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-10-13 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
+
+4 16 -10 0 10 -10 0 6 10 0 6 10 0 10
+4 16 -10 0 -6 -10 0 -10 10 0 -10 10 0 -6
+1 15 4.5 0 0 -1.3 0 0 0 1 0 0 0 -2 ring2.dat
+1 16 4.5 0 0 -2.6 0 0 0 1 0 0 0 4 4-4disc.dat
+1 16 4.5 0 0 3.9 0 0 0 1 0 0 0 6 4-4ndis.dat
+4 16 0.6 0 -6 0.6 0 6 -0.6 0 6 -0.6 0 -6
+4 16 8.4 0 -6 10 0 -6 10 0 6 8.4 0 6
+1 15 -4.5 0 -2.4 -1.3 0 0 0 1 0 0 0 -1.2 ring2.dat
+1 16 -4.5 0 -2.4 -2.6 0 0 0 1 0 0 0 2.4 4-4disc.dat
+1 16 -4.5 0 -2.4 -3.9 0 0 0 1 0 0 0 -3.6 2-4ndis.dat
+1 16 -4.5 0 -2.4 0 0 3.9 0 1 0 3.6 0 0 1-4ndis.dat
+4 16 -0.6 0 1.2 -0.6 0 2.4 -7.1 0 2.4 -7.1 0 1.2
+4 15 -7.1 0 2.4 -8.4 0 2.4 -8.4 0 -0.6 -7.1 0 0.2
+3 15 -8.4 0 -0.6 -8.1 0 -1.05 -7.25 0 0.1
+3 15 -8.4 0 -0.6 -8.4 0 -2.4 -8.1 0 -1.05
+3 16 -7.1 0 1.2 -7.1 0 0.2 -6 0 0.9
+3 16 -7.1 0 1.2 -6 0 0.9 -4.5 0 1.2
+1 15 -4.5 0 2.4 -1.3 0 0 0 1 0 0 0 1.2 2-4ring2.dat
+1 16 -4.5 0 2.4 0 0 -3.9 0 1 0 3.6 0 0 1-4ndis.dat
+1 16 -4.5 0 2.4 3.9 0 0 0 1 0 0 0 3.6 1-4ndis.dat
+1 16 -4.5 0 2.4 -2.6 0 0 0 1 0 0 0 2.4 2-4disc.dat
+4 16 -10 0 -6 -8.4 0 -6 -8.4 0 6 -10 0 6
+0

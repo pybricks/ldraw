@@ -1,0 +1,16 @@
+LDraw.org Parts Update 2008-01 
+---------------------------------------------------------------------------
+Non-Redistributable Parts Library 
+---------------------------------------------------------------------------
+Notes created Sun Sep 07 20:20:00 2008 by the Parts Library Admin.
+
+Release statistics:
+   Total files: 90 
+
+This update is a re-issue of the complete parts library, with standarised
+file headers to indicate the redistributiuon status according to the 
+Contributor Agreement (see CAreadme.txt and NonCAreadme.txt).
+
+The library has also been segmented to separate the optional files for
+"Alias" parts (synonyms) and Physical Colour parts.
+

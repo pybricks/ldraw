@@ -1,0 +1,26 @@
+0 Slope Brick Round  2 x  2 x  2/3
+0 Name: 41855.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !KEYWORDS curved, Racers, Alpha Team, car, hood, bonnet
+
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\41855s01.dat
+0
+ 4 16 -10 0 -10 10 0 -10 10 1.5 -20 -10 1.5 -20
+ 4 16 -10 1.5 -20 10 1.5 -20 10 4 -30 -10 4 -30
+ 3 16 -10 0 -10 -10 1.5 -20 -20 8.5 -10
+ 3 16 10 0 -10 10 1.5 -20 20 8.5 -10
+ 3 16 -10 1.5 -20 -20 8.5 -10 -20 10 -20
+ 3 16 10 1.5 -20 20 8.5 -10 20 10 -20
+ 3 16 -10 1.5 -20 -10 4 -30 -20 10 -20
+ 3 16 10 1.5 -20 10 4 -30 20 10 -20
+ 3 16 -10 4 -30 -20 10 -20 -20 12 -30
+ 3 16 10 4 -30 20 10 -20 20 12 -30
+0

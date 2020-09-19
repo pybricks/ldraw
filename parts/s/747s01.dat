@@ -1,0 +1,35 @@
+0 ~Roadsign Old Warning without Pattern Area
+0 Name: s\747s01.dat
+0 Author: Tore Eriksson [simlego]
+0 !LDRAW_ORG Subpart UPDATE 2002-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !CMDLINE -c15
+
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2002-03-02 [simlego] Fixed missing edge
+0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+2 24 -15 -44 0 -2 -44 0 
+2 24 2 -44 0 15 -44 0 
+
+2 24 -15 -44 -2 15 -44 -2 
+4 16 -15 -44 -2 -15 -44 0 15 -44 0 15 -44 -2 
+2 24 -15 -44 -2 -15 -44 0 
+2 24 15 -44 -2 15 -44 0 
+2 24 0 -74 -2 0 -74 0 
+2 24 0 -74 -2 15 -44 -2 
+2 24 0 -74 -2 -15 -44 -2 
+2 24 0 -74 0 15 -44 0 
+4 16 0 -74 -2 0 -74 0 15 -44 0 15 -44 -2
+2 24 0 -74 0 -15 -44 0 
+4 16 0 -74 -2 0 -74 0 -15 -44 0 -15 -44 -2
+3 16 -15 -44 0 0 -74 0 15 -44 0 
+1 16 0 -44 0 2 0 0 0 -2 0 0 0 2 2-8sphe.dat
+1 16 0 -44 0 2 0 0 0 36 0 0 0 2 4-4cyli.dat
+1 16 0 -8 0 2 0 0 0 2 0 0 0 2 8-8sphe.dat
+1 16 0 -44 0 2 0 0 0 0 0 0 0 -2 2-4edge.dat
+1 16 0 -44 0  2 0 0 0 0 -2 0 0 0 2-4edge.dat
+0

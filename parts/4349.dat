@@ -1,0 +1,72 @@
+0 Minifig Loudhailer
+0 Name: 4349.dat
+0 Author: James Jessiman
+0 !LDRAW_ORG Part UPDATE 2001-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS town, megaphone, cone, space gun, blaster, bullhorn
+
+0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
+0 !HISTORY 2001-10-01 [pneaster] used existing primitives to enhance appearance
+0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
+0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+ 1 16 0 0 18 0 0 -1 1 0 0 0 -1 0 stud2.dat
+
+ 1 16 0 20 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+ 1 16 0 0 18 7.104 0 0 0 0 7.104 0 1 0 4-4edge.dat
+ 1 16 0 0 -4 6.666 0 0 0 0 6.666 0 1 0 4-4edge.dat
+ 1 16 0 0 -4 4 0 0 0 0 4 0 1 0 4-4edge.dat
+ 1 16 0 0 -22 6 0 0 0 0 6 0 1 0 4-4edge.dat
+ 1 16 0 0 -22 10 0 0 0 0 10 0 1 0 4-4edge.dat
+ 1 16 0 20 0 4 0 0 0 1 0 0 0 4 4-4disc.dat
+ 1 16 0 0 18 7.104 0 0 0 0 7.104 0 1 0 4-4disc.dat
+ 1 16 0 0 -4 1.4208 0 0 0 0 1.4208 0 1 0 ring4.dat
+ 1 16 0 5 0 4 0 0 0 15 0 0 0 4 4-4cyli.dat
+ 1 16 0 0 -4 7.104 0 0 0 0 7.104 0 1 0 4-4edge.dat
+ 1 16 0 0 -3.25 .888 0 0 0 0 .888 0 -.75 0 4-4con8.dat
+ 1 16 0 0 -3.25 8 0 0 0 0 8 0 1.25 0 4-4cyli.dat
+ 1 16 0 0 -2 .888 0 0 0 0 .888 0 .75 0 4-4con8.dat
+ 1 16 0 0 -1.25 7.104 0 0 0 0 7.104 0 1 0 4-4edge.dat
+ 1 16 0 0 -.5 .888 0 0 0 0 .888 0 -.75 0 4-4con8.dat
+ 1 16 0 0 -.5 8 0 0 0 0 8 0 1.25 0 4-4cyli.dat
+ 1 16 0 0 .75 .888 0 0 0 0 .888 0 .75 0 4-4con8.dat
+ 1 16 0 0 1.5 7.104 0 0 0 0 7.104 0 1 0 4-4edge.dat
+ 1 16 0 0 2.25 .888 0 0 0 0 .888 0 -.75 0 4-4con8.dat
+ 1 16 0 0 2.25 8 0 0 0 0 8 0 1.25 0 4-4cyli.dat
+ 1 16 0 0 3.5 .888 0 0 0 0 .888 0 .75 0 4-4con8.dat
+ 1 16 0 0 4.25 7.104 0 0 0 0 7.104 0 1 0 4-4edge.dat
+ 1 16 0 0 5 .888 0 0 0 0 .888 0 -.75 0 4-4con8.dat
+ 1 16 0 0 5 8 0 0 0 0 8 0 1.25 0 4-4cyli.dat
+ 1 16 0 0 6.25 .888 0 0 0 0 .888 0 .75 0 4-4con8.dat
+ 1 16 0 0 7 7.104 0 0 0 0 7.104 0 1 0 4-4edge.dat
+ 1 16 0 0 7.75 .888 0 0 0 0 .888 0 -.75 0 4-4con8.dat
+ 1 16 0 0 7.75 8 0 0 0 0 8 0 1.25 0 4-4cyli.dat
+ 1 16 0 0 9 .888 0 0 0 0 .888 0 .75 0 4-4con8.dat
+ 1 16 0 0 9.75 7.104 0 0 0 0 7.104 0 1 0 4-4edge.dat
+ 1 16 0 0 10.5 .888 0 0 0 0 .888 0 -.75 0 4-4con8.dat
+ 1 16 0 0 10.5 8 0 0 0 0 8 0 1.25 0 4-4cyli.dat
+ 1 16 0 0 11.75 .888 0 0 0 0 .888 0 .75 0 4-4con8.dat
+ 1 16 0 0 12.5 7.104 0 0 0 0 7.104 0 1 0 4-4edge.dat
+ 1 16 0 0 13.25 .888 0 0 0 0 .888 0 -.75 0 4-4con8.dat
+ 1 16 0 0 13.25 8 0 0 0 0 8 0 1.25 0 4-4cyli.dat
+ 1 16 0 0 14.5 .888 0 0 0 0 .888 0 .75 0 4-4con8.dat
+ 1 16 0 0 15.25 7.104 0 0 0 0 7.104 0 1 0 4-4edge.dat
+ 1 16 0 0 16 .888 0 0 0 0 .888 0 -.75 0 4-4con8.dat
+ 1 16 0 0 16 8 0 0 0 0 8 0 1.25 0 4-4cyli.dat
+ 1 16 0 0 17.25 .888 0 0 0 0 .888 0 .75 0 4-4con8.dat
+ 1 16 0 0 -4 4 0 0 0 0 4 0 18 0 4-4cyli.dat
+ 1 16 0 0 14 4 0 0 0 0 4 0 1 0 4-4disc.dat
+ 1 16 0 0 14 4 0 0 0 0 4 0 1 0 4-4edge.dat
+ 1 16 0 0 -22  3.333 0 0 0 0 3.333 0 18 0 1-4con2.dat
+ 1 16 0 0 -22 0 0 -3.333 3.333 0 0 0 18 0 1-4con2.dat
+ 1 16 0 0 -22 -3.333 0 0 0 0 -3.333 0 18 0 1-4con2.dat
+ 1 16 0 0 -22 0 0 3.333 -3.333 0 0 0 18 0 1-4con2.dat
+ 1 16 0 0 -22  2 0 0 0 0 2 0 18 0 1-4con2.dat
+ 1 16 0 0 -22 0 0 -2 2 0 0 0 18 0 1-4con2.dat
+ 1 16 0 0 -22 -2 0 0 0 0 -2 0 18 0 1-4con2.dat
+ 1 16 0 0 -22 0 0 2 -2 0 0 0 18 0 1-4con2.dat
+ 1 16 0 0 -22  2.5 0 0 0 0 2.5 0 1 0 ring3.dat
+ 1 16 0 0 -22  1.5 0 0 0 0 1.5 0 1 0 ring4.dat
