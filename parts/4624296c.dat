@@ -1,7 +1,7 @@
 0 Sticker  1.8 x  1.8 with "WGP" Logo on White Background
 0 Name: 4624296c.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-01
+0 !LDRAW_ORG Part UPDATE 2017-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Disney, Cars, Set 8206
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2017-07-03 [cwdee] Use cylinder primitives with conditional lines
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 1 15 17 -0.25 17 1 0 0 0 1 0 0 0 1 1-4disc.dat
 1 15 17 -0.25 -17 0 0 1 0 1 0 -1 0 0 1-4disc.dat
@@ -556,10 +558,10 @@
 4 16 18 0 17 18 0 -17 17 0 -18 17 0 18
 4 16 -17 0 18 -17 0 -18 -18 0 -17 -18 0 17
 
-1 16 17 -0.25 17 1 0 0 0 0.25 0 0 0 1 1-4cyli2.dat
-1 16 17 -0.25 -17 0 0 1 0 0.25 0 -1 0 0 1-4cyli2.dat
-1 16 -17 -0.25 -17 -1 0 0 0 0.25 0 0 0 -1 1-4cyli2.dat
-1 16 -17 -0.25 17 0 0 -1 0 0.25 0 1 0 0 1-4cyli2.dat
+1 16 17 -0.25 17 1 0 0 0 0.25 0 0 0 1 1-4cyli.dat
+1 16 17 -0.25 -17 0 0 1 0 0.25 0 -1 0 0 1-4cyli.dat
+1 16 -17 -0.25 -17 -1 0 0 0 0.25 0 0 0 -1 1-4cyli.dat
+1 16 -17 -0.25 17 0 0 -1 0 0.25 0 1 0 0 1-4cyli.dat
 
 4 16 18 -0.25 17 18 -0.25 -17 18 0 -17 18 0 17
 4 16 -17 -0.25 18 17 -0.25 18 17 0 18 -17 0 18

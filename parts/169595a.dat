@@ -1,7 +1,7 @@
 0 Sticker  0.9 x  7.9 with "315" and Red Stripe with Stars - Right
 0 Name: 169595a.dat
 0 Author: Tomas Kralicek [RabbiT_CZ]
-0 !LDRAW_ORG Part UPDATE 2016-01
+0 !LDRAW_ORG Part UPDATE 2017-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Town, Set 6596
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+0 !HISTORY 2017-07-02 [cwdee] Use cylinder primitives with conditional lines
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 3 15 -24.8516 -0.25 1.0104 -24.2516 -0.25 2.8104 -27.1516 -0.25 2.8104
 3 15 -20.7516 -0.25 -1.5896 -21.8516 -0.25 1.0104 -23.3516 -0.25 -0.0896
@@ -349,4 +351,4 @@
 4 16 -51 -0.25 -10.5 -51 0 -10.5 -34.2816 0 -10.5 -34.2816 -0.25 -10.5
 4 16 -34.2816 0 -10.5 72.918 0 -2.3 72.918 -0.25 -2.3 -34.2816 -0.25 -10.5
 4 16 -59.3416 -0.25 10.5 72.918 -0.25 10.5 72.918 0 10.5 -59.3416 0 10.5
-1 16 72.918 0 4.1 0 0 6.4 0 -0.25 0 6.4 0 0 2-4cyli2.dat
+1 16 72.918 0 4.1 0 0 6.4 0 -0.25 0 6.4 0 0 2-4cyli.dat

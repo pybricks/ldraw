@@ -1,7 +1,7 @@
 0 Sticker  1.7 x  1.7 Round with Dark Red Semi-Circles
 0 Name: 6058327a.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Part UPDATE 2016-01
+0 !LDRAW_ORG Part UPDATE 2017-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,8 +9,10 @@
 0 !KEYWORDS 75043, AT-AP
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+0 !HISTORY 2017-07-03 [cwdee] Use cylinder primitive with conditional lines
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
-1 16 0 0 0 18 0 0 0 -0.25 0 0 0 18 48\4-4cylc2.dat
+1 16 0 0 0 18 0 0 0 -0.25 0 0 0 18 48\4-4cylc3.dat
 
 4 19 -12.016 -0.25 0 0 -0.25 0 -11.6772 -0.25 2.7 -17.8452 -0.25 2.349
 4 19 -9.9909 -0.25 6.6757 -11.1013 -0.25 4.5983 0 -0.25 0 -8.4966 -0.25 8.4966

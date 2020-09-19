@@ -1,10 +1,14 @@
 0 ~Plant Flower  2 x  2 - 1/12 Section
 0 Name: s\4728s01.dat
 0 Author: Max Martin Richter [MMR1988]
-0 !LDRAW_ORG Subpart UPDATE 2012-03
+0 !LDRAW_ORG Subpart UPDATE 2017-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
+0 BFC CERTIFY CCW
+
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+0 !HISTORY 2017-06-03 [SLS] Adding BFC certification
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 4 16 -9.42823 0 16.9382 -9.42823 8 16.9382 -9.5 8 16.4545 -9.5 0 16.4545
 4 16 -8.83852 0 17.6528 -8.83852 8 17.6528 -9.42823 8 16.9382 -9.42823 0 16.9382

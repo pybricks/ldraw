@@ -1,7 +1,7 @@
 0 Sticker  2.3 x  5.9 with "Fort Legoredo" Sign
 0 Name: 4106332b.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2012-01
+0 !LDRAW_ORG Part UPDATE 2017-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -18,6 +18,8 @@
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 0 !HISTORY 2012-01-09 [cwdee] Corrected dimensions
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+0 !HISTORY 2017-07-02 [cwdee] Use cylinder primitives with conditional lines
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 0 // Blue Border
 
@@ -1997,11 +1999,11 @@
 1 1 -57 0 -21 0 0 -2 0 -1 0 -2 0 0 1-4disc.dat
 4 1 -57 0 -23 -57 0 -21 57 0 -21 57 0 -23
 4 1 57 0 21 57 0 -21 -57 0 -21 -57 0 21
-1 1 57 -0.25 -21 0 0 2 0 0.25 0 -2 0 0 1-4cyli2.dat
+1 1 57 -0.25 -21 0 0 2 0 0.25 0 -2 0 0 1-4cyli.dat
 4 1 59 0 -21 59 0 21 59 -0.25 21 59 -0.25 -21
-1 1 57 0 21 2 0 0 0 -0.25 0 0 0 2 1-4cyli2.dat
+1 1 57 0 21 2 0 0 0 -0.25 0 0 0 2 1-4cyli.dat
 4 1 57 0 23 -57 0 23 -57 -0.25 23 57 -0.25 23
-1 1 -57 -0.25 21 0 0 -2 0 0.25 0 2 0 0 1-4cyli2.dat
+1 1 -57 -0.25 21 0 0 -2 0 0.25 0 2 0 0 1-4cyli.dat
 4 1 -59 -0.25 -21 -59 -0.25 21 -59 0 21 -59 0 -21
-1 1 -57 -0.25 -21 -2 0 0 0 0.25 0 0 0 -2 1-4cyli2.dat
+1 1 -57 -0.25 -21 -2 0 0 0 0.25 0 0 0 -2 1-4cyli.dat
 4 1 57 -0.25 -23 -57 -0.25 -23 -57 0 -23 57 0 -23

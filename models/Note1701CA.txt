@@ -1,0 +1,371 @@
+LDraw.org Parts Update 2017-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Sat Dec 30 19:44:21 2017 by the Parts Tracker.
+
+Release statistics:
+   Total files: 930
+   New files: 717
+   New parts: 509
+   New subparts: 169
+   New primitives: 24
+   New lo-res primitives: 6
+   New hi-res primitives: 9
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   127C01.DAT                 ~Moved to 127c01-f1
+   127C02.DAT                 ~Moved to 127c01-f2
+   236A.DAT                   ~Moved to 4486
+   236B.DAT                   ~Moved to 4344
+   2453.DAT                   ~Moved to 2453a
+   25931-12.DAT               ~Moved to s\2593s01
+   25931-8H.DAT               ~Moved to s\2593s02
+   264.DAT                    ~Moved to 4463
+   2774C01.DAT                ~Moved to 74013
+   3005BPF1.DAT               ~Moved to 3005pf1
+   30168.DAT                  ~Moved to 30168a
+   30292.DAT                  ~Moved to 30292a
+   30350.DAT                  ~Moved to 30350a
+   3067.DAT                   ~Moved to 3067a
+   335C01.DAT                 ~Moved to 335c01-f1
+   335C02.DAT                 ~Moved to 335c01-f2
+   3852.DAT                   ~Moved to 3852a
+   4166.DAT                   ~Moved to 4166b
+   4287.DAT                   ~Moved to 4287a
+   4694C01.DAT                ~Moved to 4694c01-f1
+   4694C02.DAT                ~Moved to 4694c01-f2
+   4694C03.DAT                ~Moved to 4694c01-f3
+   61927.DAT                  ~Moved to 61927-f1
+   61927C01.DAT               ~Moved to 61927-f2
+   6580.DAT                   ~Moved to 6580a
+   767.DAT                    ~Moved to 4166a
+   787.DAT                    ~Moved to 4320
+   885.DAT                    ~Moved to 2978
+   891.DAT                    ~Moved to 30292a
+   90462.DAT                  ~Moved to 90462a
+   90462PQ0.DAT               ~Moved to 90462apq0
+   90462PQ1.DAT               ~Moved to 90462apq1
+   92693C02.DAT               ~Moved to 92693c01-f1
+   92693C03.DAT               ~Moved to 92693c01-f2
+   25931-12.DAT               ~Moved to s\2593s01
+   25931-8H.DAT               ~Moved to s\2593s02
+   30350S01.DAT               ~Moved to s\30350as01
+   503S01.DAT                 ~Moved to s\4003s01
+   691S01.DAT                 ~Moved to s\3996s01
+   U663S01.DAT                ~Moved to s\4325s01
+   U663.DAT                   ~Moved to 4325
+   U9168.DAT                  ~Moved to 4075
+   U9169.DAT                  ~Moved to 4108
+   U9169C01.DAT               ~Moved to 4108c01
+   U9214.DAT                  ~Moved to 4430
+
+Renamed Parts
+   11767.DAT                  Motor Inertia Flywheel 4 x 7 x 1 with Metal Wheel and DkAzur Tyre
+   changed to    Motor Inertia Flywheel  4 x  7 x  1 with Metal Wheel and DkAzur Tyre
+
+   18978A.DAT                 Wheel Rim 17.6 x 11.2 Front with  5 Spokes
+   changed to    Wheel Rim 11 x 18 Front with  5 Spokes
+
+   2546P01.DAT                Animal Bird with Parrot Pattern
+   changed to    Animal Bird Parrot with White Face and Yellow/Green Wings Pattern
+
+   2593.DAT                   Wheel Hard-Plastic Medium
+   changed to    Wheel 30 x 35 with Tread on Sidewall
+
+   2977.DAT                   Electric Rotation Sensor Bottom
+   changed to    ~Electric Brick  2 x  4 x  1.667 Sensor Rotation - Bottom
+
+   2977C01.DAT                Electric Rotation Sensor (Complete Assembly Shortcut)
+   changed to    ~Electric Rotation Sensor with Cable Stub (Complete) (Obsolete)
+
+   30036.DAT                  Wing  8 x  6 x  2/3
+   changed to    Wing  8 x  6 x  0.667
+
+   30056.DAT                  Fence Spindled  4 x  4 x  2 Quarter Round
+   changed to    Fence Spindled  4 x  4 x  2 Quarter Round with  2 Studs
+
+   3005PV1.DAT                Brick  1 x  1 with Lightblue "1" Pattern
+   changed to    Brick  1 x  1 with Blue Bold "1" Pattern
+
+   3005PV3.DAT                Brick  1 x  1 with Lightblue "3" Pattern
+   changed to    Brick  1 x  1 with Blue Bold "3" Pattern
+
+   3005PV4.DAT                Brick  1 x  1 with Lightblue "4" Pattern
+   changed to    Brick  1 x  1 with Blue Bold "4" Pattern
+
+   3010P30.DAT                Brick  1 x  4 with Legoland-Logo Black
+   changed to    Brick  1 x  4 with Black Legoland Logo Pattern
+
+   3010P31.DAT                Brick  1 x  4 with Legoland-Logo White
+   changed to    Brick  1 x  4 with White Legoland Logo Pattern
+
+   30126P01.DAT               Minifig Feathers with Pin and Black Tip Pattern
+   changed to    Minifig Feathers with Pin and Black Tip on Both Sides Pattern
+
+   30155.DAT                  Wheel Centre Spoked Small
+   changed to    Wheel Rim  8 x 18 with 12 Spokes and Peghole
+
+   30200.DAT                  Cockpit  6 x  6 x  3 & 1/3 Octagonal Canopy Base
+   changed to    Cockpit  6 x  6 x  3.333 Octagonal Canopy Base
+
+   30378PS2.DAT               Minifig Mechanical Head with Rust Insignia Pattern
+   changed to    Minifig Mechanical Head with Dark Red Insignia Pattern
+
+   30663.DAT                  Car Steering Wheel Large
+   changed to    Car Steering Wheel 2D
+
+   3069BPA1.DAT               Tile  1 x  2 with "HC514" Pattern
+   changed to    Tile  1 x  2 with White "HC514" Pattern
+
+   3069BPW2.DAT               Tile  1 x  2 with Money Pattern
+   changed to    Tile  1 x  2 with "100" Money Pattern
+
+   32165.DAT                  Technic Connector Block  3 x  6 x  1 & 2/3
+   changed to    Technic Connector Block  3 x  6 x  1.667
+
+   32166.DAT                  Technic Connector Block  3 x  6 x  1 & 2/3 Gearbox
+   changed to    Technic Connector Block  3 x  6 x  1.667 Gearbox
+
+   3626BP39.DAT               Minifig Head with Dark Grey Facial Hair Pattern
+   changed to    Minifig Head with Grin, Dark Grey Beard and Eyebrows Pattern
+
+   3740.DAT                   Tyre 24 x 43 Technic
+   changed to    Tyre 24/ 80 x 43 Offset Tread
+
+   3842A.DAT                  Minifig Helmet Classic with Thin Chin Guard
+   changed to    Minifig Helmet Classic with Thin Chin Guard and Visor Dimples
+
+   3842B.DAT                  Minifig Helmet Classic with Thick Chin Guard
+   changed to    Minifig Helmet Classic with Thick Chin Guard and Visor Dimples
+
+   4106332C.DAT               Sticker  1.1 x  8 with "Headquarters" Sign
+   changed to    Sticker  1.1 x  8.0 with "Headquarters" Sign
+
+   4150PS4.DAT                Tile  2 x  2 Round with Star Wars Millennium Falcon Vent Pattern
+   changed to    Tile  2 x  2 Round with Black and Dark Bluish Grey Grid Pattern
+
+   4250285A.DAT               Sticker  1 x  1.9 with White "96" on Red/Yellow/Black
+   changed to    Sticker  1.0 x  1.9 with White "96" on Red/Yellow/Black
+
+   4344.DAT                   ~Glass for Door  1 x  4 x  5
+   changed to    ~Door  1 x  4 x  5 Glass
+
+   4511.DAT                   Door  6 & 1/2 x  5 Sliding with Vertical Lines
+   changed to    Door  6.5 x  5 Sliding with Vertical Lines
+
+   4550640A.DAT               Sticker  2 x  2 Round with Radioactive Hazard Trefoil
+   changed to    Sticker  2.0 x  2.0 Round with Radioactive Hazard Trefoil
+
+   4613857A.DAT               Sticker  1.6 x  1.6 Round Red/White/DkBlue Concentric Rings
+   changed to    Sticker  1.6 x  1.6 Round with Red/White/DarkBlue Concentric Rings
+
+   4728.DAT                   Plant Flower  2 x  2
+   changed to    Plant Flower  2 x  2 with Hollow Stud
+
+   4784.DAT                   Staircase  4 x  6 x  7 1/3 Enclosed Straight 
+   changed to    Staircase  4 x  6 x  7.333 Enclosed Straight
+
+   4855.DAT                   Wedge  4 x  4 Triple Inverted
+   changed to    Wedge  4 x  4 Triple Inverted without Ribs between Studs
+
+   52038.DAT                  Bracket  2 x  4 x  2/3 with Front Studs
+   changed to    Bracket  2 x  4 x  0.667 with Front Studs and Shallow Arches
+
+   57877.DAT                  Axle Steel  5 x 100 LDU
+   changed to    ~Axle Steel  5 x 100 LDU
+
+   6005745A.DAT               Sticker  5.8 x  5.8 Round with RAF Roundel
+   changed to    Sticker  5.8 x  5.8 Round with Red/White/DarkBlue Concentric Rings
+
+   6084.DAT                   Windscreen  8 x  3 & 3/5 x  4 & 1/2 Octagonal Canopy Half
+   changed to    Windscreen  8 x  3.6 x  4.5 Octagonal Canopy Half
+
+   6118.DAT                   Wheel Hard-Plastic Small
+   changed to    Wheel 23 x 24 with Tread on Sidewall
+
+   61409.DAT                  Slope Brick 18  2 x  1 x   2/3 Grille
+   changed to    Slope Brick 18  2 x  1 x  0.667 Grille
+
+   6217.DAT                   Arm Piece with Pin and 3 Fingers
+   changed to    Arm Piece with Pin with Friction and 3 Fingers
+
+   63082.DAT                  Plate  2 x  2 with Square Towball Socket and Axlehole
+   changed to    Plate  2 x  2 with Socket Joint-8 Square and Axlehole
+
+   6579.DAT                   Tyre 43.2 x 28 Balloon Small
+   changed to    Tyre 26/ 36 x 22 Off Road
+
+   6581.DAT                   Tyre 20 x 30 Balloon Medium
+   changed to    Tyre 20/ 40 x 33 Off Road
+
+   812.DAT                    Train Level Crossing Center Rail Cap Insert
+   changed to    Train Level Crossing Centre Rail Cap Insert
+
+   814.DAT                    Train Level Crossing Gate Type 1 - Base
+   changed to    ~Train Level Crossing Gate Type 1 - Crossbar Base
+
+   815.DAT                    Train Level Crossing Gate Type 1 - Crossbar
+   changed to    ~Train Level Crossing Gate Type 1 - Crossbar
+
+   816.DAT                    Train Level Crossing Gate Type 1 - Handle
+   changed to    ~Train Level Crossing Gate Type 1 - Crossbar Handle
+
+   87580.DAT                  Plate  2 x  2 with Groove with 1 Center Stud
+   changed to    Plate  2 x  2 with Groove with 1 Centre Stud
+
+   886.DAT                    Electric Rotation Sensor Top 
+   changed to    ~Electric Rotation Sensor Top (Obsolete)
+
+   973P19.DAT                 Minifig Torso with Train Chevron Pattern
+   changed to    Minifig Torso with Train Logo and Red Diagonal Stripes Pattern
+
+   973P83.DAT                 Minifig Torso with Suit and Tie with Train Pattern 
+   changed to    Minifig Torso with Suit and Red Tie with Train Logo Pattern 
+
+   973PA6.DAT                 Minifig Torso with Safari Shirt,Blue Tee & Red Bandana Pattern
+   changed to    Minifig Torso with Safari Shirt, Blue Tee, Red Bandana Pattern
+
+   98263.DAT                  Plate  1 x  4 with Square Towball Socket
+   changed to    Plate  1 x  4 with Socket Joint-8 Square
+
+   18978AS01.DAT              ~Wheel Rim 17.6 x 11.2 Front with  5 Spokes - One Spoke
+   changed to    ~Wheel Rim 11 x 18 Front with  5 Spokes - One Spoke
+
+   30126A01.DAT               ~Minifig Feathers with Black Tip Pattern
+   changed to    ~Minifig Feathers with Black Tip on Both Sides Pattern
+
+   3740A.DAT                  ~Tyre 24 x 43 Technic
+   changed to    ~Tyre 24/ 80 x 43 - Segment
+
+   3960P01A.DAT               ~Space Radar Dish 4 x 4 Petal Outline
+   changed to    ~Dish  4 x  4 Inverted with Petal Pattern - Outline
+
+   3960P01B.DAT               ~Space Radar Dish 4 x 4 Petal
+   changed to    ~Dish  4 x  4 Inverted with Petal Pattern - Petal
+
+   6579A.DAT                  ~6579a Tyre 1/14th Section
+   changed to    ~Tyre 26/ 36 x 22 Off Road - 1/14
+
+   6580A.DAT                  ~6580 Wheel 1-4 Section
+   changed to    ~Wheel Rim 23 x 22 Offroad - 1/4 Subpart
+
+   6580B.DAT                  ~6580 Wheel 1-2 Center
+   changed to    ~Wheel Rim 23 x 22 Offroad - Centre Subpart
+
+   6581A.DAT                  ~6581 Tyre 1/2th
+   changed to    ~Tyre 20/ 40 x 33 Off Road - 1/4
+
+Other Fixed Parts
+   1-16EDGE.DAT               Circle 0.0625
+   1-4EDGE.DAT                Circle 0.25
+   1-8EDGE.DAT                Circle 0.125
+   2-4EDGE.DAT                Circle 0.5
+   3-16EDGE.DAT               Circle 0.1875
+   3-4EDGE.DAT                Circle 0.75
+   3-8EDGE.DAT                Circle 0.375
+   4-4EDGE.DAT                Circle 1.0
+   1-8EDGE.DAT                Hi-Res Circle 0.125
+   3-16EDGE.DAT               Hi-Res Circle 0.1875
+   5-8EDGE.DAT                Circle 0.625
+   7-16EDGE.DAT               Circle 0.4375
+   BOX3#8P.DAT                ~Obsolete file
+   CLIP12.DAT                 Clip without Attachment (Thick C-Clip)
+   168275A.DAT                Sticker  2.7 x  3.7 with Spyrius Machinery
+   169595A.DAT                Sticker  0.9 x  7.9 with "315" and Red Stripe with Stars - Right
+   169595B.DAT                Sticker  0.9 x  7.9 with "315" and Red Stripe with Stars - Left
+   191915F.DAT                Sticker  1.5 x  1.5 Round with Green Circle on White
+   194325B.DAT                Sticker  2.0 x  2.0 with 3 Black Discs
+   2572.DAT                   Panel  6 x  6 x  9 with Curved Top
+   2638.DAT                   Crane Harbour Derrick 10 (Top Part)
+   2680.DAT                   Support  4 x  4 x  5 Stanchion
+   2737.DAT                   Technic Steering Arm Tall
+   2791A.DAT                  Technic Steering Gear Holder
+   2916.DAT                   Wedge  4 x  6 x  2.333
+   3001P02.DAT                Brick  2 x  4 with Red Stripe and 4 Black Windows Pattern
+   30082.DAT                  Arm Piece with Towball and Clip
+   3010P03.DAT                Brick  1 x  4 with Garage Tools Pattern
+   3010P21.DAT                Brick  1 x  4 with Light Blue Squares Pattern
+   3010P42.DAT                Brick  1 x  4 with Yellow Left Arrow and Black Border Pattern
+   30126.DAT                  Minifig Feathers with Pin
+   30127.DAT                  Minifig Feathers with Clip
+   30127P01.DAT               Minifig Feathers with Clip and Black Tip Pattern
+   30132.DAT                  Minifig Gun Revolver
+   30154.DAT                  Minifig Sextant
+   30211.DAT                  Support Insectoid Leg Small
+   30213.DAT                  Rock  2 x  2 Crystal 3 Point
+   30378.DAT                  Minifig Mechanical Head SW Battle Droid
+   30378PS1.DAT               Minifig Mechanical Head with Orange Insignia Pattern
+   30395.DAT                  Hook with Towball
+   32007.DAT                  Technic Tread Sprocket Wheel
+   3245C.DAT                  Brick  1 x  2 x  2 without Understud
+   3623.DAT                   Plate  1 x  3
+   3626BP3E.DAT               Minifig Head with Wiry Moustache, Goatee and Eyebrows Pattern
+   3626BPA9.DAT               Minifig Head with Villainous Glasses & Black Facial Hair Pattern
+   3788.DAT                   Car Mudguard  2 x  4
+   3876.DAT                   Minifig Shield Round
+   3958.DAT                   Plate  6 x  6
+   3960P01.DAT                Dish  4 x  4 Inverted with Red and Green Petals Pattern
+   3960P02.DAT                Dish  4 x  4 Inverted with Black Spiral Pattern
+   3960P03.DAT                Dish  4 x  4 Inverted with Red Spiral Pattern
+   4003.DAT                   Wheelbarrow with 1 Wheel
+   4106332B.DAT               Sticker  2.3 x  5.9 with "Fort Legoredo" Sign
+   4106981A.DAT               Sticker  2.1 x  2.3 with Town TV Logo
+   4107582B.DAT               Sticker  1.0 x  1.5 with Black Grille on Grey Background
+   4119430A.DAT               Sticker  3.2 x  3.2 Round Mirror
+   4158884A.DAT               Sticker  3.2 x  3.2 Round with "9 3/4"
+   4216816A.DAT               Sticker  1.6 x  1.8 with US Flag
+   4250285B.DAT               Sticker  0.9 x  3.9 with Red Symmetric Flame on Black/Yellow
+   4270894A.DAT               Sticker  1.8 x  1.8 Round with Brown, Yellow, Red Rings
+   4466.DAT                   Exhaust Pipe Twin Inlet 11L Left
+   4467.DAT                   Exhaust Pipe Twin Inlet 11L Right
+   4497614C.DAT               Sticker  3.5 x  1.9 Shield Ovoid Black Bull Head on Brown Border
+   4611.DAT                   Door  6 x  7 Barred
+   4624296A.DAT               Sticker  1.8 x  1.8 with Black and White Squares
+   4624296B.DAT               Sticker  1.75 x  1.75 Round with White "STOP FUEL" on Red Background
+   4624296C.DAT               Sticker  1.8 x  1.8 with "WGP" Logo on White Background
+   4624296D.DAT               Sticker  2.6 x  0.6 with "POWERED BY allinol" on Black Background
+   4629677F.DAT               Sticker  1.9 x  1.9 Round with Five-String Banjo
+   4640189A.DAT               Sticker  1.9 x  1.9 Round with Blue and White "JAMSTEC" Logo
+   4739.DAT                   Container Treasure Chest Lid
+   51739.DAT                  Wing  2 x  4
+   6055874A.DAT               Sticker  0.8 x  3.8 with Radiator Grille and Mini Cooper Logo
+   6058327A.DAT               Sticker  1.7 x  1.7 Round with Dark Red Semi-Circles
+   6058327B.DAT               Sticker  1.7 x  1.7 Round with Light Grey Circles and Stripes
+   6064.DAT                   Plant Bush
+   6115204D.DAT               Sticker  1.8 x  1.8 Round with Dark Bluish Grey SHIELD Logo on Medium Blue Background 
+   6115204E.DAT               Sticker  1.8 x  1.8 Round with Medium Blue SHIELD Logo on Dark Bluish Grey Background 
+   6261.DAT                   Baseplate 32 x 48 Raised with Ramp, Pit and Stairs
+   670.DAT                    Door  1 x  6 x 10 Frame
+   671.DAT                    Door  1 x  6 x 10
+   73037.DAT                  Winch  2 x  4 x  2 with Light Grey Drum
+   791.DAT                    Window  1 x  3 x  5 Shutter
+   841.DAT                    Homemaker Stove  4 x  4 x  3
+   92747.DAT                  Minifig Shield Oval
+   92747P01.DAT               Minifig Shield Oval with SW Gungan Patrol Shield Pattern
+   975.DAT                    ~Minifig Arm Right (Obsolete)
+   30116P6UA.DAT              ~Panel 14 x 14 x  2.667 Quarter Saucer UFO Pattern
+   30126S01.DAT               ~Minifig Feathers
+   30378S01.DAT               ~Minifig Mechanical Head SW Battle Droid without Top Surfaces
+   30378S02.DAT               ~Minifig Mechanical Head SW Battle Droid - Forehead
+   30378S03.DAT               ~Minifig Mechanical Head SW Battle Droid - Back of Head
+   32007S2.DAT                ~Technic Tread Hub Subpart
+   3852-1.DAT                 ~Minifig Hairbrush Subpart
+   3960P2A.DAT                ~Dish  4 x  4 Inverted with Spiral Pattern - Outline
+   3960P2B.DAT                ~Dish  4 x  4 Inverted with Spiral Pattern - Spiral
+   4728S01.DAT                ~Plant Flower  2 x  2 - 1/12 Section
+   92747S01.DAT               ~Minifig Shield Oval without Front Face
+   U9310C05.DAT               Fabuland Garage Block with White Doors and Rectangular Windows (Complete)
+   U9310C06.DAT               Fabuland Garage Block with Yellow Doors and Rectangular Windows (Complete)
+   U9310C07.DAT               Fabuland Garage Block with Yellow Doors and Four Quadrant Pane Windows (Complete)
+   U9310C08.DAT               Fabuland Garage Block with Red Doors and Blue One Semicircular and Three Sextant Pane Windows (Complete)
+   U9315.DAT                  ~Fabuland House Block Side Panel with Doorway and 2 Window Holes
+   U9317.DAT                  ~Door Frame  7 x  8 Fabuland
+
+Other changes
+   The example file car.dat has been updated and superceded by car.ldr with references to moved parts updated and more help added.

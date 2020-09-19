@@ -1,7 +1,7 @@
 0 Sticker  3.2 x  3.2 Round with "9 3/4"
 0 Name: 4158884a.dat
 0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Part UPDATE 2011-01
+0 !LDRAW_ORG Part UPDATE 2017-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,8 +10,10 @@
 0 !KEYWORDS Set 4708
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+0 !HISTORY 2017-07-03 [cwdee] Use cylinder primitive with conditional lines
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
-1 0 0 0 0 32 0 0 0 -0.25 0 0 0 32 48\4-4cylc2.dat
+1 0 0 0 0 32 0 0 0 -0.25 0 0 0 32 48\4-4cylc3.dat
 1 0 0 -0.25 0 2 0 0 0 1 0 0 0 2 48\1-4rin15.dat
 1 0 0 -0.25 0 0 0 -2 0 1 0 2 0 0 48\1-4rin15.dat
 1 0 0 -0.25 0 -2 0 0 0 1 0 0 0 -2 48\1-4rin15.dat

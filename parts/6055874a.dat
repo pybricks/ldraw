@@ -1,7 +1,7 @@
 0 Sticker  0.8 x  3.8 with Radiator Grille and Mini Cooper Logo
 0 Name: 6055874a.dat
 0 Author: Max Martin Richter [MMR1988]
-0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LDRAW_ORG Part UPDATE 2017-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,16 +9,18 @@
 0 !KEYWORDS set 10242, Mini Cooper MK VII
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+0 !HISTORY 2017-07-03 [cwdee] Use cylinder primitives with conditional lines
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 1 16 -36 0 6.125 -1.5 0 0 0 -1 0 0 0 1.5 1-4chrd.dat
 1 16 -36 0 -6.125 -1.5 0 0 0 -1 0 0 0 -1.5 1-4chrd.dat
 1 16 36 0 6.125 1.5 0 0 0 -1 0 0 0 1.5 1-4chrd.dat
 1 16 36 0 -6.125 1.5 0 0 0 -1 0 0 0 -1.5 1-4chrd.dat
 
-1 16 -36 0 6.125 -1.5 0 0 0 -0.25 0 0 0 1.5 1-4cyli2.dat
-1 16 -36 0 -6.125 -1.5 0 0 0 -0.25 0 0 0 -1.5 1-4cyli2.dat
-1 16 36 0 6.125 1.5 0 0 0 -0.25 0 0 0 1.5 1-4cyli2.dat
-1 16 36 0 -6.125 1.5 0 0 0 -0.25 0 0 0 -1.5 1-4cyli2.dat
+1 16 -36 0 6.125 -1.5 0 0 0 -0.25 0 0 0 1.5 1-4cyli.dat
+1 16 -36 0 -6.125 -1.5 0 0 0 -0.25 0 0 0 -1.5 1-4cyli.dat
+1 16 36 0 6.125 1.5 0 0 0 -0.25 0 0 0 1.5 1-4cyli.dat
+1 16 36 0 -6.125 1.5 0 0 0 -0.25 0 0 0 -1.5 1-4cyli.dat
 
 4 16 37.5 0 6.125 37.5 -0.25 6.125 37.5 -0.25 -6.125 37.5 0 -6.125
 4 16 -37.5 0 -6.125 -37.5 -0.25 -6.125 -37.5 -0.25 6.125 -37.5 0 6.125

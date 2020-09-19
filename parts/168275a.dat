@@ -1,7 +1,7 @@
 0 Sticker  2.7 x  3.7 with Spyrius Machinery
 0 Name: 168275a.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2017-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Set 6949
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2017-07-02 [cwdee] Use cylinder primitives with conditional lines
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 0 // Front
 1 0 -36 -.25 26 -1 0 0 0 1 0 0 0 1 1-4chrd.dat
@@ -328,7 +330,7 @@
 4 16 36 0 27 -36 0 27 -36 -.25 27 36 -.25 27
 4 16 -37 0 26 -37 0 -26 -37 -.25 -26 -37 -.25 26
 4 16 37 -.25 -26 37 0 -26 37 0 26 37 -.25 26
-1 16 36 0 26 1 0 0 0 -0.25 0 0 0 1 1-4cyli2.dat
-1 16 36 0 -26 0 0 1 0 -0.25 0 -1 0 0 1-4cyli2.dat
-1 16 -36 0 26 -1 0 0 0 -0.25 0 0 0 1 1-4cyli2.dat
-1 16 -36 0 -26 0 0 -1 0 -0.25 0 -1 0 0 1-4cyli2.dat
+1 16 36 0 26 1 0 0 0 -0.25 0 0 0 1 1-4cyli.dat
+1 16 36 0 -26 0 0 1 0 -0.25 0 -1 0 0 1-4cyli.dat
+1 16 -36 0 26 -1 0 0 0 -0.25 0 0 0 1 1-4cyli.dat
+1 16 -36 0 -26 0 0 -1 0 -0.25 0 -1 0 0 1-4cyli.dat

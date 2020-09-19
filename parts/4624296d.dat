@@ -1,7 +1,7 @@
 0 Sticker  2.6 x  0.6 with "POWERED BY allinol" on Black Background
 0 Name: 4624296d.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LDRAW_ORG Part UPDATE 2017-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Disney, Cars, Set 8206
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+0 !HISTORY 2017-07-03 [cwdee] Use cylinder primitives with conditional lines
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 1 0 25 -0.25 5 1 0 0 0 1 0 0 0 1 1-4disc.dat
 1 0 -25 -0.25 -5 -1 0 0 0 1 0 0 0 -1 1-4disc.dat
@@ -646,10 +648,10 @@
 4 16 26 0 5 26 0 -5 25 0 -6 25 0 6
 4 16 -25 0 6 -25 0 -6 -26 0 -5 -26 0 5
 
-1 16 25 -0.25 5 1 0 0 0 0.25 0 0 0 1 1-4cyli2.dat
-1 16 25 -0.25 -5 0 0 1 0 0.25 0 -1 0 0 1-4cyli2.dat
-1 16 -25 -0.25 -5 -1 0 0 0 0.25 0 0 0 -1 1-4cyli2.dat
-1 16 -25 -0.25 5 0 0 -1 0 0.25 0 1 0 0 1-4cyli2.dat
+1 16 25 -0.25 5 1 0 0 0 0.25 0 0 0 1 1-4cyli.dat
+1 16 25 -0.25 -5 0 0 1 0 0.25 0 -1 0 0 1-4cyli.dat
+1 16 -25 -0.25 -5 -1 0 0 0 0.25 0 0 0 -1 1-4cyli.dat
+1 16 -25 -0.25 5 0 0 -1 0 0.25 0 1 0 0 1-4cyli.dat
 
 4 16 26 -0.25 5 26 -0.25 -5 26 0 -5 26 0 5
 4 16 -25 -0.25 -6 -25 0 -6 25 0 -6 25 -0.25 -6

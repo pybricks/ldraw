@@ -1,0 +1,23 @@
+LDraw.org Parts Update 2017-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Physical Colour Parts Library
+---------------------------------------------------------------------------
+
+Notes created Sat Dec 30 19:44:22 2017 by the Parts Tracker.
+
+Release statistics:
+   Total files: 1
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   No parts were moved.
+
+Renamed Parts
+   81379.DAT                  _Animal Bird with Parrot Pattern Red
+   changed to    _Animal Bird Parrot with Yellow/Green Wings Pattern Red
+
+Other Fixed Parts
+   No other parts were fixed.

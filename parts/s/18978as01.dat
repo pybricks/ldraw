@@ -1,12 +1,14 @@
-0 ~Wheel Rim 17.6 x 11.2 Front with  5 Spokes - One Spoke
+0 ~Wheel Rim 11 x 18 Front with  5 Spokes - One Spoke
 0 Name: s\18978as01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Subpart UPDATE 2015-02
+0 !LDRAW_ORG Subpart UPDATE 2017-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+0 !HISTORY 2016-07-09 [MagFors] Corrected description
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
 4 16 0 -2.85 0 4.45632 -2.85 -2.50403 5.1359 -2.85 0 4.45632 -2.85 2.50403
 3 16 4.92747 -2.95 -2.76877 5.67891 -3 0 5.1359 -2.85 0
