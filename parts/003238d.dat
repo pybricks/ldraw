@@ -1,15 +1,17 @@
-0 Sticker for Minifig Shield Triangular w/ Yellow Trefoils/Blue
+0 Sticker Minifig Shield Triangular with Yellow Trefoils on Blue
 0 Name: 003238d.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2010-01
+0 !LDRAW_ORG Part UPDATE 2016-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 0 !KEYWORDS Castle, Part 3846, Set 375, Sheet 003238d
 
 0 !HISTORY 2007-11-11 [mikeheide] correct errors
-0 !HISTORY 2998-11-28 [anathema] used new pattern subpart
+0 !HISTORY 2008-11-28 [anathema] used new pattern subpart
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+0 !HISTORY 2016-06-29 [cwdee] Update description
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 3 1 -20 -0.25 14 -20 -0.25 4 -16 -0.25 7.5
 4 1 -16 -0.25 -7.3 -16 -0.25 7.5 -20 -0.25 4 -18.72 -0.25 -6.03

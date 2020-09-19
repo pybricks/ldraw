@@ -1,7 +1,7 @@
-0 Sticker  3.5 x  3.5 with White/Clear Stripes Pattern
+0 Sticker  3.5 x  3.5 with White/Clear Stripes
 0 Name: 821410a.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2011-01
+0 !LDRAW_ORG Part UPDATE 2016-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -9,6 +9,8 @@
 
 0 !HISTORY 2009-06-03 [cwdee] Use box5-12
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+0 !HISTORY 2016-07-01 [cwdee] Updated description
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 1 16 0 -0.25 0 35 0 0 0 0.25 0 0 0 35 box5-12.dat
 4 16 -35 -0.25 -32.45 35 -0.25 -32.45 35 -0.25 -35 -35 -0.25 -35

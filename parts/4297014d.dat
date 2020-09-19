@@ -1,7 +1,7 @@
-0 Sticker Tail with Red "J" on White Right
+0 Sticker Tail Right with Red "J" on White
 0 Name: 4297014d.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2016-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Batman, Joker
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2016-07-01 [cwdee] Updated description
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 4 15 -55 -0.25 38 -42.75 -0.25 26 -14.5 -0.25 26 -21 -0.25 38
 3 4 -42.75 -0.25 26 -25 -0.25 22.5 -14.5 -0.25 26

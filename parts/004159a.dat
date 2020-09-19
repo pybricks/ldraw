@@ -1,13 +1,15 @@
-0 Sticker System with Portugal Flag Pattern
+0 Sticker  2.4 x  3 with Portugal Flag
 0 Name: 004159a.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2016-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2009-06-03 [cwdee] Use box5-12
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2016-07-01 [cwdee] Updated description
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 1 4 -6.5 -0.25 -1.5 -0.6 0 0 0 0.6 0 0 0 -0.6 2-4disc.dat
 1 4 -6.5 -0.25 1.5 -0.6 0 0 0 0.6 0 0 0 -0.6 2-4disc.dat

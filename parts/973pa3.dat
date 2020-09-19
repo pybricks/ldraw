@@ -1,7 +1,7 @@
-0 Minifig Torso with Safari Shirt, Gun & Red Bandana Pattern
+0 Minifig Torso with Safari Shirt, Gun, Red Bandana & Yellow Chest Pattern
 0 Name: 973pa3.dat
 0 Author: George Barnes [glbarnes]
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2016-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -16,6 +16,8 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2014-12-28 [Philo] BFCed
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2016-01-06 [cwdee] Update description
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10

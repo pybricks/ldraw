@@ -1,16 +1,16 @@
-0 Sticker  1 x  4 with Yellow/Black Chevrons Pattern
+0 Sticker  1.2 x  4 with Yellow/Black Chevrons
 0 Name: s7.dat
 0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LDRAW_ORG Part UPDATE 2016-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS set 7760
+
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
-0 // from set 7760
-
-
+0 !HISTORY 2016-07-01 [cwdee] Updated description
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 3 0 40 -0.25 12 36 -0.25 12 40 -0.25 8
 4 0 40 -0.25 2 30 -0.25 12 24 -0.25 12 40 -0.25 -4

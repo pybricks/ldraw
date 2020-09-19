@@ -1,7 +1,7 @@
-0 Sticker  0.8 x  0.8 Round with Black and White Eye Pattern
+0 Sticker  0.8 x  0.8 Round with Black and White Eye
 0 Name: 4586822a.dat
 0 Author: Max Martin Richter [MMR1988]
-0 !LDRAW_ORG Part UPDATE 2012-02
+0 !LDRAW_ORG Part UPDATE 2016-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Easter, Bunny, Set 40005
 
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+0 !HISTORY 2016-07-02 [cwdee] Updated description
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 1 16 0 0 0 8.25 0 0 0 -0.25 0 0 0 -8.25 4-4cylc2.dat
 1 15 0 -0.25 0.5 1.25 0 0 0 1 0 0 0 1.25 4-4disc.dat

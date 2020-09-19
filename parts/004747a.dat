@@ -1,12 +1,15 @@
-0 Sticker Train 183
+0 Sticker  1.9 x  3 with White "183" on Red
 0 Name: 004747a.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2009-01
+0 !LDRAW_ORG Part UPDATE 2016-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+0 !KEYWORDS Train
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2016-07-01 [cwdee] Updated description
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 4 15 -14.09 -0.25 -7.7 -6.83 -0.25 -7.7 -6.83 -0.25 -5.28 -14.09 -0.25 -5.28
 4 15 -9.25 -0.25 -5.28 -9.25 -0.25 7.7 -11.67 -0.25 7.7 -11.67 -0.25 -5.28

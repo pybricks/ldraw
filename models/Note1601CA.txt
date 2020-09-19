@@ -1,0 +1,460 @@
+LDraw.org Parts Update 2016-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Sat Dec 31 19:55:30 2016 by the Parts Tracker.
+
+Release statistics:
+   Total files: 780
+   New files: 572
+   New parts: 475
+   New subparts: 54
+   New primitives: 11
+   New lo-res primitives: 15
+   New hi-res primitives: 17
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   2837.DAT                   ~Moved to 2839a
+   3068BP14.DAT               ~Moved to 3068bp31
+   3183.DAT                   ~Moved to 3183a
+   3684.DAT                   ~Moved to 3684a
+   3684P22.DAT                ~Moved to 3684ap22
+   37.DAT                     ~Moved to 44658
+   3855.DAT                   ~Moved to 3855b
+   48729.DAT                  ~Moved to 48729a
+   6159.DAT                   ~Moved to 6159c01
+   69.DAT                     ~Moved to 3496
+   69C01.DAT                  ~Moved to 3496c01
+   70.DAT                     ~Moved to 3278
+   89A.DAT                    ~Moved to 3712
+   89B.DAT                    ~Moved to 3326a
+   90462S01.DAT               ~Moved to s\90462as01
+
+Renamed Parts
+   2-4STUD4.DAT               Stud Tube Open Half
+   changed to    Stud Tube Open 0.5
+
+   003238B.DAT                Sticker for Minifig Shield Triangular w/ Green Chevrons/DkGray
+   changed to    Sticker Minifig Shield Triangular with Green Chevrons on DkGray
+
+   003238D.DAT                Sticker for Minifig Shield Triangular w/ Yellow Trefoils/Blue
+   changed to    Sticker Minifig Shield Triangular with Yellow Trefoils on Blue
+
+   003238L.DAT                Sticker for Minifig Shield Triangular w/ Green Chevrons LtGray
+   changed to    Sticker Minifig Shield Triangular with Green Chevrons on LtGray
+
+   003238M.DAT                Sticker for Minifig Shield Triangular w/ Yellow Trefoils/DkBlue
+   changed to    Sticker Minifig Shield Triangular with Yellow Trefoils on DkBlue
+
+   003432A.DAT                Sticker System with Norway Flag Pattern
+   changed to    Sticker  2.4 x  3 with Norway Flag
+
+   003432B.DAT                Sticker System with Finland Flag Pattern
+   changed to    Sticker  2.4 x  3 with Finland Flag
+
+   003432C.DAT                Sticker System with Denmark Flag Pattern
+   changed to    Sticker  2.4 x  3 with Denmark Flag
+
+   003432D.DAT                Sticker System with Sweden Flag Pattern
+   changed to    Sticker  2.4 x  3 with Sweden Flag
+
+   003432E.DAT                Sticker System with Iceland Flag Pattern
+   changed to    Sticker  2.4 x  3 with Iceland Flag
+
+   003437A.DAT                Sticker Train "181"
+   changed to    Sticker  2.3 x  2.4 with White "181" and Winged Wheel Logo on Black
+
+   003439A.DAT                Sticker Train "171"
+   changed to    Sticker  1.6 x  2.7 with White "171" on Black
+
+   004158A.DAT                Sticker System with Germany Flag Pattern
+   changed to    Sticker  2.4 x  3 with Germany Flag
+
+   004158B.DAT                Sticker System with The Netherlands Flag Pattern
+   changed to    Sticker  2.4 x  3 with The Netherlands Flag
+
+   004158C.DAT                Sticker System with United Kingdom Flag Pattern
+   changed to    Sticker  2.4 x  3 with United Kingdom Flag
+
+   004158D.DAT                Sticker System with Austria Flag Pattern
+   changed to    Sticker  2.4 x  3 with Austria Flag
+
+   004158E.DAT                Sticker System with Switzerland Flag Pattern
+   changed to    Sticker  2.4 x  3 with Switzerland Flag
+
+   004158F.DAT                Sticker System with Italy Flag Pattern
+   changed to    Sticker  2.4 x  3 with Italy Flag
+
+   004159A.DAT                Sticker System with Portugal Flag Pattern
+   changed to    Sticker  2.4 x  3 with Portugal Flag
+
+   004159B.DAT                Sticker System with Belgium Flag Pattern
+   changed to    Sticker  2.4 x  3 with Belgium Flag
+
+   004159C.DAT                Sticker System with France Flag Pattern
+   changed to    Sticker  2.4 x  3 with France Flag
+
+   004159D.DAT                Sticker System with Japan Flag Pattern
+   changed to    Sticker  2.4 x  3 with Japan Flag
+
+   004159E.DAT                Sticker System with United States Flag Pattern
+   changed to    Sticker  2.4 x  3 with United States Flag
+
+   004159H.DAT                Sticker System with United States Flag Pattern (Mirrored)
+   changed to    Sticker  2.4 x  3 with United States Flag (Mirrored)
+
+   004219A.DAT                Sticker System with Ireland Flag Pattern
+   changed to    Sticker  2.4 x  3 with Ireland Flag
+
+   004219B.DAT                Sticker System with Australia Flag Pattern
+   changed to    Sticker  2.4 x  3 with Australia Flag
+
+   004219C.DAT                Sticker System with Canada Flag Pattern
+   changed to    Sticker  2.4 x  3 with Canada Flag
+
+   004587A.DAT                Sticker Train "133"
+   changed to    Sticker  1.2 x  2.6 with White "133" on Black
+
+   004747A.DAT                Sticker Train 183
+   changed to    Sticker  1.9 x  3 with White "183" on Red
+
+   170872A.DAT                Sticker with White "POLICE" and Red Line on Black Ground
+   changed to    Sticker  1.0 x  3.8 with White "POLICE" and Red Line on Black
+
+   194325B.DAT                Sticker  2 x  2 with 3 Black Circles Pattern
+   changed to    Sticker  2.0 x  2.0 with 3 Black Discs
+
+   195515A.DAT                Sticker  2.4 x  2.4 with Mail Pattern
+   changed to    Sticker  2.4 x  2.4 with Posthorn and Envelope
+
+   199025A.DAT                Sticker Minifig Vest Danger Pattern
+   changed to    Sticker Minifig Vest with Yellow/Black Chevrons
+
+   2341.DAT                   Slope Brick 45  3 x  1 Inverted Double
+   changed to    Slope Brick 45  3 x  1 Inverted Double without Inner Stopper Rings
+
+   2558.DAT                   ~Boat Stern 16 x 14 x  5 & 1/3 Hull Outside
+   changed to    ~Boat Stern 16 x 14 x  5.333 Hull Outside
+
+   2559C01.DAT                Boat Stern 16 x 14 x  5 & 1/3 (Complete)
+   changed to    Boat Stern 16 x 14 x  5.333 with Brown Bottom (Complete)
+
+   2900.DAT                   Technic Flex-System Pin Hole Connector
+   changed to    Technic Flex System Pin Hole Connector
+
+   3008P05.DAT                Brick  1 x  8 with Gold "723" Pattern
+   changed to    Brick  1 x  8 with Chrome Gold "723" Pattern
+
+   30151.DAT                  Cylinder  2 x  2 x  1 & 2/3 with Dome Top
+   changed to    Cylinder  2 x  2 x  1.667 with Dome Top
+
+   30187C01.DAT               Bike  3 Wheel Motorcycle (Shortcut)
+   changed to    Bike  3 Wheel Motorcycle with Light_Grey Motor and White Wheels
+
+   30189.DAT                  ~Bike 3 Wheel Motorcycle Forks 
+   changed to    Bike 3 Wheel Motorcycle Forks 
+
+   30189C01.DAT               ~Bike  3 Wheel Motorcycle Forks (Shortcut)
+   changed to    ~Bike  3 Wheel Motorcycle Forks with White Wheel (Complete)
+
+   30190.DAT                  Wheel Centre Wide with Stub Axles
+   changed to    Wheel Rim 11.2 x 10.4 with Stub Axles
+
+   30264.DAT                  Glass for Window  4 x 10 x  2 Slope Double
+   changed to    ~Glass for Window  4 x 10 x  2 Slope Double
+
+   30343.DAT                  Window  4 x 10 x  2 Slope Double
+   changed to    ~Window  4 x 10 x  2 Slope Double
+
+   30343C01.DAT               Window  4 x 10 x  2 Slope Double (Complete)
+   changed to    Window  4 x 10 x  2 Slope Double with Trans Dark Blue Glass
+
+   3433.DAT                   Tractor Chassis Excavator Bucket, Large
+   changed to    Excavator Bucket  5 x  3 with Hinge
+
+   3491.DAT                   Plate  2 x  5 with Towball Socket (needs work)
+   changed to    Plate  2 x  5 with Towball Socket
+
+   3613.DAT                   Arm Piece with Towball Socket 
+   changed to    Arm Piece with Towball Socket
+
+   3626BP30.DAT               Minifig Head with Messy Hair and Moustache Pattern
+   changed to    ~Minifig Head with Messy Hair and Moustache Pattern (Obsolete)
+
+   3626BP31.DAT               Minifig Head with Messy Hair and Eye Patch Pattern
+   changed to    ~Minifig Head with Messy Hair and Eye Patch Pattern (Obsolete)
+
+   3626BP32.DAT               Minifig Head with Messy Hair, Moustache, and Eye Patch Pattern
+   changed to    ~Minifig Head with Messy Hair, Moustache, and Eye Patch Pattern (Obsolete)
+
+   3626BP33.DAT               Minifig Head with Messy Hair, Moustache, and Beard Pattern
+   changed to    ~Minifig Head with Messy Hair, Moustache, and Beard Pattern (Obsolete)
+
+   3626BP34.DAT               Minifig Head with Messy Hair, Beard and Eye Patch Pattern
+   changed to    ~Minifig Head with Messy Hair, Beard and Eye Patch Pattern (Obsolete)
+
+   4216816A.DAT               Sticker  1.6 x  1.8 with US Flag Pattern
+   changed to    Sticker  1.6 x  1.8 with US Flag
+
+   4216816B.DAT               Sticker  1.6 x  1.8 with US Flag Pattern (Mirrored)
+   changed to    Sticker  1.6 x  1.8 with US Flag (Mirrored)
+
+   4270894A.DAT               Sticker  1.8 x  1.8 Round with Brown, Yellow, Red Rings Pattern
+   changed to    Sticker  1.8 x  1.8 Round with Brown, Yellow, Red Rings
+
+   4297014C.DAT               Sticker Tail with Red "J" on White Left
+   changed to    Sticker Tail Left with Red "J" on White
+
+   4297014D.DAT               Sticker Tail with Red "J" on White Right
+   changed to    Sticker Tail Right with Red "J" on White
+
+   4479.DAT                   Minifig Metal Detector
+   changed to    ~Minifig Metal Detector (Obsolete)
+
+   4542422B.DAT               Sticker Roadsign Triangle with Traffic Light Pattern
+   changed to    Sticker Roadsign Triangle with Traffic Light
+
+   4544045F.DAT               Sticker  1.7 x  1.7 Round with Motor Pattern
+   changed to    Sticker  1.7 x  1.7 Round with Motor
+
+   4586822A.DAT               Sticker  0.8 x  0.8 Round with Black and White Eye Pattern
+   changed to    Sticker  0.8 x  0.8 Round with Black and White Eye
+
+   4613857F.DAT               Sticker  4.8 x  1.8 with Hieroglyphs and Horus Head on Tan Background
+   changed to    Sticker  5.8 x  1.8 with Hieroglyphs and Horus Head on Tan Background
+
+   4613857G.DAT               Sticker  4.8 x  1.8 with Hieroglyphs on Tan Background
+   changed to    Sticker  5.8 x  1.8 with Hieroglyphs on Tan Background
+
+   4629677F.DAT               Sticker  1.9 Round with Five-String Banjo
+   changed to    Sticker  1.9 x  1.9 Round with Five-String Banjo
+
+   4719.DAT                   Minifig Bicycle Frame (needs work)
+   changed to    Minifig Bicycle Frame
+
+   4796C01.DAT                Fabuland Car Chassis  8 x  6.5 (Complete)
+   changed to    Vehicle Chassis  8 x  6 with Tow-Hook and Light-Grey Wheels
+
+   4854.DAT                   Slope Brick 45  4 x  4 Double Inverted with Open Center
+   changed to    Slope Brick 45  4 x  4 Double Inverted with Open Centre
+
+   4871.DAT                   Slope Brick 45  4 x  2 Double Inverted with Open Center
+   changed to    Slope Brick 45  4 x  2 Double Inverted with Open Centre
+
+   52501.DAT                  Slope Brick 45  6 x  1 Double Inverted with Open Center
+   changed to    Slope Brick 45  6 x  1 Double Inverted with Open Centre
+
+   54931.DAT                  ~Electric Light Brick  2 x  3 x  1.333 Button with Axle Hole 
+   changed to    Electric Light Brick  2 x  3 x  1.333 Button with Axle Hole
+
+   60219.DAT                  Slope Brick 45  6 x  4 Double Inverted with Center Holes
+   changed to    Slope Brick 45  6 x  4 Double Inverted with Centre Holes
+
+   6037.DAT                   Brick  2 x  2 x  3 & 1/3 Octagonal
+   changed to    Brick  2 x  2 x  3.333 Octagonal
+
+   6043.DAT                   Brick  2 x  2 x  3 & 1/3 Octagonal Corner
+   changed to    Brick  2 x  2 x  3.333 Octagonal Corner
+
+   6252.DAT                   Belville Parasol
+   changed to    Umbrella  8 x  8 with Curved Tabs
+
+   6594.DAT                   Tyre 49.6 x 28 VR
+   changed to    Tyre 28/ 38 x 28 VR
+
+   7049A.DAT                  Brick  2 x  4 with Wheels Holder (Red Bottom)
+   changed to    Brick  2 x  4 with Wheels Holders and Red Underside
+
+   7049B.DAT                  Brick  2 x  4 with Wheels Holder (Trans-Clear Bottom)
+   changed to    Brick  2 x  4 with Red Wheels Holders and Trans-Clear Underside
+
+   72454.DAT                  Slope Brick 45  4 x  4 Double Inverted with Center Holes
+   changed to    Slope Brick 45  4 x  4 Double Inverted with Open Centre and 2 Holes
+
+   73590B.DAT                 Hose Flexible  8.5L with Tabs (Complete Assembly Shortcut)
+   changed to    Hose Flexible  8.5L with Tabs
+
+   750.DAT                    Hose Flexible End  1 x  1 x  2/3 with Tabs
+   changed to    Hose Flexible End  1 x  1 x  0.667 with Tabs
+
+   821410A.DAT                Sticker  3.5 x  3.5 with White/Clear Stripes Pattern
+   changed to    Sticker  3.5 x  3.5 with White/Clear Stripes
+
+   821410D.DAT                Sticker with Black "POLICE" and Red Line Large
+   changed to    Sticker  1.0 x  3.8 with Black "POLICE" and Red Line
+
+   827.DAT                    Tractor Chassis (Complete Assembly Shortcut)
+   changed to    Tractor Chassis with Steering Wheel and Steering Linkage
+
+   843.DAT                    Homemaker Stove Door
+   changed to    Homemaker Stove Door with Glass (Complete)
+
+   870.DAT                    Tractor Chassis Base  2 x  11 x  3 
+   changed to    Tractor Chassis Base  2 x 11 x  3
+
+   871.DAT                    Tractor Chassis Steering Arm 
+   changed to    Tractor Chassis Steering Arm
+
+   872.DAT                    Tractor Chassis Center Steering Link 
+   changed to    Tractor Chassis Centre Steering Link
+
+   92241P01.DAT               Figure Friends Girl Torso, White Halter Top, Pink Stars Pattern
+   changed to    Figure Friends Girl Torso with White Halter Top, Pink Stars Pattern
+
+   92241P01C01.DAT            Figure Friends Girl Torso with Arms, White Halter Top, Pink Stars Pattern
+   changed to    Figure Friends Girl Torso with Arms with White Halter Top, Pink Stars Pattern
+
+   92241P04C01.DAT            Figure Friends Girl Torso with Arms, Medium Violet Vest Top with Flower Pattern
+   changed to    Figure Friends Girl Torso with Arms with Medium Violet Vest Top with Flower Pattern
+
+   92241P06.DAT               Figure Friends Girl Torso White Vest Top with Squares Pattern
+   changed to    Figure Friends Girl Torso with White Vest Top with Squares Pattern
+
+   92241P07C01.DAT            Figure Friends Girl Torso with Arms, Black Jacket Formal with Bow Tie and Cummerband Pattern
+   changed to    Figure Friends Girl Torso with Arms with Black Jacket Formal with Bow Tie and Cummerband Pattern
+
+   973PA3.DAT                 Minifig Torso with Safari Shirt, Gun & Red Bandana Pattern
+   changed to    Minifig Torso with Safari Shirt, Gun, Red Bandana & Yellow Chest Pattern
+
+   2586P4GB.DAT               ~Minifig Shield Ovoid with Bull Head - Tan Detail
+   changed to    ~Obsolete file
+
+   3039A101.DAT               ~Brick 45  2 x  2 with SW Trench Computer Pattern
+   changed to    ~Obsolete file
+
+   3684S01.DAT                ~Slope Brick 75  2 x  2 x  3 without Front and Back Surfaces
+   changed to    ~Slope Brick 75  2 x  2 x  3 without Front and Back Surfaces and Studs
+
+   3846P4TA.DAT               ~Minifig Shield Triangular Quartered - Opposing Quarters
+   changed to    ~Obsolete file
+
+   6177PS1B.DAT               ~Tile  8 x  8 Round with  2 x  2 Studs Grille Pattern Detail
+   changed to    ~Obsolete file
+
+   6594A.DAT                  ~6594 Tyre 11-Sections
+   changed to    ~Tyre 28/ 38 x 28 VR Tread Motif
+
+   6594B.DAT                  ~6594 Tyre 12-Sections
+   changed to    ~Tyre 28/ 38 x 28 VR Tread Quarter
+
+   958S01.DAT                 ~Umbrella  8 x  8 - 1/8
+   changed to    ~Umbrella  8 x  8 -  1/8
+
+   973P30A.DAT                ~Minifig Torso with Purple Vest and Tattoo - Gold
+   changed to    ~Obsolete file
+
+   973P30B.DAT                ~Minifig Torso with Purple Vest and Tattoo - Purple
+   changed to    ~Obsolete file
+
+   973P3BA.DAT                ~Minifig Torso with Brown Vest/Ascot/Belt - Gold
+   changed to    ~Obsolete file
+
+   973P3BB.DAT                ~Minifig Torso with Brown Vest/Ascot/Belt - Brown
+   changed to    ~Obsolete file
+
+   S10.DAT                    Sticker  2 x  2 Round with Lifepreserver Pattern
+   changed to    Sticker  1.9 x  1.9 Round with Lifepreserver
+
+   S11.DAT                    Sticker  1 x  6 with Thin Black "POLICE" Pattern
+   changed to    Sticker  1.2 x  6 with Thin Black "POLICE"
+
+   S7.DAT                     Sticker  1 x  4 with Yellow/Black Chevrons Pattern
+   changed to    Sticker  1.2 x  4 with Yellow/Black Chevrons
+
+   S8.DAT                     Sticker  0.8 x  1 with Yellow/Black Stripes Pattern
+   changed to    Sticker  1.2 x  0.8 with Yellow/Black Diagonal Stripes
+
+   S9.DAT                     Sticker Technic Blue Snowflake
+   changed to    Sticker 12.8 x 12.8 with Technic Blue Snowflake Logo
+
+   U9156C01.DAT               Electric Sound Brick  2 x  4 x  2 with Grey Button (Needs Work)
+   changed to    Electric Sound Brick  2 x  4 x  2 with Grey Button
+
+   U9156C02.DAT               Electric Sound Brick  2 x  4 x  2 w/ Orange Button (Needs Work)
+   changed to    Electric Sound Brick  2 x  4 x  2 with Orange Button
+
+Other Fixed Parts
+   STUD.DAT                   Stud (Fast-Draw)
+   STUD16.DAT                 Stud Tube Open Split (Fast-Draw)
+   STUD2.DAT                  Stud Open (Fast-Draw)
+   STUD2A.DAT                 Stud Open without Base Edges (Fast-Draw)
+   STUD3.DAT                  Stud Tube Solid (Fast-Draw)
+   STUD3A.DAT                 Stud Tube Solid without Base Edges (Fast-Draw)
+   STUD4.DAT                  Stud Tube Open (Fast-Draw)
+   STUD4A.DAT                 Stud Tube Open without Base Edges (Fast-Draw)
+   STUD4H.DAT                 Stud Tube Open with Extended Hole (Fast-Draw)
+   STUD4S.DAT                 Stud Tube Open Sloped (Fast-Draw)
+   STUD4S2.DAT                Stud Tube Open 0.500 Sloped (Fast-Draw)
+   STUD7.DAT                  Stud Duplo Open (Fast-Draw)
+   STUD8.DAT                  Stud Duplo Tube (Fast-Draw)
+   STUD8A.DAT                 Stud Duplo Tube without Base Edge (Fast-Draw)
+   STUDA.DAT                  Stud without Base Edges (Fast-Draw)
+   ARM1.DAT                   Hinge Arm 2 Finger
+   10247.DAT                  Plate  2 x  2 with Hole and Complete Underside Rib
+   2444.DAT                   Plate  2 x  2 with Hole and Split Underside Ribs
+   2599C01.DAT                Minifig Flippers on Sprue
+   2623.DAT                   Boat Top  8 x 10
+   2636.DAT                   Crane Harbour Derrick 16
+   2817.DAT                   Plate  2 x  2 with Holes
+   30076.DAT                  Brick  4 x 10 with Wheel Holders
+   3010PT6.DAT                Brick  1 x  4 with White "TRANSPORT" Stencil Pattern
+   30159.DAT                  Magnet Holder Plate  2 x  2 Bottom
+   30170.DAT                  Minifig Cap Aviator Goggles
+   30187C03.DAT               Bike  3 Wheel Motorcycle with Rider (Complete)
+   30195.DAT                  Plate  2 x  6 with Half Saucer
+   30375PS1.DAT               Minifig Mechanical Torso with Orange Insignia Pattern
+   30382.DAT                  Wedge  2 x 12 Triple
+   3068BP31.DAT               Tile  2 x  2 with Map, Handwriting, River, and Red X Pattern
+   3218.DAT                   Train Direction Switch - 4.5 Volt
+   3474.DAT                   Wing  4 x  8 Tail
+   3815C01.DAT                Minifig Hips and Legs
+   3844.DAT                   Minifig Castle Helmet with Neck Protector
+   3896.DAT                   Minifig Castle Helmet with Chin-Guard
+   41883.DAT                  Windscreen  6 x  4 x  2 Canopy Curved
+   41894.DAT                  Technic Steering Arm Large with Four Holes
+   44775.DAT                  Technic Track System Gate 11 x  2 with Three Holes and Paddle
+   4515P03.DAT                Slope Brick 10  6 x  8 with Slate Roof Pattern
+   4613905D.DAT               Sticker  5.8 x  1.8 Tan with Hieroglyphs, Scarab/Eye on Top
+   4741.DAT                   Window  4 x  4 x  6 Outward Sloping
+   4745.DAT                   Propellor  2 Blade  5.5 Diameter
+   4857.DAT                   Slope Brick 45  4 x  4 Double with Hinge
+   4865B.DAT                  Panel  1 x  2 x  1 with Rounded Corners
+   4867.DAT                   Tail Plane
+   50859AC01.DAT              Bike  2 Wheel Motorcycle Frame (Short Pins) with Light Bluish Grey Wheels
+   50859BC01.DAT              Bike  2 Wheel Motorcycle Frame (Long Pins) with Light Bluish Grey Wheels
+   50860C01.DAT               Bike  2 Wheel Motorcycle with Dirt Bike Fairing (Complete)
+   51542.DAT                  Baseplate 32 x 48 Raised with Level Front
+   52035C01.DAT               Bike  2 Wheel Motorcycle with Touring Bike Fairing (Complete)
+   58134.DAT                  ~Electric Power Functions IR Remote Control Bottom (Needs Work)
+   6048.DAT                   Arm Piece with Pin and 2 Fingers
+   6200.DAT                   Belville Swing Stand
+   6214.DAT                   Brick  2 x  8 x  4 with Curved Ends
+   6215.DAT                   Brick  2 x  3 with Curved Top
+   6217.DAT                   Arm Piece with Pin and 3 Fingers
+   64051.DAT                  ~Electric Power Functions Tilt Sensor Bottom
+   64053.DAT                  ~Electric Power Functions Tilt Sensor Top
+   64059.DAT                  ~Electric Power Functions IR Distance Sensor Bottom
+   64060.DAT                  ~Electric Power Functions IR Distance Sensor Top
+   71951.DAT                  Technic Ribbed Hose  8L
+   71986.DAT                  Technic Ribbed Hose 11L
+   721.DAT                    Garage  4 x  8 x  3
+   722.DAT                    Garage  4 x  8 x  3 Door
+   737.DAT                    Plate  2 x  4 with Coupling, Female
+   828.DAT                    Tractor Chassis Excavator Arm, Large
+   837.DAT                    Homemaker Cupboard  4 x  4 x  4
+   840.DAT                    Homemaker Washbasin Sink
+   85984.DAT                  Slope Brick 31  1 x  2 x  0.667
+   873.DAT                    Tractor Chassis End Steering Link
+   874.DAT                    Tractor Chassis Steering Wheel
+   87620.DAT                  Brick  2 x  2 Facet
+   973P8I.DAT                 Minifig Torso with Construction Safety Vest with Reflective Stripes Pattern
+   976.DAT                    ~Minifig Arm Left (Obsolete)
+   60219S01.DAT               ~Slope Brick 45  6 x  4 Double Inverted with Centre Holes
+   98138S01.DAT               ~Tile  1 x  1 Round with Groove without Top Face
+   U9131.DAT                  Tyre  7.2/ 45 x 8.8
+   U9158.DAT                  Electric Light Brick  2 x  3 x  1.333

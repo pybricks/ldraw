@@ -1,0 +1,19 @@
+0 Tile  1 x  1 with Top White Square Pattern
+0 Name: 3070bp00.dat
+0 Author: Heiko Jelnikar [KlotzKiste]
+0 !LDRAW_ORG Part UPDATE 2016-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Speed Champions, Set 75873
+
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
+
+4 16 -9.7 0 -9.7 -10 0 -10 10 0 -10 9.7 0 -9.7
+4 16 10 0 10 -10 0 10 -9.7 0 9.7 9.7 0 9.7
+4 16 10 0 -10 10 0 10 9.7 0 9.7 9.7 0 -9.7
+4 16 -9.7 0 9.7 -10 0 10 -10 0 -10 -9.7 0 -9.7
+4 15 9.7 0 9.7 -9.7 0 9.7 -9.7 0 -9.7 9.7 0 -9.7

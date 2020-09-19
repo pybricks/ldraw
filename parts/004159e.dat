@@ -1,7 +1,7 @@
-0 Sticker System with United States Flag Pattern
+0 Sticker  2.4 x  3 with United States Flag
 0 Name: 004159e.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LDRAW_ORG Part UPDATE 2016-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -9,9 +9,10 @@
 0 !KEYWORDS Star-Spangled Banner, Stars and Stripes, Old Glory
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2016-07-01 [cwdee] Updated description
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 0 // Red
-
 4 4 30 -0.25 24 30 -0.25 20.292 2 -0.25 20.292 2 -0.25 24
 4 4 30 -0.25 12.917 2 -0.25 12.917 2 -0.25 16.608 30 -0.25 16.608
 4 4 2 -0.25 5.537 2 -0.25 9.229 30 -0.25 9.229 30 -0.25 5.537

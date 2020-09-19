@@ -1,7 +1,7 @@
-0 Slope Brick 45  3 x  1 Inverted Double
+0 Slope Brick 45  3 x  1 Inverted Double without Inner Stopper Rings
 0 Name: 2341.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LDRAW_ORG Part UPDATE 2016-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -13,6 +13,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-10-11 [mkennedy] Made use of stud2s and more box and rect primitives
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2016-01-15 [cwdee] Qualify description
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 0 BFC INVERTNEXT
 1 16 0 24 0 6 0 0 0 -20 0 0 0 6 box5.dat

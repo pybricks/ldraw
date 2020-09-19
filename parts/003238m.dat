@@ -1,12 +1,14 @@
-0 Sticker for Minifig Shield Triangular w/ Yellow Trefoils/DkBlue
+0 Sticker Minifig Shield Triangular with Yellow Trefoils on DkBlue
 0 Name: 003238m.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2010-01
+0 !LDRAW_ORG Part UPDATE 2016-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+0 !HISTORY 2016-06-29 [cwdee] Update description
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
 3 272 -20 -0.25 14 -20 -0.25 4 -16 -0.25 7.5
 4 272 -16 -0.25 -7.3 -16 -0.25 7.5 -20 -0.25 4 -18.72 -0.25 -6.03
