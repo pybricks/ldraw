@@ -1,32 +1,12 @@
-0 Electric Light & Sound Colored Globe
+0 ~Moved to 4770
 0 Name: 4773.dat
-0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Part UPDATE 2001-02
+0 Author: [PTadmin]
+0 !LDRAW_ORG Part UPDATE 2010-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
-0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 2000-09-18 [unknown] Removed two cylinders and elongated and repositioned two others to fix two gaps and get rid of redundant polygons. 
-0 !HISTORY 2000-09-18 [unknown] Also replace 16 quads which formed a ring with 4 1/4 rings.
-0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
-0 !HISTORY 2007-10-26 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 BFC CERTIFY CCW
 
- 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
- 1 16 0 0 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
-0 Travis Cobbs replaced the original 16 quads which formed
-0 a ring with the following line. Note that it is doubled in
-0 size to final radii of 6-8.
- 1 16 0 0 0 2 0 0 0 1 0 0 0 2 ring3.dat
-0 The following two lines were adjusted by Travis Cobbs to
-0 the correct positions and lengths.
- 1 16 0 -8 0 6 0 0 0 8 0 0 0 6 4-4cyli.dat
- 1 16 0 -9.5 0 8 0 0 0 9.5 0 0 0 8 4-4cyli.dat
-0 The following two lines were commented out by
-0 Travis Cobbs, since they are unnecessary after the
-0 adjustments above.
-0 1 16 0 -8 0 6 0 0 0 4 0 0 0 6 4-4cyli.dat
-0 1 16 0 -9.4 0 8 0 0 0 5 0 0 0 8 4-4cyli.dat
- 1 16 0 -8 0 6 0 0 0 -4 0 0 0 6 4-8sphe.dat
- 1 16 0 -9.5 0 8 0 0 0 -4 0 0 0 8 4-8sphe.dat
-0
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4770.dat
+

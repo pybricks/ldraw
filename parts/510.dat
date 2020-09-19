@@ -1,13 +1,16 @@
 0 Trailer Base  4 x 16 x  1
 0 Name: 510.dat
 0 Author: Niels Karsdorp [nielsk]
-0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LDRAW_ORG Part UPDATE 2010-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+0 !CATEGORY Vehicle
 0 !KEYWORDS Lowbed, Lowloader
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2010-11-22 [anathema] Added !CATEGORY
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 0 // Pivot hole
 

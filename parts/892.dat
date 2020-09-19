@@ -1,22 +1,12 @@
-0 Roadsign Clip-on  2.2 x  2 2/3 Triangular
+0 ~Moved to 30259
 0 Name: 892.dat
-0 Author: John Van Zwieten [jvan]
-0 !LDRAW_ORG Part UPDATE 1999-06
+0 Author: [PTadmin]
+0 !LDRAW_ORG Part UPDATE 2010-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
-0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 BFC CERTIFY CCW
 
-0 // Front Face
-1 16 0 -21 -9 -2.121 0 2.121 -2.121 0 -2.121 0 1 0 1-4disc.dat
-1 16 -19 13.102 -9 -0.776 0 -2.898 2.898 0 -0.776 0 1 0 1-4disc.dat
-1 16 19 13.102 -9 0.776 0 2.898 2.898 0 -0.776 0 1 0 1-4disc.dat
-4 16 -21.898 12.326 -9 -2.121 -23.121 -9 0 -21 -9 -19 13.102 -9
-4 16 21.898 12.326 -9 2.121 -23.121 -9 0 -21 -9 19 13.102 -9
-4 16 -19.776 16 -9 19.776 16 -9 19 13.102 -9 -19 13.102 -9
-3 16 19 13.102 -9 -19 13.102 -9 0 -21 -9
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
-0 Rest of Part
- 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s/892s01.dat
-0
+0 // Roadsign Clip-on  2.2 x  2 & 2/3 Triangular
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 30259.dat

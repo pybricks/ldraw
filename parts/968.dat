@@ -1,16 +1,19 @@
 0 Trailer Base  4 x 14 x  1
 0 Name: 968.dat
-0 Author: Lutz Uhlmann
-0 !LDRAW_ORG Part UPDATE 2009-03
+0 Author: Lutz Uhlmann [El-Lutzo]
+0 !LDRAW_ORG Part UPDATE 2010-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+0 !CATEGORY Vehicle
 
 0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
 0 !HISTORY 2007-07-25 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [nielsk] BFC'd, hole fixed (2004-06-15)
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2010-11-22 [anathema] Added !CATEGORY
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 0 12 140 40 0 0 0 0 12 0 -1 0 rect.dat
 
@@ -60,7 +63,7 @@
 2 24 -40 24 40 -40 16 40
 2 24 40 16 40 36 16 40
 2 24 -40 16 40 -36 16 40
- 
+
 4 16 40 24 40 -40 24 40 -40 16 40 40 16 40
 4 16 36 16 40 -36 16 40 -36 4 40 36 4 40
 
@@ -84,7 +87,7 @@
 2 24 -40 16 20 -40 8 20
 2 24 40 8 20 36 8 20
 2 24 -40 8 20 -36 8 20
- 
+
 4 16 40 16 20 -40 16 20 -40 8 20 40 8 20
 4 16 36 8 20 -36 8 20 -36 4 20 36 4 20
 
@@ -231,7 +234,7 @@
 3 16 20 8 -12 20 14 -26 20 8 -26
 3 16 16 8 -48 16 14 -34 16 8 -34
 3 16 20 8 -34 20 14 -34 20 8 -48
- 
+
 1 16 -20 8 -30 0 1 0 0 0 -4 4 0 0 2-4edge.dat
 1 16 -20 8 -30 0 1 0 0 0 -4 4 0 0 2-4ndis.dat
 1 16 -16 8 -30 0 1 0 0 0 -4 4 0 0 2-4edge.dat

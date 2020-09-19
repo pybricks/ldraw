@@ -1,17 +1,20 @@
-0 Figure Fabuland Accessory Sailor's Cap
+0 Fabuland Sailor's Cap
 0 Name: 4791.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2010-02
+0 !LDRAW_ORG Part UPDATE 2010-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 0 !CATEGORY Figure Accessory
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+0 !HISTORY 2010-12-20 [cwdee] Description change
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 0 // Base and bobble built geometrically with MLCad
 0 // Top dome created with Sculptris
 0 // Ribbon scanned with David 3D laser scan, enhanced with Sculptris and resampled with Meshlab
+
 
 1 16 0 -9 0 1 0 0 0 1 0 0 0 1 s\4791s01.dat
 1 16 0 -9 0 1 0 0 0 1 0 0 0 -1 s\4791s01.dat

@@ -1,0 +1,258 @@
+LDraw.org Parts Update 2010-03
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Fri Dec 31 12:44:46 2010 by the Parts Tracker.
+
+Release statistics:
+   Total files: 794
+   New files: 631
+   New parts: 456
+   New subparts: 113
+   New primitives: 46
+   New hi-res primitives: 16
+
+New 3-digit part numbers assigned:
+   245.dat ~Train Wheel with 4 Studs and Beveled Hub without Axle
+   269.dat ~Wheel Axle Metal with Notched End
+   451.dat Tyre  3/100 x  8 Double Smooth
+   458.dat Tyre for Train Wheel for Electric Train Motor 12V
+   699.dat Train Battery Box Car Roof  6 x 14
+
+Moved Parts
+   RING10.DAT    ~Moved to 4-4rin10
+   2473.DAT      ~Moved to 2498
+   2474.DAT      ~Moved to 2497
+   2986.DAT      ~Moved to 2986c01
+   30225.DAT     ~Moved to 51595
+   30225P01.DAT  ~Moved to 51595p01
+   30225P02.DAT  ~Moved to 51595p02
+   3062-OLD.DAT  ~Moved to u9026
+   3127.DAT      ~Moved to 3127a
+   3324.DAT      ~Moved to 3324d
+   3678P01.DAT   ~Moved to 3678ap01
+   3747.DAT      ~Moved to 3747a
+   4032.DAT      ~Moved to 4032a
+   4180C.DAT     ~Moved to 2344
+   4773.DAT      ~Moved to 4770
+   503.DAT       ~Moved to 4003
+   503C01.DAT    ~Moved to 4003c01
+   524.DAT       ~Moved to 30368
+   526.DAT       ~Moved to 30175
+   526C01.DAT    ~Moved to 30175c01
+   527.DAT       ~Moved to 30273
+   553.DAT       ~Moved to 30367
+   71076.DAT     ~Moved to 71075a
+   773.DAT       ~Moved to 2532
+   892.DAT       ~Moved to 30259
+   892P01.DAT    ~Moved to 30259p01
+   970.DAT       ~Moved to 3815
+   970C3J.DAT    ~Moved to 3815c3j
+   970C4F.DAT    ~Moved to 3815c4f
+   970CA2.DAT    ~Moved to 3815ca2
+   970P4F.DAT    ~Moved to 3815p4f
+   971P3J.DAT    ~Moved to 3816p3j
+   971P4F.DAT    ~Moved to 3816p4f
+   971PA2.DAT    ~Moved to 3816pa2
+   972P3J.DAT    ~Moved to 3817p3j
+   972P4F.DAT    ~Moved to 3817p4f
+   972PA2.DAT    ~Moved to 3817pa2
+   553S01.DAT    ~Moved to s\30367s01
+
+Renamed Parts
+   T04O3333.DAT  Torus Outside 1 x 0.3333 x 0.25
+   changed to    Torus Outside  1 x 0.3333 x 0.25
+
+   2046.DAT      Staircase  6 x  6 x  7 & 1/3 Enclosed Curved
+   changed to    Staircase  6 x  6 x  7.333 Enclosed Curved
+
+   2441.DAT      Car Base  7 x  4 x  2/3
+   changed to    Car Base  7 x  4 x  0.667
+
+   2489.DAT      Barrel  2 x  2 x  2
+   changed to    Barrel  2 x  2 x  1.667
+
+   2539.DAT      Boat Mast Platform
+   changed to    Plate  6 x  6 Open Center without 4 Corners with 4 Clips
+
+   263.DAT       Train Steam Cylinder  2 x  2 x  1 & 2/3 Sloped
+   changed to    Train Steam Cylinder  2 x  2 x  1.667 Sloped
+
+   2874.DAT      Train Door Sliding Type 2
+   changed to    Door Sliding Type 2
+
+   30022.DAT     Tipper End New
+   changed to    Tipper End Type 2
+
+   30079.DAT     Panel  3 x  3 x  3 (Divers)
+   changed to    Panel  3 x  3 x  3
+
+   30165.DAT     Brick  2 x  2 with Curved Top and 2 Studs on Top
+   changed to    Brick  2 x  2 with Curved Top and  2 Studs on Top
+
+   30201.DAT     Panel 10 x 10 x  2 & 1/3 Corner Base
+   changed to    Panel 10 x 10 x  2.333 Corner Base
+
+   3144.DAT      Antenna with Side Spokes
+   changed to    Antenna  5H with Side Spokes
+
+   3633.DAT      Fence  1 x  4 x  1
+   changed to    Fence Lattice  1 x  4 x  1
+
+   3736.DAT      Technic Pulley Large
+   changed to    Technic Pulley Wheel 5D
+
+   4170.DAT      Electric Train Light Prism  1 x  6 Holder
+   changed to    ~Electric Light Prism  1 x  6 Holder
+
+   4323.DAT      Fabuland Roof Slope without Chimney Hole
+   changed to    Fabuland Roof Slope without Top Hole
+
+   4478.DAT      Baseplate 32 x 32 with Driveway
+   changed to    Baseplate 32 x 32 Road 9-Stud Driveway
+
+   4478P01.DAT   Baseplate 32 x 32 With Driveway and Grey Pattern
+   changed to    Baseplate 32 x 32 Road 9-Stud Driveway with Grey Pattern
+
+   4774.DAT      Electric Light & Sound Brick  2 x  2 x  1 & 1/3 Siren Base
+   changed to    ~Electric Light & Sound Brick  2 x  2 x  1.333 Siren Base
+
+   4791.DAT      Figure Fabuland Accessory Sailor's Cap
+   changed to    Fabuland Sailor's Cap
+
+   606.DAT       Baseplate 32 x 32 Road Straight-9 Studs
+   changed to    Baseplate 32 x 32 Road 9-Stud Straight
+
+   6099P03.DAT   Baseplate 32 x 32 Road 9-Stud Landing Pad with Yellow Circle
+   changed to    Baseplate 32 x 32 Road 9-Stud Landing Pad Type 1 (Yellow)
+
+   609P01.DAT    Baseplate 32 x 32 Road 9-Stud Curve with Pattern
+   changed to    Baseplate 32 x 32 Road 9-Stud Curve with Road Pattern
+
+   610P01.DAT    Baseplate 32 x 32 Road 8-Stud Straight with Pattern
+   changed to    Baseplate 32 x 32 Road 8-Stud Straight with Road Pattern
+
+   6120.DAT      Minifig Ski
+   changed to    Minifig Ski 4L with Hinge
+
+   7067.DAT      _Hinge Plate  2 x  5 with Large Hole (Complete) LtGrey
+   changed to    _Hinge Plate  2 x  5 with Large Hole (Complete) Light_Grey
+
+   789.DAT       Fabuland Roof Slope with Chimney Hole
+   changed to    Fabuland Roof Slope with Top Hole
+
+   792C01.DAT    Arm Holder Brick  2 x  2 without Hole and 1 Arm (Shortcut)
+   changed to    Brick  2 x  2 Arm Holder without Hole and 1 Arm (Complete)
+
+   792C02.DAT    Arm Holder Brick  2 x  2 with Hole and 1 Arm (Shortcut)
+   changed to    Brick  2 x  2 Arm Holder with Hole and 1 Arm (Complete)
+
+   792C03.DAT    Arm Holder Brick  2 x  2 with Hole and 2 Arms (Shortcut)
+   changed to    Brick  2 x  2 Arm Holder with Hole and 2 Arms (Complete)
+
+   821.DAT       Garage Door Frame - Old
+   changed to    Garage Door Frame  1 x  6 x  4
+
+   3736C.DAT     ~Technic Pulley Large Center
+   changed to    ~Technic Pulley Wheel 5D Center
+
+   3736R.DAT     ~Technic Pulley Large Round Segment
+   changed to    ~Technic Pulley Wheel 5D Round Segment
+
+   3736S.DAT     ~Technic Pulley Large Segment 
+   changed to    ~Technic Pulley Wheel 5D Segment 
+
+Other Fixed Parts
+   1-8SPHE.DAT   Sphere 0.125
+   4-4RIN10.DAT  Ring 10 x 1.0
+   BUSHLOCK.DAT  Bush Lock
+   STEEREND.DAT  Steering End
+   2291.DAT      Duplo Brick  2 x 10
+   2300.DAT      Duplo Brick  2 x  6
+   2302.DAT      Duplo Brick  2 x  3 with Curved Top
+   2340P90.DAT   Tail  4 x  1 x  3 with Classic Space Logo Pattern
+   2401.DAT      Plate 10 x 10 without Corner
+   2419.DAT      Plate  3 x  6 without Corners
+   2450.DAT      Plate  3 x  3 without Corner
+   2464.DAT      Brick  3 x  3 x  2 Facet Bottom
+   250.DAT       Duplo Brick  2 x  6 x  2 Double Concave
+   2549.DAT      Rope Bridge (needs work)
+   2626.DAT      Boat Base  6 x  6
+   2704.DAT      Technic Action Figure Leg Lower
+   2709.DAT      Technic Action Figure Leg Upper Right
+   2710.DAT      Technic Action Figure Body Lower
+   2712.DAT      Technic Rotor  3 Blade
+   2713.DAT      Technic Ski
+   2792.DAT      Technic Steering Top
+   2826.DAT      Windscreen  5 x  8 x  3
+   30033.DAT     Plate  2 x  2 with Rod Frame Octagonal
+   30043.DAT     Plate  1 x  4 with Arm
+   30062.DAT     Plate  6 x  6 Octagonal Open Center
+   30099.DAT     Arch  1 x  5 x  4 Inverted
+   3010P04.DAT   Brick  1 x  4 with Black Grille Pattern
+   3011.DAT      Duplo Brick  2 x  4
+   30139.DAT     Barrel  4 x  4 x  3.5
+   30148.DAT     Minifig Camera Movie
+   30188.DAT     ~Bike 3 Wheel Motorcycle Body Lower
+   30377.DAT     Minifig Mechanical Arm
+   3068BP0A.DAT  Tile  2 x  2 with Safari Pattern
+   3069BP03.DAT  Tile  1 x  2 with Dynamite Pattern
+   3069BPA1.DAT  Tile  1 x  2 with "HC514" Pattern
+   3069BPAP.DAT  Tile  1 x  2 with Blue Boxes and Bubbles Pattern
+   31021.DAT     Duplo Fence  1 x  6 x  2
+   31021P01.DAT  Duplo Fence  1 x  6 x  2 with Red Stripes Pattern
+   31110.DAT     Duplo Brick  2 x  2  x 2
+   31111.DAT     Duplo Brick  2 x  4 x  2
+   31111P01.DAT  Duplo Brick  2 x  4 x  2 with Fence Pattern
+   3403.DAT      ~Turntable  4 x  4 Base
+   3436.DAT      Tipper End Sloped
+   3437.DAT      Duplo Brick  2 x  2
+   3437PE1.DAT   Duplo Brick  2 x  2 with Eye Pattern on Two Sides
+   353.DAT       Duplo Baseplate 24 x 24
+   3629.DAT      Minifig Hat Cowboy
+   3649.DAT      Technic Gear 40 Tooth
+   3659.DAT      Arch  1 x  4
+   3818.DAT      Minifig Arm Right
+   3942A.DAT     Cone  2 x  2 x  2 with Solid Stud
+   3956.DAT      Bracket  2 x  2 -  2 x  2
+   4033.DAT      Train Window  1 x  4 x  3
+   4036.DAT      Glass for Train Window  1 x  2 x  3
+   4066A.DAT     Duplo Brick  1 x  2 x  2 Type 1
+   4066B.DAT     Duplo Brick  1 x  2 x  2 Type 2
+   4066BP01.DAT  Duplo Brick  1 x  2 x  2 with Stop Sign Pattern
+   4183.DAT      Glass for Train Door
+   4198.DAT      Duplo Brick  2 x  4 x  2 with Rounded Ends
+   4199.DAT      Duplo Brick  2 x  8
+   4497.DAT      Minifig Spear
+   4531.DAT      Hinge Tile  1 x  2 with 2 Fingers
+   4589.DAT      Cone  1 x  1
+   4617.DAT      Propellor  3 Blade  5.5 Diameter
+   4626.DAT      Excavator Bucket  2 x  3
+   4730.DAT      Brick  2 x  2 with Pin
+   4790.DAT      Boat Ship Wheel
+   510.DAT       Trailer Base  4 x 16 x  1
+   6002.DAT      Panel  6 x  6 x  9 Corner Round
+   6003.DAT      Plate  6 x  6 with Round Corner
+   6063.DAT      Plate 10 x 10 Octagonal Open Center
+   609.DAT       Baseplate 32 x 32 Road 9-Stud Curve
+   6099P02.DAT   Baseplate 32 x 32 Road 9-Stud Landing Pad with Green Octagon
+   610.DAT       Baseplate 32 x 32 Road 8-Stud Straight
+   6132.DAT      Minifig Hair Beard
+   6182.DAT      Arch  1 x  4 x  2
+   6394.DAT      Duplo Brick  2 x  4 x  2 with 2 x  2 Cutout on Bottom
+   6851.DAT      Duplo Baseplate 12 x 16
+   7049.DAT      Brick  2 x  4 with Wheels Holder
+   7065.DAT      _Hinge Plate  2 x  5 with Large Hole (Complete) Red
+   778.DAT       Tractor Trailer Chassis  4 x 13
+   787.DAT       Fabuland Roof Support
+   790.DAT       Fabuland Roof Chimney
+   968.DAT       Trailer Base  4 x 14 x  1
+   969.DAT       Trailer Stand
+   973P01.DAT    Minifig Torso with Vertical Striped Red/Blue Pattern
+   973P13.DAT    Minifig Torso with Straight Zipper Jacket Pattern
+   3004P90A.DAT  ~Brick  1 x  2 with Classic Space Logo - Frontside
+   3004P90B.DAT  ~Brick  1 x  2 with Classic Space Logo - Gold Details
+   469S01.DAT    ~Roadsign Clip-on  2 x  2 Round without Front Face
+   6002S2.DAT    ~Panel  6 x  6 x  9 Round with Spherical Top

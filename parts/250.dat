@@ -1,14 +1,16 @@
 0 Duplo Brick  2 x  6 x  2 Double Concave
 0 Name: 250.dat
 0 Author: Niels Bugge [SirBugge]
-0 !LDRAW_ORG Part UPDATE 2009-01
+0 !LDRAW_ORG Part UPDATE 2010-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS arch
+0 !CATEGORY Arch
 
 0 !HISTORY 2004-04-04 [Steffen] Made use of 48\2-4ndis.dat
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2010-11-22 [anathema] Added !CATEGORY
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 2 24 2 54 -20 2 54 20
 2 24 -2 54 20 2 54 20

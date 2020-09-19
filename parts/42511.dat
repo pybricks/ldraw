@@ -1,0 +1,29 @@
+0 Minifig Skateboard with Four Wheel Clips
+0 Name: 42511.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !CATEGORY Minifig Accessory
+
+0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2010-07-18 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3a.dat
+1 16 0 3 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 0 3 0 4 0 0 0 1 0 0 0 4 4-4cyli.dat
+0 BFC INVERTNEXT
+1 16 0 8 0 16 0 0 0 -5 0 0 0 6 box5.dat
+4 16 20 8 10 16 8 6 -16 8 6 -20 8 10
+4 16 -20 8 10 -16 8 6 -16 8 -6 -20 8 -10
+4 16 -20 8 -10 -16 8 -6 16 8 -6 20 8 -10
+4 16 20 8 -10 16 8 -6 16 8 6 20 8 10
+1 16 0 5 0 20 0 0 0 3 0 0 0 10 box4.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\42511s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\42511s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\42511s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\42511s01.dat
+1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud2.dat

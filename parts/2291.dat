@@ -1,16 +1,19 @@
 0 Duplo Brick  2 x 10
 0 Name: 2291.dat
 0 Author: Tony Hafner [hafhead]
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2010-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+0 !CATEGORY Brick
 
 0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
 0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [nielsk] Made BFC compliant (2005-11-10)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2010-11-22 [anathema] Added !CATEGORY
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 1 16 160 4 0 1 0 0 0 -10 0 0 0 1 stud8.dat
 1 16 120 4 0 1 0 0 0 -10 0 0 0 1 stud8.dat
