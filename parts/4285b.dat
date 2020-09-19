@@ -1,11 +1,10 @@
 0 Dish  6 x  6 Inverted Webbed Type 2
 0 Name: 4285b.dat
 0 Author: Tore Eriksson [simlego]
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2010-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Round
 0 !KEYWORDS Space, Radar Dish, Town, Round
 
 0 !HISTORY 2002-07-15 [sbliss] Fix bad cylinder ref, serious L3P warnings.
@@ -17,6 +16,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [mikeheide] added and correct edgelines (2007-11-03)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2010-05-09 [cwdee] Remove CATEGORY Round
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4285s01.dat
 1 16 0 0 0 0.707 0 -0.707 0 1 0 0.707 0 0.707 s\4285s01.dat

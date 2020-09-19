@@ -1,7 +1,7 @@
-0 ~Minifig Chain Link (Open File for Usage Guide)
+0 Minifig Chain Link (Open File for Usage Guide)
 0 Name: 209.dat
 0 Author: Matt Schild [mschild]
-0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LDRAW_ORG Part UPDATE 2010-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !HELP Use this file in conjuction with the file
@@ -19,11 +19,13 @@
 0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
 0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [sbliss] Corrected size to 20LDU x 11LDU x 3LDU (2005-03-17)
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
-1 16 3 0 0 1 0 0 0 -8 0 0 0 1 4-4cyli.dat
-1 16 -3 0 0 1 0 0 0 -8 0 0 0 1 4-4cyli.dat
-1 16 0 0 0 -3 0 0 0 0 3 0 3 0 t04q3333.dat
-1 16 0 0 0 3 0 0 0 0 3 0 -3 0 t04q3333.dat
-1 16 0 -8 0 3 0 0 0 0 -3 0 3 0 t04q3333.dat
-1 16 0 -8 0 -3 0 0 0 0 -3 0 -3 0 t04q3333.dat
+1 16 4 0 0 1.5 0 0 0 -9 0 0 0 1.5 4-4cyli.dat
+1 16 -4 0 0 1.5 0 0 0 -9 0 0 0 1.5 4-4cyli.dat
+1 16 0 0 0 -4 0 0 0 0 4 0 4 0 t04q3750.dat
+1 16 0 0 0 4 0 0 0 0 4 0 -4 0 t04q3750.dat
+1 16 0 -9 0 4 0 0 0 0 -4 0 4 0 t04q3750.dat
+1 16 0 -9 0 -4 0 0 0 0 -4 0 -4 0 t04q3750.dat
 0

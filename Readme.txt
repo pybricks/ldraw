@@ -14,20 +14,18 @@ to some sites on the internet where you can find help and further information.
 --------------------------------------------------------------------------------
 * LDraw program directory contents:
  - Program executables:
-   MKList.exe   -  This is a utility that creates a list of available
-                   parts. This list (parts.lst) is used by LEdit and
-                   by several other third-party utilities. You should
-                   re-run MKList after installing new parts updates, 
-                   or you may run it at any other time to change the
-                   sort order of your list of parts.
+   mklist.exe   -  This is a utility that creates a list of available
+                   parts. This list (parts.lst) is used by LDraw tools
+                   as the available parts list. You should re-run mklist 
+                   after installing new parts updates.
 
  - Support Files:
    Parts.lst    -  This is your listing of all usable parts available.
-                   This list is created by running MKList.exe and choosing
+                   This list is created by running mklist.exe and choosing
                    to create the list sorted Numerically or by Description.
                    Most people use Description sorting, but you can
                    change to whichever way you prefer at any time.
-   MKList-c.zip -  Zip archive of the MKList source code.
+   mklist1_6.zip - Zip archive of the MKList source code.
 
  - Informational Files:
    Readme.txt   -  This file you are currently reading.
@@ -123,4 +121,5 @@ to some sites on the internet where you can find help and further information.
    should not be installed over NEW or NEWER updates.  Doing so might
    overwrite a fixed version of a part with an older version.
 
+LDraw Update 2010-02
 --end of file--   

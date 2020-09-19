@@ -1,0 +1,25 @@
+LDraw.org Parts Update 2010-02
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Alias Parts Library
+---------------------------------------------------------------------------
+
+Notes created Mon Jul  5 04:54:49 2010 by the Parts Tracker.
+
+Release statistics:
+   Total files: 5
+   New files: 3
+   New parts: 3
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   No parts were moved.
+
+Renamed Parts
+   No parts were renamed.
+
+Other Fixed Parts
+   30065.DAT     Dish  4 x  4 Inverted
+   6141.DAT      Plate  1 x  1 Round

@@ -1,40 +1,13 @@
-0 ~Roadsign Octagonal without front face
+0 ~Moved to s\3570s01
 0 Name: s\739s01.dat
-0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Subpart UPDATE 2005-01
+0 Author: [PTadmin]
+0 !LDRAW_ORG Subpart UPDATE 2010-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 BFC CERTIFY CW
+0 BFC CERTIFY CCW
 
-0 !HISTORY 2003-08-01 [Steffen] BFCed; made use of "stand" subfile
-0 !HISTORY 2004-10-16 [cwdee] Add lines at top of post removed from 674s00
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
- 1 16 18 -86 0 0 -1 0 0 0 -7 2 0 0 rect.dat
- 1 16 -18 -86 0 0 1 0 0 0 7 2 0 0 rect.dat
- 1 16 0 -68 0 0 0 7 0 -1 0 2 0 0 rect.dat
- 1 16 0 -104 0 0 0 7 0 1 0 -2 0 0 rect.dat
-0
- 2 24 18 -79 -2 7 -68 -2
- 2 24 -18 -79 -2 -7 -68 -2
- 2 24 18 -93 -2 7 -104 -2
- 2 24 -18 -93 -2 -7 -104 -2
- 2 24 18 -79 2 7 -68 2
- 2 24 -18 -79 2 -7 -68 2
- 2 24 18 -93 2 7 -104 2
- 2 24 -18 -93 2 -7 -104 2
-0
- 4 16 7 -68 -2 18 -79 -2 18 -79 2 7 -68 2
- 4 16 -18 -79 -2 -7 -68 -2 -7 -68 2 -18 -79 2
- 4 16 18 -93 -2 7 -104 -2 7 -104 2 18 -93 2
- 4 16 -7 -104 -2 -18 -93 -2 -18 -93 2 -7 -104 2
- 4 16 18 -93 2 -18 -93 2 -18 -79 2 18 -79 2
- 4 16 18 -93 2 7 -104 2 -7 -104 2 -18 -93 2
- 4 16 -18 -79 2 -7 -68 2 7 -68 2 18 -79 2
-0
- 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\647s00.dat
-2 24 4 -68 2 4 -68 -2
-2 24 -4 -68 2 -4 -68 -2
-0
+0 // ~Roadsign Octagonal without Decorated Surface
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3570s01.dat

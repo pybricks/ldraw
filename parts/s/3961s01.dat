@@ -1,7 +1,7 @@
-0 ~Dish  8 x  8 without Top Faces
+0 ~Dish  8 x  8 Inverted without Top Surface
 0 Name: s\3961s01.dat
 0 Author: Orion Pobursky [OrionP]
-0 !LDRAW_ORG Subpart UPDATE 2004-02
+0 !LDRAW_ORG Subpart UPDATE 2010-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,20 +9,15 @@
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2010-03-31 [Philo] Improved center hole, optimized with new cone primitives
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
-0 // Uncomment for top faces
-0 // 1 16 0 3 0 20 0 0 0 -3 0 0 0 20 48\1-4con1.dat
-0 // 1 16 0 3 0 0 0 20 0 -3 0 -20 0 0 48\1-4con1.dat
-0 // 1 16 0 3 0 -20 0 0 0 -3 0 0 0 -20 48\1-4con1.dat
-0 // 1 16 0 3 0 0 0 -20 0 -3 0 20 0 0 48\1-4con1.dat
-0 // 1 16 0 9 0 20 0 0 0 -6 0 0 0 20 48\1-4con2.dat
-0 // 1 16 0 9 0 0 0 20 0 -6 0 -20 0 0 48\1-4con2.dat
-0 // 1 16 0 9 0 -20 0 0 0 -6 0 0 0 -20 48\1-4con2.dat
-0 // 1 16 0 9 0 0 0 -20 0 -6 0 20 0 0 48\1-4con2.dat
-0 // 1 16 0 16 0 20 0 0 0 -7 0 0 0 20 48\1-4con3.dat
-0 // 1 16 0 16 0 0 0 20 0 -7 0 -20 0 0 48\1-4con3.dat
-0 // 1 16 0 16 0 -20 0 0 0 -7 0 0 0 -20 48\1-4con3.dat
-0 // 1 16 0 16 0 0 0 -20 0 -7 0 20 0 0 48\1-4con3.dat
+0 // Uncomment for top surface
+0 // 1 16 0 3 0 20 0 0 0 -3 0 0 0 20 48\4-4con1.dat
+0 // 1 16 0 9 0 20 0 0 0 -6 0 0 0 20 48\4-4con2.dat
+0 // 1 16 0 16 0 20 0 0 0 -7 0 0 0 20 48\4-4con3.dat
+
+
 2 24 16 4 10 16 4 -10
 2 24 -16 4 10 -16 4 -10
 2 24 10 4 16 -10 4 16
@@ -31,10 +26,10 @@
 2 24 -16 8 10 -16 8 -10
 2 24 10 8 16 -10 8 16
 2 24 10 8 -16 -10 8 -16
-4 16 16 4 -10 16 4 10 16 8 10 16 8 -10 
-4 16 -16 4 10 -16 4 -10 -16 8 -10 -16 8 10 
-4 16 10 4 16 -10 4 16 -10 8 16 10 8 16 
-4 16 -10 4 -16 10 4 -16 10 8 -16 -10 8 -16 
+4 16 16 4 -10 16 4 10 16 8 10 16 8 -10
+4 16 -16 4 10 -16 4 -10 -16 8 -10 -16 8 10
+4 16 10 4 16 -10 4 16 -10 8 16 10 8 16
+4 16 -10 4 -16 10 4 -16 10 8 -16 -10 8 -16
 1 16 10 4 10 6 0 0 0 1 0 0 0 6 1-4edge.dat
 1 16 -10 4 10 -6 0 0 0 1 0 0 0 6 1-4edge.dat
 1 16 -10 4 -10 -6 0 0 0 1 0 0 0 -6 1-4edge.dat
@@ -96,13 +91,14 @@
 4 16 10 4 -16 -10 4 -16 -10 4 -8 10 4 -8
 4 16 16 4 10 16 4 -10 8 4 -10 8 4 10
 4 16 -16 4 -10 -16 4 10 -8 4 10 -8 4 -10
-1 16 0 0 0 6 0 0 0 1 0 0 0 6 48\4-4ring1.dat
-1 16 0 0 0 4 0 0 0 1 0 0 0 4 48\4-4ring3.dat
-1 16 0 0 0 4 0 0 0 1 0 0 0 4 48\4-4ring4.dat
-1 16 0 0 0 6 0 0 0 1 0 0 0 6 48\4-4edge.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4ring1.dat
+1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4ring3.dat
+1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4ring4.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 0 BFC INVERTNEXT
-1 16 0 0 0 6 0 0 0 4 0 0 0 6 48\4-4cyli.dat
-1 16 0 4 0 8 0 0 0 1 0 0 0 8 48\4-4edge.dat
+1 16 0 0 0 6 0 0 0 4 0 0 0 6 4-4cyli.dat
+1 16 0 4 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+1 16 0 0 0 20 0 0 0 1 0 0 0 20 48\4-4aring.dat
 1 16 0 0 0 20 0 0 0 1 0 0 0 20 48\4-4edge.dat
 1 16 0 4 0 23 0 0 0 1 0 0 0 23 48\4-4edge.dat
 1 16 0 8 0 23 0 0 0 1 0 0 0 23 48\4-4edge.dat
@@ -125,54 +121,23 @@
 0 BFC INVERTNEXT
 1 16 0 4.1765 0 1 0 0 0 -0.1765 0 0 0 1 48\1-4con23.dat
 0 BFC INVERTNEXT
-1 16 0 5.5882 0 8 0 0 0 -1.4118 0 0 0 8 48\1-4con3.dat
-0 BFC INVERTNEXT
-1 16 0 7 0 8 0 0 0 -1.4118 0 0 0 8 48\1-4con4.dat
+1 16 0 5.5882 0 8 0 0 0 -1.4118 0 0 0 8 48\4-4con3.dat
 0 BFC INVERTNEXT
 1 16 0 4.177 0 0 0 1 0 -0.1765 0 -1 0 0 48\1-4con23.dat
 0 BFC INVERTNEXT
-1 16 0 5.588 0 0 0 8 0 -1.4118 0 -8 0 0 48\1-4con3.dat
-0 BFC INVERTNEXT
-1 16 0 7 0 0 0 8 0 -1.4118 0 -8 0 0 48\1-4con4.dat
+1 16 0 7 0 0 0 8 0 -1.4118 0 -8 0 0 48\4-4con4.dat
 0 BFC INVERTNEXT
 1 16 0 4.177 0 -1 0 0 0 -0.1765 0 0 0 -1 48\1-4con23.dat
 0 BFC INVERTNEXT
-1 16 0 5.588 0 -8 0 0 0 -1.4118 0 0 0 -8 48\1-4con3.dat
-0 BFC INVERTNEXT
-1 16 0 7 0 -8 0 0 0 -1.4118 0 0 0 -8 48\1-4con4.dat
-0 BFC INVERTNEXT
 1 16 0 4.177 0 0 0 -1 0 -0.1765 0 1 0 0 48\1-4con23.dat
 0 BFC INVERTNEXT
-1 16 0 5.588 0 0 0 -8 0 -1.4118 0 8 0 0 48\1-4con3.dat
+1 16 0 20 0 4.5 0 0 0 -1.9091 0 0 0 4.5 48\4-4con16.dat
 0 BFC INVERTNEXT
-1 16 0 7 0 0 0 -8 0 -1.4118 0 8 0 0 48\1-4con4.dat
+1 16 0 18.0909 0 12 0 0 0 -5.0909 0 0 0 12 48\4-4con5.dat
 0 BFC INVERTNEXT
-1 16 0 20 0 4.5 0 0 0 -1.9091 0 0 0 4.5 48\1-4con16.dat
-0 BFC INVERTNEXT
-1 16 0 18.0909 0 12 0 0 0 -5.0909 0 0 0 12 48\1-4con5.dat
-0 BFC INVERTNEXT
-1 16 0 20 0 0 0 4.5 0 -1.9091 0 -4.5 0 0 48\1-4con16.dat
-0 BFC INVERTNEXT
-1 16 0 18.091 0 0 0 12 0 -5.0909 0 -12 0 0 48\1-4con5.dat
-0 BFC INVERTNEXT
-1 16 0 20 0 -4.5 0 0 0 -1.9091 0 0 0 -4.5 48\1-4con16.dat
-0 BFC INVERTNEXT
-1 16 0 18.091 0 -12 0 0 0 -5.0909 0 0 0 -12 48\1-4con5.dat
-0 BFC INVERTNEXT
-1 16 0 20 0 0 0 -4.5 0 -1.9091 0 4.5 0 0 48\1-4con16.dat
-0 BFC INVERTNEXT
-1 16 0 18.091 0 0 0 -12 0 -5.0909 0 12 0 0 48\1-4con5.dat
-0 BFC INVERTNEXT
-1 16 0 13 0 20 0 0 0 -6 0 0 0 20 48\1-4con2.dat
-0 BFC INVERTNEXT
-1 16 0 13 0 0 0 20 0 -6 0 -20 0 0 48\1-4con2.dat
-0 BFC INVERTNEXT
-1 16 0 13 0 -20 0 0 0 -6 0 0 0 -20 48\1-4con2.dat
-0 BFC INVERTNEXT
-1 16 0 13 0 0 0 -20 0 -6 0 20 0 0 48\1-4con2.dat
+1 16 0 13 0 20 0 0 0 -6 0 0 0 20 48\4-4con2.dat
 1 16 10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
-0

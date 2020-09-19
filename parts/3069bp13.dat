@@ -1,7 +1,7 @@
-0 Tile  1 x  2 with Short Yellow Arrow with Black Border Pattern
+0 Tile  1 x  2 with Arrow Short Yellow with Black Border Pattern
 0 Name: 3069bp13.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2003-03
+0 !LDRAW_ORG Part UPDATE 2010-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,26 +11,11 @@
 0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
 0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-08-15 [anathema] Rebuilt using new subparts
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
-2 0 -8 0 -6 -8 0 0
-2 0 -8 0 0 -14 0 0
-2 0 -14 0 0 0 0 8
-4 0 0 0 8 -14 0 0 -13.25 0 0 0 0 7.5
-4 0 14 0 0 8 0 0 8.5 0 -0.5 14 0 -0.5
-4 0 -8 0 0 -8.5 0 -0.5 -8.5 0 -6.5 -8 0 -6
-4 0 8 0 -6 -8 0 -6 -8.5 0 -6.5 8.5 0 -6.5
-4 0 8.5 0 -0.5 8 0 0 8 0 -6 8.5 0 -6.5
-4 0 -14 0 0 -14 0 -0.5 -8.5 0 -0.5 -8 0 0
-4 0 14 0 0 0 0 8 0 0 7.5 13.25 0 0
-3 14 13.25 0 0 0 0 7.5 -13.25 0 0
-4 14 -8 0 0 -8 0 -6 8 0 -6 8 0 0
-3 16 -20 0 10 0 0 8 20 0 10
-3 16 20 0 10 0 0 8 14 0 0
-4 16 20 0 10 14 0 0 14 0 -0.5 20 0 -10
-4 16 20 0 -10 14 0 -0.5 8.5 0 -0.5 8.5 0 -6.5
-4 16 -8.5 0 -6.5 -20 0 -10 20 0 -10 8.5 0 -6.5
-4 16 -8.5 0 -6.5 -8.5 0 -0.5 -14 0 -0.5 -20 0 -10
-4 16 -20 0 -10 -14 0 -0.5 -14 0 0 -20 0 10
-3 16 -14 0 0 0 0 8 -20 0 10
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069p13a.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\3069p13b.dat
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 s\3069p13c.dat
 0

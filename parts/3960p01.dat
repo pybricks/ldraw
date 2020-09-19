@@ -1,12 +1,11 @@
 0 Dish  4 x  4 Inverted with Red and Green Petals Pattern
 0 Name: 3960p01.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Part UPDATE 2004-03
+0 !LDRAW_ORG Part UPDATE 2010-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC NOCERTIFY
-0 !CATEGORY Round
-0 !KEYWORDS Town, umbrella, parasol, pinwheel, daisy, round, radar
+0 !KEYWORDS Town, umbrella, parasol, pinwheel, daisy, round, radar dish
 0 !CMDLINE -c15
 
 0 !HISTORY 2001-09-18 [sbliss] subfiled; standardized colors
@@ -14,6 +13,8 @@
 0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
 0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2010-05-09 [cwdee] Remove CATEGORY Round
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960p01a.dat
 1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\3960p01b.dat

@@ -1,31 +1,17 @@
-0 Roadsign Round with No Parking Sign
+0 _Roadsign Round with No Waiting Left Pattern White
 0 Name: 80045.dat
-0 Author: Manfred Moolhuysen
-0 !LDRAW_ORG Part UPDATE 2005-01
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part Physical_Colour UPDATE 2010-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 BFC CERTIFY CCW
+0 BFC CERTIFY CW
 
-0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
-0 !HISTORY 2003-08-01 [Steffen] BFCed, made use of subfile
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
-2 4 -11 -98 -2 10 -77 -2
-2 4 -10.5 -98.5 -2 10.5 -77.5 -2
-2 4 -10 -99 -2 11 -78 -2
-4 1 -15 -88 -2 -13.8 -82.3 -2 -10.5 -77.5 -2 -7.5 -80.5 -2
-4 1 -10.5 -77.5 -2 -5.7 -74.2 -2 0 -73 -2 -7.5 -80.5 -2
-4 1 -15 -88 -2 0 -73 -2 5.7 -74.2 -2 -13.8 -93.7 -2
-4 1 -13.8 -93.7 -2 5.7 -74.2 -2 9.25 -76.64 -2 -11.36 -97.25 -2
-4 1 -9.25 -99.36 -2 11.36 -78.75 -2 13.8 -82.3 -2 -5.7 -101.8 -2
-4 1 -5.7 -101.8 -2 13.8 -82.3 -2 15 -88 -2 0 -103 -2
-4 1 0 -103 -2 7.5 -95.5 -2 10.5 -98.5 -2 5.7 -101.8 -2
-4 1 7.5 -95.5 -2 15 -88 -2 13.8 -93.7 -2 10.5 -98.5 -2
-4 4 -11.36 -97.25 -2 9.25 -76.64 -2 10.5 -77.5 -2 -10.5 -98.5 -2
-4 4 -10.5 -98.5 -2 10.5 -77.5 -2 11.36 -78.75 -2 -9.25 -99.36 -2
-1 4 0 -88 -2 5 0 0 0 0 -5 0 1 0 ring3.dat
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14s01.dat
+0 // This file is a "shortcut" with the correct number for the actual
+0 // colouring of the part (White).
+
+
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 3350p03.dat
 0
-

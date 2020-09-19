@@ -1,35 +1,16 @@
-0 Roadsign Round with No Entry Sign Pattern
+0 _Roadsign Round with No Entry Sign Pattern White
 0 Name: 7284.dat
-0 Author: Manfred Moolhuysen
-0 !LDRAW_ORG Part UPDATE 2005-01
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part Physical_Colour UPDATE 2010-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 BFC CERTIFY CCW
+0 BFC CERTIFY CW
 
-0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
-0 !HISTORY 2003-08-01 [Steffen] BFCed, made use of primitives and subfiles, added ring primitives to close render gaps 
-0 !HISTORY 2003-10-26 [Steffen] changed name from "Roadsign Round with No Thoroughfare Sign" to above one
-0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
-0 !HISTORY 2007-07-21 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
-4 4 -17.96 -88 -2 -20 -88 -2 -18.4 -80.4 -2 -17.22 -84.5 -2
-4 4 -17.22 -84.5 -2 -18.4 -80.4 -2 -14 -74 -2 0 -84.5 -2
-4 4 0 -84.5 -2 -14 -74 -2 -7.6 -69.6 -2 0 -68 -2
-4 4 0 -84.5 -2 0 -68 -2 7.6 -69.6 -2 14 -74 -2
-4 4 0 -84.5 -2 14 -74 -2 18.4 -80.4 -2 17.22 -84.5 -2
-4 4 17.22 -84.5 -2 18.4 -80.4 -2 20 -88 -2 17.96 -88 -2
-4 4 17.96 -88 -2 20 -88 -2 18.4 -95.6 -2 17.22 -91.5 -2
-1 4 0 -88 -2 -1 0 0 0 0 1 0 1 0 1-4rin19.dat
-1 4 0 -88 -2 0 0 -1 -1 0 0 0 1 0 1-4rin19.dat
-1 4 0 -88 -2 1 0 0 0 0 -1 0 1 0 1-4rin19.dat
-1 4 0 -88 -2 0 0 1 1 0 0 0 1 0 1-4rin19.dat
-4 4 17.22 -91.5 -2 18.4 -95.6 -2 14 -102 -2 0 -91.5 -2
-4 4 0 -91.5 -2 14 -102 -2 7.6 -106.4 -2 0 -108 -2
-4 4 0 -91.5 -2 0 -108 -2 -7.6 -106.4 -2 -14 -102 -2
-4 4 0 -91.5 -2 -14 -102 -2 -18.4 -95.6 -2 -17.22 -91.5 -2
-4 4 -17.22 -91.5 -2 -18.4 -95.6 -2 -20 -88 -2 -17.96 -88 -2
-4 15 -17.22 -84.5 -2 17.22 -84.5 -2 17.96 -88 -2 -17.96 -88 -2
-4 15 -17.96 -88 -2 17.96 -88 -2 17.22 -91.5 -2 -17.22 -91.5 -2
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14s01.dat
+0 // This file is a "shortcut" with the correct number for the actual
+0 // colouring of the part (White). 
+
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 3350p01.dat
 0

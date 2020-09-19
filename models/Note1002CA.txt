@@ -1,0 +1,395 @@
+LDraw.org Parts Update 2010-02
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Mon Jul  5 04:54:49 2010 by the Parts Tracker.
+
+Release statistics:
+   Total files: 950
+   New files: 757
+   New parts: 471
+   New subparts: 201
+   New primitives: 38
+   New hi-res primitives: 47
+
+New 3-digit part numbers assigned:
+   129.dat ~Train Signal Semaphore Metal Bar
+   270.dat Train Base  6 x 12 Type 1
+   271.dat Plate  2 x  2 with Hinges
+   304.dat ~Train Signal Semaphore Base  4 x  9
+   308.dat ~Train Signal Semaphore Blade
+   316.dat ~Train Signal Semaphore Lever
+   317.dat ~Train Signal Semaphore Pole Half
+   318.dat ~Train Signal Sempahore Actuator Plate
+   385.dat Baseplate 50 x 50 Road 3-way Curve
+   498.dat Technic Tread Crawler
+   502.dat Electric Train Motor 12V Connecting Rod
+   509.dat Plate  2 x  4 with Hook Holder
+   512.dat Electric Train 12V Level Crossing Sign
+   592.dat ~Electric Plug Body for Electric Plug Type 1 and Type 2
+   727.dat Trailer  4 x 16 Ramp
+   918.dat ~Electric Power Functions 9V Battery Box Lid
+   919.dat ~Electric Power Functions 9V Battery Box Case
+   920.dat ~Electric Power Functions 9V Battery Box Switch
+   925.dat Brick  1 x  8 without Center Studs
+   954.dat ~Glass for Window  1 x  4 x  5 with Fixed Glass
+
+Moved Parts
+   14.DAT        ~Moved to 3350
+   208C01.DAT    ~Moved to 30104
+   265.DAT       ~Moved to 265a
+   265C01.DAT    ~Moved to 265ac01
+   266.DAT       ~Moved to 266a
+   266C01.DAT    ~Moved to 266ac01
+   267.DAT       ~Moved to 267a
+   2879A.DAT     ~Moved to 2895
+   3010P20W.DAT  ~Moved to 3010p20c 
+   3068P65.DAT   ~Moved to 3068bd01
+   3069P15.DAT   ~Moved to 3069bp15
+   314.DAT       ~Moved to 314e
+   3149.DAT      ~Moved to 3149e
+   3149C01.DAT   ~Moved to 3149ec01
+   3192.DAT      ~Moved to 3190
+   3193.DAT      ~Moved to 3191
+   3324C01.DAT   ~Moved to 3324ec01
+   3678.DAT      ~Moved to 3678a
+   3678PC0.DAT   ~Moved to 3678apc0
+   424.DAT       ~Moved to 6221
+   445.DAT       ~Moved to 3193a
+   446.DAT       ~Moved to 3192a
+   551.DAT       ~Moved to 32086
+   6246F.DAT     ~Moved to 55296
+   649.DAT       ~Moved to 3351
+   675.DAT       ~Moved to 3349
+   739.DAT       ~Moved to 3570
+   741.DAT       ~Moved to 641
+   970C00.DAT    ~Moved to 3815c01
+   970C02.DAT    ~Moved to 3815c02
+   989.DAT       ~Moved to 76385
+   14S01.DAT     ~Moved to s\3350s01
+   3678S01.DAT   ~Moved to s\3678as01
+   647S00.DAT    ~Moved to s\3351as02
+   649S01.DAT    ~Moved to s\3351s01
+   739S01.DAT    ~Moved to s\3570s01
+   970S01.DAT    ~Moved to s\3815s01
+
+Renamed Parts
+   1-4EDGE.DAT   12-48 Hi-Res Edge
+   changed to    Hi-Res Circle 0.25
+
+   208.DAT       ~Minifig Chain Link End (Open File for Usage Guide)
+   changed to    Minifig Chain Link End (Open File for Usage Guide)
+
+   209.DAT       ~Minifig Chain Link (Open File for Usage Guide)
+   changed to    Minifig Chain Link (Open File for Usage Guide)
+
+   2346.DAT      Tyre Medium
+   changed to    Tyre 12/ 50 x 16 Offset Tread
+
+   2358.DAT      Baseplate 32 x 32 Road Straight
+   changed to    Baseplate 32 x 32 Road 7-Stud Straight
+
+   2358P02.DAT   Baseplate 32 x 32 Road 7-Stud Straight with Runway Pattern
+   changed to    Baseplate 32 x 32 Road 7-Stud Straight w/ Runway Crosswalk Patt.
+
+   2358P03.DAT   Baseplate 32 x 32 Road 7-Stud Straight with Plain Runway Pattern
+   changed to    Baseplate 32 x 32 Road 7-Stud Straight w/ Runway Wide Pattern
+
+   2359P01.DAT   Baseplate 32 x 32 Road 7-Stud Curve with Pattern
+   changed to    Baseplate 32 x 32 Road 7-Stud Curve with Road Pattern
+
+   2360.DAT      Baseplate 32 x 32 Road T Intersection
+   changed to    Baseplate 32 x 32 Road 7-Stud T-Junction
+
+   2360P01.DAT   Baseplate 32 x 32 Road 7-Stud T Intersection with Crosswalks
+   changed to    Baseplate 32 x 32 Road 7-Stud T-Junction with Crosswalk Pattern
+
+   2360P02.DAT   Baseplate 32 x 32 Road 7-Stud T Intersection w/ Runway Pattern
+   changed to    Baseplate 32 x 32 Road 7-Stud T-Junction w/ Runway Narrow Patt.
+
+   2361.DAT      Baseplate 32 x 32 Road Crossroads
+   changed to    Baseplate 32 x 32 Road 7-Stud Crossroads
+
+   2361P01.DAT   Baseplate 32 x 32 Road 7-Stud Crossroads with Crosswalks
+   changed to    Baseplate 32 x 32 Road 7-Stud Crossroads with Crosswalk Pattern
+
+   2741.DAT      Technic Large Steering Wheel
+   changed to    Technic Steering Wheel Large
+
+   2743.DAT      Technic Wing Front
+   changed to    Technic Brick  1 x  4 x  1.667 Wing Front
+
+   2744.DAT      Technic Wing Back
+   changed to    Technic Brick  1 x  6 x  1.667 Wing Back
+
+   3010P20B.DAT  Brick  1 x  4 with Town Car Grille Black 
+   changed to    Brick  1 x  4 with Town Car Grille Black Pattern
+
+   3010P20C.DAT  Brick  1 x  4 with Town Car Grille Chrome 
+   changed to    Brick  1 x  4 with Town Car Grille Chrome Pattern
+
+   30187C03.DAT  Bike  3 Wheel Motorcycle with Rider (Shortcut)
+   changed to    Bike  3 Wheel Motorcycle with Rider (Complete)
+
+   30473.DAT     Baseplate 32 x 32 Canyon Plate without Island
+   changed to    Baseplate 32 x 32 Canyon without Island
+
+   3069BP13.DAT  Tile  1 x  2 with Short Yellow Arrow with Black Border Pattern
+   changed to    Tile  1 x  2 with Arrow Short Yellow with Black Border Pattern
+
+   3069BP21.DAT  Tile  1 x  2 with Short Yellow Arrow Pattern
+   changed to    Tile  1 x  2 with Arrow Short Yellow Pattern
+
+   309.DAT       Baseplate 32 x 32 Service Station
+   changed to    Baseplate 32 x 32 Road 7-Stud Refuge
+
+   309P01.DAT    Baseplate 32 x 32 Service Station with Pattern
+   changed to    Baseplate 32 x 32 Road 7-Stud Refuge with Green Lines Pattern
+
+   309P02.DAT    Baseplate 32 x 32 Island with River Pattern
+   changed to    Baseplate 32 x 32 Road 7-Stud Refuge with River Pattern
+
+   309P03.DAT    Baseplate 32 x 32 Island with White Lines Pattern
+   changed to    Baseplate 32 x 32 Road 7-Stud Refuge with White Lines Pattern
+
+   309P04.DAT    Baseplate 32 x 32 Island with White and Green Lines Pattern
+   changed to    Baseplate 32 x 32 Road 7-Stud Refuge with Green & White Lines
+
+   3641.DAT      Tyre
+   changed to    Tyre  6/ 50 x  8 Offset Tread
+
+   3709A.DAT     Brick  2 x  4 with Top/Side/End Holes
+   changed to    Brick  2 x  4 with Top/Side/End Holes and Hollow Studs
+
+   3754P01.DAT   Brick  1 x  6 x  5 with LL2079 Floating Astronaut Picture
+   changed to    Brick  1 x  6 x  5 with Satellite Repair Pattern
+
+   3942B.DAT     Cone  2 x  2 x  2 with Hollow Stud
+   changed to    Cone  2 x  2 x  2 with Hollow Stud and Axlehole Teeth
+
+   4084.DAT      Tyre Medium
+   changed to    Tyre  8/ 75 x  8 Offset Tread
+
+   41678.DAT     Technic Axle Joiner Perpendicular Double Split
+   changed to    Technic Cross Block 2 x 2 Split (Axle/Twin Pin)
+
+   425.DAT       Baseplate 32 x 32 Road 3 Lane
+   changed to    Baseplate 32 x 32 Road 9-Stud Layby
+
+   425P01.DAT    Baseplate 32 x 32 Road 3 Lane with Race Track Pattern
+   changed to    Baseplate 32 x 32 Road 9-Stud Layby with Racetrack Pattern
+
+   4509.DAT      Train Roof  6 x  6
+   changed to    Slope Brick 33  6 x  6 Double
+
+   4517.DAT      Forklift Forks
+   changed to    Forklift Forks  4 x  6 (Needs Work)
+
+   4518.DAT      Forklift Rails
+   changed to    Forklift Rails  2 x  3 x  7.667 (Needs Work)
+
+   4741.DAT      Space Window  4 x  4 x  6 Outward Sloping
+   changed to    Window  4 x  4 x  6 Outward Sloping
+
+   4796C01.DAT   Fabuland Car Chassis  8 x  6 (Complete)
+   changed to    Fabuland Car Chassis  8 x  6.5 (Complete)
+
+   50745.DAT     Car Mudguard  4 x  2 1/2 x  2
+   changed to    Car Mudguard  4 x  2.5 x  2
+
+   6024.DAT      Baseplate 32 x 32 Canyon Plate
+   changed to    Baseplate 32 x 32 Canyon with Island
+
+   6069PS2.DAT   Wedge  4 x  4 Triple with SW Mini Slave 1 Pattern
+   changed to    Wedge  4 x  4 Triple with Sand Green and Light Yellow Pattern
+
+   606P01.DAT    Baseplate 32 x 32 Road Straight with Road Pattern-9 Studs
+   changed to    Baseplate 32 x 32 Road 9-Stud Straight with Road Pattern
+
+   606P02.DAT    Baseplate 32 x 32 Road Straight with Road and Crosswalk-9 Studs
+   changed to    Baseplate 32 x 32 Road 9-Stud Straight with Crosswalk Pattern
+
+   607.DAT       Baseplate 32 x 32 Road Crossroads-9 Studs
+   changed to    Baseplate 32 x 32 Road 9-Stud Crossroads
+
+   607P01.DAT    Baseplate 32 x 32 Road Crossroads with Road Pattern-9 Studs
+   changed to    Baseplate 32 x 32 Road 9-Stud Crossroads with Crosswalk Pattern
+
+   608.DAT       Baseplate 32 x 32 Road T Intersection-9 Studs
+   changed to    Baseplate 32 x 32 Road 9-Stud T-Junction
+
+   608P01.DAT    Baseplate 32 x 32 Road T Intersection with Road Pattern-9 Studs
+   changed to    Baseplate 32 x 32 Road 9-Stud T-Junction with Crosswalk Pattern
+
+   608P02.DAT    Baseplate 32 x 32 Road 9-Stud T Intersection with Green Octagon
+   changed to    Baseplate 32 x 32 Road 9-Stud T-Junction w/ Green Octagon Patt.
+
+   608P03.DAT    Baseplate 32 x 32 Road 9-Stud T Intersection with Yellow Lines
+   changed to    Baseplate 32 x 32 Road 9-Stud T-Junction w/ Yellow Lines Pattern
+
+   611P01.DAT    Baseplate 32 x 32 Road 8-Stud Crossroads with Pattern
+   changed to    Baseplate 32 x 32 Road 8-Stud Crossroads with Crosswalk Pattern
+
+   612.DAT       Baseplate 32 x 32 Road 8-Stud T Intersection
+   changed to    Baseplate 32 x 32 Road 8-Stud T-Junction
+
+   612P01.DAT    Baseplate 32 x 32 Road 8-Stud T Intersection with Pattern
+   changed to    Baseplate 32 x 32 Road 8-Stud T-Junction with Crosswalk Pattern
+
+   613P01.DAT    Baseplate 32 x 32 Road 8-Stud Curve with Pattern
+   changed to    Baseplate 32 x 32 Road 8-Stud Curve with Road Pattern
+
+   649P01.DAT    Roadsign Triangle with Level Crossing Pattern
+   changed to    ~Roadsign Triangle with Level Crossing Pattern (Obsolete)
+
+   649P02.DAT    Roadsign Triangle with Road Crossing Sign
+   changed to    ~Roadsign Triangle with Road Crossing Sign (Obsolete)
+
+   675P01.DAT    Roadsign Square Tall with Parking and 300m Pattern
+   changed to    ~Roadsign Square Tall with Parking and 300m Pattern (Obsolete)
+
+   7284.DAT      Roadsign Round with No Entry Sign Pattern
+   changed to    _Roadsign Round with No Entry Sign Pattern White
+
+   739P01.DAT    Roadsign Octagonal with Stop Sign Pattern
+   changed to    ~Roadsign Octagonal with Stop Sign Pattern (Obsolete)
+
+   745.DAT       Roadsign Base Old Type 1
+   changed to    Roadsign Base Round Type 1
+
+   746.DAT       Roadsign Base Old Type 2
+   changed to    Roadsign Base Round Type 2
+
+   747.DAT       Roadsign Old Warning
+   changed to    Roadsign Triangular without Base
+
+   747P01.DAT    Roadsign Old with Generic Warning Pattern
+   changed to    ~Roadsign Old with Generic Warning Pattern (Obsolete)
+
+   747P02.DAT    Roadsign Old with Dangerous Intersection Sign
+   changed to    ~Roadsign Old with Dangerous Intersection Sign (Obsolete)
+
+   747P03.DAT    Roadsign Old with Level Crossing Sign
+   changed to    ~Roadsign Old with Level Crossing Sign (Obsolete)
+
+   747P05.DAT    Roadsign Old with Beware of Pedestrians Sign
+   changed to    ~Roadsign Old with Beware of Pedestrians Sign (Obsolete)
+
+   80039.DAT     Roadsign Round with Left Turn Prohibited Sign
+   changed to    _Roadsign Round with No Left Turn Pattern White
+
+   80045.DAT     Roadsign Round with No Parking Sign
+   changed to    _Roadsign Round with No Waiting Left Pattern White
+
+   817.DAT       Trailer for Legoland Car
+   changed to    ~Trailer for Legoland Car
+
+   820.DAT       Garage Plate - Old 
+   changed to    Garage Plate  8 x 18
+
+   979.DAT       Minifig (Complete Figure Shortcut)
+   changed to    _Minifig Standing (Complete)
+
+   980.DAT       Minifig (Complete Figure Shortcut, Sitting)
+   changed to    _Minifig Sitting (Complete)
+
+   2670S01.DAT   ~Monorail Track 1 Subpart
+   changed to    ~Monorail Track End Section
+
+   2670S03.DAT   ~Monorail Track Rack Subpart
+   changed to    ~Monorail Track Rack
+
+   3010A20.DAT   ~Brick  1 x  4 with Town Car Grille - Colour
+   changed to    ~Pattern Car Grille for Brick 1 x 4 - Colour
+
+   30562S01.DAT  ~Panel  4 x  4 x  6 Corner Round without Front Face
+   changed to    ~Panel  4 x  4 x  6 Corner Round without Outer Face
+
+   3961S01.DAT   ~Dish  8 x  8 without Top Faces
+   changed to    ~Dish  8 x  8 Inverted without Top Surface
+
+   464S01.DAT    ~Slope Rounded  1 x  6 without Top Surface
+   changed to    ~Slope Brick Curved  6 x  1 without Top Surface
+
+   747S01.DAT    ~Roadsign Old Warning without Pattern Area
+   changed to    ~Roadsign Triangular without Base without Decorated Surface
+
+Other Fixed Parts
+   PEGHOLE4.DAT  Peg Hole End Extended Short
+   20.DAT        ~Wheel Centre Small for Steel Axle
+   206A.DAT      ~Technic Differential Centre
+   2358P04.DAT   Baseplate 32 x 32 Road 7-Stud Straight w/ Runway Narrow Pattern
+   2359.DAT      Baseplate 32 x 32 Road 7-Stud Curve
+   2654.DAT      Dish  2 x  2
+   2670.DAT      Monorail Track Straight  4 x  8
+   2671.DAT      Monorail Track Straight  4 x 32
+   2730.DAT      Technic Brick  1 x 10 with Holes
+   2772.DAT      ~Monorail Track Switch Base
+   2773.DAT      ~Monorail Track Switch Slide
+   2918.DAT      Glass for Train Front Sloping Top
+   2919.DAT      Electric Train Light Prism  1 x  4
+   2928.DAT      Electric Train Light Prism  1 x  4 Holder
+   30030.DAT     Baseplate 32 x 32 Racing
+   30030P01.DAT  Baseplate 32 x 32 with Racing Pattern
+   30180.DAT     Slope Brick 45 10 x  2 x  2 Double
+   30187C02.DAT  ~Bike  3 Wheel Motorcycle Minifig (Shortcut)
+   30198.DAT     Grab Jaw Holder with Handle
+   30526.DAT     Brick  1 x  2 with 2 Pins
+   30562.DAT     Panel  4 x  4 x  6 Corner Round
+   3068BP06.DAT  Tile  2 x  2 with Red Warning Triangle Pattern
+   3068BP22.DAT  Tile  2 x  2 with Sledgehammer Pattern
+   32018.DAT     Technic Brick  1 x 14 with Holes
+   32087.DAT     Train Track  9V Crossing
+   3228B.DAT     Train Track Rail Slotted Straight
+   3665.DAT      Slope Brick 45  2 x  1 Inverted
+   3700.DAT      Technic Brick  1 x  2 with Hole
+   3701.DAT      Technic Brick  1 x  4 with Holes
+   3702.DAT      Technic Brick  1 x  8 with Holes
+   3703.DAT      Technic Brick  1 x 16 with Holes
+   3811P01.DAT   Baseplate 32 x 32 with Set 7838 Dots Pattern
+   3811P02.DAT   Baseplate 32 x 32 with Island and Water Pattern
+   3861.DAT      Door  1 x  4 x  5 with 4 Panes
+   3894.DAT      Technic Brick  1 x  6 with Holes
+   3895.DAT      Technic Brick  1 x 12 with Holes
+   3960.DAT      Dish  4 x  4 Inverted
+   3960P01.DAT   Dish  4 x  4 Inverted with Red and Green Petals Pattern
+   3960P02.DAT   Dish  4 x  4 Inverted with Black Spiral Pattern
+   3960P03.DAT   Dish  4 x  4 Inverted with Red Spiral Pattern
+   3960P04.DAT   Dish  4 x  4 Inverted with Blue and Red Stripes Pattern
+   3960P05.DAT   Dish  4 x  4 Inverted with Pink and Green Stripes Pattern
+   3960P06.DAT   Dish  4 x  4 Inverted with Red Stripes Pattern
+   3960PV1.DAT   Dish  4 x  4 Inverted with Viking DkRed Yellow Rune Shield Pat.
+   3960PV2.DAT   Dish  4 x  4 Inverted with Viking Red and Blue Shield Pattern
+   3960PV3.DAT   Dish  4 x  4 Inverted with Viking Red and White Shield Pattern
+   3961.DAT      Dish  8 x  8 Inverted
+   4143.DAT      Technic Gear 14 Tooth Bevel
+   4150PS2.DAT   Tile  2 x  2 Round with SW Sith Infiltrator Pattern
+   4150PS5.DAT   Tile  2 x  2 Round with SW Imperial Pattern
+   4171.DAT      Electric Train Light Prism  1 x  3
+   42022.DAT     Slope Brick Curved  6 x  1
+   4285A.DAT     Dish  6 x  6 Inverted Webbed Type 1
+   4285B.DAT     Dish  6 x  6 Inverted Webbed Type 2
+   43898.DAT     Dish  3 x  3 Inverted
+   4447.DAT      Window  4 x  4 x  3 Roof
+   4461.DAT      Container Box  4 x  4 x  2 with Hollowed-Out Semi-Circle
+   4515.DAT      Slope Brick 10  6 x  8
+   4515P02.DAT   Slope Brick 10  6 x  8 with Green Stripes Pattern
+   4515P03.DAT   Slope Brick 10  6 x  8 with Slate Roof Pattern
+   4740.DAT      Dish  2 x  2 Inverted
+   4869.DAT      Plane Jet Engine Centre
+   6069.DAT      Wedge  4 x  4 Triple
+   6069PS1.DAT   Wedge  4 x  4 Triple with SW X-Wing Nose Pattern
+   611.DAT       Baseplate 32 x 32 Road 8-Stud Crossroads
+   613.DAT       Baseplate 32 x 32 Road 8-Stud Curve
+   6153.DAT      Wedge  6 x  4
+   647.DAT       Roadsign Square
+   6942.DAT      Dish  5 x  5
+   736.DAT       Train Base  6 x 16 Type 1
+   795.DAT       Arm Piece with Disc and 2 Fingers
+   80547.DAT     Baseplate 32 x 32 Road 7-Stud Straight with Road Pattern
+   2670S02.DAT   ~Monorail Track Bottom Triangles Subpart
+   32087S02.DAT  ~Train Track  9V Crossing - Approach Track
+   3660S01.DAT   ~Slope Brick 45  2 x  2 Inverted Without Front Face
+   6069S01.DAT   ~Wedge  4 x  4 without Sloped Face

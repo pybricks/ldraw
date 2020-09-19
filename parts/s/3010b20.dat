@@ -1,0 +1,49 @@
+0 ~Pattern Car Grille for Brick 1 x 4 - Mask
+0 Name: s\3010b20.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Subpart UPDATE 2010-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2005-11-06 [DeanEarley] Moved face into a sub part and BFC'd
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
+0 // Left light corners 
+
+
+
+1 16 -33 9 -10 -1 0 0 0 0 -1 0 1 0 1-4ndis.dat
+1 16 -24 9 -10 1 0 0 0 0 -1 0 1 0 1-4ndis.dat
+1 16 -33 15 -10 -1 0 0 0 0 1 0 1 0 1-4ndis.dat
+1 16 -24 15 -10 1 0 0 0 0 1 0 1 0 1-4ndis.dat
+0 Right light corners
+1 16 24 9 -10 -1 0 0 0 0 -1 0 1 0 1-4ndis.dat
+1 16 33 9 -10 1 0 0 0 0 -1 0 1 0 1-4ndis.dat
+1 16 24 15 -10 -1 0 0 0 0 1 0 1 0 1-4ndis.dat
+1 16 33 15 -10 1 0 0 0 0 1 0 1 0 1-4ndis.dat
+0 Line corners inside
+1 16 34 8 -10 2 0 0 0 0 -2 0 1 0 1-4disc.dat
+1 16 -34 8 -10 -2 0 0 0 0 -2 0 1 0 1-4disc.dat
+1 16 34 16 -10 2 0 0 0 0 2 0 1 0 1-4disc.dat
+1 16 -34 16 -10 -2 0 0 0 0 2 0 1 0 1-4disc.dat
+0 Line corners outside
+1 16 34 8 -10 3 0 0 0 0 -3 0 1 0 1-4ndis.dat
+1 16 -34 8 -10 -3 0 0 0 0 -3 0 1 0 1-4ndis.dat
+1 16 34 16 -10 3 0 0 0 0 3 0 1 0 1-4ndis.dat
+1 16 -34 16 -10 -3 0 0 0 0 3 0 1 0 1-4ndis.dat
+
+0 Outside
+4 16 -40 5 -10 40 5 -10 40 0 -10 -40 0 -10
+4 16 -40 24 -10 40 24 -10 40 19 -10 -40 19 -10
+4 16 -37 5 -10 -40 5 -10 -40 19 -10 -37 19 -10
+4 16 37 19 -10 40 19 -10 40 5 -10 37 5 -10
+0 Inside
+4 16 -34 8 -10 34 8 -10 34 6 -10 -34 6 -10
+4 16 -34 18 -10 34 18 -10 34 16 -10 -34 16 -10
+4 16 -21 13 -10 21 13 -10 21 11 -10 -21 11 -10
+4 16 -21 8 -10 -23 8 -10 -23 16 -10 -21 16 -10
+4 16 21 16 -10 23 16 -10 23 8 -10 21 8 -10
+4 16 34 8 -10 34 16 -10 36 16 -10 36 8 -10
+4 16 -36 8 -10 -36 16 -10 -34 16 -10 -34 8 -10
+0

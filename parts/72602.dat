@@ -1,0 +1,17 @@
+0 Sticker Mirror Round
+0 Name: 72602.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2010-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP For part 2038
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS Belville
+
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
+1 383 0 0 0 32 0 0 0 -0.25 0 0 0 32 48\4-4cyli.dat
+1 383 0 -0.25 0 32 0 0 0 1 0 0 0 32 48\4-4disc.dat
+1 383 0 0 0 32 0 0 0 -1 0 0 0 32 48\4-4disc.dat
+0 //

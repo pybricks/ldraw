@@ -1,7 +1,7 @@
 0 Plate  1 x  1 Round
 0 Name: 6141.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part Alias UPDATE 2005-01
+0 !LDRAW_ORG Part Alias UPDATE 2010-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,7 +9,10 @@
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-10-26 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2010-06-13 [cwdee] Insert missing line-break
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 0 // Alias of 4073
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 4073.dat
 0

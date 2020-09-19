@@ -1,12 +1,11 @@
 0 Dish  2 x  2 Inverted
 0 Name: 4740.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2004-03
+0 !LDRAW_ORG Part UPDATE 2010-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Round
-0 !KEYWORDS Space, Radar, Dish
+0 !KEYWORDS Space, Radar Dish, Round
 
 0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
 0 !HISTORY 2003-06-08 [jriley] BFC compliant, cone & ring substitutions
@@ -14,6 +13,8 @@
 0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
 0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2010-05-09 [cwdee] Remove CATEGORY Round
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -24,7 +25,7 @@
 0 BFC INVERTNEXT
 1 16 0 0 0 4 0 0 0 4 0 0 0 4 4-4cyli.dat
 1 16 0 4 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
-1 16 0 4 0 2 0 0 0 -1 0 0 0 2 ring2.dat
+1 16 0 4 0 2 0 0 0 -1 0 0 0 2 4-4ring2.dat
 1 16 0 1.7143 0 6 0 0 0 -1.7143 0 0 0 6 4-4con1.dat
 1 16 0 2.8571 0 4 0 0 0 -1.1429 0 0 0 4 4-4con3.dat
 1 16 0 4 0 4 0 0 0 -1.1429 0 0 0 4 4-4con4.dat

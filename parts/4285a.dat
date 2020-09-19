@@ -1,12 +1,11 @@
 0 Dish  6 x  6 Inverted Webbed Type 1
 0 Name: 4285a.dat
 0 Author: Tore Eriksson [simlego]
-0 !LDRAW_ORG Part UPDATE 2004-04
+0 !LDRAW_ORG Part UPDATE 2010-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Round
-0 !KEYWORDS Space Radar Dish, Town
+0 !KEYWORDS Space, Radar Dish, Town, Round
 
 0 !HISTORY 2002-07-15 [sbliss] Fix bad cylinder ref, serious L3P warnings.
 0 !HISTORY 2002-07-30 [sbliss] Added missing quads, conditional lines, fixed ghost edges.
@@ -17,6 +16,8 @@
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2010-05-09 [cwdee] Remove CATEGORY Round
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4285s01.dat
 1 16 0 0 0 0.707 0 -0.707 0 1 0 0.707 0 0.707 s\4285s01.dat
@@ -34,9 +35,9 @@
 1 16 -10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
-1 16 0 0 0 6 0 0 0 1 0 0 0 6 ring1.dat
-1 16 0 0 0 6 0 0 0 1 0 0 0 6 ring2.dat
-1 16 0 0 0 6 0 0 0 1 0 0 0 6 ring3.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4ring1.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4ring2.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4ring3.dat
 0 BFC INVERTNEXT
 1 16 0 0 0 6 0 0 0 4 0 0 0 6 4-4cyli.dat
 1 16 0 2 0 24 0 0 0 6 0 0 0 24 4-4cyli.dat
@@ -44,8 +45,8 @@
 1 16 0 4 0 21 0 0 0 4 0 0 0 21 4-4cyli.dat
 1 16 0 8 0 21 0 0 0 1 0 0 0 21 4-4edge.dat
 1 16 0 4 0 21 0 0 0 1 0 0 0 21 4-4edge.dat
-1 16 0 4 0 6 0 0 0 -1 0 0 0 6 ring1.dat
-1 16 0 4 0 6 0 0 0 -1 0 0 0 6 ring2.dat
+1 16 0 4 0 6 0 0 0 -1 0 0 0 6 4-4ring1.dat
+1 16 0 4 0 6 0 0 0 -1 0 0 0 6 4-4ring2.dat
 1 16 0 4 0 3 0 0 0 -1 0 0 0 3 4-4ring6.dat
-1 16 0 8 0 3 0 0 0 -1 0 0 0 3 ring7.dat
+1 16 0 8 0 3 0 0 0 -1 0 0 0 3 4-4ring7.dat
 0

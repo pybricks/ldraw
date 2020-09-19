@@ -1,7 +1,7 @@
-0 Bike  3 Wheel Motorcycle with Rider (Shortcut)
+0 Bike  3 Wheel Motorcycle with Rider (Complete)
 0 Name: 30187c03.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Shortcut UPDATE 2002-04
+0 !LDRAW_ORG Shortcut UPDATE 2010-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -14,7 +14,9 @@
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
 0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [PTadmin] Updated for minifig part renames (2003-01-05)
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 30187c01.dat
-1 16 0 0 -38 1 0 0 0 1 0 0 0 1 30187c02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 30187C01.DAT
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 30187C02.DAT
 0
