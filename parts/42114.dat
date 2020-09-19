@@ -1,7 +1,7 @@
-0 Minifig Tool Light Sabre Hilt with Bend
+0 Minifig Tool Lightsaber Hilt with Bend
 0 Name: 42114.dat
 0 Author: Tim Gould [timgould]
-0 !LDRAW_ORG Part UPDATE 2016-01
+0 !LDRAW_ORG Part UPDATE 2018-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !HELP Top stud / handle angle: 21.3°
@@ -14,6 +14,8 @@
 
 0 !HISTORY 2016-11-16 [Philo] Rebuilt to match LDD geometry
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+0 !HISTORY 2017-12-31 [cwdee] Correct lightsaber spelling
+0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 0 0 0 7.5 0 0 0 2.5 0 0 0 7.5 4-4cylc.dat

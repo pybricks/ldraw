@@ -1,0 +1,240 @@
+LDraw.org Parts Update 2018-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Tue Jan 30 19:39:45 2018 by the Parts Tracker.
+
+Release statistics:
+   Total files: 405
+   New files: 267
+   New parts: 171
+   New subparts: 74
+   New primitives: 7
+   New lo-res primitives: 2
+   New hi-res primitives: 13
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   251C01.DAT                 ~Moved to 4508c01
+   2793C01.DAT                ~Moved to 2793c01-f1
+   2793C02.DAT                ~Moved to 2793c01-f2
+   2797C01.DAT                ~Moved to 2797c01-f1
+   2797C02.DAT                ~Moved to 2797c01-f2
+   2850.DAT                   ~Moved to 2850a
+   2943.DAT                   ~Moved to 2943a
+   2947.DAT                   ~Moved to 2947a
+   3067P10.DAT                ~Moved to 3067ap10
+   3067P11.DAT                ~Moved to 3067ap11
+   3067P12.DAT                ~Moved to 3067ap12
+   3067PT1.DAT                ~Moved to 3067apt1
+   3067PT2.DAT                ~Moved to 3067apt2
+   33009C01.DAT               ~Moved to 33009-f2
+   4088.DAT                   ~Moved to 4088b
+   466A.DAT                   ~Moved to 33009k01
+   466B.DAT                   ~Moved to 33009k02
+   466C.DAT                   ~Moved to 33009k03
+   466D.DAT                   ~Moved to 33009k04
+   466E.DAT                   ~Moved to 33009k05
+   4672.DAT                   ~Moved to 4672a
+   47222.DAT                  ~Moved to 47222a
+   47223A.DAT                 ~Moved to 47223a-f1
+   47223B.DAT                 ~Moved to 47223a-f2
+   47223C.DAT                 ~Moved to 47223a-f3
+   47224C01.DAT               ~Moved to 47224c01-f1
+   47224C02.DAT               ~Moved to 47224c01-f2
+   4844.DAT                   ~Moved to 4844b
+   691.DAT                    ~Moved to 3996
+   692.DAT                    ~Moved to 3995
+   466AS01.DAT                ~Moved to s\33009s01
+   466BS01.DAT                ~Moved to s\33009s02
+   466CS01.DAT                ~Moved to s\33009s03
+
+Renamed Parts
+   14417.DAT                  Plate  1 x  2 with Ball Joint-8
+   changed to    Plate  1 x  2 with Ball Joint-8 on Side
+
+   2573.DAT                   Wheel Hard-Plastic Giant
+   changed to    Wheel 48 x 76 with Tread on Sidewall
+
+   2796.DAT                   ~Technic Pneumatic Cylinder 2 x 2 Piston Rod 4L Cylindrical
+   changed to    ~Technic Pneumatic Cylinder  2 x  2 Piston Rod 4L Cylindrical
+
+   2799.DAT                   ~Technic Pneumatic Cylinder 2 x 2 Piston with Large Knob Handle
+   changed to    ~Technic Pneumatic Cylinder  2 x  2 Piston with Large Knob Handle
+
+   30027A.DAT                 Wheel Rim  8 x  8 Round Hole for Wheel Holding Pin 
+   changed to    Wheel Rim  8 x  8 Round Hole, for Wheel Holding Pin
+
+   30027B.DAT                 Wheel Rim  8 x  8 Notched Hole for Wheel Holding Pin
+   changed to    Wheel Rim  8 x  8 Notched Hole, Two Slots, for Wheel Holding Pin
+
+   3005PV6.DAT                Brick  1 x  1 with Lightblue "6" Pattern
+   changed to    Brick  1 x  1 with Blue Bold "6" Pattern
+
+   3005PV7.DAT                Brick  1 x  1 with Lightblue "7" Pattern
+   changed to    Brick  1 x  1 with Blue Bold "7" Pattern
+
+   3009PT1.DAT                Brick  1 x  6 with "Shell" Pattern
+   changed to    Brick  1 x  6 with Red "Shell" Pattern
+
+   30299.DAT                  Cockpit 10 x 14 x  2 & 2/3
+   changed to    Cockpit 10 x 14 x  2.667
+
+   30374.DAT                  Bar  4L Light Sabre Blade
+   changed to    Bar  4L Lightsaber Blade
+
+   30378PS1.DAT               Minifig Mechanical Head with Orange Insignia Pattern
+   changed to    Minifig Mechanical Head SW Battle Droid with Orange Insignia Pattern
+
+   30378PS2.DAT               Minifig Mechanical Head with Dark Red Insignia Pattern
+   changed to    Minifig Mechanical Head SW Battle Droid with Dark Red Insignia Pattern
+
+   30378PS3.DAT               Minifig Mechanical Head with Yellow Insignia Pattern
+   changed to    Minifig Mechanical Head SW Battle Droid with Yellow Insignia Pattern
+
+   3039P70.DAT                Slope Brick 45  2 x  2 with Buttons and "1500" Pattern
+   changed to    Slope Brick 45  2 x  2 with Buttons and "15.00" Pattern
+
+   3403.DAT                   ~Turntable  4 x  4 Base
+   changed to    Turntable  4 x  4 Base
+
+   3404.DAT                   ~Turntable  4 x  4 Top
+   changed to    Turntable  4 x  4 Top
+
+   3462.DAT                   Plate  2 x  3 with Helicopter Rotor Holder
+   changed to    Plate  2 x  3 with Rotor Holder
+
+   3612.DAT                   Arm Piece Straight with 2 and 3 Fingers
+   changed to    Arm Piece with 2 and 3 Fingers Aligned
+
+   3846P46.DAT                Minifig Shield Triangular with Black Falcon Yellow Bdr Pattern
+   changed to    Minifig Shield Triangular with Black Falcon Yellow Border Pattern
+
+   3846P47.DAT                Minifig Shield Triangular with Red and Gray Pattern, Blue Frame
+   changed to    Minifig Shield Triangular with Red in Blue Frame Pattern
+
+   4082.DAT                   Container Box  6 x  8 x  1 & 1/3
+   changed to    Container Box  6 x  8 x  1.333
+
+   412.DAT                    Arm Piece Turned with 2 and 3 Fingers
+   changed to    Arm Piece with 2 and 3 Fingers Rotated
+
+   42114.DAT                  Minifig Tool Light Sabre Hilt with Bend
+   changed to    Minifig Tool Lightsaber Hilt with Bend
+
+   4542422B.DAT               Sticker Roadsign Triangle with Traffic Light
+   changed to    Sticker Roadsign Triangular with Traffic Light
+
+   6213P02.DAT                Brick  2 x  6 x  3 with Green Yellow and Blue Dots Pattern
+   changed to    Brick  2 x  6 x  3 with Green, Yellow and Blue Dots Pattern
+
+   70961.DAT                  Technic Bumper  2 x  4 Rubber 
+   changed to    Technic Bumper  2 x  4 Rubber
+
+   772P01.DAT                 Brick  1 x  2 x  2 without Centre Studs with Window Pattern
+   changed to    Brick  1 x  2 x  2 without Centre Studs with White Window Pattern
+
+   93595.DAT                  Wheel Rim  6.4 x 11 with 8 Y-Shaped Spokes
+   changed to    Wheel Rim  6.4 x 11 with  8 Y-Shaped Spokes
+
+   95330P01.DAT               Minifig Axe With Red Head and Silver Blade Pattern
+   changed to    Minifig Axe with Red Head and Silver Blade Pattern
+
+   967.DAT                    Plate  4 x  8 with Helicopter Rotor Holder (needs work)
+   changed to    Plate  4 x  8 with Trailer Kingpin
+
+   973P21.DAT                 Minifig Torso with Five Button Fire Fighter Pattern
+   changed to    Minifig Torso with Fire Fighter Five Button Pattern
+
+   973PA5.DAT                 Minifig Torso with Bomber Jacket, Belt, & Black Shirt Pattern 
+   changed to    Minifig Torso with Bomber Jacket, Belt, Black Shirt Pattern 
+
+   973PS4.DAT                 Minifig Torso with SW Shirt (Open Collar, No Vest) Pattern
+   changed to    Minifig Torso with SW Shirt Open Collar No Vest Pattern
+
+   2573-12.DAT                ~Space Wheel Giant  1/12 Segment
+   changed to    ~Wheel 48 x 76 with Tread on Sidewall - 1/12 Segment
+
+   93595S01.DAT               ~Wheel Rim  6.4 x 11 with 8 Y-Shaped Spokes - 1/2 Spoke
+   changed to    ~Wheel Rim  6.4 x 11 with  8 Y-Shaped Spokes -  1/2 Spoke - Back Side
+
+   U9007P01.DAT               Roadsign with Round Base with Cross Intersection Pattern
+   changed to    Roadsign Triangular with Round Base with Cross Intersection Pattern
+
+   U9007P02.DAT               Roadsign Traingular with Round Base with Pedestrians Pattern
+   changed to    Roadsign Triangular with Round Base with Pedestrians Pattern
+
+   U9332.DAT                  Minifig Arm Curved with Hand
+   changed to    Minifig Arm Short Curved with Hand
+
+Other Fixed Parts
+   BEAMHOL2.DAT               Technic Beam Hole 0.5 with Adjacent Hole Negative
+   22484.DAT                  Bar  2L with Ball Joint-8
+   22890.DAT                  Plate  1 x  2 with Ball Joint-8 on End
+   2650.DAT                   Hinge Hook Base
+   2696.DAT                   Tyre 12.7/ 51 x 30
+   2984.DAT                   Electric Technic Micromotor Top
+   2985.DAT                   Electric Technic Micromotor Base
+   3009P02.DAT                Brick  1 x  6 with White "TRANSPORT" Pattern
+   30231.DAT                  Wing Insectoid Small with Arm Hinge
+   3039PC3.DAT                Slope Brick 45  2 x  2 with Horizon Indicator Screen Pattern
+   3039PC5.DAT                Slope Brick 45  2 x  2 with Flight Control Pattern
+   3070BP00.DAT               Tile  1 x  1 with Top White Square Pattern
+   3297P03.DAT                Slope Brick 33  3 x  4 with White Stripes Pattern
+   3403C01.DAT                Turntable  4 x  4 (Complete)
+   3626BP3N.DAT               Minifig Head with Sideburns and Droopy Moustache Black Pattern
+   3626BP3Q.DAT               Minifig Head with Sideburns and Droopy Moustache Brown Pattern
+   3626BP80.DAT               Minifig Head with Orange Beard and White Smile Pattern
+   3626BPA1.DAT               Minifig Head with Glasses and White Muttonchops Pattern
+   3626BPA2.DAT               Minifig Head with Adventurers Mummy Pattern
+   3626BPA6.DAT               Minifig Head with Brown Hair, Eyelashes, and Lipstick Pattern
+   3691.DAT                   Technic Holder Block  4 x  4 x  3
+   3821P01.DAT                Door  1 x  3 x  1 Right with Safari Stripes Pattern
+   3821P03.DAT                Door  1 x  3 x  1 Right with Yellow/Red Stripe Pattern
+   3822P01.DAT                Door  1 x  3 x  1 Left with Safari Stripes Pattern
+   3822P03.DAT                Door  1 x  3 x  1 Left with Yellow/Red Stripe Pattern
+   3846P43.DAT                ~Minifig Shield Triangular with Black Falcon Pattern (Obsolete)
+   3846P45.DAT                Minifig Shield Triangular with Black Falcon Blue Border Pattern
+   3846P48.DAT                Minifig Shield Triangular with Forestman Pattern
+   3846P4C.DAT                Minifig Shield Triangular with Blue Dragon Pattern
+   4180C02.DAT                Brick  2 x  4 Black with Train Wheels Small (Complete)
+   4196.DAT                   Duplo Plate  6 x 12
+   4198.DAT                   Duplo Brick  2 x  4 x  2 with Rounded Ends
+   4346PS1.DAT                Container Box  2 x  2 x  2 Door with Slot and SW Rebel Pattern
+   4474P61.DAT                Windscreen  6 x  4 x  2 Canopy with Ice Planet Logo Pattern
+   4586822A.DAT               Sticker  0.8 x  0.8 Round with Black and White Eye
+   4616559M.DAT               Sticker  0.8 x  1.8 with "ML 1928"
+   4616559N.DAT               Sticker  0.8 x  1.8 with "APM 1904"
+   4755.DAT                   Electric Plate  1 x  2 with Contacts
+   4757.DAT                   Electric Plate  2 x  4 with Contacts
+   4758.DAT                   Electric Plate  2 x  8 with Contacts
+   50745.DAT                  Car Mudguard  4 x  2.5 x  2
+   57518.DAT                  Technic Chain Tread 38
+   6154.DAT                   Window  1 x  4 x  4
+   6213.DAT                   Brick  2 x  6 x  3
+   71184.DAT                  Bar  4.5L Straight
+   973P12.DAT                 Minifig Torso with Riding Jacket Pattern
+   973P14.DAT                 Minifig Torso with "S" Logo Red / Black Pattern
+   973P1N.DAT                 Minifig Torso with Racing Jacket and Two Stars Red Pattern
+   973P29.DAT                 Minifig Torso with Air Gauge and Pocket Pattern 
+   973P38.DAT                 Minifig Torso with Female Pirate Pattern
+   973P46.DAT                 Minifig Torso with Forestman and Purse Pattern
+   973P4B.DAT                 Minifig Torso with Dragon Head Pattern
+   973P51.DAT                 Minifig Torso with Blacktron II Pattern
+   973P69.DAT                 Minifig Torso with Space Police II and Radio Pattern
+   973P70.DAT                 Minifig Torso with Bomber Jacket & Black Shirt Pattern
+   973P7A.DAT                 Minifig Torso with Arctic Parka A1 Pattern
+   973PA1.DAT                 Minifig Torso with Suspenders and Red Bowtie Pattern
+   973PA9.DAT                 Minifig Torso with Leather Jacket and Light Gray Shirt Pattern
+   973PAC.DAT                 Minifig Torso with Mayan Necklace, Tribal Shirt & Navel Pattern
+   973PAJ.DAT                 Minifig Torso with Rock Raiders Jet Pattern
+   973PN0.DAT                 Minifig Torso with Samurai Dragon Robe Pattern
+   973PN1.DAT                 Minifig Torso with Samurai Robe, Sash and Dagger Pattern
+   98138PM5.DAT               Tile  1 x  1 Round with Octagon (Arkenstone) Pattern
+   3626B37A.DAT               ~Minifig Head with Sideburns & Droopy Moustache - Facial Hair
+   3626B37B.DAT               ~Minifig Head with Sideburns & Droopy Moustache - Except Hair
+   3947A.DAT                  ~Baseplate 32 x 32 Craters - Optional Lines

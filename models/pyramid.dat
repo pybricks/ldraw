@@ -1,22 +1,12 @@
-0 Pyramid
+0 ~Moved to pyramid.ldr
 0 Name: pyramid.dat
-0 Author: James Jessiman
+0 Author: [PTadmin]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
- 1 1 -40 -24 60 1 0 0 0 1 0 0 0 1 3001.dat
- 1 1 40 -24 60 1 0 0 0 1 0 0 0 1 3001.dat
- 1 1 60 -24 0 0 0 1 0 1 0 -1 0 0 3001.dat
- 1 1 40 -24 -60 1 0 0 0 1 0 0 0 1 3001.dat
- 1 1 -40 -24 -60 1 0 0 0 1 0 0 0 1 3001.dat
- 1 1 -60 -24 0 0 0 1 0 1 0 -1 0 0 3001.dat
-0 STEP
- 1 4 -20 -48 40 1 0 0 0 1 0 0 0 1 3001.dat
- 1 4 40 -48 20 0 0 1 0 1 0 -1 0 0 3001.dat
- 1 4 20 -48 -40 1 0 0 0 1 0 0 0 1 3001.dat
- 1 4 -40 -48 -20 0 0 1 0 1 0 -1 0 0 3001.dat
-0 STEP
- 1 14 0 -72 20 1 0 0 0 1 0 0 0 1 3001.dat
- 1 14 0 -72 -20 1 0 0 0 1 0 0 0 1 3001.dat
-0 STEP
- 1 0 0 -96 0 1 0 0 0 1 0 0 0 1 3003.dat
-0 STEP
-0
+0 BFC CERTIFY CCW
+
+0 // This file is just a redirection file.
+0 // It expresses that the previous official file pyramid.dat nowadays has been moved to pyramid.ldr
+0 // Please only refer to that file, not this one. This one is obsolete.
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 pyramid.ldr

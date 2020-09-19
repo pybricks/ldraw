@@ -1,7 +1,7 @@
-0 ~Technic Pneumatic Cylinder 2 x 2 Piston with Large Knob Handle
+0 ~Technic Pneumatic Cylinder  2 x  2 Piston with Large Knob Handle
 0 Name: 2799.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2010-01
+0 !LDRAW_ORG Part UPDATE 2018-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,21 +9,27 @@
 0 !HISTORY 2006-08-12 [guyvivan] Made BFC'ed and use more primitives
 0 !HISTORY 2009-12-22 [Philo] Changed origin
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+0 !HISTORY 2017-06-27 [Philo] Added gasket attachment
+0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 
 0 // Created with stl2dat conversion tool
 
-1 16 0 12 0 1.333 0 0 0 84 0 0 0 1.333 axlehol8.dat
+1 16 0 12 0 1.333 0 0 0 92 0 0 0 1.333 axlehol8.dat
 1 16 0 12 0 1.333 0 0 0 1 0 0 0 1.333 axlehol2.dat
 1 16 0 12 0 1.333 0 0 0 1 0 0 0 1.333 axlehol9.dat
-1 16 0 96 0 1.333 0 0 0 1 0 0 0 1.333 axlehol2.dat
-1 16 0 96 0 1.333 0 0 0 1 0 0 0 1.333 axlehol9.dat
+1 16 0 104 0 1.333 0 0 0 1 0 0 0 1.333 axlehol2.dat
+1 16 0 104 0 1.333 0 0 0 1 0 0 0 1.333 axlehol9.dat
 1 16 0 12 0 1.333 0 0 0 -1 0 0 0 1.333 axleho10.dat
 1 16 0 -12 0 -15.2 0 0 0 1 0 0 0 15.2 4-4edge.dat
-1 16 0 96 0 -15 0 0 0 2 0 0 0 -15 4-4cyli.dat
-1 16 0 96 0 -15 0 0 0 1 0 0 0 -15 4-4edge.dat
-1 16 0 98 0 -15 0 0 0 1 0 0 0 -15 4-4edge.dat
-1 16 0 98 0 -15 0 0 0 -1 0 0 0 -15 4-4disc.dat
-1 16 0 96 0 -15 0 0 0 1 0 0 0 -15 4-4disc.dat
+1 16 0 104 0 9 0 0 0 1 0 0 0 9 4-4edge.dat
+1 16 0 104 0 3 0 0 0 4 0 0 0 3 4-4con2.dat
+1 16 0 112 0 6 0 0 0 -4 0 0 0 6 4-4cylc.dat
+1 16 0 118 0 3 0 0 0 -6 0 0 0 3 4-4cylo.dat
+1 16 0 118 0 4 0 0 0 1 0 0 0 4 4-4cyli.dat
+1 16 0 118 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 0 118 0 4 0 0 0 1 0 0 0 4 4-4disc.dat
+1 16 0 119 0 4 0 0 0 2 0 0 0 4 4-8sphe.dat
+1 16 0 104 0 9 0 0 0 1 0 0 0 9 4-4disc.dat
 1 16 0 12 0 -8 0 0 0 -1 0 0 0 -8 4-4ring1.dat
 1 16 0 12 0 -1.8478 0 0.7654 0 -1 0 -0.7654 0 -1.8478 3-8ring8.dat
 1 16 0 12 0 -0.9239 0 0.3827 0 -1 0 -0.3827 0 -0.9239 3-8rin18.dat

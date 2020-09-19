@@ -1,7 +1,7 @@
 0 Sticker  0.8 x  1.8 with "APM 1904"
 0 Name: 4616559n.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2012-01
+0 !LDRAW_ORG Part UPDATE 2018-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,12 +9,14 @@
 0 !KEYWORDS Set 10219
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+0 !HISTORY 2017-07-03 [cwdee] Use cylinder primitives with conditional lines
+0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 
 4 16 16.5 0 6.5 16.5 0 -6.5 -16.5 0 -6.5 -16.5 0 6.5
-1 16 16.5 0 6.5 1.5 0 0 0 -0.25 0 0 0 1.5 1-4cylc2.dat
-1 16 16.5 0 -6.5 0 0 1.5 0 -0.25 0 -1.5 0 0 1-4cylc2.dat
-1 16 -16.5 0 -6.5 -1.5 0 0 0 -0.25 0 0 0 -1.5 1-4cylc2.dat
-1 16 -16.5 0 6.5 0 0 -1.5 0 -0.25 0 1.5 0 0 1-4cylc2.dat
+1 16 16.5 0 6.5 1.5 0 0 0 -0.25 0 0 0 1.5 1-4cylc3.dat
+1 16 16.5 0 -6.5 0 0 1.5 0 -0.25 0 -1.5 0 0 1-4cylc3.dat
+1 16 -16.5 0 -6.5 -1.5 0 0 0 -0.25 0 0 0 -1.5 1-4cylc3.dat
+1 16 -16.5 0 6.5 0 0 -1.5 0 -0.25 0 1.5 0 0 1-4cylc3.dat
 4 16 -16.5 -0.25 8 16.5 -0.25 8 16.5 0 8 -16.5 0 8
 4 16 -18 -0.25 -6.5 -18 -0.25 6.5 -18 0 6.5 -18 0 -6.5
 4 16 16.5 -0.25 -8 -16.5 -0.25 -8 -16.5 0 -8 16.5 0 -8

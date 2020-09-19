@@ -1,7 +1,7 @@
-0 Minifig Mechanical Head with Dark Red Insignia Pattern
+0 Minifig Mechanical Head SW Battle Droid with Dark Red Insignia Pattern
 0 Name: 30378ps2.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LDRAW_ORG Part UPDATE 2018-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -17,6 +17,8 @@
 0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-09-30 [MagFors] BFC'd, moved uncoloured surface to subfile
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+0 !HISTORY 2018-01-08 [cwdee]   Update description
+0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30378s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30378s02.dat
