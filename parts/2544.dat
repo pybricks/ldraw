@@ -1,16 +1,18 @@
 0 Minifig Hat Tricorne
 0 Name: 2544.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Part UPDATE 2002-04
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Headwear
 0 !KEYWORDS Pirates, pirate, cap, tricorn, tricorner, tri-corner, three corner
 0 !KEYWORDS merchant, colonial, soldier, officer, gentleman, plume, feather
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
 0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2012-12-24 [cwdee] Update category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
  1 16 0 -4 0 6 0 0 0 1 0 0 0 6 4-4disc.dat
  1 16 0 -4 0 6 0 0 0 4 0 0 0 6 4-4cyli.dat
@@ -18,7 +20,7 @@
  1 16 0 -4 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
  1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 0
- 1 16 0 0 0 6 0 0 0 4 0 0 0 6 ring1.dat
+ 1 16 0 0 0 6 0 0 0 4 0 0 0 6 4-4ring1.dat
 0
  4 16 -12.000 0 0.000 -12.888 0 -1.697 -12.557 0 -3.364 -11.087 0 -4.592
  4 16 12.000 0 0.000 12.888 0 -1.697 12.557 0 -3.364 11.087 0 -4.592
@@ -1162,7 +1164,7 @@
 0
 0 peghole
 0
- 1 16 0 -10 -12 2 0 0 0 1 0 0 0 2 ring1.dat
+ 1 16 0 -10 -12 2 0 0 0 1 0 0 0 2 4-4ring1.dat
  1 16 0 -10 -12 4 0 0 0 1 0 0 0 4 4-4cyli.dat
  1 16 0 -9 -12 4 0 0 0 4 0 0 0 -4 2-4cyli.dat
 0

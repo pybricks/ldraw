@@ -1,17 +1,19 @@
 0 Minifig Lifevest
 0 Name: 2610.dat
 0 Author: Imre Papp [ampi]
-0 !LDRAW_ORG Part UPDATE 2002-02
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC NOCERTIFY
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Neckwear
 0 !KEYWORDS Adventurers, Divers, Town, Paradisa, lifejacket, lifesaver
 0 !KEYWORDS mae west
 
 0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
 0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2012-12-24 [cwdee] Update category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 0 // Man 2
 

@@ -1,0 +1,359 @@
+LDraw.org Parts Update 2012-03
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Fri Dec 28 11:51:49 2012 by the Parts Tracker.
+
+Release statistics:
+   Total files: 829
+   New files: 564
+   New parts: 354
+   New subparts: 154
+   New primitives: 31
+   New hi-res primitives: 25
+
+New 3-digit part numbers assigned:
+   182.dat ~Boat Section Middle 6 x 12 x 3.333 Hull
+   183.dat ~Boat Section Middle 6 x 12 x 3.333 Deck
+   556.dat Fabuland Shovel
+   586.dat ~Winch  4 x  4 x  2 Base
+
+Moved Parts
+   168135C.DAT                ~Moved to 168315c
+   168135D.DAT                ~Moved to 168315d
+   168135E.DAT                ~Moved to 168315e
+   168135F.DAT                ~Moved to 168315f
+   168135G.DAT                ~Moved to 168315g
+   200.DAT                    ~Moved to u9068
+   30361.DAT                  ~Moved to 30361a
+   30361PS1.DAT               ~Moved to 30361aps1
+   30361PS2.DAT               ~Moved to 30361aps2
+   30361PS4.DAT               ~Moved to 30361aps4
+   30367.DAT                  ~Moved to 30367a
+   353.DAT                    ~Moved to 4268
+   3648.DAT                   ~Moved to 3648b
+   4599.DAT                   ~Moved to 4599a
+   4767.DAT                   ~Moved to 73666
+   4771.DAT                   ~Moved to 73664
+   553PS1.DAT                 ~Moved to 30367aps1
+   553PS2.DAT                 ~Moved to 30367aps2
+   60C01.DAT                  ~Moved to 76019
+   61.DAT                     ~Moved to 32053
+   6160B.DAT                  ~Moved to 6202
+   2739BS01.DAT               ~Moved to 32005s01
+   30361S01.DAT               ~Moved to 30361as01
+   U9161.DAT                  ~Moved to 4363
+   U9162.DAT                  ~Moved to 70081
+
+Renamed Parts
+   TRI3.DAT                   Triangle 3
+   changed to    Triangular Prism with 2 Square Faces and 1 Rectangular Face
+
+   2440P68.DAT                Hinge  6 x  3 Radar/Blade/Spoiler/Panel w/ Green Radar Pattern
+   changed to    ~Hinge  6 x  3 Radar Panel with Green Pattern (Obsolete)
+
+   2544C01.DAT                Minifig Hat Tricorne with Plume (Shortcut)
+   changed to    Minifig Hat Tricorne with Plume (Complete)
+
+   2599.DAT                   Minifig Flipper (needs work)
+   changed to    Minifig Flipper (Needs Work)
+
+   273.DAT                    Technic Chain Link with Two Studs 
+   changed to    Technic Chain Link with Two Studs
+
+   2959.DAT                   Magnet Cylindrical Casing
+   changed to    ~Magnet Cylindrical Casing
+
+   30114C01.DAT               Minifig Hair Long with Headband and Feathers (Shortcut)
+   changed to    Minifig Hair Long with Headband and Feathers (Complete)
+
+   30384.DAT                  Windscreen  4 x  7 x  2 Round
+   changed to    Windscreen  4 x  7 x  2 Round Pointed
+
+   3067P01.DAT                Brick  1 x  6 without Centre Studs with 'Hotel' Pattern
+   changed to    ~Brick  1 x  6 w/o Centre Studs w/ Thin "HOTEL" Patt. (Obsolete)
+
+   3739.DAT                   Wheel Technic 24 x 43
+   changed to    Wheel 24 x 43 Technic
+
+   3846P43.DAT                Minifig Shield Triangular with Black Falcon Pattern
+   changed to    ~Minifig Shield Triangular with Black Falcon Pattern (Obsolete)
+
+   42445.DAT                  Bar 12L with Plate  1 x  2 and Hollow Stud
+   changed to    Bar 12L with Plate  1 x  2 with Solid Studs and Hollow Stud
+
+   4346P01.DAT                Container Box  2 x  2 x  2 Door with Slot and Fire Logo Pattern
+   changed to    Container Box  2 x  2 x  2 Door with Fire Logo Red/Orange/Yellow
+
+   4600.DAT                   Plate  2 x  2 with Wheel Holder
+   changed to    Plate  2 x  2 with Wheel Holders
+
+   4737.DAT                   Space Window  4 x  4 x  6 Outward Sloping Corner
+   changed to    Panel  4 x  4 x  6 Outward Sloping Corner
+
+   4770.DAT                   Electric Light & Sound Colored Globe
+   changed to    Electric Light & Sound Coloured Globe
+
+   497A.DAT                   ~Wheel Old with 4 Studs
+   changed to    ~Wheel Rim  8 x 18 with 4 Studs
+
+   52036.DAT                  Car Base  4 x 12 x   2/3
+   changed to    Car Base  4 x 12 x  0.667
+
+   58148.DAT                  ~Electric Power Functions Infra-Red Receiver Bottom (Needs Work)
+   changed to    ~Electric Power Functions Infrared Receiver Bottom
+
+   6122C01.DAT                Minifig Helmet Castle w. Dragon Crown Top Black w. Dragon Plume 
+   changed to    Minifig Helmet Castle w/ Dragon Crown Top Black w/ Dragon Plume 
+
+   70023.DAT                  Magnet Cylindrical
+   changed to    ~Magnet Cylindrical
+
+   7039.DAT                   Wheel Old with  4 Studs
+   changed to    Wheel Rim  8 x 18 with 4 Studs and Cylindrical Axle
+
+   878.DAT                    Electric Touch Sensor Brick  3 x  2 Sensor Peg
+   changed to    ~Electric Touch Sensor Brick  3 x  2 Sensor Peg
+
+   973P14.DAT                 Minifig Torso with 'S' Logo Red / Black Pattern
+   changed to    Minifig Torso with "S" Logo Red / Black Pattern
+
+   973P23.DAT                 Minifig Torso with 'S' Logo Grey / Blue Pattern
+   changed to    Minifig Torso with "S" Logo Grey / Blue Pattern
+
+   973P3D.DAT                 Minifig Torso with Medallion, Belt, And Silver Buttons Pattern
+   changed to    Minifig Torso with Medallion, Belt and Silver Buttons Pattern
+
+   973P4G.DAT                 Minifig Torso with Castle Female Armor Pattern       
+   changed to    Minifig Torso with Castle Female Armour Pattern
+
+   973PS7.DAT                 Minifig Torso with SW Darth Vader Pattern
+   changed to    Minifig Torso with SW Darth Vader Grey Pattern
+
+   973PSB.DAT                 Minifig Torso with SW Blast Armor (Green Plates) Pattern
+   changed to    Minifig Torso with SW Blast Armor (Green Plates) Grey Pattern
+
+   991.DAT                    ~Car Wheel Holder  2 x  2 with Suspension - Spring
+   changed to    ~Electric RC Race Buggy Motor - Axle Bush
+
+   30367S01.DAT               ~Cylinder 2 x  2 with Dome Top Subpart
+   changed to    ~Cylinder  2 x  2 with Dome Top Subpart - Quarter
+
+   3739A.DAT                  ~Wheel Technic 24 x 43
+   changed to    ~Wheel 24 x 43 Technic - 1/12 Wheel Rim
+
+   50747S01.DAT               ~Windscreen  6 x  6 x  3 Dome Hinge Locking Half
+   changed to    ~Windscreen  6 x  6 x  3 Dome Hinge Locking Bottom Half
+
+   973P43C.DAT                ~Minifig Torso with Black Falcon Pattern - silver
+   changed to    ~Black Falcon Pattern - Border
+
+Other Fixed Parts
+   1-8SPHE.DAT                Sphere 0.125
+   TOOTHR.DAT                 Single Tooth for Technic Gear Racks
+   2335P43.DAT                Flag  2 x  2 with Black Falcon Pattern
+   2343.DAT                   Minifig Goblet
+   2446.DAT                   Minifig Helmet Modern
+   2447.DAT                   Minifig Helmet Visor
+   2484C01.DAT                Car Wheel Holder  2 x  2 with Suspension
+   2524.DAT                   Minifig Backpack Non-Opening
+   2525PS1.DAT                Flag  6 x  4 with SW Jedi Starfighter Pattern
+   2526.DAT                   Minifig Epaulette
+   2528.DAT                   Minifig Hat Bicorne
+   2528P30.DAT                Minifig Hat Bicorne with Evil Skull and Crossbones Pattern
+   2542.DAT                   Minifig Tool Oar
+   2543.DAT                   Minifig Hat Rag
+   2544.DAT                   Minifig Hat Tricorne
+   2570.DAT                   Minifig Crossbow
+   2586P30.DAT                Minifig Shield Ovoid with Indigo Islanders Pattern
+   2586P4F.DAT                Minifig Shield Ovoid with Batlord Pattern
+   2586P4G.DAT                Minifig Shield Ovoid with Bull Head Pattern
+   2587.DAT                   Minifig Armour Plate
+   2588.DAT                   Minifig Ghost Shroud
+   2599C01.DAT                Minifig Flippers on Sprue
+   2610.DAT                   Minifig Lifevest
+   2651.DAT                   Hinge Hook Arm
+   30000.DAT                  Brick  2 x  2 with Pins and Axlehole
+   30048.DAT                  Minifig Helmet Morion
+   30090.DAT                  Minifig Diver Mask
+   30091.DAT                  Minifig Scuba Tank
+   30114.DAT                  Minifig Hair Long with Headband
+   30120.DAT                  Minifig Helmet with Hexagonal Top and Hoses
+   30120P01.DAT               Minifig Helmet with Hexagonal Top and Gold Alien Pattern
+   30120P02.DAT               Minifig Helmet with Hexagonal Top and Silver Alien Pattern
+   30121.DAT                  Minifig Armour Shoulder (Needs Work)
+   30127.DAT                  Minifig Feathers with Clip
+   30127P01.DAT               Minifig Feathers with Clip and Black Tip Pattern
+   30133.DAT                  Minifig Bandana
+   30135.DAT                  Minifig Hat Kepi
+   30158.DAT                  Minifig Backpack Openable Open
+   30158A.DAT                 ~Minifig Backpack Openable Back
+   30158B.DAT                 ~Minifig Backpack Openable Front
+   30158C.DAT                 ~Minifig Backpack Openable Joint Straight
+   30158C01.DAT               Minifig Backpack Openable Closed
+   30167.DAT                  Minifig Hat Wide Brim Flat
+   30168.DAT                  Minifig Headdress Nemes Type 1
+   30170.DAT                  Minifig Cap Aviator Goggles
+   30171.DAT                  Minifig Cap Aviator
+   30175.DAT                  Minifig Helmet Samurai
+   30175C01.DAT               Minifig Helmet Samurai with Horn (Complete)
+   30222.DAT                  Minifig Food Popsicle
+   30273.DAT                  Minifig Helmet with Chinstrap and Wide Brim
+   30284.DAT                  Minifig Snowshoe
+   30368.DAT                  Minifig Helmet Darth Vader
+   30370.DAT                  Minifig Helmet Star Wars Rebel Pilot
+   30370PS2.DAT               Minifig Helmet Star Wars Rebel Pilot with Red Rebel Pattern
+   30370PS3.DAT               Minifig Helmet Star Wars Rebel Pilot with Blue Rebel Pattern
+   30381.DAT                  Minifig Hood
+   30408.DAT                  Minifig Helmet Stormtrooper
+   30408P01.DAT               Minifig Helmet Stormtrooper with Stormtrooper Pattern
+   30408P02.DAT               Minifig Helmet Stormtrooper with TIE-Fighter Pilot Pattern
+   30409.DAT                  Minifig Hair with Two Buns
+   32069.DAT                  Technic Steering Arm with Connectors
+   3624.DAT                   Minifig Police Hat
+   3625.DAT                   Minifig Hair Female with Pigtails
+   3629.DAT                   Minifig Hat Cowboy
+   3629PW1.DAT                Minifig Hat Cowboy with Cavalry Logo Pattern
+   3629PW2.DAT                Minifig Hat Cowboy with Silver Star Pattern
+   37.DAT                     Minifig Knife
+   3816PS0.DAT                Minifig Leg Right with SW White Leggings Pattern
+   3817PS0.DAT                Minifig Leg Left with SW White Leggings Pattern
+   3833.DAT                   Minifig Construction Helmet
+   3834.DAT                   Minifig Fire Helmet
+   3834P01.DAT                Minifig Fire Helmet with Fire Logo Shield Pattern
+   3838.DAT                   Minifig Airtanks
+   3840D01.DAT                Minifig Vest with Crown on Dark Pink Sticker
+   3840D02.DAT                Minifig Vest with White Maltese Cross on Red Sticker
+   3840D03.DAT                Minifig Vest with Green Chevrons on Yellow Sticker
+   3840D04.DAT                Minifig Vest with Yellow Trefoils on Blue Sticker
+   3840D05.DAT                Minifig Vest with Crown on Violet Sticker
+   3840D06.DAT                Minifig Vest with White Maltese Cross on Red/LtGrey Sticker
+   3840D07.DAT                Minifig Vest with Green Chevrons on Yellow/LtGrey Sticker
+   3840D08.DAT                Minifig Vest with Yellow Trefoils on DkBlue Sticker
+   3844.DAT                   Minifig Castle Helmet with Neck Protector
+   3846D01.DAT                Minifig Shield Triangular with Crown on Dark-Pink Sticker
+   3846D02.DAT                Minifig Shield Triangular w/ White Maltese Cross on Red Sticker
+   3846D03.DAT                Minifig Shield Triangular with Green Chevrons on Yellow Sticker
+   3846D04.DAT                Minifig Shield Triangular with Yellow Trefoils on Blue Sticker
+   3846D05.DAT                Minifig Shield Triangular with Crown on Violet Sticker
+   3846D06.DAT                Minifig Shield Triangular with Green Chevrons on Yellow/LtGray
+   3846D07.DAT                Minifig Shield Triangular w/ Yellow Trefoils on DkBlue Sticker
+   3846P47.DAT                Minifig Shield Triangular with Red and Gray Pattern, Blue Frame
+   3846P48.DAT                Minifig Shield Triangular with Forestman Pattern
+   3846P4F.DAT                Minifig Shield Triangular with Batlord Pattern
+   3846P4T.DAT                Minifig Shield Triangular with Red/Peach Quarters Pattern
+   3846P4U.DAT                Minifig Shield Triangular with Maroon/Red Quarters Pattern
+   3852.DAT                   Minifig Hairbrush
+   3878.DAT                   Minifig Top Hat
+   3896.DAT                   Minifig Castle Helmet with Chin-Guard
+   3898.DAT                   Minifig Cook's Hat
+   3900D01.DAT                Minifig Signal Holder with Green Circle on White Sticker
+   3901.DAT                   Minifig Hair Male
+   40234.DAT                  Animal Rat
+   40235.DAT                  Minifig Headdress Turban
+   40239.DAT                  Minifig Hair Long Straight
+   40251.DAT                  Minifig Hair Long Wavy
+   40378.DAT                  Animal Tail Section Middle with Pin
+   41334.DAT                  Minifig Hat Knit Cap
+   42443.DAT                  Minifig Headdress Werewolf
+   4479.DAT                   Minifig Metal Detector
+   4485.DAT                   Minifig Cap
+   4498.DAT                   Minifig Arrow Quiver
+   4499.DAT                   Minifig Bow with Arrow
+   4503.DAT                   Minifig Helmet Castle with Fixed Face Grille
+   4505A.DAT                  Minifig Hood Medieval Cowl
+   4523.DAT                   Minifig Container D-Basket
+   4524.DAT                   Minifig Cape
+   4530.DAT                   Minifig Hair Shoulder Length
+   46303.DAT                  Minifig Helmet Skateboard
+   4728.DAT                   Plant Flower  2 x  2
+   4736.DAT                   Minifig Jet-Pack with Stud On Front
+   48724.DAT                  Bracket  1 x  1 -  1 x  1 with Pin
+   4876.DAT                   Fabuland Slide
+   50747.DAT                  Windscreen  6 x  6 x  3 Dome Hinge Locking with Two Dual Fingers
+   522.DAT                    Minifig Cape Cloth
+   529.DAT                    Minifig Helmet Samurai Horn
+   53981.DAT                  Minifig Hair Spiky Short
+   53982.DAT                  Minifig Hair Spiky Long
+   55704.DAT                  Minifig Headdress Batman
+   57895.DAT                  Glass for Window  1 x  4 x  6
+   57900.DAT                  Minifig Helmet Imperial AT-ST Pilot
+   59363.DAT                  Minifig Hair Long with French Braid
+   60.DAT                     ~Technic Gear 24 Tooth Clutch Outside
+   6023.DAT                   Minifig Jet Pack with 2 Octagonal Nozzles (Needs Work)
+   6025.DAT                   Minifig Hair Islander
+   60747.DAT                  Minifig Helmet Cap with Wings
+   60749.DAT                  Minifig Beard Long with Five Braids
+   60750.DAT                  Minifig Beard Long Forked
+   6093A.DAT                  Minifig Hair Ponytail
+   6117.DAT                   Minifig Tool Chainsaw Blade
+   6119.DAT                   Minifig Helmet Visor Ice Planet (Needs Work)
+   61190B.DAT                 Minifig Armour SW Clone Trooper Pauldron
+   61190C.DAT                 Minifig Armour SW Clone Trooper Tasset
+   6120.DAT                   Minifig Ski 4L with Hinge
+   6122.DAT                   Minifig Helmet Castle with Dragon Crown Top
+   6122C02.DAT                Minifig Helmet Castle w/ Dragon Crown Top w/ Cattlehorn White
+   6123.DAT                   Minifig Polearm Halberd
+   61287.DAT                  Minifig Helmet Bubble Half
+   6131.DAT                   Minifig Wizards Hat
+   6132.DAT                   Minifig Hair Beard
+   62696.DAT                  Minifig Hair Ponytail with Long Bangs
+   769.DAT                    Minifig Helmet Visor Space
+   85945.DAT                  Minifig Helmet Alien Skull with Fangs
+   85975.DAT                  Minifig Hat Fez
+   87079.DAT                  Tile  2 x  4 with Groove
+   87685.DAT                  Minifig Plume Dragon Wing Left
+   87686.DAT                  Minifig Plume Dragon Wing Right
+   87687.DAT                  Minifig Plume Dragon
+   87692.DAT                  Minifig Plume Triple
+   87693.DAT                  Minifig Plume Small
+   87694.DAT                  Minifig Plume Large
+   87998.DAT                  Minifig Helmet Army
+   87998P01.DAT               Minifig Helmet Army with White Stencil Cross Pattern
+   88284.DAT                  Minifig Helmet Persian
+   88290.DAT                  Minifig Scabbard for Two Swords
+   90462.DAT                  Minifig Headdress Nemes Type 2
+   90462PQ0.DAT               Minifig Headdress Nemes with 2 Darkblue Snakes Pattern
+   90462PQ1.DAT               Minifig Headdress Nemes with Darkblue Stripes Pattern
+   90509.DAT                  Minifig Ski 6L
+   90514.DAT                  Minifig Ski Pole
+   92590.DAT                  Minifig Sack
+   92756.DAT                  Minifig Hair Pulled Back
+   92761.DAT                  Minifig Headdress SW Zabrak Horns
+   93248.DAT                  Minifig Headdress Anubis Guard
+   93248PQ0.DAT               Minifig Headdress Anubis Guard w. Gold Eye and Stripes Pattern
+   93249.DAT                  Minifig Headdress Horus
+   93249PQ0.DAT               Minifig Headdress Horus with Eye Pattern
+   973P35.DAT                 ~Minifig Torso with Imperial Guard Pattern, Obsolete
+   973P39.DAT                 Minifig Torso with Pirate Open Jacket over Brown Vest Pattern
+   973P3A.DAT                 Minifig Torso with Pirate Ragged Shirt and Dagger Pattern
+   973P3N.DAT                 Minifig Torso with Blue Imperial Guard Pattern
+   973P3Q.DAT                 Minifig Torso with Red Imperial Guard Pattern
+   973P3R.DAT                 Minifig Torso with Blue Imperial Guard Officer Pattern
+   973P3S.DAT                 Minifig Torso with Red Imperial Guard Officer Pattern
+   973P40.DAT                 Minifig Torso with Castle Breastplate Pattern
+   973P45.DAT                 Minifig Torso with Studded Armor Pattern
+   973P54.DAT                 Minifig Torso with UFO Alien Orange and Silver Pattern
+   973P63.DAT                 Minifig Torso with Robot Pattern
+   973P8A.DAT                 Minifig Torso with Extreme Team Jacket Logo Pattern
+   973PN5.DAT                 Minifig Torso with Ninja Wrap, Silver Shuriken & Dagger Pattern
+   973PR0.DAT                 Minifig Torso with SW Closed Shirt and Brown Belt Pattern
+   973PS0.DAT                 Minifig Torso with SW Rebel A-Wing Pilot Pattern
+   973PS3.DAT                 Minifig Torso with SW Wrap-Around Tunic Pattern
+   973PSA.DAT                 Minifig Torso with SW Rebel Mechanic Pattern
+   973PSC.DAT                 Minifig Torso with SW Pocket-Vest and Techno-Buckle Pattern
+   973PSJ.DAT                 Minifig Torso with SW Blast Armor (Silver Plates) Pattern
+   973PSN.DAT                 Minifig Torso with SW Imperial Shuttle Pilot Pattern
+   973PSQ.DAT                 Minifig Torso with SW Imperial Officer Pattern
+   2739AS01.DAT               ~Technic Steering Link Towball Socket
+   30350S01.DAT               ~Tile  2 x  3 with Horizontal Clips without Top
+   3068AS01.DAT               ~Tile  2 x  2 without Groove without Top Face
+   3492S01.DAT                ~Crane Grab Top Subpart
+   3846P43A.DAT               ~Black Falcon Pattern - Dark Side
+   3846P43B.DAT               ~Black Falcon Pattern - Light Side
+   973P35C.DAT                ~Minifig Torso with Imperial Guard Pattern - Colour
+   973P35D.DAT                ~Minifig Torso with Imperial Guard Pattern - Background
+   973P37B.DAT                ~Minifig Torso with Imperial Guard Officer Pattern - Gold
+   973P37D.DAT                ~Minifig Torso with Imperial Guard Officer Pattern - Background

@@ -1,11 +1,11 @@
 0 Minifig Epaulette
 0 Name: 2526.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Neckwear
 0 !KEYWORDS pirate, admiral, sailor, officer, braid, knots, Space Police 2, SP2
 0 !KEYWORDS Space Police II, SPII, soldier
 
@@ -16,6 +16,8 @@
 0 !HISTORY 2009-12-08 [Philo] BFCed
 0 !HISTORY 2009-12-09 [Eldar] check BFC
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2012-12-24 [cwdee] Update category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 1 16 -22.697 8 -1.53 0 -1.226 -0.305 -1 0 0 0 -0.244 1.535 1-4cyls2.dat
 1 16 -22.697 8 -1.53 0 -1.226 0.305 -1 0 0 0 -0.244 -1.535 1-4cyls2.dat

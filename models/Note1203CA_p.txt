@@ -1,0 +1,33 @@
+LDraw.org Parts Update 2012-03
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Physical Colour Parts Library
+---------------------------------------------------------------------------
+
+Notes created Fri Dec 28 11:51:50 2012 by the Parts Tracker.
+
+Release statistics:
+   Total files: 17
+   New files: 7
+   New parts: 7
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   No parts were moved.
+
+Renamed Parts
+   No parts were renamed.
+
+Other Fixed Parts
+   4142925.DAT                _Tile  8 x  8 Round with  2 x  2 Studs and Grille Pattern [7]
+   4144485.DAT                _Exhaust Pipe with Pin [383]
+   4178523.DAT                _Tile  1 x  1 with Spider Pattern [378]
+   4524903.DAT                _Minifig Jester's Cap Red/Blue with Blue/Red Poms
+   4526562.DAT                _Minifig Jester's Cap Red/Black with White Poms
+   4538781.DAT                _Wheel 20 x 64 with Spikes and 13 Pegholes [0]
+   4538782.DAT                _Wheel 32 x 64 Conical with Spikes and Inner 48 Tooth Gear [0]
+   4585450.DAT                _Minifig Jester's Cap Red/White with White/Red Poms
+   93549.DAT                  _Minifig Conical Flask [47/35]
+   93772.DAT                  _Figure Friends Male Head, Light Brown Eyes and Beard Pat. [78]

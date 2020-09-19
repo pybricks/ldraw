@@ -1,16 +1,18 @@
 0 Minifig Hood
 0 Name: 30381.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2011-01
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Headwear
 0 !KEYWORDS Star Wars, Castle, Harry Potter, Jedi, Sith, dementor
 
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2010-11-04 [westrate] File preparation for LDraw Parts Tracker
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+0 !HISTORY 2012-12-24 [cwdee] Update category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 1 16 0 -4 0 -8 0 0 0 -1 0 0 0 8 4-4disc.dat
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud16.dat

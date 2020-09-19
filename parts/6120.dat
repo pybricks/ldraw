@@ -1,11 +1,11 @@
 0 Minifig Ski 4L with Hinge
 0 Name: 6120.dat
 0 Author: Luis E. Fernandez [lfernand]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Footwear
 
 0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
 0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
@@ -16,6 +16,8 @@
 0 !HISTORY 2010-07-15 [MMR1988] Added bumps
 0 !HISTORY 2010-07-16 [MagFors] Rectified
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2012-12-24 [cwdee] Update category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 1 16 0 0 29 5 0 0 0 3 0 0 0 9 box4-7a.dat
 2 24 5 0 38 -5 0 38

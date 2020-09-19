@@ -1,11 +1,11 @@
 0 Minifig Cape Cloth
 0 Name: 522.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Neckwear
 0 !KEYWORDS Star Wars, Harry Potter, cloak, shawl, drape, poncho, neckwear
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
@@ -14,6 +14,8 @@
 0 !HISTORY 2009-12-07 [cwdee] Correct description
 0 !HISTORY 2009-12-10 [Philo] Corrected coplanarity issues, added missing condlines, closed tiny gaps in collar
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2012-12-24 [cwdee] Update category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 0 // top folded side
 

@@ -1,11 +1,11 @@
 0 Minifig Armour Plate
 0 Name: 2587.dat
 0 Author: Bernd Broich [bbroich]
-0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Neckwear
 0 !KEYWORDS knight, Castle, armor
 
 0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
@@ -15,6 +15,8 @@
 0 !HISTORY 2009-12-07 [Philo] BFCed, corrected coplanarity errors, closed gaps on sides
 0 !HISTORY 2009-12-07 [Philo] Subparted for patterned parts
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2012-12-24 [cwdee] Update category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2587s01.dat
 0 // Outer Front

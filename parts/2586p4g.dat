@@ -1,14 +1,18 @@
 0 Minifig Shield Ovoid with Bull Head Pattern
 0 Name: 2586p4g.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Minifig Accessory
+
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2012-12-24 [cwdee] Add category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2586s01.dat
 1 366 0 0 0 1 0 0 0 1 0 0 0 1 s\2586p4ga.dat
@@ -154,20 +158,20 @@
 4 0 -15.75 -3 -8 -15.25 -1 -8 -14 -1 -8 -13.25 -3.25 -8
 3 0 -13.25 -3.25 -8 -14 -1 -8 -12.5 -1 -8
 0 rivets
-1 0 0 -30.75 -8 0.25 0 0 0 0 -0.25 0 1 0 ring4.dat
-1 0 6.75 -29 -8 0.25 0 0 0 0 -0.25 0 1 0 ring4.dat
-1 0 13 -24.25 -8 0.25 0 0 0 0 -0.25 0 1 0 ring4.dat
-1 0 16.75 -9.25 -8 0.25 0 0 0 0 -0.25 0 1 0 ring4.dat
-1 0 15.25 0.25 -8 0.25 0 0 0 0 -0.25 0 1 0 ring4.dat
-1 0 13 10 -8 0.25 0 0 0 0 -0.25 0 1 0 ring4.dat
-1 0 10.25 18.5 -8 0.25 0 0 0 0 -0.25 0 1 0 ring4.dat
-1 0 6.75 26.75 -8 0.25 0 0 0 0 -0.25 0 1 0 ring4.dat
-1 0 0 32.75 -8 0.25 0 0 0 0 -0.25 0 1 0 ring4.dat
-1 0 -6.75 -29 -8 0.25 0 0 0 0 -0.25 0 1 0 ring4.dat
-1 0 -13 -24.25 -8 0.25 0 0 0 0 -0.25 0 1 0 ring4.dat
-1 0 -16.75 -9.25 -8 0.25 0 0 0 0 -0.25 0 1 0 ring4.dat
-1 0 -15.25 0.25 -8 0.25 0 0 0 0 -0.25 0 1 0 ring4.dat
-1 0 -13 10 -8 0.25 0 0 0 0 -0.25 0 1 0 ring4.dat
-1 0 -10.25 18.5 -8 0.25 0 0 0 0 -0.25 0 1 0 ring4.dat
-1 0 -6.75 26.75 -8 0.25 0 0 0 0 -0.25 0 1 0 ring4.dat
+1 0 0 -30.75 -8 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
+1 0 6.75 -29 -8 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
+1 0 13 -24.25 -8 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
+1 0 16.75 -9.25 -8 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
+1 0 15.25 0.25 -8 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
+1 0 13 10 -8 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
+1 0 10.25 18.5 -8 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
+1 0 6.75 26.75 -8 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
+1 0 0 32.75 -8 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
+1 0 -6.75 -29 -8 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
+1 0 -13 -24.25 -8 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
+1 0 -16.75 -9.25 -8 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
+1 0 -15.25 0.25 -8 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
+1 0 -13 10 -8 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
+1 0 -10.25 18.5 -8 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
+1 0 -6.75 26.75 -8 0.25 0 0 0 0 -0.25 0 1 0 4-4ring4.dat
 0

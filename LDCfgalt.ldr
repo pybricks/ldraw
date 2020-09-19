@@ -1,7 +1,7 @@
 0 LDraw.org Configuration File
 0 Name: LDCfgalt.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2012-07-03
+0 !LDRAW_ORG Configuration UPDATE 2012-09-13
 
 0 // LDraw Solid Colors
 0 !COLOUR Black                              CODE  0    VALUE #05131D   EDGE #3F474C
@@ -160,6 +160,7 @@
 0 !COLOUR Rubber_Black                       CODE 256   VALUE #212121   EDGE #595959                               RUBBER
 0 !COLOUR Rubber_Blue                        CODE 273   VALUE #0033B2   EDGE #001392                               RUBBER
 0 !COLOUR Rubber_Red                         CODE 324   VALUE #C40026   EDGE #8A0000                               RUBBER
+0 !COLOUR Rubber_Orange                      CODE 350   VALUE #D06610   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Light_Gray                  CODE 375   VALUE #C1C2C1   EDGE #696969                               RUBBER
 0 !COLOUR Rubber_Dark_Blue                   CODE 406   VALUE #001D68   EDGE #000A48                               RUBBER
 0 !COLOUR Rubber_Purple                      CODE 449   VALUE #81007B   EDGE #570052                               RUBBER

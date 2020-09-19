@@ -1,11 +1,11 @@
 0 Minifig Hair Beard
 0 Name: 6132.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Neckwear
 0 !KEYWORDS Castle, Dragon Masters, Ninja, Harry Potter
 0 !KEYWORDS Santa Claus, Kris Kringle, St Nick, Father Christmas
 0 !KEYWORDS wizard, Majisto, Albus Dumbledore
@@ -15,6 +15,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2010-08-15 [MagFors] BFC'ed, added cond-lines
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2012-12-24 [cwdee] Update category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 2 24 11 6.5 -10 12 0 -10
 5 24 11 6.5 -14.5 12 0 -14.5 11 6.5 -10 10 5.75 -15.25

@@ -1,0 +1,29 @@
+LDraw.org Parts Update 2012-03
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Alias Parts Library
+---------------------------------------------------------------------------
+
+Notes created Fri Dec 28 11:51:49 2012 by the Parts Tracker.
+
+Release statistics:
+   Total files: 8
+   New files: 4
+   New parts: 4
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   No parts were moved.
+
+Renamed Parts
+   4106.DAT                   Magnet Cylindrical Casing
+   changed to    ~Magnet Cylindrical Casing
+
+   70793.DAT                  Magnet Cylindrical
+   changed to    ~Magnet Cylindrical
+
+Other Fixed Parts
+   45729.DAT                  Dish  6 x  6 Inverted With Hollow Studs
+   82805.DAT                  Minifig Feathers with Pin and Black Tip Pattern

@@ -1,20 +1,22 @@
 0 Minifig Police Hat
 0 Name: 3624.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2010-01
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Headwear
 
 0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
 0 !HISTORY 2003-01-30 [sbliss] Completed header; BFC'ed; broke up non-coplanar quads
 0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
 0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2009-10-25 [anathema] Complete rewrite using LEGO Universe Team part
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+0 !HISTORY 2012-12-24 [cwdee] Update category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 3 16 13.95 -6.771 -0.699 12.07 -7.612 -5.792 14.22 -6.891 -6.324
 3 16 14.85 -6.504 -6.507 15.7 -6.005 -0.323 14.22 -6.891 -6.324

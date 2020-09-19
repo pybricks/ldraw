@@ -1,17 +1,19 @@
 0 Minifig Scabbard for Two Swords
 0 Name: 88290.dat
 0 Author: Stan Isachenko [angmarec]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Neckwear
 0 !KEYWORDS Prince of Persia, katana
 
 0 !HISTORY 2011-11-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2011-11-19 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2012-12-24 [cwdee] Update category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 0 BFC INVERTNEXT
 1 16 0 -3 0 6 0 0 0 3 0 0 0 6 4-4cyli.dat

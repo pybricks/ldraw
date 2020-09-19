@@ -1,17 +1,19 @@
 0 Bracket  1 x  1 -  1 x  1 with Pin
 0 Name: 48724.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2009-01
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2012-10-02 [Steffen] BFC rationalisation
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
-1 16 0 10 -13 1 0 0 0 0 -1 0 1 0 CONNECT.DAT
+1 16 0 10 -13 1 0 0 0 0 -1 0 1 0 connect.dat
 1 16 0 10 -13 8 0 0 0 0 -8 0 1 0 4-4edge.dat
 1 16 0 10 -13 4 0 0 0 0 -4 0 1 0 4-4edge.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 -3 0 6 0 0 0 3 0 0 0 6 4-4cyli.dat
 1 16 0 -3 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat
 1 16 0 0 0 -6 0 0 0 -1 0 0 0 6 4-4ndis.dat
@@ -55,7 +57,7 @@
 3 16 -6 -3 6 -8 -3 8 -10 -3 8
 4 16 -6 -3 -6 -6 -3 6 -10 -3 8 -10 -3 -13
 4 16 6 -3 -6 -6 -3 -6 -10 -3 -13 10 -3 -13
-0 Outlines
+0 // Outlines
 2 24 10 22 -13 10 -3 -13
 2 24 10 -3 -13 10 -3 8
 2 24 8 -3 10 -8 -3 10
@@ -80,7 +82,3 @@
 1 16 -8 0 8 0 0 -2 0 1 0 2 0 0 1-4edge.dat
 1 16 0 -3 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
-0 
-0 
-0
-0

@@ -1,17 +1,19 @@
 0 Minifig Headdress SW Zabrak Horns
 0 Name: 92761.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Headwear
 0 !KEYWORDS Sith Lord, Darth Maul
 
 0 !HISTORY 2011-10-17 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2011-10-23 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2012-12-24 [cwdee] Update category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 1 16 0 2.15 0 12.5 0 0 0 1 0 0 0 12.5 4-4edge.dat
 1 16 0 1.9 0 0.5 0 0 0 0.25 0 0 0 -0.5 4-4con25.dat

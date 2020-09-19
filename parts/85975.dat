@@ -1,13 +1,15 @@
 0 Minifig Hat Fez
 0 Name: 85975.dat
 0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG Part UPDATE 2010-01
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Headwear
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+0 !HISTORY 2012-12-24 [cwdee] Update category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 1 16 0 16 0 11.25 0 0 0 1 0 0 0 11.25 4-4edge.dat
 1 16 0 16 0 -1.25 0 0 0 -1 0 0 0 1.25 4-4ring8.dat

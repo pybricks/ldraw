@@ -1,11 +1,11 @@
 0 Minifig Hat Cowboy
 0 Name: 3629.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Headwear
 0 !KEYWORDS minifig hat, stetson, cowboy, ten-gallon hat
 0 !KEYWORDS western, wild west, cavalry
 
@@ -14,6 +14,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [Holly-Wood] separated part without front face into subpart; added cond. lines; made BFC compliant (2004-02-28)
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2012-12-24 [cwdee] Update category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 0 // underside (inside)
 

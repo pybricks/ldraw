@@ -1,15 +1,17 @@
 0 Minifig Hair Long with Headband
 0 Name: 30114.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2009-01
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Headwear
 0 !KEYWORDS west, wild west, western, indian, american nativ, warrior, hippie, squaw
 0 !KEYWORDS feather, plait, boy, man, men, woman, women, male, female
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2012-12-24 [cwdee] Update category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 2 24 0 10.706 15.078 0 10.296 15.756
 2 24 0 11.264 14.486 0 10.706 15.078
@@ -457,7 +459,7 @@
 5 24 -3.061 0 7.391 -4.415 1.172 10.658 -5.657 0 5.657 0 0 8
 4 16 -4.415 1.172 10.658 0 1.172 11.536 0 0 8 -3.061 0 7.391
 5 24 0 0 8 0 1.172 11.536 -3.061 0 7.391 3.061 0 7.391
-1 16 0 0 0 2 0 0 0 -1 0 0 0 2 ring3.dat
+1 16 0 0 0 2 0 0 0 -1 0 0 0 2 4-4ring3.dat
 0 BFC INVERTNEXT
 1 16 0 -4 0 6 0 0 0 4 0 0 0 6 4-4cyli.dat
 4 16 -1.414 -4 1.414 -4.243 -4 4.242 -2.296 -4 5.543 -0.765 -4 1.848

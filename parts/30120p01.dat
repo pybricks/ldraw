@@ -1,15 +1,17 @@
 0 Minifig Helmet with Hexagonal Top and Gold Alien Pattern
 0 Name: 30120p01.dat
 0 Author: Nils Schmidt [BlackBrick89]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Headwear
 0 !KEYWORDS Space, UFO, Invaders
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2012-12-24 [cwdee] Update category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 0 // Helmet Base
 

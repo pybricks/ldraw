@@ -1,17 +1,19 @@
 0 Minifig Armour Shoulder (Needs Work)
 0 Name: 30121.dat
 0 Author: Mark Chittenden [mdublade]
-0 !LDRAW_ORG Part UPDATE 2011-01
+0 !LDRAW_ORG Part UPDATE 2012-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Minifig Accessory
+0 !CATEGORY Minifig Neckwear
 
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2010-07-13 [mdublade] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-07-22 [BlackBrick89] Changed lines, BFCed, removed email address
 0 !HISTORY 2010-08-02 [MagFors] Proper preparation for LDraw Part Tracker
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+0 !HISTORY 2012-12-24 [cwdee] Update category
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
 0 // Breastplate needs to be tweaked into better shape. Not enough info in LUT-file.
 
