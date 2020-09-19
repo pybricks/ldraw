@@ -44,6 +44,7 @@
 #include "alloc.h"
 #include "dir.h"
 #include "conio.h"
+#include "libgen.h"
 
 char   *ProgVer = "mklist  v1.6 20100706  (C) 1999-2010 Lars C. Hassing  lch@ccieurope.com";
 
@@ -53,8 +54,8 @@ int	quiet = 0;
 /*****************************************************************/
 /* Filename length compatibility stuff */
 /*****************************************************************/
-#ifndef _MAX_PATH
-#define _MAX_PATH 256
+#ifndef MAX_PATH
+#define MAX_PATH 256
 #endif
 char    shortfilepath[MAX_PATH];
 char    shortfilename[MAX_PATH];
@@ -84,7 +85,7 @@ int 	namelen = 25; /* LSC specs allow 25 chars in filename.   */
 int GetShortPathName(char *longpath, char * shortpath, int psize)
 {
     strncpy(shortpath, longpath, psize);
-    return(strlen(shortpath);
+    return strlen(shortpath);
 }
 #endif
 
