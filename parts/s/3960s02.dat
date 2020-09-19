@@ -1,7 +1,7 @@
 0 ~Dish  4 x  4 Slice 15 Degrees
 0 Name: s\3960s02.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Subpart UPDATE 2004-03
+0 !LDRAW_ORG Subpart UPDATE 2010-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -10,6 +10,8 @@
 0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
 0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [Philo] Added missing condlines on one edge, corrected condlines on top (2008-04-28)
+0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
 4 16 34.699 6 -4.568 35 6 0 40 8 0 39.656 8 -5.22
 4 16 40 8 0 35 6 0 34.699 6 4.568 39.656 8 5.22
@@ -27,8 +29,12 @@
 5 24 22 2 0 29.5 4 0 29.246 4 -3.85 21.811 2 2.871
 5 24 29.5 4 0 29.246 4 3.85 34.699 6 4.568 22 2 0
 5 24 21.811 2 -2.871 22 2 0 29.5 4 0 9.914 0 -1.305
-5 24 9.914 0 -1.305 10 0 0 22 2 0 -3 2 2
+5 24 9.914 0 -1.305 10 0 0 22 2 0 -3 0 2
 5 24 10 0 0 22 2 0 21.811 2 -2.871 9.914 0 1.305
 5 24 22 2 0 21.811 2 2.871 29.246 4 3.85 10 0 0
-5 24 10 0 0 9.914 0 1.305 21.811 2 2.871 -3.189 2 3.871
+5 24 10 0 0 9.914 0 1.305 21.811 2 2.871 -3.189 0 3.871
+5 24 34.701 6 -4.568 39.658 8 -5.221 38.635 8 -10.351 34.998 6 0
+5 24 29.248 4 -3.851 34.701 6 -4.568 33.806 6 -9.058 29.498 4 0
+5 24 21.812 2 -2.872 29.248 4 -3.851 28.493 4 -7.634 21.999 2 0
+5 24 9.914 0 -1.305 21.812 2 -2.872 21.25 2 -5.693 10 0 0
 0

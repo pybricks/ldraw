@@ -1,0 +1,193 @@
+LDraw.org Parts Update 2010-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Mon Apr  5 05:31:25 2010 by the Parts Tracker.
+
+Release statistics:
+   Total files: 479
+   New files: 376
+   New parts: 238
+   New subparts: 75
+   New primitives: 41
+   New hi-res primitives: 22
+
+New 3-digit part numbers assigned:
+   281.dat Window  1.25 x  4 x  3 with Rounded Top
+   559.dat ~Winch  4 x  4 x  2 with Sloped Top Base
+   761.dat ~Crane Arm
+   762.dat ~Winding Drum  1 x  2
+   763.dat ~Crank Handle  4 x  1 Metal
+   867.dat Wheel Train for 12V Electric Motor
+
+Moved Parts
+   AXLEHO11.DAT  ~Moved to axl2hole
+   103A.DAT      ~Moved to 3750
+   103B.DAT      ~Moved to 3752
+   103C.DAT      ~Moved to 3751
+   111.DAT       ~Moved to 32175
+   202.DAT       ~Moved to 2426c01
+   301.DAT       ~Moved to 30186
+   32123.DAT     ~Moved to 32123a
+   3231.DAT      ~Moved to 3231a
+   328A.DAT      ~Moved to 70450a
+   328B.DAT      ~Moved to 70450b
+   3943.DAT      ~Moved to 3943b
+   4210.DAT      ~Moved to 4208
+   470.DAT       ~Moved to 30258
+   4860.DAT      ~Moved to 4870
+   500.DAT       ~Moved to 42023
+   700.DAT       ~Moved to 700b
+   766.DAT       ~Moved to 766a
+   924.DAT       ~Moved to 32192
+
+Renamed Parts
+   1-24EDGE.DAT  Hi-Res Circle 0.4167
+   changed to    Hi-Res Circle 0.0417
+
+   2408P02.DAT   Panel 10 x  6 x 11 with Blacktron I Pattern
+   changed to    Panel 10 x  6 x 11 with Blacktron I Logo Pattern
+
+   2431PT2.DAT   Tile  1 x  4 with "Octan" Logo Pattern
+   changed to    Tile  1 x  4 with "Octan" Text Pattern
+
+   2585.DAT      Hose Reel  2 x  2 x  2 Drum (needs work)
+   changed to    Hose Reel  2 x  2
+
+   2775C01.DAT   Electric Plug Double Wide (Complete)
+   changed to    Electric Plug (Type 4) Twin Extra-Wide (Complete)
+
+   30035.DAT     Minifig Accessory Space Scanner Tool
+   changed to    Minifig Space Scanner Tool
+
+   30089.DAT     Minifig Camera Snapshot 
+   changed to    Minifig Camera Snapshot
+
+   30541.DAT     Hinge Brick  1 x  2 Locking with 1 Finger On End Horizontal
+   changed to    Hinge Brick  1 x  2 Locking with Single Finger On End Horizontal
+
+   32014.DAT     Technic Angle Connector #6
+   changed to    Technic Angle Connector #6 (90 degree)
+
+   32015.DAT     Technic Angle Connector #5
+   changed to    Technic Angle Connector #5 (112.5 degree)
+
+   32016.DAT     Technic Angle Connector #3 
+   changed to    Technic Angle Connector #3 (157.5 degree)
+
+   32034.DAT     Technic Angle Connector #2
+   changed to    Technic Angle Connector #2 (180 degree)
+
+   32079.DAT     Technic Liftarm  1 x  9 Offset Cross
+   changed to    Technic Beam  9 Liftarm Offset with Boss
+
+   32271.DAT     Technic Beam  3 x  7 Liftarm Bent 53.5
+   changed to    Technic Beam  3 x  7 Liftarm Bent 53.13
+
+   3228A.DAT     Train Track Tapered Rail Straight
+   changed to    Train Track Rail Straight Tapered
+
+   3228B.DAT     Train Track Slotted Rail Straight
+   changed to    Train Track Rail Slotted Straight
+
+   32310.DAT     Technic Connector Block  3 x  5 x  1 & 2/3
+   changed to    Technic Connector Block  3 x  5 x  1.333
+
+   32348.DAT     Technic Beam  4 x  4 Liftarm Bent 53.5
+   changed to    Technic Beam  4 x  4 Liftarm Bent 53.13
+
+   3314.DAT      Excavator Arm 2 x 6 x 2
+   changed to    Excavator Arm  2 x  6 x  2
+
+   3587.DAT      Tail Plane Old
+   changed to    Tail  2 x  5 x  3.667 Plane
+
+   3626AP01.DAT  Minifig Head - Stud Solid with Standard Grin Pattern
+   changed to    Minifig Head with Stud Solid with Standard Grin Pattern
+
+   4209P05.DAT   Hose Reel  2 x  4 x  2 Holder with tow logo pattern
+   changed to    Hose Reel  2 x  4 x  2 Holder with Motorway Logo Pattern
+
+   53454.DAT     Minifig Accessory Battleaxe Blade 
+   changed to    Minifig Battleaxe Blade 
+
+   60483.DAT     Technic Beam  2 Liftarm with Hole and Axlehole
+   changed to    Technic Beam  2 Liftarm
+
+   6585.DAT      Technic Gearbox  4 x  4 x 1 & 2/3
+   changed to    Technic Gearbox  4 x  4 x  1.667
+
+   6629.DAT      Technic Beam  4 x  6 Liftarm Bent 53.5
+   changed to    Technic Beam  4 x  6 Liftarm Bent 53.13
+
+   675P01.DAT    Roadsign Square Tall with Parking Sign
+   changed to    Roadsign Square Tall with Parking and 300m Pattern
+
+   73037.DAT     Winch  2 x  4 x  2
+   changed to    Winch  2 x  4 x  2 with Light Grey Drum
+
+   765.DAT       ~Electric Plug Single
+   changed to    ~Electric Plug (Type 4) Single
+
+   2421A.DAT     ~2421 Blade
+   changed to    ~Propellor  3 Blade  4 Diameter - Single Blade
+
+   3068P69A.DAT  ~Tile  2 x  2 with Space Police II Pattern - Silver
+   changed to    ~Tile  2 x  2 with Space Police II Pattern - Text
+
+Other Fixed Parts
+   CONFRIC.DAT   Technic Friction Pin 1.0 with Base Collar
+   CONNECT.DAT   Technic Pin 1.0 with Base Collar
+   CONNECT3.DAT  Technic Pin 0.5 with Base Collar
+   CONNECT6.DAT  Technic Pin 1.0 with Base Collar and Notches
+   PEGHOLE.DAT   Peg Hole End
+   RECT.DAT      Rectangle
+   RECT1.DAT     Rectangle with 1 Edge
+   RECT2A.DAT    Rectangle with 2 Adjacent Edges
+   RECT2P.DAT    Rectangle with 2 Parallel Edges
+   RECT3.DAT     Rectangle with 3 Edges
+   10.DAT        Baseplate 24 x 32
+   10P0A.DAT     Baseplate 24 x 32 with Set 1601 Dots Pattern
+   2408.DAT      Panel 10 x  6 x 11
+   2408P01.DAT   Panel 10 x  6 x 11 with Blacktron II Logo Pattern
+   2408P04.DAT   Panel 10 x  6 x 11 with Futuron Stripes Pattern
+   2421.DAT      Propellor  3 Blade  4 Diameter
+   2431P51.DAT   Tile  1 x  4 with Long White Stripes Pattern
+   2598.DAT      Windscreen 10 x 10 x  4 Octagonal Canopy
+   2823.DAT      Technic Forklift Fork
+   2904.DAT      Technic Motorcycle Pivot
+   30153.DAT     Rock  1 x  1 Gem Facetted
+   30185.DAT     Window Bay  3 x  8 x  6
+   30246.DAT     Panel Wall  3 x  4 x  6
+   3068BP23.DAT  Tile  2 x  2 with Wrench Pattern
+   3068BP69.DAT  Tile  2 x  2 with Space Police II Pattern
+   3176.DAT      Plate  3 x  2 with Hole
+   32013.DAT     Technic Angle Connector #1
+   32069.DAT     Technic Steering Arm with Connectors
+   32137.DAT     Technic Connector Block  3 x  2 x  2
+   32270.DAT     Technic Gear 12 Tooth Double Bevel
+   3624.DAT      Minifig Police Hat
+   3626A.DAT     Minifig Head with Solid Stud
+   3839A.DAT     Plate  1 x  2 with Handles Type 1
+   3839B.DAT     Plate  1 x  2 with Handles Type 2
+   4080.DAT      Tipper Bucket  4 x  6
+   4150P40.DAT   Tile  2 x  2 Round with Archery Target Pattern
+   4168.DAT      Train Signal Mast
+   4215A.DAT     Panel  1 x  4 x  3
+   4261.DAT      Technic Steering Arm
+   4349.DAT      Minifig Loudhailer
+   4505.DAT      Hinge Plate  1 x  6 with 2 and 3 Fingers On Sides
+   4530.DAT      Minifig Hair Shoulder Length
+   6120.DAT      Minifig Ski
+   6219.DAT      Wing 16 x 14 Shuttle
+   6232.DAT      Brick  2 x  2 with Pin and Axlehole
+   675.DAT       Roadsign Square Tall
+   772.DAT       Brick  1 x  2 x  2 without Centre Studs
+   973P41.DAT    Minifig Torso with Castle Chainmail Pattern
+   2408S01.DAT   ~Panel 10 x  6 x 11 without Front
+   3626AS01.DAT  ~Minifig Head - Faceless Subpart (solid stud)
+   3960S02.DAT   ~Dish  4 x  4 Slice 15 Degrees
+   4215AS01.DAT  ~Panel  1 x  4 x  3 without Front Face
+   647S00.DAT    ~Roadsign Post

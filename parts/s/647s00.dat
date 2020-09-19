@@ -1,7 +1,7 @@
 0 ~Roadsign Post
 0 Name: s\647s00.dat
 0 Author: Mark Kennedy [mkennedy]
-0 !LDRAW_ORG Subpart UPDATE 2005-01
+0 !LDRAW_ORG Subpart UPDATE 2010-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -11,14 +11,14 @@
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-09-28 [mkennedy] made use of box2 primitives, replaced box3u8p with box3u5p
+0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
-1 16 0 2 0 1 0 0 0 -1.25 0 0 0 1 stud3.dat
-1 16 8 8 0 0 0 2 0 -1 0 20 0 0 rect3.dat
-1 16 -8 8 0 0 0 -2 0 -1 0 20 0 0 rect3.dat
-1 16 10 4 0 0 -1 0 0 0 -4 20 0 0 rect3.dat
-1 16 -10 4 0 0 1 0 0 0 -4 20 0 0 rect3.dat
 0 BFC INVERTNEXT
-1 16 0 8 0 0 0 6 0 -6 0 -20 0 0 box3u2p.dat
+1 16 0 8 0 0 0 6 0 -6 0 20 0 0 box3u4a.dat
+1 16 8 4 0 0 0 2 0 4 0 20 0 0 box2-5.dat
+1 16 -8 4 0 0 0 -2 0 4 0 20 0 0 box2-5.dat
+1 16 0 2 0 1 0 0 0 -1.25 0 0 0 1 stud3.dat
 2 24 10 0 20 -10 0 20
 2 24 -10 0 -20 10 0 -20
 2 24 0 -2 10 10 0 20
@@ -41,18 +41,10 @@
 3 16 -10 0 -20 0 -2 -10 10 0 -20
 1 16 0 -10 0 6 0 0 0 6 0 0 0 6 4-4disc.dat
 1 16 0 -10 0 6 0 0 0 10 0 0 0 6 4-4cyli.dat
-2 24 4 -10 -2 4 -10 2
-2 24 4 -10 -2 2 -10 -2
-2 24 4 -10 2 2 -10 2
-2 24 -4 -10 -2 -4 -10 2
-2 24 -4 -10 -2 -2 -10 -2
-2 24 -4 -10 2 -2 -10 2
-1 16 2 -39 0 0 2 0 -29 0 0 0 0 -2 box3u8p.dat
-1 16 -2 -39 0 0 -2 0 -29 0 0 0 0 -2 box3u8p.dat
-1 16 0 -35 -4 2 0 0 0 0 25 0 1 0 rect3.dat
-1 16 0 -35 4 2 0 0 0 0 25 0 -1 0 rect3.dat
-1 16 0 -64 3 2 0 0 0 0 4 0 -1 1 rect.dat
-1 16 0 -64 -3 2 0 0 0 0 4 0 1 -1 rect.dat
+1 16 2 -39 0 0 2 0 -29 0 0 0 0 -2 box3u5p.dat
+1 16 -2 -39 0 0 -2 0 -29 0 0 0 0 -2 box3u5p.dat
+1 16 0 -39 3 2 0 0 0 4 -25 0 1 0 box2-5.dat
+1 16 0 -39 -3 2 0 0 0 4 -25 0 -1 0 box2-5.dat
 4 16 -2 -10 2 -2 -10 4 -2 -60 4 -2 -68 2
 4 16 2 -10 4 2 -10 2 2 -68 2 2 -60 4
 4 16 2 -10 -2 2 -10 -4 2 -60 -4 2 -68 -2

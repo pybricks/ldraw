@@ -1,10 +1,11 @@
-0 Minifig Accessory Space Scanner Tool
+0 Minifig Space Scanner Tool
 0 Name: 30035.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2010-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+0 !CATEGORY Minifig Accessory
 
 0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
 0 !HISTORY 2007-05-25 [PTadmin] Header formatted for Contributor Agreement
@@ -12,6 +13,8 @@
 0 !HISTORY 2008-07-07 [tcobbs] Replaced stud with cyli and edges, BFCd (2008-03-26)
 0 !HISTORY 2009-05-22 [Eldar] Corrected improper line, added 0 to file end, added more rec*.dat primitives
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2009-12-07 [cwdee] Correct description and add CATEGORY line
+0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
 4 16 2.5 -6 4 6 -2.5 4 6 2.5 4 2.5 6 4
 4 16 -6 -2.5 4 -2.5 -6 4 -2.5 6 4 -6 2.5 4

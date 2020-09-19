@@ -1,14 +1,17 @@
-0 Minifig Accessory Battleaxe Blade 
+0 Minifig Battleaxe Blade 
 0 Name: 53454.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2010-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+0 !CATEGORY Minifig Accessory
 
 0 !HISTORY 2008-12-20 {The LEGO Universe Team} Original part shape
 0 !HISTORY 2009-06-19 [westrate] File preparation for LDraw Parts Tracker
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2009-12-07 [cwdee] Correct description and add CATEGORY line
+0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
 4 16 -4.67 -4.00 4.67 -6.10 -4.00 2.53 -3.70 -4.00 1.53 -2.83 -4.00 2.83 
 4 16 4.67 -4.00 4.67 2.83 -4.00 2.83 3.70 -4.00 1.53 6.10 -4.00 2.53 

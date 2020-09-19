@@ -1,0 +1,34 @@
+0 ~Dish  3 x  3 without Top Face
+0 Name: s\43898s01.dat
+0 Author: John Riley [jriley]
+0 !LDRAW_ORG Subpart UPDATE 2010-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2006-07-19 [WilliamH] Fixed issues with stud2a and stud4
+0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 12 0 30 0 0 0 4 0 0 0 30 4-4cyli.dat
+1 16 0 12 0 30 0 0 0 4 0 0 0 30 4-4edge.dat
+1 16 0 16 0 30 0 0 0 4 0 0 0 30 4-4edge.dat
+1 16 0 16 0 2 0 0 0 -1 0 0 0 2 4-4rin13.dat
+1 16 0 16 0 2 0 0 0 -1 0 0 0 2 4-4rin14.dat
+1 16 0 16 0 26 0 0 0 1 0 0 0 26 4-4edge.dat
+1 16 0 12 0 26 0 0 0 1 0 0 0 26 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 12 0 26 0 0 0 4 0 0 0 26 4-4cyli.dat
+1 16 0 4 0 -1 0 0 0 -1 0 0 0 1 stud4.dat
+0 BFC INVERTNEXT
+1 16 0 5.36 0 8 0 0 0 -1.36 0 0 0 8 4-4con1.dat
+0 BFC INVERTNEXT
+1 16 0 10.03 0 8 0 0 0 -4.67 0 0 0 8 4-4con2.dat
+0 BFC INVERTNEXT
+1 16 0 12 0 2 0 0 0 -1.97 0 0 0 2 4-4con12.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 4 0 0 0 4 0 0 0 4 4-4cyli.dat
+1 16 0 4 0 2 0 0 0 -1 0 0 0 2 4-4ring2.dat
+1 16 0 4 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+0
