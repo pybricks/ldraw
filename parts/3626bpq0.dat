@@ -1,7 +1,7 @@
-0 Minifig Head Mummy Face 2-Sided with 2 Eyes / 1 Eye Pattern
+0 Minifig Head Mummy Face with 2 Eyes / 1 Eye 2-Sided Pattern
 0 Name: 3626bpq0.dat
 0 Author: Christian Neumann [Wesley]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2013-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Pharaoh's Quest, Mummy Warrior
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2013-02-06 [Wesley] part name correction
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 0 // -- head framework --

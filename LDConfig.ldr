@@ -1,7 +1,7 @@
 0 LDraw.org Configuration File
 0 Name: LDConfig.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2012-09-13
+0 !LDRAW_ORG Configuration UPDATE 2013-03-08
 
 0 // LDraw Solid Colours
 0                              // LEGOID  26 - Black
@@ -217,7 +217,7 @@
 0                              // LEGOID 183 - Metallic White
 0 !COLOUR Pearl_White                                           CODE 183   VALUE #F2F3F2   EDGE #333333                               PEARLESCENT
 0                              // LEGOID 150 - Metallic Light Grey
-0 !COLOUR Pearl_Very_Light_Grey                                 CODE 150   VALUE #BBBDBC   EDGE #333333                               PEARLESCENT
+0 !COLOUR Pearl_Very_Light_Gray                                 CODE 150   VALUE #BBBDBC   EDGE #333333                               PEARLESCENT
 0                              // LEGOID 179 - Silver flip/flop
 0 !COLOUR Pearl_Light_Gray                                      CODE 135   VALUE #9CA3A8   EDGE #333333                               PEARLESCENT
 0                              // LEGOID 131 - Silver
@@ -242,7 +242,7 @@
 0                              // LEGOID 200 - Lemon Metallic
 0 !COLOUR Metallic_Green                                        CODE  81   VALUE #899B5F   EDGE #333333                               METAL
 0                              // LEGOID 316 - Titanium Metallic
-0 !COLOUR Metallic_Gold                                         CODE  82   VALUE #8C5C20   EDGE #333333                               METAL
+0 !COLOUR Metallic_Gold                                         CODE  82   VALUE #DBAC34   EDGE #333333                               METAL
 0                              // LEGOID 149 - Metallic Black
 0 !COLOUR Metallic_Black                                        CODE  83   VALUE #1A2831   EDGE #333333                               METAL
 0                              // LEGOID 309 - Metalized Silver

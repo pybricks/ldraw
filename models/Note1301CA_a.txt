@@ -1,0 +1,25 @@
+LDraw.org Parts Update 2013-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Alias Parts Library
+---------------------------------------------------------------------------
+
+Notes created Sun Jul 21 07:55:00 2013 by the Parts Tracker.
+
+Release statistics:
+   Total files: 7
+   New files: 6
+   New parts: 6
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   No parts were moved.
+
+Renamed Parts
+   45417.DAT                  Brick  2 x  2 Corner Round
+   changed to    Brick  2 x  2 Corner Round with Stud Notch
+
+Other Fixed Parts
+   No other parts were fixed.

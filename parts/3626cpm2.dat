@@ -1,16 +1,17 @@
-0 Minifig Head with LOTR Brown Eyebrows Worried/Smile Pattern
+0 Minifig Head with LOTR Worried / Smile 2-Sided Pattern
 0 Name: 3626cpm2.dat
 0 Author: Howard Lande [HowardLande]
-0 !LDRAW_ORG Part UPDATE 2012-03
+0 !LDRAW_ORG Part UPDATE 2013-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Lord of the Rings, Frodo
+0 !KEYWORDS Lord of the Rings, Frodo Baggins
+0 !CMDLINE -c78
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
-0 // Base
+0 !HISTORY 2013-02-06 [Wesley] part name correction, added cmdline
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat

@@ -1,37 +1,25 @@
 0 ~Hose Flexible Segment Link Section
 0 Name: 754.dat
 0 Author: John Van Zwieten [jvan]
-0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LDRAW_ORG Subpart UPDATE 2013-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 !HELP This file, the Link section, forms the chain of pieces to make the bulk
-0 !HELP of the hose.
-0 !HELP Use this file in conjuction with the files:
-0 !HELP  750.dat/752.dat End piece with or without tabs
-0 !HELP  755.dat End Section
-0 !HELP  756.dat Center Section
-0 !HELP to manually construct complete flexible tubes.
-0 !HELP Example:
-0 !HELP Start with a 750.dat End piece,
-0 !HELP Next comes a 755.dat End Section,
-0 !HELP Then a string of approximately 25 754.dat Link Sections,
-0 !HELP Place a 756.dat Center Section,
-0 !HELP Then another string of 754.dat's facing the opposite way,
-0 !HELP Then a 755.dat End Section,
-0 !HELP Finish with a 750.dat End piece.
+0 BFC CERTIFY CCW
 
 0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
 0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
 0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
-0 !HISTORY 2000-04-28 [sbliss] Removed erroneous RING3.dat references.
+0 !HISTORY 2000-04-28 [sbliss]  Removed erroneous RING3.dat references.
 0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
 0 !HISTORY 2007-12-30 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2013-05-26 [Steffen] modified to match updated 756.dat
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
-1 16 0 -.18 0 3.7 0 0 0 0 0 0 0 3.7 4-4edge.dat
-1 16 0 -1.25 0 4 0 0 0 .6 0 0 0 4 4-4cyli.dat
-1 16 0 -1.25 0 4 0 0 0 -1.25 0 0 0 -4 4-8sphe.dat
-1 16 0 -.65 0 4 0 0 0 1.25 0 0 0 4 4-8sphe.dat
-
-1 16 0 0 0 3.4 0 0 0 3 0 0 0 3.4 4-8sphe.dat
-0
+1 16 0 -1.333 0 3 0 0 0 -2 0 0 0 3 t01o3333.dat
+1 16 0 -1.333 0 4 0 0 0 0.667 0 0 0 4 4-4cyli.dat
+1 16 0 -0.667 0 3 0 0 0 2 0 0 0 3 t01o3333.dat
+1 16 0 0 0 3 0 0 0 3 0 0 0 3 4-8sphe.dat
+1 16 0 0 0 3 0 0 0 1 0 0 0 -3 4-4edge.dat
+1 16 0 -2 0 3 0 0 0 1 0 0 0 -3 4-4edge.dat
+1 16 0 -2 0 3 0 0 0 1 0 0 0 -3 4-4disc.dat

@@ -1,27 +1,12 @@
 0 ~Hose Flexible Segment End Section
 0 Name: 755.dat
 0 Author: John Van Zwieten [jvan]
-0 !LDRAW_ORG Part UPDATE 2000-01
+0 !LDRAW_ORG Subpart UPDATE 2013-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 !CATEGORY Hose
-0 !KEYWORDS gizmo, hose, flexible, minifig, space, tube
+0 BFC CERTIFY CCW
 
-0 !HELP This file, the End section, fastens the chain of 754.dat Link Sections 
-0 !HELP to the 750.dat or 752.dat End pieces.
-0 !HELP Use this file in conjuction with the files:
-0 !HELP  750.dat/752.dat End piece with or without tabs
-0 !HELP  754.dat Link Section
-0 !HELP  756.dat Center Section
-0 !HELP to manually construct complete flexible tubes.
-0 !HELP Example:
-0 !HELP Start with a 750.dat End piece,
-0 !HELP Next comes a 755.dat End Section,
-0 !HELP Then a string of approximately 25 754.dat Link Sections,
-0 !HELP Place a 756.dat Center Section,
-0 !HELP Then another string of 754.dat's facing the opposite way,
-0 !HELP Then a 755.dat End Section,
-0 !HELP Finish with a 750.dat End piece.
+0 !KEYWORDS gizmo, minifig, space, tube
 
 0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
 0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
@@ -30,19 +15,14 @@
 0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
 0 !HISTORY 2007-12-30 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2013-06-02 [Steffen] BFCed
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
-1 16 0 5 0 5 0 0 0 0 0 0 0 5 4-4disc.dat
-1 16 0 5 0 5 0 0 0 0 0 0 0 5 4-4edge.dat
-1 16 0 5 0 5 0 0 0 -5 0 0 0 5 4-4cyli.dat
-1 16 0 0 0 5 0 0 0 0 0 0 0 5 4-4edge.dat
-1 16 0 0 0 5 0 0 0 0 0 0 0 5 4-4disc.dat
-1 16 0 0 0 3 0 0 0 0 0 0 0 3 4-4edge.dat
-1 16 0 0 0 3 0 0 0 -6 0 0 0 3 4-4cyli.dat
-1 16 0 -6 0 3 0 0 0 0 0 0 0 3 4-4edge.dat
-1 16 0 -6 0 1 0 0 0 0 0 0 0 1 ring3.dat
-1 16 0 -6 0 4 0 0 0 0 0 0 0 4 4-4edge.dat
-1 16 0 -6 0 4 0 0 0 -2 0 0 0 4 4-4cyli.dat
+1 16 0 5 0 5 0 0 0 -5 0 0 0 5 4-4cylc.dat
+1 16 0 0 0 5 0 0 0 1 0 0 0 5 4-4disc.dat
+1 16 0 0 0 3 0 0 0 -6 0 0 0 3 4-4cylo.dat
+1 16 0 -6 0 1 0 0 0 -1 0 0 0 1 4-4ring3.dat
+1 16 0 -6 0 4 0 0 0 -2 0 0 0 4 4-4cylo.dat
 1 16 0 -8 0 2 0 0 0 -4 0 0 0 2 4-4con1.dat
-1 16 0 -12 0 2 0 0 0 0 0 0 0 2 4-4edge.dat
-1 16 0 -12 0 2 0 0 0 0 0 0 0 2 4-4disc.dat
-0
+1 16 0 -12 0 2 0 0 0 1 0 0 0 2 4-4edge.dat
+1 16 0 -12 0 2 0 0 0 1 0 0 0 2 4-4disc.dat

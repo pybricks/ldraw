@@ -1,0 +1,361 @@
+LDraw.org Parts Update 2013-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Sun Jul 21 07:55:00 2013 by the Parts Tracker.
+
+Release statistics:
+   Total files: 730
+   New files: 539
+   New parts: 327
+   New subparts: 134
+   New primitives: 51
+   New hi-res primitives: 27
+
+New 3-digit part numbers assigned:
+   164.dat ~Boat Section Stern  6 x  8 x  3.333 (Needs Work)
+   181.dat ~Deck for Boat Section Stern  6 x  8 x  3.333
+   188.dat ~Electric Train Pole Reverser Housing
+   244.dat ~Train Wheel Spoked with Beveled Hub
+   384.dat Cardboard Trading Card
+   913.dat ~Electric Technic Motor 4.5V  6 x 17 x  5 Lever
+   914.dat ~Electric Technic Motor 4.5V  6 x 17 x  5 Axle Type 1
+   956.dat Container  4 x  4 x  3.333 Crate
+   993.dat ~Electric Cable 3LDU Twin
+   994.dat ~Electric Cable 3LDU Twin End for Plug Twin
+   997.dat ~Boat Section Bow  6 x  8 x  3.333 Hull
+   998.dat ~Boat Section Bow  6 x  8 x  3.333 Deck
+
+Moved Parts
+   154.DAT                    ~Moved to 32080
+   155.DAT                    ~Moved to 32134
+   2578.DAT                   ~Moved to 2578a
+   3063.DAT                   ~Moved to 3063b
+   32133C01.DAT               ~Moved to 76110
+   354.DAT                    ~Moved to 30321
+   41879.DAT                  ~Moved to 41879a
+   4865P01.DAT                ~Moved to 4865d01
+   4865P02.DAT                ~Moved to 4865d02
+   517.DAT                    ~Moved to 70864
+   60470.DAT                  ~Moved to 60470a
+   680C01.DAT                 ~Moved to 71372c01
+   322S01.DAT                 ~Moved to u9072
+   322S02.DAT                 ~Moved to u9073
+
+Renamed Parts
+   CLIP3.DAT                  Clip 3
+   changed to    Clip Horizontal with Parallel Sides
+
+   10P04.DAT                  Baseplate 24 x 32 with Set 345 Dot Pattern
+   changed to    Baseplate 24 x 32 with Set 345 Dots Pattern
+
+   2426C01.DAT                Rack Winder without Axle
+   changed to    Rack Winder  2 x  4 x  2 without Axle
+
+   2507P01.DAT                Windscreen 10 x  4 x  2 & 1/3 Canopy with Silver Frame Pattern
+   changed to    Windscreen 10 x  4 x  2.333 Canopy with Silver Frame Pattern
+
+   2605C01.DAT                Brick  1 x  2 x  2 & 1/3 Shock Absorber (Complete)
+   changed to    Brick  1 x  2 x  2.333 Shock Absorber (Complete)
+
+   2620.DAT                   Windscreen  4 x  4 x  3 with Hinge (needs work)
+   changed to    Windscreen  4 x  4 x  3 with Hinge
+
+   2688.DAT                   ~Monorail Wheel with Axle
+   changed to    ~Axle Steel  5 x 67.5 with Two Wheels  1.6 x 10
+
+   3001P17.DAT                Brick  1 x  4 with White Cross Pattern
+   changed to    Brick  2 x  4 with White Cross Pattern
+
+   3004P02.DAT                ~Brick  1 x  2 with Yellow Right Arrow Pattern, Obsolete
+   changed to    ~Brick  1 x  2 with Yellow Right Arrow Pattern (Obsolete)
+
+   3004P04.DAT                ~Brick  1 x  2 with Yellow Up Arrow Pattern, Obsolete
+   changed to    ~Brick  1 x  2 with Yellow Up Arrow Pattern (Obsolete)
+
+   3010P04.DAT                Brick  1 x  4 with Black Grille Pattern
+   changed to    Brick  1 x  4 with Black 15 Bars Grille Pattern
+
+   3010P40.DAT                Brick  1 x  4 with Homemaker Black Grille Pattern
+   changed to    Brick  1 x  4 with Black 20 Bars Grille Pattern
+
+   30161.DAT                  Windscreen  1 x  4 x  1.3 Bottom Hinge
+   changed to    Windscreen  1 x  4 x  1.333 Bottom Hinge
+
+   30161PA1.DAT               Windscreen  1 x  4 x  1.3 Bottom Hinge with Wipers/Crack Pattern
+   changed to    Windscreen  1 x  4 x  1.333 Bottom Hinge w/ Wipers/Crack Pattern
+
+   30461.DAT                  Animal Dinosaur Body Upper Triceratops
+   changed to    ~Animal Dinosaur Body Upper Triceratops
+
+   30462.DAT                  Animal Dinosaur Body Legs (Needs Work)
+   changed to    ~Animal Body Legs (Needs Work)
+
+   3070BPUA.DAT               Tile  1 x  1 with Silver "AE" Pattern
+   changed to    Tile  1 x  1 with Silver "Æ" Pattern
+
+   3070BPUB.DAT               Tile  1 x  1 with Silver "O Slash" Pattern
+   changed to    Tile  1 x  1 with Silver "Ø" Pattern
+
+   3070BPUC.DAT               Tile  1 x  1 with Silver "A Ring" Pattern
+   changed to    Tile  1 x  1 with Silver "Å" Pattern
+
+   3070BPUD.DAT               Tile  1 x  1 with Silver "O Diaeresis" Pattern
+   changed to    Tile  1 x  1 with Silver "Ö" Pattern
+
+   3070BPUE.DAT               Tile  1 x  1 with Silver "U Diaeresis" Pattern
+   changed to    Tile  1 x  1 with Silver "Ü" Pattern
+
+   3194P03.DAT                Door  1 x  5 x  4 Right with Stripes & Train Logo Pattern
+   changed to    Door  1 x  5 x  4 Right w. rd/wh/bl Stripe & bl Tr. Logo Pattern
+
+   3195P03.DAT                Door  1 x  5 x  4 Left with Stripes & Train Logo Pattern
+   changed to    Door  1 x  5 x  4 Left w. rd/wh/bl Stripe & bl Tr. Logo Pattern
+
+   32040.DAT                  Technic Shock Absorber 10L Damped, Gasket
+   changed to    ~Technic Shock Absorber 10L Damped, Gasket
+
+   32181.DAT                  Technic Shock Absorber 10L Damped, Cylinder
+   changed to    ~Technic Shock Absorber 10L Damped, Cylinder
+
+   32181C01.DAT               Technic Shock Absorber 10L Damped, Cylinder with Cap Shortcut
+   changed to    ~Technic Shock Absorber 10L Damped, TrClear Cylinder w Cap (Cpl)
+
+   32181C02.DAT               Technic Shock Absorber 10L Damped, (Complete Assembly Shortcut)
+   changed to    Technic Shock Absorber 10L Damped, TrClear Cylinder (Complete)
+
+   32182.DAT                  Technic Shock Absorber 10L Damped, Cylinder Cap
+   changed to    ~Technic Shock Absorber 10L Damped, Cylinder Cap
+
+   32183.DAT                  Technic Shock Absorber 10L Damped, Piston Rod
+   changed to    ~Technic Shock Absorber 10L Damped, Piston Rod
+
+   32183C01.DAT               Technic Shock Absorber 10L Damped, Piston Rod w/ Gasket Shortcut
+   changed to    ~Technic Shock Absorber 10L Damped, Piston Rod with Gasket (Cpl)
+
+   32296.DAT                  Tyre Technic Racing
+   changed to    Tyre 50/ 29 x 54 Technic Racing
+
+   322C01.DAT                 Electric Lightbrick  2 x  4 without Light Bulb (Complete)
+   changed to    Electric Lightbrick  2 x  4 with Lightbulb Holder (Complete)
+
+   32474.DAT                  Technic Ball Joint
+   changed to    Technic Ball Joint with Axlehole Blind
+
+   3626BPH4.DAT               Minifig Head with Gregory Goyle/Harry Potter Pattern
+   changed to    Minifig Head with Gregory Goyle/Harry Potter 2-Sided Pattern
+
+   3626BPH5.DAT               Minifig Head with Vincent Crabbe/Ron Weasley Pattern
+   changed to    Minifig Head with Vincent Crabbe/Ron Weasley 2-Sided Pattern
+
+   3626BPQ0.DAT               Minifig Head Mummy Face 2-Sided with 2 Eyes / 1 Eye Pattern
+   changed to    Minifig Head Mummy Face with 2 Eyes / 1 Eye 2-Sided Pattern
+
+   3626BPQ1.DAT               Minifig Head Mummy Face 2-Sided with 2 Eyes / Gold Death Mask
+   changed to    Minifig Head Mummy with 2 Eyes / Gold Death Mask 2-Sided Pattern
+
+   3626BPSC.DAT               Minifig Head with SW Grey Eyebrows & Implant Pattern
+   changed to    Minifig Head with SW Grey Eyebrows & Implant 2-Sided Pattern
+
+   3626CPM2.DAT               Minifig Head with LOTR Brown Eyebrows Worried/Smile Pattern
+   changed to    Minifig Head with LOTR Worried / Smile 2-Sided Pattern
+
+   3644.DAT                   Door  1 x  4 x  6
+   changed to    Door  1 x  4 x  6 Grooved
+
+   3741.DAT                   Plant Flower Stem
+   changed to    ~Plant Flower Stem (Obsolete)
+
+   3741C01.DAT                Plant Flower Stem with Three Flowers (Complete)
+   changed to    ~Plant Flower Stem with Three Flowers (Obsolete)
+
+   4532.DAT                   Container Cupboard  2 x  3 x  2
+   changed to    Container Cupboard  2 x  3 x  2 with Solid Studs
+
+   4625.DAT                   Hinge Tile  1 x  4 
+   changed to    Hinge Tile  1 x  4
+
+   56220.DAT                  ~Electric Mindstorms NXT 7.4V Rechargeable Li-ion Battery
+   changed to    ~Electric Mindstorms NXT 7.4V Rechargeable Li-Ion Battery
+
+   6019.DAT                   Plate  1 x  1 with Clip Horizontal
+   changed to    Plate  1 x  1 with Clip Horizontal (Open U-Clip)
+
+   635.DAT                    Conveyor Belt Part 5
+   changed to    Conveyor Belt Axle with Crank
+
+   636.DAT                    Conveyor Belt Part 6
+   changed to    Conveyor Belt Axle
+
+   6573.DAT                   Technic Differential New
+   changed to    Technic Differential with Gear 16 Tooth and 24 Tooth
+
+   715.DAT                    Wheel with 12 Studs
+   changed to    Wheel Rim  8 x 35 with 12 Studs with Axle (Complete)
+
+   73590A.DAT                 Hose Flexible 8.5L without Tabs (Complete Assembly Shortcut)
+   changed to    Hose Flexible  8.5L without Tabs
+
+   751.DAT                    Hose Flexible Tube 7L
+   changed to    ~Hose Flexible Tube  7L
+
+   752.DAT                    Hose Flexible End  1 x  1 x  2/3 without Tabs
+   changed to    Hose Flexible End  1 x  1 x  0.667 without Tabs
+
+   765C01.DAT                 Electric Plug Single (Complete)
+   changed to    Electric Plug (Type 4) Single (Complete)
+
+   93598.DAT                  Windscreen  2 x  4 x  2 on  2 x  3 Base
+   changed to    Windscreen  2 x  3 x  2 on  2 x  4 Base
+
+   973P11.DAT                 ~Minifig Torso with Dungarees Pattern, Obsolete
+   changed to    ~Minifig Torso with Dungarees Pattern (Obsolete)
+
+   973P15.DAT                 ~Minifig Torso with Horizontal Stripes Pattern, Obsolete
+   changed to    ~Minifig Torso with Horizontal Stripes Pattern (Obsolete)
+
+   973P35.DAT                 ~Minifig Torso with Imperial Guard Pattern, Obsolete
+   changed to    ~Minifig Torso with Imperial Guard Pattern (Obsolete)
+
+   973P37.DAT                 ~Minifig Torso with Imperial Guard Officer Pattern, Obsolete
+   changed to    ~Minifig Torso with Imperial Guard Officer Pattern (Obsolete)
+
+   973P4A.DAT                 ~Minifig Torso with Castle Bodice Pattern, Obsolete
+   changed to    ~Minifig Torso with Castle Bodice Pattern (Obsolete)
+
+   973P65.DAT                 ~Minifig Torso with Futuron Pattern, Obsolete
+   changed to    ~Minifig Torso with Futuron Pattern (Obsolete)
+
+   2507S01.DAT                ~Windscreen 10 x  4 x  2 & 1/3 Canopy without Front Faces
+   changed to    ~Windscreen 10 x  4 x  2 &  1.333 Canopy without Front Faces
+
+   30161S01.DAT               ~Windscreen  1 x  4 x  1.3 with Bottom Hinge w/o Front Surface
+   changed to    ~Windscreen  1 x  4 x  1.333 with Bottom Hinge w/o Front Surface
+
+   3068P69A.DAT               ~Tile  2 x  2 with Space Police II Pattern - Text
+   changed to    ~Space Police II Pattern - Text
+
+   32296S.DAT                 ~Tyre Technic Racing subpart
+   changed to    ~Tyre 50/ 29 x 54 Technic Racing - 1/12 Segment
+
+   4865P01B.DAT               ~Pattern Train Logo  1 x  2 - Background
+   changed to    ~Pattern Train Logo - Background
+
+   4865P01C.DAT               ~Pattern Train Logo  1 x  2 - Foreground
+   changed to    ~Pattern Train Logo - Foreground
+
+   U9068.DAT                  Rack Winder Axle
+   changed to    Rack Winder  2 x  4 x  2 Axle
+
+Other Fixed Parts
+   STUDEL.DAT                 Stud with Electric Contact
+   10P01.DAT                  Baseplate 24 x 32 with Set 363 Dots Pattern
+   10P02.DAT                  Baseplate 24 x 32 with Set 354 Dots Pattern
+   10P03.DAT                  Baseplate 24 x 32 with Set 358 Dots Pattern
+   10P05.DAT                  Baseplate 24 x 32 with Set 351 Dots Pattern
+   10P06.DAT                  Baseplate 24 x 32 with Set 149 Dots Pattern
+   10P07.DAT                  Baseplate 24 x 32 with Set 346 Dots Pattern
+   10P08.DAT                  Baseplate 24 x 32 with Set 353 Dots Pattern
+   10P09.DAT                  Baseplate 24 x 32 with Set 372 Dots Pattern
+   10P0A.DAT                  Baseplate 24 x 32 with Set 1601 Dots Pattern
+   10P0B.DAT                  Baseplate 24 x 32 with Set 361 Dots Pattern
+   2335P44.DAT                Flag  2 x  2 with Wolfman Pattern
+   2337.DAT                   Windscreen  4 x  4 x  2 Canopy Extender
+   2348A.DAT                  Glass for Hinge Car Roof  4 x  4 Sunroof without Ridges
+   2348B.DAT                  Glass for Hinge Car Roof  4 x  4 Sunroof with Ridges
+   2362AP53.DAT               Panel  1 x  2 x  3 with Space Police I Left Pattern
+   2362AP54.DAT               Panel  1 x  2 x  3 with Space Police I Right Pattern
+   2431PC0.DAT                Tile  1 x  4 with Train Controls Pattern
+   2431PS1.DAT                Tile  1 x  4 with Black and Copper Circuits Pattern
+   2454PS5.DAT                Brick  1 x  2 x  5 with SW Han Solo Carbonite Pattern
+   2468.DAT                   Panel  3 x  3 x  6 Corner Convex
+   2468P53.DAT                Panel  3 x  3 x  6 Corner Convex with Space Police Left Pattern
+   2468P54.DAT                Panel  3 x  3 x  6 Corner Convex with Space Police Right Pattern
+   2483.DAT                   Windscreen  4 x  4 x  3.667 Helicopter
+   2513P04.DAT                Car Mudguard  3 x  4 with Dual Headlights Pattern
+   2796.DAT                   ~Technic Pneumatic Cylinder 2 x 2 Piston Rod 4L Cylindrical
+   2797C01.DAT                Technic Pneumatic Pump 2 x 2 x 5 with Large Knob (Retracted)
+   2797C02.DAT                Technic Pneumatic Pump 2 x 2 x 5 with Large Knob (Extended)
+   2873.DAT                   Hinge Tile  2 x  4 with Ribs
+   2979.DAT                   ~Electric Temperature Sensor Top
+   3004PH2.DAT                Brick  1 x  2 with Silver Snake on Green Shield Pattern
+   30102P01.DAT               Door  2 x  8 x  6 Revolving with Ninja Pattern
+   3010P08.DAT                Brick  1 x  4 with Basic Car Headlights Pattern
+   30174.DAT                  Minifig Armor Samurai
+   30332.DAT                  Propellor  3 Blade  9 Diameter
+   304C01.DAT                 Train Signal Semaphore 4.5V (Complete) Stop Position Red/White
+   304C02.DAT                 Train Signal Semaphore 4.5V (Complete) Proceed Pos. Red/White
+   3066.DAT                   Brick  1 x  4 without Centre Studs
+   3068BP51.DAT               Tile  2 x  2 with Spyrius Machinery Pattern
+   3069BP07.DAT               Tile  1 x  2 with Arrow Long DkRed with Silver Border Pattern
+   3069BP15.DAT               Tile  1 x  2 with Arrow Short DkRed with Silver Border Pattern
+   3069BP28.DAT               Tile  1 x  2 with Blue Screen, Red and Silver Panel Pattern
+   3069BP51.DAT               Tile  1 x  2 with Yellow and Orange Display Pattern
+   3069BP53.DAT               Tile  1 x  2 with Mars Orbit Display Pattern
+   3069BP54.DAT               Tile  1 x  2 with UFO Controls Pattern
+   3069BPAP.DAT               Tile  1 x  2 with Blue Boxes and Bubbles Pattern
+   3070BPTA.DAT               Tile  1 x  1 with Silver "A" Pattern
+   3070BPTB.DAT               Tile  1 x  1 with Silver "B" Pattern
+   3070BPTC.DAT               Tile  1 x  1 with Silver "C" Pattern
+   3070BPTD.DAT               Tile  1 x  1 with Silver "D" Pattern
+   3070BPTE.DAT               Tile  1 x  1 with Silver "E" Pattern
+   3070BPTF.DAT               Tile  1 x  1 with Silver "F" Pattern
+   3070BPTG.DAT               Tile  1 x  1 with Silver "G" Pattern
+   3070BPTH.DAT               Tile  1 x  1 with Silver "H" Pattern
+   3070BPTI.DAT               Tile  1 x  1 with Silver "I" Pattern
+   3070BPTJ.DAT               Tile  1 x  1 with Silver "J" Pattern
+   3070BPTK.DAT               Tile  1 x  1 with Silver "K" Pattern
+   3070BPTL.DAT               Tile  1 x  1 with Silver "L" Pattern
+   3070BPTM.DAT               Tile  1 x  1 with Silver "M" Pattern
+   3070BPTN.DAT               Tile  1 x  1 with Silver "N" Pattern
+   3070BPTO.DAT               Tile  1 x  1 with Silver "O" Pattern
+   3070BPTP.DAT               Tile  1 x  1 with Silver "P" Pattern
+   3070BPTQ.DAT               Tile  1 x  1 with Silver "Q" Pattern
+   3070BPTR.DAT               Tile  1 x  1 with Silver "R" Pattern
+   3070BPTS.DAT               Tile  1 x  1 with Silver "S" Pattern
+   3070BPTT.DAT               Tile  1 x  1 with Silver "T" Pattern
+   3070BPTU.DAT               Tile  1 x  1 with Silver "U" Pattern
+   3070BPTV.DAT               Tile  1 x  1 with Silver "V" Pattern
+   3070BPTW.DAT               Tile  1 x  1 with Silver "W" Pattern
+   3070BPTX.DAT               Tile  1 x  1 with Silver "X" Pattern
+   3070BPTY.DAT               Tile  1 x  1 with Silver "Y" Pattern
+   3070BPTZ.DAT               Tile  1 x  1 with Silver "Z" Pattern
+   322C02.DAT                 Electric Lightbrick  2 x  4 with Lightbulb (Complete)
+   3298P53.DAT                Slope Brick 33  3 x  2 with Space Police I Pattern
+   3298P69.DAT                Slope Brick 33  3 x  2 with Space Police II Pattern
+   3492C01.DAT                Crane Grab Jaws (Complete)
+   3492C02.DAT                Crane Grab Jaws Open (Shortcut)
+   3626BPA7.DAT               Minifig Head with Monocle, Scar, and Moustache Pattern
+   3629PW2.DAT                Minifig Hat Cowboy with Silver Star Pattern
+   3815PDE.DAT                Minifig Hips with Laboratory Smock Pattern
+   3817P6W.DAT                Minifig Leg Left with Golden Circuit Pattern
+   3846P44.DAT                Minifig Shield Triangular with Wolfpack Pattern
+   4213.DAT                   Hinge Car Roof  4 x  4
+   4315.DAT                   Hinge Plate  1 x  4 with Car Roof Holder
+   45705.DAT                  Windscreen 10 x  6 x  2
+   4773A.DAT                  ~Electric Light & Sound Brick  2 x  2 x  1.333 Siren Top
+   50946P01.DAT               Car Grille  2 x  2.5 x  3 with Sloped Front and Silver Frame
+   559C01.DAT                 Winch  4 x  4 x  2 with Sloped Top with Black Drum (Complete)
+   559C02.DAT                 Winch  4 x  4 x  2 with Sloped Top with Red Drum (Complete)
+   62274C01.DAT               Technic Power Functions Linear Actuator Piston (Complete)
+   6538A.DAT                  Technic Axle Joiner
+   6538B.DAT                  Technic Axle Joiner Offset
+   71015.DAT                  Minifig Hat Crown
+   71137.DAT                  Exhaust Pipe
+   754.DAT                    ~Hose Flexible Segment Link Section
+   755.DAT                    ~Hose Flexible Segment End Section
+   88930.DAT                  Slope Brick Curved  2 x  4 with Underside Studs
+   935.DAT                    ~Electric Mindstorms NXT USB Type B Socket
+   973P44.DAT                 Minifig Torso with Wolfpack Pattern
+   973P8G.DAT                 Minifig Torso with Blue Shirt and Safety Stripes Pattern
+   973PM2.DAT                 Minifig Torso with LOTR Button Shirt with Braces Pattern
+   10S01.DAT                  ~Baseplate 24 x 32 with Rounded Corners without Studs
+   2431PS1A.DAT               ~Tile  1 x  4 with Black and Copper Circuits Pattern - Half
+   3846P44B.DAT               ~Wolfpack Pattern - Background
+   3960PV4A.DAT               ~Viking Blue White Shield Pattern
+   3960PVB.DAT                ~Viking Shield Perimeter and Rivet
+   4474S01.DAT                ~Windscreen  6 x  4 x  2 Canopy without Outside Faces
+   561S01.DAT                 ~Electric  4.5V Battery Box Contact
+   973P44C.DAT                ~Minifig Torso with Wolfman Pattern - maroon

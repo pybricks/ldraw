@@ -1,7 +1,7 @@
 0 LDraw.org Configuration File
 0 Name: LDCfgalt.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2012-09-13
+0 !LDRAW_ORG Configuration UPDATE 2013-03-08
 
 0 // LDraw Solid Colors
 0 !COLOUR Black                              CODE  0    VALUE #05131D   EDGE #3F474C
@@ -115,7 +115,7 @@
 
 0 // LDraw Pearl Colors
 0 !COLOUR Pearl_White                        CODE 183   VALUE #F2F3F2   EDGE #FFFFFF                               PEARLESCENT
-0 !COLOUR Pearl_Very_Light_Grey              CODE 150   VALUE #BBBDBC   EDGE #C3C7C5                               PEARLESCENT
+0 !COLOUR Pearl_Very_Light_Gray              CODE 150   VALUE #BBBDBC   EDGE #C3C7C5                               PEARLESCENT
 0 !COLOUR Pearl_Light_Gray                   CODE 135   VALUE #9CA3A8   EDGE #6C7378                               PEARLESCENT
 0 !COLOUR Flat_Silver                        CODE 179   VALUE #898788   EDGE #696768                               PEARLESCENT
 0 !COLOUR Pearl_Dark_Gray                    CODE 148   VALUE #575857   EDGE #424342                               PEARLESCENT
@@ -129,7 +129,7 @@
 0 // LDraw Metallic Colors
 0 !COLOUR Metallic_Silver                    CODE  80   VALUE #A5A9B4   EDGE #A6AAB8                               METAL
 0 !COLOUR Metallic_Green                     CODE  81   VALUE #899B5F   EDGE #8EA15F                               METAL
-0 !COLOUR Metallic_Gold                      CODE  82   VALUE #8C5C20   EDGE #CD9E56                               METAL
+0 !COLOUR Metallic_Gold                      CODE  82   VALUE #DBAC34   EDGE #CD9E56                               METAL
 0 !COLOUR Metallic_Black                     CODE  83   VALUE #1A2831   EDGE #000000                               METAL
 0 !COLOUR Metallic_Dark_Gray                 CODE  87   VALUE #6D6E5C   EDGE #5D5B53                               METAL
 

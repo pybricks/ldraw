@@ -1,16 +1,19 @@
-0 Animal Dinosaur Body Legs (Needs Work)
+0 ~Animal Body Legs (Needs Work)
 0 Name: 30462.dat
 0 Author: Stan Isachenko [angmarec]
-0 !LDRAW_ORG Part UPDATE 2012-02
+0 !LDRAW_ORG Part UPDATE 2013-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Adventurers, Harry Potter
+0 !KEYWORDS Adventurers, Dinosaur
+0 !KEYWORDS Harry Potter, Dog, Three headed, Fluffy
 
 0 !HISTORY 2011-11-06 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2011-11-07 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+0 !HISTORY 2013-01-31 [MagFors] Added ~ to description
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
 0 // Needs Work: There is no interior
 
@@ -1050,4 +1053,3 @@
 2 24 -18.494 56.183 71.75 -18.494 56.183 81.95
 2 24 -18.494 56.183 81.95 -28.495 56.183 81.95
 2 24 -31.499 56.183 81.95 -36.288 56.183 81.95
-

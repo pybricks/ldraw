@@ -1,67 +1,19 @@
-0 ~Monorail Wheel with Axle
+0 ~Axle Steel  5 x 67.5 with Two Wheels  1.6 x 10
 0 Name: 2688.dat
 0 Author: Bernd Broich [bbroich]
-0 !LDRAW_ORG Part UPDATE 2002-05
+0 !LDRAW_ORG Shortcut UPDATE 2013-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
 
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2013-02-28 [MagFors] Changed colour 383 to 494 (real metal)
+0 !HISTORY 2013-02-28 [MagFors] BFC'd, reduced filesize, changed parttype
+0 !HISTORY 2013-03-08 [MagFors] Created wheel and axle parts
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
-0 // Wheel 1
-1 16 0 0 -26.5 -12 0 0 0 0 -12 0 3.5 0 48\1-4edge.dat
-1 16 0 0 -26.5 -12 0 0 0 0 12 0 3.5 0 48\1-4edge.dat
-1 16 0 0 -26.5 12 0 0 0 0 -12 0 3.5 0 48\1-4edge.dat
-1 16 0 0 -26.5 12 0 0 0 0 12 0 3.5 0 48\1-4edge.dat
-1 16 0 0 -30 -12 0 0 0 0 -12 0 3.5 0 48\1-4edge.dat
-1 16 0 0 -30 -12 0 0 0 0 12 0 3.5 0 48\1-4edge.dat
-1 16 0 0 -30 12 0 0 0 0 -12 0 3.5 0 48\1-4edge.dat
-1 16 0 0 -30 12 0 0 0 0 12 0 3.5 0 48\1-4edge.dat
-
-1 16 0 0 -26.5 -12 0 0 0 0 -12 0 -3.5 0 48\1-4disc.dat
-1 16 0 0 -26.5 -12 0 0 0 0 12 0 -3.5 0 48\1-4disc.dat
-1 16 0 0 -26.5 12 0 0 0 0 -12 0 -3.5 0 48\1-4disc.dat
-1 16 0 0 -26.5 12 0 0 0 0 12 0 -3.5 0 48\1-4disc.dat
-1 16 0 0 -30 -12 0 0 0 0 -12 0 3.5 0 48\1-4disc.dat
-1 16 0 0 -30 -12 0 0 0 0 12 0 3.5 0 48\1-4disc.dat
-1 16 0 0 -30 12 0 0 0 0 -12 0 3.5 0 48\1-4disc.dat
-1 16 0 0 -30 12 0 0 0 0 12 0 3.5 0 48\1-4disc.dat
-
-1 16 0 0 -26.5 -12 0 0 0 0 -12 0 -3.5 0 48\1-4cyli.dat
-1 16 0 0 -26.5 -12 0 0 0 0 12 0 -3.5 0 48\1-4cyli.dat
-1 16 0 0 -26.5 12 0 0 0 0 -12 0 -3.5 0 48\1-4cyli.dat
-1 16 0 0 -26.5 12 0 0 0 0 12 0 -3.5 0 48\1-4cyli.dat
-
-0 Wheel 2
-1 16 0 0 26.5 -12 0 0 0 0 -12 0 -3.5 0 48\1-4edge.dat
-1 16 0 0 26.5 -12 0 0 0 0 12 0 -3.5 0 48\1-4edge.dat
-1 16 0 0 26.5 12 0 0 0 0 -12 0 -3.5 0 48\1-4edge.dat
-1 16 0 0 26.5 12 0 0 0 0 12 0 -3.5 0 48\1-4edge.dat
-1 16 0 0 30 -12 0 0 0 0 -12 0 -3.5 0 48\1-4edge.dat
-1 16 0 0 30 -12 0 0 0 0 12 0 -3.5 0 48\1-4edge.dat
-1 16 0 0 30 12 0 0 0 0 -12 0 -3.5 0 48\1-4edge.dat
-1 16 0 0 30 12 0 0 0 0 12 0 -3.5 0 48\1-4edge.dat
-
-1 16 0 0 26.5 -12 0 0 0 0 -12 0 3.5 0 48\1-4disc.dat
-1 16 0 0 26.5 -12 0 0 0 0 12 0 3.5 0 48\1-4disc.dat
-1 16 0 0 26.5 12 0 0 0 0 -12 0 3.5 0 48\1-4disc.dat
-1 16 0 0 26.5 12 0 0 0 0 12 0 3.5 0 48\1-4disc.dat
-1 16 0 0 30 -12 0 0 0 0 -12 0 -3.5 0 48\1-4disc.dat
-1 16 0 0 30 -12 0 0 0 0 12 0 -3.5 0 48\1-4disc.dat
-1 16 0 0 30 12 0 0 0 0 -12 0 -3.5 0 48\1-4disc.dat
-1 16 0 0 30 12 0 0 0 0 12 0 -3.5 0 48\1-4disc.dat
-
-1 16 0 0 26.5 -12 0 0 0 0 -12 0 3.5 0 48\1-4cyli.dat
-1 16 0 0 26.5 -12 0 0 0 0 12 0 3.5 0 48\1-4cyli.dat
-1 16 0 0 26.5 12 0 0 0 0 -12 0 3.5 0 48\1-4cyli.dat
-1 16 0 0 26.5 12 0 0 0 0 12 0 3.5 0 48\1-4cyli.dat
-
-0 Axle
-1 16 0 0 30 2.5 0 0 0 0 -2.5 0 -1 0 4-4edge.dat
-1 16 0 0 26.5 2.5 0 0 0 0 -2.5 0 1 0 4-4edge.dat
-1 16 0 0 -26.5 2.5 0 0 0 0 -2.5 0 1 0 4-4edge.dat
-1 16 0 0 -30 2.5 0 0 0 0 -2.5 0 1 0 4-4edge.dat
-1 383 0 0 31 2.5 0 0 0 0 -2.5 0 2.75 0 4-4con0.dat
-1 383 0 0 -31 2.5 0 0 0 0 -2.5 0 62 0 4-4cyli.dat
-1 383 0 0 -31 2.5 0 0 0 0 -2.5 0 -2.75 0 4-4con0.dat
-0
+1 16 0 0 -28.25 1 0 0 0 1 0 0 0 1 u9186.dat
+1 16 0 0  28.25 1 0 0 0 1 0 0 0 1 u9186.dat
+1 494 0 0 0 0 0 1 0 1 0 -1 0 0 u9185.dat
