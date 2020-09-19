@@ -1,12 +1,13 @@
-0 Stud for Round  2 x  2 Parts, 1 Face, Complete Edges
+0 Stud Truncated Laterally Straight 40D for Round  2 x  2 Parts
 0 Name: stud15.dat
 0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG Primitive UPDATE 2011-02
+0 !LDRAW_ORG Primitive UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 0 0 0 0 0 -6 0 1 0 6 0 0 3-4edge.dat
 1 16 0 -4 0 0 0 -6 0 1 0 6 0 0 3-4edge.dat

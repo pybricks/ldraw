@@ -1,7 +1,7 @@
-0 Minifig Hair Orc with Medium Dark Flesh Ears Pattern
+0 Minifig Hair Orc with Medium Nougat Ears Pattern
 0 Name: 10066p02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-02
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,6 +12,8 @@
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-11-05 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+0 !HISTORY 2020-05-10 [cwdee] Update colour name in description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\10066s01.dat
 1 84 0 0 0 1 0 0 0 1 0 0 0 1 s\10066s02.dat

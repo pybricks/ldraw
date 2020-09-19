@@ -1,20 +1,22 @@
-0 ~Brick  5 x  5 Corner Round - Half
+0 ~Brick  5 x  5 x  1 Corner Round with Curved Top - Half
 0 Name: s\24599s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Subpart UPDATE 2016-01
+0 !LDRAW_ORG Subpart UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+0 !HISTORY 2020-01-23 [MagFors] Used mixed-mode torus primitive
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
-1 16 0 20 0 80 0 0 0 -80 0 0 0 80 48\t08o2500.dat
+1 16 0 20 0 80 0 0 0 -80 0 0 0 80 48\tm08o2500.dat
 1 16 0 0 0 20 0 0 0 1 0 0 0 20 48\1-8ring3.dat
 1 16 0 0 0 60 0 0 0 1 0 0 0 60 48\1-8edge.dat
 0 BFC INVERTNEXT
 1 16 0 0 0 60 0 0 0 20 0 0 0 60 48\1-8cyli.dat
-1 16 80 20 0 20 0 0 0 0 -20 0 1 0 48\1-4edge.dat
-1 16 80 20 0 20 0 0 0 0 -20 0 1 0 48\1-4chrd.dat
+1 16 80 20 0 20 0 0 0 0 -20 0 1 0 1-4edge.dat
+1 16 80 20 0 20 0 0 0 0 -20 0 1 0 1-4chrd.dat
 
 0 // inside
 2 24 64 24 4 96 24 4

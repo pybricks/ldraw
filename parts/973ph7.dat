@@ -1,7 +1,7 @@
-0 Minifig Torso HP with Grey Sweater and Light Flesh Neck Pattern
+0 Minifig Torso HP with Grey Sweater and Light Nougat Neck Pattern
 0 Name: 973ph7.dat
 0 Author: Stan Isachenko [angmarec]
-0 !LDRAW_ORG Part UPDATE 2012-03
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Harry Potter
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+0 !HISTORY 2020-05-10 [cwdee] Update colour name in description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 71 0 0 0 1 0 0 0 1 0 0 0 1 s\973ph5a.dat

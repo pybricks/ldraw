@@ -1,7 +1,7 @@
-0 Brick  2 x  2 Round Type 1
+0 Brick  2 x  2 Round without Reinforcement
 0 Name: 3941.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2018-02-20 [MagFors] Used subfile
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3941s01.dat
 1 16 0 0 0 20 0 0 0 20 0 0 0 20 4-4cyli.dat

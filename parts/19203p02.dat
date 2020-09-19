@@ -1,7 +1,7 @@
-0 Figure Elves Hair Short Spiked with Medium Dark Flesh Ears
+0 Figure Elves Hair Short Spiked with Medium Nougat Ears
 0 Name: 19203p02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !HELP Rear accessory position: X = 0,  Y = 9 , Z = 19.7
@@ -12,6 +12,8 @@
 0 !KEYWORDS Tidus Stormsurfer
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+0 !HISTORY 2020-05-10 [cwdee] Update colour name in description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\19203s01.dat
 1 84 0 0 0 1 0 0 0 1 0 0 0 1 s\19203s02.dat

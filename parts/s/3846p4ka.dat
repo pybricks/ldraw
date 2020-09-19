@@ -1,12 +1,14 @@
-0 ~Dark Green Dragon on Medium Dark Flesh and Tan Quarters Pattern
+0 ~Dark Green Dragon on Medium Nougat and Tan Quarters Pattern
 0 Name: s\3846p4ka.dat
 0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG Subpart UPDATE 2011-02
+0 !LDRAW_ORG Subpart UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2020-05-10 [cwdee] Update colour name in description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 4 84 -6.1241 18.1662 0 -13 10 0 -5 22 0 -5.2977 19.5866 0
 3 84 -5.2977 19.5866 0 -5 22 0 -3.972 20.4819 0

@@ -1,0 +1,22 @@
+0 Sheet Plastic 13 x 26 Triangular Sail with Technic Racing Yacht Pattern
+0 Name: 36069bp01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2020-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sheet Plastic
+0 !KEYWORDS Set 42074
+
+0 !TEXMAP START PLANAR 0 -34 -255 0 -34 34 0 500 -255 36069bp01.png
+0 !: 1 16 -.25 0 0 -1 0 0 0 1 0 0 0 1 s\36069bs01.dat
+0 !: 1 16 .25 0 0 1 0 0 0 1 0 0 0 1 s\36069bs01.dat
+0 !TEXMAP FALLBACK
+
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
+1 16 -.25 0 0 -1 0 0 0 1 0 0 0 1 s\36069bp01s01.dat
+1 16 .25 0 0 1 0 0 0 1 0 0 0 1 s\36069bp01s01.dat
+0 !TEXMAP END 
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\36069bs02.dat

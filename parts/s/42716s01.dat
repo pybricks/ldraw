@@ -1,14 +1,17 @@
-0 ~Wheel Rim 20 x 30 "Torq Thurst" Spoke Segment
+0 ~Wheel Rim 20 x 30 "Torq Thrust" Spoke Segment
 0 Name: s\42716s01.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Subpart UPDATE 2019-02
+0 !LDRAW_ORG Subpart UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+0 !HISTORY 2020-01-07 [cwdee] Correct typo in description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 0 // Spoke Half
+
 3 16 -5.247 19.391 -10.15 -7.151 30.216 -7 -8.156 25.751 -8.25
 3 16 -8.156 25.751 -8.25 -6.131 16.751 -10.5 -5.247 19.391 -10.15
 3 16 -3.937 10.751 -11.306 -2.982 12.671 -11.306 -5.247 19.391 -10.15

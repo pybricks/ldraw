@@ -1,0 +1,16 @@
+0 Minifig Shield Ovoid with Red Fire Breathing Dragon Head on Black Background Pattern
+0 Name: 2586p4n.dat
+0 Author: Yann Bouzon [Zaghor]
+0 !LDRAW_ORG Part UPDATE 2020-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS BrickLink 2586pb007, set 70402, set 70403, set 850889
+
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2586s01.dat
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\2586p4ns01.dat
+1 4 0 0 0 -1 0 0 0 1 0 0 0 1 s\2586p4ns01.dat

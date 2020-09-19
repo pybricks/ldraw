@@ -1,7 +1,7 @@
-0 Tile  4 x  4 with Studs on Edge with Blue Pictograms Pattern
+0 Plate  4 x  4 with 4 Studs on One Edge with Blue Pictograms Pattern
 0 Name: 6179px0.dat
 0 Author: Vincent Messenet [Cheenzo]
-0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS BrickLink 6179pb091, Ideas, Set 21302, Big Bang Theory
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !HISTORY 2020-05-25 [PTadmin] Update description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6179s01.dat
 

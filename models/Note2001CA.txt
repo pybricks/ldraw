@@ -1,0 +1,627 @@
+LDraw.org Parts Update 2020-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Sun Jun 28 17:11:17 2020 by the Parts Tracker.
+
+Release statistics:
+   Total files: 1009
+   New files: 771
+   New parts: 444
+   New subparts: 253
+   New primitives: 22
+   New lo-res primitives: 8
+   New hi-res primitives: 38
+   New part texture images: 6
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   165.DAT                    ~Moved to 71533k01
+   166.DAT                    ~Moved to 71533k03
+   2680.DAT                   ~Moved to 2680a
+   30151.DAT                  ~Moved to 30151a
+   3067P13.DAT                ~Moved to 3067ap13
+   3067P14.DAT                ~Moved to 3067ap14
+   3818P01.DAT                ~Moved to 16000p01
+   3819P01.DAT                ~Moved to 16001p01
+   556.DAT                    ~Moved to 4330
+   71427C01.DAT               ~Moved to 71427
+   887.DAT                    ~Moved to 6094
+   888.DAT                    ~Moved to 6095
+   889.DAT                    ~Moved to u9349
+   889C01.DAT                 ~Moved to 74948
+   92710C01.DAT               ~Moved to 92709c01
+   92710C02.DAT               ~Moved to 92709c02
+   92710C03.DAT               ~Moved to 92709c03
+   973D05.DAT                 ~Moved to 973d01
+   556S01.DAT                 ~Moved to s\4330s01
+   556S02.DAT                 ~Moved to s\4330s02
+   889S01.DAT                 ~Moved to 70926
+
+Renamed Parts
+   STUD10.DAT                 Stud For Round  2 x  2 Parts (Fast Draw)
+   changed to    Stud Truncated Laterally Curved 40D for Round  2 x  2 Parts (Fast Draw)
+
+   STUD13.DAT                 Stud for Electric L & S Brick  2 x  2 x  1.333 (Fast-Draw)
+   changed to    Stud Truncated Laterally Straight 38D for Electric Light & Sound Brick  2 x  2 x  1.333 (Fast-Draw)
+
+   STUD15.DAT                 Stud for Round  2 x  2 Parts, 1 Face, Complete Edges (Fast-Draw)
+   changed to    Stud Truncated Laterally Straight 40D for Round  2 x  2 Parts (Fast-Draw)
+
+   STUD10.DAT                 Stud For Round   2 x  2 Parts
+   changed to    Stud Truncated Laterally Curved 40D for Round  2 x  2 Parts
+
+   STUD13.DAT                 Stud for Electric Light & Sound Brick  2 x  2 x  1.333
+   changed to    Stud Truncated Laterally Straight 38D for Electric Light & Sound Brick  2 x  2 x  1.333
+
+   STUD15.DAT                 Stud for Round  2 x  2 Parts, 1 Face, Complete Edges
+   changed to    Stud Truncated Laterally Straight 40D for Round  2 x  2 Parts
+
+   STUG10-2X2.DAT             Stud Group For Round  2 x  2 Parts
+   changed to    Stud Group Truncated Laterally Curved 40D for Round 2 x 2 Parts
+
+   10066P02.DAT               Minifig Hair Orc with Medium Dark Flesh Ears Pattern
+   changed to    Minifig Hair Orc with Medium Nougat Ears Pattern
+
+   11202P01.DAT               Figure Friends Legs with Shorts with Medium Dark Flesh Legs and Magenta Sandals Pattern
+   changed to    Figure Friends Legs with Shorts with Medium Nougat Legs and Magenta Sandals Pattern
+
+   11202P01C01.DAT            Figure Friends Hips and Legs with Shorts with Medium Dark Flesh Legs and Magenta Sandals Pattern
+   changed to    Figure Friends Hips and Legs with Shorts with Medium Nougat Legs and Magenta Sandals Pattern
+
+   11202P02.DAT               Figure Friends Legs with Shorts with Light Flesh Legs and Magenta Sandals Pattern
+   changed to    Figure Friends Legs with Shorts with Light Nougat Legs and Magenta Sandals Pattern
+
+   11202P02C01.DAT            Figure Friends Hips and Legs with Shorts with Light Flesh Legs and Magenta Sandals Pattern
+   changed to    Figure Friends Hips and Legs with Shorts with Light Nougat Legs and Magenta Sandals Pattern
+
+   11202P03.DAT               Figure Friends Legs with Shorts with Medium Dark Flesh Legs and Shoes with Magenta Stripe Pattern
+   changed to    Figure Friends Legs with Shorts with Medium Nougat Legs and Shoes with Magenta Stripe Pattern
+
+   11202P03C01.DAT            Figure Friends Hips and Legs with Shorts with Medium Dark Flesh Legs and Shoes with Magenta Stripe Pattern
+   changed to    Figure Friends Hips and Legs with Shorts with Medium Nougat Legs and Shoes with Magenta Stripe Pattern
+
+   11202P04.DAT               Figure Friends Legs with Shorts, Light Flesh Legs and Sand Blue Laces on Yellow and White Shoes Pattern
+   changed to    Figure Friends Legs with Shorts, Light Nougat Legs and Sand Blue Laces on Yellow and White Shoes Pattern
+
+   11202P04C01.DAT            Figure Friends Hips and Legs with Shorts, Light Flesh Legs and Sand Blue Laces on Yellow and White Shoes Pattern
+   changed to    Figure Friends Hips and Legs with Shorts, Light Nougat Legs and Sand Blue Laces on Yellow and White Shoes Pattern
+
+   11203.DAT                  Tile  2 x  2 Inverted with Groove
+   changed to    Plate  2 x  2 Inverted with Groove
+
+   11244P01.DAT               Figure Friends Legs with Wrap-around Skirt with Light Flesh Legs and Dark Blue Sandals Pattern
+   changed to    Figure Friends Legs with Wrap-around Skirt with Light Nougat Legs and Dark Blue Sandals Pattern
+
+   11244P01C01.DAT            Figure Friends Hips and Legs with Wrap-around Skirt with Light Flesh Legs and Dark Blue Sandals Pattern
+   changed to    Figure Friends Hips and Legs with Wrap-around Skirt with Light Nougat Legs and Dark Blue Sandals Pattern
+
+   11244P02.DAT               Figure Friends Legs with Wrap-around Skirt with Light Flesh Legs and Medium Azure Sandals Pattern
+   changed to    Figure Friends Legs with Wrap-around Skirt with Light Nougat Legs and Medium Azure Sandals Pattern
+
+   11244P02C01.DAT            Figure Friends Hips and Legs with Wrap-around Skirt with Light Flesh Legs and Medium Azure Sandals Pattern
+   changed to    Figure Friends Hips and Legs with Wrap-around Skirt with Light Nougat Legs and Medium Azure Sandals Pattern
+
+   11244P04.DAT               Figure Friends Legs with Wrap-around Skirt with Blue Layer, Light Flesh Legs and Sandals with Ornamented Silver Straps Pattern
+   changed to    Figure Friends Legs with Wrap-around Skirt with Blue Layer, Light Nougat Legs and Sandals with Ornamented Silver Straps Pattern
+
+   11244P04C01.DAT            Figure Friends Hips and Legs with Wrap-around Skirt with Blue Layer, Light Flesh Legs and Sandals with Ornamented Silver Straps Pattern
+   changed to    Figure Friends Hips and Legs with Wrap-around Skirt with Blue Layer, Light Nougat Legs and Sandals with Ornamented Silver Straps Pattern
+
+   11244P05.DAT               Figure Friends Legs with Wrap-around Skirt with Tan Layer, Medium Dark Flesh Legs and Bare Feet Pattern
+   changed to    Figure Friends Legs with Wrap-around Skirt with Tan Layer, Medium Nougat Legs and Bare Feet Pattern
+
+   11244P05C01.DAT            Figure Friends Hips and Legs with Wrap-around Skirt with Tan Layer, Medium Dark Flesh Legs and Bare Feet Pattern
+   changed to    Figure Friends Hips and Legs with Wrap-around Skirt with Tan Layer, Medium Nougat Legs and Bare Feet Pattern
+
+   11459P01.DAT               Minifig Plunger with Medium Dark Flesh Handle
+   changed to    Minifig Plunger with Medium Nougat Handle
+
+   13786P04.DAT               Animal Cat Standing Looking Forward with Black Eyes, Tan Chin, Flesh Nose and Reddish Brown Stripes on Forehead Pattern
+   changed to    Animal Cat Standing Looking Forward with Black Eyes, Tan Chin, Nougat Nose and Reddish Brown Stripes on Forehead Pattern
+
+   15341.DAT                  Minifig Mechanical Arm Bent
+   changed to    Minifig Mechanical Arm Bent with Reinforced Elbow with Clips at 90 degrees
+
+   16175P02.DAT               Minifig Construction Helmet with Medium Dark Flesh Hair Short Pattern
+   changed to    Minifig Construction Helmet with Medium Nougat Hair Short Pattern
+
+   18675PS2.DAT               Dish  6 x  6 Inverted - No Studs with Handle with Hatch Pattern
+   changed to    Dish  6 x  6 Inverted - No Studs with Handle with TIE Fighter Hatch Pattern
+
+   19203P01.DAT               Figure Elves Hair Short Spiked with Light Flesh Ears
+   changed to    Figure Elves Hair Short Spiked with Light Nougat Ears
+
+   19203P02.DAT               Figure Elves Hair Short Spiked with Medium Dark Flesh Ears
+   changed to    Figure Elves Hair Short Spiked with Medium Nougat Ears
+
+   19204P01.DAT               Figure Elves Hair Long Wavy with Ears with Yellow Tips and Medium Dark Flesh Ears Pattern
+   changed to    Figure Elves Hair Long Wavy with Ears with Yellow Tips and Medium Nougat Ears Pattern
+
+   20380P01.DAT               Figure Friends Legs with Asymmetric Layered Skirt Short with Medium Orange Ruffle, Medium Dark Flesh Legs and Ornamented Gold Sandals Pattern
+   changed to    Figure Friends Legs with Asymmetric Layered Skirt Short with Medium Orange Ruffle, Medium Nougat Legs and Ornamented Gold Sandals Pattern
+
+   20380P01C01.DAT            Figure Friends Hips and Legs with Asymmetric Layered Skirt Short with Medium Orange Ruffle, Medium Dark Flesh Legs and Ornamented Gold Sandals Pattern
+   changed to    Figure Friends Hips and Legs with Asymmetric Layered Skirt Short with Medium Orange Ruffle, Medium Nougat Legs and Ornamented Gold Sandals Pattern
+
+   20380P02.DAT               Figure Friends Legs with Asymmetric Layered Skirt Short with Magenta Ruffle, Medium Dark Flesh Legs and Magenta Flame Sandals Pattern
+   changed to    Figure Friends Legs with Asymmetric Layered Skirt Short with Magenta Ruffle, Medium Nougat Legs and Magenta Flame Sandals Pattern
+
+   20380P02C01.DAT            Figure Friends Hips and Legs with Asymmetric Layered Skirt Short with Magenta Ruffle, Medium Dark Flesh Legs and Magenta Flame Sandals Pattern
+   changed to    Figure Friends Hips and Legs with Asymmetric Layered Skirt Short with Magenta Ruffle, Medium Nougat Legs and Magenta Flame Sandals Pattern
+
+   23969.DAT                  Panel  1 x  2  x 1 Double Corner with Rounded Corners
+   changed to    Panel  1 x  2 x  1 Double Corner with Rounded Corners
+
+   2431PZ9.DAT                Tile  1 x  4 with Medium Dark Flesh Lightning Shape Pattern
+   changed to    Tile  1 x  4 with Medium Nougat Lightning Shape Pattern
+
+   2431PZD.DAT                Tile  1 x  4 with 10 Medium Dark Flesh Squares Pattern
+   changed to    Tile  1 x  4 with 10 Medium Nougat Squares Pattern
+
+   2431PZG.DAT                Tile  1 x  4 with Reddish Brown Square and Flesh Zig-Zag Pattern
+   changed to    Tile  1 x  4 with Reddish Brown Square and Nougat Zig-Zag Pattern
+
+   24599.DAT                  Brick  5 x  5 Corner Round
+   changed to    Brick  5 x  5 x  1 Corner Round with Curved Top
+
+   2563.DAT                   Plant Tree Palm Base
+   changed to    ~Plant Tree Palm Base (Obsolete)
+
+   2586P4K.DAT                Minifig Shield Ovoid w/ DkGreen Dragon on MdDkFlesh/Tan Pattern
+   changed to    Minifig Shield Ovoid with Dark Green Dragon on Medium Nougat/Tan Pattern
+
+   26603PZ0.DAT               Tile  2 x  3 with Flesh Diamond Pattern
+   changed to    Tile  2 x  3 with Nougat Diamond Pattern
+
+   3004P18.DAT                Brick  1 x  2 with Thin Black "POLICE" Pattern
+   changed to    Brick  1 x  2 with Black Thin "POLICE" Pattern
+
+   30377.DAT                  Minifig Mechanical Arm
+   changed to    Minifig Mechanical Arm with Clips Parallel
+
+   31465.DAT                  Duplo Tile  4 x  6 with Studs on Edge
+   changed to    Duplo Plate  4 x  6 with 6 Studs on One Edge
+
+   3190.DAT                   Door  1 x  3 x  3 Right
+   changed to    Door  1 x  3 x  3 Right with Vertical Handle with Grip
+
+   3191.DAT                   Door  1 x  3 x  3 Left
+   changed to    Door  1 x  3 x  3 Left with Vertical Handle with Grip
+
+   3192A.DAT                  Door  1 x  3 x  4 Right
+   changed to    Door  1 x  3 x  4 Right with Vertical Handle with Grip
+
+   3193A.DAT                  Door  1 x  3 x  4 Left
+   changed to    Door  1 x  3 x  4 Left with Vertical Handle with Grip
+
+   33909.DAT                  Tile  2 x  2 with Studs on Edge
+   changed to    Plate  2 x  2 with 2 Studs on One Edge
+
+   35459.DAT                  Tile  1 x  3 Inverted with Bar Hole
+   changed to    Plate  1 x  3 Inverted with Bar Hole
+
+   3626BPS7.DAT               Minifig Head with SW Black Eyebrows and Scars Pattern
+   changed to    Minifig Head with SW Black Eyebrows and Dark Grey Scars Pattern
+
+   3626CP8H.DAT               Minifig Head with Silver Sunglasses, Eyebrows and Thin Grin Pattern
+   changed to    Minifig Head with Silver Sunglasses, Eyebrows Wavy and Thin Grin Pattern
+
+   3626CP8U.DAT               Minifig Head Female with Medium Dark Flesh Glasses, Laugh Lines, Red Lips, Neutral / Raised Eyebrows Amused 2-Sided Pattern
+   changed to    Minifig Head Female with Medium Nougat Glasses, Laugh Lines, Red Lips, Neutral / Raised Eyebrows Amused 2-Sided Pattern
+
+   3626CPBX.DAT               Minifig Head with Balaclava with Black Eye Mask with White Eye Openings and Light Flesh Face and Scowl Pattern
+   changed to    Minifig Head with Balaclava with Black Eye Mask with White Eye Openings and Light Nougat Face and Scowl Pattern
+
+   3626CPD61.DAT              Minifig Head with White Headband and Flesh Cheek Lines, Smirk Pattern 
+   changed to    Minifig Head with White Headband and Nougat Cheek Lines, Smirk Pattern 
+
+   3626CPD6F.DAT              Minifig Head with Balaclava with Black Eyes and Curled Eyelash, 'Z' in Black Circle, Light Flesh Mouth Hole with Sneer Pattern
+   changed to    Minifig Head with Balaclava with Black Eyes and Curled Eyelash, 'Z' in Black Circle, Light Nougat Mouth Hole with Sneer Pattern
+
+   3626CPD6H.DAT              Minifig Head Female with Brown Eyebrows, Medium Dark Flesh Lips and Brown Beauty Mark on Left Side Pattern
+   changed to    Minifig Head Female with Brown Eyebrows, Medium Nougat Lips and Brown Beauty Mark on Left Side Pattern
+
+   3626CPD6I.DAT              Minifig Head with Balaclava with White Frowning Eyes and Light Flesh Mouth Hole, Reddish Brown Cheek Lines, Open Smile with Teeth Pattern 
+   changed to    Minifig Head with Balaclava with White Frowning Eyes and Light Nougat Mouth Hole, Reddish Brown Cheek Lines, Open Smile with Teeth Pattern 
+
+   3626CPD6J.DAT              Minifig Head with Black Eyebrows, Medium Dark Flesh Cheek Lines, Dark Tan Chin Ornament and Sad Look Pattern
+   changed to    Minifig Head with Black Eyebrows, Medium Nougat Cheek Lines, Dark Tan Chin Ornament and Sad Look Pattern
+
+   3626CPD89.DAT              Minifig Head Female with Balaclava, Medium Dark Flesh Face, Beauty Mark and Crooked Smile Pattern
+   changed to    Minifig Head Female with Balaclava, Medium Nougat Face, Beauty Mark and Crooked Smile Pattern
+
+   3626CPD8C.DAT              Minifig Head with Balaclava with Black Seams and White Eyes with Light Flesh Lower Face Pattern 
+   changed to    Minifig Head with Balaclava with Black Seams and White Eyes with Light Nougat Lower Face Pattern 
+
+   3626CPNB.DAT               Minifig Head with Reddish Brown Eyebrows, Medium Dark Flesh Scar, White Band-Aid, Lopsided Grin with Teeth / Determined 2-Sided Pattern
+   changed to    Minifig Head with Reddish Brown Eyebrows, Medium Nougat Scar, White Band-Aid, Lopsided Grin with Teeth / Determined 2-Sided Pattern
+
+   3626CPX5.DAT               Minifig Head with Brown Eyebrows, Flesh Cheek Lines, Smile / Smile with Teeth 2-Sided Pattern
+   changed to    Minifig Head with Brown Eyebrows, Nougat Cheek Lines, Smile / Smile with Teeth 2-Sided Pattern
+
+   3664.DAT                   Duplo Brick  2 x  2 x  2 with Curved Top (Needs Work)
+   changed to    Duplo Brick  2 x  2 x  2 with Curved Top
+
+   3808.DAT                   Duplo Tile  2 x  4 x  0.333 Half Circle with 2 Studs
+   changed to    Duplo Plate  2 x  4 x  0.333 Half Circle with 2 Studs
+
+   3846P4K.DAT                Minifig Shield Triangular with Dragon on MdDkFlesh/Tan Pattern
+   changed to    Minifig Shield Triangular with Dark Green Dragon on Medium Nougat/Tan Pattern
+
+   39280.DAT                  =Animal Cat Standing Looking Forward with Black Eyes, Tan Chin, Flesh Nose and Reddish Brown Stripes on Forehead Pattern
+   changed to    =Animal Cat Standing Looking Forward with Black Eyes, Tan Chin, Nougat Nose and Reddish Brown Stripes on Forehead Pattern
+
+   3941.DAT                   Brick  2 x  2 Round Type 1
+   changed to    Brick  2 x  2 Round without Reinforcement
+
+   3960P04.DAT                Dish  4 x  4 Inverted with Blue and Red Stripes Pattern
+   changed to    Dish  4 x  4 Inverted with Red and Blue Stripes Pattern
+
+   40573.DAT                  ~_Electric Spybotic Brick with TransRed Cover (Obsolete)
+   changed to    ~Electric Spybotic Brick with TransRed Cover (Obsolete)
+
+   42716.DAT                  Wheel Rim 20 x 30 "Torq Thurst" with  5 Spokes and External Ribs
+   changed to    Wheel Rim 20 x 30 "Torq Thrust" with  5 Spokes and External Ribs
+
+   4607.DAT                   Tile  4 x 16 with 24 Studs
+   changed to    Plate  4 x 16 with Rounded Corners and 3 Groups of 2 x 4 Studs
+
+   47380P01.DAT               Figure Duplo Arm Left Forward Bent with Flesh Hand Pattern
+   changed to    Figure Duplo Arm Left Forward Bent with Nougat Hand Pattern
+
+   47380P02.DAT               Figure Duplo Arm Left Forward Bent with Medium Dark Flesh Hand Pattern
+   changed to    Figure Duplo Arm Left Forward Bent with Medium Nougat Hand Pattern
+
+   47389P01.DAT               Figure Duplo Arm Right Forward Bent with Flesh Hand Pattern
+   changed to    Figure Duplo Arm Right Forward Bent with Nougat Hand Pattern
+
+   47389P02.DAT               Figure Duplo Arm Right Forward Bent with Medium Dark Flesh Hand Pattern
+   changed to    Figure Duplo Arm Right Forward Bent with Medium Nougat Hand Pattern
+
+   47994.DAT                  Technic Connector  3 x  1 x  3 with Two Pins and Two Clips 
+   changed to    Technic Connector  3 x  1 x  3 with 2 Clips and 2 Pins with Round Inside
+
+   52031D50.DAT               Slope Brick 45 4 x 6 x 0.667 Double Curved with White 'LL 929' Exclamation and Arrow Pointing Right Sticker
+   changed to    Slope Brick 45  4 x  6 x  0.667 Double Curved with White 'LL 929' Exclamation and Arrow Pointing Right Sticker
+
+   52031D51.DAT               Slope Brick 45 4 x 6 x 0.667 Double Curved with White 'LL 929' Exclamation and Arrow Pointing Left Sticker
+   changed to    Slope Brick 45  4 x  6 x  0.667 Double Curved with White 'LL 929' Exclamation and Arrow Pointing Left Sticker
+
+   53989.DAT                  Minifig Mechanical Arm with Clip and Rod Hole
+   changed to    Minifig Mechanical Arm with Clip and Rod Hole with Thin Forearm
+
+   55528.DAT                  =Minifig Mechanical Arm
+   changed to    =Minifig Mechanical Arm with Clips Parallel
+
+   57046A.DAT                 Technic Panel Flat Sheet  8 x 17 Triangle with 10 Holes
+   changed to    Sheet Plastic Technic Panel  8 x 17 Triangular with 10 Holes
+
+   57046B.DAT                 Technic Panel Flat Sheet 11 x 23 Triangle with 10 Holes
+   changed to    Sheet Plastic Technic Panel 11 x 23 Triangular with 10 Holes
+
+   57046C.DAT                 Technic Panel Flat Sheet 15 x 33 Triangle with 10 Holes
+   changed to    Sheet Plastic Technic Panel 15 x 33 Triangular with 10 Holes
+
+   57046D.DAT                 Technic Panel Flat Sheet  8 x  8 Circle with  4 Holes
+   changed to    Sheet Plastic Technic Panel  8 x  8 Circular with  4 Holes
+
+   57046E.DAT                 Technic Panel Flat Sheet 10 x 10 Circle with  5 Holes
+   changed to    Sheet Plastic Technic Panel 10 x 10 Circular with  5 Holes
+
+   59230.DAT                  Minifig Mechanical Arm Straight
+   changed to    Minifig Mechanical Arm Straight with Clips at 90 degrees
+
+   60581.DAT                  Panel  1 x  4 x  3 with Side Flanges
+   changed to    Panel  1 x  4 x  3 Reinforced
+
+   60581D50.DAT               Panel  1 x  4 x  3 with Thermometer, Radioactivity Symbol and 'LL2079' in White Squares Sticker
+   changed to    Panel  1 x  4 x  3 Reinforced with Thermometer, Radioactivity Symbol and 'LL2079' in White Squares Sticker
+
+   60581DM0.DAT               Panel  1 x  4 x  3 with Books, Cobweb, Stones and Arrow Right Sticker
+   changed to    Panel  1 x  4 x  3 Reinforced with Books, Cobweb, Stones and Arrow Right Sticker
+
+   60581DM1.DAT               Panel  1 x  4 x  3 with Books, Cobweb, Stones and Arrow Left Sticker
+   changed to    Panel  1 x  4 x  3 Reinforced with Books, Cobweb, Stones and Arrow Left Sticker
+
+   60581DM2.DAT               Panel  1 x  4 x  3 with Diamond Bricks and Eyes Sticker on Inside and Diamond Bricks Type 1 Sticker on Outside
+   changed to    Panel  1 x  4 x  3 Reinforced with Diamond Bricks and Eyes Sticker on Inside and Diamond Bricks Type 1 Sticker on Outside
+
+   60581DM3.DAT               Panel  1 x  4 x  3 with Diamond Bricks, Cobweb and Arrows Sticker
+   changed to    Panel  1 x  4 x  3 Reinforced with Diamond Bricks, Cobweb and Arrows Sticker
+
+   6177.DAT                   Tile  8 x  8 Round with  2 x  2 Center Studs
+   changed to    Plate  8 x  8 Round with  2 x  2 Centre Studs
+
+   6177PH1.DAT                Tile  8 x  8 Round with HP Hogwarts Houses Pattern
+   changed to    Plate  8 x  8 Round with  2 x  2 Centre Studs with HP Hogwarts Houses Pattern
+
+   6177PS1.DAT                Tile  8 x  8 Round with  2 x  2 Studs and Grille Pattern
+   changed to    Plate  8 x  8 Round with  2 x  2 Centre Studs with Grille Pattern
+
+   6178.DAT                   Tile  6 x 12 with Studs on Edges
+   changed to    Plate  6 x 12 with 22 Studs on Three Edges
+
+   6179.DAT                   Tile  4 x  4 with Studs on Edge
+   changed to    Plate  4 x  4 with 4 Studs on One Edge
+
+   6179D01.DAT                Tile  4 x  4 with Studs on Edge with Batman Logo Sticker
+   changed to    Plate  4 x  4 with 4 Studs on One Edge with Batman Logo Sticker
+
+   6179D02.DAT                Tile  4 x  4 with Studs on Edge with Red/Black Stripe Sticker
+   changed to    Plate  4 x  4 with 4 Studs on One Edge with Red/Black Stripe Sticker
+
+   6179PX0.DAT                Tile  4 x  4 with Studs on Edge with Blue Pictograms Pattern
+   changed to    Plate  4 x  4 with 4 Studs on One Edge with Blue Pictograms Pattern
+
+   6205.DAT                   Tile  6 x 16 with Studs on  3 Edges
+   changed to    Plate  6 x 16 with 26 Studs on Three Edges
+
+   63965.DAT                  Bar  6L with Thick Stop
+   changed to    ~Bar  6L with Thick Stop (Obsolete)
+
+   6639.DAT                   Electric Technic Fiber Optics Element Axis
+   changed to    Electric Technic Fiber Optics Element - Axis
+
+   86024.DAT                  =Minifig Mechanical Arm
+   changed to    =Minifig Mechanical Arm with Clips Parallel
+
+   87544.DAT                  Panel  1 x  2 x  3 with Side Supports with Hollow Studs
+   changed to    Panel  1 x  2 x  3 Reinforced with Hollow Studs
+
+   87544DQ0.DAT               Panel  1 x  2 x  3 with Side Supports with Hieroglyphs and Anubis Head (Left Half) Sticker
+   changed to    Panel  1 x  2 x  3 Reinforced with Hieroglyphs and Anubis Head (Left Half) Sticker
+
+   87544DQ1.DAT               Panel  1 x  2 x  3 with Side Supports with Hieroglyphs and Anubis Head (Right Half) Sticker
+   changed to    Panel  1 x  2 x  3 Reinforced with Hieroglyphs and Anubis Head (Right Half) Sticker
+
+   87552.DAT                  Panel  1 x  2 x  2 Reinforced with Hollow Studs
+   changed to    Panel  1 x  2 x  2 Reinforced
+
+   87559.DAT                  Brick Round Corner  6 x  6 x  2
+   changed to    Brick  6 x  6 x  2 Corner Round with Curved Top
+
+   88646.DAT                  Tile  3 x  4 with Four Studs
+   changed to    Plate  3 x  4 with 4 Studs in Centre
+
+   92198P15.DAT               Figure Friends Head with Green Eyes, Flesh Lips, Freckles and Closed Mouth Pattern
+   changed to    Figure Friends Head with Green Eyes, Nougat Lips, Freckles and Closed Mouth Pattern
+
+   92198P16.DAT               Figure Friends Head with Green Eyes, Flesh Lips, Freckles and Open Mouth Smile Pattern
+   changed to    Figure Friends Head with Green Eyes, Nougat Lips, Freckles and Open Mouth Smile Pattern
+
+   92244P02.DAT               Figure Friends Female Left Arm Light Flesh with Short Sleeve and Glove Pattern
+   changed to    Figure Friends Female Left Arm Light Nougat with Short Sleeve and Glove Pattern
+
+   92245P02.DAT               Figure Friends Female Right Arm Light Flesh with Short Sleeve and Glove Pattern
+   changed to    Figure Friends Female Right Arm Light Nougat with Short Sleeve and Glove Pattern
+
+   92249P01.DAT               Figure Friends Legs with Long Skirt with Light Flesh Legs and Open Toe Shoes Pattern
+   changed to    Figure Friends Legs with Long Skirt with Light Nougat Legs and Open Toe Shoes Pattern
+
+   92249P01C01.DAT            Figure Friends Hips and Legs with Long Skirt with Light Flesh Legs and Open Toe Shoes Pattern
+   changed to    Figure Friends Hips and Legs with Long Skirt with Light Nougat Legs and Open Toe Shoes Pattern
+
+   92249P02.DAT               Figure Friends Legs with Long Skirt with Light Flesh Legs and Medium Lavender Shoes Pattern
+   changed to    Figure Friends Legs with Long Skirt with Light Nougat Legs and Medium Lavender Shoes Pattern
+
+   92249P02C01.DAT            Figure Friends Hips and Legs with Long Skirt with Light Flesh Legs and Medium Lavender Shoes Pattern
+   changed to    Figure Friends Hips and Legs with Long Skirt with Light Nougat Legs and Medium Lavender Shoes Pattern
+
+   92250P01.DAT               Figure Friends Legs with Layered Skirt with Light Flesh Legs, Shoes with White Tops and Laces Pattern
+   changed to    Figure Friends Legs with Layered Skirt with Light Nougat Legs, Shoes with White Tops and Laces Pattern
+
+   92250P01C01.DAT            Figure Friends Hips and Legs with Layered Skirt with Light Flesh Legs, Shoes with White Tops and Laces Pattern
+   changed to    Figure Friends Hips and Legs with Layered Skirt with Light Nougat Legs, Shoes with White Tops and Laces Pattern
+
+   92250P04.DAT               Figure Friends Legs with Layered Skirt with Light Flesh Legs and Medium Lavender Shoes with Ankle Straps Pattern
+   changed to    Figure Friends Legs with Layered Skirt with Light Nougat Legs and Medium Lavender Shoes with Ankle Straps Pattern
+
+   92250P04C01.DAT            Figure Friends Hips and Legs with Layered Skirt with Light Flesh Legs and Medium Lavender Shoes with Ankle Straps Pattern
+   changed to    Figure Friends Hips and Legs with Layered Skirt with Light Nougat Legs and Medium Lavender Shoes with Ankle Straps Pattern
+
+   92250P05.DAT               Figure Friends Legs with Layered Skirt with Medium Dark Flesh Legs and Magenta Shoes with Ankle Straps Pattern
+   changed to    Figure Friends Legs with Layered Skirt with Medium Nougat Legs and Magenta Shoes with Ankle Straps Pattern
+
+   92250P05C01.DAT            Figure Friends Hips and Legs with Layered Skirt with Medium Dark Flesh Legs and Magenta Shoes with Ankle Straps Pattern
+   changed to    Figure Friends Hips and Legs with Layered Skirt with Medium Nougat Legs and Magenta Shoes with Ankle Straps Pattern
+
+   92250P07.DAT               Figure Friends Legs with Layered Skirt with Medium Dark Flesh and Magenta Crossed Straps Sandals Pattern
+   changed to    Figure Friends Legs with Layered Skirt with Medium Nougat and Magenta Crossed Straps Sandals Pattern
+
+   92250P07C01.DAT            Figure Friends Hips and Legs with Layered Skirt with Medium Dark Flesh and Magenta Crossed Straps Sandals Pattern
+   changed to    Figure Friends Hips and Legs with Layered Skirt with Medium Nougat and Magenta Crossed Straps Sandals Pattern
+
+   92250P08.DAT               Figure Friends Legs with Layered Skirt with Light Flesh Legs and White Shoes Pattern
+   changed to    Figure Friends Legs with Layered Skirt with Light Nougat Legs and White Shoes Pattern
+
+   92250P08C01.DAT            Figure Friends Hips and Legs with Layered Skirt with Light Flesh Legs and White Shoes Pattern
+   changed to    Figure Friends Hips and Legs with Layered Skirt with Light Nougat Legs and White Shoes Pattern
+
+   92251P01.DAT               Figure Friends Legs with Cropped Trousers with Dark Pink Butterfly, Light Flesh Legs and Medium Lavender Sandals Pattern
+   changed to    Figure Friends Legs with Cropped Trousers with Dark Pink Butterfly, Light Nougat Legs and Medium Lavender Sandals Pattern
+
+   92251P01C01.DAT            Figure Friends Hips and Legs with Cropped Trousers with Dark Pink Butterfly, Light Flesh Legs and Medium Lavender Sandals Pattern
+   changed to    Figure Friends Hips and Legs with Cropped Trousers with Dark Pink Butterfly, Light Nougat Legs and Medium Lavender Sandals Pattern
+
+   92251P02.DAT               Figure Friends Legs with Cropped Trousers with Dark Pink Flower, Medium Dark Flesh Legs and Bright Pink Sandals Pattern
+   changed to    Figure Friends Legs with Cropped Trousers with Dark Pink Flower, Medium Nougat Legs and Bright Pink Sandals Pattern
+
+   92251P02C01.DAT            Figure Friends Hips and Legs with Cropped Trousers with Dark Pink Flower, Medium Dark Flesh Legs and Bright Pink Sandals Pattern
+   changed to    Figure Friends Hips and Legs with Cropped Trousers with Dark Pink Flower, Medium Nougat Legs and Bright Pink Sandals Pattern
+
+   92251P03.DAT               Figure Friends Legs with Cropped Trousers, Light Flesh Legs and Shoes with White Tops and Bright Light Blue Laces Pattern
+   changed to    Figure Friends Legs with Cropped Trousers, Light Nougat Legs and Shoes with White Tops and Bright Light Blue Laces Pattern
+
+   92251P03C01.DAT            Figure Friends Hips and Legs with Cropped Trousers, Light Flesh Legs and Shoes with White Tops and Bright Light Blue Laces Pattern
+   changed to    Figure Friends Hips and Legs with Cropped Trousers, Light Nougat Legs and Shoes with White Tops and Bright Light Blue Laces Pattern
+
+   92251P04.DAT               Figure Friends Legs with Cropped Trousers, Medium Dark Flesh Legs and White Shoes Pattern
+   changed to    Figure Friends Legs with Cropped Trousers, Medium Nougat Legs and White Shoes Pattern
+
+   92251P04C01.DAT            Figure Friends Hips and Legs with Cropped Trousers, Medium Dark Flesh Legs and White Shoes Pattern
+   changed to    Figure Friends Hips and Legs with Cropped Trousers, Medium Nougat Legs and White Shoes Pattern
+
+   92251P05.DAT               Figure Friends Legs with Cropped Trousers, Light Flesh Legs and Shoes with Dark Blue Soles and Stripe Pattern
+   changed to    Figure Friends Legs with Cropped Trousers, Light Nougat Legs and Shoes with Dark Blue Soles and Stripe Pattern
+
+   92251P05C01.DAT            Figure Friends Hips and Legs with Cropped Trousers, Light Flesh Legs and Shoes with Dark Blue Soles and Stripe Pattern
+   changed to    Figure Friends Hips and Legs with Cropped Trousers, Light Nougat Legs and Shoes with Dark Blue Soles and Stripe Pattern
+
+   92251P06.DAT               Figure Friends Legs with Cropped Trousers, Light Flesh Legs and Brown Shoes with  2 Crossed Laces Pattern
+   changed to    Figure Friends Legs with Cropped Trousers, Light Nougat Legs and Brown Shoes with  2 Crossed Laces Pattern
+
+   92251P06C01.DAT            Figure Friends Hips and Legs with Cropped Trousers, Light Flesh Legs and Brown Shoes with  2 Crossed Laces Pattern
+   changed to    Figure Friends Hips and Legs with Cropped Trousers, Light Nougat Legs and Brown Shoes with  2 Crossed Laces Pattern
+
+   92252P01.DAT               Figure Friends Legs with Pleated Skirt with Light Flesh Legs and Pink Crossed Straps Sandals Pattern
+   changed to    Figure Friends Legs with Pleated Skirt with Light Nougat Legs and Pink Crossed Straps Sandals Pattern
+
+   92252P01C01.DAT            Figure Friends Hips and Legs with Pleated Skirt with Light Flesh Legs and Pink Crossed Straps Sandals Pattern
+   changed to    Figure Friends Hips and Legs with Pleated Skirt with Light Nougat Legs and Pink Crossed Straps Sandals Pattern
+
+   92252P03.DAT               Figure Friends Legs with Pleated Skirt with Light Flesh Legs and Magenta Shoes with Ankle Straps Pattern
+   changed to    Figure Friends Legs with Pleated Skirt with Light Nougat Legs and Magenta Shoes with Ankle Straps Pattern
+
+   92252P03C01.DAT            Figure Friends Hips and Legs with Pleated Skirt with Light Flesh Legs and Magenta Shoes with Ankle Straps Pattern
+   changed to    Figure Friends Hips and Legs with Pleated Skirt with Light Nougat Legs and Magenta Shoes with Ankle Straps Pattern
+
+   92252P04.DAT               Figure Friends Legs with Pleated Skirt with Light Flesh Legs and Shoes with Magenta Stripe Pattern
+   changed to    Figure Friends Legs with Pleated Skirt with Light Nougat Legs and Shoes with Magenta Stripe Pattern
+
+   92252P04C01.DAT            Figure Friends Hips and Legs with Pleated Skirt with Light Flesh Legs and Shoes with Magenta Stripe Pattern
+   changed to    Figure Friends Hips and Legs with Pleated Skirt with Light Nougat Legs and Shoes with Magenta Stripe Pattern
+
+   92252P05.DAT               Figure Friends Legs with Pleated Skirt with Light Flesh Legs and Shoes with White Tops and Magenta Laces Pattern
+   changed to    Figure Friends Legs with Pleated Skirt with Light Nougat Legs and Shoes with White Tops and Magenta Laces Pattern
+
+   92252P05C01.DAT            Figure Friends Hips and Legs with Pleated Skirt with Light Flesh Legs and Shoes with White Tops and Magenta Laces Pattern
+   changed to    Figure Friends Hips and Legs with Pleated Skirt with Light Nougat Legs and Shoes with White Tops and Magenta Laces Pattern
+
+   92252P06.DAT               Figure Friends Legs with Pleated Skirt with Light Flesh Legs and White Shoes Pattern
+   changed to    Figure Friends Legs with Pleated Skirt with Light Nougat Legs and White Shoes Pattern
+
+   92252P06C01.DAT            Figure Friends Hips and Legs with Pleated Skirt with Light Flesh Legs and White Shoes Pattern
+   changed to    Figure Friends Hips and Legs with Pleated Skirt with Light Nougat Legs and White Shoes Pattern
+
+   92252P07.DAT               Figure Friends Legs with Pleated Skirt with Light Flesh Legs and Magenta Shoes Pattern
+   changed to    Figure Friends Legs with Pleated Skirt with Light Nougat Legs and Magenta Shoes Pattern
+
+   92252P07C01.DAT            Figure Friends Hips and Legs with Pleated Skirt with Light Flesh Legs and Magenta Shoes Pattern
+   changed to    Figure Friends Hips and Legs with Pleated Skirt with Light Nougat Legs and Magenta Shoes Pattern
+
+   94638.DAT                  =Panel  1 x  2 x  2 Reinforced with Hollow Studs
+   changed to    =Panel  1 x  2 x  2 Reinforced
+
+   97122.DAT                  Curtain for Window  1 x  4 x  3 with Red/Green/Dark Flesh Plaid Pattern
+   changed to    Sheet Fabric Curtain for Window  1 x  4 x  3 with Red/Green/Medium Brown Plaid Pattern
+
+   973P9L.DAT                 Minifig Torso with Jacket and Medium Dark Flesh Collar over Light Bluish Grey Shirt Pattern
+   changed to    Minifig Torso with Jacket and Medium Nougat Collar over Light Bluish Grey Shirt Pattern
+
+   973PH7.DAT                 Minifig Torso HP with Grey Sweater and Light Flesh Neck Pattern
+   changed to    Minifig Torso HP with Grey Sweater and Light Nougat Neck Pattern
+
+   973PR5.DAT                 Minifig Torso with SW Vest, White Shirt & Lt Flesh Neck Pattern
+   changed to    Minifig Torso with SW Vest, White Shirt and Light Nougat Neck Pattern
+
+   15341S01.DAT               ~Minifig Mechanical Arm Bent - Half
+   changed to    ~Minifig Mechanical Arm Bent with Reinforced Elbow - Half Elbow
+
+   18675PS2S01.DAT            ~Dish  6 x  6 Inverted - No Studs with Handle with Hatch Pattern -  Half
+   changed to    ~Dish  6 x  6 Inverted - No Studs with Handle with TIE Fighter Hatch Pattern - Half
+
+   24599S01.DAT               ~Brick  5 x  5 Corner Round - Half
+   changed to    ~Brick  5 x  5 x  1 Corner Round with Curved Top - Half
+
+   3626CP8US01.DAT            ~Minifig Head Medium Dark Flesh Glasses, Laugh Lines, Red Lips, Neutral / Raised Eyebrows Amused 2-Sided Pattern Half
+   changed to    ~Minifig Head Medium Nougat Glasses, Laugh Lines, Red Lips, Neutral / Raised Eyebrows Amused 2-Sided Pattern Half
+
+   3846P4KA.DAT               ~Dark Green Dragon on Medium Dark Flesh and Tan Quarters Pattern
+   changed to    ~Dark Green Dragon on Medium Nougat and Tan Quarters Pattern
+
+   3941S01.DAT                ~Brick  2 x  2 Round Type 1 without Outer Surface
+   changed to    ~Brick  2 x  2 Round without Reinforcement without Outer Surface
+
+   3960S02.DAT                ~Dish  4 x  4 Slice 15 Degrees
+   changed to    ~Dish  4 x  4 Slice 30 Degrees without Condlines
+
+   42716S01.DAT               ~Wheel Rim 20 x 30 "Torq Thurst" Spoke Segment
+   changed to    ~Wheel Rim 20 x 30 "Torq Thrust" Spoke Segment
+
+   47994S01.DAT               ~Technic Connector  3 x  1 x  3 with Two Pins and Two Clips, 1/4
+   changed to    ~Technic Connector  3 x  1 x  3 with 2 Pins and 2 Clips - 1/4
+
+   6179S01.DAT                ~Tile  4 x  4 with Studs on Edge without Top Surface
+   changed to    ~Plate  4 x  4 with 4 Studs on One Edge without Top Surface
+
+   87559S01.DAT               ~Brick Round Corner  6 x  6 x  2 Half
+   changed to    ~Brick  6 x  6 x  2 Corner Round with Curved Top - Half
+
+   97122S01.DAT               ~Curtain for Window  1 x  4 x  3 with Red/Bright Green/Dark Flesh Plaid Pattern - Top Half
+   changed to    ~Curtain for Window  1 x  4 x  3 with Red/Bright Green/Medium Brown Plaid Pattern - Top Half
+
+   97122S02.DAT               ~Curtain for Window  1 x  4 x  3 with Red/Bright Green/Dark Flesh Plaid Pattern - Side Half
+   changed to    ~Curtain for Window  1 x  4 x  3 with Red/Bright Green/Medium Brown Plaid Pattern - Side Half
+
+   98138S01.DAT               ~Tile  1 x  1 Round with Groove without Top Face
+   changed to    ~Tile  1 x  1 Round with Groove with Partial Top Face
+
+   U9399S01.DAT               ~Electric Spike Prime Hub Battery Pack Top Half
+   changed to    ~Electric Spike Prime Hub Rechargeable Battery Top Half
+
+   U595P01C10.DAT             _Figure Fabuland Monkey  1 w Body White/Blue/Yellow with Cap
+   changed to    _Figure Fabuland Monkey  1 with Body White/Blue/Yellow with Cap
+
+   U9392.DAT                  ~Electric Power Functions 2.0 Twin Cable Segment with Flat Middle
+   changed to    ~Electric Powered Up Twin Cable Segment with Flat Middle
+
+   U9399.DAT                  ~Electric Spike Prime Hub Battery Pack Top
+   changed to    ~Electric Spike Prime Hub Rechargeable Battery Top
+
+   U9472.DAT                  ~Electric Spike Prime Hub Battery Pack Bottom
+   changed to    ~Electric Spike Prime Hub Rechargeable Battery Bottom
+
+   U9473.DAT                  ~Electric Spike Prime Hub Battery Pack Assembly Pin
+   changed to    ~Electric Spike Prime Hub Rechargeable Battery Assembly Pin
+
+Other Fixed Parts
+   004587A.DAT                Sticker  1.2 x  2.6 with White "133" on Black
+   10202.DAT                  Tile  6 x  6 with Groove and Underside Studs
+   2357.DAT                   Brick  2 x  2 Corner
+   2884.DAT                   ~Monorail Points Inner Wheel
+   2907.DAT                   Technic Ball with Grooves
+   2911.DAT                   ~Monorail Track Points Interior Shover
+   2922B.DAT                  Train Pantograph Shoe with Locking Hinge 
+   3009P01.DAT                Brick  1 x  6 with Town Car Grille Black Pattern
+   3011.DAT                   Duplo Brick  2 x  4
+   32059.DAT                  Plate  4 x  6 without Corners
+   3587.DAT                   Tail  2 x  5 x  3.667 Plane
+   37720A.DAT                 Animal Bat Emblem  3 x  4
+   37720B.DAT                 Animal Bat Emblem  1 x  2
+   37720E.DAT                 Animal Bat Emblem  2 x  5
+   3811P03.DAT                Baseplate 32 x 32 with Beach Pattern
+   3857.DAT                   Baseplate 16 x 32 with Square Corners
+   3960P05.DAT                Dish  4 x  4 Inverted with Pink and Green Stripes Pattern
+   3960P06.DAT                Dish  4 x  4 Inverted with Red Stripes Pattern
+   54200D01.DAT               Slope Brick 31  1 x  1 with Sticker  1.1 x  0.9 with Twin Exhaust Pipes Right
+   54200D02.DAT               Slope Brick 31  1 x  1 with Sticker  1.1 x  0.9 with Twin Exhaust Pipes Left
+   59349.DAT                  Panel  1 x  6 x  5
+   6187.DAT                   Bar  1 x  4 x  2
+   6475.DAT                   Duplo Baseplate 16 x 24
+   71972.DAT                  Bar 12 x  6 Grille Guard
+   763.DAT                    ~Crank Handle  4 x  1 Metal
+   86210.DAT                  Glass for Window  1 x  4 x  3 Opening
+   90398.DAT                  Minifig Statuette
+   37720AS01.DAT              ~Animal Bat Emblem  3 x  4 Half
+   37720BS01.DAT              ~Animal Bat Emblem  1 x  2 Half
+   37720ES01.DAT              ~Animal Bat Emblem  2 x  5 Half
+   3818S02.DAT                ~Minifig Arm Right Outer Surface
+   3960S03.DAT                ~Dish  4 x  4 Inverted - Dish Surface
+   62469S01.DAT               ~Electric Power Functions Pole Reverser Top Side
+   U595P01C04.DAT             _Figure Fabuland Monkey  1 with Body Yellow/Red/Red
+   U595P01C05.DAT             _Figure Fabuland Monkey  1 with Body Blue/Red/Red

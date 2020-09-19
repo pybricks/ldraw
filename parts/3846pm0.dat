@@ -1,0 +1,16 @@
+0 Minifig Shield Triangular with Goblin King Eye Pattern
+0 Name: 3846pm0.dat
+0 Author: Yann Bouzon [Zaghor]
+0 !LDRAW_ORG Part UPDATE 2020-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS BrickLink 3846pb42, set 41185, set 41188
+
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3846s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3846pm0s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3846pm0s01.dat

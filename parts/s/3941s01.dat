@@ -1,7 +1,7 @@
-0 ~Brick  2 x  2 Round Type 1 without Outer Surface
+0 ~Brick  2 x  2 Round without Reinforcement without Outer Surface
 0 Name: s\3941s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Subpart UPDATE 2019-01
+0 !LDRAW_ORG Subpart UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,6 +10,7 @@
 0 !HISTORY 2018-02-19 [MagFors] used more primitives
 0 !HISTORY 2018-03-30 [MagFors] used stug10-2x2 primitive
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 0 20 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
 1 16 0 4 0 8 0 0 0 1 0 0 0 8 4-4edge.dat

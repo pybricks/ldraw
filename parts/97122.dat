@@ -1,7 +1,7 @@
-0 Curtain for Window  1 x  4 x  3 with Red/Green/Dark Flesh Plaid Pattern
+0 Sheet Fabric Curtain for Window  1 x  4 x  3 with Red/Green/Medium Brown Plaid Pattern
 0 Name: 97122.dat
 0 Author: Max Martin Richter [MMR1988]
-0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,6 +12,8 @@
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 0 !HISTORY 2019-01-25 [cwdee] Update category
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+0 !HISTORY 2020-05-10 [cwdee] Update colour name in description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\97122s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\97122s01.dat

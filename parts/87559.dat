@@ -1,12 +1,14 @@
-0 Brick Round Corner  6 x  6 x  2
+0 Brick  6 x  6 x  2 Corner Round with Curved Top
 0 Name: 87559.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+0 !HISTORY 2020-03-21 [cwdee] Update description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\87559s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\87559s01.dat

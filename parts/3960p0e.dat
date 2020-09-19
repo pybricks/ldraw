@@ -1,0 +1,30 @@
+0 Dish  4 x  4 Inverted with Stripes Red/Blue/Yellow/Lime Pattern
+0 Name: 3960p0e.dat
+0 Author: Bjoern Sigve Storesund [Storesund]
+0 !LDRAW_ORG Part UPDATE 2020-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3960pb043, Set 10264
+
+0 !HISTORY 2019-05-31 [GeraldLasser] Changed Subfiling 
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s01.dat
+
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 s\3960p0es01.dat
+1 27 0 0 0 1 0 0 0 1 0 0 0 -1 s\3960p0es01.dat
+1 1 0 0 0 0 0 1 0 1 0 1 0 0 s\3960p0es01.dat
+1 4 0 0 0 0 0 -1 0 1 0 1 0 0 s\3960p0es01.dat
+1 14 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3960p0es01.dat
+1 27 0 0 0 -1 0 0 0 1 0 0 0 1 s\3960p0es01.dat
+1 1 0 0 0 0 0 -1 0 1 0 -1 0 0 s\3960p0es01.dat
+1 4 0 0 0 0 0 1 0 1 0 -1 0 0 s\3960p0es01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960p0es02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3960p0es02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3960p0es02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3960p0es02.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s05.dat

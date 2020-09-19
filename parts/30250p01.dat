@@ -1,0 +1,19 @@
+0 Bracket  4 x  7 x  3 with TV Logo and "P 745" Pattern on Both Sides
+0 Name: 30250p01.dat
+0 Author: Marc Giraudet [Mad_Marc]
+0 !LDRAW_ORG Part UPDATE 2020-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 6425
+
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30250s01.dat
+1 16 40 -12 0 0 0 -1 0 1 0 1 0 0 s\30250p01s01.dat
+1 16 -40 -12 0 0 0 1 0 1 0 -1 0 0 s\30250p01s01.dat
+4 16 40 16 -100 40 24 -100 40 24 -16 40 16 -20
+4 16 -40 16 -20 -40 24 -16 -40 24 -100 -40 16 -100
+3 16 -40 24 20 -40 24 16 -40 16 20
+3 16 40 24 16 40 24 20 40 16 20

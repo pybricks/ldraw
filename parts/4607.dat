@@ -1,7 +1,7 @@
-0 Tile  4 x 16 with 24 Studs
+0 Plate  4 x 16 with Rounded Corners and 3 Groups of 2 x 4 Studs
 0 Name: 4607.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
-0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -15,6 +15,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2014-07-07 [cwdee] Updated for rounded corners, stud groups
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16  -120 4 0  1 0 0  0 -1 0  0 0 1 stug4-3x3.dat
 1 16  -60 4 0  1 0 0  0 -1 0  0 0 1 stug4-3x3.dat

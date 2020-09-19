@@ -1,7 +1,7 @@
-0 Wheel Rim 20 x 30 "Torq Thurst" with  5 Spokes and External Ribs
+0 Wheel Rim 20 x 30 "Torq Thrust" with  5 Spokes and External Ribs
 0 Name: 42716.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Part UPDATE 2019-02
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,8 +10,11 @@
 0 !CMDLINE -c135
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+0 !HISTORY 2020-01-07 [cwdee] Correct typo in description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 0 // Spokes
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\42716s01.dat
 1 16 0 0 0 .309017 -.951057 0 .951057 .309017 0 0 0 1 s\42716s01.dat
 1 16 0 0 0 -.809017 -.587785 0 .587785 -.809017 0 0 0 1 s\42716s01.dat

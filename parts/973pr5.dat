@@ -1,7 +1,7 @@
-0 Minifig Torso with SW Vest, White Shirt & Lt Flesh Neck Pattern
+0 Minifig Torso with SW Vest, White Shirt and Light Nougat Neck Pattern
 0 Name: 973pr5.dat
 0 Author: Daniel Goerner [TK-949]
-0 !LDRAW_ORG Part UPDATE 2012-02
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Han Solo, Star Wars, Classic Trilogy, Harrison Ford, open collar
 
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+0 !HISTORY 2020-05-10 [cwdee] Update colour name in description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973ps5s01.dat

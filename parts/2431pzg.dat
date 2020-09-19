@@ -1,7 +1,7 @@
-0 Tile  1 x  4 with Reddish Brown Square and Flesh Zig-Zag Pattern
+0 Tile  1 x  4 with Reddish Brown Square and Nougat Zig-Zag Pattern
 0 Name: 2431pzg.dat
 0 Author: Vincent Messenet [Cheenzo]
-0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Set 41603, BrickLink 2431pb511, Kylo Ren, BrickHeadz, Lightning
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !HISTORY 2020-05-10 [cwdee] Update colour name in description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
 

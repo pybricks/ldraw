@@ -1,12 +1,16 @@
-0 Technic Panel Flat Sheet  8 x  8 Circle with  4 Holes
+0 Sheet Plastic Technic Panel  8 x  8 Circular with  4 Holes
 0 Name: 57046d.dat
 0 Author: Nils Schmidt [BlackBrick89]
-0 !LDRAW_ORG Part UPDATE 2012-03
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Sheet Plastic
+
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+0 !HISTORY 2020-06-12 [cwdee] Update description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 -40 0 0 7.5 0 0 0 1 0 0 0 7.5 4-4ndis.dat
 1 16 -60 0 0 7.5 0 0 0 1 0 0 0 7.5 4-4ndis.dat

@@ -1,12 +1,14 @@
-0 Tile  8 x  8 Round with HP Hogwarts Houses Pattern
+0 Plate  8 x  8 Round with  2 x  2 Centre Studs with HP Hogwarts Houses Pattern
 0 Name: 6177ph1.dat
 0 Author: Howard Lande [HowardLande]
-0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+0 !HISTORY 2020-05-25 [PTadmin] Update description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6177s01.dat
 0 // top

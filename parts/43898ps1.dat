@@ -1,0 +1,22 @@
+0 Dish  3 x  3 Inverted with Orange Stripes Pattern
+0 Name: 43898ps1.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part UPDATE 2020-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 75090, Star Wars
+0 !KEYWORDS Bricklink 43898pb005
+
+0 !HISTORY 2019-05-31 [GeraldLasser] Adapted for 48 Segment Primitives
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43898s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43898ps1s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\43898ps1s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\43898ps1s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\43898ps1s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43898s05.dat

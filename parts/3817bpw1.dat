@@ -1,0 +1,21 @@
+0 Minifig Leg Left with Red/White Triangles Pattern
+0 Name: 3817bpw1.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2020-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Move down 12 units to align with hips
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS wild west, indian, american native, western
+0 !KEYWORDS set 2845, set 6718, set 6746, set 6748, set 6766, set 6763
+
+0 !CMDLINE -c17
+
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bpw1s01.dat
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bpw1s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bpw1s03.dat

@@ -1,14 +1,14 @@
-0 ~Curtain for Window  1 x  4 x  3 with Red/Bright Green/Dark Flesh Plaid Pattern - Side Half
+0 ~Curtain for Window  1 x  4 x  3 with Red/Bright Green/Medium Brown Plaid Pattern - Side Half
 0 Name: s\97122s02.dat
 0 Author: Max Martin Richter [MMR1988]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
+0 !LDRAW_ORG Subpart UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Canvas
-
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+0 !HISTORY 2020-05-10 [cwdee] Update colour name in description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 10 4.25 0.3125 -25 -2 0 0 0 0 0.3125 0 1 0 rect2p.dat
 1 10 4.25 0.3125 -16 2 0 0 0 0 0.3125 0 -1 0 rect2p.dat

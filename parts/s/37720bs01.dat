@@ -1,12 +1,15 @@
 0 ~Animal Bat Emblem  1 x  2 Half
 0 Name: s\37720bs01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2019-02
+0 !LDRAW_ORG Subpart UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2019-06-06 {Mecabricks} Original part shape
+0 !HISTORY 2019-06-06 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 4 16 9.795 -5.5 -9.5475 13.2638 -5.5 -8.5438 13.2588 -11.2814 -8.5438 9.7575 -12.25 -9.575
 4 16 3.0125 -5.5 -9.78 3.31 -5.5 -7.355 3.3475 -12.25 -7.3975 3.0175 -12.25 -9.78

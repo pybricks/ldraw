@@ -1,7 +1,7 @@
-0 Minifig Mechanical Arm with Clip and Rod Hole
+0 Minifig Mechanical Arm with Clip and Rod Hole with Thin Forearm
 0 Name: 53989.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 
 0 !HISTORY 2007-07-25 [technog] Removed primitive overlap, added missing line and replaced groups of lines with primitives
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2020-05-16 [cwdee] Update description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 2 24 20.6 12.084 -5.6 20.6 12.084 5.6
 2 24 23.4 12.231 -5.6 23.4 12.231 5.6

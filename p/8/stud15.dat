@@ -1,13 +1,14 @@
-0 Stud for Round  2 x  2 Parts, 1 Face, Complete Edges (Fast-Draw)
+0 Stud Truncated Laterally Straight 40D for Round  2 x  2 Parts (Fast-Draw)
 0 Name: 8\stud15.dat
 0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG 8_Primitive UPDATE 2013-02
+0 !LDRAW_ORG 8_Primitive UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 0.9694 -2 5.8072 -0.9694 -1.542 0 0 0 -2 0.1928 -7.7548 0 rect2p.dat
 1 16 3.7766 -2 3.7766 0 -1.0502 -1.8379 2 0 0 0 -1.0502 1.8379 rect3.dat

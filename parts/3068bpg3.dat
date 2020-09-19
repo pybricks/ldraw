@@ -1,0 +1,18 @@
+0 Tile  2 x  2 with Dark Pink Top Pattern
+0 Name: 3068bpg3.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2020-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 311-2, Scala, Pendant, Spring
+
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+4 5 -19 0 -19 19 0 -19 19 0 19 -19 0 19
+4 16 -20 0 20 -19 0 19 19 0 19 20 0 20
+4 16 19 0 19 19 0 -19 20 0 -20 20 0 20
+4 16 19 0 -19 -19 0 -19 -20 0 -20 20 0 -20
+4 16 -20 0 20 -20 0 -20 -19 0 -19 -19 0 19

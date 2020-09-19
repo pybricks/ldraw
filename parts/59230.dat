@@ -1,7 +1,7 @@
-0 Minifig Mechanical Arm Straight
+0 Minifig Mechanical Arm Straight with Clips at 90 degrees
 0 Name: 59230.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,6 +11,8 @@
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2020-05-16 [cwdee] Update description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 4 16 -2.83 37.17 -4 -3.7 38.47 -4 -3.7 38.47 4 -2.83 37.17 4
 4 16 -3.7 38.47 -4 -4 40 -4 -4 40 4 -3.7 38.47 4

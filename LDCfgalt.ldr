@@ -1,7 +1,7 @@
 0 LDraw.org Configuration File
 0 Name: LDCfgalt.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2019-12-11
+0 !LDRAW_ORG Configuration UPDATE 2020-05-12
 
 0 // * All of the colour values are the same as in ldconfig.ldr.
 0 // * All of the edge colours, that are coloured in ldconfig.ldr, are the same.
@@ -54,12 +54,12 @@
 0 !COLOUR Medium_Blue                        CODE  73   VALUE #7396C8   EDGE #4E7BBA
 0 !COLOUR Medium_Green                       CODE  74   VALUE #7FC475   EDGE #5DB450
 0 !COLOUR Light_Pink                         CODE  77   VALUE #FECCCF   EDGE #FC9BA1
-0 !COLOUR Light_Flesh                        CODE  78   VALUE #FFC995   EDGE #FFAD60
-0 !COLOUR Medium_Dark_Flesh                  CODE  84   VALUE #AA7D55   EDGE #876344
+0 !COLOUR Light_Nougat                       CODE  78   VALUE #FFC995   EDGE #FFAD60
+0 !COLOUR Medium_Nougat                      CODE  84   VALUE #AA7D55   EDGE #876344
 0 !COLOUR Medium_Lilac                       CODE  85   VALUE #441A91   EDGE #301268
-0 !COLOUR Dark_Flesh                         CODE  86   VALUE #AD6140   EDGE #864A31
+0 !COLOUR Medium_Brown                       CODE  86   VALUE #7B5D41   EDGE #5A442F
 0 !COLOUR Blue_Violet                        CODE  89   VALUE #1C58A7   EDGE #14407A
-0 !COLOUR Flesh                              CODE  92   VALUE #BB805A   EDGE #9F6641
+0 !COLOUR Nougat                             CODE  92   VALUE #BB805A   EDGE #9F6641
 0 !COLOUR Light_Salmon                       CODE 100   VALUE #F9B7A5   EDGE #F59074
 0 !COLOUR Violet                             CODE 110   VALUE #26469A   EDGE #1C3472
 0 !COLOUR Medium_Violet                      CODE 112   VALUE #4861AC   EDGE #394D88
@@ -159,7 +159,7 @@
 0 !COLOUR Metallic_Green                     CODE  81   VALUE #6A7944   EDGE #869956                               METAL
 0 !COLOUR Metallic_Gold                      CODE  82   VALUE #DBAC34   EDGE #E2BD5E                               METAL
 0 !COLOUR Metallic_Black                     CODE  83   VALUE #0A1327   EDGE #142751                               METAL
-0 !COLOUR Metallic_Dark_Grey                 CODE  87   VALUE #6D6E5C   EDGE #898A74                               METAL
+0 !COLOUR Metallic_Dark_Grey                 CODE  87   VALUE #3E3C39   EDGE #575450                               METAL
 0 !COLOUR Metallic_Copper                    CODE 300   VALUE #C27F53   EDGE #CF9A77                               METAL
 0 !COLOUR Metallic_Bright_Red                CODE 184   VALUE #D60026   EDGE #FF0A37                               METAL
 0 !COLOUR Metallic_Dark_Green                CODE 186   VALUE #008E3C   EDGE #00C150                               METAL
@@ -173,11 +173,16 @@
 
 
 0 // LDraw Glitter Colours
-0 !COLOUR Glitter_Trans_Dark_Pink            CODE 114   VALUE #DF6695   EDGE #B9275F   ALPHA 128                   MATERIAL GLITTER VALUE #923978 FRACTION 0.17 VFRACTION 0.2 SIZE 1
+0 !COLOUR Glitter_Trans_Dark_Pink            CODE 114   VALUE #DF6695   EDGE #B9275F   ALPHA 128                   MATERIAL GLITTER VALUE #B92790 FRACTION 0.17 VFRACTION 0.2 SIZE 1
 0 !COLOUR Glitter_Trans_Clear                CODE 117   VALUE #EEEEEE   EDGE #BABABA   ALPHA 128                   MATERIAL GLITTER VALUE #FFFFFF FRACTION 0.08 VFRACTION 0.1 SIZE 1
-0 !COLOUR Glitter_Trans_Purple               CODE 129   VALUE #640061   EDGE #000000   ALPHA 128                   MATERIAL GLITTER VALUE #8C00FF FRACTION 0.3 VFRACTION 0.4 SIZE 1
-0 !COLOUR Glitter_Trans_Light_Blue           CODE 302   VALUE #AEE9EF   EDGE #59D1DE   ALPHA 128                   MATERIAL GLITTER VALUE #923978 FRACTION 0.17 VFRACTION 0.2 SIZE 1
-0 !COLOUR Glitter_Trans_Neon_Green           CODE 339   VALUE #C0FF00   EDGE #739900   ALPHA 128                   MATERIAL GLITTER VALUE #923978 FRACTION 0.17 VFRACTION 0.2 SIZE 1
+0 !COLOUR Glitter_Trans_Purple               CODE 129   VALUE #640061   EDGE #000000   ALPHA 128                   MATERIAL GLITTER VALUE #8F00CC FRACTION 0.03 VFRACTION 0.4 SIZE 1
+0 !COLOUR Glitter_Trans_Light_Blue           CODE 302   VALUE #AEE9EF   EDGE #59D1DE   ALPHA 128                   MATERIAL GLITTER VALUE #59DEBF FRACTION 0.17 VFRACTION 0.2 SIZE 1
+0 !COLOUR Glitter_Trans_Neon_Green           CODE 339   VALUE #C0FF00   EDGE #739900   ALPHA 128                   MATERIAL GLITTER VALUE #998C00 FRACTION 0.17 VFRACTION 0.2 SIZE 1
+0 !COLOUR Glitter_Trans_Orange               CODE 341   VALUE #F08F1C   EDGE #9E5C0A   ALPHA 128                   MATERIAL GLITTER VALUE #9E2A0A FRACTION 0.17 VFRACTION 0.2 SIZE 1
+0 !COLOUR Opal_Trans_Clear                   CODE 360   VALUE #FCFCFC   EDGE #C9C9C9   ALPHA 240   LUMINANCE  5    MATERIAL GLITTER VALUE #FFFFFF FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
+0 !COLOUR Opal_Trans_Light_Blue              CODE 362   VALUE #AEE9EF   EDGE #59D1DE   ALPHA 200   LUMINANCE  5    MATERIAL GLITTER VALUE #59DEBF FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
+0 !COLOUR Opal_Trans_Dark_Pink               CODE 364   VALUE #DF6695   EDGE #B9275F   ALPHA 200   LUMINANCE  5    MATERIAL GLITTER VALUE #B92790 FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
+0 !COLOUR Glitter_Trans_Bright_Green         CODE 10351 VALUE #56E646   EDGE #27AF18   ALPHA 128                   MATERIAL GLITTER VALUE #59AF18 FRACTION 0.17 VFRACTION 0.2 SIZE 1
 
 
 0 // LDraw Speckle Colours
@@ -189,8 +194,6 @@
 
 0 // LDraw Rubber Colours
 0 !COLOUR Rubber_Yellow                      CODE  65   VALUE #FAC80A   EDGE #9A7C03                               RUBBER
-0 !COLOUR Rubber_Trans_Yellow                CODE  66   VALUE #F5CD2F   EDGE #B49208   ALPHA 128                   RUBBER
-0 !COLOUR Rubber_Trans_Clear                 CODE  67   VALUE #FCFCFC   EDGE #C9C9C9   ALPHA 128                   RUBBER
 0 !COLOUR Rubber_Black                       CODE 256   VALUE #1B2A34   EDGE #000000                               RUBBER
 0 !COLOUR Rubber_Blue                        CODE 273   VALUE #1E5AA8   EDGE #0E2B52                               RUBBER
 0 !COLOUR Rubber_Red                         CODE 324   VALUE #B40000   EDGE #4C0000                               RUBBER
@@ -202,18 +205,29 @@
 0 !COLOUR Rubber_Light_Bluish_Grey           CODE 496   VALUE #969696   EDGE #636363                               RUBBER
 0 !COLOUR Rubber_Flat_Silver                 CODE 504   VALUE #898788   EDGE #545354                               RUBBER
 0 !COLOUR Rubber_White                       CODE 511   VALUE #F4F4F4   EDGE #C1C1C1                               RUBBER
-0 !COLOUR Rubber_Green                       CODE 10002 VALUE #58AB41   EDGE #316024                               RUBBER
+0 !COLOUR Rubber_Green                       CODE 10002 VALUE #00852B   EDGE #001E09                               RUBBER
+0 !COLOUR Rubber_Bright_Green                CODE 10010 VALUE #58AB41   EDGE #316024                               RUBBER
 0 !COLOUR Rubber_Magenta                     CODE 10026 VALUE #901F76   EDGE #3A0C30                               RUBBER
 0 !COLOUR Rubber_Medium_Lavender             CODE 10030 VALUE #A06EB9   EDGE #6C3E82                               RUBBER
 0 !COLOUR Rubber_Lavender                    CODE 10031 VALUE #CDA4DE   EDGE #A35AC3                               RUBBER
 0 !COLOUR Rubber_Reddish_Brown               CODE 10070 VALUE #5F3109   EDGE #2E1804                               RUBBER
+0 !COLOUR Rubber_Medium_Blue                 CODE 10073 VALUE #7396C8   EDGE #3B639A                               RUBBER
 0 !COLOUR Rubber_Bright_Light_Yellow         CODE 10226 VALUE #FFEC6C   EDGE #FFDD05                               RUBBER
 0 !COLOUR Rubber_Dark_Brown                  CODE 10308 VALUE #352100   EDGE #000000                               RUBBER
 0 !COLOUR Rubber_Dark_Red                    CODE 10320 VALUE #720012   EDGE #3D0009                               RUBBER
 0 !COLOUR Rubber_Dark_Azure                  CODE 10321 VALUE #469BC3   EDGE #27607B                               RUBBER
 0 !COLOUR Rubber_Medium_Azure                CODE 10322 VALUE #68C3E2   EDGE #2499C0                               RUBBER
 0 !COLOUR Rubber_Light_Aqua                  CODE 10323 VALUE #D3F2EA   EDGE #85DAC5                               RUBBER
+0 !COLOUR Rubber_Sand_Green                  CODE 10378 VALUE #708E7C   EDGE #43554A                               RUBBER
 0 !COLOUR Rubber_Dark_Orange                 CODE 10484 VALUE #91501C   EDGE #3B210B                               RUBBER
+
+
+0 // LDraw Transparent Rubber Colours
+0 !COLOUR Rubber_Trans_Yellow                CODE  66   VALUE #F5CD2F   EDGE #B49208   ALPHA 128                   RUBBER
+0 !COLOUR Rubber_Trans_Clear                 CODE  67   VALUE #FCFCFC   EDGE #C9C9C9   ALPHA 128                   RUBBER
+0 !COLOUR Rubber_Trans_Bright_Green          CODE 10035 VALUE #56E646   EDGE #27AF18   ALPHA 128                   RUBBER
+0 !COLOUR Rubber_Trans_Red                   CODE 10036 VALUE #C91A09   EDGE #660D05   ALPHA 128                   RUBBER
+0 !COLOUR Rubber_Trans_Light_Blue            CODE 10043 VALUE #AEE9EF   EDGE #59D1DE   ALPHA 128                   RUBBER
 
 
 0 // LDraw Internal Common Material Colours

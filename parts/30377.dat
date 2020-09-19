@@ -1,7 +1,7 @@
-0 Minifig Mechanical Arm
+0 Minifig Mechanical Arm with Clips Parallel
 0 Name: 30377.dat
 0 Author: Nathan Wright
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -15,6 +15,8 @@
 0 !HISTORY 2009-03-29 [tchang] Add BFC, partialy rebuild
 0 !HISTORY 2009-08-08 [anathema] Fixed broken dependency
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2020-05-16 [cwdee] Update description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 3 21 0 0 -6 0 0 0 -4.5 4.5 0 0 4-4cylc.dat
 1 16 -3 21 0 0 1 0 0 0 -4.5 4.5 0 0 4-4disc.dat

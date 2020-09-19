@@ -1,13 +1,15 @@
-0 Minifig Shield Ovoid w/ DkGreen Dragon on MdDkFlesh/Tan Pattern
+0 Minifig Shield Ovoid with Dark Green Dragon on Medium Nougat/Tan Pattern
 0 Name: 2586p4k.dat
 0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2020-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 0 !CATEGORY Minifig Accessory
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2020-05-10 [cwdee] Update colour name in description
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2586s01.dat
 3 84 7.654 -32.978 -8 0 -34.5 -8 0 -28.55 -8
