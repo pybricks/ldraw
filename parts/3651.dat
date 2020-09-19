@@ -1,7 +1,7 @@
-0 Technic Connector
+0 Technic Connector (Pin/Bush) with 2 Studs
 0 Name: 3651.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2009-01
+0 !LDRAW_ORG Part UPDATE 2011-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -15,6 +15,8 @@
 0 !HISTORY 2008-07-08 [mkennedy] Used box2-5 primitive (2004-05-25)
 0 !HISTORY 2008-07-09 [guyvivan] Replace rects, quads and lines by two box2-5.dat (2004-05-25)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2009-06-18 [Steffen] replaced studs by cylinders as they do _not_ have a logo and therefore are not "normal" studs
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 bush.dat
 1 16 10 0 -20 0 -1 0 1 0 0 0 0 1 peghole.dat
@@ -28,8 +30,14 @@
 1 16 8 0 -20 0 -16 0 6 0 0 0 0 6 4-4cyli.dat
 1 16 0 -8.305 -20 10 0 0 0 -1.695 0 0 0 -6 box2-5.dat
 1 16 0 8.305 -20 -10 0 0 0 1.695 0 0 0 -6 box2-5.dat
-1 16 0 10 -20 1 0 0 0 -1 0 0 0 1 stud.dat
-1 16 0 -10 -20 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 0 10 -20 -6 0 0 0 -1 0 0 0 6 4-4edge.dat
+1 16 0 14 -20 -6 0 0 0 -1 0 0 0 6 4-4edge.dat
+1 16 0 10 -20 -6 0 0 0 4 0 0 0 6 4-4cyli.dat
+1 16 0 14 -20 -6 0 0 0 -1 0 0 0 6 4-4disc.dat
+1 16 0 -10 -20 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 -14 -20 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 -10 -20 6 0 0 0 -4 0 0 0 6 4-4cyli.dat
+1 16 0 -14 -20 6 0 0 0 1 0 0 0 6 4-4disc.dat
 2 24 10 -6.61 -26 10 -6.36 -26.36
 2 24 10 6.61 -26 10 6.36 -26.36
 2 24 -10 -6.61 -26 -10 -6.36 -26.36

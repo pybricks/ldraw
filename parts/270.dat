@@ -1,7 +1,7 @@
-0 Train Base  6 x 12 Type 1
+0 ~Train Base  6 x 12 Type 1
 0 Name: 270.dat
 0 Author: Niels Karsdorp [nielsk]
-0 !LDRAW_ORG Part UPDATE 2010-02
+0 !LDRAW_ORG Part UPDATE 2011-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -10,9 +10,11 @@
 0 !HISTORY 2002-11-05 [BrickCaster] Added 2 missing quads, 8 missing edges
 0 !HISTORY 2003-06-11 [Steffen] BFCed
 0 !HISTORY 2004-08-31 [nielsk] L3P errors fixed
-0 !HISTORY 2004-10-31 [Steffen] used stug6.dat
+0 !HISTORY 2004-10-31 [Steffen] used stug-6x6.dat
 0 !HISTORY 2006-01-09 [nielsk] Reworked using more primitives
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+0 !HISTORY 2011-01-15 [Steffen] prepended ~ to title
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 1 16 60 4 0 0 -1 0 4 0 0 0 0 120 rect.dat
 1 16 -60 4 0 0 1 0 4 0 0 0 0 120 rect.dat
@@ -291,6 +293,5 @@
 4 16 10 4 -90 10 4 90 -10 4 90 -10 4 -90
 4 16 -60 8 -120 -56 8 -116 -56 8 116 -60 8 120
 4 16 60 8 120 56 8 116 56 8 -116 60 8 -120
-1 16 0 0 -60 0 0 -1 0 1 0 1 0 0 stug6.dat
-1 16 0 0 60 0 0 -1 0 1 0 1 0 0 stug6.dat
-0
+1 16 0 0 -60 0 0 -1 0 1 0 1 0 0 stug-6x6.dat
+1 16 0 0 60 0 0 -1 0 1 0 1 0 0 stug-6x6.dat

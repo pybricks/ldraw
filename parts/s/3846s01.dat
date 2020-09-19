@@ -1,7 +1,7 @@
 0 ~Minifig Shield without Decorated Surface
 0 Name: s\3846s01.dat
 0 Author: Tore Eriksson [simlego]
-0 !LDRAW_ORG Subpart UPDATE 2003-03
+0 !LDRAW_ORG Subpart UPDATE 2011-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,6 +12,8 @@
 0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
 0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2011-09-01 [Philo] Added side condlines
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 1 16 0 0 -8 4 0 0 0 0 4 0 1 0 4-4edge.dat
 1 16 0 0 14 4 0 0 0 0 4 0 1 0 4-4edge.dat
@@ -59,4 +61,11 @@
 4 16 -14.93 15.68 -8 -18.72 6.03 -8 18.72 6.03 -8 14.93 15.68 -8
 4 16 -18.72 6.03 -8 -20 -4 -8 20 -4 -8 18.72 6.03 -8
 4 16 -20 -4 -8 -20 -14 -8 20 -14 -8 20 -4 -8
-0
+5 24 8.76 24.57 -8 8.76 24.57 -10 0 32.37 -8 14.93 15.68 -8
+5 24 14.93 15.68 -8 14.93 15.68 -10 8.76 24.57 -8 18.72 6.03 -8
+5 24 18.72 6.03 -8 18.72 6.03 -10 14.93 15.68 -8 20 -4 -8
+5 24 20 -4 -8 20 -4 -10 18.72 6.03 -8 20 -14 -8
+5 24 -8.76 24.57 -10 -8.76 24.57 -8 0 32.37 -10 -14.93 15.68 -10
+5 24 -14.93 15.68 -10 -14.93 15.68 -8 -8.76 24.57 -10 -18.72 6.03 -10
+5 24 -18.72 6.03 -10 -18.72 6.03 -8 -14.93 15.68 -10 -20 -4 -10
+5 24 -20 -4 -10 -20 -4 -8 -18.72 6.03 -10 -20 -14 -10

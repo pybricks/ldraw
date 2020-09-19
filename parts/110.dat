@@ -1,12 +1,16 @@
-0 Technic Shock Absorber  9.5L, Spring
+0 ~Technic Shock Absorber  9.5L Spring
 0 Name: 110.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LDRAW_ORG Part UPDATE 2011-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
 
 0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
 0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-04-02 [tchang] Add BFC statement
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 0 // Created with spring2dat H=94 R=10 D=24 S=2 T=2 B=2
 

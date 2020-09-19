@@ -1,16 +1,19 @@
-0 Scala Tile  8 x 20 x   2/3 Round Ends
+0 Tile  8 x 20 x  0.667 with Curved Ends
 0 Name: 6923.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2011-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+0 !KEYWORDS Scala
 
 0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
 0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant (2004-11-16)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2011-10-31 [cwdee] Description change
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 2 24 188 0 80 -188 0 80
 2 24 188 8 80 -188 8 80

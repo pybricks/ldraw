@@ -1,13 +1,15 @@
-0 Hinge Train Gate  2 x  4 Locking
+0 Hinge Tile  2 x  4 with Ribs Locking
 0 Name: 44569.dat
 0 Author: Orion Pobursky [OrionP]
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2011-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS door, cover, laptop lid, tile
+0 !KEYWORDS train gate, door, cover, laptop lid
 
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2011-08-30 [PTadmin] Update description
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
 1 16 20 -2 20 1 0 0 0 1 0 0 0 1 clh4.dat
 1 16 20 -2 20 -1 0 0 0 -1 0 0 0 1 clh4.dat

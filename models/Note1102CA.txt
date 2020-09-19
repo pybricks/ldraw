@@ -1,0 +1,184 @@
+LDraw.org Parts Update 2011-02
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Thu Dec 29 08:18:39 2011 by the Parts Tracker.
+
+Release statistics:
+   Total files: 786
+   New files: 700
+   New parts: 474
+   New subparts: 180
+   New primitives: 38
+   New hi-res primitives: 8
+
+New 3-digit part numbers assigned:
+   189.dat ~Electric Train  4.5V On/Off Switch Brick  2 x  4 (Needs Work)
+   499.dat ~Magnet Cylindrical Casing for Plate  2 x  4
+   505.dat Train Steam Drive Rod
+   506.dat Train Steam Drive Rod Holder
+   562.dat ~Electric  4.5V Battery Box Pole Reverser Type 3
+   944.dat ~Axle Steel  6 x 96 LDU
+
+Moved Parts
+   109.DAT                    ~Moved to 2910
+   2436.DAT                   ~Moved to 2436a
+   2909C01.DAT                ~Moved to 75348
+   30080.DAT                  ~Moved to 75979
+   30173.DAT                  ~Moved to 30173a
+   32195.DAT                  ~Moved to 32195b
+   3794.DAT                   ~Moved to 3794a
+   4180D.DAT                  ~Moved to 996
+   4212.DAT                   ~Moved to 4212b
+   4273.DAT                   ~Moved to 4273b
+   4865.DAT                   ~Moved to 4865a
+   688.DAT                    ~Moved to 3778
+   890.DAT                    ~Moved to 30260
+   890P01.DAT                 ~Moved to 30260p01
+   2775S02.DAT                ~Moved to u9020
+   688S01.DAT                 ~Moved to s\3778s01
+   890S01.DAT                 ~Moved to s\30260s01
+   S2.DAT                     ~Moved to 192425b
+
+Renamed Parts
+   110.DAT                    Technic Shock Absorber  9.5L, Spring
+   changed to    ~Technic Shock Absorber  9.5L Spring
+
+   122C01.DAT                 Plate  2 x  2 with Wheels in Red
+   changed to    Plate  2 x  2 with Red Wheels (Complete)
+
+   122C02.DAT                 Plate  2 x  2 with Wheels in White
+   changed to    Plate  2 x  2 with White Wheels (Complete)
+
+   270.DAT                    Train Base  6 x 12 Type 1
+   changed to    ~Train Base  6 x 12 Type 1
+
+   276.DAT                    Fabuland Wheelbarrow
+   changed to    Wheelbarrow for  2 Wheels
+
+   2909.DAT                   Technic Shock Absorber  9.5L, Cylinder
+   changed to    ~Technic Shock Absorber  9.5L Cylinder
+
+   30117.DAT                  Panel 10 x 10 x  2 & 1/3 Quarter Saucer Top
+   changed to    Panel 10 x 10 x  2.333 Quarter Saucer Top
+
+   3134.DAT                   Brick  1 x  2 with Cable Holding Cutout
+   changed to    Brick  1 x  2 with Cable Cutout
+
+   3137C01.DAT                Brick  2 x  2 with Wheels (Complete Assembly Shortcut)
+   changed to    Brick  2 x  2 with Red Wheels (Complete)
+
+   32209.DAT                  Technic Axle  5.5 With Stop
+   changed to    Technic Axle  5.5 with Stop
+
+   3626BP6V.DAT               Minifig Head Alien with Large Blue Mask
+   changed to    Minifig Head with Large Blue Mask Pattern
+
+   3626BP6W.DAT               Minifig Head Alien with Small Blue Mask
+   changed to    Minifig Head with Small Blue Mask Pattern
+
+   3626BP6X.DAT               Minifig Head Alien with Silver Mask and Mouth Grille
+   changed to    Minifig Head with Silver Mask and Mouth Grille Pattern
+
+   3626BP6Y.DAT               Minifig Head Alien with Green Brain and Yellow Mouth
+   changed to    Minifig Head with Green Brain and Yellow Mouth Pattern
+
+   3650A.DAT                  Technic Gear 24 Tooth Crown
+   changed to    Technic Gear 24 Tooth Crown Type 1
+
+   3651.DAT                   Technic Connector
+   changed to    Technic Connector (Pin/Bush) with 2 Studs
+
+   44569.DAT                  Hinge Train Gate  2 x  4 Locking
+   changed to    Hinge Tile  2 x  4 with Ribs Locking
+
+   4623.DAT                   Plate  1 x  2 with Arm
+   changed to    Plate  1 x  2 with Vertical Bar on Long Side and Long Arm
+
+   60474.DAT                  Plate  4 x  4 Round
+   changed to    Plate  4 x  4 Round with Hole and Snapstud
+
+   6100.DAT                   Baseplate 32 x 32 with 3 Driveways
+   changed to    Baseplate 32 x 32 Road 9-Stud 3-Lane
+
+   6100P01.DAT                Baseplate 32 x 32 with 3 Driveways and Set 6571 Pattern
+   changed to    Baseplate 32 x 32 Road 9-Stud 3-Lane w/ Centre & Right Numbered
+
+   6231.DAT                   Panel  1 x  1 x  1 Corner
+   changed to    Panel  1 x  1 x  1 Corner with Rounded Corners
+
+   6553.DAT                   Technic Pole Reverser Handle
+   changed to    Technic Connector (Axle) with Axle 1.5
+
+   6923.DAT                   Scala Tile  8 x 20 x   2/3 Round Ends
+   changed to    Tile  8 x 20 x  0.667 with Curved Ends
+
+   6934.DAT                   Scala Tile  3 x  6
+   changed to    Tile  3 x  6
+
+   723.DAT                    Streetlight Old
+   changed to    Lamppost
+
+   736.DAT                    Train Base  6 x 16 Type 1
+   changed to    ~Train Base  6 x 16 Type 1
+
+   736C01.DAT                 Train Base  6 x 16 Type 1 with Wheels
+   changed to    Train Base  6 x 16 Type 1 with Wheels (Complete)
+
+   87580.DAT                  Tile  2 x  2 with Groove and 1 Stud
+   changed to    Plate  2 x  2 with Groove with 1 Center Stud
+
+   991.DAT                    ~Electric RC Race Buggy Motor - Axle Bush
+   changed to    ~Car Wheel Holder  2 x  2 with Suspension - Spring
+
+   2528S02.DAT                ~Minifig Hat Bicorne Front
+   changed to    ~Minifig Hat Bicorne Front/Back Surface
+
+   30173S01.DAT               ~Minifig Sword Katana Grip Segment
+   changed to    ~Minifig Sword Katana Blade
+
+   30361S01.DAT               ~Cylinder  2 x 2 x  2 Robot Body without Front Face
+   changed to    ~Cylinder  2 x  2 x  2 Robot Body without Front Face
+
+   973S00.DAT                 ~Minifig Torso - Neck Mark
+   changed to    ~Minifig Torso - Neck Mark (Obsolete)
+
+   U9013.DAT                  ~Screw Cruciform  6 x 12
+   changed to    ~Screw 12 x  6 Pan Cruciform
+
+Other Fixed Parts
+   BUSHLOC3.DAT               Bush Lock 3
+   T04O6250.DAT               Torus Outside  1 x 0.6250 x 0.25
+   2528.DAT                   Minifig Hat Bicorne
+   2560.DAT                   Boat Base  8 x 16
+   265AC01.DAT                Electric Lightbrick  2 x  2 Type 1  4.5V (Complete) 
+   266AC01.DAT                Electric Lightbrick  2 x  2 Type 1 12V (Complete) 
+   2999.DAT                   Technic Large Wheel Hub
+   30116.DAT                  Panel 14 x 14 x  2.667 Quarter Saucer Top
+   30141.DAT                  Minifig Gun Rifle
+   30385.DAT                  Rock  1 x  1 Crystal 5 Point
+   3039PC6.DAT                Slope Brick 45  2 x  2 with Radar Screen Pattern
+   3680.DAT                   Turntable  2 x  2 Plate Base
+   4746.DAT                   Tail  4 x  2 x  2 with Rocket
+   47753.DAT                  Wedge  4 x  4 Triple Curved without Studs
+   6054.DAT                   Boat Base  8 x 12
+   6266.DAT                   Minifig Skeleton Leg
+   73071.DAT                  Technic Differential
+   765.DAT                    ~Electric Plug (Type 4) Single
+   170876S2.DAT               ~Sticker With Octan Logo Pattern - Logo Frame
+   2528S01.DAT                ~Minifig Hat Bicorne without Front or Back
+   2560S01.DAT                ~Boat Base Stud Pair Subpart
+   30116S01.DAT               ~Panel 14 x 14 x  2.667 Quarter Saucer Top Without Top Faces
+   30361S1B.DAT               ~Cylinder  2 x  2 x  2 Robot Body with SW R2-D2 Pattern - Detail
+   3626BS02.DAT               ~Minifig Head - Stud Hollow without Outer Face
+   3846S01.DAT                ~Minifig Shield without Decorated Surface
+   4865P01B.DAT               ~Pattern Train Logo  1 x  2 - Background
+   4865P01C.DAT               ~Pattern Train Logo  1 x  2 - Foreground
+   58381S01.DAT               ~Door  1 x  3 x  4 Left with Hollow Hinge - Main Part
+   6026S01.DAT                ~Animal Crocodile Body - Half
+   60474S01.DAT               ~Plate  4 x  4 Round - 1/8
+   6054S01.DAT                ~Boat Base  8 x 12 Quarter Section
+   6057S04.DAT                ~Boat Rigging Top Joint
+   87544S01.DAT               ~Panel  1 x  2 x  3 without Front Face and Studs

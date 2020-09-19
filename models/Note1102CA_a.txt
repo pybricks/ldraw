@@ -1,0 +1,25 @@
+LDraw.org Parts Update 2011-02
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Alias Parts Library
+---------------------------------------------------------------------------
+
+Notes created Thu Dec 29 08:18:39 2011 by the Parts Tracker.
+
+Release statistics:
+   Total files: 10
+   New files: 9
+   New parts: 9
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   No parts were moved.
+
+Renamed Parts
+   30010.DAT                  Panel  1 x  2 x  1
+   changed to    Panel  1 x  2 x  1 with Square Corners
+
+Other Fixed Parts
+   No other parts were fixed.

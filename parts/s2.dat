@@ -1,14 +1,12 @@
-0 Sticker System with Classic Space Logo Pattern (Mirrored)
+0 ~Moved to 192425b
 0 Name: s2.dat
-0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2003-03
+0 Author: [PTadmin]
+0 !LDRAW_ORG Part UPDATE 2011-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 BFC CERTIFY CW
+0 BFC CERTIFY CCW
 
-0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
-0 !HISTORY 2007-10-08 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
-1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s1.dat
-0
+0 // Sticker System with Classic Space Logo Pattern (Mirrored)
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 192425b.dat
