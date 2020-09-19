@@ -1,7 +1,7 @@
-0 Windscreen  4 x  7 x  1.667 with SW Pattern LightGrey/DarkGrey
+0 Windscreen  4 x  7 x  1.667 with SW LightGrey/DarkGrey Pattern
 0 Name: 30372p79.dat
 0 Author: John Van Zwieten [jvan]
-0 !LDRAW_ORG Part UPDATE 2013-02
+0 !LDRAW_ORG Part UPDATE 2020-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,6 +11,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-04-18 [TK-949] Complete Rewrite
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+0 !HISTORY 2020-07-17 [cwdee] Update description
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30372s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30372p79s01.dat

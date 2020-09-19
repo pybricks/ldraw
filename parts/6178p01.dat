@@ -1,0 +1,18 @@
+0 Plate  6 x 12 with 22 Studs on Three Edges with Logo "Vestas" Pattern
+0 Name: 6178p01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 10268, bricklink 6178pb025
+
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
+4 16 -120 0 60 -102.102 0 20.9495 102.102 0 20.9495 120 0 60
+4 16 -120 0 60 -120 0 -60 -102.102 0 -20.9495 -102.102 0 20.9495
+4 16 120 0 60 102.102 0 20.9495 102.102 0 -20.9495 120 0 -60
+4 16 -102.102 0 -20.9495 -120 0 -60 120 0 -60 102.102 0 -20.9495
+1 16 0 0 0 -.715 0 0 0 1 0 0 0 -.715 s\6205p01s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6178s01.dat

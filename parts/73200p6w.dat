@@ -1,0 +1,20 @@
+0 Minifig Hips and Legs with Gold Circuitry Pattern
+0 Name: 73200p6w.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Shortcut UPDATE 2020-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 970c00pb0021
+0 !KEYWORDS set 3012, set 4305, set 6800, set 6816, set 6818, set 6829
+0 !KEYWORDS set 6836, set 6901, set 6902, set 6915, set 6975, set 6979
+
+0 !CMDLINE -c0
+
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815bp6w.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816bp6w.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817bp6w.dat
+

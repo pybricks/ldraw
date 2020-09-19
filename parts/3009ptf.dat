@@ -1,0 +1,31 @@
+0 Brick  1 x  6 with Black "CATERHAM" on Yellow Stripe Pattern
+0 Name: 3009ptf.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 21307, Cuusoo, Ideas, Caterham, Bricklink 3009pb201, Car
+0 !CMDLINE -c0
+
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
+0 // Main
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3009s01.dat
+4 16 59.28 18.24 -10 60 24 -10 60 0 -10 59.28 5.76 -10
+4 16 -59.28 5.76 -10 -60 0 -10 -60 24 -10 -59.28 18.24 -10
+3 16 -60 0 -10 -59.28 5.76 -10 -31.2 5.76 -10
+4 16 60 0 -10 -60 0 -10 0 5.76 -10 31.2 5.76 -10
+3 16 -60 0 -10 -31.2 5.76 -10 0 5.76 -10
+3 16 60 0 -10 31.2 5.76 -10 59.28 5.76 -10
+4 16 -60 24 -10 60 24 -10 -34.32 18.24 -10 -59.28 18.24 -10
+3 16 60 24 -10 0 18.24 -10 -34.32 18.24 -10
+3 16 0 18.24 -10 60 24 -10 31.2 18.24 -10
+3 16 59.28 18.24 -10 31.2 18.24 -10 60 24 -10
+
+0 // Yellow
+1 14 0 12 -10 1.56 0 0 0 0 -1.56 0 1 0 s\2431pt4s02.dat
+
+0 // Black
+1 0 0 12 -10 1.56 0 0 0 0 -1.56 0 1 0 s\2431pt4s01.dat

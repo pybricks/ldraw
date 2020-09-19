@@ -1,12 +1,14 @@
-0 ~Rock  4 x  4 x  1.333 Top Bicoloured, Colour 2
+0 ~Rock  4 x  4 x  1.333 Top Dual Mould Lower Section
 0 Name: s\53933s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
+0 !LDRAW_ORG Subpart UPDATE 2020-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+0 !HISTORY 2020-07-26 [cwdee] Update description
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 4 16 18.57 11.08 -26.1 20.85 14.33 -29.5 17.82 17.38 -33.54 12.37 16.36 -33.27
 4 16 -34.37 22.61 -17.86 -32.96 18.29 -0.04 -28.67 13.6 -2.84 -26.42 12.25 -11.79

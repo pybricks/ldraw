@@ -1,0 +1,291 @@
+ldraw.org Parts Update 2020-02
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Sat Sep  5 17:48:18 2020 by the Parts Tracker.
+
+Release statistics:
+   Total files: 850
+   New files: 712
+   New parts: 510
+   New subparts: 174
+   New primitives: 15
+   New lo-res primitives: 2
+   New hi-res primitives: 9
+   New part texture images: 2
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   T04OUNIT.DAT               ~Moved to r04o1000
+   2641.DAT                   ~Moved to 2641a
+   3755.DAT                   ~Moved to 3755a
+   4185.DAT                   ~Moved to 4185a
+   4751.DAT                   ~Moved to 4751a
+   529.DAT                    ~Moved to 71591
+   53933.DAT                  ~Moved to 53933p01
+   62808.DAT                  ~Moved to 40359a
+   62809.DAT                  ~Moved to 40359b
+   6637.DAT                   ~Moved to 75815
+   93094.DAT                  ~Moved to 93094p01
+   3818P01S01.DAT             ~Moved to s\16000s01
+   3818P01S02.DAT             ~Moved to s\16000s02
+   6216MA.DAT                 ~Moved to u9372
+   62809S01.DAT               ~Moved to s\40359bs01
+   U9252P01.DAT               ~Moved to 191765
+   U9253P01.DAT               ~Moved to 191766
+   U9393C01.DAT               ~Moved to 45601
+   U9393C02.DAT               ~Moved to 45601c01
+   U9393P01C01.DAT            ~Moved to 45601p01
+   U9399C01.DAT               ~Moved to 45610
+
+Renamed Parts
+   19119C01.DAT               Plant Flower Stem with Bar and  6 Stems and  6 Flowers
+   changed to    Plant Flower Stem with Bar and  6 Stems Green with  6 Flowers
+
+   19119C02.DAT               Plant Flower Stem with Bar and  6 Stems and  6 Plates  1 x  1 Round with Tabs
+   changed to    Plant Flower Stem with Bar and  6 Stems Green with  6 Plates  1 x  1 Round with Tabs
+
+   24076P02.DAT               Minifig Headdress Orca with Tail and Fin with Red Eye and White Orca Marks and Teeth Pattern
+   changed to    Minifig Headdress Shark with Tail and Fin with Red Eye and White Orca Marks and Teeth Pattern
+
+   2536.DAT                   Plant Tree Palm Trunk
+   changed to    ~Plant Tree Palm Trunk (Obsolete)
+
+   28981.DAT                  Canvas Hammock Oval 10 x  5
+   changed to    Sheet Fabric Oval 10 x  5
+
+   28981C01.DAT               Canvas Hammock Oval 10 x  5 (Formed)
+   changed to    Sheet Fabric Oval 10 x  5 (Formed as Hammock)
+
+   28981C02.DAT               Canvas Hammock Oval 10 x  5 Sail Shaped (Formed)
+   changed to    Sheet Fabric Oval 10 x  5 (Formed as Sail)
+
+   3004PX0.DAT                Brick  1 x  2 with with  4 Reddish Brown and  1 Dark Brown Rectangles Pattern
+   changed to    Brick  1 x  2 with  4 Reddish Brown and  1 Dark Brown Rectangles Pattern
+
+   30152.DAT                  Minifig Tool Magnifying Glass
+   changed to    ~Minifig Tool Magnifying Glass (Obsolete)
+
+   30191K01.DAT               ~Minifig Stretcher Holder End
+   changed to    ~Bar Flexible H-shaped with Holders End
+
+   30191K02.DAT               ~Minifig Stretcher Holder Middle Attach Straight
+   changed to    ~Bar Flexible H-shaped with Holders Middle Segment
+
+   30372P79.DAT               Windscreen  4 x  7 x  1.667 with SW Pattern LightGrey/DarkGrey
+   changed to    Windscreen  4 x  7 x  1.667 with SW LightGrey/DarkGrey Pattern
+
+   30372PS0.DAT               Windscreen  4 x  7 x  1.667 with SW Pattern White/LightBluishGrey
+   changed to    Windscreen  4 x  7 x  1.667 with SW White/LightBluishGrey Pattern
+
+   3245BP01.DAT               Brick  1 x  2 x  2 w/ Inside Axleholder w/ Train Point Pattern
+   changed to    Brick  1 x  2 x  2 with Inside Axleholder with Train Point Pattern
+
+   3245BP02.DAT               Brick  1 x  2 x  2 w/ Inside Axleholder w/ Yellow Triangle Pat.
+   changed to    Brick  1 x  2 x  2 with Inside Axleholder with Yellow Triangle Pattern
+
+   3626BP8A.DAT               Minifig Head with Peach Lips, Smile, Brown Eyebrows Pattern (Hollow Stud with Pierced Base)
+   changed to    Minifig Head Female with Peach Lips, Smile, Brown Eyebrows Pattern (Hollow Stud with Pierced Base)
+
+   3626CP8A.DAT               Minifig Head with Peach Lips, Smile, Brown Eyebrows Pattern (Hollow Stud)
+   changed to    Minifig Head Female with Peach Lips, Smile, Brown Eyebrows Pattern (Hollow Stud)
+
+   3741AC01.DAT               Plant Flower Stem with Three Flowers with 6 Petals Centre Upwards
+   changed to    Plant Flower Stem Green with Three Flowers with 6 Petals Centre Upwards
+
+   3741AC02.DAT               Plant Flower Stem with Three Flowers with 6 Petals Centre Downwards
+   changed to    Plant Flower Stem Green with Three Flowers with 6 Petals Centre Downwards
+
+   3741AC03.DAT               Plant Flower Stem with Three Flowers with 4 Petals
+   changed to    Plant Flower Stem Green with Three Flowers with 4 Petals
+
+   3741AC04.DAT               Plant Flower Stem with Three Roses
+   changed to    Plant Flower Stem Green with Three Roses
+
+   3741AC05.DAT               Plant Flower Stem with Three Flowers with  6 Rounded Petals
+   changed to    Plant Flower Stem Green with Three Flowers with  6 Rounded Petals
+
+   3961.DAT                   Dish  8 x  8 Inverted
+   changed to    Dish  8 x  8 Inverted with Solid Studs
+
+   4274.DAT                   Technic Pin 1/2
+   changed to    Technic Pin  1/2
+
+   43085.DAT                  Panel Ramp Curved  8 x 12 x  6 (Needs Work)
+   changed to    Panel Ramp Curved  8 x 12 x  6
+
+   4867P10.DAT                Wedge  4 x  4 with Tail Plane with Red/Black Pattern
+   changed to    Tail Plane with Red/Black Pattern
+
+   57046F.DAT                 Technic Panel Flat Sheet 10 x 10 Quarter Ring with  4 Holes
+   changed to    Sheet Plastic Technic Panel 10 x 10 Quarter Ring with  4 Holes
+
+   575C01.DAT                 Technic Universal Joint Type 1 (Complete)
+   changed to    Technic Universal Joint 4L with Slotted Ends with Milky White Centre Type 1 (Complete)
+
+   6116.DAT                   =Brick  2 x  2 Round Type 2
+   changed to    =Brick  2 x  2 Round Reinforced
+
+   6143.DAT                   Brick  2 x  2 Round Type 2
+   changed to    Brick  2 x  2 Round Reinforced
+
+   6180.DAT                   Tile  4 x  6 with Studs on Edges
+   changed to    Plate  4 x  6 with 12 Studs on Three Edges
+
+   6205P01.DAT                Plate  6 x 16 with 26 Studs on Three Edges with Logo "Vestas" Pattern
+   changed to    ~Plate  6 x 16 with 26 Studs on Three Edges with Logo "Vestas" Pattern (Obsolete)
+
+   64991.DAT                  Sail Trapezoidal 28 x 17
+   changed to    Sheet Fabric 28 x 17 Trapezoidal Sail
+
+   64991C01.DAT               Sail Trapezoidal 28 x 17 (Formed Shape 1)
+   changed to    Sheet Fabric 28 x 17 Trapezoidal Sail (Formed Shape 1)
+
+   64991C02.DAT               Sail Trapezoidal 28 x 17 (Formed Shape 2)
+   changed to    Sheet Fabric 28 x 17 Trapezoidal Sail (Formed Shape 2)
+
+   64991C03.DAT               Sail Trapezoidal 28 x 17 (Formed Shape 3)
+   changed to    Sheet Fabric 28 x 17 Trapezoidal Sail (Formed Shape 3)
+
+   6637A.DAT                  ~Electric Technic Fiber Optics Element Top/Bottom
+   changed to    ~Obsolete file
+
+   6637B.DAT                  ~Electric Technic Fiber Optics Element Sides
+   changed to    ~Obsolete file
+
+   6637C.DAT                  ~Electric Technic Fiber Optics Element Cylinder Segment
+   changed to    ~Obsolete file
+
+   6637D.DAT                  ~Electric Technic Fiber Optics Element Front/Back
+   changed to    ~Obsolete file
+
+   71396P01C01.DAT            Canvas Wagon Cover with Crossed Cutlasses Pattern (Formed)
+   changed to    Sheet Fabric Wagon Cover with Crossed Cutlasses Pattern (Formed)
+
+   73435.DAT                  Door  1 x  4 x  5 Right
+   changed to    ~Door  1 x  4 x  5 Right with Smoke Glass (Obsolete)
+
+   73436.DAT                  Door  1 x  4 x  5 Left
+   changed to    ~Door  1 x  4 x  5 Left with Smoke Glass (Obsolete)
+
+   821421A.DAT                Sticker  3.4 x  3.8 with Global Container Cargo Pattern
+   changed to    Sticker  3.4 x  3.8 with Global Container Cargo
+
+   85651.DAT                  Sail Triangular 17 x 21
+   changed to    Sheet Fabric 17 x 21 Triangular Sail
+
+   85651C01.DAT               Sail Triangular 17 x 21 (Formed Shape 1)
+   changed to    Sheet Fabric 17 x 21 Triangular Sail (Formed Shape 1)
+
+   85651C02.DAT               Sail Triangular 17 x 21 (Formed Shape 2)
+   changed to    Sheet Fabric 17 x 21 Triangular Sail (Formed Shape 2)
+
+   93220P04.DAT               Minifig Baseball Bat with Three Metallic Silver Diamonds With Rivets Pattern
+   changed to    Minifig Baseball Bat with Three Metallic Silver Diamonds with Rivets Pattern
+
+   95195.DAT                  Canvas Triangular 22 x 18 Carousel Roof
+   changed to    Sheet Fabric 22 x 18 Triangular Carousel Roof
+
+   95195C01.DAT               Canvas Triangular 22 x 18 Carousel Roof (Formed Shape 1)
+   changed to    Sheet Fabric 22 x 18 Triangular Carousel Roof (Formed Shape 1)
+
+   95195C02.DAT               Canvas Triangular 22 x 18 Carousel Roof (Formed Shape 2)
+   changed to    Sheet Fabric 22 x 18 Triangular Carousel Roof (Formed Shape 2)
+
+   96714.DAT                  Sail Trapezoidal 17.5 x 12.5
+   changed to    Sheet Fabric 17.5 x 12.5 Trapezoidal Sail
+
+   96714C01.DAT               Sail Trapezoidal 17.5 x 12.5 (Formed)
+   changed to    Sheet Fabric 17.5 x 12.5 Trapezoidal Sail (Formed)
+
+   973P9C.DAT                 Minifig Torso Knit Sweater Pattern
+   changed to    Minifig Torso with Knit Sweater Pattern
+
+   99249C01.DAT               Plant Flower Stem with Bar with Three Flowers
+   changed to    Plant Flower Stem with Bar Green with  3 Flowers
+
+   99249C02.DAT               Plant Flower Stem with Bar with Three Roses
+   changed to    Plant Flower Stem with Bar Green with  3 Roses
+
+   99249C03.DAT               Plant Flower Stem with Bar with Three Flowers with  6 Rounded Petals
+   changed to    Plant Flower Stem with Bar Green with  3 Flowers with  6 Rounded Petals
+
+   17485S01.DAT               ~Brick  2 x  2 Round with Pin Holes - 3/16
+   changed to    ~Brick  2 x  2 Round with Pin Holes - 3/16 without Patterned Surface
+
+   24246S01.DAT               ~Tile  1 x  1 with Rounded End without Top Face
+   changed to    ~Tile  1 x  1 with Rounded End with Partial Top Face
+
+   45522S01.DAT               ~Tile  6 x  6 x 2/3 with 4 Studs and Card Holder without Text
+   changed to    ~Plate  6 x  6 x  0.667 with 4 Studs and Card-holder without Text
+
+   4867S01.DAT                ~Wedge  4 x  4 with Tail Plane without Side Faces
+   changed to    ~Tail Plane without Side Faces
+
+   53933S01.DAT               ~Rock  4 x  4 x  1.333 Top Bicoloured, Colour 1
+   changed to    ~Rock  4 x  4 x  1.333 Top Dual Mould Upper Section 
+
+   53933S02.DAT               ~Rock  4 x  4 x  1.333 Top Bicoloured, Colour 2
+   changed to    ~Rock  4 x  4 x  1.333 Top Dual Mould Lower Section
+
+   U572P01.DAT                Baseplate 60 x 68 Cardboard with Wild West Scene Pattern
+   changed to    Sheet Cardboard 60 x 68 Baseplate with Wild West Scene Pattern
+
+Other Fixed Parts
+   STUD6.DAT                  Stud Open For Round 2x2 Parts
+   003437A.DAT                Sticker  2.3 x  2.4 with White "181" and Winged Wheel Logo on Black
+   004747A.DAT                Sticker  1.9 x  3 with White "183" on Red
+   15210PC0.DAT               Roadsign Clip-on  2 x  2 Square with C-Clip with Blue Computer Screen Pattern
+   15413.DAT                  Tyre 20/ 48 x 30
+   17485.DAT                  Brick  2 x  2 Round with Pin Holes
+   18909.DAT                  Panel Cone  3 x  6 x  6 Elliptic Parabolic
+   18973.DAT                  Windscreen  6 x  4 x  1.333 Curved
+   2431P70.DAT                Tile  1 x  4 with Solar Panels Pattern
+   2476B.DAT                  Plate  2 x  2 with Pin Type 2
+   2496.DAT                   Wheel Trolley
+   2684C01.DAT                Monorail Motor with White Motor Unit (Complete)
+   2686C01.DAT                Monorail Wheel Chassis Assembly (Complete)
+   27507.DAT                  Tile  4 x  4 Corner Round
+   27925.DAT                  Tile  2 x  2 Corner Round
+   2883.DAT                   ~Monorail Points Shover
+   2891.DAT                   Monorail Track Curve Short Right
+   2892.DAT                   Monorail Track Curve Short Left
+   2920.DAT                   Train Coupling Type 2
+   2922A.DAT                  Train Pantograph Shoe with Three Finger Hinge 
+   3005PVO.DAT                Brick  1 x  1 with Lightblue "O" Pattern
+   30147.DAT                  Car Grille  1 x  2 x  2 Round Top with Lights
+   3040P02.DAT                Slope Brick 45  2 x  1 with White Rotary Dial Pattern
+   3040P03.DAT                Slope Brick 45  2 x  1 with Black Rotary Dial Pattern
+   3062A.DAT                  Brick  1 x  1 Round with Solid Stud
+   3068BPF1.DAT               Tile  2 x  2 with Red Top Pattern
+   3068BPF2.DAT               Tile  2 x  2 with White Top Pattern
+   3068BPFL.DAT               Tile  2 x  2 with Purple Top Pattern
+   32012.DAT                  Technic Reel  2.5 x  2
+   3480.DAT                   Propellor  2 Blade  4 Diameter Helicopter Tail
+   3585.DAT                   Wing  7 x 12 Right
+   3586.DAT                   Wing  7 x 12 Left
+   3959.DAT                   Minifig Torch
+   3961P20.DAT                Dish  8 x  8 Inverted With Numbered Wedge Pattern
+   3961PB0.DAT                Dish  8 x  8 Inverted with "TIVAN", "28 MB" and Dark Red Leaf Pattern
+   3961PS0.DAT                Dish  8 x  8 Inverted with Mini Millennium Falcon Pattern
+   3961PX0.DAT                Dish  8 x  8 Inverted with Blue Eye Pattern
+   4150PF0.DAT                Tile  2 x  2 Round with Red Rings Pattern
+   41879A.DAT                 Minifig Hips and Legs Short without Hole
+   41879B.DAT                 Minifig Hips and Legs Short with Hole
+   4698.DAT                   Technic Axle Nut
+   4867.DAT                   Tail Plane
+   6178.DAT                   Plate  6 x 12 with 22 Studs on Three Edges
+   6630.DAT                   Technic Gear Rack  1 x  8 with Holes
+   75535.DAT                  Technic Pin Joiner Round
+   85984.DAT                  Slope Brick 31  1 x  2 x  0.667
+   98368.DAT                  Minifig Toolbox  1 x  3 with Handle
+   18973S01.DAT               ~Windscreen  6 x  4 x  1.333 Curved - Base
+   2891S01.DAT                ~Monorail Track Curve Short Right Wavy End
+   2892S01.DAT                ~Monorail Track Curve Short Left Wavy End
+   3818S01.DAT                ~Minifig Arm Right Inner Half
+   3961S01.DAT                ~Dish  8 x  8 Inverted without Top Surface
+   85984S01.DAT               ~Slope Brick 31  1 x  2 x  0.667 without Top Surface

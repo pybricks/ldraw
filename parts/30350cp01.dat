@@ -1,0 +1,28 @@
+0 Tile  2 x  3 with Clips Horizontal (Thick U-Clips) with Solar Panels Pattern
+0 Name: 30350cp01.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 21321, BrickLink 30350bpb105
+
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30350cs01.dat
+
+1 16 10 0 0 1 0 0 0 1 0 0 0 1 s\30350cp01s01.dat
+1 16 -10 0 0 1 0 0 0 1 0 0 0 1 s\30350cp01s01.dat
+
+4 16 -20 0 -30 20 0 -30 .8 0 -28.3 -.8 0 -28.3
+4 16 19.2 0 -28.3 20 0 -30 20 0 30 19.2 0 28.3
+4 16 .8 0 28.3 -.8 0 28.3 -.8 0 -28.3 .8 0 -28.3
+4 16 -19.2 0 -28.3 -19.2 0 28.3 -20 0 30 -20 0 -30
+4 16 -6 0 30 -.8 0 28.3 .8 0 28.3 6 0 30
+4 16 20 0 30 14 0 30 .8 0 28.3 19.2 0 28.3
+4 16 -20 0 30 -19.2 0 28.3 -.8 0 28.3 -14 0 30
+3 16 -6 0 30 -14 0 30 -.8 0 28.3
+3 16 6 0 30 .8 0 28.3 14 0 30
+3 16 19.2 0 -28.3 .8 0 -28.3 20 0 -30
+3 16 -20 0 -30 -.8 0 -28.3 -19.2 0 -28.3

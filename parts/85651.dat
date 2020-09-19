@@ -1,7 +1,7 @@
-0 Sail Triangular 17 x 21
+0 Sheet Fabric 17 x 21 Triangular Sail
 0 Name: 85651.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LDRAW_ORG Part UPDATE 2020-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,6 +12,8 @@
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 0 !HISTORY 2019-01-25 [cwdee] Update category
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+0 !HISTORY 2020-06-10 [cwdee] Update description
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 0 // Bottom Surface
 

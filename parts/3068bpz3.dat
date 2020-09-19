@@ -1,0 +1,27 @@
+0 Tile  2 x  2 with Medium Nougat Rectangle and Reddish Brown U-Form Pattern
+0 Name: 3068bpz3.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Minecraft, Brickheadz, Steve, Nose, Mouth, Bricklink 3068bpb1167, Set 41612
+
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+
+4 84 -9.5 0 9.5 -9.5 0 0 9.5 0 0 9.5 0 9.5
+
+4 70 -9.5 0 -9.5 -9.5 0 0 -18.5 0 0 -18.5 0 -18.5
+4 70 9.5 0 -9.5 -9.5 0 -9.5 -18.5 0 -18.5 18.5 0 -18.5
+4 70 9.5 0 -9.5 18.5 0 -18.5 18.5 0 0 9.5 0 0
+
+4 16 9.5 0 0 -9.5 0 0 -9.5 0 -9.5 9.5 0 -9.5
+4 16 -20 0 20 -20 0 -20 -18.5 0 -18.5 -18.5 0 0
+4 16 -9.5 0 9.5 -20 0 20 -18.5 0 0 -9.5 0 0
+4 16 -20 0 20 -9.5 0 9.5 9.5 0 9.5 20 0 20
+4 16 18.5 0 0 20 0 20 9.5 0 9.5 9.5 0 0
+4 16 20 0 20 18.5 0 0 18.5 0 -18.5 20 0 -20
+4 16 18.5 0 -18.5 -18.5 0 -18.5 -20 0 -20 20 0 -20

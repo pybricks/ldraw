@@ -1,15 +1,19 @@
 0 Dish  8 x  8 Inverted with Blue Eye Pattern
 0 Name: 3961px0.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Part UPDATE 2010-02
+0 !LDRAW_ORG Part UPDATE 2020-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Round
+
+0 !KEYWORDS Round, Set 3826, BrickLink 3961pb03
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+0 !HISTORY 2020-07-10 [ejboer] Moved stud group to main file
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3961s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat
 1 16 0 3 0 -14.142 0 -14.142 0 -3 0 14.142 0 -14.142 48\1-4con1.dat
 1 16 0 3 0 14.142 0 -14.142 0 -3 0 14.142 0 14.142 48\1-4con1.dat
 1 16 0 3 0 14.142 0 14.142 0 -3 0 -14.142 0 14.142 48\1-4con1.dat
@@ -366,5 +370,3 @@
 5 24 51.962 9 -30 47.601 9 -36.526 33.259 3 -22.222 66.517 16 -44.446
 5 24 31.734 3 -24.35 28.284 3 -28.284 15.037 0 -13.187 45.111 9 -39.561
 5 24 47.601 9 -36.526 42.426 9 -42.426 30.073 3 -26.374 60.148 16 -52.747
-0 //
-0 //

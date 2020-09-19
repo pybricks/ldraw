@@ -1,7 +1,7 @@
 0 Panel Cone  3 x  6 x  6 Elliptic Parabolic
 0 Name: 18909.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LDRAW_ORG Part UPDATE 2020-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2017-12-16 [Sirio] File preparation for LDraw Parts Tracker
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !HISTORY 2020-05-18 [ishkafel] Fix a gap between inner cone primitives
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 0 // Subparts
 1 16 0 144 0 0 0 1 0 1 0 1 0 0 s\18909s01.dat
@@ -73,7 +75,7 @@
 0 BFC INVERTNEXT
 1 16 0 54.5714 0 -1 0 0 0 -3.5714 0 0 0 -1 48\1-4con41.dat
 0 BFC INVERTNEXT
-1 16 0 54.571 0 0 0 1 0 -3.5714 0 -1 0 0 48\1-4con41.dat
+1 16 0 54.5714 0 0 0 1 0 -3.5714 0 -1 0 0 48\1-4con41.dat
 0 BFC INVERTNEXT
 1 16 0 51 0 -1 0 0 0 -2.1818 0 0 0 -1 48\1-4con40.dat
 0 BFC INVERTNEXT
@@ -89,7 +91,7 @@
 0 BFC INVERTNEXT
 1 16 0 7.8333 0 -2 0 0 0 -3.8333 0 0 0 -2 48\1-4con9.dat
 0 BFC INVERTNEXT
-1 16 0 7.833 0 0 0 2 0 -3.8333 0 -2 0 0 48\1-4con9.dat
+1 16 0 7.8333 0 0 0 2 0 -3.8333 0 -2 0 0 48\1-4con9.dat
 0 // Conditional lines
 5 24 53.5356 110 -7.047 52.1586 110 -13.9752 55.5184 136 -7.308 47.5872 76 -6.264
 5 24 47.5872 76 -6.264 46.3632 76 -12.4224 53.5356 110 -7.047 40.6474 51 -5.3505
@@ -202,7 +204,7 @@
 1 16 0 112 0 -2 0 0 0 -12.3333 0 0 0 -2 48\1-4con28.dat
 1 16 0 112 0 0 0 2 0 -12.3333 0 -2 0 0 48\1-4con28.dat
 1 16 0 99.6667 0 -4 0 0 0 -24.6667 0 0 0 -4 48\1-4con13.dat
-1 16 0 99.667 0 0 0 4 0 -24.6667 0 -4 0 0 48\1-4con13.dat
+1 16 0 99.6667 0 0 0 4 0 -24.6667 0 -4 0 0 48\1-4con13.dat
 1 16 0 75 0 -4 0 0 0 -13 0 0 0 -4 48\1-4con12.dat
 1 16 0 75 0 0 0 4 0 -13 0 -4 0 0 48\1-4con12.dat
 1 16 0 62 0 -4 0 0 0 -13 0 0 0 -4 48\1-4con11.dat
@@ -210,9 +212,9 @@
 1 16 0 49 0 -4 0 0 0 -9.0909 0 0 0 -4 48\1-4con10.dat
 1 16 0 49 0 0 0 4 0 -9.0909 0 -4 0 0 48\1-4con10.dat
 1 16 0 39.9091 0 -4 0 0 0 -9.0909 0 0 0 -4 48\1-4con9.dat
-1 16 0 39.909 0 0 0 4 0 -9.0909 0 -4 0 0 48\1-4con9.dat
+1 16 0 39.9091 0 0 0 4 0 -9.0909 0 -4 0 0 48\1-4con9.dat
 1 16 0 30.8182 0 -3 0 0 0 -6.8182 0 0 0 -3 48\1-4con11.dat
-1 16 0 30.818 0 0 0 3 0 -6.8182 0 -3 0 0 48\1-4con11.dat
+1 16 0 30.8182 0 0 0 3 0 -6.8182 0 -3 0 0 48\1-4con11.dat
 1 16 0 24 0 -3 0 0 0 -5.5385 0 0 0 -3 48\1-4con10.dat
 1 16 0 24 0 0 0 3 0 -5.5385 0 -3 0 0 48\1-4con10.dat
 1 16 0 18.4615 0 -10 0 0 0 -18.4615 0 0 0 -10 48\1-4con2.dat

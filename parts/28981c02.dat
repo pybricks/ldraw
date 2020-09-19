@@ -1,7 +1,7 @@
-0 Canvas Hammock Oval 10 x  5 Sail Shaped (Formed)
+0 Sheet Fabric Oval 10 x  5 (Formed as Sail)
 0 Name: 28981c02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LDRAW_ORG Part UPDATE 2020-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,6 +10,8 @@
 0 !KEYWORDS Set 31063
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+0 !HISTORY 2020-06-10 [cwdee] Update description
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 4 16 -4.8717 0 4.6997 -2.775 0 6.1007 -3.4837 0 14.2011 -9.4347 0 12.2501
 4 16 -6.2727 0 2.6029 -4.8717 0 4.6997 -9.4347 0 12.2501 -16.9894 0 9.1806

@@ -1,7 +1,7 @@
-0 Canvas Triangular 22 x 18 Carousel Roof (Formed Shape 2)
+0 Sheet Fabric 22 x 18 Triangular Carousel Roof (Formed Shape 2)
 0 Name: 95195c02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LDRAW_ORG Part UPDATE 2020-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,6 +12,8 @@
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 0 !HISTORY 2019-01-25 [cwdee] Update category
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+0 !HISTORY 2020-06-10 [cwdee] Update description
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 0 // Shape realized in collaboration with Jerome Schlitter
 

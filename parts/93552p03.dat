@@ -1,0 +1,17 @@
+0 Minifig Paint Brush with Orange Tip Pattern
+0 Name: 93552p03.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+
+0 !KEYWORDS Set 40380, Set 60234, BrickLink 93552pb03
+
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93552s01.dat
+1 25 0 0 0 1 0 0 0 1 0 0 0 1 s\93552s02.dat
+1 16 0 -30 0 0.4 0 0 0 -5 0 0 0 0.4 4-4con9.dat

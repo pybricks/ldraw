@@ -1,7 +1,7 @@
 0 Monorail Motor with White Motor Unit (Complete)
 0 Name: 2684c01.dat
 0 Author: Bernd Broich [bbroich]
-0 !LDRAW_ORG Shortcut UPDATE 2019-02
+0 !LDRAW_ORG Shortcut UPDATE 2020-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,32 +11,17 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2013-04-27 [MagFors] Modified for BFC compliance
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+0 !HISTORY 2020-06-24 [SLS] Use mechanical assemblies
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
-0 // Wheels
-
-1 16 -39 124 0 1 0 0 0 1 0 0 0 1 2688.dat
-1 16 39 124 0 1 0 0 0 1 0 0 0 1 2688.dat
-
-0 // Bottom
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 2684.dat
-0 // axle
-1 494 0 134.5 -14 2.5 0 0 0 -18 0 0 0 2.5 4-4cylc.dat
-0 // Gear
-1 334 0 135 -14 1 0 0 0 1 0 0 0 1 u9075.dat
+0 // Motor chassis
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2683c01.dat
 
 0 // Switch
 0 // from -6 to +6 LDU at z-axis
 1 16 0 111.5 0 1 0 0 0 1 0 0 0 1 2682.dat
 
-0 // Connector
-0 // rotates from -8 to +8 degrees around z-axis
+0 // Connectors
+0 // rotate from -8 to +8 degrees around z-axis
 1 16 -18 128.75 0 -1 0 0 0 1 0 0 0 -1 2685.dat
 1 16 18 128.75 0 1 0 0 0 1 0 0 0 1 2685.dat
-
-0 // Top
-1 15 0 0 0 1 0 0 0 1 0 0 0 1 2683.dat
-
-
-
-
-

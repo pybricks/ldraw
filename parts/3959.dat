@@ -1,10 +1,11 @@
 0 Minifig Torch
 0 Name: 3959.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2004-01
+0 !LDRAW_ORG Part UPDATE 2020-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
 0 !CATEGORY Minifig Accessory
 0 !KEYWORDS Space, Castle, Pirates, bar, rod, round
 0 !KEYWORDS female stud, axlehole, axle hole, Technic axle
@@ -20,10 +21,12 @@
 0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
 0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, introduced 4-4cylc.dat, fixed falt primitives scaled in Y direction
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 0 BFC INVERTNEXT
 1 16 0 0 -24 6 0 0 0 0 6 0 4 0 4-4cyli.dat
-1 16 0 0 -24 2 0 0 0 0 2 0 1 0 ring3.dat
+1 16 0 0 -24 2 0 0 0 0 2 0 1 0 4-4ring3.dat
 1 16 0 0 -24 8 0 0 0 0 8 0 1 0 4-4edge.dat
 1 16 0 0 -24 6 0 0 0 0 6 0 1 0 4-4edge.dat
 1 16 0 0 -12 1 0 0 0 0 1 0 -8 0 axlehole.dat
@@ -71,10 +74,7 @@
 1 16 0 0 -10 8 0 0 0 0 8 0 1 0 4-4edge.dat
 0 // big disc separating axlehole (female stud) from main shaft
 1 16 0 0 -10 10 0 0 0 0 10 0 1 0 4-4disc.dat
-1 16 0 0 -10 10 0 0 0 0 10 0 2 0 4-4cyli.dat
-1 16 0 0 -10 10 0 0 0 0 10 0 1 0 4-4edge.dat
-1 16 0 0 -8 10 0 0 0 0 10 0 -1 0 4-4disc.dat
-1 16 0 0 -8 10 0 0 0 0 10 0 1 0 4-4edge.dat
+1 16 0 0 -8 10 0 0 0 0 10 0 -2 0 4-4cylc.dat
 0 // main shaft begins
 1 16 0 0 -8 4 0 0 0 0 4 0 4 0 4-4cyli.dat
 1 16 0 0 -8 4 0 0 0 0 4 0 1 0 4-4edge.dat
@@ -91,8 +91,8 @@
 1 16 0 0 -4 0 0 4 4 0 0 0 4 0 1-4cyls.dat
 1 16 0 0 4 0 0 -4 4 0 0 0 -4 0 1-4cyls.dat
 1 16 0 0 4 0 0 4 4 0 0 0 -4 0 1-4cyls.dat
-1 16 0 0 0 4 0 0 0 -0.707 4 0 0.707 4 2-4edge.dat
-1 16 0 0 0 4 0 0 0 0.707 4 0 0.707 -4 2-4edge.dat
+1 16 0 0 0 4 0 0 0 -1 4 0 0 4 2-4edge.dat
+1 16 0 0 0 4 0 0 0 1 4 0 0 -4 2-4edge.dat
 1 16 0 0 -4 -4 0 0 0 0 -4 0 8 0 2-4cyli.dat
 0 // main shaft continues
 1 16 0 0 4 4 0 0 0 0 4 0 8 0 4-4cyli.dat
@@ -137,4 +137,3 @@
 1 16 0 0 20 4 0 0 0 0 4 0 8 0 4-4cyli.dat
 1 16 0 0 28 4 0 0 0 0 4 0 -1 0 4-4disc.dat
 1 16 0 0 28 4 0 0 0 0 4 0 1 0 4-4edge.dat
-0

@@ -1,0 +1,17 @@
+0 Tile  1 x  1 Corner Round with Lattice Pie Pattern
+0 Name: 25269p01.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 25269pb001, set 41126, set 10255
+
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\25269s01.dat
+1 16 -10 0 10 20 0 0 0 1 0 0 0 -20 1-4ering.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\25269p01s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\25269p01s01.dat

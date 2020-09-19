@@ -1,0 +1,17 @@
+0 Tile  2 x  2 Round with Hole with Disc with Light Blue Ring Pattern
+0 Name: 15535p02.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Tron, Legacy Lightcycle, set 21314, Quorra, Rinzler, Sam Flynn, LEGO Ideas
+
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15535s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15535p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\15535p01s01.dat
+1 9 0 0 0 1 0 0 0 1 0 0 0 1 s\15535p01s02.dat
+1 9 0 0 0 -1 0 0 0 1 0 0 0 1 s\15535p01s02.dat

@@ -1,7 +1,7 @@
-0 Plant Tree Palm Trunk
+0 ~Plant Tree Palm Trunk (Obsolete)
 0 Name: 2536.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
-0 !LDRAW_ORG Part UPDATE 2012-01
+0 !LDRAW_ORG Part UPDATE 2020-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -15,6 +15,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2011-12-30 [Philo] Added condlines to smooth cone, used stud2a
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+0 !HISTORY 2019-12-20 [cwdee] Obsoleted due to incorrect geometry, replaced by 2536a/b
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 1 16 0 -12 0 1 0 0 0 1 0 0 0 1 stud2a.dat
 0 BFC INVERTNEXT

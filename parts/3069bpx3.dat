@@ -1,0 +1,26 @@
+0 Tile  1 x  2 with  2 Black Squares Pattern
+0 Name: 3069bpx3.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 3069bpb691, Set 21149, Minecraft, Chicken, Eyes
+
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
+
+4 0 -10 0 -9.5 -10 0 0 -19.5 0 0 -19.5 0 -9.5
+4 0 19.5 0 -9.5 19.5 0 0 10 0 0 10 0 -9.5
+
+3 16 -20 0 10 -19.5 0 0 -10 0 0
+4 16 -20 0 10 -10 0 0 10 0 0 20 0 10
+3 16 19.5 0 0 20 0 10 10 0 0
+4 16 20 0 10 19.5 0 0 19.5 0 -9.5 20 0 -10
+3 16 20 0 -10 19.5 0 -9.5 10 0 -9.5
+4 16 20 0 -10 10 0 -9.5 -10 0 -9.5 -20 0 -10
+3 16 -10 0 -9.5 -19.5 0 -9.5 -20 0 -10
+4 16 -20 0 -10 -19.5 0 -9.5 -19.5 0 0 -20 0 10
+4 16 -10 0 0 -10 0 -9.5 10 0 -9.5 10 0 0

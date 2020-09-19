@@ -1,0 +1,30 @@
+0 Minifig Leg Right with Reflective Stripe Pattern
+0 Name: 3816bp8h.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Emmet
+0 !CMDLINE -c25
+
+0 !HISTORY 2015-10-27 [Christophe_Mitillo] Original pattern design
+0 !HISTORY 2020-06-13 [cwdee] Adapted to corrected geometry
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3817bs01.dat
+0 // Curve
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3817bs03.dat
+0 // Front pattern
+4 80 -18.3 15.609 -4 -2.05 15.609 -4 -2.05 10.659 -4 -18.3 10.659 -4
+4 16 -1.5 20 -4 -1.5 7.657 -4 -2 7.657 -4 -2.05 10.659 -4
+3 16 -2.05 15.609 -4 -1.5 20 -4 -2.05 10.659 -4
+4 16 -19.23 20 -4 -1.5 20 -4 -2.05 15.609 -4 -18.3 15.609 -4
+4 16 -18.3 15.609 -4 -18.3 10.659 -4 -18.804 7.399 -4 -19.23 20 -4
+4 16 -2.05 10.659 -4 -2 7.657 -4 -18.804 7.399 -4 -18.3 10.659 -4
+3 16 -2 7.657 -4 -2 7.399 -4 -18.804 7.399 -4
+0 // Foot Front
+4 16 -1.5 28 -10 -1.5 20 -10 -19.23 20 -10 -19.5 28 -10
+0 // Foot Top
+4 16 -19.23 20 -4 -19.23 20 -10 -1.5 20 -10 -1.5 20 -4

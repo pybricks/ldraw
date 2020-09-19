@@ -1,17 +1,21 @@
-0 Wedge  4 x  4 with Tail Plane with Red/Black Pattern
+0 Tail Plane with Red/Black Pattern
 0 Name: 4867p10.dat
 0 Author: Niels Karsdorp [nielsk]
-0 !LDRAW_ORG Part UPDATE 2010-02
+0 !LDRAW_ORG Part UPDATE 2020-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS Airplane, Jetliner, set 6368, bricklink 4867pb01, Wedge
+
 0 !HISTORY 2003-07-05 [OrionP] Moved guts to subpart, BFC'd
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+0 !HISTORY 2020-06-28 [RainbowDolphin] Changed description for consistency with unpatterned 4867
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4867s01.dat
 
-0 New patterned sides
+0 // New patterned sides
  4 16 2 0 -10 2 -8.5 17 2 -57 62.5 2 -80 70
  3 16 2 0 -10 2 0 10 2 -8.5 17
  3 16 2 0 10 2 -1.1666 39 2 -8.5 17
@@ -37,5 +41,3 @@
  4 4 -2 -57 62.5 -2 -57 81.5 -2 -1.1666 39 -2 -8.5 17
  4 16 -2 -57 81.5 -2 -57 88.5 -2 0.5 44 -2 -1.1666 39
  4 0 -2 -57 88.5 -2 -57 107.5 -2 8.1666 67 -2 0.5 44
-
-0

@@ -1,0 +1,18 @@
+0 Tail Plane with Airport Classic Pattern
+0 Name: 4867p12.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Airplane, Jetliner, set 6392, set 6396, bricklink 4867pb03, Wedge
+
+0 !HISTORY 2018-01-08 [bercik] OMR version by Robert Paciorek [bercik] with permission of Zoltank82
+0 !HISTORY 2020-06-16 [RainbowDolphin] File preparation for LDraw Parts Tracker
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4867s01.dat
+
+1 16 2 0 0 1 0 0 0 1 0 0 0 1 s\4867p12s01.dat
+1 16 -2 0 0 -1 0 0 0 1 0 0 0 1 s\4867p12s01.dat

@@ -1,7 +1,7 @@
 0 Train Pantograph Shoe with Three Finger Hinge 
 0 Name: 2922a.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2019-02
+0 !LDRAW_ORG Part UPDATE 2020-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -19,6 +19,9 @@
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 0 !HISTORY 2019-09-04 [cwdee] Re-titled
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+0 !HISTORY 2020-03-10 [Sirio] Updated the use of primitives: removed 1-4ccyli.dat
+0 !HISTORY 2020-04-17 [MMR1988] Introduced 3-4cyli due to condlines at tangential faces
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
 1 16 0 12 0 0 0 1 0 1 0 1 0 0 h2.dat
 
@@ -30,13 +33,13 @@
 4 16 6 8 4 6 8 1 -6 8 1 -6 8 4
 1 16 0 4 0 10 0 0 0 1 0 0 0 4 rect.dat
 1 16 10 4 -8 0 -1 0 4 0 0 0 0 4 1-4ndis.dat
-1 16 10 4 -8 0 1 0 4 0 0 0 0 4 1-4edge.DAT
+1 16 10 4 -8 0 1 0 4 0 0 0 0 4 1-4edge.dat
 1 16 -10 4 -8 0 1 0 4 0 0 0 0 4 1-4ndis.dat
-1 16 -10 4 -8 0 1 0 4 0 0 0 0 4 1-4edge.DAT
+1 16 -10 4 -8 0 1 0 4 0 0 0 0 4 1-4edge.dat
 1 16 10 4 8 0 -1 0 4 0 0 0 0 -4 1-4ndis.dat
-1 16 10 4 8 0 1 0 4 0 0 0 0 -4 1-4edge.DAT
+1 16 10 4 8 0 1 0 4 0 0 0 0 -4 1-4edge.dat
 1 16 -10 4 8 0 1 0 4 0 0 0 0 -4 1-4ndis.dat
-1 16 -10 4 8 0 1 0 4 0 0 0 0 -4 1-4edge.DAT
+1 16 -10 4 8 0 1 0 4 0 0 0 0 -4 1-4edge.dat
 2 24 10 12 -4 10 8 -4
 2 24 -10 12 -4 -10 8 -4
 2 24 10 12 4 10 8 4
@@ -65,10 +68,13 @@
 1 16 -36 14 -8 4 0 0 0 2 0 0 0 4 4-4cyli.dat
 1 16 36 14 8 4 0 0 0 2 0 0 0 4 4-4cyli.dat
 1 16 -36 14 8 4 0 0 0 2 0 0 0 4 4-4cyli.dat
-1 16 26 14 -8 4 0 0 0 0 -4 0 4 0 1-4ccyli.dat
-1 16 -26 14 -8 -4 0 0 0 0 -4 0 4 0 1-4ccyli.dat
-1 16 26 14 8 4 0 0 0 0 -4 0 4 0 1-4ccyli.dat
-1 16 -26 14 8 -4 0 0 0 0 -4 0 4 0 1-4ccyli.dat
-1 16 26 4 -8 0 -52 0 4 0 0 0 0 4 4-4cyli.dat
-1 16 26 4 8 0 -52 0 4 0 0 0 0 4 4-4cyli.dat
-0
+1 16 26 14 -8 10 0 0 0 0 -10 0 10 0 t04q4000.dat
+1 16 -26 14 -8 -10 0 0 0 0 -10 0 10 0 t04q4000.dat
+1 16 26 14 8 10 0 0 0 0 -10 0 10 0 t04q4000.dat
+1 16 -26 14 8 -10 0 0 0 0 -10 0 10 0 t04q4000.dat
+1 16 10 4 -8 0 16 0 4 0 0 0 0 4 4-4cyli.dat
+1 16 10 4 8 0 16 0 4 0 0 0 0 4 4-4cyli.dat
+1 16 -10 4 -8 0 20 0 0 0 -4 4 0 0 3-4cyli.dat
+1 16 -10 4 8 0 20 0 4 0 0 0 0 4 3-4cyli.dat
+1 16 -26 4 -8 0 16 0 4 0 0 0 0 4 4-4cyli.dat
+1 16 -26 4 8 0 16 0 4 0 0 0 0 4 4-4cyli.dat

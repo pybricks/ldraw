@@ -1,0 +1,17 @@
+0 Brick  1 x  4 with Black Oval Windows Pattern
+0 Name: 3010p14.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 611-2, Air Canada, Jetliner, bricklink 3010pb089
+
+0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
+1 16 -30 0 -10 1 0 0 0 1 0 0 0 1 s\3010p14s01.dat
+1 16 -10 0 -10 1 0 0 0 1 0 0 0 1 s\3010p14s01.dat
+1 16 10 0 -10 1 0 0 0 1 0 0 0 1 s\3010p14s01.dat
+1 16 30 0 -10 1 0 0 0 1 0 0 0 1 s\3010p14s01.dat
