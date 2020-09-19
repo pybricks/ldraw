@@ -1,12 +1,12 @@
 0 LDraw.org Configuration File
 0 Name: LDCfgalt.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2011-06-03
+0 !LDRAW_ORG Configuration UPDATE 2012-01-06
 
 0 // LDraw Solid Colors
 0 !COLOUR Black                              CODE  0    VALUE #05131D   EDGE #3F474C
 0 !COLOUR Blue                               CODE  1    VALUE #0055BF   EDGE #0055C4
-0 !COLOUR Green                              CODE  2    VALUE #237841   EDGE #238841
+0 !COLOUR Green                              CODE  2    VALUE #257A3E   EDGE #238841
 0 !COLOUR Dark_Turquoise                     CODE  3    VALUE #008F9B   EDGE #008FAB
 0 !COLOUR Red                                CODE  4    VALUE #C91A09   EDGE #D51A09
 0 !COLOUR Dark_Pink                          CODE  5    VALUE #C870A0   EDGE #C26293
@@ -31,6 +31,8 @@
 0 !COLOUR Lime                               CODE  27   VALUE #BBE90B   EDGE #C0ED00
 0 !COLOUR Dark_Tan                           CODE  28   VALUE #958A73   EDGE #756A53
 0 !COLOUR Bright_Pink                        CODE  29   VALUE #E4ADC8   EDGE #F4ADC8
+0 !COLOUR Medium_Lavender                    CODE  30   VALUE #AC78BA   EDGE #AF7CBE
+0 !COLOUR Lavender                           CODE  31   VALUE #E1D5ED   EDGE #E5D9EF
 0 !COLOUR Very_Light_Orange                  CODE  68   VALUE #F3CF9B   EDGE #F9DFAB
 0 !COLOUR Light_Purple                       CODE  69   VALUE #CD6298   EDGE #DD72A8
 0 !COLOUR Reddish_Brown                      CODE  70   VALUE #582A12   EDGE #391A08
@@ -64,7 +66,9 @@
 0 !COLOUR Maersk_Blue                        CODE 313   VALUE #3592C3   EDGE #3592CB
 0 !COLOUR Dark_Red                           CODE 320   VALUE #720E0F   EDGE #790E0F
 0 !COLOUR Dark_Azure                         CODE 321   VALUE #078BC9   EDGE #088DCD
+0 !COLOUR Medium_Azure                       CODE 322   VALUE #36AEBF   EDGE #3AB2C5
 0 !COLOUR Light_Aqua                         CODE 323   VALUE #ADC3C0   EDGE #AFC5C5
+0 !COLOUR Olive_Green                        CODE 326   VALUE #9B9A5A   EDGE #9E9D5E
 0 !COLOUR Sand_Red                           CODE 335   VALUE #D67572   EDGE #DA7876
 0 !COLOUR Medium_Dark_Pink                   CODE 351   VALUE #F785B1   EDGE #FB89B8
 0 !COLOUR Earth_Orange                       CODE 366   VALUE #FA9C1C   EDGE #FEA11E
@@ -168,6 +172,7 @@
 0 !COLOUR Main_Colour                        CODE  16   VALUE #7F7F7F   EDGE #333333
 0 !COLOUR Edge_Colour                        CODE  24   VALUE #7F7F7F   EDGE #333333
 0 !COLOUR Trans_Black_IR_Lens                CODE  32   VALUE #000000   EDGE #05131D   ALPHA 128
+0 !COLOUR Magnet                             CODE 493   VALUE #656761   EDGE #595959                               METAL
 0 !COLOUR Electric_Contact_Alloy             CODE 494   VALUE #D0D0D0   EDGE #6E6E6E                               METAL
 0 !COLOUR Electric_Contact_Copper            CODE 495   VALUE #AE7A59   EDGE #723E1D                               METAL
 0

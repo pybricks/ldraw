@@ -1,7 +1,7 @@
-0 Plant Tree Cedar  4 x  4 x 11.5
+0 Plant Tree Columnar  4 x  4 x 11.5
 0 Name: 3778.dat
 0 Author: Tore Eriksson [simlego]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2012-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -14,6 +14,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2011-02-19 [PTadmin] Renamed from 688
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2012-03-21 [cwdee] Description adjustment
+0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3778s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3778s01.dat
@@ -33,7 +35,6 @@
 1 16 0 4 0 20 0 0 0 -20 0 0 0 -20 t04o2000.dat
 1 16 0 4 0 -20 0 0 0 -20 0 0 0 -20 t04o2000.dat
 1 16 0 4 0 -20 0 0 0 -20 0 0 0 20 t04o2000.dat
-0 1 16 0 0 0 20 0 0 0 1 0 0 0 20 4-4disc.dat
 1 16 0 0 0 10 0 0 0 1 0 0 0 10 4-4ring1.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 1-4ring9.dat
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 1-4ring9.dat

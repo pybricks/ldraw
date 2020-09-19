@@ -1,12 +1,16 @@
-0 Technic Shock Absorber 6.5L, Spring Extra Stiff
+0 ~Spring for Technic Shock Absorber  6.5L Extra Stiff
 0 Name: 22977.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2010-02
+0 !LDRAW_ORG Part UPDATE 2012-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Technic
+
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+0 !HISTORY 2012-10-24 [cwdee] Retitle to match other Shock Absorber Springs
+0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
 2 24 7.25 1.483 0 6.698 1.576 -2.774
 2 24 8 0.742 0 7.391 0.835 -3.061

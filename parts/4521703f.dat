@@ -1,12 +1,14 @@
-0 Sticker  1.8 x  0.8 with Black "CA 0108" and Border
+0 Sticker  0.8 x  1.8 with Black "CA 0108" and Border
 0 Name: 4521703f.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2011-01
+0 !LDRAW_ORG Part UPDATE 2012-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+0 !HISTORY 2012-01-09 [cwdee] Corrected dimensions
+0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
 1 16 0 -0.25 0 17.5 0 0 0 0.25 0 0 0 7.5 box5-12.dat
 4 0 -15.5 -0.25 -5.5 -15.5 -0.25 5.5 -17.5 -0.25 7.5 -17.5 -0.25 -7.5

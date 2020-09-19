@@ -1,0 +1,521 @@
+LDraw.org Parts Update 2012-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Fri Mar 30 09:47:50 2012 by the Parts Tracker.
+
+Release statistics:
+   Total files: 1148
+   New files: 828
+   New parts: 601
+   New subparts: 172
+   New primitives: 32
+   New hi-res primitives: 23
+
+New 3-digit part numbers assigned:
+   332.dat ~Technic Micro-Scout Axlehole (Needs Work)
+   334.dat ~Technic Micro-Scout Button (Needs Work)
+   431.dat ~Train Brick  2 x  4 Holder Bottom for Power Pickup
+   449.dat ~Storage Box  24 x  40 Handle
+   450.dat ~Wheel  6.4 x  8
+   565.dat ~Electric Motor Case  4 x 12 x  3.333 Type 1 - Base
+   566.dat ~Electric Motor Case  4 x 12 x  3.333 Type 1 - Axle
+   691.dat Door  1 x  6 x  2 Left
+   692.dat Door  1 x  6 x  2 Right
+   861.dat Train Track 12V Straight Insert Type 1
+   864.dat ~Train Track 12V Slotted Point Left Main Part (Needs Work)
+   865.dat ~Train Track 12V Slotted Point Right Main Part (Needs Work)
+   866.dat Train Track 12V Curved Insert Type 1 (Needs Work)
+   868.dat ~Train 12V Actuator Technic Axle
+   897.dat ~Electric Mindstorms NXT Converter Cable Centre Box
+   902.dat Electric Light Reflector Round  2 x  2 x  0.667
+   931.dat ~Electric Mindstorms NXT Blind Shell Front
+   932.dat ~Electric Mindstorms NXT Cable Segment
+   933.dat ~Electric Mindstorms NXT RJ12 Style Plug
+   937.dat ~Electric Power Functions IR Remote Control Direction Reverser
+   938.dat ~Electric Mindstorms NXT IR Seeker Shell Front
+   943.dat ~Cutout Button for Train Battery Box Car
+   984.dat ~Technic Axle Joiner Rectangular with Spring - Axle Housing
+   985.dat ~Technic Axle Joiner Rectangular - Housing Top (Needs Work)
+   986.dat ~Technic Axle Joiner Rectangular - Housing Bottom (Needs Work)
+   987.dat ~Spring for Technic Axle Joiner Rectangular with Spring
+   992.dat Train Track 12V Slotted Crossing
+
+Moved Parts
+   168135A.DAT                ~Moved to 168315a
+   168135B.DAT                ~Moved to 168315b
+   190775.DAT                 ~Moved to 190775a
+   32.DAT                     ~Moved to 32c
+   33.DAT                     ~Moved to 33c
+   35A.DAT                    ~Moved to u9049
+   390.DAT                    ~Moved to 3625
+   3957.DAT                   ~Moved to 3957a
+   4495.DAT                   ~Moved to 4495a
+   4502A.DAT                  ~Moved to 87693
+   4502B.DAT                  ~Moved to 87692
+   4505.DAT                   ~Moved to 4507
+   519O.DAT                   ~Moved to 519c01
+   6080B.DAT                  ~Moved to 87686
+   6080C.DAT                  ~Moved to 87685
+   70162.DAT                  ~Moved to 2815
+   732.DAT                    ~Moved to 4255
+   988.DAT                    ~Moved to 70022
+
+Renamed Parts
+   1-6EDGE.DAT                Hi-Res Edge 0.1667
+   changed to    Hi-Res Circle 0.1667
+
+   2-4EDGE.DAT                Hi-Res Edge 0.5
+   changed to    Hi-Res Circle 0.5
+
+   4-4EDGE.DAT                Hi-Res Edge 1.0
+   changed to    Hi-Res Circle 1.0
+
+   BOX3U2P.DAT                Box, 3 faces drawn, 2 edges left out
+   changed to    Box with 3 Faces without 2 Parallel Edges
+
+   BOX4-1.DAT                 Box, 4 faces drawn, 1 edge left out
+   changed to    Box with 4 Faces without 1 Edge
+
+   BOX4.DAT                   Box 4 (four faces)
+   changed to    Box with 4 Faces (2 Parallel Pairs) and All Edges
+
+   BOX4O4A.DAT                Box with 4 Parallel Faces without Bottom Edges
+   changed to    Box with 4 Faces (2 Parallel Pairs) without Bottom Edges
+
+   BOX5.DAT                   Box 5 (five faces)
+   changed to    Box with 5 Faces and All Edges
+
+   004315B.DAT                Sticker  1 x  1.2 with White "1" on Red Ground
+   changed to    Sticker  1.2 x  1 with White "1" on Red
+
+   004630A.DAT                Sticker  3 x  1.2 with "Spirit of St. Louis" Right
+   changed to    Sticker  1.2 x  3 with "Spirit of St. Louis" Right
+
+   004630B.DAT                Sticker  3 x  1.2 with "Spirit of St. Louis" Left
+   changed to    Sticker  1.2 x  3 with "Spirit of St. Louis" Left
+
+   164365A.DAT                Sticker  4 x  3.6 with Black Aircraft and Five Coloured Stripes
+   changed to    Sticker  3.6 x  4 with Black Aircraft and Five Coloured Stripes
+
+   168185A.DAT                Sticker  4 x  1 with "Octan" Text
+   changed to    Sticker  1 x  4 with Red/Green "Octan"
+
+   168225A.DAT                Sticker  2 x  1 Letter
+   changed to    Sticker  1 x  2 Letter
+
+   191915A.DAT                Sticker  2.4 x  2 with White "DB" and "7740"
+   changed to    Sticker  2.4 x  2 with White German Railways Logo and "7740"
+
+   191915C.DAT                Sticker  1.2 x  1.6 with White "DB"
+   changed to    Sticker  1.2 x  1.6 with White German Railways Logo
+
+   191915D.DAT                Sticker  2 x  2.1 with White "DB"
+   changed to    Sticker  2 x  2.1 with White German Railways Logo
+
+   192425A.DAT                Sticker  3 x  2.4 with Classic Space Logo
+   changed to    Sticker  2.4 x  3 with Classic Space Logo
+
+   192425B.DAT                Sticker  3 x  2.4 with Classic Space Logo (Mirrored)
+   changed to    Sticker  2.4 x  3 with Classic Space Logo (Mirrored)
+
+   22977.DAT                  Technic Shock Absorber 6.5L, Spring Extra Stiff
+   changed to    ~Spring for Technic Shock Absorber  6.5L Extra Stiff
+
+   2435.DAT                   Plant Tree Pine  3 x  3 x  4
+   changed to    Plant Tree Pyramidal  3 x  3 x  4
+
+   2536C01.DAT                Plant Tree Palm  6 Segment with Large Leaves (Shortcut)
+   changed to    _Plant Tree Palm  6 Seg. Brown w/ Large Leaves Green (Complete)
+
+   2695.DAT                   Wheel Model Team
+   changed to    Wheel Hub 12.8 x 30 Stepped
+
+   30118.DAT                  Wing  8 x  4 -  2 x  3 & 1/3 Up
+   changed to    Wing  8 x  4 -  2 x  3.333 Up
+
+   30119.DAT                  Wing  8 x  4 -  2 x  3 & 1/3 Down
+   changed to    Wing  8 x  4 -  2 x  3.333 Down
+
+   30187.DAT                  ~Bike 3 Wheel Motorcycle Body Upper
+   changed to    ~Bike  3 Wheel Motorcycle Body Upper
+
+   30187C02.DAT               ~Bike  3 Wheel Motorcycle Minifig (Shortcut)
+   changed to    ~Bike  3 Wheel Motorcycle Minifig (Complete)
+
+   30187C04.DAT               Bike  3 Wheel Motorcycle Body (Complete)
+   changed to    Bike  3 Wheel Motorcycle Body with Dark_Gray Motor (Complete)
+
+   30208.DAT                  Cylinder  4 x  4 Hemisphere Multifaceted
+   changed to    Hemisphere  4 x  4 Multifaceted
+
+   30293.DAT                  Rock  4 x  4 x  1 Top
+   changed to    Rock  4 x  4 x  1.333 Top
+
+   31000P1M.DAT               Duplo Primo Brick  1 x  1 with Multicolored Dots Pattern
+   changed to    Duplo Primo Brick  1 x  1 with Multicoloured Dots Pattern
+
+   3139.DAT                   Tyre 14 x 10 Single Smooth
+   changed to    Tyre  4/ 80 x  8 Single Smooth Type 1
+
+   3228AC01.DAT               Train Track  4.5V Straight Tapered (Complete)
+   changed to    Train Track  4.5V Tapered Straight (Complete)
+
+   3470.DAT                   Plant Tree Fruit
+   changed to    Plant Tree Oval  4 x  4 x  6
+
+   3471.DAT                   Plant Tree Pine  4 x  4 x  6 & 2/3
+   changed to    Plant Tree Pyramidal  4 x  4 x  6.667 Type 1
+
+   3482.DAT                   Wheel Centre Large
+   changed to    Wheel Hub  8 x 17.5 with Axlehole
+
+   35.DAT                     Wheel Spoked Large
+   changed to    Wheel  8 x 35 with 12 Spokes (Complete)
+
+   3634.DAT                   Tyre 17 x 43
+   changed to    Tyre 10/130 x 17 Offset Tread
+
+   3778.DAT                   Plant Tree Cedar  4 x  4 x 11.5
+   changed to    Plant Tree Columnar  4 x  4 x 11.5
+
+   3956.DAT                   Bracket  2 x  2 -  2 x  2
+   changed to    Bracket  2 x  2 -  2 x  2 Up
+
+   4106330A.DAT               Sticker  4 x  3.2 with "GOLD MINE" Sign
+   changed to    Sticker  3.2 x  4 with "GOLD MINE" Sign
+
+   4106332A.DAT               Sticker  3 x  2.4 with Cavalry Logo
+   changed to    Sticker  2.4 x  3 with Cavalry Logo
+
+   4106332B.DAT               Sticker  5.9 x  2.3 with "Fort Legoredo" Sign
+   changed to    Sticker  2.3 x  5.9 with "Fort Legoredo" Sign
+
+   4106981A.DAT               Sticker  2.3 x  2.1 with Town TV Logo
+   changed to    Sticker  2.1 x  2.3 with Town TV Logo
+
+   4215AP08.DAT               Panel  1 x  4 x  3 with Recycling Pattern
+   changed to    Panel  1 x  4 x  3 with Red Recycling Pattern
+
+   4215AP09.DAT               Panel  1 x  4 x  3 with TV-Logo Pattern
+   changed to    Panel  1 x  4 x  3 with White "TV" Logo Pattern
+
+   4521703A.DAT               Sticker  8 x  1.1 with "CARWASH" and Red/Green Stripes
+   changed to    Sticker  1.1 x  8 with "CARWASH" and Red/Green Stripes
+
+   4521703B.DAT               Sticker  8 x  1.1 with "SERVICESTATION" and Red/Green Stripes
+   changed to    Sticker  1.1 x  8 with "SERVICESTATION" and Red/Green Stripes
+
+   4521703F.DAT               Sticker  1.8 x  0.8 with Black "CA 0108" and Border
+   changed to    Sticker  0.8 x  1.8 with Black "CA 0108" and Border
+
+   4521703G.DAT               Sticker  1.8 x  0.8 with Black "LE 0158" and Border
+   changed to    Sticker  0.8 x  1.8 with Black "LE 0158" and Border
+
+   4521703U.DAT               Sticker  3.9 x  3.5 with "LEGO TOWN" Map
+   changed to    Sticker  3.5 x  3.9 with "LEGO TOWN" Map
+
+   4595.DAT                   Brick  1 x  2 x  2/3 with Studs on Sides
+   changed to    Brick  1 x  2 x  0.667 with Studs on Sides
+
+   50899.DAT                  Technic Bionicle Rhotuka Spinner
+   changed to    Propellor 3 Blade 5D with Outer Ring 
+
+   56711GC01.DAT              Sticker Joker Face Small (Formed)
+   changed to    Sticker  1.7 x  1.7 Joker Face Small (Formed)
+
+   6014.DAT                   Wheel Wide
+   changed to    Wheel Hub 11.2 x 10.4
+
+   60601.DAT                  Glass for Window  1 x  2 x  2 with Holes
+   changed to    Glass for Window  1 x  2 x  2 without Sill
+
+   683.DAT                    ~Wheel Fabuland Type 2
+   changed to    ~Wheel  5.5 x 20 with 10 Spokes
+
+   70501A.DAT                 Minifig Coin with 10 Mark
+   changed to    Minifig Coin with "10" Sans-serif Type
+
+   70501B.DAT                 Minifig Coin with 20 Mark
+   changed to    Minifig Coin with "20" Sans-serif Type
+
+   70501C.DAT                 Minifig Coin with 30 Mark
+   changed to    Minifig Coin with "30" Sans-serif Type
+
+   70501D.DAT                 Minifig Coin with 40 Mark
+   changed to    Minifig Coin with "40" Sans-serif Type
+
+   73092.DAT                  Magnet Cylindrical
+   changed to    _Magnet Cylindrical in Casing (Complete) Black
+
+   731.DAT                    Technic Shock Absorber  6.5L, Piston Rod with Spring
+   changed to    ~Technic Shock Absorber  6.5L, Piston Rod with Spring (Obsolete)
+
+   80276.DAT                  Train Level Crossing Gate Type 2 with Red Stripes Pattern
+   changed to    _Train Level Crossing Gate Type 2 with Red Stripes Pattern White
+
+   191915SDE.DAT              ~"DB" Pattern White
+   changed to    ~German Railways Logo White
+
+   191915SDEA.DAT             ~"DB" Pattern - Foreground
+   changed to    ~German Railways Logo Foreground
+
+   191915SDEB.DAT             ~"DB" Pattern - Background
+   changed to    ~German Railways Logo Background
+
+   30208-1.DAT                ~Cylinder  4 X  4 Hemisphere Multifaceted
+   changed to    ~Hemisphere  4 x  4 Multifaceted Subpart
+
+   3634A.DAT                  ~Tyre 17 x 43 - Inside Tooth
+   changed to    ~Tyre 10/130 x 17 Inside Tooth
+
+   3634B.DAT                  ~Tyre 17 x 43 outer teeth
+   changed to    ~Tyre 10/130 x 17 Outer Tooth
+
+   3634C.DAT                  ~Tyre 17 x 43 back hole
+   changed to    ~Tyre 10/130 x 17 Back Hole
+
+   3778S01.DAT                ~Plant Tree Cedar  4 x  4 x 11.5 - Quarter
+   changed to    ~Plant Tree Columnar  4 x  4 x 11.5 - Quarter
+
+   41748S01.DAT               ~Wedge  2 x  6 Double Left - no Front Face
+   changed to    ~Wedge  2 x  6 Double Left without Sloped Faces
+
+   4512S01.DAT                ~Train Level Crossing Gate without decorated surfaces
+   changed to    ~Train Level Crossing Gate without Decorated Surfaces
+
+   501S01.DAT                 ~Electric Train Motor 12V - Common Subpart
+   changed to    ~Electric Train Motor 12V with Bottomside Contacts Pushed In
+
+   735S01.DAT                 ~Magnet Holder Old
+   changed to    ~Magnet Holder (Needs Work)
+
+Other Fixed Parts
+   1-4CON0.DAT                Cone  0 x 0.25
+   1-4CON1.DAT                Cone  1 x 0.25
+   1-4CON18.DAT               Cone 18 x 0.25
+   1-4CON2.DAT                Cone  2 x 0.25
+   1-4CON3.DAT                Cone  3 x 0.25
+   1-4CON4.DAT                Cone  4 x 0.25
+   1-4CON7.DAT                Cone  7 x 0.25
+   1-4CON8.DAT                Cone  8 x 0.25
+   1-4CON9.DAT                Cone  9 x 0.25
+   1-4CYLI.DAT                Cylinder 0.25
+   1-4CYLS.DAT                Cylinder Sloped 0.25
+   1-4CYLS2.DAT               Cylinder Sloped 0.25 Convex
+   1-4NDIS.DAT                Disc Negative 0.25
+   1-4RIN10.DAT               Ring 10 x 0.25
+   1-4RIN11.DAT               Ring 11 x 0.25
+   1-4RIN12.DAT               Ring 12 x 0.25
+   1-4RIN14.DAT               Ring 14 x 0.25
+   1-4RIN15.DAT               Ring 15 x 0.25
+   1-4RIN16.DAT               Ring 16 x 0.25
+   1-4RIN28.DAT               Ring 28 x 0.25
+   1-4RIN38.DAT               Ring 38 x 0.25
+   1-4RIN39.DAT               Ring 39 x 0.25
+   1-4RING1.DAT               Ring  1 x 0.25
+   1-4RING2.DAT               Ring  2 x 0.25
+   1-4RING3.DAT               Ring  3 x 0.25
+   1-4RING4.DAT               Ring  4 x 0.25
+   1-4RING5.DAT               Ring  5 x 0.25
+   1-4RING6.DAT               Ring  6 x 0.25
+   1-4RING7.DAT               Ring  7 x 0.25
+   1-4RING8.DAT               Ring  8 x 0.25
+   1-4RING9.DAT               Ring  9 x 0.25
+   1-8CON19.DAT               Cone 19 x 0.125
+   1-8CYLS.DAT                Cylinder Sloped 0.125
+   1-8CYLS2.DAT               Cylinder Sloped 0.125 Convex
+   1-8NDIS.DAT                Disc Negative 0.125
+   1-8RIN10.DAT               Ring 10 x 0.125
+   1-8RIN18.DAT               Ring 18 x 0.125
+   1-8RIN19.DAT               Ring 19 x 0.125
+   1-8RING2.DAT               Ring  2 x 0.125
+   1-8RING3.DAT               Ring  3 x 0.125
+   1-8RING6.DAT               Ring  6 x 0.125
+   1-8RING8.DAT               Ring  8 x 0.125
+   1-8RING9.DAT               Ring  9 x 0.125
+   2-4CON1.DAT                Cone  1 x 0.5
+   2-4CON4.DAT                Cone  4 x 0.5
+   2-4CYLS.DAT                Cylinder Sloped 0.5
+   2-4NDIS.DAT                Disc Negative 0.5
+   2-4RING2.DAT               Ring  2 x 0.5
+   2-4RING3.DAT               Ring  3 x 0.5
+   2-4RING4.DAT               Ring  4 x 0.5
+   2-4RING5.DAT               Ring  5 x 0.5
+   2-4RING6.DAT               Ring  6 x 0.5
+   2-4RING7.DAT               Ring  7 x 0.5
+   3-4NDIS.DAT                Disc Negative 0.75
+   3-4RING2.DAT               Ring  2 x 0.75
+   3-4RING3.DAT               Ring  3 x 0.75
+   3-8RIN12.DAT               Ring 12 x 0.375
+   4-4CON1.DAT                Cone  1 x 1.0
+   4-4CON11.DAT               Cone 11 x 1.0
+   4-4CON12.DAT               Cone 12 x 1.0
+   4-4CON16.DAT               Cone 16 x 1.0
+   4-4CON2.DAT                Cone  2 x 1.0
+   4-4CON35.DAT               Cone 35 x 1.0
+   4-4CON36.DAT               Cone 36 x 1.0
+   4-4CON4.DAT                Cone  4 x 1.0
+   4-4CON8.DAT                Cone  8 x 1.0
+   4-4CON9.DAT                Cone  9 x 1.0
+   4-4CYLS.DAT                Cylinder Sloped 1.0
+   4-4NDIS.DAT                Disc Negative 1.0
+   4-4RIN15.DAT               Ring 15 x 1.0
+   4-4RIN17.DAT               Ring 17 x 1.0
+   4-4RIN24.DAT               Ring 24 x 1.0
+   4-4RING5.DAT               Ring  5 x 1.0
+   4-4RING6.DAT               Ring  6 x 1.0
+   4-4RING8.DAT               Ring  8 x 1.0
+   8-8SPHE.DAT                Sphere 1.0
+   AXLEHOL7.DAT               Technic Axle Hole Sides
+   BOX3U8P.DAT                Box with 3 Faces and 4 Parallel Edges
+   BOX4-4A.DAT                Box with 4 Faces without 4 Adjacent Edges
+   BOX4-7A.DAT                Box with 4 Faces without 7 Adjacent Edges
+   BOX4O8A.DAT                Box with 4 Faces (2 Parallel Pairs) without Top and Bottom Edges
+   BUSH1.DAT                  Technic Bush Collar 0.25
+   BUSHLOC2.DAT               Bush Lock 2
+   CLH1.DAT                   Click Lock Hinge Single Finger for Bricks
+   CLH10.DAT                  Click Lock Hinge Half Dual Finger 7-Position
+   CLH2.DAT                   Click Lock Hinge Single Finger for Plate Top
+   CLH3.DAT                   Click Lock Hinge Single Finger for Arms
+   CLH4.DAT                   Click Lock Hinge Half Dual Finger
+   CLH5.DAT                   Click Lock Hinge Half Dual Finger for Arms
+   CLH6.DAT                   Click Lock Hinge Single Finger for Plate Ends
+   CLIP1.DAT                  Vertical Clip for Flags
+   NPEGHOL2.DAT               Technic Peg Hole Negative with Top Surface Extensions
+   NPEGHOL3.DAT               Technic Peg Hole / Axle Hole Negative without Top Surface Ext.
+   NPEGHOL4.DAT               Technic Peg Hole / Axle Hole Negative with Top Surface Ext.
+   NPEGHOL5.DAT               Technic Peg Hole 0.5 / Axle Hole Negative with Top Surface Ext.
+   NPEGHOLE.DAT               Technic Peg Hole Negative without Top Surface Extensions
+   PEGHOLE2.DAT               Peg Hole End Extended
+   PEGHOLE3.DAT               Peg Hole End Extended 1/2
+   PEGHOLE4.DAT               Peg Hole End Extended Short
+   PRIMOBOT.DAT               Duplo Primo Anti-Stud
+   PRIMOTOP.DAT               Duplo Primo Top Stud
+   STU2.DAT                   Stud (Fast-Draw)
+   STU210.DAT                 Stud For Round  2 x  2 Parts (Fast Draw)
+   STU22.DAT                  Stud Open (Fast-Draw)
+   STU22A.DAT                 Stud Open without Base Edges (Fast-Draw)
+   STU23.DAT                  Stud Tube Solid (Fast-Draw)
+   STU23A.DAT                 Stud Tube Solid without Base Edges (Fast-Draw)
+   STU24.DAT                  Stud Tube Open (Fast-Draw)
+   STU24A.DAT                 Stud Tube Open without Base Edges (Fast-Draw)
+   STU25.DAT                  Stud Scala (Fast-Draw)
+   STU26.DAT                  Stud Open For Round 2x2 Parts (Fast-Draw)
+   STU27.DAT                  Stud Duplo Open (Fast-Draw)
+   STU28.DAT                  Stud Duplo Tube (Fast-Draw)
+   STU2X.DAT                  Stud Cross (Fast-Draw)
+   STUD.DAT                   Stud
+   STUD10.DAT                 Stud For Round   2 x  2 Parts
+   STUD13.DAT                 Stud for Electric Light & Sound Brick  2 x  2 x  1.333
+   STUD3.DAT                  Stud Tube Solid
+   STUD5.DAT                  Stud Scala
+   STUD6.DAT                  Stud Open For Round 2x2 Parts
+   STUD6A.DAT                 Stud Open For Round 2x2 Parts without Base Edges
+   STUDEL.DAT                 Stud with Electric Contact
+   STUDLINE.DAT               Stud Placeholder (SuperFast-Draw)
+   STUDX.DAT                  Stud Cross
+   STUG-2X2.DAT               Stud Group  2 x  2
+   STUG2-2X2.DAT              Stud Open Group  2 x  2
+   STUG2-4X4.DAT              Stud Open Group  4 x  4
+   T04I0625.DAT               Torus Inside  1 x 0.0625 x 0.25
+   T04I1304.DAT               Torus Inside  1 x 0.1304 x 0.25
+   T04I1333.DAT               Torus Inside  1 x 0.1333 x 0.25
+   T04I2500.DAT               Torus Inside  1 x 0.2500 x 0.25
+   T04I3333.DAT               Torus Inside  1 x 0.3333 x 0.25
+   T04I4167.DAT               Torus Inside  1 x 0.4167 x 0.25
+   T04I5000.DAT               Torus Inside  1 x 0.5000 x 0.25
+   T04O0625.DAT               Torus Outside 1 x 0.0625 x 0.25
+   T04O1250.DAT               Torus Outside  1 x 0.1250 x 0.25
+   T04O1304.DAT               Torus Outside 1 x 0.1304 x 0.25
+   T04O1333.DAT               Torus Outside 1 x 0.1333 x 0.25
+   T04O1429.DAT               Torus Outside 1 x 0.1429 x 0.25
+   T04O1538.DAT               Torus Outside 1 x 0.1538 x 0.25
+   T04O2500.DAT               Torus Outside  1 x 0.2500 x 0.25
+   T04O4167.DAT               Torus Outside  1 x 0.4167 x 0.25
+   T04O5000.DAT               Torus Outside  1 x 0.5000 x 0.25
+   T04O7500.DAT               Torus Outside  1 x 0.7500 x 0.25
+   T04Q0625.DAT               Torus Tube    1 x 0.0625 x 0.25
+   T04Q2500.DAT               Torus Tube  1 x 0.2500 x 0.25
+   T04Q3333.DAT               Torus Tube    1 x 0.3333 x 0.25
+   T04Q4000.DAT               Torus Tube  1 x 0.4000 x 0.25
+   112.DAT                    Car Air Horn
+   2536.DAT                   Plant Tree Palm Trunk
+   2563.DAT                   Plant Tree Palm Base
+   2607.DAT                   Magnet Holder  2 x  3
+   2698.DAT                   Technic Action Figure Torso
+   2698P01.DAT                Technic Action Figure Torso with White Zipper Pattern
+   2698P02.DAT                Technic Action Figure Torso with Orca Pattern
+   2698P03.DAT                Technic Action Figure Torso with Technic Logo and Gear Pattern
+   2699.DAT                   Technic Action Figure Body Connector
+   2701.DAT                   Technic Action Figure Arm Bearing
+   2702.DAT                   Technic Action Figure Hand
+   2703.DAT                   Technic Action Figure Leg Upper Left
+   2704.DAT                   Technic Action Figure Leg Lower
+   2705.DAT                   Technic Action Figure Arm Bearing Pin
+   2706.DAT                   Technic Action Figure Foot
+   2707.DAT                   Technic Action Figure Head
+   2707P01.DAT                Technic Action Figure Head with Black Shades Pattern
+   2707P02.DAT                Technic Action Figure Head with Dark Blue Shades Pattern
+   2707P03.DAT                Technic Action Figure Head with Frown and Smirk Pattern
+   2707P04.DAT                Technic Action Figure Head with Thick Eyebrows Pattern
+   2707P05.DAT                Technic Action Figure Head with Beard Pattern
+   2707P06.DAT                Technic Action Figure Head with Standard Grin Pattern
+   2709.DAT                   Technic Action Figure Leg Upper Right
+   2710.DAT                   Technic Action Figure Body Lower
+   3039P09.DAT                Slope Brick 45  2 x  2 with Fire Logo Pattern
+   3039P23.DAT                Slope Brick 45  2 x  2 with Computer Screen Pattern
+   3046.DAT                   Slope Brick 45  2 x  2 Double Concave
+   3065.DAT                   Brick  1 x  2 without Centre Stud
+   3068BP57.DAT               Tile  2 x  2 with Fire Logo Pattern
+   31000.DAT                  Duplo Primo Brick  1 x  1
+   31000P1R.DAT               Duplo Primo Brick  1 x  1 with 3 Red Dots Pattern
+   31000P1W.DAT               Duplo Primo Brick  1 x  1 with 3 White Dots Pattern
+   31000P1Y.DAT               Duplo Primo Brick  1 x  1 with 3 Yellow Dots Pattern
+   32133.DAT                  ~Technic Competition Arrow Shaft
+   3229A.DAT                  Train Track Tapered Rail Curved Outside
+   3229B.DAT                  Train Track Slotted Rail Curved Outside
+   3230A.DAT                  Train Track Tapered Rail Curved Inside
+   3626BP02.DAT               Minifig Head with Standard Woman Pattern
+   3675.DAT                   Slope Brick 33  3 x  3 Double Convex
+   3747B.DAT                  Slope Brick 33  3 x  2 Inverted with Ribs between Studs
+   3821P09.DAT                Door  1 x  3 x  1 Right with Fire Logo Pattern
+   3822P09.DAT                Door  1 x  3 x  1 Left with Fire Logo Pattern
+   3833.DAT                   Minifig Construction Helmet
+   3878.DAT                   Minifig Top Hat
+   4019.DAT                   Technic Gear 16 Tooth
+   4034.DAT                   Glass for Train Window  1 x  4 x  3
+   4036.DAT                   Glass for Train Window  1 x  2 x  3
+   4085A.DAT                  Plate  1 x  1 with Clip Vertical Type 1
+   4162.DAT                   Tile  1 x  8
+   4166.DAT                   Train Track Sleeper Plate  2 x  8 with Cable Grooves
+   41747.DAT                  Wedge  2 x  6 Double Right
+   41747PS1.DAT               Wedge  2 x  6 Double Right with AT-TE Pattern
+   41748.DAT                  Wedge  2 x  6 Double Left
+   41748PS1.DAT               Wedge  2 x  6 Double Left with AT-TE Pattern
+   4183.DAT                   Glass for Train Door
+   4209P01.DAT                Hose Reel  2 x  4 x  2 Holder with Fire Logo Pattern
+   4215AP01.DAT               Panel  1 x  4 x  3 with Red Bar and White Grille Pattern
+   4215AP02.DAT               Panel  1 x  4 x  3 with Red Cross and Stripe Pattern
+   4215AP03.DAT               Panel  1 x  4 x  3 with Red Stripe Pattern
+   4215AP24.DAT               Panel  1 x  4 x  3 with Lower-Right Black Triangle Pattern
+   4215AP25.DAT               Panel  1 x  4 x  3 with Lower-Left Black Triangle Pattern
+   4215AP30.DAT               Panel  1 x  4 x  3 with Black Jolly Roger Pattern
+   4215AP66.DAT               Panel  1 x  4 x  3 with Red Cross Pattern
+   43898.DAT                  Dish  3 x  3 Inverted
+   4512.DAT                   Train Level Crossing Gate Type 2
+   4522.DAT                   Minifig Tool Mallet
+   60592.DAT                  Window  1 x  2 x  2 without Sill
+   60593.DAT                  Window  1 x  2 x  3 without Sill
+   70163.DAT                  Train Level Crossing Gate Counterweight Type 2
+   817C01.DAT                 Trailer for Legoland Car with Red Wheel Hubs (Complete)
+   973P26.DAT                 Minifig Torso with Patch Pocket Pattern
+   973P27.DAT                 Minifig Torso with Autoroute Pattern
+   4209S01.DAT                ~Fire Logo Pattern
+   43898S01.DAT               ~Dish  3 x  3 without Top Face
+   4707S01.DAT                ~Electric Switch: Front with 1 Twin Plug Socket
+   4707S02.DAT                ~Electric Switch: Part Bottom without Front Face
+   U9004S01.DAT               ~Electric Switch: Front with 2 Twin Plug Sockets
+   U9005S01.DAT               ~Electric Switch: Front with Twin and Multi-use Plug Sockets

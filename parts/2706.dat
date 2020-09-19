@@ -1,12 +1,15 @@
 0 Technic Action Figure Foot
 0 Name: 2706.dat
 0 Author: Orion Pobursky [OrionP]
-0 !LDRAW_ORG Part UPDATE 2009-01
+0 !LDRAW_ORG Part UPDATE 2012-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Figure
+
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
 0 BFC INVERTNEXT
 1 16 0 19 -9 -6 0 0 0 -4 0 0 0 15 box4-7a.dat
@@ -129,4 +132,3 @@
 2 24 -3 5 -5 -3 3.889 -3.8891
 2 24 -3 5 5 -3 3.889 3.889
 2 24 3 5 5 3 3.889 3.889
-0

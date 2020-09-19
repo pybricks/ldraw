@@ -1,7 +1,7 @@
-0 ~Plant Tree Cedar  4 x  4 x 11.5 - Quarter
+0 ~Plant Tree Columnar  4 x  4 x 11.5 - Quarter
 0 Name: s\3778s01.dat
 0 Author: Tore Eriksson [simlego]
-0 !LDRAW_ORG Subpart UPDATE 2011-02
+0 !LDRAW_ORG Subpart UPDATE 2012-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,6 +12,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2011-08-18 [PTadmin] Renamed from s/688s01
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2012-03-21 [cwdee] Description change
+0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
 2 24 10 -34 0 10 -34 4
 4 16 0 -34 0 10 -34 0 10 -34 4 0 -34 4

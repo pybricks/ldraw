@@ -1,12 +1,15 @@
 0 Technic Action Figure Torso with White Zipper Pattern
 0 Name: 2698p01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2012-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Figure
+
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2698s01.dat
 1 16 -15 -46 0 0 -4 0 8.48528 0 -8.48528 -8.48528 0 -8.48528 3-8cyli.dat

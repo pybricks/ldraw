@@ -1,7 +1,7 @@
-0 Bracket  2 x  2 -  2 x  2
+0 Bracket  2 x  2 -  2 x  2 Up
 0 Name: 3956.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2012-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -11,12 +11,11 @@
 0 !HISTORY 2009-06-15 [Steffen] un-mirrored studs, BFCed, closed gaps
 0 !HISTORY 2010-10-17 [Steffen] fixed wrong quads and primitives
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2012-02-07 [cwdee] Minor description change
+0 !HISTORY 2012-03-14 [timgould] Changed to use stud4h.dat
+0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
-1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
-1 16 0 4 0 8 0 0 0 8 0 0 0 8 4-4edge.dat
-1 16 0 0 0 6 0 0 0 6 0 0 0 6 4-4edge.dat
-0 BFC INVERTNEXT
-1 16 0 0 0 6 0 0 0 4 0 0 0 6 4-4cyli.dat
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4h.dat
 0 BFC INVERTNEXT
 1 16 0 4 0 16 0 0 0 4 0 0 0 16 box4.dat
 2 24 20 8 20 20 8 -28
@@ -29,11 +28,7 @@
 2 24 -20 0 -20 -20 0 20
 1 16 0 -36 -22 16 0 0 0 -1 0 0 0 2 rect.dat
 1 16 0 -40 -24 20 0 0 0 1 0 0 0 4 rect.dat
-1 16 0 -20 -24 1 0 0 0 0 1 0 -1 0 stud4a.dat
-1 16 0 -20 -24 8 0 0 0 0 8 0 1 0 4-4edge.dat
-1 16 0 -20 -28 6 0 0 0 0 6 0 1 0 4-4edge.dat
-0 BFC INVERTNEXT
-1 16 0 -20 -28 6 0 0 0 0 6 0 4 0 4-4cyli.dat
+1 16 0 -20 -24 1 0 0 0 0 1 0 -1 0 stud4h.dat
 1 16 10 -2 -24 -1.5 0 0 0 0 -2 0 4 0 box4-1.dat
 1 16 -10 -2 -24 -1.5 0 0 0 0 -2 0 4 0 box4-1.dat
 2 24 20 -40 -20 20 0 -20
@@ -87,5 +82,5 @@
 4 16 -20 8 20 -20 0 20 -20 0 -20 -20 8 -28
 4 16 20 -40 -28 20 -40 -20 20 0 -20 20 8 -28
 4 16 -20 8 -28 -20 0 -20 -20 -40 -20 -20 -40 -28
-1 16 0 -20 -28 0 0 1 1 0 0 0 1 0 stug2.dat
+1 16 0 -20 -28 0 0 1 1 0 0 0 1 0 stug-2x2.dat
 0

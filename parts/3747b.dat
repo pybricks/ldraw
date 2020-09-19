@@ -1,12 +1,14 @@
 0 Slope Brick 33  3 x  2 Inverted with Ribs between Studs
 0 Name: 3747b.dat
 0 Author: Max Martin Richter [MMR1988]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2012-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2012-02-15 [MMR1988] Stud Orientation fixed
+0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
 1 16 -13.625 13.375 -6.75 0 0 -2.375 10.625 0 0 0 -1.009 0 rect3.dat
 1 16 -10 13.375 -6.75 1.25 0 0 0 0 10.625 0 0.75 0 box4-2p.dat
@@ -147,10 +149,9 @@
 4 16 -20 0 10 -20 0 -50 -18 0 -47.75 -18 0 -10
 4 16 -20 0 -50 20 0 -50 18 0 -47.75 -18 0 -47.75
 4 16 20 0 -50 20 0 10 18 0 -10 18 0 -47.75
-1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 stug-2x1.dat
 1 16 10 0 -20 1 0 0 0 1 0 0 0 1 stud2a.dat
 1 16 10 0 -40 1 0 0 0 1 0 0 0 1 stud2a.dat
-1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -10 0 -20 1 0 0 0 1 0 0 0 1 stud2a.dat
 1 16 -10 0 -40 1 0 0 0 1 0 0 0 1 stud2a.dat
 

@@ -1,7 +1,7 @@
 0 Technic Gear 16 Tooth
 0 Name: 4019.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2012-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -13,6 +13,8 @@
 0 !HISTORY 2008-07-07 [mkennedy] Optimized with primitves, BFC added (2002-10-20)
 0 !HISTORY 2008-07-08 [technog] Added lines, fixed ring7 overlap, more primitive subs, replaced cog with tooth16, corrected tooth ring width (2003-11-19)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2011-08-06 [Steffen] removed duplicate BFC CERTIFY statements
+0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
 1 16 -0.2 -0.2 10 1.1 0 0 0 0 1.1 0 -20 0 axlehol6.dat
 1 16 -0.2 0.2 10 0 0 1.1 -1.1 0 0 0 -20 0 axlehol6.dat
@@ -241,13 +243,13 @@
 1 16 -10 0 -4.75 2.83 0 -2.83 -2.83 0 -2.83 0 1 0 3-4edge.dat
 1 16 0 -10 -4.75 2.83 0 2.83 2.83 0 -2.83 0 1 0 3-4edge.dat
 1 16 10 0 -4.75 -2.83 0 2.83 2.83 0 2.83 0 1 0 3-4edge.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 10 -4.75 -2.83 0 -2.83 -2.83 0 2.83 0 9.5 0 3-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 -10 0 -4.75 2.83 0 -2.83 -2.83 0 -2.83 0 9.5 0 3-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 -10 -4.75 2.83 0 2.83 2.83 0 -2.83 0 9.5 0 3-4cyli.dat
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 10 0 -4.75 -2.83 0 2.83 2.83 0 2.83 0 9.5 0 3-4cyli.dat
 1 16 0 10 -4.75 4.24 0 4.24 -4.24 0 4.24 0 9.5 0 3-4cyli.dat
 1 16 -10 0 -4.75 4.24 0 -4.24 4.24 0 4.24 0 9.5 0 3-4cyli.dat
@@ -299,7 +301,7 @@
 4 16 15 -4 -2 4 -15 -2 9 -13 -2 13 -9 -2
 4 16 -4 -15 -2 -15 -4 -2 -13 -9 -2 -9 -13 -2
 4 16 -15 4 -2 -4 15 -2 -9 13 -2 -13 9 -2
-0 BFC CERTIFY INVERTNEXT
+0 BFC INVERTNEXT
 1 16 0 0 -4.75 0 0 -14.88 14.88 0 0 0 9.5 0 48\4-4cyli.dat
 1 16 0 0 -4.75 0 0 -17 17 0 0 0 9.5 0 48\4-4cyli.dat
 1 16 0 -17.04 0 1 0 0 0 -1 0 0 0 1 tooth16.dat
@@ -414,4 +416,3 @@
 2 24 -4.6078 -16.3505 4.75 -4.4 -16.4208 4.75
 2 24 -2.2189 -16.8546 4.75 -4.4 -16.4208 4.75
 2 24 -2 -16.8692 4.75 -2.2189 -16.8546 4.75
-0

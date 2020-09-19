@@ -1,7 +1,7 @@
 0 Tile  2 x  2 with Fire Logo Pattern
 0 Name: 3068bp57.dat
 0 Author: Thomas Burger [grapeape]
-0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LDRAW_ORG Part UPDATE 2012-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -14,11 +14,13 @@
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-10-19 [anathema] Updated due to subpart changes
+0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
-1 462 0 0 0 0 0 1 -1 0 0 0 -1 0 s\4209s01.dat
-4 16 -20 0 20 -12 0 12 12 0 12 20 0 20
-4 16 20 0 20 12 0 12 12 0 -12 20 0 -20
-4 16 12 0 -12 -12 0 -12 -20 0 -20 20 0 -20
-4 16 -20 0 -20 -12 0 -12 -12 0 12 -20 0 20
+1 16 0 0 0 0.1 0 0 0 1 0 0 0 0.1 s\4209s01.dat
+4 16 -20 0 -20 -12.3 0 -12.3 -12.3 0 12.3 -20 0 20
+4 16 20 0 -20 12.3 0 -12.3 -12.3 0 -12.3 -20 0 -20
+4 16 20 0 20 12.3 0 12.3 12.3 0 -12.3 20 0 -20
+4 16 -20 0 20 -12.3 0 12.3 12.3 0 12.3 20 0 20
 0

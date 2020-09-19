@@ -1,13 +1,15 @@
-0 Sticker  8 x  1.1 with "SERVICESTATION" and Red/Green Stripes
+0 Sticker  1.1 x  8 with "SERVICESTATION" and Red/Green Stripes
 0 Name: 4521703b.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2011-01
+0 !LDRAW_ORG Part UPDATE 2012-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 0 !KEYWORDS Town Plan
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+0 !HISTORY 2012-01-09 [cwdee] Corrected dimensions
+0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
 3 0 -58.2276 -0.25 -3.6555 -60.0803 -0.25 -4.8649 -59.751 -0.25 -5.5583
 3 0 -58.2276 -0.25 -3.6555 -59.751 -0.25 -5.5583 -59.3099 -0.25 -6.1406

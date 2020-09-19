@@ -1,0 +1,25 @@
+0 Windscreen  6 x  6 x  3 Dome Hinge Locking with Two Dual Fingers
+0 Name: 50747.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Part UPDATE 2012-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
+0 !HISTORY 2007-10-30 [mikeheide] File preparation for LDraw Parts Tracker
+0 !HISTORY 2008-07-03 [Philo] Split in half with subpart
+0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\50747s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\50747s01.dat
+2 24 36.75 -13.25 -4.05 -36.75 -13.25 -4.05
+4 16 -36.75 -13.25 9.45 36.75 -13.25 9.45 40 -10 9.45 -40 -10 9.45
+2 24 -36.75 -13.25 9.45 36.75 -13.25 9.45
+2 24 -40 -10 9.45 40 -10 9.45
+4 16 -11.5 -10 6 11.5 -10 6 11.5 -10 -6 -11.5 -10 -6
+2 24 11.5 -10 -6 -11.5 -10 -6
+4 16 36.75 -13.25 9.45 -36.75 -13.25 9.45 -36.75 -13.25 -4.05 36.75 -13.25 -4.05
+3 16 -36.75 -13.25 -4.05 0 -14.112 -4.05 36.75 -13.25 -4.05
+3 16 11 -10 -6 0 -10.58 -6 -11 -10 -6
+4 16 -40 -10 9.45 40 -10 9.45 28.5 -10 6 -28.5 -10 6
