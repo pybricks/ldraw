@@ -1,13 +1,13 @@
 0 Brick  1 x  1 with Blue "C" Pattern
 0 Name: 3005ptc.dat
-0 Author: Tore Eriksson [simlego]
+0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2004-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2003-12-09 [Steffen] made use of existing subfile
-0 !HISTORY 2003-12-11 [simlego] fixed overlapping quads
+0 !HISTORY 2003-12-11 [Tore_Eriksson] fixed overlapping quads
 0 !HISTORY 2003-12-11 [Steffen] BFCed
 0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
 0 !HISTORY 2007-05-11 [PTadmin] Header formatted for Contributor Agreement

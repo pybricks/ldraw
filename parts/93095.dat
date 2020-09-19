@@ -1,12 +1,14 @@
-0 Panel  1 x  2 x  1 with Thin Central Divider
+0 Panel  1 x  2 x  1 with Thin Central Divider and Rounded Corners
 0 Name: 93095.dat
-0 Author: Timothy Gould [timgould]
-0 !LDRAW_ORG Part UPDATE 2012-01
+0 Author: Tim Gould [timgould]
+0 !LDRAW_ORG Part UPDATE 2012-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+0 !HISTORY 2012-07-03 [cwdee] Enhance title
+0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
 
 1 16 0 20 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 

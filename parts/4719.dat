@@ -1,6 +1,6 @@
 0 Minifig Bicycle Frame (needs work)
 0 Name: 4719.dat
-0 Author: Tore Eriksson [simlego]
+0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2010-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
@@ -16,7 +16,7 @@
 0 BFC CERTIFY CW
 
 0 !HISTORY 2006-08-17 [WilliamH] BFCed
-0 !HISTORY 2008-08-05 [simlego] Changed to default color on two triangles
+0 !HISTORY 2008-08-05 [Tore_Eriksson] Changed to default color on two triangles
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
 0 // To do:

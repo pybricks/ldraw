@@ -1,6 +1,6 @@
 0 Minifig Camera with Side Sight
 0 Name: 4360.dat
-0 Author: Tore Eriksson [simlego]
+0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2009-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
@@ -10,8 +10,8 @@
 0 !KEYWORDS video camera
 
 0 !HISTORY 1997-10-29 [PTadmin] Official Update 1997-16
-0 !HISTORY 2002-07-05 [simlego] Fixed a lot of sloppy work
-0 !HISTORY 2002-07-06 [simlego] Fixed gap at eyepiece, added some missing edges
+0 !HISTORY 2002-07-05 [Tore_Eriksson] Fixed a lot of sloppy work
+0 !HISTORY 2002-07-06 [Tore_Eriksson] Fixed gap at eyepiece, added some missing edges
 0 !HISTORY 2002-08-15 [BrickCaster] Added 3 missing edges
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement

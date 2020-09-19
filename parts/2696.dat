@@ -1,14 +1,20 @@
-0 Tyre Model Team
+0 Tyre 12.7/ 51 x 30
 0 Name: 2696.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2000-02
+0 !LDRAW_ORG Part UPDATE 2012-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !KEYWORDS Model Team
 
 0 !HISTORY 2000-08-01 {Axel Poque} fixes to resolve L3P error messages
 0 !HISTORY 2000-08-01 {Manfred Moolhuysen} fixes to resolve L3P error messages
 0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
 0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2012-06-29 [cwdee] Update title
+0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
+0 // Nomenclature: width_(mm)/profile_as_%age_of_width x rim_diameter_(mm)
 
  2 24 38 0 -24 37.17 -7.90 -24
  2 24 38 0 -8 37.17 -7.90 -8

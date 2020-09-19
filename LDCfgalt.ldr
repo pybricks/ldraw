@@ -1,13 +1,13 @@
 0 LDraw.org Configuration File
 0 Name: LDCfgalt.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2012-01-06
+0 !LDRAW_ORG Configuration UPDATE 2012-07-03
 
 0 // LDraw Solid Colors
 0 !COLOUR Black                              CODE  0    VALUE #05131D   EDGE #3F474C
-0 !COLOUR Blue                               CODE  1    VALUE #0055BF   EDGE #0055C4
+0 !COLOUR Blue                               CODE  1    VALUE #0561BC   EDGE #0055C4
 0 !COLOUR Green                              CODE  2    VALUE #257A3E   EDGE #238841
-0 !COLOUR Dark_Turquoise                     CODE  3    VALUE #008F9B   EDGE #008FAB
+0 !COLOUR Dark_Turquoise                     CODE  3    VALUE #00838F   EDGE #008FAB
 0 !COLOUR Red                                CODE  4    VALUE #C91A09   EDGE #D51A09
 0 !COLOUR Dark_Pink                          CODE  5    VALUE #C870A0   EDGE #C26293
 0 !COLOUR Brown                              CODE  6    VALUE #583927   EDGE #412D15
@@ -38,7 +38,7 @@
 0 !COLOUR Reddish_Brown                      CODE  70   VALUE #582A12   EDGE #391A08
 0 !COLOUR Light_Bluish_Gray                  CODE  71   VALUE #A0A5A9   EDGE #777A85
 0 !COLOUR Dark_Bluish_Gray                   CODE  72   VALUE #6C6E68   EDGE #484A4B
-0 !COLOUR Medium_Blue                        CODE  73   VALUE #5A93DB   EDGE #5A95DE
+0 !COLOUR Medium_Blue                        CODE  73   VALUE #5C9DD1   EDGE #5A95DE
 0 !COLOUR Medium_Green                       CODE  74   VALUE #73DCA1   EDGE #A1D390
 0 !COLOUR Light_Pink                         CODE  77   VALUE #FECCCF   EDGE #FFCED2
 0 !COLOUR Light_Flesh                        CODE  78   VALUE #F6D7B3   EDGE #F8D9B5
@@ -56,25 +56,26 @@
 0 !COLOUR Light_Orange                       CODE 125   VALUE #F9BA61   EDGE #FDBF5D
 0 !COLOUR Very_Light_Bluish_Gray             CODE 151   VALUE #E6E3E0   EDGE #E9E6E5
 0 !COLOUR Bright_Light_Orange                CODE 191   VALUE #F8BB3D   EDGE #F8BB3D
-0 !COLOUR Bright_Light_Blue                  CODE 212   VALUE #9FC3E9   EDGE #A0C5F0
+0 !COLOUR Bright_Light_Blue                  CODE 212   VALUE #86C1E1   EDGE #89C5E6
 0 !COLOUR Rust                               CODE 216   VALUE #B31004   EDGE #B91205
 0 !COLOUR Bright_Light_Yellow                CODE 226   VALUE #FFF03A   EDGE #FFF13B
-0 !COLOUR Sky_Blue                           CODE 232   VALUE #7DBFDD   EDGE #7DC4DD
-0 !COLOUR Dark_Blue                          CODE 272   VALUE #0A3463   EDGE #09326F
+0 !COLOUR Sky_Blue                           CODE 232   VALUE #56BED6   EDGE #59C3DA
+0 !COLOUR Dark_Blue                          CODE 272   VALUE #0D325B   EDGE #083469
 0 !COLOUR Dark_Green                         CODE 288   VALUE #184632   EDGE #184A25
 0 !COLOUR Dark_Brown                         CODE 308   VALUE #352100   EDGE #3C2807
-0 !COLOUR Maersk_Blue                        CODE 313   VALUE #3592C3   EDGE #3592CB
+0 !COLOUR Maersk_Blue                        CODE 313   VALUE #54A9C8   EDGE #56ABCD
 0 !COLOUR Dark_Red                           CODE 320   VALUE #720E0F   EDGE #790E0F
-0 !COLOUR Dark_Azure                         CODE 321   VALUE #078BC9   EDGE #088DCD
-0 !COLOUR Medium_Azure                       CODE 322   VALUE #36AEBF   EDGE #3AB2C5
-0 !COLOUR Light_Aqua                         CODE 323   VALUE #ADC3C0   EDGE #AFC5C5
-0 !COLOUR Olive_Green                        CODE 326   VALUE #9B9A5A   EDGE #9E9D5E
+0 !COLOUR Dark_Azure                         CODE 321   VALUE #1498D7   EDGE #088DCD
+0 !COLOUR Medium_Azure                       CODE 322   VALUE #3EC2DD   EDGE #3AB2C5
+0 !COLOUR Light_Aqua                         CODE 323   VALUE #BDDCD8   EDGE #A0DEDA
+0 !COLOUR Yellowish_Green                    CODE 326   VALUE #DFEEA5   EDGE #E5F6AB
+0 !COLOUR Olive_Green                        CODE 330   VALUE #9B9A5A   EDGE #9E9D5E
 0 !COLOUR Sand_Red                           CODE 335   VALUE #D67572   EDGE #DA7876
 0 !COLOUR Medium_Dark_Pink                   CODE 351   VALUE #F785B1   EDGE #FB89B8
 0 !COLOUR Earth_Orange                       CODE 366   VALUE #FA9C1C   EDGE #FEA11E
 0 !COLOUR Sand_Purple                        CODE 373   VALUE #845E84   EDGE #8A648B
 0 !COLOUR Sand_Green                         CODE 378   VALUE #A0BCAC   EDGE #A0BFAC
-0 !COLOUR Sand_Blue                          CODE 379   VALUE #6074A1   EDGE #6076A9
+0 !COLOUR Sand_Blue                          CODE 379   VALUE #597184   EDGE #5B7488
 0 !COLOUR Fabuland_Brown                     CODE 450   VALUE #B67B50   EDGE #B77B52
 0 !COLOUR Medium_Orange                      CODE 462   VALUE #FFA70B   EDGE #FFAA0F
 0 !COLOUR Dark_Orange                        CODE 484   VALUE #A95500   EDGE #AD5906
@@ -90,8 +91,8 @@
 0 !COLOUR Trans_Neon_Yellow                  CODE  54   VALUE #DAB000   EDGE #F5CD2F   ALPHA 128
 0 !COLOUR Trans_Yellow                       CODE  46   VALUE #F5CD2F   EDGE #B49819   ALPHA 128
 0 !COLOUR Trans_Neon_Green                   CODE  42   VALUE #C0FF00   EDGE #84C300   ALPHA 128
-0 !COLOUR Trans_Bright_Green                 CODE  35   VALUE #D9E4A7   EDGE #9DA86B   ALPHA 128
-0 !COLOUR Trans_Green                        CODE  34   VALUE #84B68D   EDGE #237841   ALPHA 128
+0 !COLOUR Trans_Bright_Green                 CODE  35   VALUE #56E646   EDGE #9DA86B   ALPHA 128
+0 !COLOUR Trans_Green                        CODE  34   VALUE #237841   EDGE #237841   ALPHA 128
 0 !COLOUR Trans_Dark_Blue                    CODE  33   VALUE #0020A0   EDGE #000064   ALPHA 128
 0 !COLOUR Trans_Medium_Blue                  CODE  41   VALUE #559AB7   EDGE #196273   ALPHA 128
 0 !COLOUR Trans_Light_Blue                   CODE  43   VALUE #AEE9EF   EDGE #72B3B8   ALPHA 128
@@ -122,13 +123,13 @@
 0 !COLOUR Pearl_Light_Gold                   CODE 142   VALUE #DCBE61   EDGE #DFBF64                               PEARLESCENT
 0 !COLOUR Pearl_Gold                         CODE 297   VALUE #CC9C2B   EDGE #DDAE36                               PEARLESCENT
 0 !COLOUR Flat_Dark_Gold                     CODE 178   VALUE #B4883E   EDGE #B1843A                               PEARLESCENT
-0 !COLOUR Copper                             CODE 134   VALUE #AB6038   EDGE #AF633A                               PEARLESCENT
+0 !COLOUR Copper                             CODE 134   VALUE #964A27   EDGE #A25331                               PEARLESCENT
 
 
 0 // LDraw Metallic Colors
 0 !COLOUR Metallic_Silver                    CODE  80   VALUE #A5A9B4   EDGE #A6AAB8                               METAL
 0 !COLOUR Metallic_Green                     CODE  81   VALUE #899B5F   EDGE #8EA15F                               METAL
-0 !COLOUR Metallic_Gold                      CODE  82   VALUE #DBAC34   EDGE #EBBC44                               METAL
+0 !COLOUR Metallic_Gold                      CODE  82   VALUE #8C5C20   EDGE #CD9E56                               METAL
 0 !COLOUR Metallic_Black                     CODE  83   VALUE #1A2831   EDGE #000000                               METAL
 0 !COLOUR Metallic_Dark_Gray                 CODE  87   VALUE #6D6E5C   EDGE #5D5B53                               METAL
 

@@ -1,58 +1,27 @@
-0 Crane Basket  3 x  2 x  2 with Locking Hinge
+0 Crane Basket  3 x  2 x  2 with Click Lock Hinge
 0 Name: 51858.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2012-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Container
+0 !KEYWORDS Cherry Picker, Crane Bucket, Boom Lift, Man Lift, Hydraladder
+
 0 !HISTORY 2010-06-16 [Steffen] Removed stray stud, unmirrored studs
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2011-03-23 [gregteft] Updated to use s\2424s01.dat, Added Category & Keywords
+0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
 
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2424s01.dat
 1 16 0 -30 26 1 0 0 0 1 0 0 0 1 clh4.dat
 1 16 0 -30 26 -1 0 0 0 -1 0 0 0 1 clh4.dat
 1 16 6.25 -30 20 2.25 0 0 0 0 -6 0 6 0 box4o4a.dat
 1 16 -6.25 -30 20 2.25 0 0 0 0 -6 0 6 0 box4o4a.dat
-1 16 0 8 0 0 0 -30 0 -8 0 20 0 0 box4o4a.dat
-0 BFC INVERTNEXT
-1 16 0 8 0 0 0 -26 0 -4 0 16 0 0 box5.dat
-1 16 -10 4 0 0 0 1 0 -1 0 1 0 0 stud4.dat
-1 16 10 4 0 0 0 1 0 -1 0 1 0 0 stud4.dat
-1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
-1 16 0 -16.001 20.001 0 0 -30 -16 0 0 0 -4 0 rect2p.dat
-1 16 0 -40 0 0 0 -30 0 8 0 20 0 0 box4o4a.dat
-0 BFC INVERTNEXT
-1 16 0 -40 0 0 0 -26 0 8 0 16 0 0 box4o4a.dat
-0 BFC INVERTNEXT
-1 16 -28 0 0 -2 0 0 0 -32 0 0 0 12 BOX3U2P.DAT
-0 BFC INVERTNEXT
-1 16 28 0 0 -2 0 0 0 -32 0 0 0 12 BOX3U2P.DAT
-0 BFC INVERTNEXT
-1 16 0 0 -18 0 0 22 0 -32 0 2 0 0 BOX3U2P.DAT
-1 16 0 0 -18 0 0 -22 0 1 0 -2 0 0 rect1.dat
-1 16 28 0 0 2 0 0 0 1 0 0 0 -12 rect1.dat
-1 16 -28 0 0 -2 0 0 0 1 0 0 0 12 rect1.dat
-1 16 -26 -16 -16 0 0 -4 16 0 0 0 -4 0 box2-11.dat
-1 16 26 -16 -16 0 4 0 16 0 0 0 0 -4 box2-11.dat
-0 BFC INVERTNEXT
-1 16 24 -16 -14 0 2 0 16 0 0 0 0 -2 box2-11.dat
-0 BFC INVERTNEXT
-1 16 -24 -16 -14 0 0 -2 16 0 0 0 -2 0 box2-11.dat
-0 BFC INVERTNEXT
-1 16 0 -16 12 0 0 -26 -16 0 0 0 4 0 box3u7a.dat
-4 16 -26 0 16 -26 0 -16 26 0 -16 26 0 16
-4 16 30 -32 20 30 -32 12 30 0 12 30 0 20
-4 16 -30 0 20 -30 0 12 -30 -32 12 -30 -32 20
-2 24 26 0 -16 26 0 -12
-2 24 -26 0 -16 -26 0 -12
-2 24 -26 0 -16 -22 0 -16
-2 24 26 0 -16 22 0 -16
-4 16 -30 8 -20 -26 8 -16 26 8 -16 30 8 -20
-4 16 30 8 20 26 8 16 -26 8 16 -30 8 20
-4 16 -30 8 20 -26 8 16 -26 8 -16 -30 8 -20
-4 16 30 8 -20 26 8 -16 26 8 16 30 8 20
-4 16 30 -40 -20 26 -40 -16 -26 -40 -16 -30 -40 -20
+2 24 -30 -40 20 30 -40 20
+2 24 -26 -40 16 26 -40 16
 4 16 -30 -40 20 -26 -40 16 26 -40 16 30 -40 20
-4 16 30 -40 20 26 -40 16 26 -40 -16 30 -40 -20
-4 16 -30 -40 -20 -26 -40 -16 -26 -40 16 -30 -40 20
+4 16 -26 -40 16 -26 0 16 26 0 16 26 -40 16
+4 16 30 -40 20 30 8 20 -30 8 20 -30 -40 20
+0

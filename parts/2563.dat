@@ -1,6 +1,6 @@
 0 Plant Tree Palm Base
 0 Name: 2563.dat
-0 Author: Tore Eriksson [simlego]
+0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2012-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
@@ -11,7 +11,7 @@
 0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
 0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [DeanEarley] BFC'd, tidied and corrected errors (2005-08-29)
+0 !HISTORY 2008-07-07 [DeannaEarley] BFC'd, tidied and corrected errors (2005-08-29)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2011-12-29 [Steffen] added missing 4-4edge
 0 !HISTORY 2011-12-30 [Philo] Added condlines to smooth cone, used stud2a

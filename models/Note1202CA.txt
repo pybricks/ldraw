@@ -1,0 +1,265 @@
+LDraw.org Parts Update 2012-02
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Thu Aug  9 14:38:36 2012 by the Parts Tracker.
+
+Release statistics:
+   Total files: 740 (+ 445 files with header only changes to author names)
+   New files: 579
+   New parts: 348
+   New subparts: 172
+   New primitives: 34
+   New hi-res primitives: 25
+
+New 3-digit part numbers assigned:
+   185.dat ~Boat Section Middle  6 x  8 x  3.333 Hull
+   186.dat ~Boat Section Middle  6 x  8 x  3.333 Deck
+   187.dat ~Electric Train Pole Reverser Directional Tab
+   574.dat Tyre 10/130 x 17 Offset Tread for Technic Gear 9 Tooth
+   584.dat Technic Bush with One Flange
+   958.dat Umbrella  8 x  8 with Square Tabs
+
+Moved Parts
+   2739B.DAT                  ~Moved to 32005
+   30027.DAT                  ~Moved to 30027a
+   44375.DAT                  ~Moved to 44375a
+   6246A.DAT                  ~Moved to 55298
+   6246B.DAT                  ~Moved to 55295
+   6246D.DAT                  ~Moved to 55300
+   6246E.DAT                  ~Moved to 55299
+   6542.DAT                   ~Moved to 6542a
+   970C63.DAT                 ~Moved to 3815c63
+   970CS5.DAT                 ~Moved to 3815cs5
+   970P63.DAT                 ~Moved to 3815p63
+   970PS5.DAT                 ~Moved to 3815ps5
+   971P63.DAT                 ~Moved to 3816p63
+   971PS5.DAT                 ~Moved to 3816ps5
+   972P63.DAT                 ~Moved to 3817p63
+
+Renamed Parts
+   4-4RING9.DAT               Hi-Res Ring  9 x 1
+   changed to    Hi-Res Ring  9 x 1.0
+
+   TYPESTS4.DAT               Type Stencil Symbol Dollar 
+   changed to    Type Stencil Symbol Dollar
+
+   2336.DAT                   Space Nose
+   changed to    Wedge  2 x  3 with Brick  2 x  4 Side Studs and Plate  2 x  2
+
+   2336P68.DAT                Space Nose with MTron Logo Pattern
+   changed to    Wedge  2 x  3 with Brick  2 x  4 with MTron Logo Pattern
+
+   2431PS0.DAT                Tile  1 x  4 with Black Symbols Pattern
+   changed to    Tile  1 x  4 with SW Black Naboo Symbols Pattern
+
+   2546.DAT                   Animal Bird
+   changed to    Animal Parrot
+
+   2695.DAT                   Wheel Hub 12.8 x 30 Stepped
+   changed to    Wheel Rim 12.7 x 30 Stepped
+
+   2696.DAT                   Tyre Model Team
+   changed to    Tyre 12.7/ 51 x 30
+
+   2876.DAT                   Train Roof  6 x  6 Double Slope 45 / Slope 33
+   changed to    Slope Brick 33/45  6 x  6 with  4 x  4 Cutout
+
+   2942.DAT                   ~Technic Pneumatic Cylinder 1 x 1
+   changed to    ~Technic Pneumatic Cylinder 1 x 1 for Pump 5.5L
+
+   30028.DAT                  Tyre 14 x  8 Slick Smooth
+   changed to    Tyre  8/ 40 x  8 Slick Smooth
+
+   30198.DAT                  Grab Jaw Holder with Handle
+   changed to    Arm Piece Grab Jaw Holder with Handle
+
+   30413.DAT                  Panel  1 x  4 x  1
+   changed to    Panel  1 x  4 x  1 with Rounded Corners
+
+   33211.DAT                  Wheel Spoked  5 & 1/2 x  5 & 1/2
+   changed to    Wheel  3.2 x 43 with 10 Spokes Wooden
+
+   33212.DAT                  Wheel Spoked  7 x  7
+   changed to    Wheel  3.2 x 56 with 10 Spokes Wooden
+
+   3713.DAT                   Technic Bush
+   changed to    Technic Bush with Two Flanges
+
+   3846P4G.DAT                Minifig Shield Triangular with Blue Lion on Yellow Background
+   changed to    Minifig Shield Triangular with Blue Lion on Yellow Pattern
+
+   3846P4H.DAT                Minifig Shield Triangular with Yellow Lion on Blue Background
+   changed to    Minifig Shield Triangular with Yellow Lion on Blue Pattern
+
+   4221.DAT                   Grab Jaw
+   changed to    Arm Piece Grab Jaw
+
+   4424.DAT                   Barrel  4 & 1/2 x  4 & 1/2 
+   changed to    Barrel  4.5 x  4.5
+
+   45677.DAT                  Wedge  4 x  4 x  2/3 Curved
+   changed to    Wedge  4 x  4 x  0.667 Curved
+
+   4600.DAT                   Plate  2 x  2 with Wheels Holder
+   changed to    Plate  2 x  2 with Wheel Holder
+
+   4624.DAT                   Wheel Centre Small
+   changed to    Wheel Rim  6.4 x  8
+
+   51858.DAT                  Crane Basket  3 x  2 x  2 with Locking Hinge
+   changed to    Crane Basket  3 x  2 x  2 with Click Lock Hinge
+
+   585.DAT                    Technic Bush Old Type 2
+   changed to    Technic Bush with Three Flanges
+
+   6029A.DAT                  Animal Cattlehorns (needs work)
+   changed to    Animal Cattlehorns
+
+   6177PS1.DAT                Tile  8 x  8 Round with  2 x  2 Center Studs & SW Grille Pattern
+   changed to    Tile  8 x  8 Round with  2 x  2 Studs and Grille Pattern
+
+   6248.DAT                   Wheel Basic with 4 Studs and Technic Peghole
+   changed to    Wheel Rim 10 x 17.4 with 4 Studs and Technic Peghole
+
+   63082.DAT                  Plate  2 x  2 with Towball Socket and Axlehole
+   changed to    Plate  2 x  2 with Square Towball Socket and Axlehole
+
+   74982A.DAT                 Technic Pneumatic Pump 1 x 1 (Retracted)
+   changed to    Technic Pneumatic Pump 1 x 1 5.5L (Retracted)
+
+   74982B.DAT                 Technic Pneumatic Pump 1 x 1 (Extended)
+   changed to    Technic Pneumatic Pump 1 x 1 5.5L (Extended)
+
+   93095.DAT                  Panel  1 x  2 x  1 with Thin Central Divider
+   changed to    Panel  1 x  2 x  1 with Thin Central Divider and Rounded Corners
+
+   973PS5.DAT                 Minifig Torso with SW Black Vest & White Shirt Pattern
+   changed to    Minifig Torso with SW Vest, White Shirt & Yellow Neck Pattern
+
+   973PS6.DAT                 Minifig Torso with Old Obi-Wan Pattern
+   changed to    Minifig Torso with SW Ben Kenobi Pattern
+
+   973PSE.DAT                 Minifig Torso with SW Scout Trooper Pattern
+   changed to    Minifig Torso with SW Scout Trooper Grey Pattern
+
+   2336S01.DAT                ~Space Nose Missing Decoration Area
+   changed to    ~Wedge  2 x  3 w. Brick  2 x  4 + Plate  2 x  2 without Front
+
+   4424S01.DAT                ~Barrel  4 & 1/2 x  4 & 1/2 - 1/18 Segment
+   changed to    ~Barrel  4.5 x  4.5 - 1/18
+
+   44375S01.DAT               ~Dish  6 x  6 Inverted without Top Faces (needs work)
+   changed to    ~Dish  6 x  6 Inverted without Top Faces (Needs Work)
+
+Other Fixed Parts
+   1-4CHRD.DAT                Chord 0.25
+   1-4CHRD.DAT                Hi-Res Chord 0.25
+   1-4CON1.DAT                Hi-Res Cone  1 x 0.25
+   1-4CON16.DAT               Hi-Res Cone 16 x 0.25
+   1-4CON2.DAT                Hi-Res Cone  2 x 0.25
+   1-4CON21.DAT               Hi-Res Cone 21 x 0.25
+   1-4CON23.DAT               Hi-Res Cone 23 x 0.25
+   1-4CON3.DAT                Hi-Res Cone  3 x 0.25
+   1-4CON41.DAT               Hi-Res Cone 41 x 0.25
+   1-4CON5.DAT                Hi-Res Cone  5 x 0.25
+   1-4CON52.DAT               Hi-Res Cone 52 x 0.25
+   1-4RIN10.DAT               Hi-Res Ring 10 x 0.25
+   1-4RIN14.DAT               Hi-Res Ring 14 x 0.25
+   1-4RIN19.DAT               Hi-Res Ring 19 x 0.25
+   1-4RIN20.DAT               Hi-Res Ring 20 x 0.25
+   1-4RIN38.DAT               Hi-Res Ring 38 x 0.25
+   1-4RIN39.DAT               Hi-Res Ring 39 x 0.25
+   1-4RING2.DAT               Hi-Res Ring  2 x 0.25
+   1-4RING3.DAT               Hi-Res Ring  3 x 0.25
+   1-4RING4.DAT               Hi-Res Ring  4 x 0.25
+   1-4RING5.DAT               Hi-Res Ring  5 x 0.25
+   1-4RING6.DAT               Hi-Res Ring  6 x 0.25
+   1-4RING7.DAT               Hi-Res Ring  7 x 0.25
+   1-4RING9.DAT               Hi-Res Ring  9 x 0.25
+   1-6CYLI.DAT                Hi-Res Cylinder 0.1667
+   1-8NDIS.DAT                Hi-Res Disc Negative 0.125
+   1-8RING9.DAT               Hi-Res Ring  9 x 0.125
+   1-8SPHE.DAT                Hi-Res Sphere 0.125
+   2-4RIN31.DAT               Hi-Res Ring 31 x 0.5
+   2-4RING3.DAT               Hi-Res Ring  3 x 0.5
+   3-16CYLI.DAT               Hi-Res Cylinder 0.1875
+   3-16NDIS.DAT               Hi-Res Disc Negative 0.1875
+   3-4EDGE.DAT                Hi-Res Circle 0.75
+   4-4CON1.DAT                Hi-Res Cone  1 x 1.0
+   4-4CON2.DAT                Hi-Res Cone  2 x 1.0
+   4-4CYLI.DAT                Hi-Res Cylinder 1.0
+   4-4DISC.DAT                Hi-Res Disc 1.0
+   4-4NDIS.DAT                Hi-Res Disc Negative 1.0
+   4-4RIN11.DAT               Hi-Res Ring 11 x 1.0
+   4-4RIN12.DAT               Hi-Res Ring 12 x 1.0
+   4-4RIN13.DAT               Hi-Res Ring 13 x 1.0
+   4-4RIN16.DAT               Hi-Res Ring 16 x 1.0
+   4-4RIN19.DAT               Hi-Res Ring 19 x 1.0
+   4-4RIN37.DAT               Hi-Res Ring 37 x 1.0
+   4-4RING1.DAT               Hi-Res Ring  1 x 1.0
+   4-4RING2.DAT               Hi-Res Ring  2 x 1.0
+   4-4RING3.DAT               Hi-Res Ring  3 x 1.0
+   4-4RING4.DAT               Hi-Res Ring  4 x 1.0
+   4-4RING7.DAT               Hi-Res Ring  7 x 1.0
+   4-8SPHE.DAT                Hi-Res Sphere 0.5
+   TYPESTN0.DAT               Type Stencil Number 0
+   TYPESTN5.DAT               Type Stencil Number 5
+   TYPESTUA.DAT               Type Stencil Upper Case A
+   TYPESTUB.DAT               Type Stencil Upper Case B
+   TYPESTUD.DAT               Type Stencil Upper Case D
+   TYPESTUE.DAT               Type Stencil Upper Case E
+   TYPESTUF.DAT               Type Stencil Upper Case F
+   TYPESTUH.DAT               Type Stencil Upper Case H
+   TYPESTUI.DAT               Type Stencil Upper Case I
+   TYPESTUK.DAT               Type Stencil Upper Case K
+   TYPESTUL.DAT               Type Stencil Upper Case L
+   TYPESTUM.DAT               Type Stencil Upper Case M
+   TYPESTUN.DAT               Type Stencil Upper Case N
+   TYPESTUO.DAT               Type Stencil Upper Case O
+   TYPESTUR.DAT               Type Stencil Upper Case R
+   TYPESTUS.DAT               Type Stencil Upper Case S
+   TYPESTUT.DAT               Type Stencil Upper Case T
+   TYPESTUV.DAT               Type Stencil Upper Case V
+   TYPESTUW.DAT               Type Stencil Upper Case W
+   TYPESTUY.DAT               Type Stencil Upper Case Y
+   2431P79.DAT                Tile  1 x  4 with 5 Red Stripes Pattern
+   2577.DAT                   Brick  4 x  4 Corner Round
+   30208.DAT                  Hemisphere  4 x  4 Multifaceted
+   3626BP7A.DAT               Minifig Head with Brown Hair over Eye and Black Eyebrows Pattern
+   3626BPS3.DAT               Minifig Head with SW Small Black Eyebrows Pattern
+   3626BPS5.DAT               Minifig Head with SW Smirk and Brown Eyebrows Pattern
+   3626BPS9.DAT               Minifig Head with SW Brown Eyebrows and Beard Pattern
+   3626BPSE.DAT               Minifig Head with SW Scout Trooper Black Visor Pattern
+   3673.DAT                   Technic Pin
+   3840.DAT                   Minifig Vest
+   4150PS5.DAT                Tile  2 x  2 Round with SW Imperial Pattern
+   4150PS8.DAT                Tile  2 x  2 Round with Grey and Black Machinery Pattern
+   4854.DAT                   Slope Brick 45  4 x  4 Double Inverted with Open Center
+   4871.DAT                   Slope Brick 45  4 x  2 Double Inverted with Open Center
+   6157.DAT                   Plate  2 x  2 with Wheels Holder Wide
+   973P37.DAT                 ~Minifig Torso with Imperial Guard Officer Pattern, Obsolete
+   973P3F.DAT                 Minifig Torso with Striped Shirt and Silver Buttons Pattern
+   973P41.DAT                 Minifig Torso with Castle Chainmail Pattern
+   973P43.DAT                 Minifig Torso with Black Falcon Pattern
+   973P62.DAT                 Minifig Torso with Silver Ice Planet Pattern
+   973P66.DAT                 Minifig Torso with Spyrius Pattern
+   973P6U.DAT                 Minifig Torso with UFO Alien Triangular Insignia Pattern
+   973P73.DAT                 Minifig Torso with Vest with Patch Pockets Pattern
+   973P7H.DAT                 Minifig Torso with Jacket, Pink Shirt, Ring on Necklace Pattern
+   973P82.DAT                 Minifig Torso with Red Vest and Train Logo Pattern
+   973P86.DAT                 Minifig Torso with Stethoscope and Pocket with Pens Pattern
+   973P8B.DAT                 Minifig Torso with RES-Q Orange Pockets and Logo Pattern
+   973PA8.DAT                 Minifig Torso with Jacket, White Shirt, and Necklace Pattern
+   973PA9.DAT                 Minifig Torso with Leather Jacket and Light Gray Shirt Pattern
+   973PR3.DAT                 Minifig Torso with SW Layered Shirt, Brown Belt Pattern
+   973PS1.DAT                 Minifig Torso with SW Rebel Pilot Pattern
+   973PSH.DAT                 Minifig Torso with SW Hoth Trooper Pattern
+   973PSM.DAT                 Minifig Torso with SW Camouflage Smock Pattern
+   973PSY.DAT                 Minifig Torso w/ SW Loose Dress Light Bluish Grey Folds Pattern
+   973PW6.DAT                 Minifig Torso with White Braces and Cartridge Belt Pattern
+   30208-1.DAT                ~Hemisphere  4 x  4 Multifaceted Subpart
+   3069BS18.DAT               ~Pattern Thin Black "POLICE"
+   4150S01.DAT                ~Tile  2 x  2 Round without Top Face

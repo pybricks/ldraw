@@ -1,12 +1,12 @@
 0 Brick  1 x  6 without Center Studs with Black "STORE" Pattern
 0 Name: 3067pt3.dat
-0 Author: Tore Eriksson [simlego]
+0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2009-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2006-06-21 [simlego] Fixed bad vertex sequence
+0 !HISTORY 2006-06-21 [Tore_Eriksson] Fixed bad vertex sequence
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
 0 // Line Thickness: 2.1 LDU

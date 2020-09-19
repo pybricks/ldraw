@@ -4,7 +4,7 @@
 0 !LDRAW_ORG Part UPDATE 2002-05
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 !HISTORY 1998-01-11 [simlego] Secondary author
+0 !HISTORY 1998-01-11 [Tore_Eriksson] Secondary author
 0 !HISTORY 1998-01-12 [PTadmin] Official Update 1998-01
 0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
 0 !HISTORY 2001-02-09 [cwdee] Corrected type 5 line, non-planar quads, vertex sequences, and added intersect lines between wrist and hand.
