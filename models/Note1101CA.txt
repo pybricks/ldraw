@@ -1,0 +1,220 @@
+LDraw.org Parts Update 2011-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Mon Jul 25 08:03:40 2011 by the Parts Tracker.
+
+Release statistics:
+   Total files: 904
+   New files: 798
+   New parts: 486
+   New subparts: 166
+   New primitives: 99
+   New hi-res primitives: 47
+
+New 3-digit part numbers assigned:
+   243.dat ~Train Wheel Spoked with Straight Hub
+   277.dat Wheelbarrow Wheels with Red Axle
+   280.dat Train Base  6 x 22 Type 2 with Buffers
+   285.dat Train Base  6 x 16 Type 2
+   290.dat Magnet Holder for Train Base  6 x 22 Type 1
+   429.dat ~Train Brick  2 x  4 Holder for Sliding Wheel Brick Top Type 2
+   430.dat ~Train Brick  2 x  4 Holder Bottom Solid
+   433.dat ~Train Brick  2 x  4 Holder for Sliding Wheel Brick Top Type 1
+   511.dat Electric Train 12V Track Contact Base
+   539.dat Tyre for Wheel 41mm Znap
+   560.dat ~Electric  4.5V Battery Box  7 x 11 x  3 Type 1 Lid
+   561.dat ~Electric  4.5V Battery Box  7 x 11 x  3 Type 1 Base
+   563.dat ~Electric  4.5V Battery Box  7 x 11 Switch Lever
+   567.dat ~Electric Plug (Type 2) Twin
+   568.dat ~Train Wheel Conical with Spokes
+   593.dat ~Electric  4.5V Battery Box  7 x 11 x  3 Type 2 Base
+   921.dat ~Electric  9V Battery Box with Pegholes Lid
+   922.dat ~Electric  9V Battery Box with Pegholes Switch
+   923.dat ~Electric  9V Battery Box with Pegholes Case
+   935.dat ~Electric Mindstorms NXT USB Type B Socket
+   942.dat ~Direction Lever for Train Battery Box Car
+   957.dat Umbrella Stand with Round Base
+   995.dat ~Train Wheel Large with Pin Axle Hole
+   996.dat ~Train Wheel Small with Pin Axle Hole
+
+Moved Parts
+   STUG2.DAT     ~Moved to stug-2x2
+   STUG2A.DAT    ~Moved to stug2-2x2
+   STUG3.DAT     ~Moved to stug-3x3
+   STUG4.DAT     ~Moved to stug-4x4
+   STUG4A.DAT    ~Moved to stug2-4x4
+   STUG5.DAT     ~Moved to stug-5x5
+   STUG6.DAT     ~Moved to stug-6x6
+   STUG7.DAT     ~Moved to stug-7x7
+   STUG8.DAT     ~Moved to stug-8x8
+   STUG9.DAT     ~Moved to stug-9x9
+   132-OLD.DAT   ~Moved to u9131
+   203.DAT       ~Moved to 32474
+   251.DAT       ~Moved to 4508
+   2871.DAT      ~Moved to 2871a
+   2958.DAT      ~Moved to 2723
+   3596C90.DAT   ~Moved to 3596d23
+   4180.DAT      ~Moved to 4180c02
+   4180B.DAT     ~Moved to 4179
+   4180D.DAT     ~Moved to x996
+   43822A.DAT    ~Moved to 4174735a
+   4518.DAT      ~Moved to 4518a
+   4617.DAT      ~Moved to 4617b
+   551PS1.DAT    ~Moved to 32086ps1
+   590.DAT       ~Moved to 2894c01
+   601.DAT       ~Moved to 6237
+   6246C.DAT     ~Moved to 55297
+   71405A.DAT    ~Moved to 4106332a
+   71405B.DAT    ~Moved to 4106332b
+   71472.DAT     ~Moved to 4106981a
+   72602.DAT     ~Moved to 4119430a
+   970C36.DAT    ~Moved to 3815c36
+   970CHB.DAT    ~Moved to 3815chb
+   970PHB.DAT    ~Moved to 3815phb
+   971PHB.DAT    ~Moved to 3816phb
+   972PHB.DAT    ~Moved to 3817phb
+   S1.DAT        ~Moved to 192425a
+   U517.DAT      ~Moved to 4238
+
+Renamed Parts
+   1-4NDIS.DAT   High-Res Disc Negative 0.25
+   changed to    Hi-Res Disc Negative 0.25
+
+   17.DAT        Minifig Torso Old
+   changed to    Minifig Torso with Integral Arms
+
+   2440P69.DAT   Hinge  6 x  3 Radar/Blade/Spoiler/Panel w/ Yellow Radar Pattern
+   changed to    Hinge  6 x  3 Radar/Blade/Spoiler/Panel with Radar Pattern
+
+   2856.DAT      Technic Turntable Base
+   changed to    Technic Turntable Type 1 Bottom
+
+   2923.DAT      Hinge Bar  2 & 1/2 with 2 and 3 Fingers on Ends
+   changed to    Hinge Bar  2.5 with  2 and  3 Fingers on Ends
+
+   2927.DAT      Train Wheel Small
+   changed to    Train Wheel Tiny
+
+   30044.DAT     Window  1 x  2 x  2 & 2/3 with Rounded Top
+   changed to    Window  1 x  2 x  2.667 with Rounded Top
+
+   30046.DAT     Window  1 x  2 x  2 & 2/3 Pane Lattice Diamond with Rounded Top
+   changed to    Window  1 x  2 x  2.667 Pane Lattice Diamond with Rounded Top
+
+   3005PUA.DAT   Brick  1 x  1 with Blue "AE Diphthong" Pattern
+   changed to    Brick  1 x  1 with Blue "Æ" (AE Diphthong) Pattern
+
+   3005PUE.DAT   Brick  1 x  1 with Blue O Dieresis Pattern
+   changed to    Brick  1 x  1 with Blue "Ö" (O Dieresis) Pattern
+
+   3005PWC.DAT   Brick  1 x  1 with Lightblue A Ring Pattern
+   changed to    Brick  1 x  1 with Lightblue "Å" (A Ring) Pattern
+
+   3005PWD.DAT   Brick  1 x  1 with Lightblue A Dieresis Pattern
+   changed to    Brick  1 x  1 with Lightblue "Ä" (A Dieresis) Pattern
+
+   3005PWE.DAT   Brick  1 x  1 with Lightblue O Dieresis Pattern
+   changed to    Brick  1 x  1 with Lightblue "Ö" (O Dieresis) Pattern
+
+   3005PWF.DAT   Brick  1 x  1 with Lightblue U Dieresis Pattern
+   changed to    Brick  1 x  1 with Lightblue "Ü" (U Dieresis) Pattern
+
+   3185.DAT      Fence  1 x  4 x  2
+   changed to    Fence Lattice  1 x  4 x  2
+
+   3298P54.DAT   Slope Brick 33  3 x  2 with Number 1 Pattern
+   changed to    Slope Brick 33  3 x  2 with Red "1" and Black Stripes Pattern
+
+   3298P55.DAT   Slope Brick 33  3 x  2 with Number 2 Pattern
+   changed to    Slope Brick 33  3 x  2 with White "2" and Stripes Pattern
+
+   3298P56.DAT   Slope Brick 33  3 x  2 with Number 3 Pattern
+   changed to    Slope Brick 33  3 x  2 with White "3" and Stripes Pattern
+
+   40243.DAT     Staircase Spiral Riser (Needs work)
+   changed to    Staircase Spiral Riser
+
+   4150PS3.DAT   Tile  2 x  2 Round with SW Dejarik Hologame Board Pattern
+   changed to    Tile  2 x  2 Round with Star Wars Dejarik Hologame Board Pattern
+
+   4150PS4.DAT   Tile  2 x  2 Round with SW Millennium Falcon Vent Pattern
+   changed to    Tile  2 x  2 Round with Star Wars Millennium Falcon Vent Pattern
+
+   4180A.DAT     ~Train Wheels Base
+   changed to    ~Brick  2 x  4 for Train Wheels Base
+
+   4608.DAT      Window  2 x  4 x  5 (needs work)
+   changed to    Window  2 x  4 x  5
+
+   6066.DAT      Castle Turret Top  4 x  8 x  2 & 1/3
+   changed to    Brick  4 x  8 x  2.333 Turret Top
+
+   6236.DAT      Freestyle Window  2 x  6 x  6 Frame
+   changed to    Panel  2 x  6 x  6 with Window Hole
+
+   6237.DAT      ~Moved to 601
+   changed to    Window  1 x  3 x  4 Pane Freestyle
+
+   6248.DAT      Wheel Freestyle
+   changed to    Wheel Basic with 4 Studs and Technic Peghole
+
+   973P6U.DAT    Minifig Torso UFO Alien Triangular Insignia Pattern
+   changed to    Minifig Torso with UFO Alien Triangular Insignia Pattern
+
+   973P6V.DAT    Minifig Torso UFO Alien Yellow Insignia and 3 Blue Bars Pattern
+   changed to    Minifig Torso with UFO Alien Insignia and 3 Blue Bars Pattern
+
+   973P6W.DAT    Minifig Torso UFO Alien Circuitry with Red Lever Pattern
+   changed to    Minifig Torso with UFO Alien Circuitry and Red Lever Pattern
+
+   973P6X.DAT    Minifig Torso UFO Silver and Gold Circuitry Pattern
+   changed to    Minifig Torso with UFO Alien Silver and Gold Circuitry Pattern
+
+   2440S01.DAT   ~Hinge  6 x  3 Radar/Blade/Spoiler/Panel
+   changed to    ~Hinge  6 x  3 Radar/Blade/Spoiler/Panel without Front Surface
+
+   970P63A.DAT   ~Minifig Hips with Robot Pattern - Silver Colour
+   changed to    ~Minifig Hips with Robot Pattern - Silver (Obsolete)
+
+   U9107P06C02.DA_Figure Fabuland Raccoon 3 Body Red/Red/Black Black Dungarees
+   changed to    _Figure Fabuland Raccoon  3 Body Red/Red/Black Black Dungarees
+
+Other Fixed Parts
+   BEAMHOL2.DAT  Technic Beam Hole 0.5 with Adjacent Hole Negative
+   H1.DAT        Hinge Plate 2 Fingers
+   H2.DAT        Hinge Plate 3 Fingers
+   T04O2000.DAT  Torus Outside  1 x 0.2000 x 0.25
+   2440.DAT      Hinge  6 x  3 Radar/Blade/Spoiler/Panel
+   2450.DAT      Plate  3 x  3 without Corner
+   2513.DAT      Car Mudguard  3 x  4
+   2552.DAT      Baseplate 32 x 32 Raised with Ramp and Pit
+   2635.DAT      Support Crane Stand Double
+   2917.DAT      Train Front Sloping Top
+   3009P18.DAT   Brick  1 x  6 with Thin Black "POLICE" Pattern
+   3010P09.DAT   Brick  1 x  4 with Basic Car Taillights Pattern
+   30249.DAT     Slope Brick 55  1 x  6 x  5
+   3069BP54.DAT  Tile  1 x  2 with UFO Controls Pattern
+   3741.DAT      Plant Flower Stem
+   3816PDE.DAT   Minifig Leg Right with Laboratory Smock Pattern
+   3817PDE.DAT   Minifig Leg Left with Laboratory Smock Pattern
+   3834.DAT      Minifig Fire Helmet
+   4006.DAT      Minifig Tool Spanner/Screwdriver
+   4150P02.DAT   Tile  2 x  2 Round with Pizza Pattern
+   4628.DAT      Jack Handle
+   4742.DAT      Cone  4 x  4 x  2 Hollow No Studs
+   47543.DAT     Cone  8 x  4 x  6 Half
+   6027.DAT      Animal Dragon Head
+   6127.DAT      Animal Dragon Arm Right
+   6128.DAT      Animal Dragon Arm Left
+   973PS1.DAT    Minifig Torso with SW Rebel Pilot Pattern
+   2490S01.DAT   ~Animal Horse Barding without Side Faces
+   3846P44C.DAT  ~Minifig Shield with Wolfpack Pattern - Border
+   551S01.DAT    ~Windscreen  6 x  8 x  3 without Printable Surfaces
+   918S01.DAT    ~Electric Battery Box Lid without Face
+   U9107P02C02.DA_Figure Fabuland Bear  2 with Body White/Black/Black
+   U9107P04C02.DA_Figure Fabuland Raccoon  1 with Body Black/Yellow/Blue
+   U9107P04C03.DA_Figure Fabuland Raccoon  1 with Body White/Yellow/Black
+   U9107P05C02.DA_Figure Fabuland Raccoon  2 with Body Red/Red/Black
