@@ -1,0 +1,305 @@
+LDraw.org Parts Update 2009-03
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Tue Dec 29 06:45:32 2009 by the Parts Tracker.
+
+Release statistics:
+   Total files: 561
+   New files: 400
+   New parts: 269
+   New subparts: 52
+   New primitives: 47
+   New hi-res primitives: 32
+
+New 3-digit part numbers assigned:
+   127.dat ~Technic Pneumatic Cylinder 2 x 2 x 3.5
+   128.dat ~Technic Pneumatic Cylinder 2 x 2 Cap
+   165.dat ~Technic Pneumatic Tube End
+   166.dat ~Technic Pneumatic Tube Segment
+   242.dat ~Wheel Spoked with Stud
+   265.dat ~Electric Lightbrick  2 x  2 Type 1  4.5V Case
+   266.dat ~Electric Lightbrick  2 x  2 Type 1 12V Case
+   267.dat ~Electric Lightbrick  2 x  2 Type 1 Insert
+   322.dat ~Electric Lightbrick  2 x  4
+   323.dat Electric Light Bulb for Electric Light Brick  2 x  4
+   335.dat ~Technic Pneumatic Cylinder 2 x 2 x 5
+   336.dat ~Technic Pneumatic Cylinder 2 x 2 Piston Rod 5.5L
+   337.dat ~Technic Pneumatic Cylinder 2 x 2 Piston Rod 4L
+   389.dat Technic Brick  1 x  2 with Hole and Thin Top
+   457.dat Maxifig Tool Oar
+   510.dat Trailer Base  4 x 16 x  1
+   716.dat Brick  2 x  4 Half Round with Cutouts
+   783.dat Flag on Flagpole Type 3
+   786.dat Flag on Flagpole Type 4
+   887.dat ~Minifig Compass Base
+   888.dat ~Minifig Compass Cover
+   889.dat ~Minifig Compass Dial
+   988.dat Electric Train 12V Signal Light Brick  2 x  3
+   990.dat Electric Train 12V Flashing-Light Circuit
+
+Moved Parts
+   167.DAT       ~Moved to 6190
+   194.DAT       ~Moved to 4210a
+   2493.DAT      ~Moved to 2493b
+   2790.DAT      ~Moved to 2791a
+   2880.DAT      ~Moved to 2923
+   2881.DAT      ~Moved to 2922a
+   3009P18B.DAT  ~Moved to 3009p18
+   3044.DAT      ~Moved to 3044b
+   3049.DAT      ~Moved to 3049b
+   3069BPS2.DAT  ~Moved to 3069bps6
+   3069P12.DAT   ~Moved to 3069bp12
+   3069P30.DAT   ~Moved to 3069bp50
+   3069P52.DAT   ~Moved to 3069bp52
+   32064.DAT     ~Moved to 32064a
+   32136.DAT     ~Moved to 32138
+   4092.DAT      ~Moved to 4092a
+   43P01.DAT     ~Moved to 2525p31
+   470P01.DAT    ~Moved to 30258p01
+   4716B.DAT     ~Moved to s\4716s01
+   600.DAT       ~Moved to 6234
+   6540.DAT      ~Moved to 6540a
+   71075.DAT     ~Moved to 71076a
+   742.DAT       ~Moved to 642
+   743.DAT       ~Moved to 643
+   744.DAT       ~Moved to 644
+   971.DAT       ~Moved to 3816
+   972.DAT       ~Moved to 3817
+   981.DAT       ~Moved to 3819
+   982.DAT       ~Moved to 3818
+   983.DAT       ~Moved to 3820
+   FLOWERS.DAT   ~Moved to 3741c01
+   470S01.DAT    ~Moved to s\30258s01
+   892S01.DAT    ~Moved to s\30259s01
+   971S01.DAT    ~Moved to s\3816s01
+   972S01.DAT    ~Moved to s\3817s01
+
+Renamed Parts
+   4-4CON0.DAT   
+   changed to    Cone  0 x 1.0
+
+   2483.DAT      Windscreen  4 x  4 x  3 & 2/3 Helicopter
+   changed to    Windscreen  4 x  4 x  3.667 Helicopter
+
+   2526.DAT      Minifig Accessory Epaulette
+   changed to    Minifig Epaulette
+
+   2587.DAT      Minifig Accessory Armor Plate
+   changed to    Minifig Armour Plate
+
+   2775.DAT      ~Electric Plug Double Wide
+   changed to    ~Electric Plug (Type 4) Twin Extra-Wide
+
+   2855.DAT      Technic Turntable Top
+   changed to    Technic Turntable Type 1 Top
+
+   2875.DAT      Slope Brick 45  2 x  6 x  2/3
+   changed to    Slope Brick 45  2 x  6 x  0.667
+
+   2905.DAT      Technic  5 x  3 x  0.5 Liftarm Triangle
+   changed to    Technic Beam  5 x  3 x  0.5 Liftarm Triangle
+
+   2920.DAT      Train Coupling New
+   changed to    Train Coupling Type 2
+
+   30145P01.DAT  Brick  2 x  2 x  3 with White Stripe Pattern
+   changed to    Brick  2 x  2 x  3 with 4 White Stripes Pattern
+
+   30277.DAT     Car Base  2 x  8 x  1 1/3
+   changed to    Car Base  2 x  8 x  1.333
+
+   30303.DAT     Plate  6 x  6 x  2/3 Cross with Dome
+   changed to    Plate  6 x  6 x  0.667 Cross with Dome
+
+   3068BP05.DAT  Tile  2 x  2 with White Arrow on Blue Disc Pattern
+   changed to    Tile  2 x  2 with Diagonal Arrow on Blue Disc Pattern
+
+   3068BP17.DAT  Tile  2 x  2 Grooved with Black Circle Pattern
+   changed to    Tile  2 x  2 with Groove and Black Circle Pattern
+
+   3068BP81.DAT  Tile  2 x  2 with Number 1 Pattern
+   changed to    Tile  2 x  2 with Black "1" Pattern
+
+   3068BP87.DAT  Tile  2 x  2 with Number 7 Pattern
+   changed to    Tile  2 x  2 with Black "7" Pattern
+
+   3069BP06.DAT  Tile  1 x  2 with Long Yellow Arrow with Black Border Pattern
+   changed to    Tile  1 x  2 with Arrow Long Yellow with Black Border Pattern
+
+   3069BP07.DAT  Tile  1 x  2 with Long Red Arrow with White Border Pattern
+   changed to    Tile  1 x  2 with Arrow Long DkRed with Silver Border Pattern
+
+   3069BPC1.DAT  Tile  1 x  2 with Rock Raiders Vehicle Control Pattern
+   changed to    Tile  1 x  2 with Yellow Buttons and Knob Controls Pattern
+
+   3069BPS5.DAT  Tile 1 x 2 with SW Left Mini X-Wing Pattern
+   changed to    Tile  1 x  2 with SW Left Mini X-Wing Pattern
+
+   3070BP01.DAT  Tile  1 x  1 with "1" Pattern
+   changed to    Tile  1 x  1 with Black "1" Pattern
+
+   3070BP02.DAT  Tile  1 x  1 with "2" Pattern
+   changed to    Tile  1 x  1 with Black "2" Pattern
+
+   3070BP05.DAT  Tile  1 x  1 with "60" Pattern
+   changed to    Tile  1 x  1 with White "60" Pattern
+
+   3070BP08.DAT  Tile  1 x  1 with Bold Black "3" Pattern
+   changed to    Tile  1 x  1 with Black Bold "3" Pattern
+
+   313.DAT       Hinge Plate  2 x  5 Pivot
+   changed to    ~Hinge Plate  2 x  5 Pivot
+
+   32068.DAT     Technic Axle Joiner Perpendicular 3 Long
+   changed to    Technic Cross Block 1 x 3 (Axle/None/Pin)
+
+   32184.DAT     Technic Axle Joiner Perpendicular  3L
+   changed to    Technic Cross Block 1 x 3 (Axle/Pin/Axle)
+
+   32557.DAT     Technic Pin Joiner Dual Perpendicular
+   changed to    Technic Cross Block 2 x 3 (Pin/Pin/Twin Pin)
+
+   3596.DAT      Flag on Flagpole
+   changed to    Flag on Flagpole Type 5
+
+   3838.DAT      Minifig Airtanks (needs work)
+   changed to    Minifig Airtanks
+
+   4023.DAT      Train Coupling
+   changed to    Train Coupling Type 1
+
+   42003.DAT     Technic Axle Joiner Perpendicular with 2 Holes
+   changed to    Technic Cross Block 1 x 3 (Axle/Pin/Pin)
+
+   4716.DAT      Technic Worm Screw
+   changed to    Technic Worm Gear
+
+   4761.DAT      Electric 9V Battery Box Small Lid (needs work)
+   changed to    Electric 9V Battery Box  4 x  8 x  2 1/3 Lid
+
+   522.DAT       Minifig Accessory Cape Cloth
+   changed to    Minifig Cape Cloth
+
+   53451.DAT     Minifig Accessory Helmet Viking Horn
+   changed to    Minifig Helmet Viking Horn
+
+   6104.DAT      Wing  8 x  8 with 3 x  4 Cutout
+   changed to    Wing  8 x  8 with  3 x  4 Cutout
+
+   6152.DAT      Windscreen  6 x  4 x  1 & 1\3 (Airplane)
+   changed to    Windscreen  6 x  4 x  1.333 Airplane
+
+   6536.DAT      Technic Axle Joiner Perpendicular
+   changed to    Technic Cross Block 1 x 2 (Axle/Pin)
+
+   683.DAT       ~Fabuland Wheel Type 2
+   changed to    ~Wheel Fabuland Type 2
+
+   715.DAT       Wheel Old with 12 Studs
+   changed to    Wheel with 12 Studs
+
+   792.DAT       Arm Holder Brick  2 x  2 Lower
+   changed to    ~Brick  2 x  2 Arm Holder Lower Part
+
+   793.DAT       Arm Holder Brick  2 x  2 Upper with Hole
+   changed to    ~Brick  2 x  2 Arm Holder Upper Part with Hole
+
+   794.DAT       Arm Holder Brick  2 x  2 Upper without Hole
+   changed to    ~Brick  2 x  2 Arm Holder Upper Part without Hole
+
+   30363S01.DAT  ~Slope Brick 18  4 x  2 without Front Face
+   changed to    ~Slope Brick 18  4 x  2 without Top Face
+
+   3069P06A.DAT  ~Tile  1 x  2 with Long Arrow Pattern (Mask)
+   changed to    ~Tile  1 x  2 with Arrow Long Pattern (Mask)
+
+   3069P06B.DAT  ~Tile  1 x  2 with Long Arrow Pattern (Border)
+   changed to    ~Tile  1 x  2 with Arrow Long Pattern (Border)
+
+   3069P06C.DAT  ~Tile  1 x  2 with Long Arrow Pattern (Arrow)
+   changed to    ~Tile  1 x  2 with Arrow Long Pattern (Arrow)
+
+   973P48A.DAT   ~Minifig Torso with Forestman Collar Pattern - Collar 
+   changed to    ~Minifig Torso with Forestman Collar Pattern - Front w/o Collar
+
+Other Fixed Parts
+   T04OUNIT.DAT  Torus Outside  1 x 1 x 0.25
+   2341.DAT      Slope Brick 45  3 x  1 Inverted Double
+   2376.DAT      Tile  2 x  2 Round with Lifting Ring
+   2413.DAT      Wing  4 x  9
+   2431P02.DAT   Tile  1 x  4 with Danger Stripes Red Pattern
+   2431P52.DAT   Tile  1 x  4 with Danger Stripes Black Pattern
+   2431P79.DAT   Tile  1 x  4 with 5 Red Stripes Pattern
+   2466P68.DAT   Panel  3 x  2 x  6 with MTron Logo Pattern
+   2474.DAT      Car Wash Brush Axle
+   2518.DAT      Plant Tree Palm Leaf Large
+   2819.DAT      Technic Steering Wheel Small
+   2876.DAT      Train Roof  6 x  6 Double Slope 45 / Slope 33
+   2926.DAT      Plate  1 x  4 with Wheels Holder
+   2972.DAT      Train Base  6 x 34 Split-Level
+   30043.DAT     Plate  1 x  4 with Arm
+   30095.DAT     Bar  7 x  3 with Quadruple Clips
+   30145.DAT     Brick  2 x  2 x  3
+   30145P02.DAT  Brick  2 x  2 x  3 with Green Dots Pattern
+   30283.DAT     Slope Brick 45  6 x  4 Double Inverted with Open Center
+   30355.DAT     Wing  6 x 12 Left
+   30356.DAT     Wing  6 x 12 Right
+   30390.DAT     Slope Brick 45  4 x  2 Double Inverted with Pins
+   3068BP04.DAT  Tile  2 x  2 with Yellow "4" and Stripes Pattern
+   3068BP07.DAT  Tile  2 x  2 with Black Grille Pattern
+   3068BP08.DAT  Tile  2 x  2 with Yellow Arrow with Black Border Pattern
+   3068BP18.DAT  Tile  2 x  2 with Black Arrow Pattern
+   3068BP52.DAT  Tile  2 x  2 with Red Cross Pattern
+   3068BPS3.DAT  Tile  2 x  2 with SW Orange and White Pattern
+   3069BP01.DAT  Tile  1 x  2 with Letter Pattern
+   3069BP05.DAT  Tile  1 x  2 with Black Grille Pattern
+   3069BP25.DAT  Tile  1 x  2 with Computer Pattern
+   3069BP61.DAT  Tile  1 x  2 with Ice Planet Control Panel Pattern
+   3069BP68.DAT  Tile  1 x  2 with Red & Yellow Controls Pattern
+   3069BPA2.DAT  Tile  1 x  2 with Stingray Control Panel Pattern
+   3069BPS1.DAT  Tile  1 x  2 with SW Computer Pattern
+   3070BP03.DAT  Tile  1 x  1 with Black "3" Pattern
+   3070BP04.DAT  Tile  1 x  1 with Black "4" Pattern
+   3070BP07.DAT  Tile  1 x  1 with Dial Pattern
+   3070BPS1.DAT  Tile  1 x  1 With SW Mini Snowspeeder Pattern
+   32083.DAT     Slope Brick 45  6 x  4 Double
+   32269.DAT     Technic Gear 20 Tooth Double Bevel
+   3297.DAT      Slope Brick 33  3 x  4
+   3317.DAT      Brick  1 x  2 with Digger Bucket Arm Holder
+   3461.DAT      Propellor  4 Blade  5 Diameter with Rotor Holder
+   3474.DAT      Wing  4 x  8 Tail
+   3856.DAT      Window  1 x  2 x  3 Shutter
+   3901.DAT      Minifig Hair Male
+   4022.DAT      Train Buffer Beam
+   4035.DAT      Train Window  1 x  2 x  3
+   4150P04.DAT   Tile  2 x  2 Round with Yellow Arrow with Black Border Pattern
+   4150PS1.DAT   Tile  2 x  2 Round with SW Red & Black Vent Pattern
+   4150PS6.DAT   Tile  2 x  2 Round with SW Galactic Republic Pattern
+   4488.DAT      Plate  2 x  2 with Wheel Holder
+   4495.DAT      Flag  4 x  1
+   4844.DAT      Boat Mast Base  4 x  4 x  9
+   4860.DAT      Plate  2 x  2 with Wheels Holder Plane
+   6067.DAT      Boat Mast Base  4 x  4 x  1 & 2/3
+   6178.DAT      Tile  6 x 12 with Studs on Edges
+   6236.DAT      Freestyle Window  2 x  6 x  6 Frame
+   6636.DAT      Tile  1 x  6
+   702.DAT       Brick  4 x  4 Corner
+   767.DAT       Train Track Sleeper Plate  2 x  8 without Cable Grooves
+   777P11.DAT    Flag on Flagpole Type 2 with United Kingdom Pattern
+   777P13.DAT    Flag on Flagpole Type 2 with Switzerland Pattern
+   779.DAT       Tractor Trailer Chassis Hitching Ball
+   799.DAT       Car Steering-Gear Axle
+   818.DAT       Tipper Bucket  2 x  4
+   824.DAT       Train Base  4 x  8 with Wheels Holder
+   968.DAT       Trailer Base  4 x 14 x  1
+   973P2E.DAT    Minifig Torso with Blue and Mint Green Stripes Pattern
+   973P48.DAT    Minifig Torso with Forestman Maroon Collar Pattern
+   973P49.DAT    Minifig Torso with Forestman Blue Collar Pattern
+   973P50.DAT    Minifig Torso with Forestman Black Collar Pattern
+   3297S01.DAT   ~Slope Brick 33  3 x  4 without Top Face
+   3960S01.DAT   ~Dish  4 x  4 Inverted without Top Face
+   4150S01.DAT   ~Tile  2 x  2 Round without Top Face
+   777S02.DAT    ~Flag on Flagpole Type 2 without Faces

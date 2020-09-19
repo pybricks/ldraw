@@ -1,7 +1,7 @@
-0 Minifig Accessory Helmet Viking Horn
+0 Minifig Helmet Viking Horn
 0 Name: 53451.dat
 0 Author: Andreas Weissenburg [grubaluk]
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2009-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 
 0 !HISTORY 2007-11-03 [mikeheide] added optional lines
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2009-12-07 [cwdee] Correct description
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 1 16 0 0 0 0 0 -2.5 -2.5 0 0 0 1 0 4-4ring1.dat
 1 16 0 0 0 0 0 -5 -5 0 0 0 1 0 4-4edge.dat

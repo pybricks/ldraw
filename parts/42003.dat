@@ -1,13 +1,15 @@
-0 Technic Axle Joiner Perpendicular with 2 Holes
+0 Technic Cross Block 1 x 3 (Axle/Pin/Pin)
 0 Name: 42003.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Part UPDATE 2009-01
+0 !LDRAW_ORG Part UPDATE 2009-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2005-11-20 [guyvivan] Deleted bad edges and use new primitive beamhole.dat
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2009-10-08 [cwdee] Aligned description with other similar parts
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 1 16 0 -20 0 0 0 1 0 1 0 -1 0 0 bush0.dat
 1 16 10 -20 0 0 1 0 9 0 0 0 0 9 4-4edge.dat
@@ -86,8 +88,8 @@
 1 16 -7 -20 0 0 0.5 0 0 0 1 1 0 0 4-4CON8.DAT
 1 16 -6.5 -20 0 0 0.5 0 0 0 1 1 0 0 4-4con7.dat
 1 16 6.5 -20 0 0 -0.5 0 0 0 1 -1 0 0 4-4con7.dat
-1 16 10 -20 0 0 -1 0 0 0 3 -3 0 0 ring2.dat
-1 16 -10 -20 0 0 1 0 0 0 3 3 0 0 ring2.dat
+1 16 10 -20 0 0 -1 0 0 0 3 -3 0 0 4-4ring2.dat
+1 16 -10 -20 0 0 1 0 0 0 3 3 0 0 4-4ring2.dat
 1 16 0 0 -10 -1 0 0 0 0 1 0 1 0 4-4ring8.dat
 1 16 0 0 10 1 0 0 0 0 1 0 -1 0 4-4ring8.dat
 1 16 0 20 0 1 0 0 0 0 -1 0 -1 0 beamhole.dat

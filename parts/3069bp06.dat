@@ -1,7 +1,7 @@
-0 Tile  1 x  2 with Long Yellow Arrow with Black Border Pattern
+0 Tile  1 x  2 with Arrow Long Yellow with Black Border Pattern
 0 Name: 3069bp06.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2009-01
+0 !LDRAW_ORG Part UPDATE 2009-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -15,6 +15,8 @@
 0 !HISTORY 2008-07-07 [WilliamH] Sub-parted
 0 !HISTORY 2008-12-16 [anathema] Reinstated missing subpart
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2009-08-19 [anathema] Changed description
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069p06a.dat
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\3069p06b.dat

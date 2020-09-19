@@ -1,7 +1,7 @@
 0 Tile  1 x  6
 0 Name: 6636.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2004-04
+0 !LDRAW_ORG Part UPDATE 2009-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,22 +12,9 @@
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-07-18 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [johnny-thunder] subfiled (2006-07-01)
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
-1 16 0 7 0 60 0 0 0 -7 0 0 0 10 box5.dat
-0 BFC INVERTNEXT
-1 16 0 8 0 56 0 0 0 -4 0 0 0 6 box5.dat
-4 16 59 8 9 56 8 6 -56 8 6 -59 8 9
-4 16 -59 8 9 -56 8 6 -56 8 -6 -59 8 -9
-4 16 -59 8 -9 -56 8 -6 56 8 -6 59 8 -9
-4 16 59 8 -9 56 8 -6 56 8 6 59 8 9
-1 16 0 8 0 59 0 0 0 -1 0 0 0 9 box4.dat
-4 16 60 7 10 59 7 9 -59 7 9 -60 7 10
-4 16 -60 7 10 -59 7 9 -59 7 -9 -60 7 -10
-4 16 -60 7 -10 -59 7 -9 59 7 -9 60 7 -10
-4 16 60 7 -10 59 7 -9 59 7 9 60 7 10
-1 16 40 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
-1 16 20 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
-1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
-1 16 -20 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
-1 16 -40 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6636s01.dat
+4 16 60 0 -10 60 0 10 -60 0 10 -60 0 -10
 0

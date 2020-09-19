@@ -1,21 +1,12 @@
-0 Brick  1 x  6 with Thin Black "POLICE" Pattern
+0 ~Moved to 3009p18
 0 Name: 3009p18b.dat
-0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Part UPDATE 2004-03
+0 Author: [PTadmin]
+0 !LDRAW_ORG Part UPDATE 2009-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 BFC CERTIFY CW
+0 BFC CERTIFY CCW
 
-0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
-0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3009s01.dat
-
-1 16 0 12 -10 2.1 0 0 0 0 -1.5 0 2.1 0 s\3069bs18.dat
-
-4 16 -60 0 -10 -35.7 0 -10 -35.7 24 -10 -60 24 -10
-4 16 -35.7 0 -10 35.7 0 -10 35.7 4.5 -10 -35.7 4.5 -10
-4 16 -35.7 19.5 -10 35.7 19.5 -10 35.7 24 -10 -35.7 24 -10
-4 16 35.7 0 -10 60 0 -10 60 24 -10 35.7 24 -10
-0
+0 // Brick  1 x  6 with Thin Black "POLICE" Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3009p18.dat

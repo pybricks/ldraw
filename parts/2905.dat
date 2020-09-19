@@ -1,7 +1,7 @@
-0 Technic  5 x  3 x  0.5 Liftarm Triangle
+0 Technic Beam  5 x  3 x  0.5 Liftarm Triangle
 0 Name: 2905.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2009-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,6 +10,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, use npeghole primitive, Use ring8 and ring2, added optional lines, added 2 missing quads (2004-05-16)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2009-10-16 [cwdee] Update description
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
 1 16 20 -5 0 1 0 0 0 1 0 0 0 1 peghole.dat
 

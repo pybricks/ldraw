@@ -1,15 +1,12 @@
-0 Plant Flowers with Stem Shortcut
+0 ~Moved to 3741c01
 0 Name: flowers.dat
-0 Author: Tore Eriksson [simlego]
-0 !LDRAW_ORG Part UPDATE 2000-01
+0 Author: [PTadmin]
+0 !LDRAW_ORG Part UPDATE 2009-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
-0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
-0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 BFC CERTIFY CCW
 
-1 2  0 -16 0  1 0 0  0 1 0  0 0 1 3741.dat
-1 16 -19.04 -40 -11 -0.5 0.435 -0.865 0 1 0.5 0.865 0.25 -0.5 3742.dat
-1 16 20.78 -44 -12 -0.5 -0.435 0.865 0 1 0.5 -0.865 0.25 -0.5 3742.dat
-1 16 0 -36 20 1 0 0 0 1 0.5 0 -0.5 1 3742.dat
-0
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
+0 // Plant Flower Stem with Three Flowers (Complete)
+ 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3741c01.dat
