@@ -54,3 +54,9 @@ dkms.conf
 mklist/mklist
 lsynth/lsynthcp
 lsynth/1
+
+# MLCAD
+Parts.lst
+parts.lst
+mlcad/*
+!mlcad/README.md
