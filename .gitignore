@@ -50,6 +50,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# Generated binaries
+# Generated binaries / errors
 lsynth/src/lsynthcp
+lsynth/src/1
 mklist/mklist
