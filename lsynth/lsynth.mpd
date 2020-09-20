@@ -1,0 +1,995 @@
+0 FILE LSynth definition file.ldr
+0 LSynth definitions
+0 Name: LSynth.mpd
+0 Author: Kevin L. Clague
+0 !LDRAW_ORG Unofficial Model
+
+0 !VERSION 3.1
+
+0 !HISTORY 2007-03-28 [Willy Tschager] Streamlined stiffness in various definitions, added hose constraints
+0 !HISTORY 2007-03-28 [Don M. Heyse]   Minifig Chain updates.
+0 !HISTORY 2007-04-17 [Don M. Heyse]   Added offset -1Y to PNEUMATIC_HOSE, FLEX_SYSTEM_HOSE end_parts. Added -1Y to RUBBER_HOSE start_part.
+0 !HISTORY 2007-03-28 [Willy Tschager] Tweaked MINIFIG_CHAIN offset. Corrected FIBER_OPTIC_CABLE diameter and end piece. Added comments.
+0 !HISTORY 2007-05-08 [Don M. Heyse]   Shrink FIBER_OPTIC end part.  Tweaked RUBBER and RIBBED hose offsets.
+0 !HISTORY 2007-05-13 [Don M. Heyse]   Allow FIXED end_part in STRETCH hose.  Did FIBER_OPTIC, probably need to do others.
+0 !HISTORY 2007-05-14 [Willy Tschager] Changed FLEX_SYSTEM CABLE end piece and corrected cross section diameter. Rotated RCX ELECTRIC CABLE at 90 degree. Added comments.
+0 !HISTORY 2007-06-02 [Willy Tschager] Changed FLEX_SYSTEM_CABLE end piece lenght.
+0 !HISTORY 2007-06-07 [Willy Tschager] Added STRING_BAND meta. Changed STRING to STRING_HOSE. Set STRING_HOSE stiffness to 10. Added new smaller constraint LS03.dat - speciffically designed for strings.
+0 !HISTORY 2007-06-07 [Willy Tschager] Renamed hose constraints. Added more comments. Changed MINIFIG_CHAIN_17 to MINIFIG_CHAIN_21
+0 !HISTORY 2007-06-20 [Willy Tschager] Changed PLASTIC_TREAD to TECHNIC_LINK_TREAD. Added RUBBER_HOSE_8.5L_WITH_TABS. Added RUBBER_HOSE_8.5L_WITH_TABS. Added more comments.
+0 !HISTORY 2007-06-27 [Willy Tschager] Added Technic Bush to BAND_CONSTRAINTS.ldr. Modified LS00.dat in order that it redirects to LS01.dat (~Moveto).
+0 !HISTORY 2007-07-02 [Willy Tschager] New nomenclatura for meta commands. Moved old meta commands to new section for backwards compatibility.
+0 !HISTORY 2007-10-17 [Willy Tschager] Added TECHNIC_CHAIN_TREAD_38. Renamed TECHNIC_LINK_TREAD to TECHNIC_CHAIN_TREAD.
+0 !HISTORY 2008-02-23 [Willy Tschager] Added BRICK_ARC. Added new constraints. Added ELECTRIC_POWER_FUNCTIONS_CABLE.
+0 !HISTORY 2009-05-06 [Don M. Heyse]   Fixed singular matrix on constraint 57520.dat.
+0 !HISTORY 2009-05-07 [Don M. Heyse]   Fixed constraint offsets on TECHNIC_CHAIN_TREAD_38.
+0 !HISTORY 2009-05-09 [Don M. Heyse]   Fixed constraint offsets on 57520 & 6628.
+0 !HISTORY 2009-05-15 [Willy Tschager] Added LS09.dat - RCX cable constraint
+0 !HISTORY 2009-06-08 [Don M. Heyse]   Added LS209.dat and fixed MINIFIG_CHAIN.
+0 !HISTORY 2009-06-08 [Don M. Heyse]   Reworked FLEXIBLE_HOSE like the MINIFIG_CHAIN.
+0 !HISTORY 2009-06-22 [Willy Tschager] Removed LS209.dat. Added FIBER_OPTICS_CABLE_WIDE and !VERSION 
+0 !HISTORY 2009-10-18 [Willy Tschager] Added STRING_xxL
+0 !HISTORY 2010-01-24 [J.C. Tchang]    Added TECHNIC_CHAIN_LINK_STUD, ELECTRIC_POWER_FUNCTIONS_CABLE_HALF
+0 !HISTORY 2010-02-22 [Willy Tschager] Added HOSE_FLEXIBLE_12L, HOSE_FLEXIBLE_19L, tweaked HOSE_FLEXIBLE_8.5L
+0 !HISTORY 2011-06-04 [Willy Tschager] Substituded 62991.dat with LS71.dat. Substituted 57539a.DAT with LS90.dat and 57539b.DAT with LS91.dat. Tweaked ELECTRIC_NXT_CABLE according to J.C.Tchang's ELECTRIC_NXT_CABLE2 definitions.
+0 !HISTORY 2011-06-05 [Willy Tschager] Substituted TECHNIC_PNEUMATIC_HOSE with TECHNIC_PNEUMATIC_HOSE_BEVELED 
+0 !HISTORY 2011-06-06 [J.C. Tchang]    Added TECHNIC_TREAD_CRAWLER and Wheels for this.
+0 !HISTORY 2016-11-14 [Philo]          Fixed TECHNIC_CHAIN_TREAD_38.
+0 !HISTORY 2018-03-02 [Steffen]        Added ELECTRIC_CABLE
+
+0 // These are the complete parts that LSynth knows about.
+
+0 SYNTH PART 4297187.dat PLI_ELECTRIC_NXT_CABLE_20CM   ELECTRIC_NXT_CABLE
+0 SYNTH PART 4297188.dat PLI_ELECTRIC_NXT_CABLE_35CM   ELECTRIC_NXT_CABLE
+0 SYNTH PART 4297185.dat PLI_ELECTRIC_NXT_CABLE_50CM   ELECTRIC_NXT_CABLE
+0 SYNTH PART 2977C03.dat PLI_ELECTRIC_RCX_ROT_SENSOR   ELECTRIC_RCX_CABLE
+0 SYNTH PART 2982C03.dat PLI_ELECTRIC_RCX_LIGHT_SENSOR ELECTRIC_RCX_CABLE
+0 SYNTH PART 3506C01.dat PLI_ELECTRIC_RCX_CABLE_13CM   ELECTRIC_RCX_CABLE
+0 SYNTH PART 3506C02.dat PLI_ELECTRIC_RCX_CABLE_17CM   ELECTRIC_RCX_CABLE
+0 SYNTH PART 3506C03.dat PLI_ELECTRIC_RCX_CABLE_23CM   ELECTRIC_RCX_CABLE
+0 SYNTH PART 3506C04.dat PLI_ELECTRIC_RCX_CABLE_40CM   ELECTRIC_RCX_CABLE
+0 SYNTH PART 3506C05.dat PLI_ELECTRIC_RCX_CABLE_60CM   ELECTRIC_RCX_CABLE
+0 SYNTH PART 3506C06.dat PLI_ELECTRIC_RCX_CABLE_140CM  ELECTRIC_RCX_CABLE
+0 SYNTH PART 3506C07.dat PLI_ELECTRIC_RCX_CABLE_328CM  ELECTRIC_RCX_CABLE
+0 SYNTH PART  73590a.dat PLI_HOSE_FLEXIBLE_8.5L_WITHOUT_TABS  HOSE_FLEXIBLE_8.5L
+0 SYNTH PART  73590b.dat PLI_HOSE_FLEXIBLE_8.5L_WITH_TABS  HOSE_FLEXIBLE_8.5L
+0 SYNTH PART  758C01.dat PLI_HOSE_FLEXIBLE_12L HOSE_FLEXIBLE_12L
+0 SYNTH PART   57539.dat PLI_HOSE_FLEXIBLE_19L HOSE_FLEXIBLE_19L
+0 SYNTH PART  208C01.dat PLI_MINIFIG_CHAIN_16L  MINIFIG_CHAIN_16L
+0 SYNTH PART   76384.dat PLI_STRING_11L  STRING_11L
+0 SYNTH PART   75924.dat PLI_STRING_21L  STRING_21L
+0 SYNTH PART  572c01.dat PLI_STRING_WITH_GRIPS_21L  STRING_WITH_GRIPS_21L
+0 SYNTH PART  572c02.dat PLI_STRING_41L  STRING_41L
+0 SYNTH PART   32580.dat PLI_TECHNIC_AXLE_FLEXIBLE_7   TECHNIC_AXLE_FLEXIBLE
+0 SYNTH PART   32199.dat PLI_TECHNIC_AXLE_FLEXIBLE_11  TECHNIC_AXLE_FLEXIBLE
+0 SYNTH PART   32200.dat PLI_TECHNIC_AXLE_FLEXIBLE_12  TECHNIC_AXLE_FLEXIBLE
+0 SYNTH PART   32201.dat PLI_TECHNIC_AXLE_FLEXIBLE_14  TECHNIC_AXLE_FLEXIBLE
+0 SYNTH PART   32202.dat PLI_TECHNIC_AXLE_FLEXIBLE_16  TECHNIC_AXLE_FLEXIBLE
+0 SYNTH PART   32235.dat PLI_TECHNIC_AXLE_FLEXIBLE_19  TECHNIC_AXLE_FLEXIBLE
+0 SYNTH PART  680C01.dat PLI_TECHNIC_TREAD  TECHNIC_TREAD
+0 SYNTH PART     498.dat PLI_TECHNIC_CRAWLER  TECHNIC_TREAD_CRAWLER
+0 //
+0 //
+0 // This file specifies hose and band synthesis definitions, as well as
+0 // the constraints for both hose and bands.  This file is basically an
+0 // MPD file that contains four types of files:
+0 //   hose type definitions
+0 //   hose type constraint list
+0 //   band type definitions
+0 //   band type constraint list
+0 //
+0 // The format for describing HOSE constraints is:
+0 //
+0 //  0 SYNTH BEGIN DEFINE HOSE CONSTRAINTS
+0 //  1 <flip> <x> <y> <z> <a> <b> <c> <d> <e> <f> <g> <h> <i> <part>
+0 //  0 SYNTH END
+0 //
+0 //    <flip>       indicates that the constraint at the end of the hose has
+0 //                 the opposite orientation from the start of the hose.  This
+0 //                 is useful for 755.dat on RUBBER_HOSE, or LS40.dat on
+0 //                 flexible axles.
+0 //    <x> <y> <z>  reserved for future use.
+0 //    <a> thru <i> reserved for future use.
+0 //    <part>       name of LDraw part used as a constraint.
+0 //
+0 //
+0 // The format for defining a new type of HOSE is:
+0 //
+0 //  0 SYNTH BEGIN DEFINE <hose_type> HOSE <fill> <diameter> <stiffness> <twist>
+0 //  1 <len> <x> <y> <z> <a> <b> <c> <d> <e> <f> <g> <h> <i> start_part
+0 //  1 <len> <x> <y> <z> <a> <b> <c> <d> <e> <f> <g> <h> <i> mid_part
+0 //  1 <len> <x> <y> <z> <a> <b> <c> <d> <e> <f> <g> <h> <i> end_part
+0 //  0 SYNTH END
+0 //    <hose_type>  is a name you make up.
+0 //    <fill>       can be one of two keywords: FIXED or STRETCH
+0 //                 STRETCH means that the synthesized result is made up of
+0 //                 cross sections that are scaled as needed.
+0 //                 FIXED means that the synthesized result is made up of
+0 //                 fixed size elements.  This may be conbined with a number
+0 //                 to specify a total count of segments to use.  eg. FIXED21
+0 //    <diameter>   this describes the diameter of the hose, and is used
+0 //                 by STRETCH type hoses.  It is used only to determine how
+0 //                 long to extend stretched hose cross sections so that hose
+0 //                 segments overlap at their boundaries.
+0 //    <stiffness>  this controls how much the hose is willing to bend at the
+0 //                 beginning and end of the hose.  Larger numbers indicate
+0 //                 stiffer hoses.
+0 //    <twist>      this specifies how much to rotate components used when
+0 //                 synthesizing FIXED hoses.  For MINIFIG_CHAIN, the twist
+0 //                 is 90 (degrees), to alternate the angle of the chain links.
+0 //                 Typically this field is zero.
+0 //    start_part   this is the first part used to synthesize the hose.  It is
+0 //                 used only once.
+0 //    end_part     this is the last part used to synthesize the hose.  It is
+0 //                 used only once.
+0 //    mid_part     this part is used to synthesize the bulk of the hose.
+0 //    <len>        this describes the length associated with fixed length
+0 //                 parts.  This can also be used on the start_part and/or
+0 //                 the end_part of a STRETCH hose.  For a FIXED-N hose, if
+0 //                 the start_part, the end_part, or their <len> parameters are 
+0 //                 not the same as the mid_part then they are not included in
+0 //                 the N count of identical fixed parts, and are positioned 
+0 //                 exactly on the start/end constraints.  (eg. HOSE_FLEXIBLE)
+0 //                 Because this behavior is different from ordinary hoses
+0 //                 (where the hose stretches from the origin of the start 
+0 //                 constraint to the origin of the end constraint) it is best
+0 //                 to use specialized end constraints for FIXED-N constructs
+0 //                 where the length, and perhaps even the shape, closely 
+0 //                 match that of the end parts, eg. a MINIFIG_CHAIN link.  
+0 //    <x> <y> <z>  these are used to offset synthesis components as part of
+0 //                 the final synthesis process of placing parts in 3D space.
+0 //    <a> thru <i> these are the orientations used to make all the start,
+0 //                 mid, and end parts all have the same orientation in the
+0 //                 synthesis process.
+0 // For HOSEs with the FIXED fill type an alternate mid part can optionally
+0 // be declared after the end_part.  See STRING_WITH_GRIPS_21L.
+0 //
+0 //
+0 //  The format for describing BAND constraints is:
+0 //
+0 //  0 SYNTH BEGIN DEFINE BAND CONSTRAINTS
+0 //  1 <radius> <x> <y> <z> <a> <b> <c> <d> <e> <f> <g> <h> <i> <part>
+0 //  0 SYNTH END
+0 //
+0 //    <radius>     this describes the radius of the constraint <part>.
+0 //    <x> <y> <z>  these are x,y and z offsets used to properly place
+0 //                 arc parts that wrap around the constraint.  Typlically
+0 //                 only <z> used
+0 //    <a> thru <i> these are used to orient all constraints' gear\pulley
+0 //                 planes into the same orientation.  The technic 
+0 //                 turntable's gear plane is not parallel to the technic
+0 //                 gear family plane, so <a> thru <i> are used to rotate
+0 //                 technic turntables into the same orientation as gears.
+0 //                 Once rotated, technic turntable's gear plane is parallel
+0 //                 but not coincident to the technic gear plane.  Applying
+0 //                 <x> <y> <z> to the turntable part makes the gear plane
+0 //                 coincident with the technic gear plane.
+0 //    <part>       this is the name of the ldraw part used as a constraint.
+0 //
+0 //
+0 // The format for defining a new type of BAND is:
+0 //
+0 // 0 SYNTH BEGIN DEFINE <band_type> BAND <fill> <scale> <thresh>
+0 // 1 <color> <x> <y> <z> <a> <b> <c> <d> <e> <f> <g> <h> <i> tangent_part
+0 // 1 <color> <x> <y> <z> <a> <b> <c> <d> <e> <f> <g> <h> <i> arc_part
+0 // 0 SYNTH END
+0 //
+0 //   <band_type>   is a name you make up.
+0 //   <fill>        can be STRETCH, FIXED, FIXED3
+0 //                 FIXED means that the synthesized result is made up of
+0 //                 fixed size elements.  CHAIN for example is made up of
+0 //                 individual fixed length chain links.
+0 //
+0 //                 STRETCH means that the synthesized result is made up of
+0 //                 cross sections that are scaled as needed.  For example, on
+0 //                 rubber bands, the band portion that goes from pulley to
+0 //                 pulley (the tangent parts), is one single piece of band
+0 //                 cross section that is stretched to go from pulley to
+0 //                 pulley.
+0 //   <scale>       for FIXED and FIXED3 fill types, scale tells us how to
+0 //                 convert a distance in LDU to the number of mid elements
+0 //                 needed to cover that distance.
+0 //                   n_parts = (ldu_distance * scale) + 0.5)
+0 //   <thresh>      is used to decide when to stop wrapping stuff around a
+0 //                 given constraint.
+0 //
+0 //   tangent_part  this is the part type used to span the distance betwen
+0 //                 two gears.
+0 //   arc_part      this is the part type used to wrap around constraints
+0 //                 as needed.
+0 //
+0 //   <x> <y> <z>   these are x,y, and z offsets used to properly displace
+0 //                 the parts in the synthesis process.
+0 //   <a> thru <i>  these are the orientation/scaling values used to
+0 //                 properly orient and stretch the parts in the synthesis
+0 //                 process.
+0 //
+0 // For BANDs with the FIXED3 fill type use two parts in addition to the
+0 // tangent_part and arc_part.  These two extra parts are used to transistion
+0 // from tangent to arc, and arc to tangent.  Currently these are only used
+0 // for TECHNIC_TREAD.
+0 //
+0 //
+0 // Below are the actual descriptions of constraints, hoses and bands.
+0 //
+0 // Constraints
+0
+0 FILE HOSE_CONSTRAINTS.ldr
+0 LSYNTH HOSE CONSTRAINTS LIST
+0 Name: HOSE_CONSTRAINTS.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE HOSE CONSTRAINTS
+0 // LSynth Hose Constraint Part - Type 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS00.dat
+0 // LSynth Constraint Part - Type 1 - "Hose"
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS01.dat
+0 // LSynth Constraint Part - Type 2 - "Hose"
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS02.dat
+0 // LSynth Constraint Part - Type 3 - "Hose"
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS03.dat
+0 // LSynth Constraint Part - Type 4 - "String"
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS04.dat
+0 // LSynth Constraint Part - Type 5 - "NXT Cable"
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS05.dat
+0 // LSynth Constraint Part - Type 6 - "Power Functions Cable"
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS06.dat
+0 // LSynth Constraint Part - Type 7 - "RCX Cable"
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS07.dat
+0 // LSynth Constraint Part - Type 8 - "Minifig Chain Link"
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS08.dat
+0 // LSynth Constraint Part - Type 9 - "Minifig String Grip"
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS09.dat
+0 // LSynth Constraint Part - Type 10 - "Hose Flexible 8.5L"
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS100.dat
+0 // LSynth Constraint Part - Type 11 - "Hose Flexible 12L"
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS101.dat
+0 // LSynth Constraint Part - Type 12 - "Hose Flexible 19L"
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS102.dat
+0 SYNTH END
+0
+0
+0 FILE BAND_CONSTRAINTS.ldr
+0 LSYNTH BAND CONSTRAINTS LIST
+0 Name: BAND_CONSTRAINTS.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE BAND CONSTRAINTS
+0 // Electric Technic Micromotor Pulley
+1 13 0 0 -4 1 0 0 0 0 1 0 -1 0 2983.DAT
+0 // Technic Axle 2 Notched
+1 8 0 0 0 0 0 1 0 1 0 -1 0 0 32062.DAT
+0 // Technic Axle Joiner
+1 9 0 0 0 1 0 0 0 1 0 0 0 1 6538A.DAT
+0 // Technic Axle Towball
+1 6 0 0 4 0 0 -1 0 1 0 1 0 0 2736.DAT
+0 // Technic Bush
+1 9 0 0 0 1 0 0 0 1 0 0 0 1 3713.DAT
+0 // Technic Bush 1/2 Smooth
+1 9 0 0 0 1 0 0 0 1 0 0 0 1 32123.dat
+0 // Technic Bush 1/2 Type 1
+1 9 0 0 0 1 0 0 0 1 0 0 0 1 4265A.DAT
+0 // Technic Bush 1/2 Type 2
+1 9 0 0 0 1 0 0 0 1 0 0 0 1 4265B.DAT
+0 // Technic Differential
+1 35 0 0 21 -1 0 0 0 1 0 0 0 -1 73071.DAT
+0 // Technic Differential New
+1 30 0 0 30 -1 0 0 0 1 0 0 0 -1 6573.DAT
+0 // Technic Gear
+1 30 0 0 0 1 0 0 0 1 0 0 0 1 3648a.dat
+0 // Technic Gear 8 Tooth
+1 10 0 0 0 1 0 0 0 1 0 0 0 1 3647.DAT
+0 // Technic Gear 16 Tooth
+1 18 0 0 0 1 0 0 0 1 0 0 0 1 4019.DAT
+0 // Technic Gear 16 Tooth with Clutch
+1 18 0 0 0 1 0 0 0 1 0 0 0 1 6542.DAT
+0 // Technic Gear 24 Tooth with Single Axle Hole
+1 30 0 0 0 1 0 0 0 1 0 0 0 1 3648b.dat
+0 // Technic Gear 24 Tooth Clutch
+1 30 0 0 0 1 0 0 0 1 0 0 0 1 60C01.DAT
+0 // Technic Gear 24 Tooth Crown
+1 30 0 0 0 1 0 0 0 1 0 0 0 1 3650A.DAT
+0 // Technic Gear 40 Tooth
+1 50 0 0 0 1 0 0 0 1 0 0 0 1 3649.DAT
+0 // Technic Gear 9 Large Tooth
+1 38 0 0 0 1 0 0 0 1 0 0 0 1 569.DAT
+0 // Technic Gear 14 Large Tooth - Old version
+1 48 0 0 0 1 0 0 0 1 0 0 0 1 741.DAT
+0 // Technic Gear 14 Large Tooth
+1 48 0 0 0 1 0 0 0 1 0 0 0 1 641.DAT
+0 // Technic Gear 15 Large Tooth
+1 58 0 0 0 1 0 0 0 1 0 0 0 1 570.DAT
+0 // Technic Gear 21 Large Tooth
+1 66 0 0 0 1 0 0 0 1 0 0 0 1 642.DAT
+0 // Technic Gear 21 Large Tooth
+1 78 0 0 0 1 0 0 0 1 0 0 0 1 572.DAT
+0 // Technic Gear 35 Large Tooth
+1 106 0 0 0 1 0 0 0 1 0 0 0 1 643.DAT
+0 // Technic Gear 42 Large Tooth
+1 126 0 0 0 1 0 0 0 1 0 0 0 1 644.DAT
+0 // Technic Pin Towball with Friction
+1 6 0 0 2 0 0 -1 0 1 0 1 0 0 6628.dat
+0 // Technic Pulley Large
+1 45 0 0 0 1 0 0 0 1 0 0 0 1 3736.DAT
+0 // Technic Sprocket Wheel 25.4
+1 32 0 0 0 1 0 0 0 1 0 0 0 1 57520.dat
+0 // Technic Sprocket Wheel 40.4
+1 50 0 0 0 1 0 0 0 1 0 0 0 1 57519.dat
+0 // Technic Transmission Driving Ring
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 6539.DAT
+0 // Technic Tread Spocket Wheel Thin
+1 32 0 0 0 0 0 1 0 1 0 -1 0 0 32089.dat
+0 // Technic Tread Sprocket Wheel
+1 32 0 0 0 1 0 0 0 1 0 0 0 1 32007.DAT
+0 // Technic Turnable New with Hole Top
+1 71 0 0 -20 1 0 0 0 0 1 0 -1 0 48451.dat
+0 // Technic Turnable Top
+1 71 0 0 9 1 0 0 0 0 1 0 -1 0 2855.DAT
+0 // Technic Wedge Belt Wheel
+1 29 0 0 0 1 0 0 0 1 0 0 0 1 4185.DAT
+0 // Wheel Center Large
+1 20 0 0 0 1 0 0 0 1 0 0 0 1 3482.DAT
+0 // Wheel Center Spoked Small
+1 20 0 0 0 1 0 0 0 1 0 0 0 1 30155.DAT
+0 // Wheel Old with 12 Studs
+1 44 0 0 -2 1 0 0 0 1 0 0 0 1 715.DAT
+0 // Wheel Old with 4 Studs
+1 22 0 0 -2 1 0 0 0 1 0 0 0 1 7039.DAT
+0 // Wheel Wheel Spoked Large 
+1 44 0 0 -2 1 0 0 0 1 0 0 0 1 35.DAT
+0 // LSynth Hose Constraint Part - Type 1
+1 1 0 0 0 0 0 -1 0 1 0 1 0 0 LS01.dat
+0 // LSynth Hose Constraint Part - Type 2
+1 1 0 0 0 0 0 -1 0 1 0 1 0 0 LS02.dat
+0 // LSynth Hose Constraint Part - Type 3
+1 1 0 0 0 0 0 -1 0 1 0 1 0 0 LS03.dat
+0 // LSynth Hose Constraint Part - Type 4
+1 1 0 0 0 0 0 -1 0 1 0 1 0 0 LS04.dat
+0 // Technic Small Tread Wheel
+1 21 0 0 0 1 0 0 0 1 0 0 0 1 30285.DAT
+0 // Wheel 30.4 x 14 with Holes on Both Sides
+1 21 0 0 0 1 0 0 0 1 0 0 0 1 55981.dat
+0 SYNTH END
+0 
+0 
+0 // Hose Types
+0 
+0
+0 FILE BRICK_ARC.ldr
+0 BRICK_ARC SYNTHESIS DEFINITION
+0 Name: BRICK_ARC.ldr
+0 Author: Eric Albrecht
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE BRICK_ARC HOSE FIXED 1 100 0
+0 // Plate 2 x 2 Round
+1 0 0 0 0 -1 0 0 0 1 0 0 0 -1 4032.DAT
+0 // Plate 2 x 2 Round
+1 10 0 0 0 -1 0 0 0 1 0 0 0 -1 4032.DAT
+0 // Plate 2 x 2 Round
+1 0 0 0 0 -1 0 0 0 1 0 0 0 -1 4032.DAT
+0 SYNTH END
+0 
+0
+0 FILE ELECTRIC_CABLE.ldr
+0 ELECTRIC_CABLE SYNTHESIS DEFINITION
+0 Name: ELECTRIC_CABLE.ldr
+0 Author: Steffen [Steffen]
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE ELECTRIC_CABLE HOSE STRETCH 9 35 0
+1 0 0 0 0 0 0 -1 0 1 0 1 0 0 993.dat
+1 0 0 0 0 0 0 -1 0 1 0 1 0 0 993.dat
+1 0 0 0 0 0 0 -1 0 1 0 1 0 0 993.dat
+0 SYNTH END
+0 
+0
+0 FILE ELECTRIC_NXT_CABLE.ldr
+0 ELECTRIC_NXT_CABLE SYNTHESIS DEFINITION
+0 Name: ELECTRIC_NXT_CABLE.ldr
+0 Author: J.C. Tchang
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE ELECTRIC_NXT_CABLE HOSE STRETCH 8 35 0
+0 // Electric Mindstorms NXT Cable Segment
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS12.dat
+0 // Electric Mindstorms NXT Cable Segment
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS12.dat
+0 // Electric Mindstorms NXT C12le Segment
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS12.dat
+0 SYNTH END
+0 
+0
+0 FILE ELECTRIC_POWER_FUNCTIONS_CABLE.ldr
+0 ELECTRIC_POWER_FUNCTIONS_CABLE SYNTHESIS DEFINITION
+0 Name: ELECTRIC_POWER_FUNCTIONS_CABLE.ldr
+0 Author: Willy Tschager
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE ELECTRIC_POWER_FUNCTIONS_CABLE HOSE STRETCH 9 35 0
+0 // LSynth Electric Cable Segment NXT
+1 0 0 0 0 0 0 1 0 1 0 -1 0 0 LS70.dat
+0 // LSynth Electric Cable Segment NXT
+1 0 0 0 0 0 0 1 0 1 0 -1 0 0 LS70.dat
+0 // LSynth Electric Cable Segment NXT
+1 0 0 0 0 0 0 1 0 1 0 -1 0 0 LS70.dat
+0 SYNTH END
+0
+0
+0 FILE ELECTRIC_POWER_FUNCTIONS_CABLE_HALF.ldr
+0 ELECTRIC_POWER_FUNCTIONS_CABLE_HALF SYNTHESIS DEFINITION
+0 Name: ELECTRIC_POWER_FUNCTIONS_CABLE_HALF.ldr
+0 Author: J.C. Tchang
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE ELECTRIC_POWER_FUNCTIONS_CABLE_HALF HOSE STRETCH 9 35 0
+0 // LSynth Electric Cable Segment NXT Half
+1 0 0 0 0 0 0 1 0 1 0 -1 0 0 LS71.dat
+0 // LSynth Electric Cable Segment NXT Half
+1 0 0 0 0 0 0 1 0 1 0 -1 0 0 LS71.dat
+0 // LSynth Electric Cable Segment NXT Half
+1 0 0 0 0 0 0 1 0 1 0 -1 0 0 LS71.dat
+0 SYNTH END
+0 
+0
+0 FILE ELECTRIC_RCX_CABLE.ldr
+0 ELECTRIC_RCX_CABLE SYNTHESIS DEFINITION
+0 Name: ELECTRIC_RCX_CABLE.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE ELECTRIC_RCX_CABLE HOSE STRETCH 9 20 0
+0 // LSynth Electric Cable Segment
+1 0 0 0 0 0 0 -1 0 1 0 1 0 0 LS10.dat
+0 // LSynth Electric Cable Segment
+1 0 0 0 0 0 0 -1 0 1 0 1 0 0 LS10.dat
+0 // LSynth Electric Cable Segment
+1 0 0 0 0 0 0 -1 0 1 0 1 0 0 LS10.dat
+0 SYNTH END
+0 
+0
+0 FILE FIBER_OPTICS_CABLE.ldr
+0 FIBER_OPTICS_CABLE SYNTHESIS DEFINITION
+0 Name: FIBER_OPTICS_CABLE.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE FIBER_OPTICS_CABLE HOSE STRETCH 2 50 0
+1 0 0 0 0 2 0 0 0 1 0 0 0 2 4-4cyli.dat
+1 0 0 0 0 2 0 0 0 1 0 0 0 2 4-4cyli.dat
+0 // LSynth Electric Technic Fiber Optics - End Piece
+1 28 0 0 0 1 0 0 0 1 0 0 0 1 LS30.dat
+0 SYNTH END
+0 
+0
+0 FILE FIBER_OPTICS_CABLE_WIDE.ldr
+0 FIBER_OPTICS_CABLE_WIDE SYNTHESIS DEFINITION
+0 Name: FIBER_OPTICS_CABLE_WIDE.ldr
+0 Author: Philippe Hurbain [Philo]
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE FIBER_OPTICS_CABLE_WIDE HOSE STRETCH 8 50 0
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 0 0 0 0 4 0 0 0 1 0 0 0 4 LS11.dat
+1 0 0 0 0 4 0 0 0 1 0 0 0 4 4-4cyli.dat
+1 0 0 0 0 4 0 0 0 1 0 0 0 4 LS11.dat
+0 SYNTH END
+0
+0
+0 FILE HOSE_FLEXIBLE_8.5L.ldr
+0 HOSE_FLEXIBLE_8.5L SYNTHESIS DEFINITION
+0 Name: HOSE_FLEXIBLE_8.5L.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 // End sections are different size/shape and not included in the 50 count.
+0 SYNTH BEGIN DEFINE HOSE_FLEXIBLE_8.5L HOSE FIXED49 1 30 0
+0 // Hose Flexible Segment End Section
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 755.DAT
+0 // Hose Flexible Segment Center Section
+1 3 0 3 0 1 0 0 0 1 0 0 0 1 756.DAT
+0 // Hose Flexible Segment End Section
+1 0 0 -5 0 1 0 0 0 -1 0 0 0 1 755.DAT
+0 SYNTH END
+0
+0
+0 FILE HOSE_FLEXIBLE_12L.ldr
+0 HOSE_FLEXIBLE_12L SYNTHESIS DEFINITION
+0 Name: HOSE_FLEXIBLE_12L.ldr
+0 Author: Willy Tschager
+0 Unofficial Model
+0 // End sections are different size/shape and not included in the 33 count.
+0 SYNTH BEGIN DEFINE HOSE_FLEXIBLE_12L HOSE FIXED32 1 30 0
+0 // Hose Flexible 12L Segment End Section
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 759.DAT
+0 // Hose Flexible 12L Segment Center Section
+1 3 0 3 0 1 0 0 0 1 0 0 0 1 758.DAT
+0 // Hose Flexible 12L Segment End Section
+1 14 0 -20 0 1 0 0 0 -1 0 0 0 1 759.DAT
+0 SYNTH END
+0 
+0
+0 FILE HOSE_FLEXIBLE_19L.ldr
+0 HOSE_FLEXIBLE_19L SYNTHESIS DEFINITION
+0 Name: HOSE_FLEXIBLE_19L.ldr
+0 Author: J.C. Tchang
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE HOSE_FLEXIBLE_19L HOSE FIXED57 1 50 0
+0 // Hose Flexible 19L Segment End Section
+1 7 0 0 0 1 0 0 0 -1 0 0 0 1 LS90.DAT
+0 // Hose Flexible 19L Segment Center Section
+1 5 0 5 0 1 0 0 0 1 0 0 0 1 LS91.DAT
+0 // Hose Flexible 19L Segment End Section
+1 7 0 12 0 1 0 0 0 1 0 0 0 1 LS90.DAT
+0 SYNTH END
+0
+0
+0 FILE MINIFIG_CHAIN_16L.ldr
+0 MINIFIG_CHAIN_16L SYNTHESIS DEFINITION
+0 Name: MINIFIG_CHAIN_16L.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE MINIFIG_CHAIN_16L HOSE FIXED21 2 40 90
+0 // Minifig Chain Link
+1 14 0 9 0 1 0 0 0 1 0 0 0 1 209.dat
+0 // Minifig Chain Link
+1 14 0 9 0 1 0 0 0 1 0 0 0 1 209.dat
+0 // Minifig Chain Link
+1 14 0 9 0 1 0 0 0 1 0 0 0 1 209.dat
+0 SYNTH END
+0
+0
+0 FILE STRING_HOSE.ldr
+0 STRING_HOSE SYNTHESIS DEFINITION
+0 Name: STRING_HOSE.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE STRING_HOSE HOSE FIXED 2 10 0
+1 0 0 0 2 1 0 0 0 0 1 0 -1 0 LS60.dat
+1 2 0 0 2 1 0 0 0 0 1 0 -1 0 LS60.dat
+1 0 0 0 2 1 0 0 0 0 1 0 -1 0 LS60.dat
+0 SYNTH END
+0 
+0
+0 FILE STRING_11L.ldr
+0 STRING_11L SYNTHESIS DEFINITION
+0 Name: STRING_11L.ldr
+0 Author: Willy Tschager
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE STRING_11L HOSE FIXED90 2 10 0
+1 2 0 0 1 1 0 0 0 0 2 0 -1 0 LS60.dat
+1 2 0 0 2 1 0 0 0 0 1 0 -1 0 LS60.dat
+1 2 0 0 1 1 0 0 0 0 2 0 -1 0 LS60.dat
+0 SYNTH END
+0
+0
+0 FILE STRING_21L.ldr
+0 STRING_21L SYNTHESIS DEFINITION
+0 Name: STRING_21L.ldr
+0 Author: Willy Tschager
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE STRING_21L HOSE FIXED190 2 10 0
+1 2 0 0 1 1 0 0 0 0 2 0 -1 0 LS60.dat
+1 2 0 0 2 1 0 0 0 0 1 0 -1 0 LS60.dat
+1 2 0 0 1 1 0 0 0 0 2 0 -1 0 LS60.dat
+0 SYNTH END
+0 
+0
+0 FILE STRING_31L.ldr
+0 STRING_31L SYNTHESIS DEFINITION
+0 Name: STRING_31L.ldr
+0 Author: Willy Tschager
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE STRING_31L HOSE FIXED290 2 10 0
+1 2 0 0 1 1 0 0 0 0 2 0 -1 0 LS60.dat
+1 2 0 0 2 1 0 0 0 0 1 0 -1 0 LS60.dat
+1 2 0 0 1 1 0 0 0 0 2 0 -1 0 LS60.dat
+0 SYNTH END
+0
+0
+0 FILE STRING_41L.ldr
+0 STRING_41L SYNTHESIS DEFINITION
+0 Name: STRING_41L.ldr
+0 Author: Willy Tschager
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE STRING_41L HOSE FIXED390 2 10 0
+1 2 0 0 1 1 0 0 0 0 2 0 -1 0 LS60.dat
+1 2 0 0 2 1 0 0 0 0 1 0 -1 0 LS60.dat
+1 2 0 0 1 1 0 0 0 0 2 0 -1 0 LS60.dat
+0 SYNTH END
+0
+0
+0 FILE STRING_WITH_GRIPS_21L.ldr
+0 STRING_WITH_GRIPS_21L_ROPE SYNTHESIS DEFINITION
+0 Name: STRING_WITH_GRIPS_21L.ldr
+0 Author: Don Heyse
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE STRING_WITH_GRIPS_21L HOSE FIXED19 2 40 0
+1 22 0 0 23 1 0 0 0 0 1 0 -1 0 LS61.dat
+0 // Minifig Rope Link
+1 22 0 0 22 1 0 0 0 0 1 0 -1 0 LS61.dat
+1 22 0 0 21 1 0 0 0 0 1 0 -1 0 LS61.dat
+0 // (alternate part) Minifig String Grip
+1 20 10 0 0 0 -1 0 1 0 0 0 0 1 572c.dat
+0 SYNTH END
+0
+0
+0 FILE TECHNIC_AXLE_FLEXIBLE.ldr
+0 TECHNIC_AXLE_FLEXIBLE SYNTHESIS DEFINITION
+0 Name: TECHNIC_AXLE_FLEXIBLE.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE TECHNIC_AXLE_FLEXIBLE HOSE STRETCH 12 40 0
+0 // LSynth Technic Flexible Axle - End Piece
+1 40 0 -40 0 1 0 0 0 -1 0 0 0 1 LS40.dat
+0 // LSynth Technic Flexible Axle - Cross Section
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS41.dat
+0 // LSynth Technic Flexible Axle - End Piece
+1 40 0 0 0 1 0 0 0 1 0 0 0 1 LS40.dat
+0 SYNTH END
+0 
+0
+0 FILE TECHNIC_FLEX-SYSTEM_CABLE.ldr
+0 TECHNIC_FLEX-SYSTEM_CABLE SYNTHESIS DEFINITION
+0 Name: TECHNIC_FLEX-SYSTEM_CABLE.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE TECHNIC_FLEX-SYSTEM_CABLE HOSE STRETCH 6 40 0
+0 // Technic Flex-System Cable End
+1 20 0 20 0 1 0 0 0 1 0 0 0 1 342.DAT
+0 // LSynth Electric Cable Segment NXT
+1 0 0 0 0 2 0 0 0 1 0 0 0 2 LS11.dat
+0 // Technic Flex-System Cable End
+1 20 0 0 0 1 0 0 0 -1 0 0 0 1 342.DAT
+0 SYNTH END
+0 
+0
+0 FILE TECHNIC_FLEX-SYSTEM_HOSE.ldr
+0 TECHNIC_FLEX-SYSTEM_HOSE SYNTHESIS DEFINITION
+0 Name: TECHNIC_FLEX-SYSTEM_HOSE.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE TECHNIC_FLEX-SYSTEM_HOSE HOSE STRETCH 6 40 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS50.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS51.dat
+1 0 0 -1 0 1 0 0 0 -1 0 0 0 1 LS50.dat
+0 SYNTH END
+0 
+0
+0 FILE TECHNIC_PNEUMATIC_HOSE_BEVELED.ldr
+0 TECHNIC_PNEUMATIC_HOSE_BEVELED SYNTHESIS DEFINITION
+0 Name: TECHNIC_PNEUMATIC_HOSE_BEVELED.ldr
+0 Author: Willy Tschager
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE TECHNIC_PNEUMATIC_HOSE_BEVELED HOSE STRETCH 12 30 0
+0 // LSynth Technic Pneumatic Hose - Beveled End Piece
+1 16 0 -16 0 1 0 0 0 -1 0 0 0 1 LS22.dat
+0 // LSynth Technic Pneumatic Hose - Beveled Cross Section
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS23.dat
+0 // LSynth Technic Pneumatic Hose - Beveled End Piece
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 LS22.dat
+0 SYNTH END
+0 
+0
+0 FILE TECHNIC_RIBBED_HOSE.ldr
+0 TECHNIC_RIBBED_HOSE SYNTHESIS DEFINITION
+0 Name: TECHNIC_RIBBED_HOSE.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE TECHNIC_RIBBED_HOSE HOSE FIXED 1 80 0
+0 // Technic Ribbed Hose End Segment
+1 0 0 -2.5 0 1 0 0 0 -1 0 0 0 1 79.DAT
+0 // Technic Ribbed Hose Segment
+1 6 0 2.5 0 1 0 0 0 1 0 0 0 1 80.dat
+0 // Technic Ribbed Hose End Segment
+1 0 0 2.5 0 1 0 0 0 1 0 0 0 1 79.DAT
+0 SYNTH END
+0
+0
+0 // Band Types
+0 
+0
+0 FILE RUBBER_BAND.ldr
+0 RUBBER_BAND SYNTHESIS DEFINITION
+0 Name: RUBBER_BAND.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE RUBBER_BAND BAND STRETCH 2 1
+1 0 0 0 0 2 0 0 0 1 0 0 0 2 LS11.dat
+1 0 0 0 0 2 0 0 0 1 0 0 0 2 LS11.dat
+0 SYNTH END
+0 
+0
+0 FILE RUBBER_BELT.ldr
+0 RUBBER_BELT SYNTHESIS DEFINITION
+0 Name: RUBBER_BELT.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE RUBBER_BELT BAND STRETCH 2 1
+1 0 0 -1 0 1 0 0 0 0.5 0 0 0 5 box.dat
+1 0 0 -1 0 1 0 0 0 0.5 0 0 0 5 box.dat
+0 SYNTH END
+0 
+0
+0 FILE STRING_BAND.ldr
+0 STRING_BAND SYNTHESIS DEFINITION
+0 Name: STRING_BAND.ldr
+0 Author: Willy Tschager
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE STRING_BAND BAND FIXED 0.55 1
+1 0 0 0 0 1 0 0 0 0 1 0 -1 0 LS60.dat
+1 0 0 0 0 1 0 0 0 0 1 0 -1 0 LS60.dat
+0 SYNTH END
+0 
+0
+0 FILE TECHNIC_CHAIN_LINK.ldr
+0 TECHNIC_CHAIN_LINK SYNTHESIS DEFINITION
+0 Name: TECHNIC_CHAIN_LINK.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE TECHNIC_CHAIN_LINK BAND FIXED 0.0625 8
+0 // Technic Chain Link
+1 0 0 0 16 0 1 0 0 0 -1 -1 0 0 3711.dat
+0 // Technic Chain Link
+1 0 0 0 0 0 -1 0 0 0 1 -1 0 0 3711.dat
+0 SYNTH END
+0 
+0
+0 FILE TECHNIC_CHAIN_LINK_WITH_TWO_STUDS.ldr
+0 TECHNIC_CHAIN_LINK_WITH_TWO_STUDS SYNTHESIS DEFINITION
+0 Name: TECHNIC_CHAIN_LINK_WITH_TWO_STUDS.ldr
+0 Author: J.C. Tchang
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE TECHNIC_CHAIN_LINK_WITH_TWO_STUDS BAND FIXED 0.05 8
+0 // Technic Chain Link with Two Studs
+1 0 0 4 21 0 1 0 0 0 -1 -1 0 0 273.dat
+0 // Technic Chain Link with Two Studs
+1 0 0 4 3 0 -1 0 0 0 1 -1 0 0 273.dat
+0 SYNTH END
+0
+0
+0 FILE TECHNIC_CHAIN_TREAD.ldr
+0 TECHNIC_CHAIN_TREAD SYNTHESIS DEFINITION
+0 Name: TECHNIC_CHAIN_TREAD.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE TECHNIC_CHAIN_TREAD BAND FIXED 0.0625 8
+0 // Technic Chain Tread
+1 0 0 0 16 0 1 0 0 0 -1 -1 0 0 3873.dat
+0 // Technic Chain Tread
+1 0 0 0 0 0 -1 0 0 0 1 -1 0 0 3873.dat
+0 SYNTH END
+0 
+0
+0 FILE TECHNIC_CHAIN_TREAD_38.ldr
+0 TECHNIC_CHAIN_TREAD_38 SYNTHESIS DEFINITION
+0 Name: TECHNIC_CHAIN_TREAD_38.ldr
+0 Author: Willy Tschager
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE TECHNIC_CHAIN_TREAD_38 BAND FIXED 0.03333 8
+0 // Technic Chain Tread 38
+1 0 0 0 0 0 1 0 0 0 -1 -1 0 0 57518.dat
+0 // Technic Chain Tread 38
+1 0 0 0 -32 0 -1 0 0 0 1 -1 0 0 57518.dat
+0 SYNTH END
+0 
+0
+0 FILE TECHNIC_TREAD.ldr
+0 TECHNIC_TREAD SYNTHESIS DEFINITION
+0 Name: TECHNIC_TREAD.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE TECHNIC_TREAD BAND FIXED3 0.05 1
+1 0 0 32 0 0 -1 0 1 0 0 0 0 1 680.DAT
+1 0 0 32 0 -0.342 0.94 0 -0.94 -0.342 0 0 0 1 682.DAT
+1 0 0 32 0 -0.342 0.94 0 -0.94 -0.342 0 0 0 1 681.DAT
+1 0 0 32 0 0.342 0.94 0 0.94 -0.342 0 0 0 1 681.DAT
+0 SYNTH END
+0 
+0 
+0 FILE TECHNIC_TREAD_CRAWLER.ldr
+0 TECHNIC_TREAD_CRAWLER SYNTHESIS DEFINITION
+0 Name: TECHNIC_TREAD_CRAWLER.ldr
+0 Author: J.C. Tchang
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE TECHNIC_TREAD_CRAWLER BAND FIXED 0.09 8
+1 0 -5.75 -3 0 0 1 0 1 0 0 0 0 1 LS80.DAT
+1 0 -5.75 -3 0 0 -1 0 1 0 0 0 0 1 LS80.DAT
+0 SYNTH END
+0
+0
+0 // Meta commands for backwards compatibility with LSynth 2.0
+0 
+0
+0 FILE CHAIN.ldr
+0 CHAIN SYNTHESIS DEFINITION
+0 Name: CHAIN.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE CHAIN BAND FIXED 0.0625 8
+1 0 0 0 16 0 1 0 0 0 -1 -1 0 0 3711.dat
+1 0 0 0 0 0 -1 0 0 0 1 -1 0 0 3711.dat
+0 SYNTH END
+0 
+0
+0 FILE ELECTRIC_CABLE.ldr
+0 ELECTRIC_CABLE SYNTHESIS DEFINITION
+0 Name: ELECTRIC_CABLE.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE ELECTRIC_CABLE HOSE STRETCH 9 20 0
+0 // LSynth Electric Cable Segment
+1 0 0 0 0 0 0 -1 0 1 0 1 0 0 LS10.dat
+0 // LSynth Electric Cable Segment
+1 0 0 0 0 0 0 -1 0 1 0 1 0 0 LS10.dat
+0 // LSynth Electric Cable Segment
+1 0 0 0 0 0 0 -1 0 1 0 1 0 0 LS10.dat
+0 SYNTH END
+0 
+0
+0 FILE FIBER_OPTIC_CABLE.ldr
+0 FIBER_OPTIC_CABLE SYNTHESIS DEFINITION
+0 Name: FIBER_OPTIC_CABLE.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE FIBER_OPTIC_CABLE HOSE STRETCH 2 50 0
+1 0 0 0 0 2 0 0 0 1 0 0 0 2 4-4cyli.dat
+1 0 0 0 0 2 0 0 0 1 0 0 0 2 4-4cyli.dat
+0 // LSynth Electric Technic Fiber Optics - End Piece
+1 28 0 0 0 1 0 0 0 1 0 0 0 1 LS30.dat
+0 SYNTH END
+0 
+0
+0 FILE FLEXIBLE_AXLE.ldr
+0 FLEXIBLE_AXLE SYNTHESIS DEFINITION
+0 Name: FLEXIBLE_AXLE.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE FLEXIBLE_AXLE HOSE STRETCH 12 40 0
+0 // LSynth Technic Flexible Axle - End Piece
+1 40 0 -40 0 1 0 0 0 -1 0 0 0 1 LS40.dat
+0 // LSynth Technic Flexible Axle - Cross Section
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS41.dat
+0 // LSynth Technic Flexible Axle - End Piece
+1 40 0 0 0 1 0 0 0 1 0 0 0 1 LS40.dat
+0 SYNTH END
+0 
+0
+0 FILE FLEX_CABLE.ldr
+0 FLEX_CABLE SYNTHESIS DEFINITION
+0 Name: FLEX_CABLE.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE FLEX_CABLE HOSE STRETCH 6 40 0
+0 // Technic Flex-System Cable End
+1 20 0 20 0 1 0 0 0 1 0 0 0 1 342.DAT
+0 // LSynth Electric Cable Segment NXT
+1 0 0 0 0 2 0 0 0 1 0 0 0 2 LS11.dat
+0 // Technic Flex-System Cable End
+1 20 0 0 0 1 0 0 0 -1 0 0 0 1 342.DAT
+0 SYNTH END
+0 
+0
+0 FILE FLEX_SYSTEM_HOSE.ldr
+0 FLEX_SYSTEM_HOSE SYNTHESIS DEFINITION
+0 Name: FLEX_SYSTEM_HOSE_LD.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE FLEX_SYSTEM_HOSE HOSE STRETCH 6 40 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS50.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS51.dat
+1 0 0 -1 0 1 0 0 0 -1 0 0 0 1 LS50.dat
+0 SYNTH END
+0 
+0
+0 FILE PLASTIC_TREAD.ldr
+0 PLASTIC_TREAD SYNTHESIS DEFINITION
+0 Name: PLASTIC_TREAD.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE PLASTIC_TREAD BAND FIXED 0.0625 8
+0 // Technic Link Tread
+1 0 0 0 16 0 1 0 0 0 -1 -1 0 0 3873.dat
+0 // Technic Link Tread
+1 0 0 0 0 0 -1 0 0 0 1 -1 0 0 3873.dat
+0 SYNTH END
+0 
+0
+0 FILE PNEUMATIC_HOSE.ldr
+0 PNEUMATIC_HOSE SYNTHESIS DEFINITION
+0 Name: PNEUMATIC_HOSE.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE PNEUMATIC_HOSE HOSE STRETCH 12 30 0
+0 // LSynth Technic Pneumatic Hose - End Piece
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS20.dat
+0 // LSynth Technic Pneumatic Hose - Cross Section
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS21.dat
+0 // LSynth Technic Pneumatic Hose - End Piece
+1 0 0 -1 0 1 0 0 0 -1 0 0 0 1 LS20.dat
+0 SYNTH END
+0 
+0
+0 FILE RIBBED_HOSE.ldr
+0 RIBBED_HOSE SYNTHESIS DEFINITION
+0 Name: RUBBER_BAND.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE RIBBED_HOSE HOSE FIXED 1 80 0
+0 // Technic Ribbed Hose End Segment
+1 0 0 -2.5 0 1 0 0 0 -1 0 0 0 1 79.DAT
+0 // Technic Ribbed Hose Segment
+1 6 0 2.5 0 1 0 0 0 1 0 0 0 1 80.dat
+0 // Technic Ribbed Hose End Segment
+1 0 0 2.5 0 1 0 0 0 1 0 0 0 1 79.DAT
+0 SYNTH END
+0 
+0
+0 FILE RIGID_HOSE.ldr
+0 RIGID_HOSE SYNTHESIS DEFINITION
+0 Name: RIGID_HOSE.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE RIGID_HOSE HOSE FIXED50 1 30 0
+0 // Hose Flexible Segment End Section
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 755.DAT
+0 // Hose Flexible Segment Center Section
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 756.DAT
+0 // Hose Flexible Segment End Section
+1 5 0 0 0 1 0 0 0 -1 0 0 0 1 755.DAT
+0 SYNTH END
+0 
+0
+0 FILE RUBBER_HOSE.ldr
+0 RUBBER_HOSE SYNTHESIS DEFINITION
+0 Name: RUBBER_HOSE.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE RUBBER_HOSE HOSE FIXED50 1 30 0
+0 // Hose Flexible Segment End Section
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 755.DAT
+0 // Hose Flexible Segment Center Section
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 756.DAT
+0 // Hose Flexible Segment End Section
+1 5 0 0 0 1 0 0 0 -1 0 0 0 1 755.DAT
+0 SYNTH END
+0 
+0
+0 FILE RUBBER_TREAD.ldr
+0 RUBBER_TREAD SYNTHESIS DEFINITION
+0 Name: RUBBER_TREAD.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE RUBBER_TREAD BAND FIXED3 0.05 1
+1 0 0 32 0 0 -1 0 1 0 0 0 0 1 680.DAT
+1 0 0 32 0 -0.342 0.94 0 -0.94 -0.342 0 0 0 1 682.DAT
+1 0 0 32 0 -0.342 0.94 0 -0.94 -0.342 0 0 0 1 681.DAT
+1 0 0 32 0 0.342 0.94 0 0.94 -0.342 0 0 0 1 681.DAT
+0 SYNTH END
+0
+0
+0 // Meta commands for backwards compatibility with LSynth 3.0
+0
+0
+0 FILE TECHNIC_PNEUMATIC_HOSE.ldr
+0 TECHNIC_PNEUMATIC_HOSE SYNTHESIS DEFINITION
+0 Name: TECHNIC_PNEUMATIC_HOSE.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 SYNTH BEGIN DEFINE TECHNIC_PNEUMATIC_HOSE HOSE STRETCH 12 30 0
+0 // LSynth Technic Pneumatic Hose - End Piece
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS20.dat
+0 // LSynth Technic Pneumatic Hose - Cross Section
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 LS21.dat
+0 // LSynth Technic Pneumatic Hose - Beveled End Piece
+1 0 0 -1 0 1 0 0 0 -1 0 0 0 1 LS20.dat
+0 SYNTH END
+0 
+0 
+0 FILE HOSE_FLEXIBLE.ldr
+0 HOSE_FLEXIBLE SYNTHESIS DEFINITION
+0 Name: HOSE_FLEXIBLE.ldr
+0 Author: Kevin L. Clague
+0 Unofficial Model
+0 // End sections are different size/shape and not included in the 50 count.
+0 SYNTH BEGIN DEFINE HOSE_FLEXIBLE HOSE FIXED50 1 30 0
+0 // Hose Flexible Segment End Section
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 755.DAT
+0 // Hose Flexible Segment Center Section
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 756.DAT
+0 // Hose Flexible Segment End Section
+1 5 0 0 0 1 0 0 0 -1 0 0 0 1 755.DAT
+0 SYNTH END
+0 
