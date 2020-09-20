@@ -17,10 +17,10 @@ like:
     rubber band, rubber belt, technic chain, technic plastic tread, technic
     rubber tread.
 
-The files tube.c, tube.h, curve.c and curve.h perform hose synthesis.
-The files band.c and band.h perform band synthesis.
+The files `tube.c`, `tube.h`, `curve.c` and `curve.h` perform hose synthesis.
+The files `band.c` and `band.h` perform band synthesis.
 
-This file (main.c) contains the main entry/exit points for the program.
+This `lsynthcp.c` file contains the main entry/exit points for the program.
 It opens and scans the LDraw file provided, identifies synthesis
 synthesis specifications and hands them off to the appropriate synthesis
 methodology.
@@ -40,15 +40,20 @@ make
 
 `lsynthcp [-v] [-h] [-m] [-l] [-p] <src> <dst>`
 
-- -v: prints lsynthcp version
+- -v: prints `lsynthcp` version
 - -h: prints this help message
-- -m: prints out the LSynth portion of the MLcad.ini for using this program
+- -m: prints out the LSynth portion of the `MLcad.ini` for using this program
 - -l: format the output as an official ldraw part
 - -p: prints out the full path name of the this executable
 
-The easiest way to use LSynth is from within MLcad.  You need to
-make additions to MLCad.ini.  Please see [Willy Tscager's tutorial
-page](http://www.holly-wood.it/lsynth-en.html).
+See [Willy Tscager's tutorial
+page](http://www.holly-wood.it/lsynth-en.html) for using LSynth within MLCAD.
 
 To create a flexible part, you put specifications for the part
 directly into your LDraw file, where the part is needed.
+
+Example usage to recreate one of the provided example files:
+
+```
+./lsynthcp examples/ELECTRIC_NXT_CABLE-Constraints.ldr examples/result.ldr
+```
