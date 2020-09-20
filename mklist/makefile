@@ -1,11 +1,11 @@
 CC=gcc
 
-CFLAGS= -I./include
+CFLAGS= -I./src/include
 
 AR = ar
 RANLIB = ranlib
 
-SRCS = mklist.c 
+SRCS = src/mklist.c 
 OBJS = $(SRCS:.c=.o)
 
 all	: mklist
