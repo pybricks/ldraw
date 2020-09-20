@@ -25,6 +25,17 @@ It opens and scans the LDraw file provided, identifies synthesis
 synthesis specifications and hands them off to the appropriate synthesis
 methodology.
 
+### Obtaining LSynth binaries
+
+You may be able to obtain pre-built binaries from [here](http://lsynth.sourceforge.net/).
+Place the executable in this directory.
+
+To build it from source instead, just run:
+
+```
+make
+```
+
 ### Usage
 
 `lsynthcp [-v] [-h] [-m] [-l] [-p] <src> <dst>`
