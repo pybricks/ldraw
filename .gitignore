@@ -60,3 +60,8 @@ Parts.lst
 parts.lst
 mlcad/*
 !mlcad/README.md
+
+# LPub3D
+**/LPub3D/*
+stderr-ldview
+stdout-ldview
