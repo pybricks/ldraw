@@ -1,15 +1,17 @@
-0 Minifig Torso with Body Armor with Dark Bluish Grey and Metallic Dark Grey Crossing Lines and Metallic Silver Teeth Necklace Pattern
+0 Minifig Torso with Body Armour with Dark Bluish Grey and Metallic Dark Grey Crossing Lines and Metallic Silver Teeth Necklace Pattern
 0 Name: 973pc2.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Marvel, Super Heroes, Avengers, Civil War, Black Panther
-0 !KEYWORDS bricklink 973pb2282, set 76047
+0 !KEYWORDS bricklink 973pb2282, set 76047, armor
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+0 !HISTORY 2020-11-14 [cwdee] Correct description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 80 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat

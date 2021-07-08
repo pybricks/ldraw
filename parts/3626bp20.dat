@@ -1,0 +1,26 @@
+0 Minifig Head with Red Lips, Open Mouth and Thick Eyelashes Pattern
+0 Name: 3626bp20.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Paradisa, Seaside, Surf, Aerial Acrobats, Bricklink 3626bpb0175
+0 !KEYWORDS Set 6401, Set 6411, Set 6416, Set 6419, Set 6345, Set 6403, Set 6409, Set 6595
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bp20s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626bp20s01.dat
+
+0 // Head without stud
+1 16 0 4 0 0 0 8 0 -6.4 0 -8 0 0 t04o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
+1 16 0 4 0 13 0 0 0 13 0 0 0 -13 1-8cyli.dat
+1 16 0 4 0 -13 0 0 0 13 0 0 0 -13 1-8cyli.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t08o6250.dat

@@ -1,0 +1,16 @@
+0 Hi-Res Ring  1 x 0.0417
+0 Name: 48\1-24ring1.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG 48_Primitive UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+4 16 1 0 0 2 0 0 1.9828 0 .261 .9914 0 .1305
+4 16 .9914 0 .1305 1.9828 0 .261 1.9318 0 .5176 .9659 0 .2588
+
+0 end of file 
+
+

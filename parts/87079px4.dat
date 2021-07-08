@@ -1,0 +1,22 @@
+0 Tile  2 x  4 with Black Triangle on Bottom Right and Red Diagonal Stripe Pattern
+0 Name: 87079px4.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 87079pb343L, Set 71251
+0 !KEYWORDS Lego Dimensions, A-Team
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
+
+4 16 38.5 0 -18.5 -38.5 0 -18.5 -40 0 -20 40 0 -20
+4 16 38.5 0 -18.5 40 0 -20 40 0 20 38.5 0 18.5
+4 16 19.5 0 18.5 38.5 0 18.5 40 0 20 -40 0 20
+3 16 -40 0 20 -38.5 0 -12.5 19.5 0 18.5
+4 16 -38.5 0 -12.5 -40 0 20 -40 0 -20 -38.5 0 -18.5
+4 4 19.5 0 18.5 -38.5 0 -12.5 -38.5 0 -18.5 38.5 0 18.5
+3 0 38.5 0 18.5 -38.5 0 -18.5 38.5 0 -18.5

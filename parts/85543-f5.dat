@@ -1,7 +1,7 @@
-0 Rubber Belt Round 15 /  1.6 (Formed) for Technic Bush - Wheel Rim  8 x 11.2 with Centre Groove
+0 Rubber Belt Round 15 /  1.6 (Formed for Technic Bush - Wheel Rim  8 x 11.2 with Centre Groove)
 0 Name: 85543-f5.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !HELP 1 71 50 -16 0 1 0 0 0 1 0 0 0 1 42610.dat
@@ -14,6 +14,8 @@
 0 !KEYWORDS Set 10265, Ford, Mustang
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+0 !HISTORY 2020-11-15 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 -2.5906 0 -8.0956 -8.0956 0 2.5906 0 -8.5 0 t02q1765.dat
 1 16 46.4954 -26.953 0 -.4572 -49.086 0 -1.4286 18.8574 0 0 0 -1.5 4-4cyli.dat

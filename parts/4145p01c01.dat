@@ -1,0 +1,15 @@
+0 Duplo Brick  1 x  4 x  3 with Black and Yellow Clock Face Pattern and Red Articulated Hands
+0 Name: 4145p01c01.dat
+0 Author: Tim Lampmann [L4mpi]
+0 !LDRAW_ORG Shortcut UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4145p01.dat
+1 4 0 72 -20 1 0 0 0 1 0 0 0 1 u9523.dat
+1 4 0 72 -20 0 -1 0 1 0 0 0 0 1 u9524.dat

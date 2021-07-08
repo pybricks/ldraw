@@ -1,0 +1,15 @@
+0 Brick  1 x  2 x  2 with Red Bow Tie, White Shirt and Yellow Trim Pattern
+0 Name: 3245cpzc.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 40377, BrickLink 3245cpb117, BrickHeadz, Donald Duck, Disney
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3245cs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3245cpzcs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3245cpzcs01.dat

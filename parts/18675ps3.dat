@@ -1,0 +1,21 @@
+0 Dish  6 x  6 Inverted - No Studs with Handle with Grey Lines on Black Background, Red Area and Window Pattern
+0 Name: 18675ps3.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS TIE Fighter, Star Wars, First Order, Bricklink 18675pb07, Set 75101
+
+0 !HISTORY 2019-06-28 [GeraldLasser] Corrected Color
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18675s01.dat
+
+0 BFC NOCLIP
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18675ps3s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\18675ps3s01.dat
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\18675ps3s02.dat
+1 0 0 0 0 -1 0 0 0 1 0 0 0 1 s\18675ps3s02.dat

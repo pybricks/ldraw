@@ -1,0 +1,22 @@
+0 Minifig Head Trandoshan with White Teeth and Orange Eyes with Black Pupil Pattern 
+0 Name: 87570p01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Star Wars, Boosk, Bricklink 87570pb01, Set 8097, Set 10221
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87570s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87570s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87570p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87570p01s01.dat
+
+0 BFC INVERTNEXT
+1 16 0 -24.908 0 6 0 0 0 24.908 0 0 0 6 4-4cyli.dat
+1 16 0 -24.908 0 6 0 0 0 -1 0 0 0 6 4-4disc.dat
+1 16 0 -24.908 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat

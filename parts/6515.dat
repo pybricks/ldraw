@@ -1,7 +1,7 @@
 0 ~Duplo Brick  2 x 10 with Holes Bottom
 0 Name: 6515.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !CATEGORY Technic
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+0 !HISTORY 2020-08-15 [Philo] Corrected wrongly placed bottom rib
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 -120 0 0 1 0 0 0 1 0 0 0 1 s\6517s01.dat
 1 16 -120 34 0 1 0 0 0 -2.75 0 0 0 -1 stud8a.dat
@@ -97,7 +99,7 @@
 4 16 200 24 -40 200 24 40 198 24 38 198 24 -38
 4 16 172 24 38 198 24 38 200 24 40 172 24 40
 1 16 -180 24 -34 1.5 0 0 0 23 0 0 0 2 box4-1.dat
-1 16 -60 24 34 1.5 0 0 0 23 0 0 0 -2 box4-1.dat
+1 16 180 24 34 1.5 0 0 0 23 0 0 0 -2 box4-1.dat
 1 16 -194 24 -20 0 0 2 0 23 0 -1.5 0 0 box4-1.dat
 1 16 194 24 -20 0 0 -2 0 23 0 1.5 0 0 box4-1.dat
 1 16 -194 24 20 0 0 2 0 23 0 -1.5 0 0 box4-1.dat

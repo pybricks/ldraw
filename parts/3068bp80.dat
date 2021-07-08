@@ -1,7 +1,7 @@
-0 Tile  2 x  2 with Instruments and Keyboard Pattern
+0 Tile  2 x  2 with '0:19' Display and 28-Key 'QERYUIOP' Keyboard Pattern
 0 Name: 3068bp80.dat
 0 Author: Carsten Schmitz [Deckard]
-0 !LDRAW_ORG Part UPDATE 2004-04
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -14,8 +14,11 @@
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2019-08-17 [cwdee]   Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 0 // Red
+
 4 4 -14.15 0 14.3 -11.25 0 14.3 -14.15 0 13.2 -14.7 0 13.75
 4 4 -11.25 0 13.2 -14.15 0 13.2 -11.25 0 14.3 -10.7 0 13.75
 4 4 -9.8 0 12.9 -9.8 0 10 -10.9 0 12.9 -10.35 0 13.45

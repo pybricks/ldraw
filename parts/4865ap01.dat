@@ -1,0 +1,18 @@
+0 Panel  1 x  2 x  1 with Fire Logo Pattern
+0 Name: 4865ap01.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 6389, Set 1656, bricklink 4865pb004
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4865as01.dat
+1 16 0 12 10 -0.085 0 0 0 0 -0.085 0 -1 0 s\4209s01.dat
+4 16 20 24 10 -20 24 10 -10.455 22.455 10 10.455 22.455 10
+4 16 -20 24 10 -20 0 10 -10.455 1.545 10 -10.455 22.455 10
+4 16 -20 0 10 20 0 10 10.455 1.545 10 -10.455 1.545 10
+4 16 20 0 10 20 24 10 10.455 22.455 10 10.455 1.545 10

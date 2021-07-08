@@ -1,12 +1,16 @@
-0 ~Electric Spike Prime Distance Sensor Frame
+0 ~Electric Powered Up Distance Sensor Frame
 0 Name: u9466.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS Spike Prime, Mindstorms, Robot Inventor
+
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !HISTORY 2020-12-27 [PTadmin] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 0 BFC INVERTNEXT
 1 16 40 0 0 0 0 16 16 0 0 0 4 0 4-4cylo.dat

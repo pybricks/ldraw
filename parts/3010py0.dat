@@ -1,0 +1,15 @@
+0 Brick  1 x  4 with Metallic Gold V-Neck Collar and Curved Dark Purple Line Pattern
+0 Name: 3010py0.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 41605, Bricklink 3010pb227, Brickheadz, Thanos, Avengers, Infinity War, Chest
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010py0s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3010py0s01.dat

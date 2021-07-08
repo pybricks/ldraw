@@ -1,12 +1,14 @@
-0 ~Electric Spike Prime Large Motor Front Bottom Half
+0 ~Electric Powered Up Large ANgular Motor Front Bottom Half
 0 Name: s\u9368s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2019-03
+0 !LDRAW_ORG Subpart UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !HISTORY 2020-12-27 [PTadmin] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 2 24 47 -9 50 49 -9 50
 2 24 47 -9 50 47 7 50

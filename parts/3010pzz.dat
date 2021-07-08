@@ -1,0 +1,15 @@
+0 Brick  1 x  4 with Metallic Gold Scales Pattern
+0 Name: 3010pzz.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 41600, Bricklink 3010pb221, Brickheadz, Aquaman, Justice League
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010pzzs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3010pzzs01.dat

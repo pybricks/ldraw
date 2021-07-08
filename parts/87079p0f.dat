@@ -1,0 +1,19 @@
+0 Tile  2 x  4 with White Stripe Pattern
+0 Name: 87079p0f.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Crosswalk, Zebra Crossing, set 60304, BrickLink 87079pb821
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
+
+4 16 39 0 -10 -39 0 -10 -40 0 -20 40 0 -20
+4 16 39 0 10 39 0 -10 40 0 -20 40 0 20
+4 16 39 0 10 40 0 20 -40 0 20 -39 0 10
+4 16 -39 0 -10 -39 0 10 -40 0 20 -40 0 -20
+4 15 -39 0 10 -39 0 -10 39 0 -10 39 0 10

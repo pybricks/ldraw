@@ -1,12 +1,14 @@
-0 ~Minifig Torso with Armor Vest, Silver Wolf Head and Blue Round Jewel Pattern Half
+0 ~Minifig Torso with Armour Vest, Silver Wolf Head and Blue Round Jewel Pattern Half
 0 Name: s\973paws01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2014-01
+0 !LDRAW_ORG Subpart UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2020-11-14 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 4 0 1.2063 13.1123 -10 0 13.3523 -10 0 13.907 -10 1.4186 13.6248 -10
 4 0 2.229 12.429 -10 1.2063 13.1123 -10 1.4186 13.6248 -10 2.6212 12.8212 -10

@@ -1,12 +1,14 @@
-0 ~Minifig Torso with Silver Armor Front and Back - Front Half
+0 ~Minifig Torso with Silver Armour Front and Back - Front Half
 0 Name: s\973pavs01.dat
 0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG Subpart UPDATE 2013-01
+0 !LDRAW_ORG Subpart UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2020-11-14 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 3 0 13.733 30.536 -10 14.887 31.57 -10 15.088 31.031 -10
 4 0 14.887 31.57 -10 13.733 30.536 -10 13.199 30.331 -10 11.432 30.294 -10

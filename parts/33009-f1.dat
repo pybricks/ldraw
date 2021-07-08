@@ -1,7 +1,7 @@
-0 Minifig Book
+0 Minifig Book (Closed)
 0 Name: 33009-f1.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Part UPDATE 2018-01
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -18,6 +18,8 @@
 0 !HISTORY 2014-12-20 [MagFors] Made BFC compliant
 0 !HISTORY 2018-01-28 [PTadmin] Renamed from 33009
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+0 !HISTORY 2020-11-15 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 0 // This piece is a "container."  It easily holds a 1x2 tile with room to spare.
 

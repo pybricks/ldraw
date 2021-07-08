@@ -1,0 +1,15 @@
+0 Flag  2 x  2 with Lion Head on Blue and Yellow Diagonal Stripes Background Pattern
+0 Name: 2335p42.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 2335px10, Set 6091, Set 6098, Set 4816, Knights Kingdom
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2335s01.dat
+1 16 2 20 10 0 0 -1 -1 0 0 0 1 0 s\2335p42s01.dat
+1 16 -2 20 10 0 0 1 1 0 0 0 1 0 s\2335p42s01.dat

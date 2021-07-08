@@ -1,0 +1,823 @@
+ldraw.org Parts Update 2020-03
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Tue Dec 29 14:30:57 2020 by the Parts Tracker.
+
+Release statistics:
+   Total files: 1663
+   New files: 1315
+   New parts: 829
+   New subparts: 371
+   New primitives: 66
+   New lo-res primitives: 23
+   New hi-res primitives: 20
+   New part texture images: 6
+
+New 3-digit part numbers assigned:
+   447.dat ~Train Wheel 4 Studs with Traction Teeth
+   579.dat ~Electric Train Motor  4 x 12 x  4 Cover
+   580.dat ~Electric Train Motor  4 x 12 x  4 Base
+
+Moved Parts
+   2350D.DAT                  ~Moved to 47643
+   2454DM0.DAT                ~Moved to 2454adm0
+   2454DQ0.DAT                ~Moved to 2454adq0
+   2454DQ1.DAT                ~Moved to 2454adq1
+   2454DQ2.DAT                ~Moved to 2454adq2
+   2454DQ3.DAT                ~Moved to 2454adq3
+   2454DQ4.DAT                ~Moved to 2454adq4
+   2454DQ5.DAT                ~Moved to 2454adq5
+   2454DQ6.DAT                ~Moved to 2454adq6
+   2454DQ7.DAT                ~Moved to 2454adq7
+   2454DQ8.DAT                ~Moved to 2454adq8
+   2454PA0.DAT                ~Moved to 2454apa0
+   2454PH0.DAT                ~Moved to 2454aph0
+   2454PS5.DAT                ~Moved to 2454aps5
+   2654.DAT                   ~Moved to 2654a
+   3067P02.DAT                ~Moved to 3067ap02
+   3067P03.DAT                ~Moved to 3067ap03
+   33299.DAT                  ~Moved to 33299a
+   4209.DAT                   ~Moved to 4209a
+   4209P01.DAT                ~Moved to 4209ap01
+   4209P05.DAT                ~Moved to 4209ap05
+   4209P70.DAT                ~Moved to 4209ap70
+   4865P06.DAT                ~Moved to 4865ap06
+   4865P18.DAT                ~Moved to 4865apt0
+   758.DAT                    ~Moved to 30527k02
+   759.DAT                    ~Moved to 30527k01
+   79.DAT                     ~Moved to 71944k01
+   80.DAT                     ~Moved to 71944k02
+   822.DAT                    ~Moved to 822ac01
+   824.DAT                    ~Moved to 824c01
+   918.DAT                    ~Moved to 59494
+   921.DAT                    ~Moved to 54746
+   4209S02.DAT                ~Moved to s\4209as02
+   4865S01.DAT                ~Moved to s\4865as01
+   6216MB.DAT                 ~Moved to u9373
+   78S01.DAT                  ~Moved to s\71944s01
+   U9000.DAT                  ~Moved to 6051a
+   U9042.DAT                  ~Moved to 2499
+   U9043.DAT                  ~Moved to 2501
+
+Renamed Parts
+   1-8RING5.DAT               Ring  5 x 0.25
+   changed to    Ring  5 x 0.125
+
+   003238A.DAT                Sticker Minifig Shield Triangular with Crown on DkPink B/ground
+   changed to    Sticker Minifig Shield Triangular with Crown on Dark Pink Background
+
+   003238B.DAT                Sticker Minifig Shield Triangular with Green Chevrons on DkGray
+   changed to    Sticker Minifig Shield Triangular with Green and Yellow Chevrons on Dark Grey Background
+
+   003238C.DAT                Sticker Minifig Shield Triangular with White Maltese Cross
+   changed to    Sticker Minifig Shield Triangular with White Maltese Cross on Red Background
+
+   003238F.DAT                Sticker Minifig Vest with Shield with Green Chevrons/DkGray
+   changed to    Sticker Minifig Vest with Shield with Green and Yellow Chevrons on Dark Grey Background
+
+   003238G.DAT                Sticker Minifig Vest w/ Shield with White Maltese Cross/DkGray
+   changed to    Sticker Minifig Vest with Shield with White Maltese Cross on Dark Grey Background
+
+   003238I.DAT                Sticker Flag with Crown on Dark-Pink
+   changed to    Sticker Flag with Crown on Dark Pink Background
+
+   003238J.DAT                Sticker  1 x  5.8 with Dark_Pink Banner
+   changed to    Sticker  1.0 x  5.8 with Dark Pink Banner
+
+   003238K.DAT                Sticker Minifig Shield Triangular with Crown on Violet B/ground
+   changed to    Sticker Minifig Shield Triangular with Crown on Violet Background
+
+   003238L.DAT                Sticker Minifig Shield Triangular with Green Chevrons on LtGray
+   changed to    Sticker Minifig Shield Triangular with Green and Yellow Chevrons on Light Grey Background
+
+   003238O.DAT                Sticker Minifig Vest with Shield with Green Chevrons/LtGray
+   changed to    Sticker Minifig Vest with Shield with Green Chevrons on Light Grey Background
+
+   003238P.DAT                Sticker Minifig Vest w/ Shield with White Maltese Cross/LtGrey
+   changed to    Sticker Minifig Vest with Shield with White Maltese Cross on Light Grey Background
+
+   003238R.DAT                Sticker Flag with Crown Violet
+   changed to    Sticker Flag with Crown on Violet Background
+
+   003238S.DAT                Sticker  1 x  5.8 with Violet Banner
+   changed to    Sticker  1.0 x  5.8 with Violet Banner
+
+   11097.DAT                  Minifig Armor Shoulder Pads with 1 Stud on Front, 2 Studs on Back
+   changed to    Minifig Armour Shoulder Pads with 1 Stud on Front, 2 Studs on Back
+
+   11438.DAT                  Minifig Armor Shoulder Pads with Ridges
+   changed to    Minifig Armour Shoulder Pads with Ridges
+
+   15068P01.DAT               Slope Brick Curved  2 x  2 x  0.667 with Wolf Armor and Eyes Pattern
+   changed to    Slope Brick Curved  2 x  2 x  0.667 with Wolf Armour and Eyes Pattern
+
+   15086.DAT                  Minifig Armor Shoulder Pads with Neck Protection, 1 Stud on Front, 2 Studs on Back
+   changed to    Minifig Armour Shoulder Pads with Neck Protection, 1 Stud on Front, 2 Studs on Back
+
+   15534.DAT                  Minifig Grappling Hook with Bar
+   changed to    Minifig Tool Grappling Hook with Bar
+
+   15556.DAT                  =Minifig Lightsaber Hilt without Bottom Ring
+   changed to    ~Minifig Lightsaber Hilt without Bottom Ring (Obsolete)
+
+   18675PS1.DAT               Dish 6 x  6 Inverted - No Studs with Handle with Octagonal Cockpit Pattern
+   changed to    Dish  6 x  6 Inverted - No Studs with Handle with Octagonal Cockpit Pattern
+
+   193445E.DAT                Sticker  2.0 x  0.8 with Black "TURN OFF ENGINE" on Clear Background
+   changed to    Sticker  0.9 x  1.9 with Black "TURN OFF ENGINE" and Frame on Clear Background
+
+   196955C.DAT                Sticker  1 x  1 with Crossed Knife and Fork Pattern
+   changed to    Sticker  1.0 x  1.0 with Crossed Knife and Fork
+
+   199025A.DAT                Sticker Minifig Vest with Yellow/Black Chevrons
+   changed to    Sticker  1.6 x  1.3 with  5 Yellow/Black Chevrons Downwards
+
+   22385P126.DAT              Tile  3 x  2 with Angled End with Nexo Power Shield Pattern - Magic Anti Evil Ultra Armour Upgrade
+   changed to    Tile  3 x  2 with Angled End with Nexo Power Shield Pattern - Magic Anti Evil Ultra Armor Upgrade
+
+   2454.DAT                   Brick  1 x  2 x  5
+   changed to    ~Brick  1 x  2 x  5 (Obsolete)
+
+   2605.DAT                   ~Brick  1 x  2 x  2 & 1/3 Shock Absorber
+   changed to    ~Brick  1 x  2 x  2.333 Shock Absorber
+
+   2904.DAT                   Technic Motorcycle Pivot
+   changed to    Technic Brick  2 x  2 with Motorcycle Steering Head
+
+   30174.DAT                  Minifig Armor Samurai
+   changed to    Minifig Armour Samurai
+
+   30218-F1.DAT               Animal Clam Closed
+   changed to    Animal Clam (Closed)
+
+   30218-F2.DAT               Animal Clam Open 45 Degrees
+   changed to    Animal Clam (Open 45 Degrees)
+
+   30357.DAT                  Plate  3 x  3 Corner Round
+   changed to    Plate  3 x  3 with  2 x  2 Corner Round
+
+   3068BP80.DAT               Tile  2 x  2 with Instruments and Keyboard Pattern
+   changed to    Tile  2 x  2 with '0:19' Display and 28-Key 'QERYUIOP' Keyboard Pattern
+
+   3069BP80.DAT               Tile  1 x  2 with Keyboard Pattern
+   changed to    Tile  1 x  2 with 28-Key 'QERYUIOP' Keyboard Pattern
+
+   3070BPB0.DAT               Tile  1 x  1 with Iron Man Armor and White Hexagonal Reactor Pattern
+   changed to    Tile  1 x  1 with Iron Man Armour and White Hexagonal Reactor Pattern
+
+   32086.DAT                  Windscreen  8 x  6 x  3
+   changed to    Windscreen  6 x  8 x  3
+
+   32123A.DAT                 Technic Bush 1/2 Smooth with Axle Hole Reduced
+   changed to    Technic Bush  1/2 Smooth with Axle Hole Reduced
+
+   32373.DAT                  =Minifig Spear
+   changed to    =Minifig Spear with Round End
+
+   3245B.DAT                  Brick  1 x  2 x  2 with Inside Axleholder
+   changed to    Brick  1 x  2 x  2 with Inside Axle Holder
+
+   3245BDQ0.DAT               Brick  1 x  2 x  2 with Inside Axleholder with Horus Head Sticker
+   changed to    Brick  1 x  2 x  2 with Inside Axle Holder with Horus Head Sticker
+
+   3245BDQ1.DAT               Brick  1 x  2 x  2 with Inside Axleholder with Anubis Head Sticker
+   changed to    Brick  1 x  2 x  2 with Inside Axle Holder with Anubis Head Sticker
+
+   3245BDQ2.DAT               Brick  1 x  2 x  2 with Inside Axleholder with Eye of Horus Sticker
+   changed to    Brick  1 x  2 x  2 with Inside Axle Holder with Eye of Horus Sticker
+
+   3245BDQ3.DAT               Brick  1 x  2 x  2 with Inside Axleholder with Hieroglyphs (3 Snakes) Sticker
+   changed to    Brick  1 x  2 x  2 with Inside Axle Holder with Hieroglyphs (3 Snakes) Sticker
+
+   3245BP01.DAT               Brick  1 x  2 x  2 with Inside Axleholder with Train Point Pattern
+   changed to    Brick  1 x  2 x  2 with Inside Axle Holder with Train Point Pattern
+
+   3245BP02.DAT               Brick  1 x  2 x  2 with Inside Axleholder with Yellow Triangle Pattern
+   changed to    Brick  1 x  2 x  2 with Inside Axle Holder with Yellow Triangle Pattern
+
+   32578.DAT                  Bionicle Matoran Claw Arm
+   changed to    Technic Bionicle Matoran Claw Arm
+
+   33009-F1.DAT               Minifig Book
+   changed to    Minifig Book (Closed)
+
+   33009-F2.DAT               Minifig Book Open
+   changed to    Minifig Book (Open)
+
+   3308.DAT                   Arch  1 x  8 x  2
+   changed to    ~Arch  1 x  8 x  2 (Obsolete)
+
+   37308.DAT                  Electric Spike Prime Colour Sensor
+   changed to    Electric Powered Up Colour Sensor
+
+   37308C01.DAT               Electric Spike Prime Colour Sensor with Coiled Cable
+   changed to    Electric Powered Up Colour Sensor with Coiled Cable
+
+   37316.DAT                  Electric Spike Prime Distance Sensor
+   changed to    Electric Powered Up Distance Sensor
+
+   37316C01.DAT               Electric Spike Prime Distance Sensor with Coiled Cable
+   changed to    Electric Powered Up Distance Sensor with Coiled Cable
+
+   3816BP4F.DAT               Minifig Leg Right with Leather Straps (Red Studs) Pattern
+   changed to    Minifig Leg Right with Leather Straps and Red Diamonds Pattern
+
+   3817BP4F.DAT               Minifig Leg Left with Leather Straps (Red Studs) Pattern
+   changed to    Minifig Leg Left with Leather Straps and Red Diamonds Pattern
+
+   3844.DAT                   Minifig Castle Helmet with Neck Protector
+   changed to    Minifig Helmet Castle with Neck Protector
+
+   3896.DAT                   Minifig Castle Helmet with Chin-Guard
+   changed to    Minifig Helmet Castle with Chin-Guard
+
+   3960PS5.DAT                Dish  4 x  4 Inverted with SW Millenium Falcon Cockpit Pattern
+   changed to    Dish  4 x  4 Inverted with SW Millennium Falcon Cockpit Pattern
+
+   3960PS6.DAT                Dish  4 x  4 Inverted with SW Kessel Run Millenium Falcon Cockpit Pattern
+   changed to    Dish  4 x  4 Inverted with SW Kessel Run Millennium Falcon Cockpit Pattern
+
+   3960PS7.DAT                Dish  4 x  4 Inverted with SW Millenium Falcon Cockpit with Four Light Bluish Grey Lower Sections Pattern
+   changed to    Dish  4 x  4 Inverted with SW Millennium Falcon Cockpit with Four Light Bluish Grey Lower Sections Pattern
+
+   4208.DAT                   Hose Reel  2 x  4 x  2 Drum (Needs work)
+   changed to    Hose Reel  2 x  4 x  2 Drum
+
+   4330.DAT                   Fabuland Shovel
+   changed to    ~Fabuland Shovel (Obsolete)
+
+   44375BPS0.DAT              Dish  6 x  6 Inverted Solid Studs with Millenium Falcon Cockpit Pattern
+   changed to    Dish  6 x  6 Inverted Solid Studs with Millennium Falcon Cockpit Pattern
+
+   44728.DAT                  Bracket  1 x  2 -  2 x  2
+   changed to    Bracket  1 x  2 -  2 x  2 Down
+
+   4497.DAT                   Minifig Spear
+   changed to    Minifig Spear with Round End
+
+   45601.DAT                  Electric Spike Prime Hub without Rechargeable Battery
+   changed to    Electric Powered Up 6 Port Hub with Yellow Bottom without Rechargeable Battery
+
+   45601C01.DAT               Electric Spike Prime Hub
+   changed to    Electric Powered Up 6 Port Hub with Yellow Bottom
+
+   45601P01.DAT               Electric Spike Prime Hub with Dot Matrix Smiling Face Pattern
+   changed to    Electric Powered Up 6 Port Hub with Yellow Bottom with Dot Matrix Smiling Face Pattern
+
+   45601P02.DAT               Electric Spike Prime Hub with Dot Matrix Heart Pattern
+   changed to    Electric Powered Up 6 Port Hub with Yellow Bottom with Dot Matrix Heart Pattern
+
+   45610.DAT                  Electric Spike Prime Hub Rechargeable Battery
+   changed to    Electric Powered Up 6 Port Hub Rechargeable Battery
+
+   4614C01-F1.DAT             Fabuland Jack Lowered
+   changed to    Fabuland Jack (Lowered)
+
+   4614C01-F2.DAT             Fabuland Jack Raised
+   changed to    Fabuland Jack (Raised)
+
+   4618C01.DAT                Fuel Pump with Black Hose
+   changed to    Figure Fuel Pump with Black Hose
+
+   46212.DAT                  Brick  1 x  2 x  5 without Centre Studs
+   changed to    ~Brick  1 x  2 x  5 without Centre Studs (Obsolete)
+
+   46226.DAT                  ~Technic Gearbox  2 x  4 x  4 (Axle 2)
+   changed to    ~Technic Gearbox  2 x  4 x  4 Axle 2
+
+   46667.DAT                  Jet Engine Fan with 10 Blades and Technic Pin
+   changed to    Plane Jet Engine Fan with 10 Blades and Technic Pin
+
+   4716.DAT                   Technic Worm Gear
+   changed to    Technic Worm Gear 2L
+
+   48489.DAT                  Visor with Pointy Sides and Eye Slit
+   changed to    Minifig Helmet Visor with Pointy Sides and Eye Slit
+
+   51560-F1.DAT               Duplo Train Track Point Rail with Red Tongue, Turning Right
+   changed to    Duplo Train Track Point Rail with Red Tongue (Turning Right)
+
+   51560-F2.DAT               Duplo Train Track Point Rail with Red Tongue, Turning Left
+   changed to    Duplo Train Track Point Rail with Red Tongue (Turning Left)
+
+   53543.DAT                  Technic Bionicle Toa Inika Thigh Armor
+   changed to    Technic Bionicle Toa Inika Thigh Armour
+
+   54675.DAT                  Electric Spike Prime Large Motor
+   changed to    Electric Powered Up Large Angular Motor with Medium Azure Back
+
+   54675C01.DAT               Electric Spike Prime Large Motor with Coiled Cable
+   changed to    Electric Powered Up Large Angular Motor with Medium Azure Back with Coiled Cable
+
+   577A.DAT                   Minifig Lightsaber Hilt without Bottom Ring
+   changed to    ~Minifig Lightsaber Hilt without Bottom Ring (Obsolete)
+
+   6019.DAT                   Plate  1 x  1 with Clip Horizontal (Open U-Clip)
+   changed to    Plate  1 x  1 with Clip Horizontal (Thick U-Clip)
+
+   60470A.DAT                 Plate  1 x  2 with  2 Clips Horizontal (Open U-Clips)
+   changed to    Plate  1 x  2 with  2 Clips Horizontal (Thick U-Clips)
+
+   60471.DAT                  Hinge Plate  1 x  2 Locking with Dual Finger on Side
+   changed to    Hinge Plate  1 x  2 Locking 9-Position with Dual Finger on Side
+
+   6162.DAT                   Brick 12 x 12 Corner Round
+   changed to    Brick 12 x 12 with 10 x 10 Corner Round
+
+   6216M.DAT                  Electric Technic Motor  4.5V
+   changed to    Electric Technic Motor  4.5V with Centre Pin Hole
+
+   62712.DAT                  Brick  2 x  2 with Ball Socket and Axlehole
+   changed to    Brick  2 x  2 with Ball Socket Type 2 and Axlehole
+
+   64776.DAT                  Die 6 Sided 2 x 2 x 2 with Rubber Black Frame 
+   changed to    Die  6 Sided  2 x  2 x  2 with Rubber Frame 
+
+   73200-F1.DAT               Minifig Hips and Legs
+   changed to    Minifig Hips and Legs (Standing)
+
+   74780-F1.DAT               Monorail Track Point Right - Straight
+   changed to    Monorail Track Point Right (Straight)
+
+   74780-F2.DAT               Monorail Track Point Right - Curved
+   changed to    Monorail Track Point Right (Curved)
+
+   74781-F1.DAT               Monorail Track Point Left - Straight
+   changed to    Monorail Track Point Left (Straight)
+
+   74781-F2.DAT               Monorail Track Point Left - Curved
+   changed to    Monorail Track Point Left (Curved)
+
+   801.DAT                    Door  1 x  3 x  3 Left with Window
+   changed to    ~Door  1 x  3 x  3 Left with Window (Obsolete)
+
+   802.DAT                    Door  1 x  3 x  3 Right with Window
+   changed to    ~Door  1 x  3 x  3 Right with Window (Obsolete)
+
+   823.DAT                    Garage Door, Glass - Old
+   changed to    ~_Garage Door without Rear Cross with Counterweight with Yellow Grid Pattern [47] (Obsolete)
+
+   825.DAT                    Door  1 x  3 x  4 Left with Window
+   changed to    ~Door  1 x  3 x  4 Left with Window (Obsolete)
+
+   826.DAT                    Door  1 x  3 x  4 Right with Window
+   changed to    ~Door  1 x  3 x  4 Right with Window (Obsolete)
+
+   85543-F4.DAT               Rubber Belt Round 15 /  1.6 (Formed) for  2 Technic Bushes
+   changed to    Rubber Belt Round 15 /  1.6 (Formed for  2 Technic Bushes)
+
+   85543-F5.DAT               Rubber Belt Round 15 /  1.6 (Formed) for Technic Bush - Wheel Rim  8 x 11.2 with Centre Groove
+   changed to    Rubber Belt Round 15 /  1.6 (Formed for Technic Bush - Wheel Rim  8 x 11.2 with Centre Groove)
+
+   86644.DAT                  =Bracket  1 x  2 -  2 x  2
+   changed to    =Bracket  1 x  2 -  2 x  2 Down
+
+   87993.DAT                  Minifig Gun Laser Pistol
+   changed to    Minifig Gun Laser Pistol with Trapezoidal Heat Diffusers
+
+   92411.DAT                  =Bracket  1 x  2 -  2 x  2
+   changed to    =Bracket  1 x  2 -  2 x  2 Down
+
+   973P4V.DAT                 Minifig Torso with Fantasy Era Peasant Rope Belt Pattern
+   changed to    Minifig Torso with Dark Brown Collar, Patch, Rope Belt and Pouch without Back Pattern
+
+   973PAV.DAT                 Minifig Torso with Silver Armor Front and Back and Drill Pattern
+   changed to    Minifig Torso with Silver Armour Front and Back and Drill Pattern
+
+   973PAW.DAT                 Minifig Torso with Armor Vest, Silver Wolf Head and Blue Round Jewel Pattern
+   changed to    Minifig Torso with Armour Vest, Silver Wolf Head and Blue Round Jewel Pattern
+
+   973PC2.DAT                 Minifig Torso with Body Armor with Dark Bluish Grey and Metallic Dark Grey Crossing Lines and Metallic Silver Teeth Necklace Pattern
+   changed to    Minifig Torso with Body Armour with Dark Bluish Grey and Metallic Dark Grey Crossing Lines and Metallic Silver Teeth Necklace Pattern
+
+   973PM0.DAT                 Minifig Torso with LOTR Leather Armor with Buckle Pattern
+   changed to    Minifig Torso with LOTR Leather Armour with Buckle Pattern
+
+   973PM5.DAT                 Minifig Torso with LOTR Armor, Brown Belt & Gold Buckle Pattern
+   changed to    Minifig Torso with LOTR Armour, Brown Belt & Gold Buckle Pattern
+
+   973PM6.DAT                 Minifig Torso with LOTR Scale Armor and Belt Pattern
+   changed to    Minifig Torso with LOTR Scale Armour and Belt Pattern
+
+   973PMA.DAT                 Minifig Torso with LOTR Orc Leather Armor Pattern
+   changed to    Minifig Torso with LOTR Orc Leather Armour Pattern
+
+   973PRB.DAT                 Minifig Torso with SW Blast Armor (Green Plates) Bl.Grey Pattern
+   changed to    Minifig Torso with SW Blast Armour (Green Plates) Bl.Grey Pattern
+
+   973PRC.DAT                 Minifig Torso with SW Blast Armor (Uncoloured Plates) Pattern
+   changed to    Minifig Torso with SW Blast Armour (Uncoloured Plates) Pattern
+
+   973PSB.DAT                 Minifig Torso with SW Blast Armor (Green Plates) Grey Pattern
+   changed to    Minifig Torso with SW Blast Armour (Green Plates) Grey Pattern
+
+   973PSJ.DAT                 Minifig Torso with SW Blast Armor (Silver Plates) Pattern
+   changed to    Minifig Torso with SW Blast Armour (Silver Plates) Pattern
+
+   98100P01.DAT               Brick  2 x  2 Round Sloped with Four Black Trapezoids Pattern
+   changed to    Cone  2 x  2 Truncated with Four Black Trapezoids Pattern
+
+   98393D.DAT                 Medical Thermometer
+   changed to    Figure Friends Medical Thermometer
+
+   984.DAT                    ~Technic Axle Joiner Rectangular with Spring - Axle Housing
+   changed to    ~Technic Axle Joiner  3 x  2 with Spring - Axle Housing
+
+   987.DAT                    ~Spring for Technic Axle Joiner Rectangular with Spring
+   changed to    ~Technic Axle Joiner  3 x  2 with Spring - Spring
+
+   003238S1.DAT               ~Crown - 1/2 Pattern
+   changed to    ~Crown Pattern - 1/2
+
+   003238S2.DAT               ~Crown Background - 1/2 Pattern
+   changed to    ~Crown Pattern Background - 1/2
+
+   003238S3.DAT               ~Crown on Violet with Banner - 1/2 Pattern
+   changed to    ~Crown on Violet with Banner Pattern - 1/2
+
+   003238S4.DAT               ~Crown on Dark-Pink with Banner - 1/2 Pattern
+   changed to    ~Crown on Dark-Pink with Banner Pattern - 1/2
+
+   003238S5.DAT               ~Green Chevron on Yellow - 1/2 Pattern
+   changed to    ~Green Chevron on Yellow Pattern - 1/2
+
+   11097S01.DAT               ~Minifig Armor Shoulder Pads with  1 Stud on Front,  2 Studs on Back Half
+   changed to    ~Minifig Armour Shoulder Pads with  1 Stud on Front,  2 Studs on Back Half
+
+   11438S01.DAT               ~Minifig Armor Shoulder Pads with Ridges Half
+   changed to    ~Minifig Armour Shoulder Pads with Ridges Half
+
+   15086S01.DAT               ~Minifig Armor Shoulder Pads with Neck Protection - Half
+   changed to    ~Minifig Armour Shoulder Pads with Neck Protection - Half
+
+   2454S01.DAT                ~Brick  1 x  2 x  5 without Front Face
+   changed to    ~Brick  1 x  2 x  5 without Front Face (Obsolete)
+
+   2490P4JA.DAT               ~Animal Horse Barding w/ Gold Crowns & Gold Plate Armor - Side
+   changed to    ~Animal Horse Barding with Gold Crowns and Gold Plate Armour - Side
+
+   2582S01.DAT                ~Hinge Panel  2 x  4 x  3 & 1/3 without Front Face
+   changed to    ~Hinge Panel  2 x  4 x  3.333 without Front Face
+
+   2865S01.DAT                ~Train Track  9V Sleeper Center Section with Hole
+   changed to    ~Train Track  9V Sleeper Centre Section with Hole
+
+   2865S02.DAT                ~Train Track  9V Sleeper Center Section without Hole
+   changed to    ~Train Track  9V Sleeper Centre Section without Hole
+
+   3069P80A.DAT               ~Pattern  1 x  2 Keyboard
+   changed to    ~Pattern  1 x  2 28-Key 'QERYUIOP' Keyboard
+
+   32086S01.DAT               ~Windscreen  8 x  6 x  3 - 1/2
+   changed to    ~Windscreen  6 x  8 x  3 without Top Surface
+
+   32087S01.DAT               ~Train Track  9V Crossing - Metal Rail / Chrome Parts
+   changed to    ~Train Track  9V Crossing - Metal Rail Parts
+
+   32578S01.DAT               ~Bionicle Matoran Claw Arm Half
+   changed to    ~Technic Bionicle Matoran Claw Arm Half
+
+   36036S02.DAT               ~Minifig Skirt Sloped Back
+   changed to    ~Minifig Hips and Skirt Sloped Back
+
+   3664S01.DAT                ~Duplo Brick  2 x  2 x  2 with Curved Top - Without Front Face
+   changed to    ~Duplo Brick  2 x  2 x  2 with Curved Top without Front Face
+
+   3960PS5S01.DAT             ~Dish  4 x  4 Inverted with SW Millenium Falcon Cockpit Solid Part Pattern Half
+   changed to    ~Dish  4 x  4 Inverted with SW Millennium Falcon Cockpit Solid Part Pattern Half
+
+   3960PS5S02.DAT             ~Dish  4 x  4 Inverted with SW Millenium Falcon Cockpit Window Frame Pattern Half
+   changed to    ~Dish  4 x  4 Inverted with SW Millennium Falcon Cockpit Window Frame Pattern Half
+
+   3960PS5S03.DAT             ~Dish  4 x  4 Inverted with SW Millenium Falcon Cockpit Pattern Window Part Half
+   changed to    ~Dish  4 x  4 Inverted with SW Millennium Falcon Cockpit Pattern Window Part Half
+
+   3960PS7S01.DAT             ~Dish  4 x  4 Inverted with SW Millenium Falcon Cockpit with Four Light Bluish Grey Lower Sections Pattern - Frame 1/8
+   changed to    ~Dish  4 x  4 Inverted with SW Millennium Falcon Cockpit with Four Light Bluish Grey Lower Sections Pattern - Frame 1/8
+
+   3960PS7S02.DAT             ~Dish  4 x  4 Inverted with SW Millenium Falcon Cockpit with Four Light Bluish Grey Lower Sections Pattern - Window Pane 1/8
+   changed to    ~Dish  4 x  4 Inverted with SW Millennium Falcon Cockpit with Four Light Bluish Grey Lower Sections Pattern - Window Pane 1/8
+
+   44375PS0S00.DAT            ~Dish  6 x  6 Inverted Millenium Falcon Cockpit Pattern, Window Section - 1/8
+   changed to    ~Dish  6 x  6 Inverted Millennium Falcon Cockpit Pattern, Window Section - 1/8
+
+   44375PS0S01.DAT            ~Dish  6 x  6 Inverted Millenium Falcon Cockpit Pattern, Bottom Section - 1/8
+   changed to    ~Dish  6 x  6 Inverted Millennium Falcon Cockpit Pattern, Bottom Section - 1/8
+
+   46667S01.DAT               ~Jet Engine Fan with 10 Blades and Technic Pin - Blade
+   changed to    ~Plane Jet Engine Fan with 10 Blades and Technic Pin - Blade
+
+   4716S01.DAT                ~Technic Worm Gear Thread
+   changed to    ~Technic Worm Gear Thread Surface
+
+   50898S02.DAT               ~Technic Ball Socket End for Beam Half
+   changed to    ~Constraction Connector Ball Socket End for Beam - Half
+
+   53543S01.DAT               ~Technic Bionicle Toa Inika Thigh Armor Half
+   changed to    ~Technic Bionicle Toa Inika Thigh Armour Half
+
+   62712S01.DAT               ~Ball Socket for Brick  2 x  2
+   changed to    ~Ball Socket Half Type 2 for Brick  2 x  2
+
+   973PAVS01.DAT              ~Minifig Torso with Silver Armor Front and Back - Front Half
+   changed to    ~Minifig Torso with Silver Armour Front and Back - Front Half
+
+   973PAVS02.DAT              ~Minifig Torso with Silver Armor Front and Back - Back Half
+   changed to    ~Minifig Torso with Silver Armour Front and Back - Back Half
+
+   973PAWS01.DAT              ~Minifig Torso with Armor Vest, Silver Wolf Head and Blue Round Jewel Pattern Half
+   changed to    ~Minifig Torso with Armour Vest, Silver Wolf Head and Blue Round Jewel Pattern Half
+
+   973PSB1.DAT                ~Minifig Torso - SW Blast Armor (Detail; 1/2)
+   changed to    ~Minifig Torso - SW Blast Armour Detail - 1/2
+
+   973PSB2.DAT                ~Minifig Torso - SW Blast Armor (Plates; 1/2)
+   changed to    ~Minifig Torso - SW Blast Armour Plates - 1/2
+
+   973PSBS01.DAT              ~Minifig Torso with SW Blast Armor Pattern Base
+   changed to    ~Minifig Torso with SW Blast Armour Pattern Base
+
+   973PSBS02.DAT              ~Minifig Torso with SW Blast Armor Pattern Folds
+   changed to    ~Minifig Torso with SW Blast Armour Pattern Folds
+
+   973PSBS03.DAT              ~Minifig Torso with SW Blast Armor Pattern Chestplates Half
+   changed to    ~Minifig Torso with SW Blast Armour Pattern Chestplates Half
+
+   U9364S01.DAT               ~Electric Spike Prime Medium Motor Front Top Half
+   changed to    ~Electric Powered Up Medium Angular Motor Front Top Half
+
+   U9365S01.DAT               ~Electric Spike Prime Medium Motor Front Bottom Half
+   changed to    ~Electric Powered Up Medium Angular Motor Front Bottom Half
+
+   U9365S02.DAT               ~Electric Spike Prime Motor Side Cavities
+   changed to    ~Electric Powered Up Angular Motor Side Cavities
+
+   U9366S01.DAT               ~Electric Spike Prime Medium Motor Back Half
+   changed to    ~Electric Powered Up Medium Angular Motor Back Half
+
+   U9367S01.DAT               ~Electric Spike Prime Large Motor Front Top Half
+   changed to    ~Electric Powered Up Large Angular Motor Front Top Half
+
+   U9368S01.DAT               ~Electric Spike Prime Large Motor Front Bottom Half
+   changed to    ~Electric Powered Up Large ANgular Motor Front Bottom Half
+
+   U9390S01.DAT               ~Electric Spike Prime Large Motor Back Half
+   changed to    ~Electric Powered Up Large Angular Motor Back Half
+
+   U9393S01.DAT               ~Electric Spike Prime Hub Top Corner
+   changed to    ~Electric Powered Up 6 Port Hub Top Corner
+
+   U9393S02.DAT               ~Electric Spike Prime Hub Top without Dot-Matrix LEDs
+   changed to    ~Electric Powered Up 6 Port Hub Top without Dot-Matrix LEDs
+
+   U9399S01.DAT               ~Electric Spike Prime Hub Rechargeable Battery Top Half
+   changed to    ~Electric Powered Up 6 Port Hub Rechargeable Battery Top Half
+
+   U9402S01.DAT               ~Electric Spike Prime Hub Bottom Corner
+   changed to    ~Electric Powered Up 6 Port Hub Bottom Corner
+
+   U9402S02.DAT               ~Electric Spike Prime Hub Bottom Speaker Grid Quarter
+   changed to    ~Electric Powered Up 6 Port Hub Bottom Speaker Grid Quarter
+
+   U9408S01.DAT               ~Electric Spike Prime Colour Sensor Back Half
+   changed to    ~Electric Powered Up Colour Sensor Back Half
+
+   U9461S01.DAT               ~Electric Spike Prime Force Sensor Front Half
+   changed to    ~Electric Powered Up Force Sensor Front Half
+
+   U9463S01.DAT               ~Electric Spike Prime Force Sensor Back Half
+   changed to    ~Electric Powered Up Force Sensor Back Half
+
+   U9465S01.DAT               ~Electric Spike Prime Distance Sensor Lighting Ring Half
+   changed to    ~Electric Powered Up Distance Sensor Lighting Ring Half
+
+   U9465S02.DAT               ~Electric Spike Prime Distance Sensor Lighting Ring Separator
+   changed to    ~Electric Powered Up Distance Sensor Lighting Ring Separator
+
+   U9467S01.DAT               ~Electric Spike Prime Distance Sensor Front Half
+   changed to    ~Electric Powered Up Distance Sensor Front Half
+
+   U9470S01.DAT               ~Electric Spike Prime Distance Sensor Back Half
+   changed to    ~Electric Powered Up Distance Sensor Back Half
+
+   U9363.DAT                  Electric Spike Prime Motor Drive Hub
+   changed to    Electric Powered Up Angular Motor Drive Hub
+
+   U9364.DAT                  ~Electric Spike Prime Medium Motor Front Top
+   changed to    ~Electric Powered Up Medium Angular Motor Front Top
+
+   U9364C01.DAT               Electric Spike Prime Medium Motor Body Assembly
+   changed to    Electric Powered Up Medium Angular Motor Body Assembly with Medium Azure Back
+
+   U9365.DAT                  ~Electric Spike Prime Medium Motor Front Bottom
+   changed to    ~Electric Powered Up Medium Angular Motor Front Bottom
+
+   U9366.DAT                  ~Electric Spike Prime Medium Motor Back
+   changed to    ~Electric Powered Up Medium Angular Motor Back
+
+   U9367.DAT                  ~Electric Spike Prime Large Motor Front Top
+   changed to    ~Electric Powered Up Large Angular Motor Front Top
+
+   U9367C01.DAT               Electric Spike Prime Large Motor Body Assembly
+   changed to    Electric Powered Up Large Angular Motor Body Assembly with Medium Azure Back
+
+   U9368.DAT                  ~Electric Spike Prime Large Motor Front Bottom
+   changed to    ~Electric Powered Up Large Angular Motor Front Bottom
+
+   U9390.DAT                  ~Electric Spike Prime Large Motor Back
+   changed to    ~Electric Powered Up Large Angular Motor Back
+
+   U9391.DAT                  ~Electric Spike Prime Large Motor Cable Lock
+   changed to    ~Electric Powered Up Large Angular Motor Cable Lock
+
+   U9393.DAT                  ~Electric Spike Prime Hub Top
+   changed to    ~Electric Powered Up 6 Port Hub Top
+
+   U9393P01.DAT               ~Electric Spike Prime Hub Top with Dot Matrix Smiling Face Pattern
+   changed to    ~Electric Powered Up 6 Port Hub Top with Dot Matrix Smiling Face Pattern
+
+   U9393P02.DAT               ~Electric Spike Prime Hub Top with Dot Matrix Heart Pattern
+   changed to    ~Electric Powered Up 6 Port Hub Top with Dot Matrix Heart Pattern
+
+   U9394.DAT                  ~Electric Spike Prime Hub Bluetooth Button Lighting Ring
+   changed to    ~Electric Powered Up 6 Port Hub Bluetooth Button Lighting Ring
+
+   U9395.DAT                  ~Electric Spike Prime Hub On Button Lighting Ring
+   changed to    ~Electric Powered Up 6 Port Hub On Button Lighting Ring
+
+   U9396.DAT                  ~Electric Spike Prime Hub On Button
+   changed to    ~Electric Powered Up 6 Port Hub On Button
+
+   U9397.DAT                  ~Electric Spike Prime Hub Arrow Button
+   changed to    ~Electric Powered Up 6 Port Hub Arrow Button
+
+   U9398.DAT                  ~Electric Spike Prime Hub Bluetooth Button
+   changed to    ~Electric Powered Up 6 Port Hub Bluetooth Button
+
+   U9399.DAT                  ~Electric Spike Prime Hub Rechargeable Battery Top
+   changed to    ~Electric Powered Up 6 Port Hub Rechargeable Battery Top
+
+   U9401.DAT                  ~Electric Spike Prime Hub Micro-USB Connector
+   changed to    ~Electric Powered Up 6 Port Hub Micro-USB Connector
+
+   U9402.DAT                  ~Electric Spike Prime Hub Bottom
+   changed to    ~Electric Powered Up 6 Port Hub Bottom
+
+   U9403.DAT                  ~Electric Spike Prime Colour Sensor Lens
+   changed to    ~Electric Powered Up Colour Sensor Lens
+
+   U9404.DAT                  ~Electric Spike Prime Colour Sensor Inner Ring
+   changed to    ~Electric Powered Up Colour Sensor Inner Ring
+
+   U9405.DAT                  ~Electric Spike Prime Colour Sensor Lighting Ring
+   changed to    ~Electric Powered Up Colour Sensor Lighting Ring
+
+   U9406.DAT                  ~Electric Spike Prime Colour Sensor Frame
+   changed to    ~Electric Powered Up Colour Sensor Frame
+
+   U9407.DAT                  ~Electric Spike Prime Colour Sensor Front
+   changed to    ~Electric Powered Up Colour Sensor Front
+
+   U9408.DAT                  ~Electric Spike Prime Colour Sensor Back
+   changed to    ~Electric Powered Up Colour Sensor Back
+
+   U9460.DAT                  ~Electric Spike Prime Colour Sensor Cable Lock
+   changed to    ~Electric Powered Up Colour Sensor Cable Lock
+
+   U9461.DAT                  ~Electric Spike Prime Force Sensor Front
+   changed to    ~Electric Powered Up Force Sensor Front
+
+   U9462.DAT                  Electric Spike Prime Force Sensor Button
+   changed to    Electric Powered Up Force Sensor Button
+
+   U9463.DAT                  ~Electric Spike Prime Force Sensor Back
+   changed to    ~Electric Powered Up Force Sensor Back
+
+   U9464.DAT                  ~Electric Spike Prime Distance Sensor Transducer
+   changed to    ~Electric Powered Up Distance Sensor Transducer
+
+   U9465.DAT                  ~Electric Spike Prime Distance Sensor Lighting Ring
+   changed to    ~Electric Powered Up Distance Sensor Lighting Ring
+
+   U9466.DAT                  ~Electric Spike Prime Distance Sensor Frame
+   changed to    ~Electric Powered Up Distance Sensor Frame
+
+   U9467.DAT                  ~Electric Spike Prime Distance Sensor Front
+   changed to    ~Electric Powered Up Distance Sensor Front
+
+   U9467C01.DAT               Electric Spike Prime Distance Sensor Front Assembly
+   changed to    Electric Powered Up Distance Sensor Front Assembly
+
+   U9468.DAT                  ~Electric Spike Prime Distance Sensor Front Lid
+   changed to    ~Electric Powered Up Distance Sensor Front Lid
+
+   U9469.DAT                  ~Electric Spike Prime Distance Sensor Back Lid
+   changed to    ~Electric Powered Up Distance Sensor Back Lid
+
+   U9470.DAT                  ~Electric Spike Prime Distance Sensor Back
+   changed to    ~Electric Powered Up Distance Sensor Back
+
+   U9470C01.DAT               Electric Spike Prime Distance Sensor Back Assembly
+   changed to    Electric Powered Up Distance Sensor Back Assembly
+
+   U9471.DAT                  ~Electric Spike Prime Medium Motor Cable Lock
+   changed to    ~Electric Powered Up Medium Angular Motor Cable Lock
+
+   U9472.DAT                  ~Electric Spike Prime Hub Rechargeable Battery Bottom
+   changed to    ~Electric Powered Up 6 Port Hub Rechargeable Battery Bottom
+
+   U9473.DAT                  ~Electric Spike Prime Hub Rechargeable Battery Assembly Pin
+   changed to    ~Electric Powered Up 6 Port Hub Rechargeable Battery Assembly Pin
+
+   U9474.DAT                  ~Electric Spike Prime Hub Internal Lid
+   changed to    ~Electric Powered Up 6 Port Hub Internal Lid
+
+Other Fixed Parts
+   STUD6A.DAT                 Stud Open For Round 2x2 Parts without Base Edges
+   003238E.DAT                Sticker Minifig Vest with Crown on Dark Pink Background
+   003238N.DAT                Sticker Minifig Vest with Crown on Violet Background
+   10P01.DAT                  Baseplate 24 x 32 with Set 363 Dots Pattern
+   11143.DAT                  ~Electric Mindstorms EV3 Rechargeable Battery Top Shell
+   14769P03.DAT               Tile  2 x  2 Round with Round Underside Stud with Magenta and Bright Pink Life Preserver with Curved Bands Pattern
+   15327.DAT                  Duplo Shower Head on Stand with  1 x  1 Base
+   18675PS5.DAT               Dish  6 x  6 Inverted - No Studs with Handle with TIE Advanced Hatch Pattern
+   22900.DAT                  Technic Ribbed Hose 17L
+   23397.DAT                  Technic Ribbed Hose 24L
+   242.DAT                    ~Wheel Spoked with Stud
+   2423.DAT                   Plant Leaves  4 x  3
+   2429.DAT                   Hinge Plate  1 x  4 Base
+   2479.DAT                   Propellor  4 Blade  5 Diameter
+   2500C01.DAT                Electric Light & Sound Brick  1 x  8 with 3 Lights (Complete)
+   2532.DAT                   Minifig Leg Wooden
+   2540.DAT                   Plate  1 x  2 with Handle
+   2569.DAT                   Antenna  8H Whip
+   2698C01.DAT                Technic Action Figure (Complete)
+   2775C01.DAT                Electric Plug (Type 4) Twin Extra-Wide (Complete)
+   3003PE1.DAT                Brick  2 x  2 with Black Eye Pattern on Both Sides
+   3003PE2.DAT                Brick  2 x  2 with Black and White Eye Pattern on Both Sides
+   30073.DAT                  Door  1 x  6 x  8 Left with Window
+   30074.DAT                  Door  1 x  6 x  8 Right with Window
+   30201.DAT                  Panel 10 x 10 x  2.333 Corner Base
+   3039P23.DAT                Slope Brick 45  2 x  2 with Computer Screen Pattern
+   3068BP66.DAT               Tile  2 x  2 with Coastguard Pattern
+   3069BP02.DAT               Tile  1 x  2 with Tape Reels Pattern
+   32086PS1.DAT               Windscreen  6 x  8 x  3 with SW Imperial Shuttle Canopy Pattern
+   32087.DAT                  Train Track  9V Crossing
+   33177.DAT                  Scala Baseplate 12 x 22
+   33763.DAT                  Technic Ribbed Hose 26L
+   3437.DAT                   Duplo Brick  2 x  2
+   3474.DAT                   Wing  4 x  8 Tail
+   3831.DAT                   Hinge Brick  1 x  4 Base
+   3840.DAT                   Minifig Vest
+   3899.DAT                   Minifig Cup
+   4066BP06.DAT               Duplo Brick  1 x  2 x  2 with Three Bread Loaves, Middle Loaf Dark Pattern
+   4066BP0T.DAT               Duplo Brick  1 x  2 x  2 with Red Telephone Pattern
+   4084.DAT                   Tyre  8/ 75 x  8 Offset Tread
+   42936.DAT                  Car Track 16 x  8 x  2 Straight
+   4341.DAT                   Minifig Cauldron
+   43675.DAT                  Technic Ribbed Hose 19L
+   4590.DAT                   Plate  1 x  4 Offset
+   4591.DAT                   Brick  2 x  2 x  2 Round with Fins
+   4618.DAT                   Figure Fuel Pump Body
+   4738A.DAT                  Container Treasure Chest with Slots
+   4865A.DAT                  Panel  1 x  2 x  1 with Square Corners
+   56908.DAT                  Wheel Rim 26 x 43 with 6 Spokes and 6 Pegholes
+   57719.DAT                  Technic Ribbed Hose  7L
+   6105.DAT                   Door  1 x  4 x  8 with 1/4 Circle Top
+   6515.DAT                   ~Duplo Brick  2 x 10 with Holes Bottom
+   685P01.DAT                 Maxifig Head with Face Pattern
+   71375.DAT                  ~Electric Code Pilot Keypad
+   71819.DAT                  Technic Ribbed Hose 12L
+   71917.DAT                  Technic Ribbed Hose  9L
+   71923.DAT                  Technic Ribbed Hose 14L
+   71944.DAT                  Technic Ribbed Hose  6L
+   71946.DAT                  Technic Ribbed Hose 15L
+   71947.DAT                  Technic Ribbed Hose 16L
+   71949.DAT                  Technic Ribbed Hose 10L
+   71951.DAT                  Technic Ribbed Hose  8L
+   71952.DAT                  Technic Ribbed Hose  4L
+   71986.DAT                  Technic Ribbed Hose 11L
+   72039.DAT                  Technic Ribbed Hose 18L
+   72504.DAT                  Technic Ribbed Hose  2L
+   72706.DAT                  Technic Ribbed Hose  3L
+   72853.DAT                  Technic Ribbed Hose  5L
+   85984P70.DAT               Slope Brick 31  1 x  2 x  0.667 with "POLICE" on Dark Blue Background Pattern
+   85984PC1.DAT               Slope Brick 31  1 x  2 x  0.667 with Gauges Pattern
+   85984PN1.DAT               Slope Brick 31  1 x  2 x  0.667 with Red Screen Console Pattern
+   85984PS1.DAT               Slope Brick 31  1 x  2 x  0.667 with SW Reddish Console Pattern
+   95656.DAT                  Electric Mindstorms EV3 Rechargeable Battery
+   003238S6.DAT               ~White Maltese Cross on Red - 1/2 Pattern
+   003238S8.DAT               ~Sticker  1 x  5.8 with Banner - Half
+   2865S03.DAT                ~Train Track  9V Sleeper Side Section
+   2865S04.DAT                ~Train Track  9V Sleeper Interlocking End Section
+   2865S05.DAT                ~Train Track  9V Straight Metal Rails
+   2865S06.DAT                ~Train Track  9V Metal Rail Interlocking End
+   30073S01.DAT               ~Door  1 x  6 x  8 Left with Window without Front Surface
+   32087S02.DAT               ~Train Track  9V Crossing - Approach Track
+   3238S01.DAT                ~Sticker Box Shield Triangular without Top Surface
+   3238S02.DAT                ~Sticker Minifig Vest - box
+   685P01S.DAT                ~Maxifig Head with Face Pattern Subpart
+   90462BS01.DAT              ~Minifig Headdress Nemes Type 2 Half without Front Surface

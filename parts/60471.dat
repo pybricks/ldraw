@@ -1,12 +1,14 @@
-0 Hinge Plate  1 x  2 Locking with Dual Finger on Side
+0 Hinge Plate  1 x  2 Locking 9-Position with Dual Finger on Side
 0 Name: 60471.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2020-10-22 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 4 0 0 0 1 0 -1 0 -1 0 0 stud3.dat
 1 16 -10 0 0 0 0 1 0 1 0 -1 0 0 STUD.DAT

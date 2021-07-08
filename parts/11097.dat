@@ -1,16 +1,19 @@
-0 Minifig Armor Shoulder Pads with 1 Stud on Front, 2 Studs on Back
+0 Minifig Armour Shoulder Pads with 1 Stud on Front, 2 Studs on Back
 0 Name: 11097.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-01
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Neckwear
+0 !KEYWORDS Armor
 
 0 !HISTORY 2014-02-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-02-18 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2020-11-14 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11097s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\11097s01.dat

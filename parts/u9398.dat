@@ -1,12 +1,16 @@
-0 ~Electric Spike Prime Hub Bluetooth Button
+0 ~Electric Powered Up 6 Port Hub Bluetooth Button
 0 Name: u9398.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS Spike Prime, Mindstorms, Robot Inventor
+
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !HISTORY 2020-12-27 [PTadmin] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 3 0 10 0 0 0 -3 0 0 0 10 4-4cylc.dat
 4 16 -1.6 0.3 6.0392 -0.4 0.3 3.9608 2.1301 0.3 2.5 4.5301 0.3 2.5

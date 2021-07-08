@@ -1,7 +1,7 @@
-0 ~Minifig Torso - SW Blast Armor (Detail; 1/2)
+0 ~Minifig Torso - SW Blast Armour Detail - 1/2
 0 Name: s\973psb1.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Subpart UPDATE 2005-01
+0 !LDRAW_ORG Subpart UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -11,6 +11,8 @@
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2020-11-14 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
  4 16 -12 0 -10   0 0 -10   0 0.5 -10 -12 0.5 -10
  4 16 -12 0 -10 -12 0.5 -10 -14 2.5 -10 -14.345 2 -10

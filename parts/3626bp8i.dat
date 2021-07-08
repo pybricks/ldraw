@@ -1,0 +1,28 @@
+0 Minifig Head Female with Red Lips Smile/Scared 2-Sided Pattern
+0 Name: 3626bp8i.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3626bpb0271, Set 6243, Set 10193, Set 7949, Set 5974, Set 10213
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
+1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
+1 16 0 4 0 0 0 -8 0 -6.4 0 -8 0 0 t04o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
+1 16 0 4 0 9.19239 0 9.19239 0 13 0 9.19239 0 -9.19239 1-4cyli.dat
+1 16 0 4 0 -9.19239 0 -9.19239 0 13 0 9.19239 0 -9.19239 1-4cyli.dat
+1 16 0 17 0 3.06147 0 7.39104 0 6.4 0 7.39104 0 -3.06147 t04o6250.dat
+1 16 0 17 0 -3.06147 0 -7.39104 0 6.4 0 7.39104 0 -3.06147 t04o6250.dat
+1 16 0 17 0 -7.39104 0 3.06147 0 6.4 0 -3.06147 0 -7.39104 t04o6250.dat
+1 16 0 17 0 3.06147 0 7.39104 0 6.4 0 -7.39104 0 3.06147 t08o6250.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bp8is01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626bp8is01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3626bp8is02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3626bp8is02.dat

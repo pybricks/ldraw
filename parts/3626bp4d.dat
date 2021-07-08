@@ -1,0 +1,18 @@
+0 Minifig Head with Red Moustache, Eyebrows and Hair Pattern
+0 Name: 3626bp4d.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3626bpx122, Set 6076, Set 6082, Set 6044, Set 6105, Set 6090
+0 !KEYWORDS Castle, Royal Knights
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs04.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bp4ds01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626bp4ds01.dat

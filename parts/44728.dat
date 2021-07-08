@@ -1,7 +1,7 @@
-0 Bracket  1 x  2 -  2 x  2
+0 Bracket  1 x  2 -  2 x  2 Down
 0 Name: 44728.dat
 0 Author: Brent Jackson [bjackson]
-0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -9,6 +9,8 @@
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2020-10-23 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 -10 0 0 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 10 0 0 0 0 1 0 1 0 -1 0 0 stud.dat

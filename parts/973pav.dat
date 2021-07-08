@@ -1,14 +1,16 @@
-0 Minifig Torso with Silver Armor Front and Back and Drill Pattern
+0 Minifig Torso with Silver Armour Front and Back and Drill Pattern
 0 Name: 973pav.dat
 0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Power Miners
+0 !KEYWORDS Power Miners, armor
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2020-11-14 [cwdee] Correct description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973pavs02.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\973pavs02.dat

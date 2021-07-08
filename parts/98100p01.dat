@@ -1,15 +1,17 @@
-0 Brick  2 x  2 Round Sloped with Four Black Trapezoids Pattern
+0 Cone  2 x  2 Truncated with Four Black Trapezoids Pattern
 0 Name: 98100p01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2020-01
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Bricklink 98100pb13
-0 !KEYWORDS Set 21321, Ideas, International Space Station, ISS
+0 !KEYWORDS Set 21321, Ideas, International Space Station, ISS, Cupola
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+0 !HISTORY 2020-10-23 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98100s01.dat
 

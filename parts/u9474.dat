@@ -1,12 +1,16 @@
-0 ~Electric Spike Prime Hub Internal Lid
+0 ~Electric Powered Up 6 Port Hub Internal Lid
 0 Name: u9474.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS Spike Prime, Mindstorms, Robot Inventor
+
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !HISTORY 2020-12-27 [PTadmin] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 2 24 67 0 -70 67 0 70
 1 16 50 2.5 -92 0 1 2 2.5 0 0 0 0 -2 rect.dat

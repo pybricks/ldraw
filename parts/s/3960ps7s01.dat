@@ -1,12 +1,14 @@
-0 ~Dish  4 x  4 Inverted with SW Millenium Falcon Cockpit with Four Light Bluish Grey Lower Sections Pattern - Frame 1/8
+0 ~Dish  4 x  4 Inverted with SW Millennium Falcon Cockpit with Four Light Bluish Grey Lower Sections Pattern - Frame 1/8
 0 Name: s\3960ps7s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Subpart UPDATE 2020-01
+0 !LDRAW_ORG Subpart UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+0 !HISTORY 2020-10-04 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 4 72 20.32462 1.75016 2.67579 20.5 1.75 0 22 2 0 21.8108 2 2.871
 4 16 20.32462 1.75016 2.67579 9.914 0 1.305 10 0 0 20.5 1.75 0

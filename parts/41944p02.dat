@@ -1,0 +1,19 @@
+0 Minifig Hat Pillbox with Flower with Metallic Silver Petals and Black Centre Pattern
+0 Name: 41944p02.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Figure Accessory
+0 !KEYWORDS Lego Ideas, Steamboat Willie, Set 21317, BrickLink 41944pb01
+0 !KEYWORDS Minnie Mouse, Greyscale
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\41944s01.dat
+
+1 0 0 -12.02133 -7.12133 2.5 0 0 0 1 -1.767775 0 0 1.767775 4-4disc.dat
+1 80 0 -9.9 -5 1 0 0 0 .70711 -.70711 0 .70711 .70711 s\41944s03.dat
+1 80 0 -9.9 -5 -1 0 0 0 .70711 -.70711 0 .70711 .70711 s\41944s03.dat

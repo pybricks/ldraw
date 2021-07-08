@@ -1,0 +1,25 @@
+0 Minifig Leg Left with Laboratory Smock Pattern
+0 Name: 3817bpde.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !KEYWORDS Mad Scientist, Bricklink 970c11pb06, set 1382, set 852331
+
+0 !HISTORY 2009-12-29 [westrate] Original design as 3817pde
+0 !HISTORY 2020-06-27 [MagFors] Adapted to corrected geometry 
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bs01.dat
+4 16 1.5 20 -4 1.5 20 -10 19.23 20 -10 19.23 20 -4
+4 16 1.5 20 -10 1.5 28 -10 19.5 28 -10 19.23 20 -10
+5 24 2 3.349 -8.084 18.659 3.349 -8.084 2 0 -8.75 2 6.187 -6.187
+5 24 2 6.187 -6.187 18.755 6.187 -6.187 2 7.399 -4 2 3.349 -8.084
+5 24 2 0 -8.75 18.546 0 -8.75 2 3.349 -8.084 2 -3.349 -8.084
+5 24 2 -3.349 -8.084 18.433 -3.349 -8.084 2 0 -8.75 2 -6.187 -6.187
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bs03.dat
+4 15 18.804 7.399 -4 2 7.399 -4 2 7.657 -4 18.814 7.657 -4
+4 16 18.814 7.657 -4 2 7.657 -4 1.5 20 -4 19.23 20 -4
+3 16 2 7.657 -4 1.5 7.657 -4 1.5 20 -4

@@ -1,14 +1,16 @@
 0 Dish  6 x  6 Inverted - No Studs with Handle with TIE Advanced Hatch Pattern
 0 Name: 18675ps5.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, First Order, Bricklink 18576pb01
+0 !KEYWORDS Star Wars, First Order, Bricklink 18675pb01
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+0 !HISTORY 2020-09-08 [cwdee] Correct Bricklink reference
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18675s01.dat
 

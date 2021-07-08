@@ -1,7 +1,7 @@
-0 Minifig Castle Helmet with Neck Protector
+0 Minifig Helmet Castle with Neck Protector
 0 Name: 3844.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2016-01
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -16,6 +16,8 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2016-06-16 [Philo] BFCed, used stud4, closed gaps, regenerated condlines
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+0 !HISTORY 2020-10-23 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 -13 0 3 0 0 0 -1 0 0 0 3 4-4disc.dat
 1 16 0 -13 0 3 0 0 0 -1 0 0 0 3 4-4edge.dat

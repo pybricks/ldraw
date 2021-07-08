@@ -1,7 +1,7 @@
-0 ~Electric Spike Prime Hub Rechargeable Battery Top Half
+0 ~Electric Powered Up 6 Port Hub Rechargeable Battery Top Half
 0 Name: s\u9399s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2020-01
+0 !LDRAW_ORG Subpart UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 0 !HISTORY 2020-02-24 [cwdee] Update description
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+0 !HISTORY 2020-12-27 [PTadmin] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 2 24 50 0 -27.6956 50 0 -90
 2 24 50 0 90 50 0 27.6956

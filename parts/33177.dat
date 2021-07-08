@@ -1,7 +1,7 @@
 0 Scala Baseplate 12 x 22
 0 Name: 33177.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
-0 !LDRAW_ORG Part UPDATE 2015-02
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !HISTORY 2009-12-08 [Eldar] Optimized
 0 !HISTORY 2015-12-08 [MMR1988] Fixed t-junctions, restructured
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+0 !HISTORY 2020-11-15 [GeraldLasser] Changed stud5 to stud19
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 0 // Subparts
 
@@ -193,69 +195,9 @@
 1 16 -216 6 0 0 -1 0 0 0 -2 110 0 0 rect2p.dat
 
 0 // Studs
-1 16 200 0 100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 200 0 60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 200 0 20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 200 0 -20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 200 0 -60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 200 0 -100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 160 0 100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 160 0 60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 160 0 20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 160 0 -20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 160 0 -60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 160 0 -100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 120 0 100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 120 0 60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 120 0 20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 120 0 -20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 120 0 -60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 120 0 -100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 80 0 100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 80 0 60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 80 0 20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 80 0 -20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 80 0 -60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 80 0 -100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 40 0 100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 40 0 60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 40 0 20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 40 0 -20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 40 0 -60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 40 0 -100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 0 0 100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 0 0 60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 0 0 20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 0 0 -20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 0 0 -60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 0 0 -100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -40 0 100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -40 0 60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -40 0 20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -40 0 -20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -40 0 -60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -40 0 -100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -80 0 100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -80 0 60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -80 0 20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -80 0 -20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -80 0 -60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -80 0 -100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -120 0 100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -120 0 60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -120 0 20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -120 0 -20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -120 0 -60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -120 0 -100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -160 0 100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -160 0 60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -160 0 20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -160 0 -20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -160 0 -60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -160 0 -100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -200 0 100 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -200 0 60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -200 0 20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -200 0 -20 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -200 0 -60 1 0 0 0 1 0 0 0 1 stud5.dat
-1 16 -200 0 -100 1 0 0 0 1 0 0 0 1 stud5.dat
+1 16 0 0 -20 1 0 0 0 1 0 0 0 1 stug19-1x11.dat
+1 16 0 0 -60 1 0 0 0 1 0 0 0 1 stug19-1x11.dat
+1 16 0 0 -100 1 0 0 0 1 0 0 0 1 stug19-1x11.dat
+1 16 0 0 20 1 0 0 0 1 0 0 0 1 stug19-1x11.dat
+1 16 0 0 60 1 0 0 0 1 0 0 0 1 stug19-1x11.dat
+1 16 0 0 100 1 0 0 0 1 0 0 0 1 stug19-1x11.dat

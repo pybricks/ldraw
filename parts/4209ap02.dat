@@ -1,0 +1,23 @@
+0 Hose Reel  2 x  4 x  2 Holder with Coastguard Pattern
+0 Name: 4209ap02.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Rescue, Helicopter, set 6387, set 6342, bricklink 4209pb01
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4209as02.dat
+1 16 40 24 0 1 0 0 0 1 0 0 0 1 s\4209ap02s01.dat
+4 16 40 0 -20 40 11 -19 40 11 19 40 0 20
+4 16 40 0 -20 40 48 -20 40 37 -19 40 11 -19
+4 16 40 48 -20 40 48 20 40 37 19 40 37 -19
+4 16 40 48 20 40 0 20 40 11 19 40 37 19
+1 16 -40 24 0 -1 0 0 0 1 0 0 0 -1 s\4209ap02s01.dat
+4 16 -40 0 20 -40 11 19 -40 11 -19 -40 0 -20
+4 16 -40 0 20 -40 48 20 -40 37 19 -40 11 19
+4 16 -40 48 20 -40 48 -20 -40 37 -19 -40 37 19
+4 16 -40 48 -20 -40 0 -20 -40 11 -19 -40 37 -19

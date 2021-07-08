@@ -1,12 +1,14 @@
-0 ~Dish  4 x  4 Inverted with SW Millenium Falcon Cockpit Solid Part Pattern Half
+0 ~Dish  4 x  4 Inverted with SW Millennium Falcon Cockpit Solid Part Pattern Half
 0 Name: s\3960ps5s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Subpart UPDATE 2019-03
+0 !LDRAW_ORG Subpart UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !HISTORY 2020-10-04 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 4 16 -21.8108 2 2.871 -22 2 0 -21.4 1.9 0 -21.21692 1.90017 2.79326
 4 16 -21.8108 2 2.871 -23.79468 2.53363 3.13263 -23.90168 2.53348 1.5 -22 2 0

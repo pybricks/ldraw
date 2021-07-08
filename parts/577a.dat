@@ -1,7 +1,7 @@
-0 Minifig Lightsaber Hilt without Bottom Ring
+0 ~Minifig Lightsaber Hilt without Bottom Ring (Obsolete)
 0 Name: 577a.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !HELP Holes for 'blade' at y=3 and y=29 with depth of 7
@@ -14,6 +14,8 @@
 
 0 !HISTORY 2012-12-12 [MMR1988] Rewrite due to bad quads in old part, corrected measures
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+0 !HISTORY 2020-10-25 [cwdee] Obsoleted due to incorrect geometry and replaced with 577c
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat

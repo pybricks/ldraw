@@ -1,0 +1,25 @@
+0 ~Duplo Brick  1 x  4 x  3 with Black and Yellow Clock Face Pattern
+0 Name: 4145p01.dat
+0 Author: Tim Lampmann [L4mpi]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4145s01.dat
+1 16 0 72 -20 68 0 0 0 0 68 0 1 0 48\4-4ndis.dat
+
+4 16 0 140 -20 -68 140 -20 -80 144 -20 80 144 -20
+4 16 -68 72 -20 -68 4 -20 -80 0 -20 -80 144 -20
+4 16 0 4 -20 68 4 -20 80 0 -20 -80 0 -20
+4 16 68 72 -20 68 140 -20 80 144 -20 80 0 -20
+3 16 80 0 -20 68 4 -20 68 72 -20
+3 16 68 140 -20 0 140 -20 80 144 -20
+3 16 -80 144 -20 -68 140 -20 -68 72 -20
+3 16 -80 0 -20 -68 4 -20 0 4 -20
+
+1 14 0 72 -20 1 0 0 0 1 0 0 0 1 s\4145p01s01.dat

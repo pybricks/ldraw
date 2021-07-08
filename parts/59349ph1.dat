@@ -1,0 +1,45 @@
+0 Panel  1 x  6 x  5 with Green and Dark Green Window Pane Pattern
+0 Name: 59349ph1.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 75978, Harry Potter, Diagon Alley
+0 !KEYWORDS Bricklink 59349pb186
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\59349s01.dat
+0 BFC NOCLIP
+1 16 -60 0 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 -40 0 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 -20 0 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 20 0 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 40 0 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 -60 24 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 -40 24 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 -20 24 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 0 24 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 20 24 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 40 24 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 -60 48 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 -40 48 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 -20 48 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 0 48 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 20 48 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 40 48 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 -60 72 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 -40 72 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 -20 72 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 0 72 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 20 72 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 40 72 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 -60 96 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 -40 96 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 -20 96 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 0 96 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 20 96 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat
+1 16 40 96 0 1 0 0 0 1 0 0 0 1 s\59349ph1s01.dat

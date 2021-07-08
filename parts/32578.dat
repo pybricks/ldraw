@@ -1,7 +1,7 @@
-0 Bionicle Matoran Claw Arm
+0 Technic Bionicle Matoran Claw Arm
 0 Name: 32578.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !CATEGORY Constraction
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+0 !HISTORY 2020-10-23 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 0 -1 0 1 0 0 0 0 1 connhole.dat
 1 16 0 9 -13.2 -5 0 0 0 -1 0 0 0 4.2 rect2p.dat

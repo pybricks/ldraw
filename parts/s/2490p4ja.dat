@@ -1,12 +1,14 @@
-0 ~Animal Horse Barding w/ Gold Crowns & Gold Plate Armor - Side
+0 ~Animal Horse Barding with Gold Crowns and Gold Plate Armour - Side
 0 Name: s\2490p4ja.dat
 0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG Subpart UPDATE 2011-02
+0 !LDRAW_ORG Subpart UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2020-11-14 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 272 23.25 16 -35.5 0 0 -1 0 1 0 1 0 0 s\3846p4ja.dat
 1 272 23.25 16 45.5 0 0 -1 0 1 0 1 0 0 s\3846p4ja.dat

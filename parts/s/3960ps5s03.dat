@@ -1,12 +1,14 @@
-0 ~Dish  4 x  4 Inverted with SW Millenium Falcon Cockpit Pattern Window Part Half
+0 ~Dish  4 x  4 Inverted with SW Millennium Falcon Cockpit Pattern Window Part Half
 0 Name: s\3960ps5s03.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Subpart UPDATE 2019-03
+0 !LDRAW_ORG Subpart UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !HISTORY 2020-10-04 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 4 16 -20.22548 1.73349 2.66273 -20.4 1.73333 0 -10 0 0 -9.914 0 1.305
 4 16 -29.2463 4 3.84975 -29.33525 4 2.5 -24.83614 2.80024 2.5 -24.78612 2.80031 3.26315

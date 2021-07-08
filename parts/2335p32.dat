@@ -1,0 +1,16 @@
+0 Flag  2 x  2 Square with Crossed Cannons and Crown over Red Stripes Pattern
+0 Name: 2335p32.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Pirates, Imperial Guards
+0 !KEYWORDS Bricklink 2335pb003, Set 6241, Set 6253, Set 6242
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2335s01.dat
+1 16 -4 0 10 0 0 1 0 1 0 1 0 0 s\2335p32s01.dat
+1 16 4 0 10 0 0 -1 0 1 0 1 0 0 s\2335p32s01.dat

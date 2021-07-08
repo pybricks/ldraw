@@ -1,0 +1,16 @@
+0 Dish  6 x  6 Inverted - No Studs with Handle with TIE Striker Hatch Pattern
+0 Name: 18675ps4.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Star Wars, Rogue One, Bricklink 18675pb08, set 75154
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18675s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18675ps4s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\18675ps4s01.dat

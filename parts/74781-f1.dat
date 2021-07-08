@@ -1,7 +1,7 @@
-0 Monorail Track Point Left - Straight
+0 Monorail Track Point Left (Straight)
 0 Name: 74781-f1.dat
 0 Author: Mikkel Bech Jensen [gaia]
-0 !LDRAW_ORG Shortcut UPDATE 2020-02
+0 !LDRAW_ORG Shortcut UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !HELP Use the following transformation matrices for
@@ -16,8 +16,11 @@
 
 0 !HISTORY 2020-02-02 [Holly-Wood] Fixed collision 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+0 !HISTORY 2020-11-15 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 0 // Bottom
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 2886.dat
 
 0 // Points Inner Wheel

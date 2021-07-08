@@ -1,0 +1,27 @@
+0 Brick  1 x  2 x  2 with Inside Axle Holder with Red Cross Pattern
+0 Name: 3245bp05.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 1065, bricklink 3245bpx9
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3245bs01.dat
+0 // Front face
+4 16 14 19 -10 20 0 -10 5 10 -10 5 19 -10
+4 16 -20 0 -10 -5 10 -10 5 10 -10 20 0 -10 
+4 16 -14 19 -10 -5 19 -10 -5 10 -10 -20 0 -10
+4 16 -20 48 -10 -14 29 -10 -14 19 -10 -20 0 -10
+4 16 -5 38 -10 -5 29 -10 -14 29 -10 -20 48 -10
+4 16 20 48 -10 5 38 -10 -5 38 -10 -20 48 -10
+4 16 14 29 -10 5 29 -10 5 38 -10 20 48 -10 
+4 16 20 0 -10 14 19 -10 14 29 -10 20 48 -10 
+4 4 -5 19 -10 5 19 -10 5 10 -10 -5 10 -10
+4 4 -14 29 -10 -5 29 -10 -5 19 -10 -14 19 -10
+4 4 -5 29 -10 5 29 -10 5 19 -10 -5 19 -10
+4 4 5 29 -10 14 29 -10 14 19 -10 5 19 -10
+4 4 -5 38 -10 5 38 -10 5 29 -10 -5 29 -10

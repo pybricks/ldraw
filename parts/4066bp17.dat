@@ -1,0 +1,16 @@
+0 Duplo Brick  1 x  2 x  2 with Orange Trophy Cup with Shield Pattern
+0 Name: 4066bp17.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS Racing, Set 2447, Set 2671, Set 2369, bricklink 4066pb085
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bp17s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4066bp17s01.dat

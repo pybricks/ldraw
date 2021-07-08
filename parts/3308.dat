@@ -1,7 +1,7 @@
-0 Arch  1 x  8 x  2
+0 ~Arch  1 x  8 x  2 (Obsolete)
 0 Name: 3308.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2004-04
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,6 +10,8 @@
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2020-10-16 [PTadmin] Obsoleted due to bad geometry; replaced by 3308a
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 0 BFC INVERTNEXT
 1 16 70 48 0 6 0 0 0 -44 0 0 0 6 box5.dat

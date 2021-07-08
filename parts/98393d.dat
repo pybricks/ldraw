@@ -1,15 +1,17 @@
-0 Medical Thermometer
+0 Figure Friends Medical Thermometer
 0 Name: 98393d.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Figure Accessory
-0 !KEYWORDS friends, doctor, surgeon, nurse, patient, fever, hospital
+0 !KEYWORDS doctor, surgeon, nurse, patient, fever, hospital
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+0 !HISTORY 2020-10-23 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 6.25 -2.75 2.25 0 0 0 0 -2.25 0 1 0 4-4edge.dat
 1 16 0 6.25 -3.75 2.5 0 0 0 0 -2.5 0 1 0 4-4edge.dat

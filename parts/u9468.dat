@@ -1,12 +1,16 @@
-0 ~Electric Spike Prime Distance Sensor Front Lid
+0 ~Electric Powered Up Distance Sensor Front Lid
 0 Name: u9468.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS Spike Prime, Mindstorms, Robot Inventor
+
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !HISTORY 2020-12-27 [PTadmin] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 2 24 21 -25 7 23 -25 12
 2 24 -21 -25 7 -23 -25 12

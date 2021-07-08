@@ -1,7 +1,7 @@
-0 Minifig Torso with SW Blast Armor (Green Plates) Grey Pattern
+0 Minifig Torso with SW Blast Armour (Green Plates) Grey Pattern
 0 Name: 973psb.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Part UPDATE 2012-03
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,7 +9,7 @@
 0 !KEYWORDS Star Wars, Boba Fett, bounty hunter, Slave One, Original Trilogy
 0 !KEYWORDS Episode Five, The Empire Strikes Back, Episode Six, Return of the Jedi
 0 !KEYWORDS Mandalorian battle armor, Tatooine, Bespin, Cloud City, Sarlaac pit
-0 !KEYWORDS green, plate armor, blast plates
+0 !KEYWORDS green, plate armor, blast plates, armor
 0 !CMDLINE -c7
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
@@ -19,6 +19,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-05-27 [TK-949] Complete Rewrite
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+0 !HISTORY 2020-11-14 [cwdee] Correct description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat

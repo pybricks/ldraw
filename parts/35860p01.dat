@@ -1,0 +1,43 @@
+0 Minifig Food Cake Double Layer with Pink Base and Bright Light Blue Ribbon Pattern
+0 Name: 35860p01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Collectible, CMF Series 18, Cake Guy, Bricklink 35860pb01
+
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 13 0 0 0 1 0 0 0 1 0 0 0 1 s\35860s02.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\35860s01.dat
+
+0 // Bottom
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\35860p01s05.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\35860p01s05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\35860p01s05.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\35860p01s05.dat
+
+1 16 0 0 0 -.5 0 -.86603 0 1 0 -.86603 0 .5 s\35860p01s05.dat
+1 16 0 0 0 .5 0 -.86603 0 1 0 .86603 0 .5 s\35860p01s05.dat
+1 16 0 0 0 .5 0 .86603 0 1 0 .86603 0 -.5 s\35860p01s05.dat
+1 16 0 0 0 -.5 0 .86603 0 1 0 -.86603 0 -.5 s\35860p01s05.dat
+
+1 16 0 0 0 -.5 0 -.86603 0 1 0 .86603 0 -.5 s\35860p01s05.dat
+1 16 0 0 0 .5 0 -.86603 0 1 0 -.86603 0 -.5 s\35860p01s05.dat
+1 16 0 0 0 .5 0 .86603 0 1 0 -.86603 0 .5 s\35860p01s05.dat
+1 16 0 0 0 -.5 0 .86603 0 1 0 .86603 0 .5 s\35860p01s05.dat
+
+0 // Top
+1 16 0 0 0 .86603 0 .5 0 1 0 -.5 0 .86603 s\35860p01s06.dat
+1 16 0 0 0 .5 0 -.86603 0 1 0 .86603 0 .5 s\35860p01s06.dat
+1 16 0 0 0 -.86603 0 -.5 0 1 0 .5 0 -.86603 s\35860p01s06.dat
+1 16 0 0 0 -.5 0 .86603 0 1 0 -.86603 0 -.5 s\35860p01s06.dat
+
+1 16 0 0 0 -.86603 0 -.5 0 1 0 -.5 0 .86603 s\35860p01s06.dat
+1 16 0 0 0 .5 0 -.86603 0 1 0 -.86603 0 -.5 s\35860p01s06.dat
+1 16 0 0 0 .86603 0 .5 0 1 0 .5 0 -.86603 s\35860p01s06.dat
+1 16 0 0 0 -.5 0 .86603 0 1 0 .86603 0 .5 s\35860p01s06.dat

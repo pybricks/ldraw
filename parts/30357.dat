@@ -1,7 +1,7 @@
-0 Plate  3 x  3 Corner Round
+0 Plate  3 x  3 with  2 x  2 Corner Round
 0 Name: 30357.dat
 0 Author: Karim Nassar
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,6 +11,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [tchang] Add BFC, inner conditionnal lines, rebuild missing faces (2008-03-27)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2020-10-25 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 2 24 -10 0 -10 50 0 -10
 2 24 -10 0 -10 -10 0 50

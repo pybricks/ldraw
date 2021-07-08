@@ -1,15 +1,17 @@
-0 Tile  1 x  1 with Iron Man Armor and White Hexagonal Reactor Pattern
+0 Tile  1 x  1 with Iron Man Armour and White Hexagonal Reactor Pattern
 0 Name: 3070bpb0.dat
 0 Author: Vincent Messenet [Cheenzo]
-0 !LDRAW_ORG Part UPDATE 2019-02
+0 !LDRAW_ORG Part UPDATE 2020-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS BrickLink 3070bpb094, Set 5002946
+0 !KEYWORDS BrickLink 3070bpb094, Set 5002946, Armor
 0 !KEYWORDS Silver Centurion, Mk33, MK XXXIII, Mark 33
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+0 !HISTORY 2020-11-14 [cwdee] Update description
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
 

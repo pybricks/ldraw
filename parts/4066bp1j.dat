@@ -1,0 +1,19 @@
+0 Duplo Brick  1 x  2 x  2 with Pink Grill and Hot Dog Pattern
+0 Name: 4066bp1j.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS Barbecue, Bucket, bricklink 4066pb015, Set 2552
+
+0 !HISTORY 2020-09-21 [RainbowDolphin] Branched from 4066bp10 for different colour
+0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
+1 13 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bp10s01.dat
+1 8 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bp10s02.dat
+1 6 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bp10s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bp10s04.dat
