@@ -1,0 +1,15 @@
+0 Ladder  2.4 x 13 2-Section (Contracted)
+0 Name: 850c02-f1.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Shortcut UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 336
+0 !KEYWORDS step, rung, fire fighter, legoland
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 850.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 851b.dat

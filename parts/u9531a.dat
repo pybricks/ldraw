@@ -1,0 +1,29 @@
+0 Bar  4.8L with Stop
+0 Name: u9531a.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Train, Rail, Pin, Bundle
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 7 0 0 0 -5 0 0 0 7 4-4cylo.dat
+0 BFC INVERTNEXT
+1 16 0 -2.5 0 2.2 0 0 0 2.5 0 0 0 2.2 4-4cylc.dat
+1 16 0 0 0 1.55563 0 1.55563 0 -1 0 -1.55563 0 1.55563 4-4ndis.dat
+1 16 0 0 0 7 0 0 0 -1 0 0 0 7 1-4chrd.dat
+1 16 0 0 0 0 0 7 0 -1 0 -7 0 0 1-4chrd.dat
+1 16 0 0 0 -7 0 0 0 -1 0 0 0 -7 1-4chrd.dat
+1 16 0 0 0 0 0 -7 0 -1 0 7 0 0 1-4chrd.dat
+4 16 0 0 3.1113 0 0 7 7 0 0 3.1113 0 0
+4 16 3.1113 0 0 7 0 0 0 0 -7 0 0 -3.1113
+4 16 0 0 -3.1113 0 0 -7 -7 0 0 -3.1113 0 0
+4 16 -3.1113 0 0 -7 0 0 0 0 7 0 0 3.1113
+1 16 0 -5 0 3.5 0 0 0 1 0 0 0 3.5 4-4ring1.dat
+1 16 0 -93.5 0 4 0 0 0 88.5 0 0 0 4 4-4cylo.dat
+1 16 0 -93.5 0 1.33333 0 0 0 -2.5 0 0 0 1.33333 4-4con2.dat
+1 16 0 -96 0 2.66667 0 0 0 1 0 0 0 2.66667 4-4disc.dat
+1 16 0 -96 0 2.66667 0 0 0 1 0 0 0 2.66667 4-4edge.dat

@@ -1,7 +1,7 @@
-0 Technic Beam  3 x  0.5 Liftarm with Boss and Pin
+0 Technic Beam  3 x  0.5 Liftarm with Boss and Pin with Closed Central Axle Hole
 0 Name: 33299a.dat
 0 Author: Orion Pobursky [OrionP]
-0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,6 +11,8 @@
 0 !HISTORY 2013-06-01 [arezey] Moved common geometry to subfile
 0 !HISTORY 2013-06-03 [PTadmin] Renamed from 33299
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+0 !HISTORY 2021-02-20 [cwdee] Update description
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\33299s01.dat
 1 16 0 0 20 -1 0 0 0 10 0 0 0 -1 axl2hole.dat

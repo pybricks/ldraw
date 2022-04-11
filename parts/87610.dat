@@ -1,0 +1,36 @@
+0 Minifig Helmet Mandalorian
+0 Name: 87610.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 !CATEGORY Minifig Headwear
+
+0 !HISTORY 2011-09-08 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2011-09-08 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2019-10-13 [GeraldLasser] Subfiled for Pattern Use
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87610s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87610s01.dat
+1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud16.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87610s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87610s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87610s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87610s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87610s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87610s04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87610s06.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87610s06.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87610s07.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87610s07.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87610s08.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87610s08.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87610s05.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87610s05.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87610s09.dat

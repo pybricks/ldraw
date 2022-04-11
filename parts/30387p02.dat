@@ -1,7 +1,7 @@
-0 Hinge Brick  1 x  4 Locking Double with Red Stripes Pattern
+0 Hinge Brick  1 x  4 Locking Double, Two Finger End with 9 Teeth with Red Stripes Pattern
 0 Name: 30387p02.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Part UPDATE 2004-04
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -15,6 +15,8 @@
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2021-02-16 [cwdee] Update description
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 4 16 -38 2 -10 -40 0 -10 40 0 -10 38 2 -10
 4 16 -40 0 10 -38 2 10 38 2 10 40 0 10

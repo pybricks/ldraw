@@ -1,7 +1,7 @@
 0 Duplo Plant Flower with  5 Petals and  1 Top Stud
 0 Name: 6510.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2018-01
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,10 +9,12 @@
 0 !CATEGORY Plant
 
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+0 !HISTORY 2021-06-04 [Philo] Corrected wrong height
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 0 1 0 0 0 2.75 0 0 0 1 stud7.dat
 1 16 0 0 0 9 0 0 0 1 0 0 0 9 4-4disc.dat
-1 16 0 4 0 1 0 0 0 -10 0 0 0 1 stud8.dat
+1 16 0 4 0 1 0 0 0 -11 0 0 0 1 stud8.dat
 1 16 0 4 0 14 0 0 0 -1 0 0 0 14 4-4disc.dat
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\6510s01.dat
 1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\6510s01.dat

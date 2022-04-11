@@ -1,7 +1,7 @@
 0 Minifig Whip Bent Flexible (Formed for Electrical Roof Wiring - Right Aligned)
 0 Name: 88704-f1.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,12 +10,26 @@
 0 !KEYWORDS Set 10277, Locomotive
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+0 !HISTORY 2021-04-21 [UR] Corrected Edge Lines Whip End/Cylinder
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 // Pin
 
 1 16 56 -70 -8 0 8 0 -4 0 0 0 0 -4 4-4cylc.dat
 1 16 64 -70 -8 0 -1 0 -4 0 0 0 0 -4 4-4disc.dat
-1 16 56 -70 -8 0 -1 0 -2 0 0 0 0 -2 4-4edge.dat
+
+2 24 56 -71.896 -8.646 56 -71.27 -9.546
+2 24 56 -71.896 -8.646 56 -71.96 -7.58
+2 24 56 -70.417 -9.956 56 -71.27 -9.546
+2 24 56 -69.353 -9.893 56 -70.417 -9.956
+2 24 56 -68.454 -9.269 56 -69.353 -9.893
+2 24 56 -68.045 -8.416 56 -68.107 -7.351
+2 24 56 -68.045 -8.416 56 -68.454 -9.269
+2 24 56 -68.73 -6.453 56 -68.107 -7.351
+2 24 56 -68.73 -6.453 56 -69.585 -6.043
+2 24 56 -70.651 -6.104 56 -69.585 -6.043
+2 24 56 -70.651 -6.104 56 -71.55 -6.726
+2 24 56 -71.96 -7.58 56 -71.55 -6.726
 
 0 // Grip
 

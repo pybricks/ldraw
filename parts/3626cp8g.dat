@@ -1,0 +1,25 @@
+0 Minifig Head Alien with Robot Red Eyes and Mouth and Silver Metal Plates Eyebrows and Mask Pattern
+0 Name: 3626cp8g.dat
+0 Author: Christophe Mitillo [Christophe_Mitillo]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 3626cpb1114
+
+0 !HISTORY 2015-10-30 [MagFors] Subfiled half of the pattern
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
+
+1 16 0 4 0 13 0 0 0 13 0 0 0 13 2-4cyli.dat
+1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
+1 16 0 17 0 0 0 -8 0 6.4 0 8 0 0 t04o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t04o6250.dat
+
+0 // Face 
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cp8gs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626cp8gs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs05.dat

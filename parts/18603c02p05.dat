@@ -1,0 +1,16 @@
+0 Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Dark Pink Panel and "POW" Pattern
+0 Name: 18603c02p05.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Shortcut UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 18603c77pb01, Dimensions, Toy Tag, NFC, Electronic, Powerpuff Girls
+0 !KEYWORDS Blossom, set 71346
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 18603.dat
+1 47 0 11 0 1 0 0 0 1 0 0 0 1 u9512.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 18605p05.dat

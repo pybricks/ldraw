@@ -1,0 +1,20 @@
+0 Sticker  1.5 x  0.8 with Headlamp on Black Background (Formed)
+0 Name: 6009194ec01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 30195, Racers, Ferrari, FXX, Polybag
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 -2.567 2.158 1 0 0 0 0.980761 0.19521 0 -0.19521 0.980761 s\6009194es01.dat
+1 16 0 -3.445 2.256 1 0 0 0 0.980761 -0.19521 0 0.19521 0.980761 s\6009194es02.dat
+1 16 0 -7.099 0.957 1 0 0 0 0.863228 -0.504814 0 0.504814 0.863228 s\6009194es03.dat
+0 // Conditional lines
+5 24 -8 -3.001 0 8 -3.001 0 -8 -2.9574 0.1965 -8 -1.1683 -9.1838
+5 24 -8 -1.1683 -9.1838 8 -1.1683 -9.1838 -8 -3.001 0 -8 7.0356 -23.2135
+5 24 -8 -3.2557 0 8 -3.2557 0 -8 -3.2026 0.2453 -8 -1.4054 -9.2739
+5 24 -8 -1.4054 -9.2739 8 -1.4054 -9.2739 -8 -3.2557 0 -8 6.8198 -23.3397

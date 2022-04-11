@@ -1,0 +1,21 @@
+0 ~Duplo Door  1 x  4 x  3 with Cutout without Front
+0 Name: s\27382s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Subpart UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\27382s02.dat
+0 BFC INVERTNEXT
+1 16 -133.5 0 -2.5 0 0 22 20 0 0 0 5 0 48\2-4cylo.dat
+1 16 -133.5 0 2.5 0 0 22 20 0 0 0 -1 0 48\2-4ndis.dat
+4 16 -5.5 -60 2.5 -9.5 -37 2.5 -133.5 -52 2.5 -125.5 -60 2.5
+4 16 -9.5 -37 2.5 -111.5 -20 2.5 -133.5 -20 2.5 -133.5 -52 2.5
+4 16 -133.5 52 2.5 -9.5 37 2.5 -5.5 60 2.5 -125.5 60 2.5
+4 16 -133.5 20 2.5 -111.5 20 2.5 -9.5 37 2.5 -133.5 52 2.5
+4 16 -111.5 20 2.5 -111.5 -20 2.5 -9.5 -37 2.5 -9.5 37 2.5
+1 16 -133.5 -36 0 0 1 0 0 0 16 2.5 0 0 rect3.dat
+1 16 -133.5 36 0 0 1 0 0 0 -16 -2.5 0 0 rect3.dat

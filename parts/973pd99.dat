@@ -1,7 +1,7 @@
-0 Minifig Torso Robe with Black Gathers and White Neck Pattern
+0 Minifig Torso with Robe with Black Gathers and White Neck Pattern
 0 Name: 973pd99.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,6 +10,8 @@
 0 !KEYWORDS Collectible Minifigures Harry Potter, Fantastic Beasts, Lord Voldemoort
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+0 !HISTORY 2021-01-15 [cwdee] Update description
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 -19 29 10 19 29 10 19 32 10 -19 32 10

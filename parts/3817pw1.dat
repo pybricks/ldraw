@@ -1,7 +1,7 @@
-0 Minifig Leg Left with Red/White Triangles Pattern
+0 ~Minifig Leg Left with Red/White Triangles Pattern (Obsolete)
 0 Name: 3817pw1.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,10 +12,13 @@
 0 !CMDLINE -c17
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2019-09-05 [Holly-Wood] Obsoleted as it is substituted by the updated version 3817bpw1.dat
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 // Pattern
 
 0 // Red
+
 4 4 14.593 -6.3 -6.3 12.82 -6.3 -6.3 10.07 -4.57 -7.489 14.703 -3.42 -8.28
 3 4 10.07 -4.57 -7.489 12.199 -3.42 -8.28 14.703 -3.42 -8.28
 3 4 12.199 -3.42 -8.28 14.79 -2.02 -8.575 14.703 -3.42 -8.28

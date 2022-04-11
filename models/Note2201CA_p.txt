@@ -1,0 +1,77 @@
+ldraw.org Parts Update 2022-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Physical Colour Parts Library
+---------------------------------------------------------------------------
+
+Notes created Fri Jan 14 18:25:58 2022 by the Parts Tracker.
+
+Release statistics:
+   Total files: 19
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   No parts were moved.
+
+Renamed Parts
+   23065.DAT                  ~_Ball 52mm Diameter Dark Gray (Obsolete)
+   changed to    ~_Ball 52mm Diameter Dark Grey (Obsolete)
+
+   4188055.DAT                ~_Flag  2 x  2 with SW Mini AT-ST Pattern LtGrey (Obsolete)
+   changed to    ~_Flag  2 x  2 with SW Mini AT-ST Pattern Light Grey (Obsolete)
+
+   4210633.DAT                ~_Plate  1 x  1 Round Dark_Bluish_Gray (Obsolete)
+   changed to    ~_Plate  1 x  1 Round Dark Bluish Grey (Obsolete)
+
+   4210698.DAT                ~_Minifig Loudhailer Dark_Bluish_Gray (Obsolete)
+   changed to    ~_Minifig Loudhailer Dark Bluish Grey (Obsolete)
+
+   4211044.DAT                ~_Brick  1 x  1 with Headlight Dark_Bluish_Gray (Obsolete)
+   changed to    ~_Brick  1 x  1 with Headlight Dark Bluish Grey (Obsolete)
+
+   4211063.DAT                ~_Plate  1 x  2 Dark_Bluish_Gray (Obsolete)
+   changed to    ~_Plate  1 x  2 Dark Bluish Grey (Obsolete)
+
+   4211069.DAT                ~_Tile  1 x  1 with Clip Dark_Bluish_Gray (Obsolete)
+   changed to    ~_Tile  1 x  1 with Clip Dark Bluish Grey (Obsolete)
+
+   4211119.DAT                ~_Plate  1 x  2 with 1 Stud Dark_Bluish_Gray (Obsolete)
+   changed to    ~_Plate  1 x  2 with 1 Stud Dark Bluish Grey (Obsolete)
+
+   4211385.DAT                ~_Brick  2 x  4 Light_Bluish_Gray (Obsolete)
+   changed to    ~_Brick  2 x  4 Light Bluish Grey (Obsolete)
+
+   4211388.DAT                ~_Brick  1 x  2 Light_Bluish_Gray (Obsolete)
+   changed to    ~_Brick  1 x  2 Light Bluish Grey (Obsolete)
+
+   4211395.DAT                ~_Plate  2 x  4 Light_Bluish_Gray (Obsolete)
+   changed to    ~_Plate  2 x  4 Light Bluish Grey (Obsolete)
+
+   4211396.DAT                ~_Plate  2 x  3 Light_Bluish_Gray (Obsolete)
+   changed to    ~_Plate  2 x  3 Light Bluish Grey (Obsolete)
+
+   4211477.DAT                ~_Plate  1 x  1 with Clip Light - Type 2 Light_Bluish_Gray (Obsolete)
+   changed to    ~_Plate  1 x  1 with Clip Light - Type 2 Light Bluish Grey (Obsolete)
+
+   4211550.DAT                ~_Technic Angle Connector #1 Light_Bluish_Gray (Obsolete)
+   changed to    ~_Technic Angle Connector #1 Light Bluish Grey (Obsolete)
+
+   4211573.DAT                ~_Technic Bush 1/2 Smooth Light_Bluish_Gray (Obsolete)
+   changed to    ~_Technic Bush 1/2 Smooth Light Bluish Grey (Obsolete)
+
+   4211622.DAT                ~_Technic Bush Light_Bluish_Gray (Obsolete)
+   changed to    ~_Technic Bush Light Bluish Grey (Obsolete)
+
+   4211807.DAT                ~_Technic Pin Light_Bluish_Gray (Obsolete)
+   changed to    ~_Technic Pin Light Bluish Grey (Obsolete)
+
+   4211815.DAT                ~_Technic Axle  3 Light_Bluish_Gray (Obsolete)
+   changed to    ~_Technic Axle  3 Light Bluish Grey (Obsolete)
+
+   4263624.DAT                ~_Technic Axle 5.5 With Stop Dark_Bluish_Gray (Obsolete)
+   changed to    ~_Technic Axle 5.5 With Stop Dark Bluish Grey (Obsolete)
+
+Other Fixed Parts
+   No other parts were fixed.

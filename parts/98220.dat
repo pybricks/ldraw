@@ -1,0 +1,45 @@
+0 Duplo Brick  4 x  4 x  1 Round with Curved Top
+0 Name: 98220.dat
+0 Author: Michal Moc [michalmoc]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS Hemisphere
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 2.75 0 0 0 1 stug7-2x2.dat
+1 16 0 0 0 57.142855 0 0 0 1 0 0 0 57.142855 4-4disc.dat
+1 16 0 0 0 57.142855 0 0 0 1 0 0 0 57.142855 48\4-4aring.dat
+1 16 0 23 0 -57.142855 0 0 0 -57.5 0 0 0 57.142855 48\tm04o4000.dat
+1 16 0 23 0 57.142855 0 0 0 -57.5 0 0 0 57.142855 48\tm04o4000.dat
+1 16 0 23 0 -57.142855 0 0 0 -57.5 0 0 0 -57.142855 48\tm04o4000.dat
+1 16 0 23 0 57.142855 0 0 0 -57.5 0 0 0 -57.142855 48\tm04o4000.dat
+1 16 0 61 0 80 0 0 0 -38 0 0 0 80 48\4-4cyli.dat
+
+0 // inside, unprinted
+1 16 0 4 0 -2 0 0 0 -17 0 0 0 -2 stud4.dat
+1 16 0 4 0 54.28571 0 0 0 -1 0 0 0 54.28571 4-4disc.dat
+1 16 0 4 0 54.28571 0 0 0 -1 0 0 0 54.28571 48\4-4aring.dat
+0 BFC INVERTNEXT
+1 16 0 23 0 -54.28571 0 0 0 -47.5 0 0 0 54.28571 48\tm04o4000.dat
+0 BFC INVERTNEXT
+1 16 0 23 0 54.28571 0 0 0 -47.5 0 0 0 54.28571 48\tm04o4000.dat
+0 BFC INVERTNEXT
+1 16 0 23 0 -54.28571 0 0 0 -47.5 0 0 0 -54.28571 48\tm04o4000.dat
+0 BFC INVERTNEXT
+1 16 0 23 0 54.28571 0 0 0 -47.5 0 0 0 -54.28571 48\tm04o4000.dat
+0 BFC INVERTNEXT
+1 16 0 61 0 76 0 0 0 -38 0 0 0 76 48\4-4cyli.dat
+1 16 0 61 0 76 0 0 0 1 0 0 0 76 48\4-4edge.dat
+1 16 0 61 0 4 0 0 0 -1 0 0 0 4 48\4-4rin19.dat
+1 16 0 61 0 80 0 0 0 1 0 0 0 80 48\4-4edge.dat
+0 // adjusted to fit around 2x2 studs
+1 16 0 72 0 44.44 0 0 0 -68 0 0 0 44.44 48\4-4cylo.dat
+1 16 0 72 0 4.04 0 0 0 -1 0 0 0 4.04 48\4-4rin10.dat
+0 BFC INVERTNEXT
+1 16 0 72 0 40.4 0 0 0 -68 0 0 0 40.4 48\4-4cylo.dat
+

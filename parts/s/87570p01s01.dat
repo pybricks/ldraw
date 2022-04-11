@@ -1,12 +1,14 @@
-0 ~Minifig Head Trandoshan with White Teeth and Orange Exe with Black Pupil Pattern - Half
+0 ~Minifig Head Trandoshan with White Teeth and Orange Eye with Black Pupil Pattern - Half
 0 Name: s\87570p01s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Subpart UPDATE 2020-03
+0 !LDRAW_ORG Subpart UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+0 !HISTORY 2021-03-16 [cwdee] Update description
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 3 15 2.623 -6.686 -20.769 1.563 -6.615 -20.262 2.625 -6.572 -20.758
 3 15 1.563 -6.615 -20.262 1.716 -6.009 -20.196 2.625 -6.572 -20.758

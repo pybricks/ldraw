@@ -1,7 +1,7 @@
-0 Minifig Leg Left with SW White Leggings Pattern
+0 ~Minifig Leg Left with SW White Leggings Pattern (Obsolete)
 0 Name: 3817ps0.dat
 0 Author: Daniel Goerner [TK-949]
-0 !LDRAW_ORG Part UPDATE 2012-03
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 0 !HISTORY 2012-04-13 [TK-949] Complete Rewrite to match Torso
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+0 !HISTORY 2020-07-09 [cwdee] Obsoleted due to bad leg geometry
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817s01.dat
 4 16 1.5 20 -6 1.5 20 -11 19.18 20 -11 19.18 20 -6

@@ -1,0 +1,30 @@
+0 Plate  1 x  4 with Two Studs with Black Rectangle Pattern
+0 Name: 92593py0.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 76895, BrickLInk 92593pb038, Speed Champions
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 20 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
+1 16 -20 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
+0 BFC INVERTNEXT
+1 16 0 8 0 36 0 0 0 -4 0 0 0 6 box5.dat
+4 16 40 8 10 36 8 6 -36 8 6 -40 8 10
+4 16 -40 8 10 -36 8 6 -36 8 -6 -40 8 -10
+4 16 -40 8 -10 -36 8 -6 36 8 -6 40 8 -10
+4 16 40 8 -10 36 8 -6 36 8 6 40 8 10
+1 16 0 8 0 40 0 0 0 -8 0 0 0 10 box4.dat
+1 16 30 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -30 0 0 1 0 0 0 1 0 0 0 1 stud.dat
+0 // Top faces
+4 16 -40 0 10 -19 0 9 19 0 9 40 0 10
+4 16 -40 0 10 -40 0 -10 -19 0 -9 -19 0 9
+4 0 -19 0 9 -19 0 -9 19 0 -9 19 0 9
+4 16 40 0 10 19 0 9 19 0 -9 40 0 -10
+4 16 -40 0 -10 40 0 -10 19 0 -9 -19 0 -9

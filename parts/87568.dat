@@ -1,0 +1,16 @@
+0 Minifig Mechanical Arm Bent with Clips at 90 Degrees
+0 Name: 87568.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+0 // Subfile without pattern
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87568s01.dat
+
+0 // Pattern area
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87568s02.dat

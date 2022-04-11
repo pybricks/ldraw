@@ -1,0 +1,21 @@
+0 Panel  1 x  2 x  2 Reinforced with White Curved Corner Pattern - Right Aligned
+0 Name: 87552p01.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 10295, Porsche, Bricklink 87552pb070R
+
+0 !CMDLINE -c47
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87552s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug2-1x2.dat
+1 15 -19.5 20 10 0 0 39 -20 0 0 0 -1 0 48\1-4ndis.dat
+1 16 -19.5 20 10 0 0 39 -20 0 0 0 -1 0 48\1-4chrd.dat
+4 16 19.5 20 10 19.5 0 10 20 0 10 20 48 10
+3 16 -20 0 10 -19.5 0 10 -20 48 10
+4 16 -19.5 0 10 19.5 20 10 20 48 10 -20 48 10

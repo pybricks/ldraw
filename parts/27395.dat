@@ -1,0 +1,47 @@
+0 Duplo Cabinet  2 x  4 x  5
+0 Name: 27395.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Container
+0 !KEYWORDS Furniture, Wall, Shelf
+
+0 !HISTORY 2020-12-12 {LEGO/Unity Microgame} Original part shape
+0 !HISTORY 2021-01-24 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 20 1 0 0 0 2.75 0 0 0 1 stug7-1x4.dat
+1 16 0 0 -20 1 0 0 0 2.75 0 0 0 1 stug7-1x4.dat
+1 16 0 240 0 80 0 0 0 -240 0 0 0 40 box4-1.dat
+4 16 -76 240 -36 76 240 -36 80 240 -40 -80 240 -40
+4 16 -76 240 36 -76 240 -36 -80 240 -40 -80 240 40
+4 16 76 240 36 80 240 40 80 240 -40 76 240 -36
+2 24 80 240 -40 -80 240 -40
+4 16 -76 240 36 -80 240 40 80 240 40 76 240 36
+0 BFC INVERTNEXT
+1 16 0 240 0 76 0 0 0 -20 0 0 0 36 box5.dat
+1 16 0 220 0 1 0 0 0 -4 0 0 0 1 stug8-1x3.dat
+1 16 -20 220 -34 1.5 0 0 0 19 0 0 0 2 box4-1.dat
+1 16 -60 220 -34 1.5 0 0 0 19 0 0 0 2 box4-1.dat
+1 16 -74 220 -20 0 0 2 0 19 0 1.5 0 0 box4-1.dat
+1 16 20 220 -34 -1.5 0 0 0 19 0 0 0 2 box4-1.dat
+1 16 60 220 -34 -1.5 0 0 0 19 0 0 0 2 box4-1.dat
+1 16 74 220 -20 0 0 -2 0 19 0 1.5 0 0 box4-1.dat
+1 16 -20 220 34 1.5 0 0 0 19 0 0 0 -2 box4-1.dat
+1 16 -60 220 34 1.5 0 0 0 19 0 0 0 -2 box4-1.dat
+1 16 -74 220 20 0 0 2 0 19 0 -1.5 0 0 box4-1.dat
+1 16 20 220 34 -1.5 0 0 0 19 0 0 0 -2 box4-1.dat
+1 16 60 220 34 -1.5 0 0 0 19 0 0 0 -2 box4-1.dat
+1 16 74 220 20 0 0 -2 0 19 0 -1.5 0 0 box4-1.dat
+0 BFC INVERTNEXT
+1 16 0 182 -40 0 0 75 34 0 0 0 76 0 box5.dat
+4 16 75 216 -40 80 240 -40 80 0 -40 75 4 -40
+4 16 -75 4 -40 75 4 -40 80 0 -40 -80 0 -40
+4 16 -75 216 -40 -75 4 -40 -80 0 -40 -80 240 -40
+4 16 75 216 -40 -75 216 -40 -80 240 -40 80 240 -40
+0 BFC INVERTNEXT
+1 16 0 74.5 -40 0 0 75 70.5 0 0 0 76 0 box5.dat
+4 16 75 145 -40 -75 145 -40 -75 148 -40 75 148 -40

@@ -1,0 +1,19 @@
+0 Minifig Mechanical Arm Bent with Clips at 90 Degrees with White Pattern on Right Side
+0 Name: 87568p02.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS General Grievous
+0 !KEYWORDS set 75040, set 75199, bricklink 87568pb02R
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+0 // Subfile without pattern
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87568s01.dat
+
+0 // Pattern
+1 15 0 0 0 -1 0 0 0 1 0 0 0 1 s\87568s02.dat

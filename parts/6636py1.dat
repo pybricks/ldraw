@@ -1,0 +1,31 @@
+0 Tile  1 x  6 with Black and Dark Grey Stripes Pattern
+0 Name: 6636py1.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 6636pb207, Set 76898, Speed Champions
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6636s01.dat
+0 // Top faces
+3 16 -60 0 10 -39 0 9 9 0 9
+3 16 -60 0 10 9 0 9 23 0 9
+4 16 -60 0 10 23 0 9 24 0 9 60 0 10
+3 16 60 0 10 24 0 9 27 0 9
+3 16 60 0 10 27 0 9 39 0 9
+4 16 -60 0 10 -60 0 -10 -39 0 -9 -39 0 9
+4 0 -39 0 9 -39 0 -9 9 0 -9 9 0 9
+4 72 9 0 9 9 0 -9 23 0 -9 23 0 9
+4 0 23 0 9 23 0 -9 24 0 -9 24 0 9
+4 72 24 0 9 24 0 -9 27 0 -9 27 0 9
+4 0 27 0 9 27 0 -9 39 0 -9 39 0 9
+4 16 60 0 10 39 0 9 39 0 -9 60 0 -10
+3 16 -60 0 -10 9 0 -9 -39 0 -9
+3 16 -60 0 -10 23 0 -9 9 0 -9
+4 16 -60 0 -10 60 0 -10 24 0 -9 23 0 -9
+3 16 60 0 -10 27 0 -9 24 0 -9
+3 16 60 0 -10 39 0 -9 27 0 -9

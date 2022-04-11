@@ -1,0 +1,19 @@
+0 ~Minifig Helmet Mandalorian, Ear Cover with Hole
+0 Name: s\87610s06.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Subpart UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+3 16 16.1571 3.5 2 17.319 17.3 3 16 1.5 3
+3 16 16 1.5 3 16 1.5 2 16.1571 3.5 2
+3 16 16 1.5 -3 17.561 20.298 -3.001 16.1571 3.5 -2
+3 16 16.1571 3.5 -2 16 1.5 -2 16 1.5 -3
+4 16 16.1571 3.5 -2 17.561 20.298 -3.001 17.319 17.3 2.848 16.1571 3.5 0
+4 16 16.1571 3.5 2 16.1571 3.5 0 17.319 17.3 2.848 17.319 17.3 3
+3 16 17.561 20.298 -3.001 17.516 19.736 2.847 17.319 17.3 2.848
+1 16 16 1.5 0 0 -1 .1571 0 0 2 2 0 0 2-4ndis.dat
+1 16 16 1.5 0 0 -1 -.07865 0 0 -1 1 0 0 2-4ring2.dat

@@ -1,7 +1,7 @@
-0 Brick  2 x  4 x  4 with Propellor Housing
+0 Brick  2 x  4 x  4 with Propeller Housing
 0 Name: 30535.dat
 0 Author: John Riley [jriley]
-0 !LDRAW_ORG Part UPDATE 2014-01
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -13,6 +13,8 @@
 0 !HISTORY 2013-03-11 [mikeheide] Changed two edgelines, changed two 4-4cyli.dat to 3-4cyli.dat like requested.
 0 !HISTORY 2014-02-13 [MMR1988] Completely rewritten
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2021-03-17 [cwdee] Update description
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30535s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30535s01.dat

@@ -1,0 +1,21 @@
+0 Glass for Window  1 x  4 x  6 with Metallic Gold Lattice over White Background
+0 Name: 57895p06.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Position in 60596 frame: Y=4.5, Z=5
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Ninjago, Japan, japanese, shoji, rise, paper, door, screen
+0 !KEYWORDS Set 70620, Set 70657, Set 70670, Set 71703, BrickLink 57895pb041
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\57895s01.dat
+0 BFC NOCLIP
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\57895p06s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\57895p06s01.dat
+1 16 0 131.5 0 1 0 0 0 -1 0 0 0 1 s\57895p06s01.dat
+1 16 0 131.5 0 -1 0 0 0 -1 0 0 0 1 s\57895p06s01.dat

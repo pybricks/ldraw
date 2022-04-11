@@ -1,0 +1,993 @@
+ldraw.org Parts Update 2022-01
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Fri Jan 14 18:25:58 2022 by the Parts Tracker.
+
+Release statistics:
+   Total files: 1184
+   New files: 821
+   New parts: 568
+   New subparts: 200
+   New primitives: 22
+   New hi-res primitives: 30
+   New part texture images: 1
+
+New 3-digit part numbers assigned:
+   916.dat Electric Technic Motor 4.5V  6 x 17 x  5 Switch
+
+Moved Parts
+   2599C01.DAT                ~Moved to 2599a
+   30346C01.DAT               ~Moved to 71613
+   3429.DAT                   ~Moved to 3431
+   3430C01.DAT                ~Moved to 3430c01-f1.dat
+   3430C02.DAT                ~Moved to 3430c02-f1.dat
+   3861.DAT                   ~Moved to 3861c
+   851.DAT                    ~Moved to 851a
+   U9254.DAT                  ~Moved to 30406
+
+Renamed Parts
+   NPEGHOL3.DAT               Technic Peg Hole / Axle Hole Negative without Top Surface Ext.
+   changed to    Technic Peg Hole / Axle Hole Negative without Top Surface Extensions
+
+   NPEGHOL5.DAT               Technic Peg Hole 0.5 / Axle Hole Negative with Top Surface Ext.
+   changed to    Technic Peg Hole 0.5 / Axle Hole Negative with Top Surface Extensions
+
+   004488E.DAT                Sticker  2.3 x  2.3 Round with Lifepreserver Pattern
+   changed to    Sticker  2.3 x  2.3 Round with Lifepreserver
+
+   13786P03.DAT               Animal Cat Standing Looking Forward with Yellow Eyes and Dark Bluish Gray Nose and Mouth Pattern
+   changed to    Animal Cat Standing Looking Forward with Yellow Eyes and Dark Bluish Grey Nose and Mouth Pattern
+
+   14149.DAT                  Technic Rubber Foot for Chain Tread 38
+   changed to    Technic Rubber Foot for Chain Tread 5 Wide
+
+   14769PX4.DAT               Tile  2 x  2 Round with Round Underside Stud with Large Medium Lilac Semicircle and Small Black Semicircle
+   changed to    Tile  2 x  2 Round with Round Underside Stud with Medium Lilac Eyelid and Black Pupil Pattern
+
+   15379.DAT                  =Technic Chain Tread 17
+   changed to    =Technic Chain Tread 2.5 Wide
+
+   15588.DAT                  =Brick  4 x  4 Round Corner
+   changed to    =Brick  4 x  4 Corner Round
+
+   15790.DAT                  Propellor  3 Blade  9 Diameter with Technic Peghole
+   changed to    Propeller  3 Blade  9 Diameter with Technic Peghole
+
+   164C01.DAT                 Boat Section Stern  6 x  6 x  3.333 with LtGray Deck
+   changed to    Boat Section Stern  6 x  6 x  3.333 with Light Grey Deck
+
+   16599.DAT                  Minifig Helmet Classic with Cracked Thin Chin Guard
+   changed to    Minifig Helmet Classic with Thin Chin Guard Cracked
+
+   182C01.DAT                 Boat Section Middle  6 x 12 x 3.333 Cargo Hold with LtGray Deck
+   changed to    Boat Section Middle  6 x 12 x 3.333 Cargo Hold with Light Grey Deck
+
+   185C01.DAT                 Boat Section Middle  6 x  8 x  3.333 with LtGray Deck
+   changed to    Boat Section Middle  6 x  8 x  3.333 with Light Grey Deck
+
+   190775A.DAT                Sticker  3.1 x  3.1 Round with Black "6" or "9" on White
+   changed to    Sticker  3.1 x  3.1 Round with Black "6" on White
+
+   22378.DAT                  =Animal Cat Standing Looking Forward with Yellow Eyes and Dark Bluish Gray Nose and Mouth Pattern
+   changed to    =Animal Cat Standing Looking Forward with Yellow Eyes and Dark Bluish Grey Nose and Mouth Pattern
+
+   2421.DAT                   Propellor  3 Blade  4 Diameter
+   changed to    Propeller  3 Blade  4 Diameter
+
+   24246P01.DAT               Tile  1 x  1 with Rounded End with Black and Light Gray Circle and Four Lines Pattern
+   changed to    Tile  1 x  1 with Rounded End with Black and Light Grey Circle and Four Lines Pattern
+
+   24375.DAT                  Technic Rubber Pin for Chain Tread 38
+   changed to    Technic Rubber Pin for Chain Tread 5 Wide
+
+   245C02.DAT                 Train Wheel 4 Studs with Conical Rim with Stub Axle and LtGrey Tyre
+   changed to    Train Wheel 4 Studs with Conical Rim with Stub Axle and Light Grey Tyre
+
+   2479.DAT                   Propellor  4 Blade  5 Diameter
+   changed to    Propeller  4 Blade  5 Diameter
+
+   26021C01.DAT               Train Base  4 x  5 Roller Coaster with Dark Bluish Gray Wheels
+   changed to    Train Base  4 x  5 Roller Coaster with Dark Bluish Grey Wheels
+
+   26603PZ1.DAT               Tile  2 x  3 with Metallic Silver Angled Lines
+   changed to    Tile  2 x  3 with Metallic Silver Angled Lines Pattern
+
+   2742.DAT                   ~Propellor  3 Blade 15 Diameter
+   changed to    ~Propeller  3 Blade 15 Diameter
+
+   2742C01.DAT                Propellor  3 Blade 15 Diameter with Light Grey Technic Brick and Gear 24t
+   changed to    Propeller  3 Blade 15 Diameter with Light Grey Technic Brick and Gear 24t
+
+   3004P51.DAT                Brick  1 x  2 with Three-Spot Face
+   changed to    Brick  1 x  2 with Three-Spot Face Pattern
+
+   3005PTO.DAT                Brick  1 x  1 with Blue "O" Pattern
+   changed to    Brick  1 x  1 with Blue "O" (Alpha) Pattern
+
+   30078.DAT                  Propellor  6 Blade  8 Diameter
+   changed to    Propeller  6 Blade  8 Diameter
+
+   3010PZY.DAT                Brick  1 x  4 with Light Bluish Gray Robe Lapels and Tan Neck Pattern
+   changed to    Brick  1 x  4 with Light Bluish Grey Robe Lapels and Tan Neck Pattern
+
+   30187C04.DAT               Bike  3 Wheel Motorcycle Body with Dark_Gray Motor (Complete)
+   changed to    Bike  3 Wheel Motorcycle Body with Dark Grey Motor (Complete)
+
+   30223.DAT                  Door  1 x  5 x  7 & 1/2 
+   changed to    Door  1 x  5 x  7.5
+
+   30237.DAT                  Brick  1 x  2 with Clip Vertical
+   changed to    Brick  1 x  2 with Clip Vertical (Thick U-Clip) with Centre Notch
+
+   30249PS0.DAT               Slope Brick 55  1 x  6 x  5 with Red and DkGray Pattern
+   changed to    Slope Brick 55  1 x  6 x  5 with Red Quadrilateral and Dark Grey Lines and Symbols Pattern
+
+   30332.DAT                  Propellor  3 Blade  9 Diameter with Freestyle Pinhole
+   changed to    Propeller  3 Blade  9 Diameter with Freestyle Pinhole
+
+   30386.DAT                  Hinge Brick  1 x  2 Locking Double
+   changed to    Hinge Brick  1 x  2 Locking Double, Two Finger End with  9 Teeth
+
+   30387.DAT                  Hinge Brick  1 x  4 Locking Double
+   changed to    Hinge Brick  1 x  4 Locking Double, Two Finger End with 9 Teeth
+
+   30387P02.DAT               Hinge Brick  1 x  4 Locking Double with Red Stripes Pattern
+   changed to    Hinge Brick  1 x  4 Locking Double, Two Finger End with 9 Teeth with Red Stripes Pattern
+
+   30387P03.DAT               Hinge Brick  1 x  4 Locking Double w/ Red Stripes Type 2 Pattern
+   changed to    Hinge Brick  1 x  4 Locking Double, Two Finger End with 9 Teeth with Red Stripes Type 2 Pattern
+
+   30461C01.DAT               Animal Dinosaur Body Triceratops (Complete) w/ Light Gray Legs
+   changed to    Animal Dinosaur Body Triceratops with Light Grey Legs (Complete)
+
+   30535.DAT                  Brick  2 x  4 x  4 with Propellor Housing
+   changed to    Brick  2 x  4 x  4 with Propeller Housing
+
+   30644.DAT                  Propellor  2 Blade  4 x 22
+   changed to    Propeller  2 Blade  4 x 22
+
+   3069BPZI.DAT               Tile  1 x  2 with Metallic Silver and Dark Bluish Gray Lines Pattern
+   changed to    Tile  1 x  2 with Metallic Silver and Dark Bluish Grey Lines Pattern
+
+   31213.DAT                  Duplo Brick  2 x  4 x  2 with Curved Top (Needs Work)
+   changed to    Duplo Brick  2 x  4 x  2 with Curved Top
+
+   3135.DAT                   Slope Brick 45  2 x  3 x  1 & 1/3 Double Crane
+   changed to    Slope Brick 45  2 x  3 x  1.333 Double with Crane Arm
+
+   3135C01.DAT                Slope Brick 45  2 x  3 x  1 & 1/3 Double with Hook (Complete)
+   changed to    Slope Brick 45  2 x  3 x  1.333 Double with Crane Arm and Hook (Complete)
+
+   3135C02.DAT                Slope Brick 45  2 x  3 x  1 & 1/3 Double with Light Gray Hook
+   changed to    Slope Brick 45  2 x  3 x  1.333 Double with Crane Arm and Light Grey Hook
+
+   3135C03.DAT                Slope Brick 45  2 x  3 x  1 & 1/3 Double with Black Hook
+   changed to    Slope Brick 45  2 x  3 x  1.333 Double with Crane Arm and Black Hook
+
+   32627.DAT                  Plate Round  4 x  4 with Groove with Two Open Centre Studs
+   changed to    Plate  4 x  4 Round with Groove with Two Open Centre Studs
+
+   33299A.DAT                 Technic Beam  3 x  0.5 Liftarm with Boss and Pin
+   changed to    Technic Beam  3 x  0.5 Liftarm with Boss and Pin with Closed Central Axle Hole
+
+   3430.DAT                   Forklift Rails  2 x  4 x  5.667 (Needs Work)
+   changed to    Forklift Rails  2 x  4 x  5.667
+
+   3461.DAT                   Propellor  4 Blade  5 Diameter with Rotor Holder
+   changed to    Propeller  4 Blade  5 Diameter with Rotor Holder
+
+   3480.DAT                   Propellor  2 Blade  4 Diameter Helicopter Tail
+   changed to    Propeller  2 Blade  4 Diameter Helicopter Tail
+
+   3626CP8E.DAT               Minifig Head Black Standard Eyes, Smiling with Tongue / Standard Grin 2-Sided Pattern
+   changed to    Minifig Head with Black Standard Eyes, Smiling with Tongue / Standard Grin 2-Sided Pattern
+
+   3626CPM1.DAT               Minifig Head with LOTR Thick Gray Eyebrows and Smile Pattern
+   changed to    Minifig Head with LOTR Thick Grey Eyebrows and Smile Pattern
+
+   3815.DAT                   Minifig Hips
+   changed to    ~Minifig Hips (Obsolete)
+
+   3815C01.DAT                Minifig Hips and Legs
+   changed to    ~Minifig Hips and Legs (Obsolete)
+
+   3815C02.DAT                Minifig Hips and Legs, Sitting
+   changed to    ~Minifig Hips and Legs, Sitting (Obsolete)
+
+   3815C36.DAT                Minifig Hips and Legs with Wooden Leg
+   changed to    ~Minifig Hips and Legs with Wooden Leg (Obsolete)
+
+   3815C3J.DAT                Minifig Hips and Legs with Grass Skirt Pattern
+   changed to    ~Minifig Hips and Legs with Grass Skirt Pattern (Obsolete)
+
+   3815C4F.DAT                Minifig Hips and Legs with Leather Armour Pattern
+   changed to    ~Minifig Hips and Legs with Leather Armour Pattern (Obsolete)
+
+   3815C63.DAT                Minifig Hips and Legs with Robot Pattern
+   changed to    ~Minifig Hips and Legs with Robot Pattern (Obsolete)
+
+   3815C6G.DAT                Minifig Hips and Legs with White and Gold Markings Pattern
+   changed to    ~Minifig Hips and Legs with White and Gold Markings Pattern (Obsolete)
+
+   3815C6U.DAT                Minifig Hips and Legs with Orange Cable Pattern
+   changed to    ~Minifig Hips and Legs with Orange Cable Pattern (Obsolete)
+
+   3815C6V.DAT                Minifig Hips and Legs with Salmon Cable Pattern
+   changed to    ~Minifig Hips and Legs with Salmon Cable Pattern (Obsolete)
+
+   3815C6W.DAT                Minifig Hips and Legs with Gold Circuitry Pattern
+   changed to    ~Minifig Hips and Legs with Gold Circuitry Pattern (Obsolete)
+
+   3815C89.DAT                Minifig Hips and Legs with White Apron Pattern
+   changed to    ~Minifig Hips and Legs with White Apron Pattern (Obsolete)
+
+   3815C8H.DAT                Minifig Hips and Legs with Belt and Reflective Stripes, 'EMMET' Badge Pattern
+   changed to    ~Minifig Hips and Legs with Belt and Reflective Stripes, 'EMMET' Badge Pattern (Obsolete)
+
+   3815C8I.DAT                Minifig Hips and Legs with Belt and Reflective Stripes, 'EMMET' Badge and Silver Triangles on Feet Pattern
+   changed to    ~Minifig Hips and Legs with Belt and Reflective Stripes, 'EMMET' Badge and Silver Triangles on Feet Pattern (Obsolete)
+
+   3815CA2.DAT                Minifig Hips and Legs with Green Kilt & Toes Pattern
+   changed to    ~Minifig Hips and Legs with Green Kilt & Toes Pattern (Obsolete)
+
+   3815CA3.DAT                Minifig Hips and Legs with Buttoned Pockets Pattern
+   changed to    ~Minifig Hips and Legs with Buttoned Pockets Pattern (Obsolete)
+
+   3815CA9.DAT                Minifig Hips and Legs with Holster and Belt Pattern
+   changed to    ~Minifig Hips and Legs with Holster and Belt Pattern (Obsolete)
+
+   3815CAW.DAT                Minifig Hips and Legs with Dark Grey Belt, Dark Red Loincloth, White Claws, Fur Tail Pattern
+   changed to    ~Minifig Hips and Legs with Dark Grey Belt, Dark Red Loincloth, White Claws, Fur Tail Pattern (Obsolete)
+
+   3815CBA.DAT                Minifig Hips and Legs with Harlequin Red/Black Pattern
+   changed to    ~Minifig Hips and Legs with Harlequin Red/Black Pattern (Obsolete)
+
+   3815CBB.DAT                Minifig Hips and Legs with Iron Man Armoured Suit Mark VI Pattern
+   changed to    ~Minifig Hips and Legs with Iron Man Armoured Suit Mark VI Pattern (Obsolete)
+
+   3815CBC.DAT                Minifig Hips and Legs with Iron Man Armoured Suit Mark VII Pattern
+   changed to    ~Minifig Hips and Legs with Iron Man Armoured Suit Mark VII Pattern (Obsolete)
+
+   3815CBD.DAT                Minifig Hips and Legs with War Machine Armoured Suit Pattern
+   changed to    ~Minifig Hips and Legs with War Machine Armoured Suit Pattern (Obsolete)
+
+   3815CBE.DAT                Minifig Hips and Legs with Iron Man Armoured Suit Mark XVII Pattern
+   changed to    ~Minifig Hips and Legs with Iron Man Armoured Suit Mark XVII Pattern (Obsolete)
+
+   3815CBF.DAT                Minifig Hips and Legs with Iron Man Armoured Suit Mark XLII Pattern
+   changed to    ~Minifig Hips and Legs with Iron Man Armoured Suit Mark XLII Pattern (Obsolete)
+
+   3815CBG.DAT                Minifig Hips and Legs with Iron Patriot Armoured Suit Pattern
+   changed to    ~Minifig Hips and Legs with Iron Patriot Armoured Suit Pattern (Obsolete)
+
+   3815CC44.DAT               Minifig Hips and Legs with Studded Belt and Safety Pins Pattern
+   changed to    ~Minifig Hips and Legs with Studded Belt and Safety Pins Pattern (Obsolete)
+
+   3815CC67.DAT               Minifig Hips and Legs with Clockwork Robot Pattern
+   changed to    ~Minifig Hips and Legs with Clockwork Robot Pattern (Obsolete)
+
+   3815CC6A.DAT               Minifig Hips and Legs with Red Roman Tunic and Belt Pattern
+   changed to    ~Minifig Hips and Legs with Red Roman Tunic and Belt Pattern (Obsolete)
+
+   3815CDE.DAT                Minifig Hips and Legs with Laboratory Smock Pattern
+   changed to    ~Minifig Hips and Legs with Laboratory Smock Pattern (Obsolete)
+
+   3815CHB.DAT                Minifig Hips and Legs with Purple Greatcoat Pattern
+   changed to    ~Minifig Hips and Legs with Purple Greatcoat Pattern (Obsolete)
+
+   3815CM0.DAT                Minifig Hips and Legs with LOTR Leather Armor Pattern
+   changed to    ~Minifig Hips and Legs with LOTR Leather Armour Pattern (Obsolete)
+
+   3815CM1.DAT                Minifig Hips and Legs with LOTR Scale Armour Pattern
+   changed to    ~Minifig Hips and Legs with LOTR Scale Armour Pattern (Obsolete)
+
+   3815CM2.DAT                Minifig Hips and Legs with LOTR Coat, Shirttails and Belt Pattern
+   changed to    ~Minifig Hips and Legs with LOTR Coat, Shirttails and Belt Pattern (Obsolete)
+
+   3815CQ0.DAT                Minifig Hips and Legs with DarkBlue Loincloth Pattern
+   changed to    ~Minifig Hips and Legs with DarkBlue Loincloth Pattern (Obsolete)
+
+   3815CQ1.DAT                Minifig Hips and Legs with Decorated Loincloth Pattern
+   changed to    ~Minifig Hips and Legs with Decorated Loincloth Pattern (Obsolete)
+
+   3815CQ2.DAT                Minifig Hips and Legs with DkBlue/Gold Loincloth Pattern
+   changed to    ~Minifig Hips and Legs with DkBlue/Gold Loincloth Pattern (Obsolete)
+
+   3815CS5.DAT                Minifig Hips and Legs with SW Gunbelt Pattern
+   changed to    ~Minifig Hips and Legs with SW Gunbelt Pattern (Obsolete)
+
+   3815CSK.DAT                Minifig Hips and Legs with SW Stormtrooper Pattern
+   changed to    ~Minifig Hips and Legs with SW Stormtrooper Pattern (Obsolete)
+
+   3815CW1.DAT                Minifig Hips and Legs with Red/White Triangles, Fringe Pattern
+   changed to    ~Minifig Hips and Legs with Red/White Triangles, Fringe Pattern (Obsolete)
+
+   3815CW2.DAT                Minifig Hips and Legs with Blue/White Triangles, Fringe Pattern
+   changed to    ~Minifig Hips and Legs with Blue/White Triangles, Fringe Pattern (Obsolete)
+
+   3815CW3.DAT                Minifig Hips and Legs with Dark Turquoise/White Triangles, White Fringe Pattern
+   changed to    ~Minifig Hips and Legs with Dark Turquoise/White Triangles, White Fringe Pattern (Obsolete)
+
+   3815P4F.DAT                Minifig Hips with Leather Belt (Red Studs) Pattern
+   changed to    ~Minifig Hips with Leather Belt (Red Studs) Pattern (Obsolete)
+
+   3815P63.DAT                Minifig Hips with Robot Pattern
+   changed to    ~Minifig Hips with Robot Pattern (Obsolete)
+
+   3815P6G.DAT                Minifig Hips with White and Gold Markings Pattern
+   changed to    ~Minifig Hips with White and Gold Markings Pattern (Obsolete)
+
+   3815P6U.DAT                Minifig Hips with Gold Belt and Orange Cable Pattern
+   changed to    ~Minifig Hips with Gold Belt and Orange Cable Pattern (Obsolete)
+
+   3815P6V.DAT                Minifig Hips with Silver Belt and Salmon Cable Pattern
+   changed to    ~Minifig Hips with Silver Belt and Salmon Cable Pattern (Obsolete)
+
+   3815P6W.DAT                Minifig Hips with Silver Belt Pattern
+   changed to    ~Minifig Hips with Silver Belt Pattern (Obsolete)
+
+   3815P89.DAT                Minifig Hips with White Apron Pattern
+   changed to    ~Minifig Hips with White Apron Pattern (Obsolete)
+
+   3815P8I.DAT                Minifig Hips with Black Belt with Silver Belt Buckle Pattern
+   changed to    ~Minifig Hips with Black Belt with Silver Belt Buckle Pattern (Obsolete)
+
+   3815PA9.DAT                Minifig Hips with Holster and Belt Pattern
+   changed to    ~Minifig Hips with Holster and Belt Pattern (Obsolete)
+
+   3815PAW.DAT                Minifig Hips with Dark Grey Belt with Silver Buckle and Rivets Pattern
+   changed to    ~Minifig Hips with Dark Grey Belt with Silver Buckle and Rivets Pattern (Obsolete)
+
+   3815PBA.DAT                Minifig Hips with Harlequin Black Square Pattern
+   changed to    ~Minifig Hips with Harlequin Black Square Pattern (Obsolete)
+
+   3815PBD.DAT                Minifig Hips with War Machine Armoured Suit Pattern
+   changed to    ~Minifig Hips with War Machine Armoured Suit Pattern (Obsolete)
+
+   3815PBE.DAT                Minifig Hips with Iron Man Armoured Suit Mark XVII Pattern
+   changed to    ~Minifig Hips with Iron Man Armoured Suit Mark XVII Pattern (Obsolete)
+
+   3815PBF.DAT                Minifig Hips with Iron Man Armoured Suit Mark XLII Pattern
+   changed to    ~Minifig Hips with Iron Man Armoured Suit Mark XLII Pattern (Obsolete)
+
+   3815PBG.DAT                Minifig Hips with Iron Patriot Armoured Suit Pattern
+   changed to    ~Minifig Hips with Iron Patriot Armoured Suit Pattern (Obsolete)
+
+   3815PC44.DAT               Minifig Hips with Studded Belt Pattern
+   changed to    ~Minifig Hips with Studded Belt Pattern (Obsolete)
+
+   3815PC67.DAT               Minifig Hips with Clockwork Robot Pattern
+   changed to    ~Minifig Hips with Clockwork Robot Pattern (Obsolete)
+
+   3815PC6A.DAT               Minifig Hips with Red Roman Tunic and Belt Pattern
+   changed to    ~Minifig Hips with Red Roman Tunic and Belt Pattern (Obsolete)
+
+   3815PDE.DAT                Minifig Hips with Laboratory Smock Pattern
+   changed to    ~Minifig Hips with Laboratory Smock Pattern (Obsolete)
+
+   3815PHB.DAT                Minifig Hips with Purple Greatcoat Pattern
+   changed to    ~Minifig Hips with Purple Greatcoat Pattern (Obsolete)
+
+   3815PM0.DAT                Minifig Hips with LOTR Leather Armor Pattern
+   changed to    ~Minifig Hips with LOTR Leather Armour Pattern (Obsolete)
+
+   3815PM1.DAT                Minifig Hips with LOTR Dark Red Belt & Scale Armor Pattern
+   changed to    ~Minifig Hips with LOTR Dark Red Belt & Scale Armour Pattern (Obsolete)
+
+   3815PM2.DAT                Minifig Hips with LOTR Coat, Shirttails and Belt Pattern
+   changed to    ~Minifig Hips with LOTR Coat, Shirttails and Belt Pattern (Obsolete)
+
+   3815PQ0.DAT                Minifig Hips with Gold Belt and DarkBlue Loincloth Pattern
+   changed to    ~Minifig Hips with Gold Belt and DarkBlue Loincloth Pattern (Obsolete)
+
+   3815PQ1.DAT                Minifig Hips with Gold X-Belt and Decorated Loincloth Pattern
+   changed to    ~Minifig Hips with Gold X-Belt and Decorated Loincloth Pattern (Obsolete)
+
+   3815PQ2.DAT                Minifig Hips with Gold O-Belt and Loincloth Pattern
+   changed to    ~Minifig Hips with Gold O-Belt and Loincloth Pattern (Obsolete)
+
+   3815PS5.DAT                Minifig Hips with SW Gunbelt Pattern
+   changed to    ~Minifig Hips with SW Gunbelt Pattern (Obsolete)
+
+   3815PSK.DAT                Minifig Hips with SW Stormtrooper Pattern
+   changed to    ~Minifig Hips with SW Stormtrooper Pattern (Obsolete)
+
+   3815PW1.DAT                Minifig Hips with Red/White Triangles Pattern
+   changed to    ~Minifig Hips with Red/White Triangles Pattern (Obsolete)
+
+   3816.DAT                   Minifig Leg Right
+   changed to    ~Minifig Leg Right (Obsolete)
+
+   3816P3J.DAT                Minifig Leg Right with Grass Skirt Pattern
+   changed to    ~Minifig Leg Right with Grass Skirt Pattern (Obsolete)
+
+   3816P4F.DAT                Minifig Leg Right with Leather Straps (Red Studs) Pattern
+   changed to    ~Minifig Leg Right with Leather Straps (Red Studs) Pattern (Obsolete)
+
+   3816P63.DAT                Minifig Leg Right with Robot Pattern
+   changed to    ~Minifig Leg Right with Robot Pattern (Obsolete)
+
+   3816P6F.DAT                Minifig Leg Right with Astro Pattern
+   changed to    ~Minifig Leg Right with Astro Pattern (Obsolete)
+
+   3816P6G.DAT                Minifig Leg Right with White and Gold Markings Pattern
+   changed to    ~Minifig Leg Right with White and Gold Markings Pattern (Obsolete)
+
+   3816P6U.DAT                Minifig Leg Right with Orange Cable Pattern
+   changed to    ~Minifig Leg Right with Orange Cable Pattern (Obsolete)
+
+   3816P6V.DAT                Minifig Leg Right with Salmon Cable Pattern
+   changed to    ~Minifig Leg Right with Salmon Cable Pattern (Obsolete)
+
+   3816P6W.DAT                Minifig Leg Right with Golden Circuit Pattern
+   changed to    ~Minifig Leg Right with Golden Circuit Pattern (Obsolete)
+
+   3816P89.DAT                Minifig Leg Right with White Apron Pattern
+   changed to    ~Minifig Leg Right with White Apron Pattern (Obsolete)
+
+   3816P8H.DAT                Minifig Leg Right with Reflective Stripe Pattern
+   changed to    ~Minifig Leg Right with Reflective Stripe Pattern (Obsolete)
+
+   3816P8I.DAT                Minifig Leg Right with Reflective Stripe and Triangles on Feet Pattern
+   changed to    ~Minifig Leg Right with Reflective Stripe and Triangles on Feet Pattern (Obsolete)
+
+   3816PA2.DAT                Minifig Leg Right with Green Kilt and Toes Pattern
+   changed to    ~Minifig Leg Right with Green Kilt and Toes Pattern (Obsolete)
+
+   3816PA3.DAT                Minifig Leg Right with Buttoned Pocket Pattern
+   changed to    ~Minifig Leg Right with Buttoned Pocket Pattern (Obsolete)
+
+   3816PA9.DAT                Minifig Leg Right with Holster and Belt Pattern
+   changed to    ~Minifig Leg Right with Holster and Belt Pattern (Obsolete)
+
+   3816PAW.DAT                Minifig Leg Right with Dark Red Loincloth, White Claws and Fur Tail Pattern
+   changed to    ~Minifig Leg Right with Dark Red Loincloth, White Claws and Fur Tail Pattern (Obsolete)
+
+   3816PBA.DAT                Minifig Leg Right with 3 Black Diamonds Pattern
+   changed to    ~Minifig Leg Right with 3 Black Diamonds Pattern (Obsolete)
+
+   3816PBB.DAT                Minifig Leg Right with Iron Man Armoured Suit Mark VI Pattern
+   changed to    ~Minifig Leg Right with Iron Man Armoured Suit Mark VI Pattern (Obsolete)
+
+   3816PBC.DAT                Minifig Leg Right with Iron Man Armoured Suit Mark VII Pattern
+   changed to    ~Minifig Leg Right with Iron Man Armoured Suit Mark VII Pattern (Obsolete)
+
+   3816PBD.DAT                Minifig Leg Right with War Machine Armoured Suit Kneepad Pattern
+   changed to    ~Minifig Leg Right with War Machine Armoured Suit Kneepad Pattern (Obsolete)
+
+   3816PBE.DAT                Minifig Leg Right with Iron Man Armoured Suit Mark XVII Pattern
+   changed to    ~Minifig Leg Right with Iron Man Armoured Suit Mark XVII Pattern (Obsolete)
+
+   3816PBF.DAT                Minifig Leg Right with Iron Man Armoured Suit Mark XLII Pattern
+   changed to    ~Minifig Leg Right with Iron Man Armoured Suit Mark XLII Pattern (Obsolete)
+
+   3816PBG.DAT                Minifig Leg Right with Iron Patriot Armoured Suit Kneepad Pattern
+   changed to    ~Minifig Leg Right with Iron Patriot Armoured Suit Kneepad Pattern (Obsolete)
+
+   3816PC44.DAT               Minifig Leg Right with Chainlink and  3 Safety Pins Pattern
+   changed to    ~Minifig Leg Right with Chainlink and  3 Safety Pins Pattern (Obsolete)
+
+   3816PC67.DAT               Minifig Leg Right with Clockwork Robot Pattern
+   changed to    ~Minifig Leg Right with Clockwork Robot Pattern (Obsolete)
+
+   3816PC6A.DAT               Minifig Leg Right with Red Roman Tunic and Belt Pattern
+   changed to    ~Minifig Leg Right with Red Roman Tunic and Belt Pattern (Obsolete)
+
+   3816PDE.DAT                Minifig Leg Right with Laboratory Smock Pattern
+   changed to    ~Minifig Leg Right with Laboratory Smock Pattern (Obsolete)
+
+   3816PHB.DAT                Minifig Leg Right with Purple Greatcoat Pattern
+   changed to    ~Minifig Leg Right with Purple Greatcoat Pattern (Obsolete)
+
+   3816PM0.DAT                Minifig Leg Right with LOTR Leather Armor Pattern
+   changed to    ~Minifig Leg Right with LOTR Leather Armour Pattern (Obsolete)
+
+   3816PM1.DAT                Minifig Leg Right with LOTR Scale Armor Pattern
+   changed to    ~Minifig Leg Right with LOTR Scale Armour Pattern (Obsolete)
+
+   3816PM2.DAT                Minifig Leg Right with LOTR Coat and Shirttails Pattern
+   changed to    ~Minifig Leg Right with LOTR Coat and Shirttails Pattern (Obsolete)
+
+   3816PQ0.DAT                Minifig Leg Right with DarkBlue Loincloth Pattern
+   changed to    ~Minifig Leg Right with DarkBlue Loincloth Pattern (Obsolete)
+
+   3816PQ1.DAT                Minifig Leg Right with DarkBlue and Gold Loincloth Pattern
+   changed to    ~Minifig Leg Right with DarkBlue and Gold Loincloth Pattern (Obsolete)
+
+   3816PS0.DAT                Minifig Leg Right with SW White Leggings Pattern
+   changed to    ~Minifig Leg Right with SW White Leggings Pattern (Obsolete)
+
+   3816PS5.DAT                Minifig Leg Right with SW Gunbelt Pattern
+   changed to    ~Minifig Leg Right with SW Gunbelt Pattern (Obsolete)
+
+   3816PSK.DAT                Minifig Leg Right with SW Stormtrooper Pattern
+   changed to    ~Minifig Leg Right with SW Stormtrooper Pattern (Obsolete)
+
+   3816PW1.DAT                Minifig Leg Right with Red/White Triangles, Fringe Pattern
+   changed to    ~Minifig Leg Right with Red/White Triangles, Fringe Pattern (Obsolete)
+
+   3816PW2.DAT                Minifig Leg Right with Blue/White Triangles, Fringe Pattern
+   changed to    ~Minifig Leg Right with Blue/White Triangles, Fringe Pattern (Obsolete)
+
+   3816PW3.DAT                Minifig Leg Right with Dark Turquoise/White Triangles, White Fringe Pattern
+   changed to    ~Minifig Leg Right with Dark Turquoise/White Triangles, White Fringe Pattern (Obsolete)
+
+   3817.DAT                   Minifig Leg Left
+   changed to    ~Minifig Leg Left (Obsolete)
+
+   3817BPC1.DAT               Minifig Leg Right with Red Tied Sash Pattern
+   changed to    Minifig Leg Left with Red Tied Sash Pattern
+
+   3817P3J.DAT                Minifig Leg Left with Grass Skirt Pattern
+   changed to    ~Minifig Leg Left with Grass Skirt Pattern (Obsolete)
+
+   3817P4F.DAT                Minifig Leg Left with Leather Straps (Red Studs) Pattern
+   changed to    ~Minifig Leg Left with Leather Straps (Red Studs) Pattern (Obsolete)
+
+   3817P63.DAT                Minifig Leg Left with Robot Pattern
+   changed to    ~Minifig Leg Left with Robot Pattern (Obsolete)
+
+   3817P6F.DAT                Minifig Leg Left with Astro Pattern
+   changed to    ~Minifig Leg Left with Astro Pattern (Obsolete)
+
+   3817P6U.DAT                Minifig Leg Left with Orange Cable Pattern
+   changed to    ~Minifig Leg Left with Orange Cable Pattern (Obsolete)
+
+   3817P6V.DAT                Minifig Leg Left with Salmon Cable Pattern
+   changed to    ~Minifig Leg Left with Salmon Cable Pattern (Obsolete)
+
+   3817P6W.DAT                Minifig Leg Left with Golden Circuit Pattern
+   changed to    ~Minifig Leg Left with Golden Circuit Pattern (Obsolete)
+
+   3817P89.DAT                Minifig Leg Left with White Apron Pattern
+   changed to    ~Minifig Leg Left with White Apron Pattern (Obsolete)
+
+   3817P8H.DAT                Minifig Leg Left with 'EMMET' Badge, Reflective Stripe Pattern
+   changed to    ~Minifig Leg Left with 'EMMET' Badge, Reflective Stripe Pattern (Obsolete)
+
+   3817P8I.DAT                Minifig Leg Left with 'EMMET' Badge, Reflective Stripe and Silver Triangles on Feet Pattern
+   changed to    ~Minifig Leg Left with 'EMMET' Badge, Reflective Stripe and Silver Triangles on Feet Pattern (Obsolete)
+
+   3817PA2.DAT                Minifig Leg Left with Green Kilt and Toes Pattern
+   changed to    ~Minifig Leg Left with Green Kilt and Toes Pattern (Obsolete)
+
+   3817PA3.DAT                Minifig Leg Left with Buttoned Pocket Pattern
+   changed to    ~Minifig Leg Left with Buttoned Pocket Pattern (Obsolete)
+
+   3817PA9.DAT                Minifig Leg Left with Holster and Belt Pattern
+   changed to    ~Minifig Leg Left with Holster and Belt Pattern (Obsolete)
+
+   3817PAW.DAT                Minifig Leg Left with Dark Red Loincloth and White Claws Pattern
+   changed to    ~Minifig Leg Left with Dark Red Loincloth and White Claws Pattern (Obsolete)
+
+   3817PBA.DAT                Minifig Leg Left with 2 Red Diamonds Pattern
+   changed to    ~Minifig Leg Left with 2 Red Diamonds Pattern (Obsolete)
+
+   3817PBB.DAT                Minifig Leg Left with Iron Man Armoured Suit Mark VI Pattern 
+   changed to    ~Minifig Leg Left with Iron Man Armoured Suit Mark VI Pattern  (Obsolete)
+
+   3817PBC.DAT                Minifig Leg Left with Iron Man Armoured Suit Mark VII Pattern
+   changed to    ~Minifig Leg Left with Iron Man Armoured Suit Mark VII Pattern (Obsolete)
+
+   3817PBD.DAT                Minifig Leg Left with War Machine Armoured Suit Kneepad Pattern
+   changed to    ~Minifig Leg Left with War Machine Armoured Suit Kneepad Pattern (Obsolete)
+
+   3817PBE.DAT                Minifig Leg Left with Iron Man Armoured Suit Mark XVII Pattern
+   changed to    ~Minifig Leg Left with Iron Man Armoured Suit Mark XVII Pattern (Obsolete)
+
+   3817PBF.DAT                Minifig Leg Left with Iron Man Armoured Suit Mark XLII Pattern
+   changed to    ~Minifig Leg Left with Iron Man Armoured Suit Mark XLII Pattern (Obsolete)
+
+   3817PBG.DAT                Minifig Leg Left with Iron Patriot Armoured Suit Kneepad Pattern
+   changed to    ~Minifig Leg Left with Iron Patriot Armoured Suit Kneepad Pattern (Obsolete)
+
+   3817PC44.DAT               Minifig Leg Left with  2 Safety Pins Pattern
+   changed to    ~Minifig Leg Left with  2 Safety Pins Pattern (Obsolete)
+
+   3817PC67.DAT               Minifig Leg Left with Clockwork Robot Pattern
+   changed to    ~Minifig Leg Left with Clockwork Robot Pattern (Obsolete)
+
+   3817PC6A.DAT               Minifig Leg Left with Red Roman Tunic and Belt Pattern
+   changed to    ~Minifig Leg Left with Red Roman Tunic and Belt Pattern (Obsolete)
+
+   3817PDE.DAT                Minifig Leg Left with Laboratory Smock Pattern
+   changed to    ~Minifig Leg Left with Laboratory Smock Pattern (Obsolete)
+
+   3817PHB.DAT                Minifig Leg Left with Purple Greatcoat Pattern
+   changed to    ~Minifig Leg Left with Purple Greatcoat Pattern (Obsolete)
+
+   3817PM0.DAT                Minifig Leg Left with LOTR Leather Armor Pattern
+   changed to    ~Minifig Leg Left with LOTR Leather Armour Pattern (Obsolete)
+
+   3817PM1.DAT                Minifig Leg Left with LOTR Scale Armor Pattern
+   changed to    ~Minifig Leg Left with LOTR Scale Armour Pattern (Obsolete)
+
+   3817PM2.DAT                Minifig Leg Left with LOTR Coat and Shirttails Pattern
+   changed to    ~Minifig Leg Left with LOTR Coat and Shirttails Pattern (Obsolete)
+
+   3817PQ0.DAT                Minifig Leg Left with DarkBlue Loincloth Pattern
+   changed to    ~Minifig Leg Left with DarkBlue Loincloth Pattern (Obsolete)
+
+   3817PQ1.DAT                Minifig Leg Left with DarkBlue and Gold Loincloth Pattern
+   changed to    ~Minifig Leg Left with DarkBlue and Gold Loincloth Pattern (Obsolete)
+
+   3817PS0.DAT                Minifig Leg Left with SW White Leggings Pattern
+   changed to    ~Minifig Leg Left with SW White Leggings Pattern (Obsolete)
+
+   3817PSK.DAT                Minifig Leg Left with SW Stormtrooper Pattern
+   changed to    ~Minifig Leg Left with SW Stormtrooper Pattern (Obsolete)
+
+   3817PW1.DAT                Minifig Leg Left with Red/White Triangles Pattern
+   changed to    ~Minifig Leg Left with Red/White Triangles Pattern (Obsolete)
+
+   3817PW2.DAT                Minifig Leg Left with Blue/White Triangles, Fringe Pattern
+   changed to    ~Minifig Leg Left with Blue/White Triangles, Fringe Pattern (Obsolete)
+
+   3817PW3.DAT                Minifig Leg Left with Dark Turquoise/White Triangles, White Fringe Pattern
+   changed to    ~Minifig Leg Left with Dark Turquoise/White Triangles, White Fringe Pattern (Obsolete)
+
+   3840D06.DAT                Minifig Vest with White Maltese Cross on Red/LtGrey Sticker
+   changed to    Minifig Vest with White Maltese Cross on Red/Light Grey Sticker
+
+   3840D07.DAT                Minifig Vest with Green Chevrons on Yellow/LtGrey Sticker
+   changed to    Minifig Vest with Green Chevrons on Yellow/Light Grey Sticker
+
+   3846D06.DAT                Minifig Shield Triangular with Green Chevrons on Yellow/LtGray
+   changed to    Minifig Shield Triangular with Green Chevrons on Yellow/Light Grey Sticker
+
+   3873.DAT                   Technic Chain Tread 17
+   changed to    Technic Chain Tread 2.5 Wide
+
+   4100338.DAT                ~_Boat Bow 16 x 12 x  5 & 1/3 Red/Dark Gray (Obsolete)
+   changed to    ~_Boat Bow 16 x 12 x  5.333 Red/Dark Grey (Obsolete)
+
+   41530.DAT                  Propellor  8 Blade  5 Diameter
+   changed to    Propeller  8 Blade  5 Diameter
+
+   4198P0B.DAT                Duplo Brick  2 x  4 x  2 with Blue Bow Tie with Yellow Spots Pattern
+   changed to    Duplo Brick  2 x  4 x  2 with Rounded Ends with Blue Bow Tie with Yellow Spots Pattern
+
+   4198P0C.DAT                Duplo Brick  2 x  4 x  2 with Bird Face Pattern
+   changed to    Duplo Brick  2 x  4 x  2 with Rounded Ends with Bird Face Pattern
+
+   4198P0D.DAT                Duplo Brick  2 x  4 x  2 with Red and Yellow Lozenges and Yellow Semicircles Pattern
+   changed to    Duplo Brick  2 x  4 x  2 with Rounded Ends with Red and Yellow Lozenges and Yellow Semicircles Pattern
+
+   420.DAT                    Ladder Two Piece, Bottom Section
+   changed to    Ladder  2 x 12 Bottom Section
+
+   421.DAT                    Ladder Two Piece, Top Section
+   changed to    Ladder  2 x 12 Top Section
+
+   4211069.DAT                _Tile  1 x  1 with Clip Dark_Bluish_Gray
+   changed to    ~_Tile  1 x  1 with Clip Dark Bluish Grey (Obsolete)
+
+   4226995.DAT                ~_Car Steering Stand and Wheel (Complete) Light_Bluish_Gray (Obsolete)
+   changed to    ~_Car Steering Stand and Wheel (Complete) Light Bluish Grey (Obsolete)
+
+   4240416.DAT                ~_Technic Universal Joint (Complete Assembly Shortcut) Stone Gray (Obsolete)
+   changed to    ~_Technic Universal Joint (Complete) Light Bluish Grey (Obsolete)
+
+   4247.DAT                   Duplo Door  1 x  4 x  3 with Large Window
+   changed to    ~Duplo Door  1 x  4 x  3 with Large Window (Obsolete)
+
+   44569.DAT                  Hinge Tile  2 x  4 with Ribs Locking
+   changed to    Hinge Tile  2 x  4 with Ribs Locking with Rear Reinforcements
+
+   4478P04.DAT                Baseplate 32 x 32 Road 9-Stud Driveway with DkGrey Crazy Paving
+   changed to    Baseplate 32 x 32 Road 9-Stud Driveway with Dark Grey Crazy Paving
+
+   4613C01.DAT                Vehicle Base 10 x  4 with Two Wheels Light Gray
+   changed to    Vehicle Base 10 x  4 with Two Wheels Light Grey
+
+   4616AC01.DAT               Brick  2 x  4 x  2 with Engine Cowling and Yellow Propellor, Black Pin
+   changed to    Brick  2 x  4 x  2 with Engine Cowling and Yellow Propeller, Black Pin
+
+   4617A.DAT                  Propellor  3 Blade  5.5 Diameter with Freestyle Pinhole
+   changed to    Propeller  3 Blade  5.5 Diameter with Freestyle Pinhole
+
+   4617B.DAT                  Propellor  3 Blade  5.5 Diameter with Technic Peghole
+   changed to    Propeller  3 Blade  5.5 Diameter with Technic Peghole
+
+   4631649B.DAT               Sticker  0.75 x  3.75 DkBluishGray Control Panel on Black Dashboard
+   changed to    Sticker  0.75 x  3.75 Dark Bluish Grey Control Panel on Black Dashboard
+
+   4745.DAT                   Propellor  2 Blade  5.5 Diameter
+   changed to    Propeller  2 Blade  5.5 Diameter
+
+   4751A.DAT                  Propellor  4 Blade 13 Diameter with 4 Studs
+   changed to    Propeller  4 Blade 13 Diameter with 4 Studs
+
+   4751B.DAT                  Propellor  4 Blade 13 Diameter with Pin Hole and 4 Studs
+   changed to    Propeller  4 Blade 13 Diameter with Pin Hole and 4 Studs
+
+   4751C.DAT                  Propellor  4 Blade 13 Diameter with Pin Hole without Studs
+   changed to    Propeller  4 Blade 13 Diameter with Pin Hole without Studs
+
+   48085.DAT                  Electric Motor Boat with Red  3 Blades Propellor and Rudder
+   changed to    Electric Motor Boat with Red  3 Blades Propeller and Rudder
+
+   48092.DAT                  Brick  4 x  4 Round Corner
+   changed to    Brick  4 x  4 Corner Round
+
+   49612.DAT                  Brick  4 x  4 x  2.667 Round Corner with Dome Top
+   changed to    Brick  4 x  4 x  2.667 Corner Round with Dome Top
+
+   50018D.DAT                 Bar with Octagonal  1 x  1 Plate with Opposing Studs and Bar at 90 Degrees
+   changed to    Minifig Tool Octagonal with Opposing Studs and Perpendicular Bars
+
+   50018E.DAT                 Bar with 8-Shaped Modified Plate with Offset Stud
+   changed to    Minifig Tool Peanut Shaped with Hollow Stud and Offset Bar
+
+   50899.DAT                  Propellor 3 Blade 5D with Outer Ring 
+   changed to    Propeller 3 Blade 5D with Outer Ring 
+
+   54779C01.DAT               Boat Hull Floating 51 x 12 with Light Bluish Gray Top
+   changed to    Boat Hull Floating 51 x 12 with Light Bluish Grey Top
+
+   54779C02.DAT               Boat Hull Floating 51 x 12 with Dark Bluish Gray Top
+   changed to    Boat Hull Floating 51 x 12 with Dark Bluish Grey Top
+
+   54809.DAT                  Electric Motor Boat Propellor with  2 Blades
+   changed to    Electric Motor Boat Propeller with  2 Blades
+
+   54824.DAT                  Electric Motor Boat with Light Bluish Grey  2 Blades Propellor and Rudder
+   changed to    Electric Motor Boat with Light Bluish Grey  2 Blades Propeller and Rudder
+
+   55707E.DAT                 Minifig Propellor with Bat Wings
+   changed to    Minifig Propeller with Bat Wings
+
+   59275.DAT                  Minifig Flipper Thin
+   changed to    ~Minifig Flipper Thin (Obsolete)
+
+   60601P03.DAT               Glass for Window  1 x  2 x  2 with 4 Black and 2 Dark Bluish Gray Outlined Rectangles Pattern 
+   changed to    Glass for Window  1 x  2 x  2 with 4 Black and 2 Dark Bluish Grey Outlined Rectangles Pattern 
+
+   61898B.DAT                 Sheet Plastic 13 x 26 Propellor
+   changed to    Sheet Plastic 13 x 26 Propeller
+
+   61898BC01.DAT              Sheet Plastic 13 x 26 Propellor (Formed)
+   changed to    Sheet Plastic 13 x 26 Propeller (Formed)
+
+   61898C.DAT                 Sheet Plastic 18 x 66 Propellor
+   changed to    Sheet Plastic 18 x 66 Propeller
+
+   61898CC01.DAT              Sheet Plastic 18 x 66 Propellor (Formed)
+   changed to    Sheet Plastic 18 x 66 Propeller (Formed)
+
+   6260.DAT                   Minifig Skeleton Torso
+   changed to    Minifig Torso Skeleton with Thin Shoulder Pins
+
+   715C01.DAT                 Wheel Rim  8 x 35 with 12 Studs with Axle and LtGrey Tyre
+   changed to    Wheel Rim  8 x 35 with 12 Studs with Axle and Light Grey Tyre
+
+   76443C01.DAT               Animal Dinosaur Stegosaurus (Complete) with Light Gray Legs
+   changed to    Animal Dinosaur Stegosaurus with Light Grey Legs (Complete)
+
+   825P01.DAT                 Door  1 x  3 x  4 Left with Window & Lower Red Cross Pattern
+   changed to    ~Door  1 x  3 x  4 Left with Window & Lower Red Cross Pattern (Obsolete)
+
+   825P02.DAT                 Door  1 x  3 x  4 Left with Window & Upper Red Cross Pattern
+   changed to    ~Door  1 x  3 x  4 Left with Window & Upper Red Cross Pattern (Obsolete)
+
+   850.DAT                    Ladder Three Piece, First Section
+   changed to    Ladder  2.4 x 13 Bottom Section
+
+   852.DAT                    Ladder Three Piece, Third Section
+   changed to    Ladder  2.4 x 13 Top Section
+
+   862AC02.DAT                Train Track 12V Slotted Straight w Isolation and Signal LtGrey
+   changed to    Train Track 12V Slotted Straight with Isolation and Signal Light Grey
+
+   87751.DAT                  Propellor  7 Blade  6 Diameter
+   changed to    Propeller  7 Blade  6 Diameter
+
+   88288P01.DAT               Minifig Dagger with Pearl Light Gray Blade
+   changed to    Minifig Dagger with Pearl Light Grey Blade
+
+   89509.DAT                  Propellor  1 Blade 14L with Two Pin Holes and Four Axles
+   changed to    Propeller  1 Blade 14L with Two Pin Holes and Four Axles
+
+   90370P01.DAT               Minifig Microphone with Metallic Silver Top
+   changed to    Minifig Microphone with Metallic Silver Top Pattern
+
+   92241P04.DAT               Figure Friends Girl Torso with Medium Violet Vest Top with Flower Pattern
+   changed to    Figure Friends Girl Torso with Lavender Vest Top with Flower Pattern
+
+   92241P05.DAT               Figure Friends Girl Torso with Light Blue Halter Top with Paw and Butterflies Pattern
+   changed to    Figure Friends Girl Torso with Medium Blue Halter Top with Paw and Butterflies Pattern
+
+   92842.DAT                  Propellor  3 Blade  5.5 Diameter with Technic Peghole and Flat End Blades
+   changed to    Propeller  3 Blade  5.5 Diameter with Technic Peghole and Flat End Blades
+
+   92946.DAT                  Slope Plate 45  2 x  1
+   changed to    Slope Plate 45.73  2 x  1
+
+   94725.DAT                  Figure Friends Accessories Bow with Heart
+   changed to    Figure Friends Hair Decoration, Bow with Heart with Pin
+
+   973P7Y.DAT                 Minifig Torso Female with LtPurple Scarf and Gray Belt Pattern
+   changed to    Minifig Torso Female with Light Purple Scarf with Fringe and Grey Belt Pattern
+
+   973PA9.DAT                 Minifig Torso with Leather Jacket and Light Gray Shirt Pattern
+   changed to    Minifig Torso with Leather Jacket and Light Grey Shirt Pattern
+
+   973PAF.DAT                 Minifig Torso with Red & Gray Shirt, Pot Belly, Jacket Pattern
+   changed to    Minifig Torso with Red and Grey Shirt, Pot Belly, Jacket Pattern
+
+   973PB1.DAT                 Minifig Torso with DkGray, Black, and Yellow Batman Pattern
+   changed to    Minifig Torso with Dark Grey, Black, and Yellow Batman Pattern
+
+   973PD99.DAT                Minifig Torso Robe with Black Gathers and White Neck Pattern
+   changed to    Minifig Torso with Robe with Black Gathers and White Neck Pattern
+
+   973PHB.DAT                 Minifig Torso with Purple Greatcoat Pattern
+   changed to    Minifig Torso with Purple Greatcoat with Dark Grey Border Pattern
+
+   98138P0W.DAT               Tile  1 x  1 Round with Emoticon Sad Pattern
+   changed to    Tile  1 x  1 Round with Bright Light Yellow Emoji Sad Pattern
+
+   2421A.DAT                  ~Propellor  3 Blade  4 Diameter - Single Blade
+   changed to    ~Propeller  3 Blade  4 Diameter - Single Blade
+
+   2742S01.DAT                ~Propellor  3 Blade 15 Diameter Blade
+   changed to    ~Propeller  3 Blade 15 Diameter Blade
+
+   2775S01.DAT                ~Electric Plug Pin Type 1
+   changed to    ~Pin/Screw for Electric Plug (Type 4) Twin Extra-Wide (Obsolete)
+
+   30223A.DAT                 ~Door  1 x  5 x  7 & 1/2 - Tooth subpart 1
+   changed to    ~Door  1 x  5 x  7.5 - Tooth subpart 1 (Obsolete)
+
+   30223B.DAT                 ~Door  1 x  5 x  7 & 1/2 - Tooth subpart 2
+   changed to    ~Door  1 x  5 x  7.5 - Tooth subpart 2 (Obsolete)
+
+   30324S01.DAT               ~Wheel Hard with Treads - single tread section
+   changed to    ~Wheel Hard with Treads - Single Tread Section
+
+   30332S01.DAT               ~Propellor Blade for Propellor  3 Blade  9 Diameter
+   changed to    ~Propeller Blade for Propeller  3 Blade  9 Diameter
+
+   30387S01.DAT               ~Hinge Brick  1 x  4 Locking Double without Front and Back Faces
+   changed to    ~Hinge Brick  1 x  4 Locking Double, Two Finger End with  9 Teeth without Front and Back Faces
+
+   30535S01.DAT               ~Brick  2 x  4 x  4 with Propellor Housing - Half
+   changed to    ~Brick  2 x  4 x  4 with Propeller Housing - Half
+
+   30644S01.DAT               ~Propellor  2 Blade  4 x 22 Half (Needs Work)
+   changed to    ~Propeller  2 Blade  4 x 22 Half (Needs Work)
+
+   32627S01.DAT               ~Plate Round  4 x  4 with Groove with Two Open Centre Studs without Top Surface
+   changed to    ~Plate  4 x  4 Round with Groove with Two Open Centre Studs without Top Surface
+
+   36036S01.DAT               ~Minifig Skirt without Patternable Areas
+   changed to    ~Minifig Hips and Skirt without Patternable Areas
+
+   36036S03.DAT               ~Minifig Skirt Side
+   changed to    ~Minifig Hips and Skirt Side
+
+   3815S01.DAT                ~Minifig Hips without Decorated Surface
+   changed to    ~Minifig Hips without Decorated Surface (Obsolete)
+
+   3816S01.DAT                ~Minifig Leg Right without Front Surfaces
+   changed to    ~Minifig Leg Right without Front Surfaces (Obsolete)
+
+   3816S02.DAT                ~Minifig Leg Right without Front and Side Surfaces
+   changed to    ~Minifig Leg Right without Front and Side Surfaces (Obsolete)
+
+   3817S01.DAT                ~Minifig Leg Left without Front Surfaces
+   changed to    ~Minifig Leg Left without Front Surfaces (Obsolete)
+
+   41530S01.DAT               ~Propellor  8 Blade  5 Diameter - Single Blade
+   changed to    ~Propeller  8 Blade  5 Diameter - Single Blade
+
+   41530S02.DAT               ~Propellor  8 Blade  5 Diameter - Half Blade
+   changed to    ~Propeller  8 Blade  5 Diameter - Half Blade
+
+   4198P0DS01.DAT             ~Duplo Brick  2 x  4 x  2 with Red and Yellow Wings and Yellow Feet Pattern - Half
+   changed to    ~Duplo Brick  2 x  4 x  2 with Rounded Ends with Red and Yellow Wings and Yellow Feet Pattern - Half
+
+   4617S01.DAT                ~Propellor  3 Blade  5.5 Diameter without Hub
+   changed to    ~Propeller  3 Blade  5.5 Diameter without Hub
+
+   4751S01.DAT                ~Propellor  4 Blade 13 Diameter Common Geometry
+   changed to    ~Propeller  4 Blade 13 Diameter Common Geometry
+
+   49612S01.DAT               ~Brick  4 x  4 x  2.667 Round Corner with Dome Top Half
+   changed to    ~Brick  4 x  4 x  2.667 Corner Round with Dome Top - Half
+
+   54809S01.DAT               ~Electric Motor Boat Propellor Blade
+   changed to    ~Electric Motor Boat Propeller Blade
+
+   765S01.DAT                 ~Electric Plug Pin Type 3
+   changed to    ~Pin/Screw for Electric Plug (Type 4) Single (Obsolete)
+
+   87570P01S01.DAT            ~Minifig Head Trandoshan with White Teeth and Orange Exe with Black Pupil Pattern - Half
+   changed to    ~Minifig Head Trandoshan with White Teeth and Orange Eye with Black Pupil Pattern - Half
+
+   87751S01.DAT               ~Propellor  7 Blade  6 Diameter Blade
+   changed to    ~Propeller  7 Blade  6 Diameter Blade
+
+   92842S01.DAT               ~Propellor  3 Blade  5.5 Diameter with Technic Peghole Blade
+   changed to    ~Propeller  3 Blade  5.5 Diameter with Technic Peghole Blade
+
+   973P11A.DAT                ~Minifig Torso with Dungarees Pattern - Colour
+   changed to    ~Minifig Torso with Dungarees Pattern - Foreground
+
+   973PB0A.DAT                ~Minifig Torso with Gray and Gold Batman Pattern - Half
+   changed to    ~Minifig Torso with Grey and Gold Batman Pattern - Half
+
+   973PB1S.DAT                ~Minifig Torso with DkGray, Black,and Yellow Batman Pattern Half
+   changed to    ~Minifig Torso with Dark Grey, Black,and Yellow Batman Pattern - Half
+
+   T1000.DAT                  ~| BuWizz Case Bottom
+   changed to    ~| BuWizz 2.0 Case Bottom
+
+   U595P02C02.DAT             Figure Fabuland Monkey Head  2 with Neck and Captain's Cap Gray
+   changed to    Figure Fabuland Monkey Head  2 with Neck and Captain's Cap Grey
+
+   U9102P05.DAT               Figure Fabuland Torso w/ LtGrey Dress and Red Buttons Pattern
+   changed to    Figure Fabuland Torso with Light Grey Dress and Red Buttons Pattern
+
+   U9147P03C02.DAT            _Figure Fabuland Pig  3 w Body White/White/LtGrey Trousers Patt
+   changed to    _Figure Fabuland Pig  3 with Body White/White/Light Grey Trousers Pattern
+
+   U9216.DAT                  Electric Motor Boat Propellor with  3 Blades
+   changed to    Electric Motor Boat Propeller with  3 Blades
+
+Other Fixed Parts
+   1-4CON6.DAT                Hi-Res Cone  6 x 0.25
+   NPEGHOL2.DAT               Technic Peg Hole Negative with Top Surface Extensions
+   004695D.DAT                Sticker  2.4 x  5.3 with "Shell"
+   11458.DAT                  Plate  1 x  2 with Offset Peghole
+   11640.DAT                  Minifig Electric Guitar Classic
+   15672.DAT                  Slope Plate 45  2 x  1
+   2335P41.DAT                Flag  2 x  2 with Red Square and Yellowed Winged Dragon Pattern
+   2440P03.DAT                Hinge  6 x  3 Radar with Red and Yellow Stripes and Red "Shell" Pattern
+   270.DAT                    ~Train Base  6 x 12 Type 1
+   2906.DAT                   Technic Rotor  4 Blade  7 Diameter
+   3023.DAT                   Plate  1 x  2
+   30271.DAT                  Baseplate 32 x 48 Raised with Corner Pits
+   30324.DAT                  Wheel Hard with Treads
+   30528.DAT                  Arch  1 x  8 x  6
+   3068BPS2.DAT               Tile  2 x  2 with SW Pod Racer Pattern
+   314D.DAT                   Hinge Plate  2 x  5 Top
+   3188.DAT                   Door  1 x  3 x  2 Right
+   3189.DAT                   Door  1 x  3 x  2 Left
+   3475A.DAT                  Plate  1 x  2 with Jet Engine and Smooth Hole
+   35860.DAT                  Minifig Food Cake Double Layer
+   4081B.DAT                  Plate  1 x  1 with Clip Light Type 2
+   4592.DAT                   Hinge Control Stick Base
+   4738B.DAT                  Container Treasure Chest without Slots
+   518.DAT                    Minifig Cannon  2 x  8 Non-Shooting
+   53983.DAT                  Turbine Fan 16 / 8 Blade 10 Diameter with Case
+   53983P01.DAT               Turbine Fan 16 / 8 Blade 10 Diameter with Case with Blended Black Outer
+   53983P02.DAT               Turbine Fan 16 / 8 Blade 10 Diameter with Case with Blended Pearl Light Grey Outer
+   55296.DAT                  Minifig Tool Oilcan
+   577A.DAT                   ~Minifig Lightsaber Hilt without Bottom Ring (Obsolete)
+   6510.DAT                   Duplo Plant Flower with  5 Petals and  1 Top Stud
+   736.DAT                    ~Train Base  6 x 16 Type 1
+   88704-F1.DAT               Minifig Whip Bent Flexible (Formed for Electrical Roof Wiring - Right Aligned)
+   90370.DAT                  Minifig Microphone
+   92909.DAT                  Technic Steering Wheel Hub for Portal Axle
+   92950.DAT                  Arch  1 x  6 Raised
+   93221.DAT                  Minifig Boombox  1 x  3 x  1
+   973PDB7.DAT                Minifig Torso with Tan Chest and Black and White Tail to the Left Pattern
+   973PDB8.DAT                Minifig Torso with Tan Chest and Black and White Tail to the Right Pattern
+   973PX2.DAT                 Minifig Torso with Black Stripe Pattern
+   98138P01.DAT               Tile  1 x  1 Round with Venomari Pattern
+   98138P02.DAT               Tile  1 x  1 Round with Hypnobrai Pattern
+   98138P03.DAT               Tile  1 x  1 Round with Fangpyre Pattern
+   98138P04.DAT               Tile  1 x  1 Round with Constrictai Pattern
+   98138P05.DAT               Tile  1 x  1 Round with Coin Pattern
+   98138P06.DAT               Tile  1 x  1 Round with Headlight Pattern
+   98138P07.DAT               Tile  1 x  1 Round with Eye Pattern
+   98138P08.DAT               Tile  1 x  1 Round with Padlock Pattern
+   30271S01.DAT               ~Baseplate 32 x 48 Raised with Corner Pits - Quarter Top
+   30271S02.DAT               ~Baseplate 32 x 48 Raised with Corner Pits - Quarter Undertray
+   93221S01.DAT               ~Minifig Boombox  1 x  3 x  1 without Front Face
+   93593S01.DAT               ~Wheel Rim  6.4 x 11 Body
+   973P11B.DAT                ~Minifig Torso with Dungarees Pattern - Background

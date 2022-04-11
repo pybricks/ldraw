@@ -1,7 +1,7 @@
-0 Bar with 8-Shaped Modified Plate with Offset Stud
+0 Minifig Tool Peanut Shaped with Hollow Stud and Offset Bar
 0 Name: 50018e.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2020-01
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,8 +11,11 @@
 0 !KEYWORDS Minifig Accessory Pack #11
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+0 !HISTORY 2021-06-14 [PTadmin] Update description
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 // Bar
+
 1 16 0 28 0 -4 0 0 0 -22 0 0 0 -4 4-4cylc.dat
 1 16 0 6 0 -2 0 0 0 -1 .5 0 0 2 2-4ring2.dat
 1 16 0 6 0 -4 0 0 0 -1 1 0 0 4 2-4edge.dat

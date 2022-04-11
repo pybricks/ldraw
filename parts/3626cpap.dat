@@ -1,0 +1,21 @@
+0 Minifig Head Wolf with Yellow Eyes, Black Scars, Fangs, Closed / Open Mouth 2-Sided Pattern
+0 Name: 3626cpap.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Chima, Worriz
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
+1 16 0 17 0 7.39104 0 3.06147 0 6.4 0 3.06147 0 -7.39104 t08o6250.dat
+1 16 0 17 0 -7.39104 0 -3.06147 0 6.4 0 3.06147 0 -7.39104 t08o6250.dat
+1 16 0 4 0 7.39104 0 3.06147 0 -6.4 0 3.06147 0 -7.39104 t08o6250.dat
+1 16 0 4 0 -7.39104 0 -3.06147 0 -6.4 0 3.06147 0 -7.39104 t08o6250.dat
+1 16 0 4 0 12.0104 0 4.97488 0 13 0 4.97488 0 -12.0104 1-8cyli.dat
+1 16 0 4 0 -12.0104 0 -4.97488 0 13 0 4.97488 0 -12.0104 1-8cyli.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cpaps01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626cpaps01.dat

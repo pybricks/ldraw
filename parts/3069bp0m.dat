@@ -1,0 +1,15 @@
+0 Tile  1 x  2 with Carbon Fiber Pattern
+0 Name: 3069bp0m.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Lamborghini, Sian, set 42115, Bricklink 3069bpb806
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bp0ms02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3069bp0ms02.dat

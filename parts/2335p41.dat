@@ -1,13 +1,17 @@
 0 Flag  2 x  2 with Red Square and Yellowed Winged Dragon Pattern
 0 Name: 2335p41.dat
 0 Author: Alexandre Bourdais [x-or]
-0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS Set 1888, Set 1891, Set 6057, Set 6085, Set 6086, BrickLink 2335px9
+
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+0 !HISTORY 2020-03-15 [Cheenzo] Fixed wrong pattern orientation and added keywords
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2335s01.dat
 1 16 2 10 20 1 0 0 0 1 0 0 0 1 s\2335p41s01.dat
-1 16 -2 10 40 -1 0 0 0 1 0 0 0 -1 s\2335p41s01.dat
+1 16 -2 10 20 -1 0 0 0 1 0 0 0 1 s\2335p41s01.dat

@@ -1,7 +1,7 @@
-0 Minifig Leg Right with Blue/White Triangles, Fringe Pattern
+0 ~Minifig Leg Right with Blue/White Triangles, Fringe Pattern (Obsolete)
 0 Name: 3816pw2.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,10 +12,13 @@
 0 !CMDLINE -c17
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2019-09-05 [Holly-Wood] Obsoleted as it is substituted by the updated version 3816bpw2.dat
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 // Pattern
 
 0 // Blue
+
 4 1 -10.42 -4.64 -7.441 -12.49 -6.3 -6.3 -14.813 -6.3 -6.3 -15.133 -3.42 -8.28
 3 1 -12.712 -3.42 -8.28 -10.42 -4.64 -7.441 -15.133 -3.42 -8.28
 3 1 -15.23 -2.08 -8.562 -12.712 -3.42 -8.28 -15.133 -3.42 -8.28

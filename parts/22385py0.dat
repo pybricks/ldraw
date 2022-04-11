@@ -1,0 +1,21 @@
+0 Tile  3 x  2 with Angled End with Black Top Face Pattern
+0 Name: 22385py0.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 76895, BrickLink 22385pb184, Speed Champions
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\22385s01.dat
+0 // Top faces
+4 16 -16 0 30 -15.5 0 27.5 15.5 0 27.5 16 0 30 
+4 16 -15.5 0 27.5 -16 0 30 -16 0 -8.34 -15.5 0 -6
+4 0 -15.5 0 27.5 -15.5 0 -6 15.5 0 -6 15.5 0 27.5
+4 16 15.5 0 27.5 15.5 0 -6 16 0 -8.34 16 0 30
+3 0 0 0 -22 15.5 0 -6 -15.5 0 -6 
+4 16  0 0 -22 -15.5 0 -6 -16 0 -8.34 0 0 -24.353
+4 16 0 0 -22 0 0 -24.353 16 0 -8.34 15.5 0 -6

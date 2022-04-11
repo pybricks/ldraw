@@ -1,7 +1,7 @@
-0 Minifig Hips with Leather Belt (Red Studs) Pattern
+0 ~Minifig Hips with Leather Belt (Red Studs) Pattern (Obsolete)
 0 Name: 3815p4f.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -17,6 +17,8 @@
 0 !HISTORY 2009-08-24 [PTadmin] Renamed from 970p4f
 0 !HISTORY 2010-12-29 [Steffen] removed pattern emphasis lines
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2020-05-30 [cwdee] Obsoleted due to bad geometry
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3815s01.dat
 1 16 -2 12 0 0 4 0 -6.364 0 6.364 -6.364 0 -6.364 5-16cyli.dat

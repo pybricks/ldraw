@@ -1,17 +1,20 @@
-0 Minifig Head with LOTR Thick Gray Eyebrows and Smile Pattern
+0 Minifig Head with LOTR Thick Grey Eyebrows and Smile Pattern
 0 Name: 3626cpm1.dat
 0 Author: Howard Lande [HowardLande]
-0 !LDRAW_ORG Part UPDATE 2012-03
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Lord of the Rings
-0 !KEYWORDS Gandalf
+0 !KEYWORDS Lord of the Rings, Gandalf
+0 !KEYWORDS BrickLink 3626cpb0729, set 79003, set 9469, set 30213, set 79010
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+0 !HISTORY 2021-01-16 [cwdee] Update description
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 // Head Missing Decorative Surface
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs01.dat
 1 16 0 4 0 0 0 -8 0 -6.4 0 -8 0 0 t04o6250.dat
 1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat

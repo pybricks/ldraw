@@ -1,0 +1,30 @@
+0 Minifig Crown with 5 Points
+0 Name: 39262.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Eggshell, Egg
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 0 3 0 -1 0 0 0 -1.25 0 0 0 1 stud4.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\39262s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\39262s01.dat
+1 16 0 0 0 0.30902 0 0.95106 0 1 0 -0.95106 0 0.30902 s\39262s01.dat
+1 16 0 0 0 -0.30902 0 0.95106 0 1 0 0.95106 0 0.30902 s\39262s01.dat
+1 16 0 0 0 -0.80902 0 0.58779 0 1 0 -0.58779 0 -0.80902 s\39262s01.dat
+1 16 0 0 0 0.80902 0 0.58779 0 1 0 0.58779 0 -0.80902 s\39262s01.dat
+1 16 0 0 0 -0.80902 0 -0.58779 0 1 0 0.58779 0 -0.80902 s\39262s01.dat
+1 16 0 0 0 0.80902 0 -0.58779 0 1 0 -0.58779 0 -0.80902 s\39262s01.dat
+1 16 0 0 0 0.30902 0 -0.95106 0 1 0 0.95106 0 0.30902 s\39262s01.dat
+1 16 0 0 0 -0.30902 0 -0.95106 0 1 0 -0.95106 0 0.30902 s\39262s01.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 3 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 3 0 4 0 0 0 -3 0 0 0 4 4-4cyli.dat
+1 16 0 3 0 2 0 0 0 -1 0 0 0 2 4-4ring2.dat

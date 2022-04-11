@@ -1,12 +1,12 @@
-0 Propellor  3 Blade  9 Diameter with Freestyle Pinhole
+0 Propeller  3 Blade  9 Diameter with Freestyle Pinhole
 0 Name: 30332.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Part UPDATE 2014-01
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS adventurers, rock raiders, propeller
+0 !KEYWORDS adventurers, rock raiders
 
 0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
 0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
@@ -15,6 +15,8 @@
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 0 !HISTORY 2013-12-06 [Philo] Subparted blades
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2021-03-17 [cwdee] Update description
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 BFC INVERTNEXT
 1 16 -8.698 8.698 8 -0.5412 0 4.87076 -4.87076 0 0.5412 0 -2 0 1-4cylo.dat

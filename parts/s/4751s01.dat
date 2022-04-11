@@ -1,15 +1,18 @@
-0 ~Propellor  4 Blade 13 Diameter Common Geometry
+0 ~Propeller  4 Blade 13 Diameter Common Geometry
 0 Name: s\4751s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2020-02
+0 !LDRAW_ORG Subpart UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-11-06 [Philo] Subparted from Paul Easter original geometry
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+0 !HISTORY 2021-03-17 [cwdee] Update description
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 // center core
+
 1 16 0 24 0 2 0 0 0 -1 0 0 0 2 4-4ring4.dat
 2 24 9.6 24 2 9.239 24 3.827
 2 24 3.827 24 9.239 2 24 9.6

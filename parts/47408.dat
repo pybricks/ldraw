@@ -1,0 +1,15 @@
+0 Duplo Cone  2 x  2 x  2 Square Base without Bottom Tube
+0 Name: 47408.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Cone
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\47408s01.dat
+1 16 0 18 0 4 0 0 0 -18 0 0 0 4 48\4-4con5.dat
+1 16 0 72 0 12 0 0 0 -54 0 0 0 12 48\4-4con2.dat

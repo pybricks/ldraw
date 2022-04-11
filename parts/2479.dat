@@ -1,7 +1,7 @@
-0 Propellor  4 Blade  5 Diameter
+0 Propeller  4 Blade  5 Diameter
 0 Name: 2479.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -13,8 +13,11 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, introduced 2-4cylo.dat and box4o8a.dat
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+0 !HISTORY 2021-03-17 [cwdee] Update description
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 // Primitives
+
 1 16 0 0 30 1 0 0 0 1 0 0 0 1 stug2-2x1.dat
 1 16 -30 0 0 1 0 0 0 1 0 0 0 1 stug2-1x2.dat
 1 16 30 0 0 1 0 0 0 1 0 0 0 1 stug2-1x2.dat

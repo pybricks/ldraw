@@ -1,0 +1,40 @@
+0 Clikits Disc
+0 Name: 45473.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 clikitshole.dat
+0 BFC INVERTNEXT
+1 16 0 3 0 6.5 0 0 0 4 0 0 0 6.5 4-4cyli.dat
+
+1 16 0 0 0 6.5 0 0 0 1 0 0 0 6.5 4-4edge.dat
+1 16 0 0 0 0.5 0 0 0 1 0 0 0 0.5 4-4rin13.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4-4ring7.dat
+1 16 0 0 0 0.5 0 0 0 1 0 0 0 0.5 4-4rin16.dat
+1 16 0 0 0 8.5 0 0 0 1 0 0 0 8.5 4-4cylo.dat
+1 16 0 1 0 4.25 0 0 0 1 0 0 0 4.25 4-4ring2.dat
+1 16 0 1 0 0.25 0 0 0 1 0 0 0 0.25 4-4rin51.dat
+1 16 0 1 0 1 0 0 0 1 0 0 0 1 4-4rin13.dat
+
+1 16 0 4 0 14 0 0 0 -21 0 0 0 14 t04o1429.dat
+1 16 0 4 0 0 0 14 0 -21 0 -14 0 0 t04o1429.dat
+1 16 0 4 0 -14 0 0 0 -21 0 0 0 -14 t04o1429.dat
+1 16 0 4 0 0 0 -14 0 -21 0 14 0 0 t04o1429.dat
+
+1 16 0 4 0 16 0 0 0 1 0 0 0 16 4-4edge.dat
+1 16  0 4 0  0.5 0 0  0 -1 0  0 0 0.5 4-4rin17.dat      
+1 16  0 4 0  3 0 0  0 -1 0  0 0 3 4-4ring3.dat      
+1 16  0 4 0  4 0 0  0 -1 0  0 0 4 4-4ring3.dat 
+
+1 16 0 10 0 8.5 0 0 0 -6 0 0 0 8.5 4-4cylo.dat
+1 16 0 10 0 0.5 0 0 0 -1 0 0 0 0.5 4-4rin13.dat
+1 16 0 10 0 1 0 0 0 -1 0 0 0 1 4-4ring7.dat
+1 16 0 10 0 0.5 0 0 0 -1 0 0 0 0.5 4-4rin16.dat
+1 16 0 10 0 6.5 0 0 0 1 0 0 0 6.5 4-4edge.dat
+
+1 16 0 10 0 0 0 1 0 -1 0 -1 0 0 clikitshole.dat

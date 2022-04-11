@@ -1,0 +1,16 @@
+0 Animal Horse Friends Bridle (Formed)
+0 Name: 93087-f1.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP Place on Friends horse at y=-30, z=-80
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2020-12-12 {LEGO/Unity Microgame} Original part shape
+0 !HISTORY 2020-12-12 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0.726 -0.852 1 0 0 0 0.928 0.375 0 -0.375 0.928 93087k01.dat
+1 16 0 4.847 9.346 1 0 0 0 0.848 -0.53 0 0.53 0.848 93087k02.dat

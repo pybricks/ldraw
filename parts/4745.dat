@@ -1,7 +1,7 @@
-0 Propellor  2 Blade  5.5 Diameter
+0 Propeller  2 Blade  5.5 Diameter
 0 Name: 4745.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
-0 !LDRAW_ORG Part UPDATE 2016-01
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -13,6 +13,8 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2016-12-20 [MagFors] Made BFC, primitive substitution
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+0 !HISTORY 2021-03-17 [cwdee] Update description
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 -2.6789 2 6.4673 0 -1 -0.38275 2 0 0 0 0 0.92395 rect.dat
 1 16 -6.4673 2 2.6789 0.92395 1 0 0 0 -2 -0.38275 0 0 rect.dat

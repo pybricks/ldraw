@@ -1,7 +1,7 @@
-0 Propellor  3 Blade  5.5 Diameter with Technic Peghole
+0 Propeller  3 Blade  5.5 Diameter with Technic Peghole
 0 Name: 4617b.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Part UPDATE 2011-01
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -17,6 +17,8 @@
 0 !HISTORY 2011-04-02 [PTadmin] Renamed from 4617
 0 !HISTORY 2011-04-03 [anathema] Subparted all except hole 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+0 !HISTORY 2021-03-17 [cwdee] Update description
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4617s01.dat
 0 BFC INVERTNEXT

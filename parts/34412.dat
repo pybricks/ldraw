@@ -1,0 +1,14 @@
+0 Minifig Torso with Left Arm and Hand and Right Robotic Blaster Arm
+0 Name: 34412.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Shortcut UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 34335.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 16 23.6904 26.774 -9.8982 0.985 0.1202 -0.1202 -0.17 0.6964 -0.6964 0 0.707 0.707 3820.dat

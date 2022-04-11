@@ -1,0 +1,15 @@
+0 ~Electric  9V Battery Box  4 x  8 x  2.333 Cover with "LL-6482" Pattern
+0 Name: 4760p02.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Rescue helicopter, set 6482, bricklink 4760c00pb03
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4760s01.dat
+1 16 40 0 0 1 0 0 0 1 0 0 0 1 s\4760p02s01.dat
+1 16 -40 0 0 -1 0 0 0 1 0 0 0 -1 s\4760p02s01.dat

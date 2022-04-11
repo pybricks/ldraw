@@ -1,15 +1,16 @@
-0 ~Minifig Torso with DkGray, Black,and Yellow Batman Pattern Half
+0 ~Minifig Torso with Dark Grey, Black,and Yellow Batman Pattern - Half
 0 Name: s\973pb1s.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Subpart UPDATE 2009-03
+0 !LDRAW_ORG Subpart UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2021-01-16 [cwdee] Update description
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 // front pattern half
-
 
 3 0 -12.5 6.75 -10 -12 5.5 -10 -14 7.5 -10
 3 0 -12.5 6.75 -10 -11 6.5 -10 -12 5.5 -10

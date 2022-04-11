@@ -1,21 +1,24 @@
-0 Minifig Hips with Red/White Triangles Pattern
+0 ~Minifig Hips with Red/White Triangles Pattern (Obsolete)
 0 Name: 3815pw1.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS wild west, indian, american native, western
-0 !KEYWORDS set 2845, 6718, 6746, 6748, 6766, 6763
+0 !KEYWORDS set 2845, set 6718, set 6746, set 6748, set 6766, set 6763
 
 0 !CMDLINE -c17
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+0 !HISTORY 2019-09-05 [Holly-Wood] Obsoleted as it is substituted by the updated version 3815bpw1.dat
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 // Pattern
 
 0 // Red
+
 3 4 -17 4.5 -10 -10.2 4.5 -10 -13.6 1.5 -10
 3 4 -10.2 4.5 -10 -3.4 4.5 -10 -6.8 1.5 -10
 3 4 -3.4 4.5 -10 3.4 4.5 -10 0 1.5 -10

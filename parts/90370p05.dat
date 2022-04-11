@@ -1,0 +1,17 @@
+0 Minifig Microphone with Metallic Silver Top Half Sphere Pattern
+0 Name: 90370p05.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+
+0 !KEYWORDS Set 41056, BrickLink 90370pb05
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\90370s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\90370s02.dat
+1 80 0 -7 0 6.74 0 0 0 -5.8 0 0 0 -6.74 4-8sphe.dat

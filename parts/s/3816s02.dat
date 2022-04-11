@@ -1,12 +1,14 @@
-0 ~Minifig Leg Right without Front and Side Surfaces
+0 ~Minifig Leg Right without Front and Side Surfaces (Obsolete)
 0 Name: s\3816s02.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
+0 !LDRAW_ORG Subpart UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+0 !HISTORY 2020-05-30 [cwdee] Obsoleted due to bad leg geometry
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 // Interior
 

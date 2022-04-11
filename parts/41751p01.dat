@@ -1,0 +1,15 @@
+0 Windscreen  8 x  6 x  2 Curved with Red and Metallic Silver Stripes Pattern
+0 Name: 41751p01.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink x224pb005
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0  1 0 0 0 1 0 0 0 1 s\41751s01.dat
+1 16 0 0 0  1 0 0 0 1 0 0 0 1 s\41751p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\41751p01s01.dat

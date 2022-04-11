@@ -1,16 +1,16 @@
-0 Propellor  3 Blade  5.5 Diameter with Technic Peghole and Flat End Blades
+0 Propeller  3 Blade  5.5 Diameter with Technic Peghole and Flat End Blades
 0 Name: 92842.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS propeller
-
 0 !HISTORY 2014-10-03 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-10-03 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2021-03-17 [cwdee] Update description
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 10 9 0 0 0 0 9 0 -20 0 4-4cylo.dat
 1 16 0 0 0 1 0 0 0 0 1 0 -1 0 connhole.dat

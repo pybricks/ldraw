@@ -1,0 +1,18 @@
+0 Brick  1 x  2 with Shell Logo 1955 Pattern
+0 Name: 3004pt8.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3004pb011, Set 325-3, Set 621-2, Set 648-1, Set 355-1
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
+1 16 0 12 -10 1 0 0 0 1 0 0 0 1 s\3004pt8s01.dat
+4 16 -20 0 -10 -20 24 -10 -12 23 -10 -12 1 -10
+4 16 12 23 -10 20 24 -10 20 0 -10 12 1 -10
+4 16 -20 0 -10 -12 1 -10 12 1 -10 20 0 -10
+4 16 12 23 -10 -12 23 -10 -20 24 -10 20 24 -10

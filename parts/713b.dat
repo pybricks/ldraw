@@ -1,0 +1,20 @@
+0 Plate  4 x  8 Curved Right with Stud Cutouts
+0 Name: 713b.dat
+0 Author: J.C. Tchang [tchang]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2011-01-02 [tchang] Use subpart, replace studs by stugs
+0 !HISTORY 2020-10-06 [Holly-Wood] Renumbered subfile to s01, rotated studs
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\712bs01.dat
+
+0 // Studs top
+1 16 -40 0 0 -1 0 0 0 1 0 0 0 -1 stug-4x4.dat
+1 16 20 0 -20 -1 0 0 0 1 0 0 0 -1 stug-2x2.dat
+1 16 20 0 20 -1 0 0 0 1 0 0 0 -1 stug-2x2.dat
+1 16 60 0 -20 -1 0 0 0 1 0 0 0 -1 stug-2x2.dat
+1 16 50 0 10 -1 0 0 0 1 0 0 0 -1 stud.dat

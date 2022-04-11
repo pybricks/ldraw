@@ -1,7 +1,7 @@
-0 Duplo Brick  2 x  4 x  2 with Bird Face Pattern
+0 Duplo Brick  2 x  4 x  2 with Rounded Ends with Bird Face Pattern
 0 Name: 4198p0c.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LDRAW_ORG Part UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,6 +10,8 @@
 0 !KEYWORDS Bucket, Set 1664, Set 2393, bricklink 4198pb12
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+0 !HISTORY 2021-01-22 [cwdee] Update description
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4198s01.dat
 1 15 -36.5 30.5 -40 3.5 0 0 0 0 -3.5 0 1 0 4-4disc.dat

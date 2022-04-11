@@ -1,7 +1,7 @@
-0 ~Propellor  2 Blade  4 x 22 Half (Needs Work)
+0 ~Propeller  2 Blade  4 x 22 Half (Needs Work)
 0 Name: s\30644s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2015-01
+0 !LDRAW_ORG Subpart UPDATE 2022-01
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
 0 !HISTORY 2008-04-11 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2021-03-17 [cwdee] Update description
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
 0 // Needs Work: Missing underside reinforcing chamfers between blades and hub
 0 // Needs Work: Missing some underside reinforcing ribs

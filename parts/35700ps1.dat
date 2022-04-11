@@ -1,0 +1,16 @@
+0 Container  2 x  2 x  1 Crate with SW Imperial Insignia Pattern and Aurebesh "CARGO" Text Pattern
+0 Name: 35700ps1.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 35700pb05, set 75290
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\35700s01.dat
+1 16 0 -4 0 20 0 0 0 12 0 0 0 20 box0.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\35700ps1s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\35700ps1s01.dat

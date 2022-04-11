@@ -1,0 +1,26 @@
+0 Sticker  2.2 x  1.9 with Shell Logo 1971
+0 Name: 003605c.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 373, oil, platform, offshore, drilling, rig, company, tanker
+
+0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
+0 // Small box
+1 16 0 -.25 0 19.5 0 0 0 .25 0 0 0 22 box5-12.dat
+
+0 // Pattern
+1 15 0 -.25 0 1.4 0 0 0 0 1 0 -1.4 0 s\3004s60.dat
+
+4 15 -16.1 -.25 -3.3516 -16.1 -.25 14.7 -19.5 -.25 22 -19.5 -.25 -22
+3 15 -16.1 -.25 -3.3516 -19.5 -.25 -22 -16.1 -.25 -14.7
+4 15 0 -.25 -14.7 -16.1 -.25 -14.7 -19.5 -.25 -22 19.5 -.25 -22
+3 15 16.1 -.25 -14.7 0 -.25 -14.7 19.5 -.25 -22
+4 15 16.1 -.25 -3.3516 16.1 -.25 -14.7 19.5 -.25 -22 19.5 -.25 22
+3 15 19.5 -.25 22 16.1 -.25 14.7 16.1 -.25 -3.3516
+4 15 0 -.25 14.7 16.1 -.25 14.7 19.5 -.25 22 -19.5 -.25 22
+3 15 -19.5 -.25 22 -16.1 -.25 14.7 0 -.25 14.7
