@@ -1,0 +1,16 @@
+0 ~Sticker for Electric Motor 4.5V
+0 Name: u9480.dat
+0 Author: Alex Taylor [anathema]
+0 !LDRAW_ORG Part UPDATE 2022-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
+1 16 0 -0.25 0 17 0 0 0 0.25 0 0 0 35 box5-12.dat
+0 !TEXMAP START PLANAR -17 -0.25 35 17 -0.25 35 -17 -0.25 -35 u9480.png
+0 !: 4 16 -17 -0.25 -35 17 -0.25 -35 17 -0.25 35 -17 -0.25 35
+0 !TEXMAP FALLBACK
+4 15 -17 -0.25 -35 17 -0.25 -35 17 -0.25 35 -17 -0.25 35
+0 !TEXMAP END

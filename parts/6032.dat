@@ -1,7 +1,7 @@
 0 Brick  2 x  3 x  1.667 Octagonal Offset
 0 Name: 6032.dat
 0 Author: Rolf Osterthun [Rolf]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2022-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,19 +9,20 @@
 0 !KEYWORDS aquazone, pipe, sloped
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2021-12-29 [MagFors] Reshaped axlehole
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6032s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6032s01.dat
 
-1 16 0 23 20 0 0 1 0 -1 0 -1 0 0 axlehol9.dat
-1 16 0 23 20 0 0 1 0 -1 0 -1 0 0 axleend.dat
+1 16 0 23 20 0 0 1 0 -1 0 -1 0 0 axl5hol9.dat
+1 16 0 23 20 0 0 1 0 -1 0 -1 0 0 axl5end.dat
 1 16 0 23 20 0 0 1 0 -1 0 -1 0 0 axlehol2.dat
 1 16 0 36 20 0 0 1 0 -1 0 -1 0 0 axlehol3.dat
 1 16 0 36 20 0 0 1 0 -1 0 -1 0 0 stud4a.dat
-1 16 0 36 20 0 0 1 0 -1 0 -1 0 0 axleho10.dat
-1 16 0 36 20 0 0 1 0 -1 0 -1 0 0 axlehol9.dat
-0 BFC INVERTNEXT
-1 16 0 36 20 0 0 1 0 -13 0 -1 0 0 axlehol8.dat
+1 16 0 36 20 0 0 1 0 -1 0 -1 0 0 axl5ho10.dat
+1 16 0 36 20 0 0 1 0 -1 0 -1 0 0 axl5hol9.dat
+1 16 0 36 20 0 0 1 0 -13 0 -1 0 0 axl5hol8.dat
 
 2 24 -7 33 4 7 33 4
 2 24 -7 33 36 7 33 36
@@ -61,9 +62,9 @@
 4 16 8 40 0 -8 40 0 -12 40 4 12 40 4
 
 1 16 0 4 0 0 0 1 0 1 0 -1 0 0 stud4a.dat
-1 16 0 4 0 0 0 1 0 1 0 -1 0 0 axleho10.dat
+1 16 0 4 0 0 0 1 0 1 0 -1 0 0 axl5ho10.dat
 1 16 0 4 0 0 0 1 0 1 0 -1 0 0 axlehol3.dat
-1 16 0 4 0 0 0 1 0 1 0 -1 0 0 axlehol9.dat
+1 16 0 4 0 0 0 1 0 1 0 -1 0 0 axl5hol9.dat
 
 2 24 -7 0 -16 7 0 -16
 2 24 -7 0 16 7 0 16

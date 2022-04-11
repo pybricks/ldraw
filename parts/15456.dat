@@ -1,0 +1,42 @@
+0 Plate  2 x  2 with Towball and Centre Hole
+0 Name: 15456.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LDRAW_ORG Part UPDATE 2022-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2014-06-29 [MagFors] Used 4-4cyl19sph40, added a recessed base of the cylinder
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
+1 16 0 4 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+4 16 -20 8 20 -16 8 16 -16 8 -16 -20 8 -20
+4 16 20 8 20 16 8 16 -16 8 16 -20 8 20
+4 16 20 8 -20 16 8 -16 16 8 16 20 8 20
+4 16 -20 8 -20 -16 8 -16 16 8 -16 20 8 -20
+0 BFC INVERTNEXT
+1 16 0 8 0 16 0 0 0 -4 0 0 0 16 box4.dat
+1 16 0 4 0 8 0 0 0 -1 0 0 0 8 4-4ndis.dat
+4 16 -16 4 16 -8 4 8 -8 4 -8 -16 4 -16
+4 16 16 4 16 8 4 8 -8 4 8 -16 4 16
+4 16 16 4 -16 8 4 -8 8 4 8 16 4 16
+4 16 -16 4 -16 -8 4 -8 8 4 -8 16 4 -16
+1 16 0 8 0 20 0 0 0 -8 0 0 0 20 box4.dat
+0 BFC INVERTNEXT
+1 16 0 4 0 6 0 0 0 -4 0 0 0 6 4-4cyli.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat
+4 16 -20 0 -20 -6 0 -6 -6 0 6 -20 0 20
+4 16 -20 0 20 -6 0 6 6 0 6 20 0 20
+4 16 20 0 20 6 0 6 6 0 -6 20 0 -20
+4 16 20 0 -20 6 0 -6 -6 0 -6 -20 0 -20
+
+1 16 0 4 -20 3.8 0 0 0 0 3.8 0 1 0 4-4edge.dat
+1 16 0 4 -20.3 -0.2 0 0 0 0 -0.2 0 0.3 0 4-4con19.dat
+1 16 0 4 -20.3 4 0 0 0 0 -4 0 -11.4 0 4-4cylo.dat
+1 16 0 4 -31.7 0.2 0 0 0 0 -0.2 0 -0.3 0 4-4con19.dat
+1 16 0 4 -32 3.8 0 0 0 0 3.8 0 1 0 4-4edge.dat
+1 16 0 4 -40 5 0 0 0 0 5 0 -5 0 4-4cyl19sph40.dat
+1 16 0 4 -40 8 0 0 0 8 0 0 0 8 8-8sphe.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 stug-2x2.dat

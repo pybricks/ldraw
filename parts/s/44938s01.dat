@@ -1,12 +1,14 @@
-0 ~Technic Shield  5 x  5 with Gear Tips, Body Half
+0 ~Constraction Shield  5 x  5 with Gear Tips, Body Half
 0 Name: s\44938s01.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Subpart UPDATE 2013-01
+0 !LDRAW_ORG Subpart UPDATE 2022-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2022-01-20 [OrionP] Update description
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 3.061 -12 21 0 0 3.061 0 -1 0 6 0 0 rect3.dat
 3 16 0 -12 27 0 -15.205 27 1.711 -15.18 27

@@ -1,0 +1,21 @@
+0 Sticker Mindstorms EV3 #2 for Panel Smooth Medium (Formed) (Needs Work)
+0 Name: 13710bc01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP To be used with panel 64391, Z rotation 90° CCW
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
+0 // Image file courtesy of the LEGO MINDSTORMS Team
+0 // Needs Work: Missing more detailed fallback pattern
+
+1 16 0 0 0 0 -1 0 -1 0 0 0 0 1 s\13710as03.dat
+0 !TEXMAP START PLANAR 40.5287 11.1905 121.145 40.5287 11.1905 -6.3 -8.2407 -9 121.145 13710b.png
+0 !: 1 15 0 0 0 0 -1 0 -1 0 0 0 0 1 s\13710as04.dat
+0 !TEXMAP FALLBACK
+1 15 0 0 0 0 -1 0 -1 0 0 0 0 1 s\13710as04.dat
+0 !TEXMAP END

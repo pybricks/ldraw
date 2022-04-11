@@ -1,7 +1,7 @@
-0 Plant Tree Palm Trunk with Technic Axlehole
+0 ~Plant Tree Palm Trunk with Technic Axlehole (Obsolete)
 0 Name: 6135.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2009-02
+0 !LDRAW_ORG Part UPDATE 2022-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -14,6 +14,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2009-06-07 [PTadmin] Renamed from 2536c
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2019-12-20 [cwdee] Obsoleted due to incorrect geometry, replaced by 6135a/b
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 2536.DAT
 1 16 0 -8 0 0 0 -1 0 10 0 1 0 0 axlehol6.dat

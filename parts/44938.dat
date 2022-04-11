@@ -1,7 +1,7 @@
-0 Technic Shield  5 x  5 with Gear Tips
+0 Constraction Shield  5 x  5 with Gear Tips
 0 Name: 44938.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LDRAW_ORG Part UPDATE 2022-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Bionicle
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2022-01-20 [OrionP] Update description
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 -20 40 9 0 0 0 0.5 0 0 0 9 4-4cylo.dat
 1 16 0 -20 40 1 0 0 0 1 0 0 0 1 4-4ring8.dat

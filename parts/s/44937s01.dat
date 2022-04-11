@@ -1,12 +1,14 @@
-0 ~Technic Shield  5 x  5 with Dual Flames  1/2
+0 ~Constraction Shield  5 x  5 with Dual Flames  1/2
 0 Name: s\44937s01.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
+0 !LDRAW_ORG Subpart UPDATE 2022-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+0 !HISTORY 2022-01-20 [OrionP] Update description
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 4 16 10 -20 40 9.914 -20 41.305 8.923 -20 41.175 9 -20 40
 4 16 9.914 -20 41.305 9.659 -20 42.588 8.693 -20 42.329 8.923 -20 41.175

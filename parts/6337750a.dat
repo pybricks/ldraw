@@ -1,0 +1,25 @@
+0 Sticker  3.8 x  1.8 Oval with Chrome Silver Background
+0 Name: 6337750a.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2022-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Winnie the Pooh, Set 21326
+
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
+1 383 0 -0.25 21 18 0 0 0 1 0 0 0 18 48\2-4disc.dat
+1 383 0 -.25 -21 -18 0 0 0 1 0 0 0 -18 48\2-4disc.dat
+4 383 -18 -.25 -21 0 -.25 -21 0 -.25 21 -18 -.25 21
+4 383 0 -.25 -21 18 -.25 -21 18 -.25 21 0 -.25 21
+
+1 16 0 0 21 18 0 0 0 -1 0 0 0 18 48\2-4disc.dat
+1 16 0 0 -21 -18 0 0 0 -1 0 0 0 -18 48\2-4disc.dat
+4 16 0 0 21 0 0 -21 -18 0 -21 -18 0 21
+4 16 18 0 21 18 0 -21 0 0 -21 0 0 21
+4 16 18 -.25 21 18 -.25 -21 18 0 -21 18 0 21
+4 16 -18 -.25 -21 -18 -.25 21 -18 0 21 -18 0 -21
+1 16 0 -0.25 21 18 0 0 0 .25 0 0 0 18 48\2-4cyli.dat
+1 16 0 -.25 -21 -18 0 0 0 .25 0 0 0 -18 48\2-4cyli.dat

@@ -1,0 +1,372 @@
+ldraw.org Parts Update 2022-02
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Mon Mar  7 04:00:30 2022 by the Parts Tracker.
+
+Release statistics:
+   Total files: 567
+   New files: 366
+   New parts: 196
+   New subparts: 113
+   New primitives: 12
+   New lo-res primitives: 2
+   New hi-res primitives: 7
+   New part texture images: 36
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   2599.DAT                   ~Moved to 59275a
+   6575.DAT                   ~Moved to 6575a
+   766C01.DAT                 ~Moved to 70423
+   766S01.DAT                 ~Moved to u9019
+   LOGOLEGOS02.DAT            ~Moved to logo-lego-2
+
+Renamed Parts
+   16709P03.DAT               Minifig Hips and Legs with Yellow Legs and White Open Toe Shoes Pattern
+   changed to    Minifig Hips and Legs Short with Yellow Legs and White Open Toe Shoes Pattern
+
+   19201P01.DAT               Figure Elves Hair Long Wavy with Dark Azure Tips, Braid, Bangs and Light Flesh Elves Ears Pattern
+   changed to    Figure Elves Hair Long Wavy with Dark Azure Tips, Braid, Bangs and Light Nougat Elves Ears Pattern
+
+   2586P4J.DAT                Minifig Shield Ovoid w/ Crown on Dark/Med Blue Quarters Pattern
+   changed to    Minifig Shield Ovoid with Crown on Dark Blue and Medium Blue Quarters Pattern
+
+   2952.DAT                   Propellor  2 Blade  9 Diameter
+   changed to    Propeller  2 Blade  9 Diameter
+
+   3003PT1.DAT                Brick  2 x  2 with LEGO Logo with open "O" Pattern
+   changed to    Brick  2 x  2 with LEGO Logo with Open "O" Pattern
+
+   30346.DAT                  ~Electric Light and Sound Brick  4 x 12 x  2 Laser Drill Base (Needs Work)
+   changed to    ~Electric Light & Sound Brick  4 x 12 x  2 Laser Drill Base (Needs Work)
+
+   30348.DAT                  ~Electric Light and Sound Brick  4 x 12 x  2 Laser Drill Battery Cover (Needs Work)
+   changed to    ~Electric Light & Sound Brick  4 x 12 x  2 Laser Drill Battery Cover (Needs Work)
+
+   30359A.DAT                 Bar  1 x  8 with Brick  1  x  2 Curved Top End
+   changed to    Bar  1 x  8 with Brick  1 x  2 Curved Top End
+
+   30359B.DAT                 Bar  1 x  8 with Brick  1  x  2 Curved Top End With Axlehole
+   changed to    Bar  1 x  8 with Brick  1 x  2 Curved Top End With Axlehole
+
+   30406.DAT                  ~Electric Light and Sound Brick  4 x 12 x  2 Laser Drill Button
+   changed to    ~Electric Light & Sound Brick  4 x 12 x  2 Laser Drill Button
+
+   3068BPFD.DAT               Tile  2 x  2 with Fabuland '5' on Orange/Green Background Pattern
+   changed to    Tile  2 x  2 with Fabuland "5" on Orange and Green Background Pattern
+
+   3068BPFE.DAT               Tile  2 x  2 with Fabuland '5' on Yellow/Red Background Pattern
+   changed to    Tile  2 x  2 with Fabuland "5" on Yellow and Red Background Pattern
+
+   32064A.DAT                 Technic Brick  1 x  2 with Axlehole Type 1
+   changed to    Technic Brick  1 x  2 with Axlehole with Open Sides and Stud Blocker
+
+   32307.DAT                  Technic Connector Block  3 x  6 with Six Axle Holes and Groove
+   changed to    Technic Connector Block  3 x  6 with 6 Axleholes and Groove
+
+   3475B.DAT                  Plate  1 x  2 with Jet Engine and Axle Hole
+   changed to    Plate  1 x  2 with Jet Engine with Axle Hole
+
+   36036.DAT                  Minifig Skirt
+   changed to    Minifig Hips and Skirt
+
+   3626CP81.DAT               Minifig Head Female Black Eyebrows, Eyelashes, Freckles, Pink Lips, Open Mouth Smile / Angry 2-Sided Pattern
+   changed to    Minifig Head Female with Black Eyebrows and Eyelashes, Freckles, Pink Lips, Open Mouth Smile / Angry 2-Sided Pattern
+
+   4032A.DAT                  Plate  2 x  2 Round with Axlehole Type 1
+   changed to    Plate  2 x  2 Round with Axlehole
+
+   41659.DAT                  Technic Shield  5 x  5 with Wrench
+   changed to    Constraction Shield  5 x  5 with Wrench
+
+   4229.DAT                   Plate  2 x  2 with Jet Engine
+   changed to    Plate  2 x  2 with Jet Engine with 12 Fins
+
+   4288.DAT                   Tyre Balloon
+   changed to    Wheel 13 x 20 Solid Rubber with Axle Hole
+
+   44136.DAT                  Technic Bionicle Rahkshi Chest Section
+   changed to    Constraction Block  2 x  7 x  3 Curved with Forked Axle Hole
+
+   44852.DAT                  Technic Axle Joiner Rectangular with Spring (Complete)
+   changed to    Technic Axle Joiner 3 x 2 with Axial Torsion Spring
+
+   44937.DAT                  Technic Shield  5 x  5 with Dual Flames
+   changed to    Constraction Shield  5 x  5 with Dual Flames
+
+   44938.DAT                  Technic Shield  5 x  5 with Gear Tips
+   changed to    Constraction Shield  5 x  5 with Gear Tips
+
+   45274.DAT                  Technic Shield  5 x  5 with Carved Metal Blade
+   changed to    Constraction Shield  5 x  5 with Carved Metal Blade
+
+   4592C01.DAT                Hinge Control Stick and Base (Complete)
+   changed to    ~Hinge Control Stick and Base (Complete) (Obsolete)
+
+   47157.DAT                  ~Electric Technic Motor 9v Geared (480 RPM) Axle Bush
+   changed to    ~Electric Technic Motor 9V Geared (480 RPM) Axle Bush
+
+   47296.DAT                  Technic Ball Socket  5 x  2 Double Rounded
+   changed to    Constraction Connector  5 x  2 with Double Round Ball Sockets
+
+   50925.DAT                  Bionicle Toa Hordika Arm Upper Section
+   changed to    Technic Bionicle Toa Hordika Torso
+
+   54271.DAT                  Technic Bionicle Weapon Ball Shooter
+   changed to    Constraction Weapon Ball Shooter
+
+   6023.DAT                   Minifig Jet Pack with 2 Octagonal Nozzles (Needs Work)
+   changed to    Minifig Jet-Pack with 2 Octagonal Nozzles (Needs Work)
+
+   6041.DAT                   Propellor  3 Blade  3.5 Diameter
+   changed to    Propeller  3 Blade  3.5 Diameter with Axlehole
+
+   6135.DAT                   Plant Tree Palm Trunk with Technic Axlehole
+   changed to    ~Plant Tree Palm Trunk with Technic Axlehole (Obsolete)
+
+   62743.DAT                  Wedge Plate  2 x 16 x  0.333 Triple with Axle Hole 
+   changed to    Wedge Plate  2 x 16 x  0.333 Triple with Axlehole 
+
+   6552.DAT                   Electric Technic Pole Reverser - Center
+   changed to    Electric Technic Pole Reverser - Centre
+
+   6641.DAT                   Technic Transmission Changeover Catch
+   changed to    Technic Transmission Changeover Catch Type 1
+
+   71613.DAT                  Electric Light and Sound Brick  4 x 12 x  2 Laser Drill
+   changed to    Electric Light & Sound Brick  4 x 12 x  2 Laser Drill
+
+   765C02.DAT                 Electric Plugs (Type 4) Single with Cable End
+   changed to    Electric Plug (Type 4) Single with Cable End
+
+   92241P04C01.DAT            Figure Friends Girl Torso with Arms with Medium Violet Vest Top with Flower Pattern
+   changed to    Figure Friends Girl Torso with Arms with Lavender Vest Top with Flower Pattern
+
+   92241P05C01.DAT            Figure Friends Girl Torso with Arms with Light Blue Halter Top with Paw and Butterflies Pattern
+   changed to    Figure Friends Girl Torso with Arms with Medium Halter Top with Paw and Butterflies Pattern
+
+   93564.DAT                  Minifig Electric Guitar
+   changed to    Minifig Electric Guitar V Shape
+
+   93564P01.DAT               Minifig Electric Guitar with Silver Strings, White Body Pattern
+   changed to    Minifig Electric Guitar V Shape with Silver Strings, White Body Pattern
+
+   93564P02.DAT               Minifig Electric Guitar with Black Strings, DkPink Lightning Pattern
+   changed to    Minifig Electric Guitar V Shape with Black Strings, DkPink Lightning Pattern
+
+   98302.DAT                  Plate  1 x  2 with Jet Engine and Smooth Hole (Needs Work)
+   changed to    Plate  1 x  2 with Jet Engine with Axle Hole and Slot
+
+   985.DAT                    ~Technic Axle Joiner Rectangular - Housing Top (Needs Work)
+   changed to    ~Technic Axle Joiner 3 x 2 with Axial Torsion Spring - Top
+
+   986.DAT                    ~Technic Axle Joiner Rectangular - Housing Bottom (Needs Work)
+   changed to    ~Technic Axle Joiner  3 x  2 with Spring - Housing Bottom
+
+   2418S01.DAT                ~Windscreen  6 x  6 Octagonal Canopy without Axlehole - Subpart
+   changed to    ~Windscreen  6 x  6 Octagonal Canopy without Axlehole without Top Faces
+
+   25560S01.DAT               ~Electric Control+ Hub Top Half
+   changed to    ~Obsolete file
+
+   2598S01.DAT                ~Windscreen 10 x 10 x  4 Oct Canopy without Top Faces
+   changed to    ~Windscreen 10 x 10 x  4 Octagonal Canopy without Top Faces
+
+   3004PT1A.DAT               ~Pattern LEGO Logo with open "O"
+   changed to    ~Obsolete file
+
+   32174S01.DAT               ~Technic Ball Socket Rounded Common Geometry
+   changed to    ~Constraction Connector with Round Ball Socket - Common Geometry
+
+   32558S01.DAT               ~Technic Bionicle Weapon Flame  2 x 12 Face Plane
+   changed to    ~Obsolete file
+
+   3648S02.DAT                ~Technic Gear 24 Tooth - Eighth of Center Axlehole
+   changed to    ~Technic Gear 24 Tooth - Eighth of Centre Axlehole
+
+   41670S01.DAT               ~Technic Bionicle Leg  4 x  4 with Two Ball Joints - subpart
+   changed to    ~Technic Bionicle Leg  4 x  4 with Two Ball Joints - Quarter
+
+   4288-15.DAT                ~Tyre Balloon Tread
+   changed to    ~Wheel 13 x 20 Solid Rubber with Axle Hole Tread Section
+
+   44937S01.DAT               ~Technic Shield  5 x  5 with Dual Flames  1/2
+   changed to    ~Constraction Shield  5 x  5 with Dual Flames  1/2
+
+   44938S01.DAT               ~Technic Shield  5 x  5 with Gear Tips, Body Half
+   changed to    ~Constraction Shield  5 x  5 with Gear Tips, Body Half
+
+   44938S02.DAT               ~Technic Shield  5 x  5 with Gear Tips, Gear Tip
+   changed to    ~Constraction Shield  5 x  5 with Gear Tips, Gear Tip
+
+   45274S01.DAT               ~Technic Shield  5 x  5 with Carved Metal Blade Half
+   changed to    ~Constraction Shield  5 x  5 with Carved Metal Blade Half
+
+   47326S02.DAT               ~Technic Ball Socket End for Connector Half
+   changed to    ~Technic Connector  2 x  3 with Ball Socket - Rubber Insert Half
+
+   50898S01.DAT               ~Technic Ball Joint Socket  7 x  2 Ball Socket End
+   changed to    ~Constraction Ball Joint Socket with Closed Axle Holes and Angled Tip
+
+   53585S01.DAT               ~Technic Ball Joint with Axlehole Open - Centre 1/4
+   changed to    ~Technic Ball Joint with Axlehole Open - High Centre
+
+   53585S02.DAT               ~Technic Ball Joint with Axlehole Open - Shell 1/8 
+   changed to    ~Technic Ball Joint with Axlehole Open - Low Centre 
+
+   54271S01.DAT               ~Technic Bionicle Weapon Ball Shooter Half
+   changed to    ~Constraction Ball Shooter Half
+
+   57028S01.DAT               ~Technic Competition Arrow with Rubber End Shaft
+   changed to    ~Technic Competition Arrow with Rubber End Shaft (Obsolete)
+
+   6042S01.DAT                ~Brick  2 x  2 x  3.333 Octagonal With Side Studs Half
+   changed to    ~Brick  2 x  2 x  3.333 Octagonal With Side Studs - Half
+
+   6042S02.DAT                ~Brick  2 x  2 x  3.333 Octagonal With Side Studs Front
+   changed to    ~Brick  2 x  2 x  3.333 Octagonal With Side Studs - Front
+
+   6042S03.DAT                ~Brick  2 x  2 x  3.333 Octagonal With Side Studs Front Stud
+   changed to    ~Brick  2 x  2 x  3.333 Octagonal With Side Studs - Front Stud
+
+   U9236.DAT                  ~Motor Wind-Up  4 x 10 x  3 Top (Needs Work)
+   changed to    ~Motor Windup  4 x 10 x  3 Top (Needs Work)
+
+   U9236C01.DAT               ~Motor Wind-Up  4 x 10 x  3
+   changed to    ~Motor Windup  4 x 10 x  3
+
+   U9236C02.DAT               Motor Wind-Up  4 x 10 x  3 with Red Wheels
+   changed to    Motor Windup  4 x 10 x  3 with Red Wheels
+
+   U9236C03.DAT               Motor Wind-Up  4 x 10 x  3 with Red Wheels and Red Key
+   changed to    Motor Windup  4 x 10 x  3 with Red Wheels and Red Key
+
+Other Fixed Parts
+   1-4RIN12.DAT               Ring 12 x 0.25
+   1-4RING5.DAT               Ring  5 x 0.25
+   STUD2S.DAT                 Stud Tube Open Sliced (Fast-Draw)
+   AXLEHOL2.DAT               Technic Axle Hole Side Edges
+   AXLEHOL3.DAT               Technic Axle Hole Tooth Outer Edges
+   AXLEHOL4.DAT               Technic Axle Hole Open One Side
+   AXLEHOL5.DAT               Technic Axle Hole Open Two Opposite Sides
+   AXLEHOL6.DAT               Technic Axle Hole Tooth
+   AXLEHOL8.DAT               Technic Axle Hole Perimeter
+   AXLEHOLE.DAT               Technic Axle Hole Closed
+   CLH3.DAT                   Click Lock Hinge Single Finger for Arms
+   CYLJ4X8.DAT                Cylinder Joint  4 to  8
+   NPEGHOL7.DAT               Technic Peg Hole Negative 0.5 without Top Surface Extensions
+   STUD17.DAT                 Stud Open For Octagonal Parts
+   STUD17A.DAT                Stud Open For Octagonal Parts without Base Edges
+   TOOTHL.DAT                 Single Tooth for Large Technic Gears
+   10154.DAT                  Bigfig Arm Left
+   13549.DAT                  Minifig Sword Double Blade Serrated with Bar Holder
+   18352.DAT                  Technic Steering Wheel Yoke with Axle Hole and Hollow Stud
+   18575.DAT                  Technic Gear 20 Tooth Double Bevel Reinforced
+   194215A.DAT                Sticker  3.3 x  3.5 with Mail Logo
+   2335PW1.DAT                Flag  2 x  2 with Cavalry Logo Pattern
+   2418A.DAT                  Windscreen  6 x  6 Octagonal Canopy without Axlehole
+   2418B.DAT                  Windscreen  6 x  6 Octagonal Canopy with Axlehole
+   2712.DAT                   Technic Rotor  3 Blade
+   2745.DAT                   Technic Cylinder  4 x  4 x  1.667 with Axleholes
+   2853.DAT                   Technic Engine Crankshaft
+   2854.DAT                   Technic Engine Crankshaft Centre
+   2907.DAT                   Technic Ball with Grooves
+   2909.DAT                   Technic Shock Absorber  9L Cylinder
+   2975.DAT                   Electric Brick  2 x  4 Sensor Touch - Button
+   3001PT1.DAT                Brick  2 x  4 with "SHELL" Pattern
+   30093.DAT                  Plant Sea Grass
+   30134.DAT                  Staircase  7 x  4 x  6 Open
+   30136.DAT                  Brick  1 x  2 Log
+   30552.DAT                  Hinge Arm Locking with Single Finger and Axlehole
+   3062B.DAT                  Brick  1 x  1 Round with Hollow Stud
+   3069BP04.DAT               Tile  1 x  2 with United States Flag Pattern
+   3139.DAT                   Tyre  4/ 80 x  8 Single Smooth Type 1
+   32165.DAT                  Technic Connector Block  3 x  6 x  1.667
+   32174.DAT                  Constraction Connector  3 x  2 with Single Round Ball Socket
+   32199.DAT                  Technic Axle Flexible 11
+   32200.DAT                  Technic Axle Flexible 12
+   32201.DAT                  Technic Axle Flexible 14
+   32202.DAT                  Technic Axle Flexible 16
+   32235.DAT                  Technic Axle Flexible 19
+   32249.DAT                  Technic Beam  3 x  3 x  0.5 Liftarm Bent 90 Quarter Circle
+   32269.DAT                  Technic Gear 20 Tooth Double Bevel
+   32523.DAT                  Technic Beam  3
+   32580.DAT                  Technic Axle Flexible  7
+   332.DAT                    ~Technic Micro-Scout Axlehole (Needs Work)
+   3475A.DAT                  Plate  1 x  2 with Jet Engine and Smooth Hole
+   3649.DAT                   Technic Gear 40 Tooth
+   3651.DAT                   Technic Connector (Pin/Bush) with 2 Studs
+   3867P01.DAT                Baseplate 16 x 16 with Island and Water Pattern
+   3942A.DAT                  Cone  2 x  2 x  2 with Solid Stud
+   3943A.DAT                  Cone  4 x  4 x  2 without Axlehole
+   3943B.DAT                  Cone  4 x  4 x  2 with Axlehole
+   4094B.DAT                  Minifig Umbrella
+   4106332A.DAT               Sticker  2.4 x  3 with Cavalry Logo
+   41670.DAT                  Technic Bionicle Leg  4 x  4 with Two Ball Joints
+   4216816A.DAT               Sticker  1.6 x  1.8 with US Flag
+   43461.DAT                  ~Electric RC Race Buggy Steering Unit (Axle)
+   4588.DAT                   Brick  1 x  1 Round with Fins
+   4593.DAT                   Hinge Control Stick
+   46219.DAT                  ~Technic Gear 12 Tooth Bevel with Single Axle Joiner
+   47330.DAT                  Technic Connector Block  3 x  3 x  1 with Two Ball Joints
+   47675.DAT                  Container Storage X-Pod Top (Needs Work)
+   53585.DAT                  Technic Ball Joint with Axlehole Open
+   55296.DAT                  Minifig Tool Oilcan
+   55968.DAT                  Electric Mindstorms NXT Touch Sensor Button (Needs Work)
+   569.DAT                    Technic Gear  9 Large Tooth
+   570.DAT                    Technic Gear 15 Large Tooth
+   572.DAT                    Technic Gear 21 Large Tooth
+   572C.DAT                   ~String Minifig Grip
+   58136.DAT                  ~Electric Power Functions IR Remote Control Direction Switch
+   6032.DAT                   Brick  2 x  3 x  1.667 Octagonal Offset
+   6040.DAT                   Plate  2 x  2 x  0.667 with Axleholes and Octagonal Ring with Wings
+   6042.DAT                   Brick  2 x  2 x  3.333 Octagonal With Side Studs
+   6121.DAT                   Roof Piece  4 x  8 x  6 Half Pyramid
+   6219.DAT                   Wing 16 x 14 Shuttle
+   62473.DAT                  ~Electric Power Functions Pole Reverser Lever
+   6251.DAT                   Animal Cat Crouching
+   6252.DAT                   Umbrella  8 x  8 with Curved Tabs
+   65143.DAT                  ~Technic Shock Absorber 11L Body
+   6538A.DAT                  Technic Axle Joiner
+   6540A.DAT                  Technic Steering Arm Large with Axlehole
+   6540B.DAT                  Technic Steering Arm Large with Peghole
+   84726.DAT                  ~Electric Power Functions Rechargeable Battery Box Power Dial
+   84752.DAT                  ~Electric Power Functions IR Handset Incremental Dial
+   87079PT3.DAT               Tile  2 x  4 with Groove and "10277 Ce6/8" Pattern
+   913.DAT                    ~Electric Technic Motor 4.5V  6 x 17 x  5 Lever
+   92716.DAT                  Conveyor Belt Drive Axle  4L
+   99386.DAT                  Electric Mindstorms EV3 Touch Sensor Button
+   10178S01.DAT               ~Rock Stepped Main
+   21987S01.DAT               ~Constraction Bar 15L with Axle Bush End, Solid Parts
+   24196S01.DAT               ~Animal Dragon Head Elves Half
+   24196S04.DAT               ~Animal Dragon Head Elves Middle
+   2865S04.DAT                ~Train Track  9V Sleeper Interlocking End Section
+   3009PT1S01.DAT             ~"Shell" Pattern Red
+   35394S01.DAT               ~Dish  4 x  4 Inverted with Hollow Stud without Top Face
+   3648AS01.DAT               ~Technic Gear 24 Tooth with 3 Axleholes - 1/2 Pin Hole
+   3649S01.DAT                ~Technic Gear 40 Tooth - 5 Tooth Ring
+   3649S02.DAT                ~Technic Gear 40 Tooth - Eighth of Pin Holes
+   3817BP8IS02.DAT            ~Minifig Leg Left Front Foot and Side Surface with Silver Triangles Pattern
+   43363S01.DAT               ~Technic Darth Vader Helmet Half
+   47116S01.DAT               ~Brick 12 x 24 with Pegs - Axlehole and Flanged Support Ring
+   57783S01.DAT               ~Windscreen  3 x  4 x  1.333 without Front
+   6032S01.DAT                ~Brick  2 x  3 x  1.667 Octagonal Offset Half
+   6580B.DAT                  ~Wheel Rim 23 x 22 Offroad - Centre Subpart
+   6637S02.DAT                ~Electric Technic Fiber Optics Element - Bottom Quarter
+   88517S03.DAT               ~Wheel 17 x 75 Motorcycle with Holes in Rim Subpart 3
+   973P35A.DAT                ~Minifig Torso with Imperial Guard Pattern - Gold
+   973P35B.DAT                ~Minifig Torso with Imperial Guard Pattern - Silver
+   98100S01.DAT               ~Cone  2 x  2 Truncated without Top Surface
+   FAXLE1.DAT                 ~Flexible Axle Segment #1
+   FAXLE2.DAT                 ~Flexible Axle Segment #2
+   FAXLE3.DAT                 ~Flexible Axle Segment #3
+   FAXLE4.DAT                 ~Flexible Axle Segment #4
+   FAXLE5.DAT                 ~Flexible Axle Segment #5
+   U9015.DAT                  ~Electric RC Race Buggy Axle
+   U9059.DAT                  ~Electric Train 12V Transformer Type 3 Throttle Insert
+   U9068.DAT                  Rack Winder  2 x  4 x  2 Axle

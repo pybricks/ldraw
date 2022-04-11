@@ -1,0 +1,14 @@
+0 Electric Cable Grey with Plugs (Type 4) Twin with Centre Plastic Pin
+0 Name: 70423c02.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Shortcut UPDATE 2022-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !HISTORY 2011-12-16 [Steffen] adjusted to modified origin of 993.dat
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
+1 16 0 0 184 -1 0 0 0 1 0 0 0 -1 70423c01.dat
+1 375 0 0 -150 0 0 1 1 0 0 0 300 0 993.dat
+1 16 0 0 -184 1 0 0 0 1 0 0 0 1 70423c01.dat

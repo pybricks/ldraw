@@ -1,7 +1,7 @@
-0 Minifig Jet Pack with 2 Octagonal Nozzles (Needs Work)
+0 Minifig Jet-Pack with 2 Octagonal Nozzles (Needs Work)
 0 Name: 6023.dat
 0 Author: Nils Schmidt [BlackBrick89]
-0 !LDRAW_ORG Part UPDATE 2012-03
+0 !LDRAW_ORG Part UPDATE 2022-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !HELP Minifig example
@@ -28,6 +28,8 @@
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 0 !HISTORY 2012-12-24 [cwdee] Update category
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+0 !HISTORY 2022-01-16 [OrionP] Update description
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 0 // Needs work: some lines are covered
 

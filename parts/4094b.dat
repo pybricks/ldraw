@@ -1,7 +1,7 @@
 0 Minifig Umbrella
 0 Name: 4094b.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2012-01
+0 !LDRAW_ORG Part UPDATE 2022-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,6 +11,9 @@
 0 !HISTORY 2010-09-10 {LEGO Universe Team} Original part shape
 0 !HISTORY 2010-10-04 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+0 !HISTORY 2021-12-29 [MagFors] Reshaped axlehole
+0 !HISTORY 2022-01-13 [MMR1988] Removed the empty comment at the end
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 0 0 0.92388 0 0.38268 0 1 0 -0.38268 0 0.92388 s\4094s01.dat
 1 16 0 0 0 -0.92388 0 0.38268 0 1 0 0.38268 0 0.92388 s\4094s01.dat
@@ -31,14 +34,12 @@
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 0 12 0 1 0 0 0 -1 0 0 0 -1 stud4a.dat
 1 16 0 3.9 0 10 0 0 0 8.1 0 0 0 10 4-4cylo.dat
-0 BFC INVERTNEXT
-1 16 0 3.9 0 1 0 0 0 8.1 0 0 0 1 axlehol8.dat
+1 16 0 3.9 0 1 0 0 0 8.1 0 0 0 1 axl5hol8.dat
 1 16 0 3.9 0 1 0 0 0 1 0 0 0 1 axlehol2.dat
-1 16 0 3.9 0 1 0 0 0 1 0 0 0 1 axlehol9.dat
-1 16 0 3.9 0 1 0 0 0 -1 0 0 0 1 axleend.dat
-1 16 0 12 0 1 0 0 0 -1 0 0 0 1 axleho10.dat
-1 16 0 12 0 1 0 0 0 -1 0 0 0 1 axlehol9.dat
+1 16 0 3.9 0 1 0 0 0 1 0 0 0 1 axl5hol9.dat
+1 16 0 3.9 0 1 0 0 0 -1 0 0 0 1 axl5end.dat
+1 16 0 12 0 1 0 0 0 -1 0 0 0 1 axl5ho10.dat
+1 16 0 12 0 1 0 0 0 -1 0 0 0 1 axl5hol9.dat
 1 16 0 12 0 1 0 0 0 -1 0 0 0 1 axlehol3.dat
 1 16 0 12 0 8 0 0 0 -1 0 0 0 8 4-4edge.dat
 1 16 0 12 0 2 0 0 0 -1 0 0 0 2 4-4ring4.dat
-0 //

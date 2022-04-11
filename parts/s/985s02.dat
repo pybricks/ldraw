@@ -1,0 +1,19 @@
+0 ~Technic Axle Joiner 3 x 2 with Axial Torsion Spring - Axlehole
+0 Name: s\985s02.dat
+0 Author: Santeri Piippo [arezey]
+0 !LDRAW_ORG Subpart UPDATE 2022-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2013-09-02 [MagFors] Removed duplicate 1-4ndis
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 axlehol4.dat
+0 BFC INVERTNEXT
+1 16 9 0 0 0 0 1 0 1 0 -1 0 0 2-4cylo.dat
+1 16 9 1 0 0 0 1 0 -1 0 -1 0 0 2-4ndis.dat
+1 16 5.801 0.5 -1.5 0 1 0.199 -0.5 0 0 0 0 0.5 rect.dat
+1 16 7.5 0.5 -1 1.5 0 0 0 0 0.5 0 -1 0 rect2p.dat
+1 16 5.801 0.5 1.5 0.199 1 0 0 0 -0.5 -0.5 0 0 rect.dat
+1 16 7.5 0.5 1 1.5 0 0 0 0 -0.5 0 1 0 rect2p.dat

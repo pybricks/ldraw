@@ -1,0 +1,17 @@
+0 ~Animal Horse Friends Right with Reddish Brown Eyes, White Blaze, Black Mane and Black Tail Pattern
+0 Name: 93083p04.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2022-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\93083s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93083s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\93084p03s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\93084p04s01.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\93083s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93083s04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93083s05.dat

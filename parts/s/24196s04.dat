@@ -1,7 +1,7 @@
 0 ~Animal Dragon Head Elves Middle
 0 Name: s\24196s04.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2019-01
+0 !LDRAW_ORG Subpart UPDATE 2022-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,13 +9,16 @@
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2018-05-08 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+0 !HISTORY 2022-01-10 [MagFors] Reshaped axlehole
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
-0 BFC INVERTNEXT
-1 16 0 3.4 0 1 0 0 0 20.6 0 0 0 1 axlehol8.dat
-1 16 0 3.4 0 1 0 0 0 1 0 0 0 1 axlehol9.dat
+1 16 0 3.4 0 1 0 0 0 20.6 0 0 0 1 axl5hol8.dat
+1 16 0 3.4 0 1 0 0 0 1 0 0 0 1 axl5hol9.dat
 1 16 0 3.4 0 1 0 0 0 1 0 0 0 1 axlehol2.dat
-1 16 0 24 0 1 0 0 0 1 0 0 0 1 axlehol9.dat
+1 16 0 24 0 1 0 0 0 1 0 0 0 1 axl5hol9.dat
 1 16 0 24 0 1 0 0 0 1 0 0 0 1 axlehol2.dat
+1 16 0 24 0 1 0 0 0 -1 0 0 0 1 axl5ho10.dat
+
 4 16 11.343 14.261 -56.022 -11.343 14.261 -56.022 -9.865 19.271 -66.993 9.865 19.271 -66.993
 4 16 9.865 19.271 -66.993 -9.865 19.271 -66.993 -9.037 22.086 -77.116 9.037 22.086 -77.116
 4 16 -13.293 26.869 -76.645 -18.069 16.503 -48.408 18.069 16.503 -48.408 13.293 26.869 -76.645

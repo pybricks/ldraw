@@ -1,17 +1,16 @@
 0 Flag  2 x  2 with Cavalry Logo Pattern
 0 Name: 2335pw1.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2004-03
+0 !LDRAW_ORG Part UPDATE 2022-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-10-24 [unknown] with WINDZ for BFC compliance
+0 !HISTORY 2002-10-24 [Holly-Wood] Modified with WINDZ for BFC compliance
 0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
 0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
-0 // 2002-10-24  Modified with WINDZ for BFC compliance
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 0 // ~Subpart Flag  2 x  2 - without Main Faces
 

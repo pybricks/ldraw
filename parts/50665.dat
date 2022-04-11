@@ -1,0 +1,23 @@
+0 Minifig Helmet Classic with Thin Chin Guard Unbroken
+0 Name: 50665.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2022-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS space, astronaut, cosmonaut
+
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\16599s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\16599s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\50665s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\50665s01.dat
+1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud16.dat
+1 16 0 -4 0 1.84776 0 0.76537 0 -1 0 -0.76537 0 1.84776 1-8ring3.dat
+1 16 0 -4 0 -1.84776 0 -0.76537 0 -1 0 0.76537 0 -1.84776 1-8ring3.dat
+1 16 0 -4 0 7.39104 0 3.06147 0 1 0 -3.06147 0 7.39104 1-8edge.dat
+1 16 0 -4 0 -7.39104 0 -3.06147 0 1 0 3.06147 0 -7.39104 1-8edge.dat
+1 16 0 -4 0 -6 0 0 0 -1 0 0 0 6 4-4disc.dat

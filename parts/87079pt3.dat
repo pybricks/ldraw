@@ -1,7 +1,7 @@
 0 Tile  2 x  4 with Groove and "10277 Ce6/8" Pattern
 0 Name: 87079pt3.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LDRAW_ORG Part UPDATE 2022-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,6 +12,8 @@
 0 !CMDLINE -c70
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+0 !HISTORY 2021-01-04 [cwdee] Update 7-16rin1 reference
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079pt3s01.dat
@@ -147,7 +149,7 @@
 
 1 14 -2.389 0 -13.182 .45448 0 0 0 1 0 0 0 .464048 2-4ring1.dat
 1 14 -2.389 0 -13.182 .45448 0 0 0 1 0 0 0 .464048 2-4ring2.dat
-1 14 -2.389 0 -13.826 -.45448 0 0 0 1 0 0 0 -.464048 7-16ring1.dat
+1 14 -2.389 0 -13.826 -.45448 0 0 0 1 0 0 0 -.464048 7-16rin1.dat
 1 14 -2.389 0 -13.826 -.45448 0 0 0 1 0 0 0 -.464048 7-16ring2.dat
 4 14 -3.75244 0 -13.826 -3.29796 0 -13.826 -3.29796 0 -13.182 -3.75244 0 -13.182
 4 14 -3.29796 0 -13.826 -2.844 0 -13.693 -2.84348 0 -13.182 -3.29796 0 -13.182

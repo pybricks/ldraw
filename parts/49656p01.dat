@@ -1,0 +1,16 @@
+0 Rock  1 x  1 Geode with Glitter Trans Purple Crystal Interior Pattern
+0 Name: 49656p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 60228, Bricklink 49656pb02
+
+0 !HISTORY 2020-12-12 {LEGO/Unity Microgame} Original part shape
+0 !HISTORY 2021-01-06 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
+1 129 0 0 0 1 0 0 0 1 0 0 0 1 s\49656s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\49656s02.dat

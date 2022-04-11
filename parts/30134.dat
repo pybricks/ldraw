@@ -1,19 +1,20 @@
 0 Staircase  7 x  4 x  6 Open
 0 Name: 30134.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LDRAW_ORG Part UPDATE 2022-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 1997-10-29 [PTadmin] Official Update 1997-16
 0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
-0 !HISTORY 2004-09-11 [unknown] Fixed bow-tie quad
+0 !HISTORY 2004-09-11 [tcobbs] Fixed bow-tie quad
 0 !HISTORY 2004-11-10 [sbliss] Fixed small errors
 0 !HISTORY 2004-11-12 [guyvivan] Use more primitives and fixed quads size
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
 1 16 0 8 50 -40 0 0 0 -8 0 0 0 10 box4-1.dat
 1 16 0 32 30 40 0 0 0 -8 0 0 0 -10 box4-7a.dat
