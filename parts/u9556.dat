@@ -1,0 +1,36 @@
+0 ~Electric Powered Up 2 Port Hub Internal Lid
+0 Name: u9556.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Spike Essential
+
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
+1 16 0 23 0 1 0 0 0 1 0 0 0 1 s\u9556s01.dat
+1 16 0 23 0 1 0 0 0 1 0 0 0 -1 s\u9556s01.dat
+1 16 -58.5 33 0 -8.5 0 0 0 -1 0 0 0 12 rect1.dat
+1 16 -47 16.5 0 0 -1 0 0 0 16.5 -3 0 0 rect2p.dat
+4 16 -47 33 -3 -50 33 -3 -50 33 3 -47 33 3
+1 16 -67 31.5 0 0 1 0 -1.5 0 0 0 0 12 rect1.dat
+1 16 -60 30 0 7 0 0 0 1 0 0 0 12 rect1.dat
+1 16 -53 13.5 0 0 1 0 -16.5 0 0 0 0 12 rect1.dat
+4 16 -53 -3 12 -53 -3 -12 -50 -3 -12 -50 -3 12
+1 16 39 -1.5 0 0 -1 0 1.5 0 0 0 0 12 rect3.dat
+1 16 50 -2.5 0 0 1 0 -2.5 0 0 0 0 8 rect.dat
+1 16 42 -4 0 0 -1 0 -1 0 0 0 0 -8 rect.dat
+1 16 59.5 33 0 0 0 7.5 0 -1 0 12 0 0 rect2p.dat
+1 16 52 16.5 0 0 1 0 -16.5 0 0 0 0 12 rect1.dat
+4 16 52 0 -12 50 0 -12 50 0 12 52 0 12
+1 16 67 31.5 0 0 -1 0 -1.5 0 0 0 0 -12 rect1.dat
+1 16 61 30 0 -6 0 0 0 1 0 0 0 -12 rect1.dat
+1 16 55 12.5 0 0 -1 0 -17.5 0 0 0 0 -12 rect1.dat
+4 16 55 -5 12 50 -5 12 50 -5 -12 55 -5 -12
+4 16 42 -3 -8 39 -3 -12 39 -3 12 42 -3 8
+1 16 37 -4 0 0 1 0 0 0 1 15 0 0 rect2p.dat
+4 16 37 -5 -15 42 -5 -8 42 -5 8 37 -5 15
+4 16 37 -3 -15 37 -3 15 -50 -3 12 -50 -3 -12
+4 16 39 0 -12 -47 0 -3 -47 0 3 39 0 12

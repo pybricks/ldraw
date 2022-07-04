@@ -1,0 +1,19 @@
+0 Minifig Mechanical Head Cyborg
+0 Name: 87567.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2022-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2015-11-03 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2021-09-06 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87567s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87567s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87567s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87567s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87567s04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87567s05.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87567s05.dat

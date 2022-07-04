@@ -1,0 +1,28 @@
+0 ~Electric Motor Unit  6 x 18 x  4 - Axle Bush
+0 Name: u9271.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2022-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2014-11-22 [Steffen] BFCd
+0 !HISTORY 2014-11-22 [MMR1988] Optimized
+0 !HISTORY 2021-12-29 [MagFors] Reshaped axlehole
+0 !HISTORY 2022-03-12 [Holly-Wood] Corrected length, changed winding
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
+1 16 0 0 0 0 -1 0 1 0 0 0 0 -1 axl5ho10.dat
+1 16 0 0 0 0 1 0 1 0 0 0 0 1 axl5hol9.dat
+1 16 -20 0 0 0 1 0 1 0 0 0 0 1 axl5hol9.dat
+1 16 0 0 0 0 -20 0 1 0 0 0 0 1 axl5hol8.dat
+1 16 0 0 0 0 1 0 1 0 0 0 0 1 axlehol2.dat
+1 16 -20 0 0 0 1 0 1 0 0 0 0 1 axlehol2.dat
+1 16 -20 0 0 0 -1 0 1 0 0 0 0 1 axl5end.dat
+1 16 -22 0 0 0 1 0 2 0 0 0 0 2 4-4ring1.dat
+1 16 -22 0 0 0 1 0 4 0 0 0 0 4 4-4ring1.dat
+1 16 -22 0 0 0 1 0 0.5 0 0 0 0 0.5 4-4rin16.dat
+1 16 -26 0 0 0 4 0 2 0 0 0 0 2 4-4cylc.dat
+1 16 0 0 0 0 -22 0 8.5 0 0 0 0 8.5 4-4cylo.dat
+1 16 0 0 0 0 -1 0 2 0 0 0 0 -2 4-4ring3.dat
+1 16 0 0 0 0 -1 0 0 0 0.5 0.5 0 0 4-4rin16.dat

@@ -1,0 +1,34 @@
+0 Electric Motor  4 x 12 x  3.333 Type 2  4.5V
+0 Name: 581c01.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Shortcut UPDATE 2022-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS train, Bricklink x469b
+0 !KEYWORDS Set 107, Set 183, Set 404, Set 744, Set 901, Set 912, Set 7720
+
+0 !CMDLINE -c0
+
+0 !HISTORY 2012-03-18 [Steffen]   replaced color 383 by 494
+0 !HISTORY 2013-06-19 [MagFors]   moved axles to assembly shortcut
+0 !HISTORY 2015-06-08 [MagFors]   Renamed bottom part, was x582
+0 !HISTORY 2019-08-02 [anathema]  Added '4.5V' sticker
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9189.dat
+1 79 0 66 60 1 0 0 0 1 0 0 0 1 u9291.dat
+1 79 0 66 -60 1 0 0 0 1 0 0 0 1 u9291.dat
+1 79 0 66 -20 1 0 0 0 1 0 0 0 1 u9290.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 581.dat
+1 494 0 36 -116 -1 0 0 0 0 -1 0 -1 0 u9293.dat
+1 494 0 40 90 1 0 0 0 -1 0 0 0 -1 u9292.dat
+1 494 0 40 -90 1 0 0 0 -1 0 0 0 -1 u9292.dat
+
+1 494 -20 2 20 1.5 0 0 0 3 0 0 0 1.5 u9020.dat
+1 494 20 2 20 1.5 0 0 0 3 0 0 0 1.5 u9020.dat
+
+1 15 0 5 -25 1 0 0 0 1 0 0 0 1 u9480.dat
+

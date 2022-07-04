@@ -1,0 +1,24 @@
+0 ~Electric Powered Up 2 Port Hub Rechargeable Battery Bottom
+0 Name: u9557.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Spike Essential
+
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9557s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\u9557s01.dat
+0 BFC INVERTNEXT
+1 16 .5 -44 0 46.5 0 0 0 42 0 0 0 41 box5.dat
+4 16 47 -44 -41 48 -44 -27 48 -44 27 47 -44 41
+1 16 51 -44 0 1 0 0 0 1 0 0 0 12 rect1.dat
+1 16 52 -22 0 0 -1 0 22 0 0 0 0 12 rect1.dat
+4 16 52 0 12 52 0 -12 50 0 -12 50 0 12
+4 16 50 0 12 50 0 -12 -47 0 -3 -47 0 3
+1 16 -47 -22 0 0 1 0 0 0 -22 -3 0 0 rect2p.dat
+4 16 -47 -44 3 -47 -44 -3 -46 -44 -41 -46 -44 41
+4 16 50 -44 -12 50 -44 12 48 -44 27 48 -44 -27

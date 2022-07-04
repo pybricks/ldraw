@@ -1,0 +1,12 @@
+0 =Brick  2 x  8
+0 Name: 93888.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Part Alias UPDATE 2022-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2013-12-24 [MMR1988] made it an alias of 3007.dat
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3007.dat

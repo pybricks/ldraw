@@ -1,0 +1,142 @@
+ldraw.org Parts Update 2022-03
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Sat May  7 20:26:52 2022 by the Parts Tracker.
+
+Release statistics:
+   Total files: 638
+   New files: 563
+   New parts: 328
+   New subparts: 177
+   New primitives: 18
+   New lo-res primitives: 2
+   New hi-res primitives: 16
+   New part texture images: 22
+
+New 3-digit part numbers assigned:
+   941.dat ~Train Body for Train Battery Box Car
+
+Moved Parts
+   3430C00.DAT                ~Moved to 3430c00-f1
+   76110.DAT                  ~Moved to 76110p01
+   S7.DAT                     ~Moved to 191936d
+   U516.DAT                   ~Moved to 4237
+   U9320.DAT                  ~Moved to 23807
+   U9422.DAT                  ~Moved to 25452
+   U9422C01.DAT               ~Moved to 25452c01
+   U9423.DAT                  ~Moved to 25450
+
+Renamed Parts
+   22969.DAT                  Wheel 56 x 46 Technic Racing
+   changed to    ~Wheel 56 x 46 Technic Racing (Obsolete)
+
+   22969C01.DAT               Wheel 56 x 46 Technic Racing with Tyre 61/ 41 x 54 Off Road
+   changed to    ~Wheel 56 x 46 Technic Racing with Tyre 61/ 41 x 54 Off Road (Obsolete)
+
+   22969C02.DAT               Wheel 56 x 46 Technic Racing w Tyre 61/ 41 x 54 Power Puller
+   changed to    ~Wheel 56 x 46 Technic Racing w Tyre 61/ 41 x 54 Power Puller (Obsolete)
+
+   243.DAT                    ~Train Wheel Spoked with Cylindrical Rim
+   changed to    ~Train Wheel Spoked with Cylindrical Rim with 8 LDU Axle Hole
+
+   24853.DAT                  ~Electric Control+ Hub Battery Lid
+   changed to    Electric Control+ Hub Battery Lid
+
+   2528.DAT                   Minifig Hat Bicorne
+   changed to    ~Minifig Hat Bicorne (Obsolete)
+
+   2528P30.DAT                Minifig Hat Bicorne with Evil Skull and Crossbones Pattern
+   changed to    Minifig Hat Bicorne with Evil Skull and Crossbones Pattern (Obsolete)
+
+   270C01.DAT                 Train Base  6 x 12 Type 1 with Wheels (Complete)
+   changed to    Train Base  6 x 12 Type 1 with Red Wheels (Complete)
+
+   32064B.DAT                 Technic Brick  1 x  2 with Axlehole Type 2
+   changed to    Technic Brick  1 x  2 with Reduced Axlehole
+
+   4032B.DAT                  Plate  2 x  2 Round with Axlehole Type 2
+   changed to    Plate  2 x  2 Round with Reduced Axlehole
+
+   40902.DAT                  Hinge Brick  2 x  2 Locking with Axlehole and Dual Finger
+   changed to    Hinge Brick  2 x  2 Locking with Reduced Axlehole and Dual Finger, 9 Teeth
+
+   47431.DAT                  Technic Brick  2 x  2 w/ Axlehole, Click Rot. Hinge (V) and Fist
+   changed to    Technic Brick  2 x  2 with Axlehole, Click Rotation Hinge (V) and Fist
+
+   50898.DAT                  Technic Ball Joint Socket  7 x  2 with Circular Sockets
+   changed to    Constraction Connector  7 x  2 with Double Round Ball Sockets
+
+   6582.DAT                   Wheel 20 x 30 Balloon Medium
+   changed to    Wheel Rim 20 x 33 with  6 Pinholes
+
+   735.DAT                    Magnet Holder for Train Base  6 x 16 Type 1
+   changed to    Magnet Holder for Train Base  6 x 16 Type 1 with Magnet (Complete)
+
+   736C01.DAT                 Train Base  6 x 16 Type 1 with Wheels (Complete)
+   changed to    Train Base  6 x 16 Type 1 with Red Wheels (Complete)
+
+   76116.DAT                  Minifig Mechanical Arm with Clip and Rod Hole (Needs Work)
+   changed to    =Minifig Mechanical Arm with Clip and Rod Hole with Thick Forearm
+
+   2528S01.DAT                ~Minifig Hat Bicorne without Front or Back
+   changed to    ~Minifig Hat Bicorne without Front and Back (Obsolete)
+
+   2528S02.DAT                ~Minifig Hat Bicorne Front/Back Surface
+   changed to    ~Minifig Hat Bicorne Front/Back Surface (Obsolete)
+
+   47431S01.DAT               ~Technic Brick  2 x  2 with Axlehole without End Faces
+   changed to    ~Technic Brick  2 x  2 with Reduced Axlehole without End Faces
+
+   6582A.DAT                  ~6582 Wheel 1/14th Section
+   changed to    ~Wheel Rim 20 x 33 with 6 Pinholes - Quarter of Outer Structure
+
+Other Fixed Parts
+   1-4RING7.DAT               Ring  7 x 0.25
+   1-4RIN18.DAT               Hi-Res Ring 18 x 0.25
+   AXL2HO10.DAT               Technic Axle Hole Reduced Tooth Surface
+   AXL2HOL2.DAT               Technic Axle Hole Reduced Side Edges
+   AXL2HOL3.DAT               Technic Axle Hole Reduced Tooth Outer Edges
+   AXL2HOL8.DAT               Technic Axle Hole Reduced Perimeter
+   AXL2HOL9.DAT               Technic Axle Hole Reduced Tooth Inner Edges
+   AXL2HOLE.DAT               Technic Axle Hole Reduced Closed
+   12818.DAT                  Panel  3 x  3 x  6 Corner Round Reinforced
+   22127.DAT                  Electric Control+ Hub
+   24849.DAT                  ~Electric Control+ Hub Battery Holder
+   2552P05.DAT                Baseplate 32 x 32 Raised with Ramp and Pit with Grey and Black Rocks Pattern
+   2552P06.DAT                Baseplate 32 x 32 Raised with Ramp and Pit with Grey and DarkGrey Rocks Pattern
+   25560.DAT                  ~Electric Control+ Hub Bottom
+   3004P50.DAT                Brick  1 x  2 with LEGO Logo with Open "O" Pattern
+   30517.DAT                  Support  2 x  2 x 10 Girder Triangular
+   30518.DAT                  Support  2 x 16 x  2 Girder Triangular
+   30520.DAT                  Brick  2 x  8 with Axleholes and  6 Notches
+   30646.DAT                  Support  2 x  2 x  8 Girder
+   3066P01.DAT                Brick  1 x  4 without Centre Studs with LEGO Logo Open "O" on Red Background Pattern
+   3070BP0O.DAT               Tile  1 x  1 with Coral and Metallic Light Blue Swirl and Unicorn Head Pattern
+   3070BP0P.DAT               Tile  1 x  1 with Coral and Metallic Light Blue Swirl, Black Sky and Metallic Silver and Dark Bluish Grey Stars Pattern
+   32031.DAT                  ~Technic Pneumatic Airtank Centre
+   32032.DAT                  ~Technic Pneumatic Airtank End
+   3626BPA8.DAT               Minifig Head with Evil Skeleton Skull Pattern
+   3937.DAT                   Hinge  1 x  2 Base
+   41667.DAT                  Technic Arm  3 x  2 with Gear 36 Tooth Double Bevel Quarter
+   41669.DAT                  Technic Tooth  1 x  3 with Axlehole
+   4210A.DAT                  Minifig Tool Hose Nozzle with Handle
+   44511.DAT                  Roof Piece  8 x 12 x 10 Half Onion Dome
+   54200.DAT                  Slope Brick 31  1 x  1 x  0.667
+   57585.DAT                  Technic Bush with Three Axles
+   581.DAT                    ~Electric Motor  4 x 12 x  3.333 Type 2 Cover
+   6059.DAT                   Panel  3 x  3 x  6 Corner Round
+   6092.DAT                   Baseplate 32 x 32 Raised with Ramp, Pit and Stairs
+   73090A.DAT                 Brick  2 x  6 x  2 Weight with Split Bottom
+   85970.DAT                  Slope Brick Curved  1 x  8 with Plate  1 x  2
+   22969S01.DAT               ~Wheel 56 x 46 Technic Racing - 1/6
+   2431PT2A.DAT               ~Tile  1 x  4 with "Octan" Pattern - Text & Surround
+   2431PT2B.DAT               ~Tile  1 x  4 with "Octan" Pattern - Border for "Oc"
+   2431PT2C.DAT               ~Tile  1 x  4 with "Octan" Pattern - Border for "tan"
+   24853S01.DAT               ~Electric Control+ Hub Battery Lid Half
+   285S01.DAT                 ~Magnet Slider for Train Bases
+   32013S01.DAT               ~Technic Angle Connector Half
+   6582B.DAT                  ~Wheel Rim 20 x 33 with 6 Pinholes - 1/4 of Inner Structure
+   85970S01.DAT               ~Slope Brick Curved  8 x  1 with Plate  1 x  2 - Half

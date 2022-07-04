@@ -1,23 +1,25 @@
-0 ~Electric Control+ Hub Battery Lid
+0 Electric Control+ Hub Battery Lid
 0 Name: 24853.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LDRAW_ORG Part UPDATE 2022-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !HISTORY 2021-03-26 [Philo] Untilded, corrected very minor overlap.
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24853s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24853s01.dat
 0 BFC INVERTNEXT
 1 16 0 -3 -2 1 0 0 0 3 0 0 0 10 box4.dat
 0 BFC INVERTNEXT
-1 16 0 -3 -49 1 0 0 0 3 0 0 0 8 box4.dat
+1 16 0 -3 -48.8 1 0 0 0 3 0 0 0 7.8 box4.dat
 0 BFC INVERTNEXT
 1 16 0 -3 45 1 0 0 0 3 0 0 0 8 box4.dat
 4 16 37 0 53 -37 0 53 -68 0 80 68 0 80
-4 16 -68 0 -77 -37 0 -57 37 0 -57 68 0 -77
+4 16 -68 0 -77 -37 0 -56.6 37 0 -56.6 68 0 -77
 4 16 -37 0 -41 -37 0 -12 37 0 -12 37 0 -41
 4 16 37 0 37 37 0 8 -37 0 8 -37 0 37
 1 16 0 -1.5 80 2 0 0 0 0 1.5 0 -1 0 rect2p.dat
@@ -28,7 +30,7 @@
 4 16 -68 -3 75 -37 -3 53 37 -3 53 68 -3 75
 1 16 0 -5 -76 68 0 0 0 1 0 0 0 1 rect2p.dat
 1 16 0 -4 -75 0 0 -68 1 0 0 0 -1 0 rect1.dat
-4 16 37 -3 -57 -37 -3 -57 -68 -3 -75 68 -3 -75
+4 16 37 -3 -56.6 -37 -3 -56.6 -68 -3 -75 68 -3 -75
 4 16 -37 -3 -41 37 -3 -41 37 -3 -12 -37 -3 -12
 4 16 -37 -3 37 -37 -3 8 37 -3 8 37 -3 37
 1 16 0 -2.5 -77 0 0 14 2.5 0 0 0 1 0 rect1.dat

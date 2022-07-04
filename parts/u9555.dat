@@ -1,0 +1,15 @@
+0 ~Screw  7 x  2.5 Pan Hexalobular
+0 Name: u9555.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Torx
+
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
+0 // Nomenclature: Screw length_(LDu) x thread_diameter_(LDu) {head type} {slot type}
+
+1 16 0 0 0 .5 0 0 0 .5 0 0 0 .5 u9265.dat

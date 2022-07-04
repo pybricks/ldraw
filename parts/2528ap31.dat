@@ -1,0 +1,35 @@
+0 Minifig Hat Bicorne with Small Rounded Skull and Crossbones Pattern
+0 Name: 2528ap31.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2022-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS bi-corner, bicorn, bicorner, 2-corner, cap, chapeau bras
+0 !KEYWORDS chapeau-bras, fore and aft hat, cocked hat, Pirates, pirate
+0 !KEYWORDS Brickbeard, plume, feather, captain
+0 !KEYWORDS Bricklink 2528pb01, set 6285, set 6276, set 6270, set 6251
+
+0 !HISTORY 2011-12-29 [Philo] Original design as 2528p31
+0 !HISTORY 2021-05-06 [MagFors] Adapted to corrected geometry
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2528as01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\2528as03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\2528as03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2528ap31s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2528ap31s01.dat
+
+4 15 1.9924 -1.3166 -13.5498 .56925 -.6525 -13.86707 1.1134 -.4825 -13.8616 1.9999 -1.2258 -13.5739
+4 15 .6641 -2.3603 -13.3912 0 -2.0756 -13.5324 0 -.84225 -13.86951 1.9924 -1.791 -13.4201
+4 15 -1.9924 -1.3166 -13.5498 -1.9999 -1.2258 -13.5739 -1.1134 -.4825 -13.8616 0 -2.0756 -13.5324
+3 15 -1.1134 -.4825 -13.8616 0 -.84225 -13.86951 0 -2.0756 -13.5324
+3 16 1.9924 -1.3166 -13.5498 1.9924 -1.791 -13.4201 .56925 -.6525 -13.86707
+3 16 .56925 -.6525 -13.86707 1.9924 -1.791 -13.4201 0 -.84225 -13.86951
+3 16 .56925 -.6525 -13.86707 0 -.84225 -13.86951 0 .451 -14.223
+3 16 .56925 -.6525 -13.86707 0 .451 -14.223 1.1134 -.4825 -13.8616
+3 16 0 .451 -14.223 0 -.84225 -13.86951 -1.1134 -.4825 -13.8616
+3 16 0 -2.0756 -13.5324 -.6641 -2.3603 -13.3912 -1.9924 -1.791 -13.4201
+3 16 0 -2.0756 -13.5324 -1.9924 -1.791 -13.4201 -1.9924 -1.3166 -13.5498

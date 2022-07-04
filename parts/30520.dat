@@ -1,16 +1,16 @@
 0 Brick  2 x  8 with Axleholes and  6 Notches
 0 Name: 30520.dat
 0 Author: Niels Karsdorp [nielsk]
-0 !LDRAW_ORG Part UPDATE 2010-01
+0 !LDRAW_ORG Part UPDATE 2022-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+0 !HISTORY 2022-02-01 [MagFors] Reworked axleholes, removed edgeline
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
 0 // Outer sides
-
-
 1 16 72 12 12 0 8 0 12 0 0 0 0 8 box2-5.dat
 1 16 72 12 -12 0 8 0 12 0 0 0 0 -8 box2-5.dat
 1 16 -72 12 12 0 -8 0 12 0 0 0 0 8 box2-5.dat
@@ -31,12 +31,23 @@
 1 16 -80 12 0 0 5 0 12 0 0 0 0 4 box3u4a.dat
 
 0 // Top side
-1 16 60 0 0 1 0 0 0 20 0 0 0 1 axl2hole.dat
-1 16 60 0 0 1 0 0 0 20 0 0 0 1 axl2hol2.dat
-1 16 60 20 0 1 0 0 0 20 0 0 0 1 axl2hol3.dat
-1 16 -60 0 0 1 0 0 0 20 0 0 0 1 axl2hole.dat
-1 16 -60 0 0 1 0 0 0 20 0 0 0 1 axl2hol2.dat
-1 16 -60 20 0 1 0 0 0 20 0 0 0 1 axl2hol3.dat
+1 16 60 0 0 1 0 0 0 1 0 0 0 1 axl2hol2.dat
+1 16 60 0 0 1 0 0 0 1 0 0 0 1 axl2hol9.dat
+1 16 60 20 0 1 0 0 0 1 0 0 0 1 axl2hol9.dat
+1 16 60 0 0 1 0 0 0 20 0 0 0 1 axl2hol8.dat
+1 16 60 0 0 1 0 0 0 1 0 0 0 1 axl2ho10.dat
+1 16 60 20 0 1 0 0 0 -1 0 0 0 1 axl2ho10.dat
+1 16 60 0 0 6 0 0 0 1 0 0 0 6 4-4ering.dat
+1 16 60 20 0 1 0 0 0 1 0 0 0 1 axl2hol3.dat
+
+1 16 -60 0 0 1 0 0 0 1 0 0 0 1 axl2hol2.dat
+1 16 -60 0 0 1 0 0 0 1 0 0 0 1 axl2hol9.dat
+1 16 -60 20 0 1 0 0 0 1 0 0 0 1 axl2hol9.dat
+1 16 -60 0 0 1 0 0 0 20 0 0 0 1 axl2hol8.dat
+1 16 -60 0 0 1 0 0 0 1 0 0 0 1 axl2ho10.dat
+1 16 -60 20 0 1 0 0 0 -1 0 0 0 1 axl2ho10.dat
+1 16 -60 0 0 6 0 0 0 1 0 0 0 6 4-4ering.dat
+1 16 -60 20 0 1 0 0 0 1 0 0 0 1 axl2hol3.dat
 
 1 16 60 0 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat
 1 16 -60 0 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat
@@ -59,10 +70,10 @@
 4 16 54 0 -6 -54 0 -6 -56 0 -15 56 0 -15
 4 16 -56 0 20 -56 0 15 56 0 15 56 0 20
 4 16 56 0 -20 56 0 -15 -56 0 -15 -56 0 -20
-1 16 -60 0 0 1 0 0 0 1 0 0 0 1 stug2.dat
-1 16 -20 0 0 1 0 0 0 1 0 0 0 1 stug2.dat
-1 16 20 0 0 1 0 0 0 1 0 0 0 1 stug2.dat
-1 16 60 0 0 1 0 0 0 1 0 0 0 1 stug2.dat
+1 16 -60 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat
+1 16 -20 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat
+1 16 20 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat
+1 16 60 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat
 0 // Inner sides
 0 BFC INVERTNEXT
 1 16 72 14 12 0 4 0 10 0 0 0 0 4 box2-5.dat
@@ -173,11 +184,7 @@
 1 16 -60 4 0 8 0 0 0 -1 0 0 0 8 4-4ndis.dat
 1 16 -60 20 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
 1 16 60 20 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
-1 16 -40 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
-1 16 -20 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
-1 16 0 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
-1 16 20 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
-1 16 40 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
+1 16 0 4 0 1 0 0 0 -5 0 0 0 1 stug4-1x5.dat
 4 16 76 4 16 76 4 8 66 4 15 68 4 16
 4 16 68 4 -16 66 4 -15 76 4 -8 76 4 -16
 4 16 -68 4 16 -66 4 15 -76 4 8 -76 4 16
@@ -232,4 +239,3 @@
 4 16 -54 24 -15 -52 24 -16 -56 24 -20 -56 24 -15
 4 16 56 24 20 52 24 16 -52 24 16 -56 24 20
 4 16 -56 24 -20 -52 24 -16 52 24 -16 56 24 -20
-0

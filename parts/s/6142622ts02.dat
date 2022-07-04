@@ -1,0 +1,14 @@
+0 ~Sticker  4.0 x  1.8 with Black Arch on Yellow Background Right - Upper Section 2
+0 Name: s\6142622ts02.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Subpart UPDATE 2022-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
+0 // Faces
+
+4 0 15.0314 -.25 .0153 -18 -.25 .0153 -18 -.25 -20.8931 12.1721 -.25 -20.8931
+4 14 15.0314 -.25 .0153 12.1721 -.25 -20.8931 18 -.25 -20.8931 18 -.25 .0153

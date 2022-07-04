@@ -1,0 +1,26 @@
+0 Sticker  0.8 x  3.8 with LEGO Logo and "TECHNIC"
+0 Name: 4631649a.dat
+0 Author: J.C. Tchang [tchang]
+0 !LDRAW_ORG Part UPDATE 2022-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Unimog, set 8110
+
+0 !HISTORY 2011-10-25 [tchang] Make with Santeri Piippo 86037c.dat
+0 !HISTORY 2011-12-01 [tchang] Add keywords
+0 !HISTORY 2017-04-30 [MagFors] Used corrected logos
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
+1 16 0 -0.25 0 37.5 0 0 0 0.25 0 0 0 7.5 box5-12.dat
+1 16 -27.25 -0.25 0 .6 0 0 0 1 0 0 0 .6 s\99141s02.dat
+1 16 5.9 -.25 0 .7536 0 0 0 .7536 0 0 0 .7536 logo-technic-1.dat
+1 0 5.9 -.25 0 .7536 0 0 0 .7536 0 0 0 .7536 logo-technic-2.dat
+4 0 33.0296 -0.25 -4.5216 37.5 -0.25 -7.5 37.5 -0.25 7.5 33.0296 -0.25 4.5216
+4 0 -33.25 -0.25 -6 -33.25 -0.25 6 -37.5 -0.25 7.5 -37.5 -0.25 -7.5
+4 0 -37.5 -0.25 -7.5 37.5 -0.25 -7.5 -21.25 -0.25 -6 -33.25 -0.25 -6
+4 0 -21.25 -0.25 6 37.5 -0.25 7.5 -37.5 -0.25 7.5 -33.25 -0.25 6
+4 0 -21.2296 -0.25 4.5216 -21.25 -0.25 6 -21.25 -0.25 -6 -21.2296 -0.25 -4.5216
+4 0 33.0296 -0.25 4.5216 37.5 -0.25 7.5 -21.25 -0.25 6 -21.2296 -0.25 4.5216
+4 0 -21.25 -0.25 -6 37.5 -0.25 -7.5 33.0296 -0.25 -4.5216 -21.2296 -0.25 -4.5216

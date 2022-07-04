@@ -1,12 +1,16 @@
 0 Baseplate 32 x 32 Raised with Ramp and Pit with Grey and Black Rocks Pattern
 0 Name: 2552p05.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2014-01
+0 !LDRAW_ORG Part UPDATE 2022-03
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS Castle, Dragon Knights, Set 6082, Bricklink 2552px5
+
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+0 !HISTORY 2022-03-07 [RainbowDolphin] Added missing studs and keywords
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
 1 16 -210 0 300 1 0 0 0 1 0 0 0 1 stug-1x12.dat
 1 16 -210 0 -320 1 0 0 0 1 0 0 0 1 stug-1x12.dat
@@ -25,6 +29,7 @@
 1 16 -200 -144 -80 1 0 0 0 1 0 0 0 1 stug-1x5.dat
 1 0 -120 -144 -80 1 0 0 0 1 0 0 0 1 stug-1x3.dat
 1 16 80 -144 -80 1 0 0 0 1 0 0 0 1 stug-1x11.dat
+1 16 -50 -144 -80 1 0 0 0 1 0 0 0 1 stug-1x2.dat
 1 16 80 -144 -60 1 0 0 0 1 0 0 0 1 stug-1x11.dat
 1 16 70 -144 -40 1 0 0 0 1 0 0 0 1 stug-1x10.dat
 1 16 110 -144 180 1 0 0 0 1 0 0 0 1 stug-1x12.dat

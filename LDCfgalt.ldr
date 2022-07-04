@@ -1,7 +1,7 @@
 0 LDraw.org Configuration File
 0 Name: LDCfgalt.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2021-01-14
+0 !LDRAW_ORG Configuration UPDATE 2022-03-31
 
 0 // * All of the colour values are the same as in ldconfig.ldr.
 0 // * All of the edge colours, that are coloured in ldconfig.ldr, are the same.
@@ -92,6 +92,7 @@
 0 !COLOUR Coral                              CODE 353   VALUE #FF6D77   EDGE #FF3845
 0 !COLOUR Earth_Orange                       CODE 366   VALUE #D86D2C   EDGE #B05720
 0 !COLOUR Vibrant_Yellow                     CODE 368   VALUE #EDFF21   EDGE #D7EA00
+0 !COLOUR Medium_Brown                       CODE 370   VALUE #755945   EDGE #533F31
 0 !COLOUR Sand_Purple                        CODE 373   VALUE #75657D   EDGE #594D60
 0 !COLOUR Sand_Green                         CODE 378   VALUE #708E7C   EDGE #597263
 0 !COLOUR Sand_Blue                          CODE 379   VALUE #70819A   EDGE #58677D
@@ -142,7 +143,6 @@
 
 
 0 // LDraw Pearlescent Plastic Colours
-0 !COLOUR Metallic_Green                     CODE  81   VALUE #6A7944   EDGE #4D5831                               PEARLESCENT
 0 !COLOUR Metallic_Black                     CODE  83   VALUE #0A1327   EDGE #000000                               PEARLESCENT
 0 !COLOUR Copper                             CODE 134   VALUE #764D3B   EDGE #54372A                               PEARLESCENT
 0 !COLOUR Pearl_Light_Grey                   CODE 135   VALUE #A0A0A0   EDGE #878787                               PEARLESCENT
@@ -157,11 +157,13 @@
 0 !COLOUR Metallic_Bright_Blue               CODE 185   VALUE #0059A3   EDGE #003D70                               PEARLESCENT
 0 !COLOUR Metallic_Dark_Green                CODE 186   VALUE #008E3C   EDGE #005B26                               PEARLESCENT
 0 !COLOUR Reddish_Gold                       CODE 189   VALUE #AC8247   EDGE #896738                               PEARLESCENT
+0 !COLOUR Lemon_Metallic                     CODE 200   VALUE #708224   EDGE #4F5C19                               PEARLESCENT
 0 !COLOUR Pearl_Gold                         CODE 297   VALUE #AA7F2E   EDGE #805F23                               PEARLESCENT
 
 
 0 // LDraw Metallic Paint Colours
 0 !COLOUR Metallic_Silver                    CODE  80   VALUE #767676   EDGE #8E8E8E                               METAL
+0 !COLOUR Metallic_Green                     CODE  81   VALUE #C2C06F   EDGE #D1D093                               METAL
 0 !COLOUR Metallic_Gold                      CODE  82   VALUE #DBAC34   EDGE #E2BD5E                               METAL
 0 !COLOUR Metallic_Dark_Grey                 CODE  87   VALUE #3E3C39   EDGE #575450                               METAL
 0 !COLOUR Metallic_Copper                    CODE 300   VALUE #C27F53   EDGE #CF9A77                               METAL
@@ -221,6 +223,7 @@
 0 !COLOUR Rubber_Lavender                    CODE 10031 VALUE #CDA4DE   EDGE #A35AC3                               RUBBER
 0 !COLOUR Rubber_Reddish_Brown               CODE 10070 VALUE #5F3109   EDGE #2E1804                               RUBBER
 0 !COLOUR Rubber_Medium_Blue                 CODE 10073 VALUE #7396C8   EDGE #3B639A                               RUBBER
+0 !COLOUR Rubber_Light_Nougat                CODE 10078 VALUE #FFC995   EDGE #FF922D                               RUBBER
 0 !COLOUR Rubber_Bright_Light_Yellow         CODE 10226 VALUE #FFEC6C   EDGE #FFDD05                               RUBBER
 0 !COLOUR Rubber_Dark_Brown                  CODE 10308 VALUE #352100   EDGE #000000                               RUBBER
 0 !COLOUR Rubber_Dark_Red                    CODE 10320 VALUE #720012   EDGE #3D0009                               RUBBER

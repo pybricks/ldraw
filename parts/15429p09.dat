@@ -1,0 +1,15 @@
+0 Animal Cat Tail with Dark Azure Stripe, Dark Pink and Lavender Flowers Pattern
+0 Name: 15429p09.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2022-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 41775, Bricklink 15429pb09, Unikitty
+
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15429s01.dat
+1 16 10 0 0 1 0 0 0 1 0 0 0 1 s\15429p09s01.dat
+1 16 -10 0 0 -1 0 0 0 1 0 0 0 1 s\15429p09s01.dat

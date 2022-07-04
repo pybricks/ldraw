@@ -1,7 +1,7 @@
 0 LDraw.org Configuration File
 0 Name: LDConfig.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2022-01-14
+0 !LDRAW_ORG Configuration UPDATE 2022-03-31
 
 0 // * LDraw and BrickLink mostly share naming conventions for their colours.
 0 // * Where possible LEGO colour numbers were used.
@@ -175,6 +175,10 @@
 0 !COLOUR Coral                                                 CODE 353   VALUE #FF6D77   EDGE #333333
 0                              // LEGOID  12 - Light Orange Brown
 0 !COLOUR Earth_Orange                                          CODE 366   VALUE #D86D2C   EDGE #333333
+0                              // LEGOID 368 - Vibrant Yellow 
+0 !COLOUR Vibrant_Yellow                                        CODE 368   VALUE #EDFF21   EDGE #333333
+0                              // LEGOID 370 - Medium Brown
+0 !COLOUR Medium_Brown                                          CODE 370   VALUE #755945   EDGE #333333
 0                              // LEGOID 136 - Sand Violet
 0 !COLOUR Sand_Purple                                           CODE 373   VALUE #75657D   EDGE #333333
 0                              // LEGOID 151 - Sand Green
@@ -197,8 +201,6 @@
 0 !COLOUR Fabuland_Orange                                       CODE 509   VALUE #CF8A47   EDGE #333333
 0                              // LEGOID  14 - Pastel Green
 0 !COLOUR Fabuland_Pastel_Green                                 CODE 510   VALUE #78FC78   EDGE #333333
-0                              // LEGOID 368 - Vibrant Yellow 
-0 !COLOUR Vibrant_Yellow                                        CODE 368   VALUE #EDFF21   EDGE #333333
 
 
 0 // LDraw Transparent Colours
@@ -252,7 +254,6 @@
 0 !COLOUR Trans_Light_Blue_Violet                               CODE  293  VALUE #6BABE4   EDGE #247BC6   ALPHA 128
 
 
-
 0 // LDraw Chrome Plated Colours
 0 !COLOUR Chrome_Antique_Brass                                  CODE  60   VALUE #645A4C   EDGE #665B4D                               CHROME
 0 !COLOUR Chrome_Blue                                           CODE  61   VALUE #6C96BF   EDGE #3D638A                               CHROME
@@ -266,8 +267,6 @@
 
 
 0 // LDraw Pearlescent Plastic Colours
-0                              // LEGOID 200 - Lemon Metallic
-0 !COLOUR Metallic_Green                                        CODE  81   VALUE #6A7944   EDGE #333333                               PEARLESCENT
 0                              // LEGOID 149 - Metallic Black
 0 !COLOUR Metallic_Black                                        CODE  83   VALUE #0A1327   EDGE #333333                               PEARLESCENT
 0                              // LEGOID 139 - Copper
@@ -296,6 +295,8 @@
 0 !COLOUR Metallic_Dark_Green                                   CODE 186   VALUE #008E3C   EDGE #333333                               PEARLESCENT
 0                              // LEGOID 189 - Reddish Gold
 0 !COLOUR Reddish_Gold                                          CODE 189   VALUE #AC8247   EDGE #333333                               PEARLESCENT
+0                              // LEGOID 200 - Lemon Metallic
+0 !COLOUR Lemon_Metallic                                        CODE 200   VALUE #708224   EDGE #333333                               PEARLESCENT
 0                              // LEGOID 297 - Warm Gold
 0 !COLOUR Pearl_Gold                                            CODE 297   VALUE #AA7F2E   EDGE #333333                               PEARLESCENT
 
@@ -303,6 +304,8 @@
 0 // LDraw Metallic Paint Colours
 0                              // LEGOID 298 / 336 - Cool Silver Drum Lacq / Silver Ink
 0 !COLOUR Metallic_Silver                                       CODE  80   VALUE #767676   EDGE #333333                               METAL
+0                              // BricksetID 910 - Metallic Green
+0 !COLOUR Metallic_Green                                        CODE  81   VALUE #C2C06F   EDGE #333333                               METAL
 0                              // LEGOID 299 / 335 - Warm Gold Drum Lacq / Gold Ink
 0 !COLOUR Metallic_Gold                                         CODE  82   VALUE #DBAC34   EDGE #333333                               METAL
 0                              // LEGOID 337 - Titanium
@@ -310,8 +313,10 @@
 0                              // LEGOID 300 / 334 - Copper Drum Lacq / Copper Ink
 0 !COLOUR Metallic_Copper                                       CODE 300   VALUE #C27F53   EDGE #333333                               METAL
 0 !COLOUR Metallic_Light_Blue                                   CODE 10045 VALUE #97CBD9   EDGE #333333                               METAL
+0                              // BricksetID 911 - Metallic Pink
 0 !COLOUR Metallic_Pink                                         CODE 10046 VALUE #AD659A   EDGE #333333                               METAL
 0 !COLOUR Metallic_Light_Pink                                   CODE 10049 VALUE #FECCCF   EDGE #333333                               METAL
+
 
 0 // LDraw Milky Colours
 0                              // LEGOID  20 - Nature
@@ -356,11 +361,11 @@
 
 
 0 // LDraw Speckle Colours
+0 !COLOUR Speckle_Black_Copper                                  CODE  75   VALUE #000000   EDGE #AB6038                               MATERIAL SPECKLE VALUE #AB6038 FRACTION 0.4 MINSIZE 1 MAXSIZE 3
+0 !COLOUR Speckle_Dark_Bluish_Grey_Silver                       CODE  76   VALUE #635F61   EDGE #898788                               MATERIAL SPECKLE VALUE #898788 FRACTION 0.4 MINSIZE 1 MAXSIZE 3
 0                              // LEGOID 132 - Black Glitter
 0 !COLOUR Speckle_Black_Silver                                  CODE 132   VALUE #000000   EDGE #898788                               MATERIAL SPECKLE VALUE #898788 FRACTION 0.4 MINSIZE 1 MAXSIZE 3
 0 !COLOUR Speckle_Black_Gold                                    CODE 133   VALUE #000000   EDGE #DBAC34                               MATERIAL SPECKLE VALUE #DBAC34 FRACTION 0.4 MINSIZE 1 MAXSIZE 3
-0 !COLOUR Speckle_Black_Copper                                  CODE  75   VALUE #000000   EDGE #AB6038                               MATERIAL SPECKLE VALUE #AB6038 FRACTION 0.4 MINSIZE 1 MAXSIZE 3
-0 !COLOUR Speckle_Dark_Bluish_Grey_Silver                       CODE  76   VALUE #635F61   EDGE #898788                               MATERIAL SPECKLE VALUE #898788 FRACTION 0.4 MINSIZE 1 MAXSIZE 3
 
 
 0 // LDraw Rubber Colours
@@ -383,6 +388,7 @@
 0 !COLOUR Rubber_Lavender                                       CODE 10031 VALUE #CDA4DE   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Reddish_Brown                                  CODE 10070 VALUE #5F3109   EDGE #808080                               RUBBER
 0 !COLOUR Rubber_Medium_Blue                                    CODE 10073 VALUE #7396C8   EDGE #333333                               RUBBER
+0 !COLOUR Rubber_Light_Nougat                                   CODE 10078 VALUE #FFC995   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Bright_Light_Yellow                            CODE 10226 VALUE #FFEC6C   EDGE #333333                               RUBBER
 0 !COLOUR Rubber_Dark_Brown                                     CODE 10308 VALUE #352100   EDGE #808080                               RUBBER
 0 !COLOUR Rubber_Dark_Red                                       CODE 10320 VALUE #720012   EDGE #333333                               RUBBER

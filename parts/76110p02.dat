@@ -1,0 +1,18 @@
+0 Technic Competition Arrow with Rubber Purple Tip
+0 Name: 76110p02.dat
+0 Author: Manfred Schaefer [Lego-Manfred]
+0 !LDRAW_ORG Shortcut UPDATE 2022-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS cyberslam, alpha team, castle
+0 !KEYWORDS Set 8307, Bricklink 32133ac02
+
+0 !HISTORY 2022-02-06 [Lego-Manfred] Modifikation of 76110.dat, color of rubber Tip changed
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
+1 16 0 0 0 0 1 0 1 0 0 0 0 -1 32133.dat
+1 16 0 0 -65 0 1 0 1 0 0 0 0 -1 32080.dat
+1 449 0 0 -61 0 1 0 1 0 0 0 0 -1 32134.dat
+

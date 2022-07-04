@@ -1,0 +1,16 @@
+0 =Minifig Sword Greatsword
+0 Name: 99232.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part Alias UPDATE 2022-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS weapon, edge, blade, sword, claymore, two-handed sword
+0 !KEYWORDS broadsword, silver, chrome, treasure, Castle, Harry Potter, Kingdoms
+0 !KEYWORDS Set 4842, Set 7188
+
+0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 59.dat
