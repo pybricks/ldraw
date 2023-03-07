@@ -2,13 +2,14 @@
 0 Name: 93273pz3.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 93273pb076, Brickheadz, Set 41487, Lloyd
+0 !KEYWORDS Brickheadz, Bricklink 93273pb076, Lloyd, Set 41487
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93273s01.dat
 1 16 -10 24.9719 0 0 20 0 -28.9719 0 -28.9719 40 0 -40 48\1-12cyli.dat

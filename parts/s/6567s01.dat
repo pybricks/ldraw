@@ -2,13 +2,14 @@
 0 Name: s\6567s01.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2006-01-08 [DeannaEarley] Tidied, BFC'd and corrected position to match 4176
 0 !HISTORY 2006-06-25 [DeannaEarley] Fixed some miscoloured items and conditional lines on the rounded edges
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 0 // Left pane
 

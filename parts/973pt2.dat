@@ -2,19 +2,20 @@
 0 Name: 973pt2.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS oil, petrol, gasoline, kerosene, fuel, naphtha 
-0 !KEYWORDS set 6597, set 10159, set 6397, set 6472
-0 !KEYWORDS Bricklink 973px130, Rebrickable 973c27h01pr0130, Brickowl 959423
+0 !KEYWORDS Bricklink 973px130, Brickowl 959423, Fuel, gasoline, kerosene
+0 !KEYWORDS naphtha, oil, petrol, Rebrickable 973c27h01pr0130, set 10159
+0 !KEYWORDS Set 6397, Set 6472, set 6597
 
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2021-11-30 [MagFors] Removed emphasis lines, used logo primitives
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 // Plain back

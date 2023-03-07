@@ -2,11 +2,12 @@
 0 Name: 48\1-6rin16.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG 48_Primitive UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 4 16 17 0 0 16.8538 0 2.2185 15.8624 0 2.088 16 0 0
 4 16 16.8538 0 2.2185 16.4203 0 4.3996 15.4544 0 4.1408 15.8624 0 2.088

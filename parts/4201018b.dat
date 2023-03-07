@@ -2,13 +2,14 @@
 0 Name: 4201018b.dat
 0 Author: Tim Lampmann [L4mpi]
 0 !LDRAW_ORG Part UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Train, Grand Central Station, Set 4513
+0 !KEYWORDS Grand Central Station, Set 4513, Train
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 16 0 -0.25 0 59 0 0 0 0.25 0 0 0 20 box5-12.dat
 

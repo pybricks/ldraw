@@ -2,11 +2,12 @@
 0 Name: s\t1053s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 4 16 -3.783 0 -3.122265 -4.922265 0 -1.983 -5.034 0 -2.4 -4.922265 0 -2.817
 4 16 -3.783 0 -3.122265 -4.922265 0 -2.817 -4.617 0 -3.122265 -4.2 0 -3.234

@@ -2,13 +2,14 @@
 0 Name: 3039ph2.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Harry Potter, Knight Bus
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 4 0 -16.408 1.56129 -11.56129 -16.683 1.99192 -11.99192 -16.208 2.09799 -12.09799 -15.875 1.70271 -11.70271

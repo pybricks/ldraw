@@ -2,12 +2,13 @@
 0 Name: 4506c01.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Shortcut UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Castle, Forestmen, Dark Forest, Robin Hood, Merry Men, Sherwood Forest
-0 !KEYWORDS hat, goose feather, red feather, archer, huntsman, woodsman
+0 !KEYWORDS archer, Castle, Dark Forest, forestmen, goose feather, hat, huntsman
+0 !KEYWORDS Merry Men, red feather, Robin Hood, Sherwood Forest, woodsman
 
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-07-22 [PTadmin] Header formatted for Contributor Agreement
@@ -16,6 +17,7 @@
 0 !HISTORY 2012-01-05 [cwdee] Updated reference to Moved to file
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
-1 16   0  0 0 1 0 0 0 1 0 0 0 1 4506.dat
-1  4 -12 -4 5 1 0 0 0 1 0 0 0 1 87693.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4506.dat
+1 4 -12 -4 5 1 0 0 0 1 0 0 0 1 87693.dat
 

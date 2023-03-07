@@ -2,13 +2,14 @@
 0 Name: 48\1-16con20.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG 48_Primitive UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-04-05 [MagFors] Recreated with tangential cond-lines
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 4 16 20 1 0 19.828 1 2.61 20.8194 0 2.7405 21 0 0
 4 16 19.828 1 2.61 19.318 1 5.176 20.2839 0 5.4348 20.8194 0 2.7405

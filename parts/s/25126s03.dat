@@ -2,7 +2,7 @@
 0 Name: s\25126s03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,5 +11,6 @@
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 0 !HISTORY 2022-05-08 [OrionP] Obsolete due to bad numbering, use 25128s03
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 empty.dat

@@ -2,11 +2,12 @@
 0 Name: u9521.dat
 0 Author: [PTadmin]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
 
-0 // ~Spinner Ninjago  6 x  6 x  1.333 Type 1 Cam Follower
+
+0 // ~Spinner Ninjago 6 x 6 x 1.333 Type 1 Cam Follower
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 92550.dat

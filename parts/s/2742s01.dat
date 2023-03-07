@@ -2,13 +2,14 @@
 0 Name: s\2742s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
 0 !HISTORY 2021-03-17 [cwdee] Update description
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 4 16 5.616 -7.7272 -14 8.666 -13.01 -14 6.866 -9.8923 -50 5.616 -7.7272 -50
 4 16 3.884 -8.7272 -50 5.134 -10.8923 -50 6.934 -14.01 -14 3.884 -8.7272 -14

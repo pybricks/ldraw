@@ -2,11 +2,11 @@
 0 Name: 519c01.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS aquazone, aquanauts, hydronauts
+0 !KEYWORDS Aquanauts, Aquazone, Hydronauts
 
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
@@ -14,6 +14,7 @@
 0 !HISTORY 2010-06-17 [Steffen] fixed BFC error
 0 !HISTORY 2012-01-18 [PTadmin] Renamed from 519o
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 0 0 0 5 0 0 0 5 0.562 0 0 5 t04q0625.dat
 1 16 0 0.562 0 0 0 -5 0 5 0.562 5 0 0 t04q0625.dat

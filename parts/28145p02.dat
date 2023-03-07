@@ -2,15 +2,16 @@
 0 Name: 28145p02.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Bricklink 28149pb02, set 70912, set 70902, set 70905
-0 !KEYWORDS Dick Grayson, Robin, set 70916, set 70922, set 70917
+0 !KEYWORDS Bricklink 28149pb02, Dick Grayson, Robin, Set 70902, set 70905
+0 !KEYWORDS Set 70912, set 70916, set 70917, Set 70922
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\28145s01.dat
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\28145s02.dat

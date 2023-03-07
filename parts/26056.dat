@@ -2,16 +2,16 @@
 0 Name: 26056.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Head No. 2001, Dimensions
-0 !KEYWORDS Bricklink 27455
+0 !KEYWORDS Bricklink 27455, Dimensions, Head No. 2001
 
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2019-10-06 [GeraldLasser] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\26056s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\26056s01.dat
@@ -38,7 +38,6 @@
 3 16 4.232 -2.186 -14.479 0 -1.884 -15.072 4.058 -.02 -11.634
 3 16 0 -.12 -11.617 4.058 -.02 -11.634 0 -1.884 -15.072
 3 16 7.447 -.068 -11.262 9.768 -2.404 -12.628 6.422 -2.347 -13.855
-
 
 0 // Head Top
 3 16 0 -22.748 -12.984 0 -25.592 -8.64 -5.998 -25.521 -8.541

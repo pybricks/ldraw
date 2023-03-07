@@ -2,7 +2,7 @@
 0 Name: 92250p01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Hips Rotation point: Y=-47.4, Z=2.7
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 0 !HISTORY 2020-05-10 [cwdee] Update colour name in description
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\92250s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\92250s01.dat

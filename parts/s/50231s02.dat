@@ -2,13 +2,14 @@
 0 Name: s\50231s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-04 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-12-04 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 5 24 20.93 1.33 10.91 24.2 -0.3 -0.32 27.85 1.76 3.43 17.54 -0.3 7.03
 5 24 -24.2 -0.6 -0.32 -17.54 -0.6 7.03 -27.85 1.76 3.43 -5.14 -0.6 3.95

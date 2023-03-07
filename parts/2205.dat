@@ -2,13 +2,14 @@
 0 Name: 2205.dat
 0 Author: Tim Lampmann [L4mpi]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Door
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 77.5 18 2.5 -4 0 0 0 0 -4 0 -1 0 1-4ndis.dat
 1 16 5.5 8 2.5 -8 0 0 0 0 -8 0 -1 0 1-4chrd.dat

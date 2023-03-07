@@ -2,11 +2,12 @@
 0 Name: s\t1046s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 4 15 11.932 0 -22.446 11.9 0 -23.41 16.206 0 -23.208 16.103 0 -22.256
 4 15 13.335 0 -25.062 13.982 0 -25.19 14.768 0 -25.036 12.726 0 -24.746

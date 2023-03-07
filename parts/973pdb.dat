@@ -2,12 +2,12 @@
 0 Name: 973pdb.dat
 0 Author: Larry Pieniazek [lar]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS Studio, Victorian, horror, dapper, gentleman, hero, vest, watchfob
-0 !KEYWORDS gold chain, gold watch
+0 !KEYWORDS dapper, gentleman, gold chain, gold watch, hero, horror, Studio
+0 !KEYWORDS vest, Victorian, watchfob
 
 0 !CMDLINE -c487
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2013-11-25 [mikeheide] corrected wrong BFC quad, deleted double words from keywords
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 

@@ -2,11 +2,12 @@
 0 Name: s\30087s01.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 40 -8 57 0 0 16 -16 0 0 0 -14 0 1-8cyli.dat
 1 16 40 -8 43 16 0 0 0 0 -16 0 1 0 1-8edge.dat

@@ -2,7 +2,7 @@
 0 Name: 30601.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,12 +10,13 @@
 0 !HISTORY 2008-06-21 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
+
 0 // Created with stl2dat conversion tool
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30601s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30601s01.dat
-1 16 0 0 0 1 0 0 0 -6 0 0 0 1 STUD4A.dat
-1 16 0 0 0 0 0 1 0 2.75 0 -1 0 0 STUD4s.dat
+1 16 0 0 0 1 0 0 0 -6 0 0 0 1 stud4a.dat
+1 16 0 0 0 0 0 1 0 2.75 0 -1 0 0 stud4s.dat
 0 // Top surface
 4 16 -25.6 0.09 -20 -25.6 -16.05 20 -33.59 -7.89 20 -33.59 8.24 -20
 4 16 -18.842 -9.42 20 -18.842 6.71 -20 -12.076 -0.19 -20 -12.076 -16.32 20

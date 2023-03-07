@@ -2,15 +2,16 @@
 0 Name: 23323.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2007-10-26 [mikeheide] BFC'ed
-0 !HISTORY 2019-06-01 [Steffen]   BFCed some more
-0 !HISTORY 2019-08-14 [cwdee]     Fixed BFC and bowtie issues; added missing undersides to side brackets; tidied up overlaps with subpart
+0 !HISTORY 2019-06-01 [Steffen] BFCed some more
+0 !HISTORY 2019-08-14 [cwdee] Fixed BFC and bowtie issues; added missing undersides to side brackets; tidied up overlaps with subpart
 0 !HISTORY 2022-02-17 [Holly-Wood] Primitive substitution, closed gaps, added conds and edges, eliminated T-Junk, changed stud orientation
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 0 // Studs
 1 16 0 -80 -50 0 0 1 0 1 0 -1 0 0 stug2-4x1.dat

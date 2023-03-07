@@ -2,15 +2,16 @@
 0 Name: 4066bp16.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Circus, Birthday, Bucket, bricklink 4066pb028
-0 !KEYWORDS Set 2386, Set 2311, Set 2444, Set 2362, Set 2364, Set 2221, Set 2321
+0 !KEYWORDS Birthday, bricklink 4066pb028, Bucket, Circus, Set 2221, Set 2311
+0 !KEYWORDS Set 2321, Set 2362, Set 2364, Set 2386, Set 2444
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 4 0 -28 33 -20 -27.85 30.78 -20 -29.84 30.52 -20 -30 33 -20

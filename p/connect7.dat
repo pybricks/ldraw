@@ -2,7 +2,7 @@
 0 Name: connect7.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Primitive UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Frictionless despite tiny base ribs
 0 !HELP Reduced play compared to connect.dat
@@ -12,6 +12,7 @@
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 0 !HISTORY 2021-03-15 [Philo] Used 8\ primitives in slit
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 -11.5 0 6 0 0 0 9.5 0 0 0 6 4-4cyli.dat
 1 16 0 -2 0 8 0 0 0 1 0 0 0 8 4-4edge.dat

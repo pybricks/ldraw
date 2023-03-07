@@ -2,16 +2,16 @@
 0 Name: u595p01c05.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Shortcut Physical_Colour UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 3604
-0 !KEYWORDS Mark Affe, Mark Monkey, Achille, Marquitos el Mono
+0 !KEYWORDS Achille, Mark Affe, Mark Monkey, Marquitos el Mono, Set 3604
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 0 !HISTORY 2019-05-24 [Steffen] changed head color to new official color 508
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 508 0 -67 4 1 0 0 0 1 0 0 0 1 u595p01c01.dat
 1 1 0 -37 4 1 0 0 0 1 0 0 0 1 u9102.dat

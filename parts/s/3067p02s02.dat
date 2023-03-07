@@ -2,13 +2,14 @@
 0 Name: s\3067p02s02.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2019-04-29 [fwcain]  Split code from main file into sub-files
+0 !HISTORY 2019-04-29 [fwcain] Split code from main file into sub-files
 0 !HISTORY 2020-10-28 [MMR1988] Fixed t-junctions, turned to CCW
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 -8.8 12.1 -10 6.75 0 0 0 0 -6.5 0 1 0 4-4ndis.dat
 1 16 -8.8 12.1 -10 5.4 0 0 0 0 -5.2 0 1 0 4-4disc.dat

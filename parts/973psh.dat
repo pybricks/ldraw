@@ -2,21 +2,23 @@
 0 Name: 973psh.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, Original Trilogy, Episode V, Episode Five
-0 !KEYWORDS The Empire Strikes Back, Hoth, ice planet, Rebel Alliance, Snowspeeder
-0 !KEYWORDS trooper, soldier, parka, vest, scarf, military uniform, winter clothing
+0 !KEYWORDS Episode Five, Episode V, Hoth, ice planet, military uniform
+0 !KEYWORDS Original Trilogy, parka, Rebel Alliance, scarf, Snowspeeder, soldier
+0 !KEYWORDS Star Wars, The Empire Strikes Back, trooper, vest, winter clothing
+
 0 !CMDLINE -c487
 
-0 !HISTORY 2004-04-10 [fwcain] Plugged gap near neckline; added more Keywords...  
-0 !HISTORY 2005-01-10 [fwcain] Inlined "dithered color" DAT code...  
+0 !HISTORY 2004-04-10 [fwcain] Plugged gap near neckline; added more Keywords...
+0 !HISTORY 2005-01-10 [fwcain] Inlined "dithered color" DAT code...
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 0 !HISTORY 2012-04-08 [BlackBrick89] Colour cleanup
 0 !HISTORY 2012-04-18 [TK-949] Complete Rewrite
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10

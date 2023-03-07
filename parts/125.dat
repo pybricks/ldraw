@@ -2,17 +2,18 @@
 0 Name: 125.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Angle to rotate to base Z-axes 1,63325 degree at point (-151/80/0)
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-10 [mikeheide] fixed warped quads.
-0 !HISTORY 2013-12-01 [MagFors]   Added more cond-lines, reworked some quads
+0 !HISTORY 2013-12-01 [MagFors] Added more cond-lines, reworked some quads
 0 !HISTORY 2014-08-18 [mikeheide] inlined subpart
-0 !HISTORY 2014-08-19 [MagFors]   simplified design of the inlined subpart
+0 !HISTORY 2014-08-19 [MagFors] simplified design of the inlined subpart
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 4 16 -52 70 173 -62 70 163 62 70 163 52 70 173
 1 16 52 70 163 10 0 0 0 1 0 0 0 10 1-4chrd.dat

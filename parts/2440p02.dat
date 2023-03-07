@@ -2,12 +2,14 @@
 0 Name: 2440p02.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS blade, spoiler, panel, Set 6591, Set 6551, Bricklink 2440pb006
+
+0 !KEYWORDS Blade, Bricklink 2440pb006, Panel, Set 6551, Set 6591, spoiler
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2440s01.dat
 4 16 -5.89 -3 -6.04 -6.37 -3 -7.32 -0.03 -3 -4.91 -5.2 -3 -4.82

@@ -2,13 +2,14 @@
 0 Name: 973p9f.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 973pb3165, Set 60202, 2-sided
+0 !KEYWORDS 2-sided, Bricklink 973pb3165, Set 60202
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 // Neck mark
@@ -329,7 +330,6 @@
 4 16 15.17 25.05 -10 10.92 19.22 -10 9.97 19.66 -10 15.3 26.05 -10
 4 5 15.43 20.65 -10 15.17 22.51 -10 18.73 31.01 -10 15.68 19.41 -10
 4 5 15.68 19.41 -10 18.73 31.01 -10 16.25 17.61 -10 16.13 17.36 -10
-
 
 3 16 19 32 10 -19 32 10 18.23 31.32 10
 4 16 -18.29 31.01 10 -18.36 31.32 10 -19 32 10 -19 29 10

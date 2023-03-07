@@ -2,7 +2,7 @@
 0 Name: box4t.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Primitive UPDATE 2003-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
 0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 2 24 1 1 1 -1 1 1
 2 24 -1 1 1 -1 1 -1
@@ -24,9 +25,9 @@
 2 24 -1 0 1 -1 1 1
 2 24 1 0 -1 1 1 -1
 2 24 -1 0 -1 -1 1 -1
-4 16  1 1  1  1 1 -1 -1 1 -1 -1 1  1
-4 16  1 1  1 -1 1  1 -1 0  1  1 0  1
-4 16 -1 1  1 -1 1 -1 -1 0 -1 -1 0  1
-0 4 16 -1 1 -1 -1 0 -1  1 0 -1  1 1 -1
-4 16  1 1 -1  1 1  1  1 0  1  1 0 -1
+4 16 1 1 1 1 1 -1 -1 1 -1 -1 1 1
+4 16 1 1 1 -1 1 1 -1 0 1 1 0 1
+4 16 -1 1 1 -1 1 -1 -1 0 -1 -1 0 1
+0 4 16 -1 1 -1 -1 0 -1 1 0 -1 1 1 -1
+4 16 1 1 -1 1 1 1 1 0 1 1 0 -1
 0

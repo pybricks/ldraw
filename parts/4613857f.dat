@@ -2,7 +2,7 @@
 0 Name: 4613857f.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP place at 0 60 -10 1 0 0 0 0 -1 0 1 0 on 2454.dat
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 0 !HISTORY 2016-03-01 [Wesley] fixed wrong dimension in title
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 -0.25 0 18 0 0 0 0.25 0 0 0 58 box5-12.dat
 4 72 -1.19 -0.25 44.02 -1.04 -0.25 44.02 -1.05 -0.25 44.2 -1.25 -0.25 44.35

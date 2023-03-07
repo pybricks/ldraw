@@ -2,11 +2,12 @@
 0 Name: s\15525p01s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 5 24 1.7992 -25.7792 -11.2923 0 -27.1604 -11.4292 0 -25.108 -11.4496 1.9803 -27.4265 -11.3971
 5 24 1.9803 -27.4265 -11.3971 0 -27.1604 -11.4292 1.7992 -25.7792 -11.2923 1.7036 -29.2814 -11.8465

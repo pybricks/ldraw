@@ -2,13 +2,14 @@
 0 Name: s\4209p70a.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2011-06-19 [Steffen]   factored out standalone pattern without border to 4209p70a.dat
-0 !HISTORY 2012-09-08 [MagFors]   removed some vertices
+0 !HISTORY 2011-06-19 [Steffen] factored out standalone pattern without border to 4209p70a.dat
+0 !HISTORY 2012-09-08 [MagFors] removed some vertices
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 4 4 -1.75 -4.75 0 -4.25 -7.75 0 -7 -9 0 -2.5 -2.25 0
 4 4 -2.5 -0.25 0 -2.5 -2.25 0 -7 -9 0 -6.5 -6.75 0

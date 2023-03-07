@@ -2,14 +2,16 @@
 0 Name: 3626bp8l.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3626bpx288, Set 10210, Set 5770, Set 10219, Set 10216, Set 4434
+0 !KEYWORDS Bricklink 3626bpx288, set 10210, Set 10216, Set 10219, Set 4434
+0 !KEYWORDS Set 5770
 
 0 !HISTORY 2021-10-29 [Holly-Wood] Streamlined pattern
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs04.dat
@@ -21,7 +23,7 @@
 1 16 0 4 0 -12.01043 0 -4.97488 0 13 0 -4.97488 0 12.01043 1-16cyli.dat
 1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 -8 t16o6250.dat
 1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t16o6250.dat
- 
+
 1 16 0 4 0 -5.65685 0 5.65685 0 -6.4 0 -5.65685 0 -5.65685 t04o6250.dat
 
 4 16 -9.192 4 -9.192 -10.5412 4 -7.1736 -10.05 14.45 -7.9086 -9.1922 16.1539 -9.1921

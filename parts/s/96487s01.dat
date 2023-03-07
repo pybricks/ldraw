@@ -2,11 +2,12 @@
 0 Name: s\96487s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 16 -2.1152 -1.1 -9.2437 -5.1169 -1.1 -7.9177 -3.5293 -1.1 -4.8582 -1.54 -1.1 -5.556
 3 16 -5.1169 -1.1 -7.9177 -4.6097 -1.1 -6.6651 -3.5293 -1.1 -4.8582

@@ -2,11 +2,12 @@
 0 Name: s\51011s01.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 2 24 1.9174 -21.916 0 1.8303 -20.9198 0
 2 24 -1.9174 -21.916 0 -1.8303 -20.9198 0

@@ -2,14 +2,15 @@
 0 Name: 4162p0e.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Architecture, Set 21016, Namdaemun, Seoul, Korea
-0 !KEYWORDS Architect, Unknown, City Gateway
+0 !KEYWORDS Architect, Architecture, City Gateway, Korea, Namdaemun, Seoul
+0 !KEYWORDS Set 21016, unknown
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Text produced by txt2dat, using "Arial" font
 0 // Scaled and Positioned with MLCad

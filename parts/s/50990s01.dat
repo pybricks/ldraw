@@ -2,14 +2,15 @@
 0 Name: s\50990s01.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Subpart UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2010-08-05 [Philo]   Modified for proper surface curvature
+0 !HISTORY 2010-08-05 [Philo] Modified for proper surface curvature
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 0 !HISTORY 2015-11-14 [MagFors] Removed studs
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\50990s02.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\50990s02.dat
@@ -30,7 +31,7 @@
 0 BFC INVERTNEXT
 1 16 0 20 0 97 0 0 0 4 0 0 0 97 48\4-4cyli.dat
 1 16 0 19 0 100 0 0 0 1 0 0 0 100 48\4-4edge.dat
-1 16 0 2.525 0 -1 0 0 0 -1.36875 0 0 0 1 STUD4A.dat
+1 16 0 2.525 0 -1 0 0 0 -1.36875 0 0 0 1 stud4a.dat
 0 BFC INVERTNEXT
 1 16 0 0 0 6 0 0 0 2.525 0 0 0 6 4-4cyli.dat
 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat

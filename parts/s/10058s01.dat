@@ -2,7 +2,7 @@
 0 Name: s\10058s01.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2014-01-12 [Wesley] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-01-13 [Wesley] added hand clip geometry based on part 3820
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 4 0 0 0 4 0 -2.828 0 2.828 -2.828 0 -2.828 2-4edge.dat
 0 BFC INVERTNEXT

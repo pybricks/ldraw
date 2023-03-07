@@ -2,7 +2,7 @@
 0 Name: 2417.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -18,13 +18,14 @@
 0 !HISTORY 2008-07-09 [WilliamH] Reworked joints between cylis and quads at leaf studs (2006-08-07)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
-1 16 40 3 40 1 0 0 0 -1.25 0 0 0 1 STUD4A.dat
-1 16 -40 3 40 1 0 0 0 -1.25 0 0 0 1 STUD4A.dat
-1 16 40 3 0 1 0 0 0 -1.25 0 0 0 1 STUD4A.dat
+
+1 16 40 3 40 1 0 0 0 -1.25 0 0 0 1 stud4a.dat
+1 16 -40 3 40 1 0 0 0 -1.25 0 0 0 1 stud4a.dat
+1 16 40 3 0 1 0 0 0 -1.25 0 0 0 1 stud4a.dat
 1 16 0 3 0 1 0 0 0 -1.25 0 0 0 1 stud4.dat
 1 16 0 3 0 8 0 0 0 -1 0 0 0 8 4-4ndis.dat
-1 16 -40 3 0 1 0 0 0 -1.25 0 0 0 1 STUD4A.dat
-1 16 0 3 -60 1 0 0 0 -1.25 0 0 0 1 STUD4A.dat
+1 16 -40 3 0 1 0 0 0 -1.25 0 0 0 1 stud4a.dat
+1 16 0 3 -60 1 0 0 0 -1.25 0 0 0 1 stud4a.dat
 2 24 34.4 3 34.4 32.64 3 36.96
 2 24 32.64 3 36.96 32.4 3 38
 2 24 32.4 3 38 24 3 29.6

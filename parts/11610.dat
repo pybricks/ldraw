@@ -2,7 +2,7 @@
 0 Name: 11610.dat
 0 Author: Owen Burgoyne [C3POwen]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Centre of shaft at +Y 26
 0 !HELP Central hole narrows at +Y 14.5
@@ -12,6 +12,7 @@
 0 !KEYWORDS Friends, ice cream cone
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 32.5 0 4 0 0 0 -13 0 0 0 -4 4-4cylc.dat
 1 16 0 19.5 0 1 0 0 0 -1 0 0 0 -1 4-4ring4.dat

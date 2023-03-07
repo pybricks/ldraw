@@ -2,11 +2,12 @@
 0 Name: s\004452cs02.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 3 16 19 -.25 11 -19 -.25 11 .36 -.25 9.52
 3 16 -19 -.25 11 -1.6 -.25 9.33 .36 -.25 9.52

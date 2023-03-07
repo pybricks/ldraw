@@ -2,11 +2,12 @@
 0 Name: 2345p05.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2345s01.dat
 2 24 -10 24 -30 -10 120 -30
@@ -243,7 +244,6 @@
 4 16 -11.9 108 -30 -10.49 88.9 -30 -11.25 88.35 -30 -11.9 87.9068 -30
 4 2 -10 77.8979 -30 -11.16 76.87 -30 -10.46 79.45 -30 -10 79.8478 -30
 3 2 -10 84.4 -30 -10.83 84.65 -30 -10 85.2049 -30
-
 
 0 // Right Facing Pattern
 4 0 30 75.6257 16.3035 30 73.9295 12.6659 30 75.1043 12.819 30 76.2628 15.3035

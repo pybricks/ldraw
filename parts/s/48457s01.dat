@@ -2,11 +2,12 @@
 0 Name: s\48457s01.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 2 24 0 -42.34 -0.8486 0 -42.25 0
 2 24 0 -42.61 -1.659 0 -42.34 -0.8486
@@ -28,8 +29,8 @@
 2 24 0 -42.1 -5.161 0 -43.47 -6.014
 2 24 0 -40.97 -4 0 -42.1 -5.161
 2 24 0 -40.97 -4 0 -40 -4
-2 24 0 -40 -4  3.75 -40 -4
-2 24 0 -40.97 -4  3.75 -40.97 -4
+2 24 0 -40 -4 3.75 -40 -4
+2 24 0 -40.97 -4 3.75 -40.97 -4
 2 24 0 -48.11 -3.375 3.75 -48.11 -3.375
 2 24 3.75 -51.95 -3.375 0 -51.95 -3.375
 

@@ -2,11 +2,12 @@
 0 Name: s\3626bp20s01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 0 -2.3 11.4 -12.5426 -2.1 10.7 -12.5824 -2.3 10 -12.5426 -4.6 9.2 -12.0851
 3 0 -4.9752 8.1694 -12.0105 -4.9752 8.9082 -12.0105 -4.6 9.2 -12.0851

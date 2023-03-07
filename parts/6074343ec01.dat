@@ -2,12 +2,15 @@
 0 Name: 6074343ec01.dat
 0 Author: Christophe Mitillo [Christophe_Mitillo]
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Set 70816, Spaceship 
+
+0 !KEYWORDS Set 70816, Spaceship
+
 0 !HISTORY 2015-11-07 [MagFors] Changed description, cond-lines
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 0 // Top
 

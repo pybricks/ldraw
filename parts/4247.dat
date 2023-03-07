@@ -2,14 +2,16 @@
 0 Name: 4247.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
 0 !CATEGORY Door
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2020-11-20 [cwdee] Obsoleted due to bad geometry
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 2 24 -125 130 2.5 -9 130 2.5
 4 16 -125 130 -2.5 -9 130 -2.5 -9 130 2.5 -125 130 2.5

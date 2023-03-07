@@ -2,7 +2,7 @@
 0 Name: 2546.dat
 0 Author: Dennis Osborn
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,11 +10,12 @@
 0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2010-05-17 [mikeheide] corrected non coplanar quads.
-0 !HISTORY 2012-01-07 [Philo]   BFCed with Windz, closed gaps, some shape improvements, split in half
+0 !HISTORY 2012-01-07 [Philo] BFCed with Windz, closed gaps, some shape improvements, split in half
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
-0 !HISTORY 2014-01-21 [cwdee]   Description change
+0 !HISTORY 2014-01-21 [cwdee] Description change
 0 !HISTORY 2014-04-14 [MagFors] subfiled pattern surface
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2546s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2546s02.dat

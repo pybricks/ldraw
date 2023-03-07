@@ -2,9 +2,10 @@
 0 Name: 6923.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !KEYWORDS Scala
 
 0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
@@ -14,6 +15,7 @@
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 0 !HISTORY 2011-10-31 [cwdee] Description change
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 2 24 188 0 80 -188 0 80
 2 24 188 8 80 -188 8 80

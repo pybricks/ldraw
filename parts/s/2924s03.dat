@@ -2,12 +2,13 @@
 0 Name: s\2924s03.dat
 0 Author: William Howard [WilliamH]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-08-11 [MMR1988] Recreated
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 4 16 60 -88 0 60 -88 8 56.5 -88 8 56 -88 3.7782
 4 16 56 -88 3.7782 56.5 -88 8 56.5 -88 17.5 56 -88 17.5

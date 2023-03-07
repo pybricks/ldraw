@@ -2,12 +2,13 @@
 0 Name: s\3626cp8gs01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-10-30 [Christophe_Mitillo] Pattern author
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 4 0 4.975 12.018 -12.0106 4.975 11.348 -12.0106 4.901 11.371 -12.0253 4.314 12.083 -12.142
 4 0 4.314 12.083 -12.142 4.901 11.371 -12.0253 4.314 11.429 -12.142 4.098 12.157 -12.185

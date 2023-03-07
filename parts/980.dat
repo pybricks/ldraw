@@ -1,8 +1,8 @@
 0 _Minifig Sitting (Complete)
 0 Name: 980.dat
-0 Author: Leonardo Zide
+0 Author: Leonardo Zide [leozide]
 0 !LDRAW_ORG Shortcut UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -16,24 +16,25 @@
 0 !HISTORY 2008-07-07 [peloquin] Manually removed and replaced obsolete items (2003-01-05)
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
+
 0 // legs & hip
 
- 1 1 0 -9 0 1 0 0 0 0 1 0 -1 0 3817.dat
- 1 1 0 -9 0 1 0 0 0 0 1 0 -1 0 3816.dat
- 1 1 0 -21 0 1 0 0 0 1 0 0 0 1 3815.dat
+1 1 0 -9 0 1 0 0 0 0 1 0 -1 0 3817.dat
+1 1 0 -9 0 1 0 0 0 0 1 0 -1 0 3816.dat
+1 1 0 -21 0 1 0 0 0 1 0 0 0 1 3815.dat
 0 // torso
- 1 4 0 -53 0 1 0 0 0 1 0 0 0 1 973.dat
+1 4 0 -53 0 1 0 0 0 1 0 0 0 1 973.dat
 0 // head
- 1 14 0 -81 0 1 0 0 0 1 0 0 0 1 3626bp01.dat
+1 14 0 -81 0 1 0 0 0 1 0 0 0 1 3626bp01.dat
 0 // hat
- 1 0 0 -81 0 1 0 0 0 1 0 0 0 1 3624.dat
+1 0 0 -81 0 1 0 0 0 1 0 0 0 1 3624.dat
 0 // airtank
- 1 2 0 -55 0 1 0 0 0 1 0 0 0 1 3838.dat
+1 2 0 -55 0 1 0 0 0 1 0 0 0 1 3838.dat
 0 // arms
 1 4 -15.552 -44 0 0.985461 -0.1699 0 0.1699 0.985461 0 0 0 1 3818.dat
 1 4 15.552 -44 0 0.985461 0.1699 0 -0.1699 0.985461 0 0 0 1 3819.dat
 0 // Right Hand
-1 14 -23.552 -27 -10 0.972 0.1449 0.1696 -0.0116 0.7538 -0.6607 -0.2336 0.6409 0.7312 3820.DAT
+1 14 -23.552 -27 -10 0.972 0.1449 0.1696 -0.0116 0.7538 -0.6607 -0.2336 0.6409 0.7312 3820.dat
 0 // Left Hand
-1 14 23.552 -27 -10 0.972 -0.1449 -0.1696 -0.0116 0.7538 -0.6607 0.2336 0.6409 0.7312 3820.DAT
+1 14 23.552 -27 -10 0.972 -0.1449 -0.1696 -0.0116 0.7538 -0.6607 0.2336 0.6409 0.7312 3820.dat
 0

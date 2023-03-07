@@ -2,13 +2,14 @@
 0 Name: s\45106s00.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2011-03-12 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 3 16 2.47 -124.8 21.58 2.49 -123.6 7.28 2.47 -119.4 12.59
 4 16 2.46 -122.1 24.75 2.47 -124.8 21.58 2.47 -119.4 12.59 2.46 -113.6 14.9

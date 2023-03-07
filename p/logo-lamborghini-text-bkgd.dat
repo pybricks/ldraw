@@ -2,12 +2,13 @@
 0 Name: logo-lamborghini-text-bkgd.dat
 0 Author: Jens Brühl [jb70]
 0 !LDRAW_ORG Primitive UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2021-01-27 [jb70] splitted up into subfiles from s\logolambt01.dat by [Sirio]
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 0 // Background
 
@@ -223,7 +224,6 @@
 4 16 -9.8042 0 1.3696 -9.9979 0 1.0756 -11.3366 0 -1.0396 -8.9137 0 1.5907
 4 16 -9.8042 0 1.3696 -8.9137 0 1.5907 -9.4956 0 1.7775 -9.601 0 1.6464
 4 16 -9.2719 0 2.0132 -9.3851 0 1.8992 -9.4956 0 1.7775 -8.9137 0 1.5907
-
 
 4 16 -9.0311 0 2.2137 -9.1537 0 2.1178 -9.2719 0 2.0132 -8.9137 0 1.5907
 4 16 -9.0311 0 2.2137 -8.9137 0 1.5907 -8.8906 0 1.5864 -8.9034 0 2.2995

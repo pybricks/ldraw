@@ -2,11 +2,12 @@
 0 Name: s\u9495c01s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 3 16 -235.4555 246.3011 -0.8511 -235.878 249.3553 -1.7326 -225.5209 261.1007 -3.8929
 4 16 -225.5209 261.1007 -3.8929 -235.878 249.3553 -1.7326 -237.8058 251.5417 -2.5303 -237.9613 263.5634 -5.845

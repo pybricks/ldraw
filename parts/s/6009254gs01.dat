@@ -2,11 +2,12 @@
 0 Name: s\6009254gs01.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // External logo definition
 0 // Approximate subpart s\logoferraris02.dat position to have 4 decimal digits precision for the center
@@ -57,7 +58,7 @@
 3 4 -1.0489 -0.25 -7.5225 5.1452 -0.25 -8.3663 2.9774 -0.25 -7.051
 0 // Red quad
 4 4 2.3969 -0.25 -2.2949 1.7331 -0.25 -2.0183 1.7331 -0.25 -4.9102 2.3969 -0.25 -5.1868
-0 // Black text 
+0 // Black text
 3 0 1.2684 -0.25 -0.2786 1.4675 -0.25 -0.5417 1.3063 -0.25 -0.2944
 4 0 1.3063 -0.25 -0.2944 1.4675 -0.25 -0.5417 1.4675 -0.25 0.0157 1.3063 -0.25 0.0157
 3 0 0.8037 -0.25 -0.6403 0.9648 -0.25 -0.7075 0.8123 -0.25 -0.5945

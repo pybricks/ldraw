@@ -2,11 +2,11 @@
 0 Name: 6064.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS spiky, desert, shrub, spiny, wild west, western, tumbleweed, town
+0 !KEYWORDS desert, shrub, spiky, spiny, town, tumbleweed, western, wild west
 
 0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
 0 !HISTORY 2007-07-12 [PTadmin] Header formatted for Contributor Agreement
@@ -15,6 +15,7 @@
 0 !HISTORY 2016-02-25 [Holly-Wood] BFCed, fixed positions of twigs
 0 !HISTORY 2017-02-15 [MagFors] Added edge lines around the twigs, used low resolution primitives
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 -6 0 16 0 0 0 1 0 0 0 16 4-4edge.dat
 1 16 0 -6 0 20 0 0 0 -2 0 0 0 20 4-4cyli.dat

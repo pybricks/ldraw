@@ -2,7 +2,7 @@
 0 Name: 3009ptc.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2011-06-10 [tchang] Change title
 0 !HISTORY 2019-06-19 [Darats] Rework pattern
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3009s01.dat
 3 15 -43.5 2.25 -10 -29.454 11.938 -10 -29.372 10.665 -10

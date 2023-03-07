@@ -2,11 +2,12 @@
 0 Name: 4349.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS town, megaphone, cone, space gun, blaster, bullhorn
+0 !KEYWORDS Blaster, bullhorn, cone, megaphone, space gun, town
 
 0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
 0 !HISTORY 2001-10-01 [pneaster] used existing primitives to enhance appearance
@@ -17,6 +18,7 @@
 0 !HISTORY 2008-07-08 [mikeheide] added edgelines (2007-11-02)
 0 !HISTORY 2008-07-09 [mikeheide] Corrected title (2008-03-01)
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 1 16 0 0 18 0 0 -1 1 0 0 0 -1 0 stud2.dat
 1 16 0 20 0 4 0 0 0 1 0 0 0 4 4-4edge.dat

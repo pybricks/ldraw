@@ -2,20 +2,21 @@
 0 Name: 98566.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP The lens effect is missing in the hexagons
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Constraction Accessory
-0 !KEYWORDS Hero Factory, Breeze, Rocka
-0 !KEYWORDS Energy cell, fresnel lens, hologram, 3D effect
+0 !KEYWORDS 3D effect, Breeze, Energy cell, fresnel lens, hero factory, hologram
+0 !KEYWORDS Rocka
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2021-06-23 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2021-12-29 [MagFors] Reshaped axlehole
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 -12.5 -85.5125 4.375 0 0 -9.6705 9.6705 0 0 0 -3.875 0 s\98566s01.dat
 1 16 -12.5 -85.5125 -2.375 0 0 9.6705 9.6705 0 0 0 1.875 0 s\98566s01.dat

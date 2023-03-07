@@ -2,11 +2,12 @@
 0 Name: s\47391s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 16 11.0868 0 4.5924 17.2069 -1.6774 4.6107 17.8436 -1.6493 0.0165 12 0 0
 0 BFC INVERTNEXT

@@ -1,13 +1,14 @@
-0 ~Windscreen  6 x  7 x  2.667 without Patternable Surfaces - Half 
+0 ~Windscreen  6 x  7 x  2.667 without Patternable Surfaces - Half
 0 Name: s\92832s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-03-08 [Philo] Interior Cone
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 0 // Bottom
 4 16 44 0 126 40 0 130 60 0 130 56 0 126

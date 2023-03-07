@@ -2,7 +2,7 @@
 0 Name: s\2683s01.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2013-05-05 [MagFors] Modified for BFC compliance
 0 !HISTORY 2013-05-07 [MagFors] Removed t-junctions
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Lower Side
 2 24 0 106.5 34.408 3 106.5 34.277

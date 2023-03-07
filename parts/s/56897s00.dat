@@ -2,11 +2,12 @@
 0 Name: s\56897s00.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 2 24 -5.446 -32.5474 -2.5 0.288 -32.9987 -2.5
 2 24 -5.446 -32.5474 -2.5 -5.446 -32.5474 -13

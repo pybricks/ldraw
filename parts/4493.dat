@@ -2,7 +2,7 @@
 0 Name: 4493.dat
 0 Author: Sascha Broich
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2014-12-11 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2014-12-14 [MagFors] Subfiled for patterns
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4493s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4493s00.dat

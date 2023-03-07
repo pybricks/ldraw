@@ -2,7 +2,7 @@
 0 Name: 4289.dat
 0 Author: Christian M. Angele [cma_1971]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2015-09-15 [Philo] Used stud2a on top (no logo nor inside edge line)
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 2 24 20 8 20 16 8 20
 2 24 -16 8 20 -20 8 20

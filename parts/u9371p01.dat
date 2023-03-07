@@ -2,7 +2,7 @@
 0 Name: u9371p01.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Place at -45 8 -13 relative to frame (u9370)
 
@@ -11,6 +11,7 @@
 0 !KEYWORDS Fabuland
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9371s01.dat
 
@@ -64,7 +65,7 @@
 0 // Front - left mullion
 1 0 29 9 -7 3 0 0 0 0 -3 0 1 0 2-4disc.dat
 4 0 32 9 -7 26 9.5 -7 26 13 -7 32 12 -7
-3 0 26 9 -7 26 9.5 -7 32 9 -7 
+3 0 26 9 -7 26 9.5 -7 32 9 -7
 3 0 26 13 -7 26 9.5 -7 24 13 -7
 3 0 34 12 -7 32 9 -7 32 12 -7
 4 0 26 13 -7 26 15 -7 32 14 -7 32 12 -7

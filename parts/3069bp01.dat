@@ -2,7 +2,7 @@
 0 Name: 3069bp01.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2009-08-14 [anathema] Removed edge-lines from pattern
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 4 1 -14 0 4 -4 0 4 -4 0 3.5 -14 0 3.5

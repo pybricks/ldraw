@@ -2,15 +2,16 @@
 0 Name: 30350bpx2.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 21138, Bricklink 30350bpb060, Minecraft
+0 !KEYWORDS Bricklink 30350bpb060, Minecraft, Set 21138
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
-1 16 0 0 0  1 0 0  0 1 0  0 0 1 s\30350bs01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30350bs01.dat
 
 4 2 -10 0 -12 -10 0 18.5 -14 0 18.5 -14 0 -12
 4 27 -6 0 -12 -6 0 18.5 -10 0 18.5 -10 0 -12

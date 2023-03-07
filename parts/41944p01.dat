@@ -2,14 +2,16 @@
 0 Name: 41944p01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Figure Accessory
-0 !KEYWORDS CMF Disney Series 2, Minnie Mouse, Vintage Minnie, BrickLink 41944pb02
+0 !KEYWORDS BrickLink 41944pb02, CMF Disney Series 2, Minnie Mouse
+0 !KEYWORDS Vintage Minnie
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\41944s01.dat
 

@@ -2,14 +2,14 @@
 0 Name: s\42409s01.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !CATEGORY Belville
 
 0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2010-09-14 [anathema] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 3 16 3.506 -8.606 35.407 3.507 -8.609 39.75 3.075 -7.934 39.75
 3 16 3.078 -7.901 35.407 3.506 -8.606 35.407 3.075 -7.934 39.75

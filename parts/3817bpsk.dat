@@ -2,15 +2,16 @@
 0 Name: 3817bpsk.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 7264, Bricklink 970c00pb0039
+0 !KEYWORDS Bricklink 970c00pb0039, set 7264
 
 0 !HISTORY 2015-10-11 [MagFors] Original design as 3817psk
 0 !HISTORY 2020-06-25 [MagFors] Adapted to corrected geometry
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bs01.dat
 4 16 1.5 20 -4 1.5 20 -10 19.23 20 -10 19.23 20 -4

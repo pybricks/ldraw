@@ -1,8 +1,8 @@
 0 Slope Brick 45  2 x  2 Double Concave / Double Convex
 0 Name: 962.dat
-0 Author: Lutz Uhlmann
+0 Author: Lutz Uhlmann [El-Lutzo]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -13,10 +13,11 @@
 0 !HISTORY 2008-07-08 [guyvivan] Use more primitives and new 1-8cyls.dat (2004-11-03)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
+
 1 16 0 24 0 20 0 0 0 -4 0 0 0 -20 box4o4a.dat
 0 BFC INVERTNEXT
 1 16 0 24 0 16 0 0 0 -4 0 0 0 -16 box4o4a.dat
-1 16 0 12 0 1 0 0 0 -3 0 0 0 1 STUD4A.dat
+1 16 0 12 0 1 0 0 0 -3 0 0 0 1 stud4a.dat
 1 16 0 4 0 -6 0 0 0 1 6 0 0 -6 3-8edge.dat
 1 16 0 4 0 0 0 6 0 1 6 6 0 0 3-8edge.dat
 1 16 0 4 0 -8 0 0 0 1 8 0 0 -8 3-8edge.dat

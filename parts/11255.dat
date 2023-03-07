@@ -2,7 +2,7 @@
 0 Name: 11255.dat
 0 Author: Nils Schmidt [BlackBrick89]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2019-05-26 [BlackBrick89] File preparation for LDraw Parts Tracker
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 0 // Created with Philo at Billund Airport
 
@@ -1470,7 +1471,6 @@
 3 16 -4.0837 .7099 -9.8594 -3.0616 -4 -7.3912 -2.4667 .6388 -10.048
 3 16 2.3659 .5517 -9.9051 0 -4 -8 3.0616 -4 -7.3912
 3 16 0 .8108 -10.8601 -1.0142 .7194 -10.4875 0 -4 -8
-
 
 2 24 -8.3511 5.0562 -9.7543 -8.5388 5.7888 -9.6288
 2 24 -8.2531 4 -9.8197 -8.3511 5.0562 -9.7543

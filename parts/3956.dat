@@ -2,7 +2,7 @@
 0 Name: 3956.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2012-02-07 [cwdee] Minor description change
 0 !HISTORY 2012-03-14 [timgould] Changed to use stud4h.dat
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4h.dat
 0 BFC INVERTNEXT

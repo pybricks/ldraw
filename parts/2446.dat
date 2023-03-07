@@ -2,12 +2,13 @@
 0 Name: 2446.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS motorcycle helmet, police helmet, space helmet, full face, crash helmet
+0 !KEYWORDS crash helmet, full face, motorcycle helmet, police helmet
+0 !KEYWORDS space helmet
 
 0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
 0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
@@ -21,6 +22,7 @@
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 0 !HISTORY 2014-12-02 [Philo] Minor shape improvement, added missing condlines, subparted for patterns
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2446s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2446s02.dat

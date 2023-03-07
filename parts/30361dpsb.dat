@@ -2,14 +2,15 @@
 0 Name: 30361dpsb.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, droid, astromech, minifig
-0 !KEYWORDS Bricklink 30361pb027, set 75051
+0 !KEYWORDS astromech, Bricklink 30361pb027, droid, minifig, set 75051
+0 !KEYWORDS Star Wars
 
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 0 // Body without front face
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30361ds01.dat
@@ -208,7 +209,6 @@
 4 0 9.4 16.3 -17.307 9.5 16.3 -17.24 9.5 4.3 -17.24 9.4 4.3 -17.307
 4 0 10 17.3 -16.907 10.5 17.8 -16.572 10.5 2.8 -16.572 10 3.3 -16.907
 
-
 0 // Center Panel Left
 1 16 4.8 4.3 -19.042 0 0 -.2 -.2 0 0 0 1 -.04 1-4disc.dat
 1 16 4.8 16.3 -19.042 -.2 0 0 0 0 .2 -.04 1 0 1-4disc.dat
@@ -303,7 +303,6 @@
 4 0 -5.3 9.6 -18.943 -5.3 9.8 -18.943 -4.8 9.8 -19.042 -4.8 9.6 -19.042
 4 0 -4.6 10 -19.082 -4.6 16.3 -19.082 -4.4 16.3 -19.122 -4.4 10 -19.122
 4 0 -4.4 10 -19.122 -4.4 16.3 -19.122 -4.3 16.3 -19.142 -4.3 10 -19.142
-
 
 4 71 -6.3 17.3 -18.744 -6.3 9 -18.744 -6.8 8.5 -18.645 -6.8 17.8 -18.645
 4 71 -6.3 17.3 -18.744 -6.8 17.8 -18.645 -3.3 17.8 -19.341 -3.8 17.3 -19.241

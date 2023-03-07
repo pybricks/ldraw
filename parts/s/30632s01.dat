@@ -2,12 +2,13 @@
 0 Name: s\30632s01.dat
 0 Author: Kevin Roach [KROACH]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-01-07 [MagFors] reduced resolution, reoriented
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 -24 -30 0 0 -1 1 0 0 0 -1 0 connhole.dat
 1 16 0 -24 -20 8.31492 0 3.44415 3.44415 0 -8.31492 0 -1 0 1-8edge.dat

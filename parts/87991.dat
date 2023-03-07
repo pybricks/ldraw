@@ -2,17 +2,17 @@
 0 Name: 87991.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Surfer, Skater, Soccer Player
-0 !KEYWORDS Max, Han Solo, Ron Weasley
+0 !KEYWORDS Han Solo, Max, Ron Weasley, Skater, Soccer Player, Surfer
 
 0 !HISTORY 2012-06-11 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2012-06-20 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 3 16 3.762 -5.649 11.72 3.175 -5.76 11.919 2.251 -6.838 10.211
 3 16 2.098 -5.695 12.077 1.286 -6.585 11.023 1.924 -6.773 10.434

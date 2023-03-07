@@ -2,9 +2,10 @@
 0 Name: 3004pt3.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !CMDLINE -c15
 
 0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
@@ -14,9 +15,8 @@
 0 !HISTORY 2008-07-07 [PTadmin] Renamed from 3004p60
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
+
 0 // Shell Logo I
-
-
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
 1 16 0 12 -10 1.02 0 0 0 1.02 0 0 0 1 s\3004s60.dat

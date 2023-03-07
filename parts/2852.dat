@@ -2,12 +2,13 @@
 0 Name: 2852.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2006-09-26 [guyvivan] CA-Rewrite
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 2 24 -3.04 -33.96 4 -4 -34.63 4
 2 24 0 -33.25 4 -3.04 -33.96 4

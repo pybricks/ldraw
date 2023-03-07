@@ -2,12 +2,13 @@
 0 Name: zstud.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Primitive UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2005-06-15 [mikeheide] BFC'ed
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 2 24 -3 0 -4 3 0 -4
 2 24 -3 -3.5 -4 3 -3.5 -4
@@ -21,17 +22,17 @@
 2 24 -4 0 3 -4 0 -3
 2 24 -4 -3.5 3 -4 -3.5 -3
 4 16 -4 0 -3 -4 -3.5 -3 -4 -3.5 3 -4 0 3
-1 16 3 0 3 1 0 0 0 1 0 0 0 1 1-4EDGE.DAT
-1 16 -3 0 3 -1 0 0 0 1 0 0 0 1 1-4EDGE.DAT
-1 16 3 0 -3 1 0 0 0 1 0 0 0 -1 1-4EDGE.DAT
-1 16 -3 0 -3 -1 0 0 0 1 0 0 0 -1 1-4EDGE.DAT
-1 16 3 -3.5 3 1 0 0 0 1 0 0 0 1 1-4EDGE.DAT
+1 16 3 0 3 1 0 0 0 1 0 0 0 1 1-4edge.dat
+1 16 -3 0 3 -1 0 0 0 1 0 0 0 1 1-4edge.dat
+1 16 3 0 -3 1 0 0 0 1 0 0 0 -1 1-4edge.dat
+1 16 -3 0 -3 -1 0 0 0 1 0 0 0 -1 1-4edge.dat
+1 16 3 -3.5 3 1 0 0 0 1 0 0 0 1 1-4edge.dat
 1 16 3 0 3 1 0 0 0 -3.5 0 0 0 1 1-4cyli.dat
-1 16 -3 -3.5 3 -1 0 0 0 1 0 0 0 1 1-4EDGE.DAT
+1 16 -3 -3.5 3 -1 0 0 0 1 0 0 0 1 1-4edge.dat
 1 16 -3 0 3 -1 0 0 0 -3.5 0 0 0 1 1-4cyli.dat
-1 16 3 -3.5 -3 1 0 0 0 1 0 0 0 -1 1-4EDGE.DAT
+1 16 3 -3.5 -3 1 0 0 0 1 0 0 0 -1 1-4edge.dat
 1 16 3 0 -3 1 0 0 0 -3.5 0 0 0 -1 1-4cyli.dat
-1 16 -3 -3.5 -3 -1 0 0 0 1 0 0 0 -1 1-4EDGE.DAT
+1 16 -3 -3.5 -3 -1 0 0 0 1 0 0 0 -1 1-4edge.dat
 1 16 -3 0 -3 -1 0 0 0 -3.5 0 0 0 -1 1-4cyli.dat
 2 24 -3 -3.5 -6 3 -3.5 -6
 2 24 3 -3.5 -6 6 -3.5 -3

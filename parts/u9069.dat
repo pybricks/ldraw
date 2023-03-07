@@ -2,11 +2,12 @@
 0 Name: u9069.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 1 16 -14 0 0 0 28 0 0 0 -8 -8 0 0 4-4cyli.dat
 1 16 -14 0 0 0 1 0 0 0 -8 -8 0 0 4-4edge.dat
@@ -29,10 +30,10 @@
 1 16 -14 0 0 0 -1 0 0 0 -4 4 0 0 4-4ring2.dat
 1 16 20 0 0 0 -1 0 0 0 -4 4 0 0 4-4ring1.dat
 1 16 20 0 0 0 -1 0 0 0 -4 4 0 0 4-4ring2.dat
-1 16 20 0 0 0 -1 0 0 0 -2 2 0 0 4-4RING6.DAT
+1 16 20 0 0 0 -1 0 0 0 -2 2 0 0 4-4ring6.dat
 1 16 -20 0 0 0 1 0 0 0 -4 -4 0 0 4-4ring1.dat
 1 16 -20 0 0 0 1 0 0 0 -4 -4 0 0 4-4ring2.dat
-1 16 -20 0 0 0 1 0 0 0 -2 -2 0 0 4-4RING6.DAT
+1 16 -20 0 0 0 1 0 0 0 -2 -2 0 0 4-4ring6.dat
 1 16 14 -7.802 1 -2 0 0 0 0 -2 0 -1 0 1-4edge.dat
 1 16 14 -7.802 -1 -2 0 0 0 0 -2 0 -1 0 1-4edge.dat
 1 16 14 -7.802 -1 -3 0 0 0 0 -3 0 -1 0 1-4edge.dat

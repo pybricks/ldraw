@@ -2,7 +2,7 @@
 0 Name: 3741a.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Placing Flowers (Rotation center is at 0/0/0):
 0 !HELP place flower underside at x = 0; y = 16.25 / 21.25 / 26.25; z = 0
@@ -14,6 +14,7 @@
 
 0 !HISTORY 2013-02-24 [MMR1988] Rewritten to correct dimension errors of 3741
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 0 0 -0.866 0 -0.5 0 1 0 0.5 0 -0.866 stud.dat
 1 16 0 0 0 -1.2175 0 -1.5867 0 1 0 1.5867 0 -1.2175 1-8ring3.dat

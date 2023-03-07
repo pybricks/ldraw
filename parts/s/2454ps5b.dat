@@ -2,7 +2,7 @@
 0 Name: s\2454ps5b.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Subpart UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [nielsk] Made BFC compliant (2006-01-09)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
 
 4 16 6.75 -47.75 -10 8.75 -49.25 -10 8.5 -45.25 -10 7 -43.75 -10
 3 16 8.75 -49.25 -10 9.5 -44.75 -10 8.5 -45.25 -10

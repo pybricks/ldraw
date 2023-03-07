@@ -2,7 +2,7 @@
 0 Name: 55816.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2007-10-11 [Philo] completed and BFCed
 0 !HISTORY 2008-02-17 [Philo] Added inner surface
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 0 // shell
 

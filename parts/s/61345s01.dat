@@ -2,12 +2,13 @@
 0 Name: s\61345s01.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-06-10 [MagFors] Changed, to be used in 60032 too
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 12 28 -7 -4 0 0 0 0 4 0 -1 0 1-4ndis.dat
 1 16 28 28 -7 4 0 0 0 0 4 0 -1 0 1-4ndis.dat
@@ -165,7 +166,7 @@
 4 16 40 0 10 40 0 -10 40 3 -3 40 3 10
 4 16 40 0 -10 40 48 -10 40 40 -3 40 3 -3
 4 16 40 40 -3 40 48 -10 40 48 10 40 40 10
-0 // front 
+0 // front
 4 16 0 0 -10 12 4 -10 28 4 -10 40 0 -10
 3 16 40 0 -10 28 4 -10 32 4 -10
 3 16 8 4 -10 12 4 -10 0 0 -10

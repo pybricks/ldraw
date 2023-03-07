@@ -2,7 +2,7 @@
 0 Name: 3691.dat
 0 Author: Ross Crawford [rosco]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2017-05-26 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2017-05-27 [MagFors] reworked grill using primitives
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug2-4x4.dat
 0 // top
@@ -34,7 +35,7 @@
 4 16 -17 8 -40 -19 8 -36 -19 8 40 -17 8 40
 4 16 -17 8 -40 -24 8 -40 -24 8 -36 -19 8 -36
 
-0 // grill 
+0 // grill
 2 24 20 64 -36 36 64 -36
 2 24 36 16 -36 30.5 16 -36
 2 24 36 24 -36 33.5 24 -36
@@ -93,7 +94,7 @@
 0 BFC INVERTNEXT
 1 16 32 60 2 0 4 0 0 0 -4 38 0 0 box2-5.dat
 
-0 // grill 
+0 // grill
 2 24 -20 64 -36 -36 64 -36
 2 24 -36 16 -36 -30.5 16 -36
 2 24 -36 24 -36 -33.5 24 -36

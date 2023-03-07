@@ -2,11 +2,12 @@
 0 Name: 4-4con80.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Primitive UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 4 16 80 1 0 73.912 1 30.616 74.8359 0 30.9987 81 0 0
 4 16 73.912 1 30.616 56.568 1 56.568 57.2751 0 57.2751 74.8359 0 30.9987

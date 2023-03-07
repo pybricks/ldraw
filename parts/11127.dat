@@ -2,13 +2,14 @@
 0 Name: 11127.dat
 0 Author: Rolf Osterthun [Rolf]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-03-08 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2013-05-03 [Rolf] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 2 24 -9.246 19 3.74 -9.246 19 -3.74
 2 24 3.74 19 9.246 -3.74 19 9.246

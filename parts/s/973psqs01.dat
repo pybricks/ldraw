@@ -2,11 +2,12 @@
 0 Name: s\973psqs01.dat
 0 Author: Daniel Goerner [TK-949]
 0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 4 0 5.079 31.078 -10 4.408 30.8 -10 4.242 31.048 -10 4.756 31.563 -10
 4 0 4.756 31.563 -10 4.242 31.048 -10 3.993 31.214 -10 4.271 31.886 -10

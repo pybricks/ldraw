@@ -2,11 +2,12 @@
 0 Name: s\15210pc0s01.dat
 0 Author: Marc Giraudet [Mad_Marc]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 4 72 -14.64 4.773 0 -14.64 6.027 0 -12.96 6.027 0 -12.96 4.773 0
 4 72 -11.157 4.64 0 -11.157 6.16 0 -9.643 6.16 0 -9.643 4.64 0

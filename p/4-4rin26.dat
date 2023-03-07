@@ -2,11 +2,12 @@
 0 Name: 4-4rin26.dat
 0 Author: Niels Karsdorp [nielsk]
 0 !LDRAW_ORG Primitive UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 16 26 0 0 27 0 0 24.9453 0 10.3329 24.0214 0 9.9502
 4 16 24.0214 0 9.9502 24.9453 0 10.3329 19.0917 0 19.0917 18.3846 0 18.3846
@@ -25,5 +26,4 @@
 4 16 18.3846 0 -18.3846 19.0917 0 -19.0917 24.9453 0 -10.3329 24.0214 0 -9.9502
 4 16 24.0214 0 -9.9502 24.9453 0 -10.3329 27 0 0 26 0 0
 0
-
 

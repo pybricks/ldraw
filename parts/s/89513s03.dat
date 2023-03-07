@@ -2,11 +2,12 @@
 0 Name: s\89513s03.dat
 0 Author: El'dar Ismagilov [Eldar]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 3 16 0 0 -4 0 8 -4 3 0 -4
 3 16 3 0 4 0 8 4 0 0 4

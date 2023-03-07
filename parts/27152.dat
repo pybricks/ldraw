@@ -2,13 +2,14 @@
 0 Name: 27152.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2018-03-06 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 -5 0 -1 0 0 0 -1.25 0 0 0 1 stud4a.dat
 1 16 0 -5 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
@@ -55,7 +56,6 @@
 5 24 -3.577 -15.702 -11.236 0 -13.277 -15.795 -3.65 -12.159 -14.278 0 -16.82 -12.229
 5 24 -3.614 -17.122 -8.895 -3.577 -15.702 -11.236 -9.078 -12.868 -7.465 0 -16.82 -12.229
 5 24 -3.577 -15.702 -11.236 0 -16.82 -12.229 0 -13.277 -15.795 -3.614 -17.122 -8.895
-
 
 5 24 0 -12.182 15.682 0 -13.149 15.511 -3.823 -12.558 15.226 3.823 -12.558 15.226
 5 24 0 -13.149 15.511 0 -13.785 11.897 3.823 -12.558 15.226 -3.823 -12.558 15.226

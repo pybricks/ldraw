@@ -2,11 +2,12 @@
 0 Name: 43460.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\43459s01.dat
 1 16 -60 -35 8.5 5 0 0 0 0 5 0 -1 0 4-4disc.dat

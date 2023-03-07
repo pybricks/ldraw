@@ -2,11 +2,12 @@
 0 Name: s\2332s01.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 4 16 -55 112 -40 55 112 -40 76 126 -40 -76 126 -40
 4 16 55 18 -40 -55 18 -40 -76 4 -40 76 4 -40

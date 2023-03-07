@@ -2,12 +2,12 @@
 0 Name: 44511.dat
 0 Author: William Howard [WilliamH]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Sphere
-0 !KEYWORDS Orient Expedition, Belville, Temple Roof
+0 !KEYWORDS Belville, Orient Expedition, Temple Roof
 
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
@@ -15,6 +15,7 @@
 0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives
 0 !HISTORY 2020-12-04 [MagFors] Corrected errors
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 0 // Top studded area
 1 16 0 8 0 6 0 0 0 -1 0 0 0 6 4-4ndis.dat

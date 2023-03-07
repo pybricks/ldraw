@@ -2,12 +2,13 @@
 0 Name: 30389b.dat
 0 Author: Mark Chittenden [mdublade]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2006-08-08 [WilliamH] BFCed, corrected box primitives, used stug
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 0 20 0 1 0 0 0 1 0 0 0 1 axlehol3.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 axlehol2.dat
@@ -44,6 +45,6 @@
 4 16 -20 0 20 -6 0 6 -6 0 -6 -20 0 -20
 4 16 -20 0 -20 -6 0 -6 6 0 -6 20 0 -20
 4 16 20 0 -20 6 0 -6 6 0 6 20 0 20
-1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 stug2.DAT
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 stug2.dat
 1 16 20 10 0 0 0 -1 0 1 0 1 0 0 clh1.dat
 0

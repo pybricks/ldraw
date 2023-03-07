@@ -1,14 +1,15 @@
-0 ~Minifig Head Mon Calamari without Patternable Areas - Half 
+0 ~Minifig Head Mon Calamari without Patternable Areas - Half
 0 Name: s\64808s01.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-10-04 [GeraldLasser] Subfiled for Patterns
 0 !HISTORY 2020-03-28 [Holly-Wood] Fixed conds, smoothed surface
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 2 24 11.89 -17.906 -13.634 11.811 -19.679 -14.189
 2 24 2.138 0 -9.91 0 0 -9.89

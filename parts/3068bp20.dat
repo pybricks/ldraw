@@ -2,14 +2,15 @@
 0 Name: 3068bp20.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Cafe, Sweets, Paradisa, Control Lab, bricklink 3068bpb0016
-0 !KEYWORDS Set 6409, Set 6411, Set 9701, Set 970098 
+0 !KEYWORDS bricklink 3068bpb0016, Cafe, Control Lab, Paradisa, Set 6409
+0 !KEYWORDS Set 6411, Set 970098, Set 9701, Sweets
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 4 16 -8.1 0 13.6 -9 0 13.3 -9.5 0 12.5 -9.4 0 11.5

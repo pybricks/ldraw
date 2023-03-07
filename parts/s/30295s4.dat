@@ -2,14 +2,15 @@
 0 Name: s\30295s4.dat
 0 Author: Mark Kennedy [mkennedy]
 0 !LDRAW_ORG Subpart UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2006-09-02 [WilliamH] Remove redundant lines; Move faces and studs into main part
 0 !HISTORY 2006-09-07 [WilliamH] Fixed lines crossing centre bracing
-0 !HISTORY 2012-05-06 [MagFors]  Closed gaps and removed unnecessary surface
+0 !HISTORY 2012-05-06 [MagFors] Closed gaps and removed unnecessary surface
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 1 16 20 28 160 1 0 0 0 -1 0 0 0 1 stud4f4s.dat
 1 16 20 28 160 6 0 0 0 1 0 0 0 6 4-4edge.dat
@@ -200,10 +201,10 @@
 1 16 100 4 60 1 0 0 0 -5 0 0 0 1 stud4f2s.dat
 1 16 112 4 60 4 0 0 0 20 0 0 0 1.5 box3u6.dat
 0 BFC INVERTNEXT
-1 16 98 24 60 18 0 0 0 -20 0 0 0 16 BOX3U2P.DAT
+1 16 98 24 60 18 0 0 0 -20 0 0 0 16 box3u2p.dat
 1 16 116 14 51.25 0 1 0 10 0 0 0 0 7.25 rect1.dat
 1 16 116 14 68.75 0 1 0 10 0 0 0 0 7.25 rect1.dat
-1 16 80 12 60 0 40 0 12 0 0 0 0 20 BOX3U2P.DAT
+1 16 80 12 60 0 40 0 12 0 0 0 0 20 box3u2p.dat
 4 16 120 0 80 120 0 40 80 0 40 80 0 80
 1 16 120 10 60 0 1 0 8 0 0 0 0 8 4-4edge.dat
 1 16 120 10 60 0 1 0 4 0 0 0 0 4 4-4edge.dat

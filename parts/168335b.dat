@@ -2,14 +2,14 @@
 0 Name: 168335b.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 5591, model team
-0 !KEYWORDS font ROBOTO BOLD
+0 !KEYWORDS font ROBOTO BOLD, Model Team, Set 5591
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 0 // Main
 4 16 46 0 28.5 27 0 -28.5 -46 0 -28.5 12 0 28.5

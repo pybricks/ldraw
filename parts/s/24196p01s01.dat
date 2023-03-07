@@ -2,11 +2,12 @@
 0 Name: s\24196p01s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 4 0 25.8765 21.774 -43.7873 25.5606 20.5418 -44.0029 25.3976 22.73 -45.9 25.6797 23.55 -45.53
 4 0 25.5724 23.68 -45.95 25.6797 23.55 -45.53 25.3976 22.73 -45.9 25.4009 23.3 -46.25

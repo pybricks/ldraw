@@ -2,15 +2,16 @@
 0 Name: 3069bp84.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3069bpb428, Set 41110, Set 41111, Set 41112, Set 41113, Set 41114
-0 !KEYWORDS Set 41132, Set 41144, Set 41310, Set 41314, Set 41318
-0 !KEYWORDS Birthday Party, Invitation
+0 !KEYWORDS Birthday Party, Bricklink 3069bpb428, Invitation, Set 41110
+0 !KEYWORDS Set 41111, Set 41112, Set 41113, Set 41114, Set 41132, Set 41144
+0 !KEYWORDS Set 41310, Set 41314, Set 41318
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 

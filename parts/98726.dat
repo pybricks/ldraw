@@ -2,16 +2,17 @@
 0 Name: 98726.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Superman, Super Heroes
+0 !KEYWORDS Super Heroes, Superman
 
 0 !HISTORY 2012-06-30 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2012-07-11 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 3 16 -11.619 -1.177 -7.959 -14.168 -0.832 -2.833 -14.908 -0.109 -3.331
 3 16 -11.619 -1.177 -7.959 -11.604 -3.013 -7.578 -14.168 -0.832 -2.833

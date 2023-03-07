@@ -2,12 +2,13 @@
 0 Name: s\30287s01.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-06-02 [Holly-Wood] Fixed inner diameter
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 3 16 13.66 26.18 -11.58 11.15 25.35 -13.31 8.55 28.68 -14.07
 3 16 8.55 28.68 -14.07 11.15 25.35 -13.31 8.64 24.51 -15.05

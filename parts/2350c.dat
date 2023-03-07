@@ -2,12 +2,13 @@
 0 Name: 2350c.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-04-15 [GeraldLasser] Reorganised the 2350 part family and redone using subfiles
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 0 140 1 0 0 0 1 0 0 0 1 s\2350s01.dat
 2 24 14 24 120 14 0 120

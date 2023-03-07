@@ -2,17 +2,18 @@
 0 Name: s\30375s01.dat
 0 Author: Nathan Wright
 0 !LDRAW_ORG Subpart UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-09-04 [OrionP]  Rough fixed a problem with the struts
+0 !HISTORY 2002-09-04 [OrionP] Rough fixed a problem with the struts
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-08-30 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-09-07 [MagFors] bfc'd, created new waist struts
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 1 16 -6 0 0 0 12 0 0 0 4 -4 0 0 4-4cylo.dat
 
@@ -268,7 +269,6 @@
 5 24 -8.8216 -4.801 1.0007 -11 -17.91 -0.59 -7.9586 -4.688 1.5688 -11 -16.0534 -0.8428
 5 24 -8.8216 -4.801 1.0007 -11 -16.0534 -0.8428 -11 -17.91 -0.59 -9 -4.8505 0.7518
 5 24 -9 -2.7472 0.5157 -11 -13.0779 -1.1769 -9 -4.8505 0.7518 -11 -11.926 -1.9569
-
 
 0 // left side
 2 24 11 -17.91 -0.59 11 -18.7636 -0.899

@@ -2,12 +2,13 @@
 0 Name: s\93250pq0s01.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-03-10 [MMR1988] Fixed edges
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 4 16 11.6448 -3.708 0 10 -3.708 2.873 0 -3.708 2.873 0 -3.708 0
 3 16 13.289 -3.54 0 13.289 -3.54 2.873 11.6448 -3.708 0

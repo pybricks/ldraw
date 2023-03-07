@@ -2,12 +2,13 @@
 0 Name: s\61200s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-05-11 [Holly-Wood] Fixed edges and conds, fixed concave quads, flipped triangles, fixed control points, converted lines
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 3 16 7.691 -12.259 -12.562 7.81 -11.263 -13.473 8.749 -11.86 -12.267
 3 16 7.81 -11.263 -13.473 8.648 -10.866 -13.079 8.749 -11.86 -12.267

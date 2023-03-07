@@ -2,7 +2,7 @@
 0 Name: 30565.dat
 0 Author: Mark Chittenden [mdublade]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant (2005-05-19)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 0 // Top Studs
 
@@ -59,12 +60,12 @@
 0 Inside Back Side Surface
 4 16 -36 8 36 35.61 8 36 35.61 4 36 -36 4 36
 0 Bottom Studs
-1 16 -20 4 20 1 0 0 0 -1 0 0 0 1 STUD4.DAT
-1 16 0 4 20 1 0 0 0 -1 0 0 0 1 STUD4.DAT
-1 16 20 4 20 1 0 0 0 -1 0 0 0 1 STUD4.DAT
-1 16 -20 4 0 1 0 0 0 -1 0 0 0 1 STUD4.DAT
-1 16 0 4 0 1 0 0 0 -1 0 0 0 1 STUD4.DAT
-1 16 -20 4 -20 1 0 0 0 -1 0 0 0 1 STUD4.DAT
+1 16 -20 4 20 1 0 0 0 -1 0 0 0 1 stud4.dat
+1 16 0 4 20 1 0 0 0 -1 0 0 0 1 stud4.dat
+1 16 20 4 20 1 0 0 0 -1 0 0 0 1 stud4.dat
+1 16 -20 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
+1 16 -20 4 -20 1 0 0 0 -1 0 0 0 1 stud4.dat
 0 Bottom Edge Surface
 4 16 -40 8 40 40 8 40 35.61 8 36 -36 8 36
 4 16 40 8 40 38.46 8 24.39 34.54 8 25.17 35.61 8 36

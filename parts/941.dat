@@ -2,14 +2,15 @@
 0 Name: 941.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 0 !HISTORY 2019-08-04 [anathema] Corrected various errors
-0 !HISTORY 2021-04-11 [Holly-Wood] Eliminated overlap and t-junk where possible, closed gaps, fixed edges and rounding errors  
+0 !HISTORY 2021-04-11 [Holly-Wood] Eliminated overlap and t-junk where possible, closed gaps, fixed edges and rounding errors
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 2 24 -56 32 -116 -25.465 32 -116
 2 24 56 32 -116 25.465 32 -116
@@ -148,7 +149,6 @@
 3 16 -36 32 -8.63 -36 32 -12.63 -36 0 -12.63
 4 16 -36 0 -12.63 -36 0 12.63 -36 32 8.63 -36 32 -8.63
 3 16 -36 32 8.63 -36 0 12.63 -36 32 12.63
-
 
 1 16 -46 34 8.63 -10 0 0 0 0 2 0 1 0 rect3.dat
 1 16 -46 34 -8.63 10 0 0 0 0 2 0 -1 0 rect3.dat

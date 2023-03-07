@@ -2,7 +2,7 @@
 0 Name: cylj4x7.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Primitive UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP 1 47 0 -7 4 7 0 0 0 0 7 0 -8 0 2-4cyli.dat
 0 !HELP 1 47 0 1 0 4 0 0 0 -1 0 0 0 4 4-4cyli.dat
@@ -10,6 +10,7 @@
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 16 4 0 0 3.6956 0 1.5308 3.6956 -1.2122 1.5308 4 -1.4156 0
 4 16 3.6956 0 1.5308 2.8284 0 2.8284 2.8284 -.6326 2.8284 3.6956 -1.2122 1.5308

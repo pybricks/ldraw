@@ -2,15 +2,14 @@
 0 Name: 3959.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Space, Castle, Pirates, bar, rod, round
-0 !KEYWORDS female stud, axlehole, axle hole, Technic axle
-0 !KEYWORDS tool, torch, lamp, light, signal
-0 !KEYWORDS laser, blaster, gun, weapon, scanner, sensor
+0 !KEYWORDS axle hole, axlehole, bar, Blaster, Castle, female stud, gun, lamp
+0 !KEYWORDS laser, light, Pirates, rod, Round, scanner, sensor, signal, Space
+0 !KEYWORDS Technic axle, tool, torch, Weapon
 
 0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
 0 !HISTORY 2002-07-16 [fwcain] added keywords
@@ -23,6 +22,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, introduced 4-4cylc.dat, fixed falt primitives scaled in Y direction
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 0 BFC INVERTNEXT
 1 16 0 0 -24 6 0 0 0 0 6 0 4 0 4-4cyli.dat

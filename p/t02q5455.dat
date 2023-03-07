@@ -2,17 +2,18 @@
 0 Name: t02q5455.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Primitive UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
+
 0 // Major Radius: 11
 0 // Tube(Minor) Radius: 6
 0 // Segments(Sweep): 8/16 = 0.50
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.5455 0 0  0 0 0.5455  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.5455 0 0 0 0 0.5455 0 1 0 4-4edge.dat
 
 4 16 1 0.5455 0 0.9239 0.5455 0.3827 1.1168 0.5039 0.4626 1.2087 0.5039 0
 4 16 1.2087 0.5039 0 1.1168 0.5039 0.4626 1.2802 0.3857 0.5303 1.3857 0.3857 0

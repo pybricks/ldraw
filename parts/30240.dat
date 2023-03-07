@@ -2,7 +2,7 @@
 0 Name: 30240.dat
 0 Author: Mark Chittenden [mdublade]
 0 !LDRAW_ORG Part UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 0 !HISTORY 2019-03-31 [ejboer] Subparted web
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30240s01.dat
 1 16 -27.73 0 -59.545 1.96021 27.01243 0 0 0 -2.2 -.99878 53.01489 0 4-4cyli.dat

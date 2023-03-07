@@ -2,11 +2,12 @@
 0 Name: s\95354s01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 4 16 6.087 8 -106.331 7.317 8 -106.7 8.765 8 -108.998 0 8 -109.75
 4 16 8.126 8 -87.578 5.967 8 -93.249 3.3 8 -31.25 6.12 8 -32.885

@@ -2,11 +2,12 @@
 0 Name: s\30562ps1s01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 7 56.7818 18.365 -56.3243 56.5681 18.357 -56.5678 56.5681 20.1 -56.5678 56.987 18.388 -56.0906
 4 7 56.5681 28.9 -56.5678 56.5681 31.043 -56.5678 56.7818 31.035 -56.3243 56.987 31.012 -56.0906

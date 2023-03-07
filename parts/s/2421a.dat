@@ -2,7 +2,7 @@
 0 Name: s\2421a.dat
 0 Author: Lutz Uhlmann [El-Lutzo]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -16,14 +16,15 @@
 0 !HISTORY 2021-03-17 [cwdee] Update description
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
+
 1 16 0 -2 34 6 0 0 0 4 0 0 0 6 2-4cyli.dat
 1 16 0 2 34 6 0 0 0 1 0 0 0 6 2-4edge.dat
 1 16 0 -2 34 6 0 0 0 1 0 0 0 6 2-4edge.dat
 1 16 0 2 34 6 0 0 0 -1 0 0 0 6 2-4disc.dat
 1 16 0 -2 34 6 0 0 0 1 0 0 0 6 2-4disc.dat
 1 16 0 0 34 0 0 6 2 0 0 0 -26.5 0 box4o8a.dat
-1 16 6 0 5.75 0 -1 0 0 0 -2 1.75 0 0 rect2P.dat
-1 16 -6 0 5.75 0 1 0 0 0 -2 1.75 0 0 rect2P.dat
+1 16 6 0 5.75 0 -1 0 0 0 -2 1.75 0 0 rect2p.dat
+1 16 -6 0 5.75 0 1 0 0 0 -2 1.75 0 0 rect2p.dat
 3 16 6 2 4 6 2 7.5 0 2 7.5
 3 16 0 2 7.5 -6 2 7.5 -6 2 4
 3 16 0 -2 7.5 6 -2 7.5 6 -2 4

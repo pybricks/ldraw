@@ -2,13 +2,14 @@
 0 Name: s\87990s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2018-11-19 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 3 16 7.634 -3.134 -8.803 8.47 -3.057 -8.057 8.83 -3.471 -7.084
 4 16 7.634 -3.134 -8.803 8.83 -3.471 -7.084 6.798 -3.966 -8.603 3.701 -4.311 -11.458

@@ -2,11 +2,12 @@
 0 Name: s\98372s01.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 3 16 1.531 -23.369 3.696 0 -23.369 4 0 -26.177 4.08
 3 16 2.94 -26.227 2.955 1.531 -23.369 3.696 0 -26.177 4.08

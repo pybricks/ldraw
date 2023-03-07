@@ -2,11 +2,12 @@
 0 Name: s\30642s00.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 4 16 -9.875 18.782 -24 -9.95 18.005 -24 -16.44 3 -24 -10.421 32 -24
 2 24 -10.421 32 -40 10.421 32 -40

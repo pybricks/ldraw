@@ -2,17 +2,19 @@
 0 Name: 2454apa0.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Egypt, Adventurers, bricklink 2454px2
-0 !KEYWORDS set 2996, set 3722, set 5919, set 5958, set 5978, set 5988
+
+0 !KEYWORDS Adventurers, bricklink 2454px2, Egypt, set 2996, set 3722, set 5919
+0 !KEYWORDS set 5958, set 5978, set 5988
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 0 !HISTORY 2020-09-04 [PTadmin] Renamed from 2454pa0
 0 !HISTORY 2020-09-05 [MagFors] removed T-junctions and overlap
 0 !HISTORY 2020-09-08 [Cheenzo] removed remaining T-junctions and unnecessary vertices
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2454as01.dat
 4 0 -16 13.5 -10 -16 101 -10 -14.5 101 -10 -14.5 13.5 -10

@@ -2,7 +2,7 @@
 0 Name: 987.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2013-09-01 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2013-09-02 [MagFors] Changed the colour of edges from 0 to 24
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 2 24 9.26 0.63 0 8.555 0.724 3.544
 2 24 9.89 0 0 9.137 0.094 3.785

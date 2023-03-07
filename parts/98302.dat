@@ -2,7 +2,7 @@
 0 Name: 98302.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2021-03-08 [Philo] Used LDD version
 0 !HISTORY 2021-12-26 [MagFors] reshaped axleholes
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
@@ -107,7 +108,6 @@
 5 24 -20 6.5 27.5 20 6.5 27.5 -20 8 28 -20 6 26
 5 24 -20 8 28 20 8 28 -20 9.6023 28 -20 6.5 27.5
 5 24 -20 6 26 20 6 26 -20 6.5 27.5 -20 6 24.3977
-
 
 2 24 -20.371 15.0694 28 -16 15.8105 28
 2 24 -21.0148 15.0682 28.5431 -20.371 15.0694 28

@@ -2,11 +2,12 @@
 0 Name: s\84747s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 0 // Needs work: Screw holes not modeled
 
@@ -104,7 +105,7 @@
 1 16 -80 60 -70 1 0 0 0 -1 0 0 0 -1 stud4.dat
 1 16 -80 60 -90 1 0 0 0 -1 0 0 0 -1 stud4.dat
 1 16 -80 60 -110 1 0 0 0 -1 0 0 0 -1 stud4.dat
-1 16 -110 18 -50 0 1 0 1 0 0 0 0 -1 32524.DAT
+1 16 -110 18 -50 0 1 0 1 0 0 0 0 -1 32524.dat
 2 24 -100 56 -123.946 -100 56 25.73
 4 16 -100 56 25.73 -100 60 24 -100 60 -122 -100 56 -123.946
 4 16 -100 64 -116 -100 60 -122 -100 60 24 -100 64 18

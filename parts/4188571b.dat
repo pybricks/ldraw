@@ -2,14 +2,15 @@
 0 Name: 4188571b.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
+
 0 // Original Text Produced by txt2dat, Copyright 2005-2007, 2009 R. Crawford
-0 // Using font: "Times New Roman" style: "Regular" size: 40pt 
+0 // Using font: "Times New Roman" style: "Regular" size: 40pt
 0 // LDRAW Scaling: 1 0 0 0 1 0 0 0 0.33
 
 1 80 0 -0.25 0 99 0 0 0 0.25 0 0 0 10 box5-12.dat
@@ -301,5 +302,4 @@
 3 80 44.898 -0.25 -4.3 33.93 -0.25 -4.3 99 -0.25 -10
 3 80 55.004 -0.25 -4.3 44.898 -0.25 -4.3 99 -0.25 -10
 3 80 65.635 -0.25 -4.3 55.004 -0.25 -4.3 99 -0.25 -10
-
 

@@ -2,13 +2,14 @@
 0 Name: 42073.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !CATEGORY Brick
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 // Needs Work: Inside assumed
 
@@ -48,8 +49,8 @@
 2 24 -20 0 -60 -20 56 -60
 4 16 -20 0 60 -20 56 60 20 56 60 20 0 60
 4 16 20 0 -60 20 56 -60 -20 56 -60 -20 0 -60
-1 16  10 0 -30 6 0 0 0 1 0 0 0 6 4-4ndis.dat
-1 16  10 0  30 6 0 0 0 1 0 0 0 6 4-4ndis.dat
+1 16 10 0 -30 6 0 0 0 1 0 0 0 6 4-4ndis.dat
+1 16 10 0 30 6 0 0 0 1 0 0 0 6 4-4ndis.dat
 3 16 16 0 36 20 0 60 16 0 24
 4 16 16 0 24 20 0 60 20 0 -60 16 0 -24
 3 16 16 0 -24 20 0 -60 16 0 -36
@@ -62,21 +63,21 @@
 1 16 -10 0 -50 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 -10 0 -30 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 -10 0 -10 1 0 0 0 1 0 0 0 1 stud2.dat
-1 16 -10 0  10 1 0 0 0 1 0 0 0 1 stud2.dat
-1 16 -10 0  30 1 0 0 0 1 0 0 0 1 stud2.dat
-1 16 -10 0  50 1 0 0 0 1 0 0 0 1 stud2.dat
-1 16  10 0 -50 1 0 0 0 1 0 0 0 1 stud2.dat
-1 16  10 0 -30 1 0 0 0 1 0 0 0 1 stud2a.dat
-1 16  10 0 -30 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 -10 0 10 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 -10 0 30 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 -10 0 50 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 10 0 -50 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 10 0 -30 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 10 0 -30 6 0 0 0 1 0 0 0 6 4-4edge.dat
 0 BFC INVERTNEXT
-1 16  10 0 -30 4 0 0 0 2 0 0 0 4 4-4cyli.dat
-1 16  10 0 -10 1 0 0 0 1 0 0 0 1 stud2.dat
-1 16  10 0  10 1 0 0 0 1 0 0 0 1 stud2.dat
-1 16  10 0  30 1 0 0 0 1 0 0 0 1 stud2a.dat
-1 16  10 0  30 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 10 0 -30 4 0 0 0 2 0 0 0 4 4-4cyli.dat
+1 16 10 0 -10 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 10 0 10 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 10 0 30 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 10 0 30 6 0 0 0 1 0 0 0 6 4-4edge.dat
 0 BFC INVERTNEXT
-1 16  10 0  30 4 0 0 0 2 0 0 0 4 4-4cyli.dat
-1 16  10 0  50 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 10 0 30 4 0 0 0 2 0 0 0 4 4-4cyli.dat
+1 16 10 0 50 1 0 0 0 1 0 0 0 1 stud2.dat
 
 0 4 15 -16 2 58 -16 2 -58 20 2 -58 20 2 58
 1 16 10 2 -30 4 0 0 0 -1 0 0 0 4 4-4ndis.dat

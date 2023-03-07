@@ -2,15 +2,16 @@
 0 Name: 170909a.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP For main color, use color 383, 87 (for example) or Rainbow color
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Roboforce, UFO, Exploriens
+0 !KEYWORDS Exploriens, Roboforce, UFO
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 4 80 7.5 0 27.5 27.5 0 -27.5 -27.5 0 -27.5 -7.5 0 27.5
 4 80 -7.5 -0.25 27.5 7.5 -0.25 27.5 7.5 0 27.5 -7.5 0 27.5

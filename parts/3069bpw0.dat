@@ -2,18 +2,20 @@
 0 Name: 3069bpw0.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS search warrant, hunt, wanted poster
-0 !KEYWORDS bandit, bandido, desperado, gunman, outlaw, robber, villain, bad guy
-0 !KEYWORDS sheriff, marshal, deputy, lawman, U.S. Marshal, Federal Marshal
-0 !KEYWORDS western, wild west, spaghetti western, cowboy, pistol, revolver, rifle
-0 !KEYWORDS Doc Holliday, Tombstone, Billy the Kid
+
+0 !KEYWORDS bad guy, bandido, bandit, billy the kid, cowboy, deputy, desperado
+0 !KEYWORDS doc holliday, Federal Marshal, gunman, hunt, lawman, marshal, outlaw
+0 !KEYWORDS Pistol, revolver, rifle, robber, search warrant, sheriff
+0 !KEYWORDS spaghetti western, tombstone, U.S. Marshal, villain, wanted poster
+0 !KEYWORDS western, wild west
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2018-12-31 [MagFors] Removed overlaps and gaps
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 0 // Black
 1 0 -12.9 0 -2.69 -0.16 0 0 0 1 0 0 0 -0.16 1-4ndis.dat
@@ -830,5 +832,5 @@
 1 16 17.31 0 0.69 0 0 -0.31 0 1 0 0.324 0 0 typestn0.dat
 1 16 17.31 0 4.48 0 0 -0.259 0 1 0 0.314 0 0 typests4.dat
 
-0 // Subpart Tile  1 x  2 with Groove without Face
+0 // Subpart Tile 1 x 2 with Groove without Face
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat

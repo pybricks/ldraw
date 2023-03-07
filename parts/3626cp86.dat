@@ -2,14 +2,15 @@
 0 Name: 3626cp86.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10277, Set 10264, Set 10260, Set 70422, Set 21310, Set 60222
-0 !KEYWORDS Bricklink 3626cpb1911
+0 !KEYWORDS Bricklink 3626cpb1911, set 10260, Set 10264, Set 10277, set 21310
+0 !KEYWORDS Set 60222, Set 70422
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Main
 
@@ -336,7 +337,6 @@
 3 16 0 13.9606 -13 .9337 14.3881 -12.8143 .2438 13.8825 -12.9515
 3 16 3.9904 7.6424 -12.2063 3.9818 7.8899 -12.208 4.24 8.0749 -12.1566
 3 16 3.9904 7.6424 -12.2063 3.6884 7.7679 -12.2663 3.9818 7.8899 -12.208
-
 
 0 // Dark Tan
 

@@ -2,18 +2,18 @@
 0 Name: 3069bp08.dat
 0 Author: William Howard [WilliamH]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !KEYWORDS 7-segment display
+
 0 !CMDLINE -c15
 
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
+
 0 // grooved tile sub-file
-
-
-
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 0 // outer borders
@@ -36,7 +36,7 @@
 0 // pattern
 0 // If it is necessary to edit the pattern
 0 // select all lines from here on and apply the
-0 // (1 0 -0.1  0 1 0  0 0 1) transform
+0 // (1 0 -0.1 0 1 0 0 0 1) transform
 0 // to straighten all the segments.
 0 // Don't forget to tilt them all back again afterwards!
 4 16 9 0 0 7.7125 0 0.625 4.1625 0 0.625 2.75 0 0

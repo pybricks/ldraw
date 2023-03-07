@@ -2,19 +2,20 @@
 0 Name: 19141.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
-0 BFC CERTIFY CCW
-
-0 !CATEGORY Minifig Accessory
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Positioning of Swords
 0 !HELP 1 1 -.174 -9 35.1 0 -.01745 -.99985 -1 0 0 0 .99985 -.01745 30173.dat
 0 !HELP 1 1 -35.1 -5 .174 0 -.99985 .01745 -1 0 0 0 .01745 .99985 30173.dat
 
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+
 0 !HISTORY 2014-10-16 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-10-16 [GeraldLasser] File preparation for LDraw Parts Tracker
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 10 0 4 0 0 0 -10 0 0 0 4 4-4cylc.dat
 4 16 -4.3 0 -4.375 -4.3 0 4.375 4.3 0 4.375 4.3 0 -4.375
@@ -133,7 +134,7 @@
 2 24 -7.75 -4 -7.75 -4.375 -4 -7.75
 2 24 -7.75 -4 -7.75 -7.75 -10 -7.75
 
-0  // Upper holder
+0 // Upper holder
 4 16 4.376 -4 7.75 4.375 -4 13.1 7.75 -4 16.9 7.75 -4 7.75
 4 16 -4.375 -4 13.1 -7.75 -4 16.9 7.75 -4 16.9 4.375 -4 13.1
 4 16 -4.375 -4 7.75 -7.75 -4 7.75 -7.75 -4 16.9 -4.375 -4 13.1

@@ -2,15 +2,16 @@
 0 Name: s\2418s01.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-0 !HISTORY 2017-09-13 [gaia]    Removed top quads for patterns
+0 !HISTORY 2017-09-13 [gaia] Removed top quads for patterns
 0 !HISTORY 2017-09-20 [MagFors] Made stud gaps bigger
 0 !HISTORY 2020-07-01 [mkennedy] Used box2-5 and a rect2p at hinge, used box5-4a.dat and box2-5
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 20 34 50 0 -4 0 4 0 0 0 0 4 4-4cylc.dat
 1 16 -20 34 50 0 4 0 4 0 0 0 0 4 4-4cylc.dat
@@ -189,7 +190,6 @@
 4 16 -18 26 -56 -10 4 -20 10 4 -20 18 26 -56
 4 16 18 26 -56 10 4 -20 20 4 -10 56 26 -18
 4 16 56 26 -18 20 4 -10 20 4 10 56 26 18
-
 
 3 16 -20 26 60 -14 26 56 -16 26 56
 4 16 -20 26 60 20 26 60 14 26 56 -14 26 56

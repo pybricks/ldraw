@@ -2,17 +2,18 @@
 0 Name: 973p21.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
-0 !HISTORY 2000-11-05 [cwdee]   Moved neck mark from s\973s01.dat
+0 !HISTORY 2000-11-05 [cwdee] Moved neck mark from s\973s01.dat
 0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
 0 !HISTORY 2007-07-28 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-10-01 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 4 14 2.25 0 -10 2.5 2 -10 3.5 2 -10 3.25 0 -10
 4 14 2.5 2 -10 3 4 -10 4 3.75 -10 3.5 2 -10

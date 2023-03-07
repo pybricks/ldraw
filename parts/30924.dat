@@ -2,7 +2,7 @@
 0 Name: 30924.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2020-04-06 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 4 0 0 0 -8.5 0 0 0 4 4-4cylc.dat
 3 16 8.253 2.003 12.713 7.301 3.412 15.117 8 1.404 16.864

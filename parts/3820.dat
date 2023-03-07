@@ -2,7 +2,7 @@
 0 Name: 3820.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP The centre of the grip is at x, y -.8229, z -9.8948
 0 !HELP The centre of the arm/hand cylinder meets at x, y, z -9.682
@@ -25,6 +25,7 @@
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 0 !HISTORY 2018-12-25 [GeraldLasser] Corrected grip width and intersection at cuff, reduced height by 1 LDU
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 0 // Post
 1 16 0 0 13 2.5 0 0 0 0 -2.5 0 -13 0 4-4cylc.dat

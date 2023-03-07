@@ -2,11 +2,12 @@
 0 Name: 1-4con14.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Primitive UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 16 14 1 0 12.9346 1 5.3578 13.8585 0 5.7405 15 0 0
 4 16 12.9346 1 5.3578 9.8994 1 9.8994 10.6065 0 10.6065 13.8585 0 5.7405

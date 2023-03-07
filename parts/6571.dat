@@ -2,7 +2,7 @@
 0 Name: 6571.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 0 !HISTORY 2018-03-26 [cwdee] Replace t04ounit with identical r04o1000
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 -10 9 0 0 0 0 -9 0 20 0 4-4cyli.dat
 1 16 0 0 -10 9 0 0 0 0 -9 0 20 0 4-4edge.dat

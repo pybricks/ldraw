@@ -1,16 +1,17 @@
-0 Minifig Head with Reddish Brown Eyebrows, Green Eyes, Lopsided Open Mouth Grin / Gritted Teeth 2-Sided Pattern 
+0 Minifig Head with Reddish Brown Eyebrows, Green Eyes, Lopsided Open Mouth Grin / Gritted Teeth 2-Sided Pattern
 0 Name: 3626cpnc.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Ninjago, Lloyd, BrickLink 3626cpb1890
+0 !KEYWORDS BrickLink 3626cpb1890, Lloyd, Ninjago
 
 0 !CMDLINE -c14
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat

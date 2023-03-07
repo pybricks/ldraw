@@ -2,7 +2,7 @@
 0 Name: u9238.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2012-11-05 [mikeheide] Added some lines for demonstration
 0 !HISTORY 2022-01-22 [mikeheide] Made it more like a foil. Still the gap missing and the tip slanting.
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // THIS FILE IS A MOCKUP
 0 // --- 1 14 0 0 0 1 0 0 0 1 0 0 0 1 u9018.dat

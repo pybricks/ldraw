@@ -2,7 +2,7 @@
 0 Name: 6235.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-07 [Steffen] Changed part name to fit in "Door" category (2004-04-24)
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed and fixed error L3P and bad edges (2005-12-26)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 40 140 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 20 140 0 1 0 0 0 -1 0 0 0 1 stud4.dat

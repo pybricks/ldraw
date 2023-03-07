@@ -2,13 +2,15 @@
 0 Name: 196705a.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Set 6392, Airport
+
+0 !KEYWORDS Airport, Set 6392
 
 0 !HISTORY 2021-10-21 [RainbowDolphin] Created based on 821410b by Philippe Hurbain [Philo]
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 -0.25 0 29 0 0 0 0.25 0 0 0 16.6 box5-12.dat
 4 16 29 -.25 -16.6 29 -.25 -14.05 -29 -.25 -14.05 -29 -.25 -16.6

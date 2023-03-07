@@ -2,13 +2,14 @@
 0 Name: 973pa2.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Adventurers, Egypt, Egyptian, ancient, mummy, archeology
-0 !KEYWORDS pyramid, ruins, crypt, Nile, Cairo, Giza, King Tut, gold
-0 !KEYWORDS necklace, pectoral, chestplate
+0 !KEYWORDS Adventurers, ancient, archeology, Cairo, chestplate, crypt, Egypt
+0 !KEYWORDS egyptian, Giza, gold, King Tut, mummy, necklace, Nile, pectoral
+0 !KEYWORDS pyramid, ruins
+
 0 !CMDLINE -c0
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
@@ -16,6 +17,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2015-06-28 [MagFors] bfc'd, inlined subfiles, reworked
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat

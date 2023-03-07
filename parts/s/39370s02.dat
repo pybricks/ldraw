@@ -2,11 +2,12 @@
 0 Name: s\39370s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 4 16 24.8024 0 1.5 23.9499 -6.47 1.5 23.3241 -6.4698 6.2494 24.1475 0 6.47
 4 16 23.9499 -6.47 1.5 21.264 -12 4.5 21.1116 -12 5.6566 23.3241 -6.4698 6.2494

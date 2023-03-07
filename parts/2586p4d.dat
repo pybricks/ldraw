@@ -2,7 +2,7 @@
 0 Name: 2586p4d.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2014-12-06 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2014-12-09 [MagFors] Changed from Light Blue (9) to Blue (1)
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 0 // Subparts
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2586s01.dat

@@ -2,7 +2,7 @@
 0 Name: 33177.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
 0 !HISTORY 2020-11-15 [GeraldLasser] Changed stud5 to stud19
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Subparts
 

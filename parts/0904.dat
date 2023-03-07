@@ -2,11 +2,12 @@
 0 Name: 0904.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 230 0 150 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 210 0 150 1 0 0 0 1 0 0 0 1 stud.dat
@@ -198,5 +199,5 @@
 4 16 -236 4 -160 -236 0 -160 236 0 -160 236 4 -160
 1 16 236 0 -156 4 0 0 0 4 0 0 0 -4 1-4cyli.dat
 4 16 240 4 -156 240 0 -156 240 0 156 240 4 156
-0 
+0
 0

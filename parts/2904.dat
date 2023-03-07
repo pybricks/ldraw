@@ -2,16 +2,17 @@
 0 Name: 2904.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Angle of rotation : 15.5546 degree
-0 !HELP Axle of rotation : Y=10  Z=-40
+0 !HELP Axle of rotation : Y=10 Z=-40
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 0 !HISTORY 2020-07-07 [Sirio] Updated primitives, studs orientaton, pin connection, T-junctions
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Primitives
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 stug2-2x2.dat
@@ -368,7 +369,7 @@
 5 24 4.2426 18 4.2426 4.2426 16.60193 4.2426 5.5434 18 2.2962 2.2962 18 5.5434
 5 24 5.5434 18 2.2962 5.5434 17.5434 2.2962 6 18 0 4.2426 18 4.2426
 5 24 5.5434 18 -2.2962 5.5434 17.5434 -2.2962 6 18 0 4.2426 18 -4.2426
-5 24 4.2426 18 -4.2426 4.2426 16.60193 -4.2426  5.5434 18 -2.2962 2.2962 18 -5.5434
+5 24 4.2426 18 -4.2426 4.2426 16.60193 -4.2426 5.5434 18 -2.2962 2.2962 18 -5.5434
 5 24 -4.2426 18 4.2426 -4.2426 16.60193 4.2426 -5.5434 18 2.2962 -2.2962 18 5.5434
 5 24 -5.5434 18 2.2962 -5.5434 17.5434 2.2962 -6 18 0 -4.2426 18 4.2426
 5 24 -5.5434 18 -2.2962 -5.5434 17.5434 -2.2962 -6 18 0 -4.2426 18 -4.2426

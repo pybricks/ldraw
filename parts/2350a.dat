@@ -2,18 +2,19 @@
 0 Name: 2350a.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2007-05-07 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-01-22 [Steffen] BFCed, used stugs
 0 !HISTORY 2015-01-23 [PTadmin] Renamed from 2350
 0 !HISTORY 2015-04-15 [GeraldLasser] Reorganised the 2350 part family and redone using subfiles
 0 !HISTORY 2015-04-15 [GeraldLasser] Remains as backward compatibility for the original 2350.dat
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 0 140 1 0 0 0 1 0 0 0 1 s\2350s01.dat
 2 24 20 24 120 12 24 120
@@ -27,8 +28,6 @@
 1 16 0 0 -20 1 0 0 0 1 0 0 0 1 s\2350s02.dat
 1 16 0 0 80 0 0 -1 0 1 0 1 0 0 stug-1x8.dat
 1 16 0 0 -80 0 0 -1 0 1 0 1 0 0 stug-1x8.dat
-4 16 12 24 120  12 0 120 12 0 -160  12 24 -160
-4 16 -12 24 -160  -12 0 -160 -12 0 120  -12 24 120
-
-
+4 16 12 24 120 12 0 120 12 0 -160 12 24 -160
+4 16 -12 24 -160 -12 0 -160 -12 0 120 -12 24 120
 

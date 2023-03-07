@@ -2,10 +2,11 @@
 0 Name: 30503.dat
 0 Author: Ronald Scott Moody [rmoody]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS wing
+
+0 !KEYWORDS Wing
 
 0 !HISTORY 2003-03-11 [izanette] Secondary author
 0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
@@ -13,6 +14,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2013-08-14 [theJudeAbides] Used more primitives, corrected stud notches
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 2 24 -20 8 -40 -14.24 8 -34.24
 4 16 -20 8 -40 -21.65 8 -36 -17.07 8 -31.41 -14.24 8 -34.24

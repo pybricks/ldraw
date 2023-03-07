@@ -2,11 +2,12 @@
 0 Name: s\11125s03.dat
 0 Author: Ingolf Weisheit [stahlwollschaf]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 0 // subpart for s\11125s01.dat: wheel hub inner part (symmetrical to xy-plane)
 0 // origin: center of wheel
@@ -45,7 +46,7 @@
 1 16 -35.5 -3.5 -1.75 0 -1 0 0 0 -6.5 1.75 0 0 rect2p.dat
 4 16 -35.5 3 -3.5 -29.8182 3 -3 -29.8182 3 0 -35.5 3 0
 2 24 -29.8182 3 -4.5 -32.25 3 -4.5
-4 16 -32.25 3 -4.5 -29.8182 3 -4.5 -29.8182 3 -3 -35.5 3 -3.5 
+4 16 -32.25 3 -4.5 -29.8182 3 -4.5 -29.8182 3 -3 -35.5 3 -3.5
 
 1 16 -29.4091 1.5 -3.75 0 0 -0.4091 0 1 1.5 -0.75 0 0 rect.dat
 

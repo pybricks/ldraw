@@ -2,12 +2,13 @@
 0 Name: s\30361dps6s06.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-11-18 [Holly-Wood] Fixed rounding errors
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 -.9 8.2 -19.821 -.1 0 0 0 0 .1 .02 1 0 1-4rin12.dat
 1 16 -.9 5 -19.821 0 0 -.1 -.1 0 0 0 1 .02 1-4rin12.dat
@@ -39,7 +40,7 @@
 1 0 -.9 8.2 -19.821 0 0 -.5 .5 0 0 0 1 .1 1-4disc.dat
 4 0 -1.4 5.7 -19.721 -1.4 6.2 -19.721 -.9 6.2 -19.821 -.9 5.7 -19.821
 4 0 -1.4 7 -19.721 -1.4 7.5 -19.721 -.9 7.5 -19.821 -.9 7 -19.821
- 
+
 4 0 -.9 4.5 -19.821 -.9 5 -19.821 0 5 -20 0 4.5 -20
 4 0 -.9 8.2 -19.821 -.9 8.7 -19.821 0 8.7 -20 0 8.2 -20
 4 0 -.9 5.7 -19.821 -.9 6.2 -19.821 0 6.2 -20 0 5.7 -20

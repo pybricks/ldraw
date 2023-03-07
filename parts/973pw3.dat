@@ -2,15 +2,18 @@
 0 Name: 973pw3.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Wild West, Western, military, uniform, United States, army, U.S. Army
-0 !KEYWORDS cavalry, horse troops, insignia, suspenders, trooper, enlisted, NCO
-0 !KEYWORDS Private, Corporal, Sergeant, soldier, veteran
+
+0 !KEYWORDS army, cavalry, Corporal, enlisted, horse troops, insignia, Military
+0 !KEYWORDS NCO, Private, Sergeant, soldier, suspenders, trooper, U.S. Army
+0 !KEYWORDS Uniform, United States, veteran, western, wild west
+
 0 !CMDLINE -c1
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 0 // White
 

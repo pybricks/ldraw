@@ -2,12 +2,13 @@
 0 Name: s\41668s01.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-10-20 [MagFors] Removed surface bleeding, added more condlines
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 4 16 11 38 8.6022 11 38 11.3978 11 42 11.3978 11 42 8.6022
 4 16 18 42 8.6022 18 42 11.3978 18 38 11.3978 18 38 8.6022

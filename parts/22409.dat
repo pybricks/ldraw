@@ -2,7 +2,7 @@
 0 Name: 22409.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2018-12-04 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\22409s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\22409s01.dat
@@ -53,6 +54,4 @@
 3 16 12.833 -20 -14 -12.833 -20 -14 0 40 -14
 2 24 0 39.852 -4.471 0 43.566 -5.171
 2 24 3.549 46.121 -15.231 -3.549 46.121 -15.231
-
-
 

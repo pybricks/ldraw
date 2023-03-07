@@ -2,13 +2,14 @@
 0 Name: s\3842cs02.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2016-02-22 [Holly-Wood] Creation
 0 !HISTORY 2016-02-29 [MagFors] Restructured subfiles
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 2 24 0 24 -15.36 -5.878 23.59 -14.191
 2 24 -5.878 23.59 -14.191 -10.861 22.422 -10.861

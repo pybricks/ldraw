@@ -2,7 +2,7 @@
 0 Name: s\6474s01.dat
 0 Author: Rolf Osterthun [Rolf]
 0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP // removed faces for pattern:
 0 !HELP // 4 13 -40 0 40 40 0 40 40 72 40 -40 72 40
@@ -10,10 +10,9 @@
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Slope
-
 0 !HISTORY 2013-01-15 [MMR1988] Improving of file (use of more prims), prepared for patterning
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 // Bottom Stud
 

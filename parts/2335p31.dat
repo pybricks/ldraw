@@ -2,15 +2,16 @@
 0 Name: 2335p31.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 6279, Bricklink 2335pb002, Pirates, Imperial Guards
+0 !KEYWORDS Bricklink 2335pb002, Imperial Guards, Pirates, Set 6279
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 0 !HISTORY 2022-05-09 [OrionP] Updated Description
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2335s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2335p31s01.dat

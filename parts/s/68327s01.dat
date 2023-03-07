@@ -2,11 +2,12 @@
 0 Name: s\68327s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 20 -10 8.31492 0 3.44415 3.44415 0 -8.31492 0 8 0 1-4cylo.dat
 1 16 17.3205 10 -10 -1.17474 0 -8.923 8.923 0 -1.17474 0 8 0 1-4cylo.dat

@@ -2,7 +2,7 @@
 0 Name: s\58381s01.dat
 0 Author: Rolf Osterthun [Rolf]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 0 !HISTORY 2011-10-19 [Rolf] Separated Bottom, Top and Handle
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 0 // ~Door Left with Hollow Hinge - Bottom
 

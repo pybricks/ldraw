@@ -2,14 +2,16 @@
 0 Name: 6056.dat
 0 Author: Damien Guichard [BrickCaster]
 0 !LDRAW_ORG Part UPDATE 2002-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS door
+
+0 !KEYWORDS Door
 
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 2 24 16 144 -16 16 144 -4
 2 24 16 144 -4 -16 144 -4

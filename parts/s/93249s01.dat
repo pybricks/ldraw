@@ -2,11 +2,12 @@
 0 Name: s\93249s01.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 3 16 0 0.63 -26.625 0 5.78 -26.55 1.25 0.805 -26.25
 3 16 0 -9.32 6.45 0 -9.92 1.95 7.45 -7.945 5.6

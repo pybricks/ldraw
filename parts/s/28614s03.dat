@@ -2,11 +2,12 @@
 0 Name: s\28614s03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 3 16 5 -38.5 -14.3 2.3 -39.4 -16 2.5 -36.7 -12.8
 3 16 2.3 -39.4 -16 6 -41.7 -16.2 3 -42.2 -17.6

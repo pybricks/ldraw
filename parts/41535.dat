@@ -2,16 +2,17 @@
 0 Name: 41535.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Harry Potter, Norbert, Castle
+0 !KEYWORDS Castle, Harry Potter, Norbert
 
 0 !HISTORY 2011-11-04 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2011-11-05 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2012-03-25 [Steffen] used stud4a.dat
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 // Needs Work: Shape is quite rough still.
 

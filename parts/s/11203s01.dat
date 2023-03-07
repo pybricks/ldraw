@@ -2,7 +2,7 @@
 0 Name: s\11203s01.dat
 0 Author: Rolf Osterthun [Rolf]
 0 !LDRAW_ORG Subpart UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2022-06-28 [PTadmin] Update description
 0 !HISTORY 2022-06-30 [MagFors] Added blocker inside studs
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 -10 0 10 -1 0 0 0 1 0 0 0 1 stud2a.dat
 1 16 -10 0 10 -1 0 0 0 4 0 0 0 1 stud2s2e.dat

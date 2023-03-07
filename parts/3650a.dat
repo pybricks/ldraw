@@ -2,7 +2,7 @@
 0 Name: 3650a.dat
 0 Author: Adriano Aicardi
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2008-07-08 [technog] Use primitive Tooth24c.dat and subpart 3650s01.dat (2006-02-19)
 0 !HISTORY 2008-07-09 [technog] Added 3-8edge's removed from 3650s01.dat (2006-05-27)
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3650s01.dat
 1 16 0 0 -6 5.74 0 13.858 -13.858 0 5.74 0 1 0 3-8edge.dat

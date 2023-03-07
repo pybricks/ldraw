@@ -2,7 +2,7 @@
 0 Name: s\2586ph1b.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Subpart UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2014-12-06 [MagFors] Made BFC compliant
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 4 16 4.243 35.743 -8 9 29.5 -8 1.7 16.4 -8 0.6 17.4 -8
 4 16 0 -23.6 -8 0 -34.5 -8 -7.6537 -32.9776 -8 -1 -23.2 -8

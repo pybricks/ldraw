@@ -2,11 +2,12 @@
 0 Name: s\u9106s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 3 16 20.698 -4.323 2.006 19.013 -2.459 0.467 19.997 -4.208 4.625
 3 16 19.997 -4.208 4.625 15.629 -0.586 1.19 18.562 -3.991 6.802

@@ -2,11 +2,12 @@
 0 Name: s\49661s03.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 2 24 0 -20.6215 -10.8314 1.1228 -20.632 -10.6151
 2 24 1.2378 -25.3 -12.1941 1.0861 -26 -12.0851

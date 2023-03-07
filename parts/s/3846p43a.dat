@@ -2,7 +2,7 @@
 0 Name: s\3846p43a.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-07 [nielsk] Made BFC compliant, bad quads fixed (2005-11-02)
 0 !HISTORY 2011-06-24 [Eldar] close gaps
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 4 16 0 -2.5 -10 0 0 -10 1.148 -0.228 -10 0.191 -2.538 -10
 4 16 0.191 -2.538 -10 1.148 -0.228 -10 2.121 -0.879 -10 0.354 -2.646 -10

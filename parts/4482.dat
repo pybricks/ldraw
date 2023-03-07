@@ -2,15 +2,17 @@
 0 Name: 4482.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Place fork at 0 30 -90 infront of frame
 0 !HELP Rotate +22.5 degree around x-axis
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Vehicle
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 2 24 -9 -2.296 5.543 -9 -3.1 5
 2 24 -9 -3.1 -5 -9 -2.296 -5.543

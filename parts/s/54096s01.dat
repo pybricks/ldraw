@@ -2,12 +2,13 @@
 0 Name: s\54096s01.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Subpart UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-11-19 [MagFors] turned convex areas concave
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 2 24 61.65 15.73 80 51.82 8.67 80
 2 24 51.82 8.67 80 40.83 3.6 80

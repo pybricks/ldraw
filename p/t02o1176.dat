@@ -2,17 +2,18 @@
 0 Name: t02o1176.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Primitive UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
+
 0 // Major Radius: 68
 0 // Tube(Minor) Radius: 8
 0 // Segments(Sweep): 8/16 = 0.50
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.1176 0 0  0 0 0.1176  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.1176 0 0 0 0 0.1176 0 1 0 4-4edge.dat
 
 4 16 1 0.1176 0 0.9239 0.1176 0.3827 0.9655 0.1087 0.3999 1.045 0.1087 0
 4 16 1.045 0.1087 0 0.9655 0.1087 0.3999 1.0008 0.0832 0.4145 1.0832 0.0832 0

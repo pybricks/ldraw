@@ -2,12 +2,13 @@
 0 Name: s\3351p06a.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-25 [cwdee] Subfiled pattern to share between 3351ap01 and 3351bp06
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 0 4.125 -3.84 0 -1.98 0 0 0 0 1.98 0 1.2 0 2-4disc.dat
 1 0 0 -3.84 0 -1.98 0 0 0 0 1.98 0 1.2 0 2-4disc.dat

@@ -2,7 +2,7 @@
 0 Name: 30094.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2012-10-02 [Steffen] BFC rationalisation
 0 !HISTORY 2013-10-16 [MMR1988] Reworked
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 BFC INVERTNEXT
 1 16 27.2283 -0.1481 0 0 -0.02945 7.19885 0 0.1481 0 2.5 0 0 box2-7.dat

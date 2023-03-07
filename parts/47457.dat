@@ -2,7 +2,7 @@
 0 Name: 47457.dat
 0 Author: Edwin Pilobello [gypsy_fly]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2006-09-30 [WilliamH] Added missing internal surface and two missing lines; corrected underside geometry
 0 !HISTORY 2006-10-03 [WilliamH] Joined stud4a to underside correctly
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 0 0 0 0 0 10 0 1 0 10 0 0 rect1.dat
 1 16 0 4 -2 0 0 10 0 -1 0 8 0 0 rect1.dat
@@ -125,7 +126,7 @@
 0 BFC INVERTNEXT
 1 16 0 4 -10 6 0 0 0 2 0 0 0 6 2-4cyli.dat
 1 16 0 4 -10 8 0 0 0 2 0 0 0 8 2-4cyli.dat
-1 16 0 6 -10 1 0 0 0 -2.5 0 0 0 1 STUD4A.dat
+1 16 0 6 -10 1 0 0 0 -2.5 0 0 0 1 stud4a.dat
 1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 
@@ -182,14 +183,14 @@
 1 16 0 4 -10 6 0 0 0 1 0 0 0 6 2-4edge.dat
 1 16 0 4 -10 8 0 0 0 1 0 0 0 8 2-4edge.dat
 
-1 16 -10 0 0 -10 7.07 0 8 8 0 0 0 10 1-4edge.DAT
-1 16 -10 0 0 -10 7.07 0 8 8 0 0 0 -10 1-4edge.DAT
-1 16 10 0 0 10 -7.07 0 8 8 0 0 0 10 1-4edge.DAT
-1 16 10 0 0 10 -7.07 0 8 8 0 0 0 -10 1-4edge.DAT
-1 16 -10 4 0 -6 4.242 0 5 5 0 0 0 -6 1-4edge.DAT
-1 16 -10 4 0 -6 4.242 0 5 5 0 0 0 6 1-4edge.DAT
-1 16 10 4 0 6 -4.242 0 5 5 0 0 0 -6 1-4edge.DAT
-1 16 10 4 0 6 -4.242 0 5 5 0 0 0 6 1-4edge.DAT
+1 16 -10 0 0 -10 7.07 0 8 8 0 0 0 10 1-4edge.dat
+1 16 -10 0 0 -10 7.07 0 8 8 0 0 0 -10 1-4edge.dat
+1 16 10 0 0 10 -7.07 0 8 8 0 0 0 10 1-4edge.dat
+1 16 10 0 0 10 -7.07 0 8 8 0 0 0 -10 1-4edge.dat
+1 16 -10 4 0 -6 4.242 0 5 5 0 0 0 -6 1-4edge.dat
+1 16 -10 4 0 -6 4.242 0 5 5 0 0 0 6 1-4edge.dat
+1 16 10 4 0 6 -4.242 0 5 5 0 0 0 -6 1-4edge.dat
+1 16 10 4 0 6 -4.242 0 5 5 0 0 0 6 1-4edge.dat
 
 4 16 -8 6 -10 -8 4 -10 -7.3912 4.306 -13.0616 -7.3912 6 -13.0616
 2 24 -7.3912 4.306 -13.0616 -8 4 -10

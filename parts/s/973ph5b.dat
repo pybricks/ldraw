@@ -2,11 +2,12 @@
 0 Name: s\973ph5b.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 4 16 9.943 16.562 -10 10.012 16.294 -10 9.327 16.39 -10 9.04 18.199 -10
 4 16 10.012 16.294 -10 10.371 14.82 -10 9.425 15.357 -10 9.327 16.39 -10

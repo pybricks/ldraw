@@ -2,11 +2,11 @@
 0 Name: 6041.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS aquazone, divers
+0 !KEYWORDS Aquazone, Divers
 
 0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
 0 !HISTORY 2001-05-04 [pneaster] Total Revision, made better use of primitive files.
@@ -17,6 +17,7 @@
 0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives
 0 !HISTORY 2021-11-21 [MagFors] made ccw, further clean up
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 12 10 0 0 0 0 10 0 -24 0 4-4cylo.dat
 1 16 0 0 12 8 0 0 0 0 8 0 1 0 4-4edge.dat

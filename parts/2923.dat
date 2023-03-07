@@ -2,10 +2,11 @@
 0 Name: 2923.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS train catenary holder, robot finger, claw, pantograph, arm
+
+0 !KEYWORDS arm, Claw, pantograph, robot finger, train catenary holder
 
 0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
 0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
@@ -19,6 +20,7 @@
 0 !HISTORY 2010-07-15 [MMR1988] Add bumps, correct gaps, primitive substitution
 0 !HISTORY 2010-07-16 [MagFors] Closed hairline gaps
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 0 0 -20 4 0 0 0 0 4 0 1 0 4-4edge.dat
 1 16 0 0 26 3.71086 0 1.53723 1.53723 0 -3.71086 0 1 0 5-8edge.dat

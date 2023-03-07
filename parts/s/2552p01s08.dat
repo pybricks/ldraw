@@ -2,11 +2,12 @@
 0 Name: s\2552p01s08.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 0 // Bottom Front
 4 1 306 0 -330 306 0 -326 290 0 -310 245.963 0 -330

@@ -2,13 +2,14 @@
 0 Name: s\15673s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-09-04 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 3 16 -3.87 -6.298 -6.078 -3.954 -6.82 -5.732 -5.852 -5.477 -5.909
 3 16 -3.954 -6.82 -5.732 -8.222 -5.63 -5.068 -5.852 -5.477 -5.909

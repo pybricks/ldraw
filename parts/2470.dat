@@ -2,11 +2,12 @@
 0 Name: 2470.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Western, Wild West, Castle, Connestoga, wagon, prairie, settler, cavalry
+0 !KEYWORDS Castle, cavalry, Connestoga, prairie, settler, wagon, western
+0 !KEYWORDS wild west
 
 0 !HISTORY 2007-05-13 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
@@ -15,6 +16,7 @@
 0 !HISTORY 2008-07-09 [WilliamH] Used hub sub-part, corrected position of outer rim (2006-08-12)
 0 !HISTORY 2013-03-28 [MMR1988] introduce half spoke subpart
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Nomenclature: width_(mm) x rim_diameter_(mm) [optional qualifier]
 
@@ -36,7 +38,6 @@
 1 16 0 0 0 0.7071 0.7071 0 0.7071 -0.7071 0 0 0 1 s\2470s02.dat
 1 16 0 0 0 0.7071 0.7071 0 -0.7071 0.7071 0 0 0 1 s\2470s02.dat
 1 16 0 0 0 -0.7071 0.7071 0 0.7071 0.7071 0 0 0 1 s\2470s02.dat
-
 
 1 16 0 -30.5 -10 2 0 0 0 0 2 0 1 0 4-4edge.dat
 1 16 21.57 -21.57 -10 2 0 0 0 0 2 0 1 0 4-4edge.dat

@@ -2,7 +2,7 @@
 0 Name: s\6637s03.dat
 0 Author: Remco Braak [remco1974]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2019-05-04 [MagFors] created an inside surface
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 16 11.31 11.31 0 13.3963 5.5489 0 7.391 3.0615 0 5.66 5.66 0
 4 16 8.0045 0 0 7.391 3.0615 0 13.3963 5.5489 0 15.9947 0 0

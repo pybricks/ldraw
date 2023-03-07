@@ -2,14 +2,15 @@
 0 Name: 820673o.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 6542, Harbour, Seaport, Wharf, Pier
-0 !KEYWORDS Bricklink 6542stk01, Rebrickable 820673, Brickowl 602283
+0 !KEYWORDS Bricklink 6542stk01, Brickowl 602283, harbour, Pier
+0 !KEYWORDS Rebrickable 820673, Seaport, Set 6542, wharf
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 -0.25 0 9 0 0 0 0.25 0 0 0 11 box5-12.dat
 4 0 1.71 -0.25 -4.73 0.09 -0.25 2.29 -7.87 -0.25 -4.95 -7.87 -0.25 -8.7

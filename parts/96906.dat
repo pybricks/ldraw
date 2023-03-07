@@ -2,16 +2,18 @@
 0 Name: 96906.dat
 0 Author: Rolf Osterthun [Rolf]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
+
 0 !CMDLINE -c334
 
 0 !HISTORY 2012-01-21 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2012-01-21 [Rolf] File preparation for LDraw Parts Tracker
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 0 // five
 
@@ -224,4 +226,4 @@
 1 16 0 3 0 8 0 0 0 1 0 0 0 8 4-4cyli.dat
 1 16 0 0 0 2 0 0 0 1 0 0 0 2 4-4ring4.dat
 1 16 0 4 0 2 0 0 0 -1 0 0 0 -2 4-4ring4.dat
-1 16 0 0 0 10 0 0 0 4 0 0 0 10 4-4cyli.DAT
+1 16 0 0 0 10 0 0 0 4 0 0 0 10 4-4cyli.dat

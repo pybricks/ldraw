@@ -2,12 +2,12 @@
 0 Name: 3941p01.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 715, set 735, set 6378, set 6394
-0 !KEYWORDS Fire truck, Gas station, Fuel pump
+0 !KEYWORDS Fire truck, fuel pump, Gas Station, Set 6378, Set 6394, set 715
+0 !KEYWORDS Set 735
 
 0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
 0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
@@ -17,6 +17,7 @@
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2018-02-20 [MagFors] Used subfile
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3941s01.dat
 0 // Ring with Pattern

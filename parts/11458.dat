@@ -2,13 +2,14 @@
 0 Name: 11458.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 0 !HISTORY 2021-03-27 [MagFors] Increased outer diameter to 9.5LDU
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT

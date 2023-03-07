@@ -1,15 +1,17 @@
-0 Tile  1 x  8 with Black "PORSCHE" Pattern 
+0 Tile  1 x  8 with Black "PORSCHE" Pattern
 0 Name: 4162pt3.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10295, Bricklink 4162pb240
+0 !KEYWORDS Bricklink 4162pb240, Set 10295
+
 0 !CMDLINE -c4
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
 1 16 7.12 0 -1.23 2 0 0 0 1 0 0 0 2.2 1-4ndis.dat

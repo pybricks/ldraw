@@ -2,11 +2,12 @@
 0 Name: s\37383s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 BFC INVERTNEXT
 1 16 17.7469 72.2524 -32.6 0.28624 -5.20162 1.16536 1.16536 -9.0196 -0.28624 0 15 0 5-16con2.dat

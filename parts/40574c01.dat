@@ -2,15 +2,15 @@
 0 Name: 40574c01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Shortcut UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Spybot, Programmable, Robot, Robotics
-0 !KEYWORDS Gigamesh, Technojaw, Shadowstrike, Snaptrax
-0 !KEYWORDS G60, T55, S70, S45
+0 !KEYWORDS G60, Gigamesh, Programmable, Robot, Robotics, S45, S70, Shadowstrike
+0 !KEYWORDS Snaptrax, Spybot, T55, Technojaw
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Top Silver
 
@@ -28,7 +28,7 @@
 1 0 0 -90 -10 -5 0 0 0 -6 0 0 0 5 box5.dat
 1 179 0 -90 10 -5 0 0 0 -6 0 0 0 5 box5.dat
 0 // Touch sensor
-1 7 0 -20 -200 0 0 1 0 1 0 -1 0 0 878.DAT
+1 7 0 -20 -200 0 0 1 0 1 0 -1 0 0 878.dat
 0 // Fake inner electronics details for see-through
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9064.dat
 0

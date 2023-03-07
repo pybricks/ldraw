@@ -2,13 +2,14 @@
 0 Name: 3010pzi.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 41497, Brickheadz, Spider-Man
+0 !KEYWORDS Brickheadz, Set 41497, Spider-Man
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 4 4 -12.868 11.873 -10 -12.78 10.047 -10 -15.563 8.083 -10 -15.739 11.735 -10

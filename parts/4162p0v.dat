@@ -2,11 +2,12 @@
 0 Name: 4162p0v.dat
 0 Author: Owen Burgoyne [C3POwen]
 0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
 4 15 -40.078 0 4.487 -37.365 0 3.479 -36.306 0 3.479 -33.593 0 4.487

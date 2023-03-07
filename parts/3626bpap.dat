@@ -2,13 +2,14 @@
 0 Name: 3626bpap.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Sideburns, Johnny Thunder, Adventurers, Orient Expedition
+0 !KEYWORDS Adventurers, Johnny Thunder, Orient Expedition, sideburns
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 4 0 12.01043 0 4.97488 0 13 0 -4.97488 0 12.01043 5-8cyli.dat
@@ -149,7 +150,6 @@
 5 24 0 20.695 -9.914 0 19.828 -11.535 4.106 20.695 -9.914 -3.794 20.695 -9.159
 5 24 0 19.828 -11.535 0 18.531 -12.619 4.778 19.828 -11.535 -4.414 19.828 -10.658
 5 24 0 18.531 -12.619 0 17 -13 5.227 18.531 -12.619 -4.83 18.531 -11.659
-
 
 4 15 -3 8.8 -12.403 -3.343 8.49 -12.335 -3.424 8.8 -12.319 -3.343 9.11 -12.335
 4 15 -3 8.8 -12.403 -3.343 9.11 -12.335 -3.131 9.301 -12.377 -2.869 9.301 -12.43

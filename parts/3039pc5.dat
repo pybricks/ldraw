@@ -2,12 +2,12 @@
 0 Name: 3039pc5.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, Space, TIE Interceptor, computer, Town, airplane
-0 !KEYWORDS radio, mike, microphone, radar, console, dials, buttons, lights
+0 !KEYWORDS Airplane, buttons, computer, console, dials, lights, microphone
+0 !KEYWORDS mike, radar, radio, Space, Star Wars, TIE Interceptor, town
 
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
@@ -15,6 +15,7 @@
 0 !HISTORY 2017-07-15 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2017-07-15 [MagFors] Removed T-junctions
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 4 16 -15.3 16.617 -26.617 -14.6 16.0513 -26.0513 -15.2 15.6977 -25.6977 -16.2 16.2634 -26.2634

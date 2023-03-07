@@ -2,14 +2,15 @@
 0 Name: 4198p06.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Baby set, Set 1500, Set 2040, Set 2073, Set 2074, bricklink 4198px14
+0 !KEYWORDS Baby set, bricklink 4198px14, Set 1500, Set 2040, Set 2073, Set 2074
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4198s01.dat
 4 0 -38 45 -40 -37.67 40.04 -40 -40.65 39.65 -40 -41 45 -40

@@ -2,11 +2,12 @@
 0 Name: s\3960pf2s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 // Butterfly
 4 16 -1.305 0 9.914 0 0 10 0 .0667 10.4 -1.3575 .0668 10.311

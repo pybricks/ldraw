@@ -2,13 +2,14 @@
 0 Name: s\973p37c.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Subpart UPDATE 2002-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2002-12-31 [PTadmin] Official Update 2002-06
 0 !HISTORY 2007-09-13 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 4 16 3.5 7 -10 3.5 5 -10 6.5 3.5 -10 7 5 -10
 4 16 7 5 -10 6.5 3.5 -10 9 0 -10 10 2.5 -10

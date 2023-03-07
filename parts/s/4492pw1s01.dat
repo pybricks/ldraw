@@ -2,11 +2,12 @@
 0 Name: s\4492pw1s01.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 0 // Pattern
 0 // Red
@@ -117,7 +118,6 @@
 3 15 6.971 -49.221 -31.439 6.977 -48.952 -32.116 6.925 -48.29 -32.56
 3 15 7.04 -51.119 -30.416 6.988 -49.974 -30.528 6.995 -50.642 -29.707
 3 15 6.995 -50.642 -29.707 7.009 -51.054 -29.238 7.04 -51.119 -30.416
-
 
 0 // Black
 4 0 7.065 -49.736 -17.065 7.567 -53.954 -12.945 7.344 -54.5 -15.25 6.917 -51.071 -18.601

@@ -2,12 +2,12 @@
 0 Name: 6190.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, Train, Divers, Town, telephone, receiver, handset
-0 !KEYWORDS Belville, Scala, handle
+0 !KEYWORDS Belville, Divers, handle, handset, receiver, Scala, Star Wars
+0 !KEYWORDS telephone, town, Train
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
 0 !HISTORY 2003-06-08 [jriley] BFC compliancy check
@@ -17,16 +17,17 @@
 0 !HISTORY 2008-07-10 [PTadmin] Renamed from 167
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
-1 16 -20 0 0 1 0 0 0 -2 0 0 0 -1 STUD4A.DAT
 
-1 16 20 0 0 1 0 0 0 -2 0 0 0 -1 STUD4A.DAT
+1 16 -20 0 0 1 0 0 0 -2 0 0 0 -1 stud4a.dat
+
+1 16 20 0 0 1 0 0 0 -2 0 0 0 -1 stud4a.dat
 1 16 13 -4 0 0 -26 0 -4 0 0 0 0 -4 4-4cyli.dat
 1 16 -20 0 0 -8 0 0 0 -4 0 0 0 8 2-4cyls.dat
 1 16 -20 0 0 -8 0 0 0 -4 0 0 0 -8 2-4cyls.dat
 1 16 20 0 0 8 0 0 0 -4 0 0 0 -8 2-4cyls.dat
 1 16 20 0 0 8 0 0 0 -4 0 0 0 8 2-4cyls.dat
-1 16 20 -4 0 8 0.559017 0 4 -1.11803 0 0 0 8 4-8SPHE.DAT
-1 16 -20 -4 0 -8 -0.559017 0 4 -1.11803 0 0 0 -8 4-8SPHE.DAT
+1 16 20 -4 0 8 0.559017 0 4 -1.11803 0 0 0 8 4-8sphe.dat
+1 16 -20 -4 0 -8 -0.559017 0 4 -1.11803 0 0 0 -8 4-8sphe.dat
 1 16 13 -4 0 0 0.5 0 4 0 0 0 0 4 1-4cyls.dat
 1 16 13 -4 0 0 0.5 0 -4 0 0 0 0 4 1-4cyls.dat
 1 16 13 -4 0 0 0.5 0 -4 0 0 0 0 -4 1-4cyls.dat

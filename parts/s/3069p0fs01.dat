@@ -2,13 +2,14 @@
 0 Name: s\3069p0fs01.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-01-18 [smr] moved bedroll from 3069bp0f to s\3069p0fs01.dat
 0 !HISTORY 2014-01-18 [smr] replaced color 7 with 16
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 4 6 -8.7 0 -6.7 -7.7 0 -6.7 -7.7 0 7.3 -8.7 0 7.3
 4 0 -7 0 4 -7.7 0 7.3 -7.7 0 -6.7 -7 0 -6.5
@@ -42,7 +43,7 @@
 4 0 -15.7 0 6.1 -16.4 0 6.1 -16.2 0 5.2 -15.8 0 5.3
 4 0 -16.3 0 5 -16.2 0 5.2 -16.4 0 6.1 -16.9 0 5.7
 3 0 -16.9 0 5.7 -17 0 5.1 -16.3 0 5
-4 0 -16.3 0 3.9 -16.3 0 5 -17 0 5.1 -17.1 0 3.8 
+4 0 -16.3 0 3.9 -16.3 0 5 -17 0 5.1 -17.1 0 3.8
 4 16 -17.1 0 3.8 -17 0 5.1 -17.3 0 5.4 -17.3 0 4.5
 4 16 -17 0 6.3 -17.3 0 5.4 -17 0 5.1 -16.9 0 5.7
 4 16 -16.9 0 5.7 -16.4 0 6.1 -15 0 8.1 -17 0 6.3

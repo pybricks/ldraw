@@ -2,17 +2,18 @@
 0 Name: t01i3261.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Primitive UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
+
 0 // Major Radius: 46
 0 // Tube(Minor) Radius: 15
 0 // Segments(Sweep): 16/16 = 1.00
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.3261 0 0  0 0 0.3261  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.3261 0 0 0 0 0.3261 0 1 0 4-4edge.dat
 
 4 16 0.6739 0 0 0.6226 0 0.2579 0.6456 0.1248 0.2674 0.6987 0.1248 0
 4 16 0.6987 0.1248 0 0.6456 0.1248 0.2674 0.7109 0.2306 0.2945 0.7694 0.2306 0

@@ -2,11 +2,12 @@
 0 Name: 48\1-8ring2.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG 48_Primitive UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 4 16 2 0 0 3 0 0 2.9742 0 0.3915 1.9828 0 0.261
 4 16 1.9828 0 0.261 2.9742 0 0.3915 2.8977 0 0.7764 1.9318 0 0.5176

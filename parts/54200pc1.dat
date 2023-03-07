@@ -2,15 +2,16 @@
 0 Name: 54200pc1.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10283, Space Shuttle, Discovery, Rebrickable 54200pr0004, cheese
+0 !KEYWORDS cheese, Discovery, Rebrickable 54200pr0004, Set 10283, Space Shuttle
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 0 !HISTORY 2022-07-13 [Jaco] added keyword Cheese
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\54200s01.dat
 

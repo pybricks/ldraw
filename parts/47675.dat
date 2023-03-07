@@ -2,17 +2,17 @@
 0 Name: 47675.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2010-11-29 [MagFors] Inlined parabols, added cond-lines 
+0 !HISTORY 2010-11-29 [MagFors] Inlined parabols, added cond-lines
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 0 !HISTORY 2022-01-07 [MagFors] Reshaped and corrected axlehole
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
-0 // screw portion internal is missing, hold ring internal is missing
 
+0 // screw portion internal is missing, hold ring internal is missing
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat
 1 16 0 0 0 1 0 0 0 16 0 0 0 1 axl3hol8.dat

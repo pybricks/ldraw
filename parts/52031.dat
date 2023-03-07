@@ -2,15 +2,16 @@
 0 Name: 52031.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Wedge
+0 !KEYWORDS wedge
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 0 !HISTORY 2019-06-01 [cwdee] Align description with 32739
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 4 16 -41 16 -61 -44 16 -60 -44 16 6 -41 16 6
 4 16 -40 16 10 -40 16 6 -56 16 6 -60 16 10
@@ -486,10 +487,10 @@
 1 16 0 8 -7.5 0 0 -41 0 -1 0 1.5 0 0 rect2p.dat
 0 BFC INVERTNEXT
 1 16 0 6 0 -41 0 0 0 -2 0 0 0 -6 box2-5.dat
-1 16 -30 4 -11.5 -1 0 0 0 4 0 0 0 -2.5 BOX4-4A.DAT
-1 16 30 4 -11.5 -1 0 0 0 4 0 0 0 -2.5 BOX4-4A.DAT
-1 16 -10 4 -11.5 -1 0 0 0 4 0 0 0 -2.5 BOX4-4A.DAT
-1 16 10 4 -11.5 -1 0 0 0 4 0 0 0 -2.5 BOX4-4A.DAT
+1 16 -30 4 -11.5 -1 0 0 0 4 0 0 0 -2.5 box4-4a.dat
+1 16 30 4 -11.5 -1 0 0 0 4 0 0 0 -2.5 box4-4a.dat
+1 16 -10 4 -11.5 -1 0 0 0 4 0 0 0 -2.5 box4-4a.dat
+1 16 10 4 -11.5 -1 0 0 0 4 0 0 0 -2.5 box4-4a.dat
 4 16 -41 4 -9 41 4 -9 41 4 -30 -41 4 -30
 4 16 -50 0 10 50 0 10 60 8 10 -60 8 10
 4 16 -41 4 6 -40 8 6 40 8 6 41 4 6

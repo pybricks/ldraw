@@ -2,14 +2,15 @@
 0 Name: 973psp.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 973px69, Set 7659, Set 8087, Set 7146, Set 6206, Set 9676, Set 4479
-0 !KEYWORDS Set 7263, Set 7958, Set 9492, Set 10131
+0 !KEYWORDS Bricklink 973px69, Set 10131, Set 4479, Set 6206, Set 7146, Set 7263
+0 !KEYWORDS Set 7659, Set 7958, Set 8087, Set 9492, Set 9676
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10

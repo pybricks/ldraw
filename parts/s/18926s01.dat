@@ -2,11 +2,12 @@
 0 Name: s\18926s01.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Subpart UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 0 // Studs
 
@@ -86,7 +87,7 @@
 3 16 64 8 14 64 8 10 64 80 10
 3 16 64 8 14 64 28 92 64 23.3808 88
 4 16 64 8 14 64 23.3808 88 64 15.5672 72.1704 64 4 14
-4 16 64 8 14 64 80 10 64 80 80 64 40 80 
+4 16 64 8 14 64 80 10 64 80 80 64 40 80
 4 16 64 8 14 64 40 80 64 40 100 64 28 92
 3 16 64 28 92 64 40 100 64 40 120
 3 16 64 28 92 64 40 120 64 40 140

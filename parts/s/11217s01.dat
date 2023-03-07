@@ -2,13 +2,14 @@
 0 Name: s\11217s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2015-10-06 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 4 16 4.9752 2 12.0104 0 2 13 0 22 13 4.9752 22 12.0104
 4 16 13 22 0 12.0104 23 -4.9752 12.0104 2 -4.9752 13 2 0
@@ -59,9 +60,6 @@
 2 24 3.764 -5.591 -8.813 3.476 -4 -10.281
 2 24 3.764 -5.591 -8.813 4.833 -5.591 -8.37
 2 24 3.476 -4 -10.281 0 -4 -10.916
-
-
-
 
 0 // 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3626b.dat
 4 16 16.753 4.238 0.095 16.753 6.486 1.393 16.753 5.536 2.343 16.753 4.238 2.691

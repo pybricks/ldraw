@@ -2,11 +2,12 @@
 0 Name: 48\5-24rin7.dat
 0 Author: Tim Gould [timgould]
 0 !LDRAW_ORG 48_Primitive UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 4 16 8 0 0 7.9312 0 1.044 6.9398 0 0.9135 7 0 0
 4 16 7.9312 0 1.044 7.7272 0 2.0704 6.7613 0 1.8116 6.9398 0 0.9135

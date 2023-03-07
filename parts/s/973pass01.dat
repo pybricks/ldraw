@@ -2,11 +2,12 @@
 0 Name: s\973pass01.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 4 16 -3.267 16.412 0 -3.6 16.6 0 -2.1 20.9 0 -2.752 16.646 0
 3 16 -2.752 16.646 0 -2.1 20.9 0 0.327 19.729 0

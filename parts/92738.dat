@@ -2,18 +2,19 @@
 0 Name: 92738.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Barrel angle: 12 degrees
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS weapon, firearm, star wars, clone trooper, storm trooper
+0 !KEYWORDS Clone Trooper, firearm, Star Wars, storm trooper, Weapon
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2017-05-29 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 -4 -14.7744 -3.763 0 8 0 2.07912 0 3.91259 9.78148 0 -0.83165 box4.dat
 0 BFC INVERTNEXT

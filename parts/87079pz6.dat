@@ -2,13 +2,14 @@
 0 Name: 87079pz6.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 41492, Brickheadz, Captain America
+0 !KEYWORDS Brickheadz, Captain America, Set 41492
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
 4 0 -22.19 0 -11.19 -12.06 0 14.75 -12.95 0 16.05 -24 0 -12.26

@@ -2,13 +2,14 @@
 0 Name: 973pbx.dat
 0 Author: Rolf Osterthun [Rolf]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS DC, Super Heroes, Brainiac, Villain, Justice League, set 76040
+0 !KEYWORDS Brainiac, DC, Justice League, set 76040, Super Heroes, villain
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 71 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
@@ -685,7 +686,6 @@
 4 15 8.146 7.212 10 8.337 7.673 10 8.146 8.135 10 7.685 7.021 10
 4 26 6.842 7.039 10 7.477 6.732 10 7.685 7.021 10 7.224 7.212 10
 4 15 7.224 8.135 10 7.033 7.673 10 7.224 7.212 10 7.685 7.021 10
-
 
 0 // front
 4 26 5.796 16.816 -10 5.714 17.878 -10 6.531 18.286 -10 6.449 17.388 -10

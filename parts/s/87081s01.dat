@@ -2,11 +2,12 @@
 0 Name: s\87081s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 0 // outside
 1 16 0 0 0 7 0 0 0 1 0 0 0 7 1-8edge.dat
@@ -101,5 +102,5 @@
 5 24 35.543 20 12.296 35.543 24 12.296 34.243 20 14.243 36 20 10
 5 24 34.243 20 14.243 34.243 24 14.243 32.296 20 15.543 35.543 20 12.296
 5 24 31.176 24 18 31.176 20 18 33.26 24 13.777 28.807 24 22.108
-0 // 
+0 //
 0 //

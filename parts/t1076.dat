@@ -2,7 +2,7 @@
 0 Name: t1076.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,13 +11,13 @@
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
+
 0 // Rim Blind Driver
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\t1076s01.dat
 1 16 0 0 0 0 -1 0 1 0 0 0 0 1 s\t1076s01.dat
 1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\t1076s01.dat
 1 16 0 0 0 0 1 0 -1 0 0 0 0 1 s\t1076s01.dat
-
 
 0 // Spokes All
 
@@ -164,7 +164,6 @@
 2 24 -2.083 -39.623 -8.395 -2.616 -39.914 -8
 2 24 -1.544 -38.688 -14 -1.631 -38.994 -14
 2 24 1.544 -38.688 -14 1.631 -38.994 -14
-
 
 0 // Spoke with Cutout Edges II
 
@@ -395,7 +394,6 @@
 2 24 -4.913 -8.347 -8.891 -4.963 -8.47 -9.017
 2 24 -4.963 -8.47 -9.017 -5.018 -8.603 -9.073
 2 24 -4.741 -7.933 -7.5 -4.64505 -7.70085 .0015
-
 
 0 // Filling I
 

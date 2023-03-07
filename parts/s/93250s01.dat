@@ -2,13 +2,14 @@
 0 Name: s\93250s01.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-03-10 [Wesley] minor improvements, inlined subpart
 0 !HISTORY 2013-09-11 [MMR1988] Fixed edges
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 4 16 13.289 -3.54 2.873 40.417 -5.016 2.873 39.809 7.489 2.88 13.231 9.676 2.896
 4 16 48.704 4.988 2.878 39.809 7.489 2.88 40.417 -5.016 2.873 54.464 1.728 2.869

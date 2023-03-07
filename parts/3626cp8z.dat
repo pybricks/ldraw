@@ -2,13 +2,14 @@
 0 Name: 3626cp8z.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Bricklink 3626cpb1290
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
@@ -258,7 +259,6 @@
 3 16 7.37 13.14 -10.4102 6.78 13.64 -10.8045 9.1923 17 -9.1923
 3 16 7.74 12.6 -10.1629 7.37 13.14 -10.4102 9.1923 17 -9.1923
 3 16 -4.9751 14.01 -12.0107 -5.42 14.01 -11.7134 -4.9752 17 -12.0107
-
 
 5 24 12.0107 17 -4.9751 12.0107 4 -4.9751 13 17 0 9.1923 17 -9.1923
 5 24 9.1923 17 -9.1923 9.1923 4 -9.1923 12.0107 17 -4.9751 4.9751 17 -12.0107

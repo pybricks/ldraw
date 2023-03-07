@@ -2,10 +2,9 @@
 0 Name: 2685.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-
 
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
@@ -13,6 +12,7 @@
 0 !HISTORY 2013-04-28 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2013-04-30 [MagFors] Removed t-junctions
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Left Clip
 1 16 0 0 37 0.897 -0.442 0 0.442 0.897 0 0 0 -1 s\2685s02.dat
@@ -122,7 +122,6 @@
 4 16 22.768 -26 -20 22.768 -14.5 -20 23.681 -22 -20 23.681 -26 -20
 4 16 22.768 -14.5 -20 39.021 -14.5 -20 25.681 -22 -20 23.681 -22 -20
 4 16 25.681 -26 -20 25.681 -22 -20 39.021 -14.5 -20 39.021 -26 -20
-
 
 0 // Holder
 0 BFC INVERTNEXT

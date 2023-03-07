@@ -2,7 +2,7 @@
 0 Name: s\41535s01.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2012-03-25 [Steffen] adjusted for stud4a usage in parent file
 0 !HISTORY 2017-12-13 [Philo] Improved wing shape a bit, added outlines on wing and crest, sculpted mouth
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 3 16 0 -54.136 -18.47 1.055 -52.233 -21.206 1.785 -53.91 -18.318
 3 16 0 -54.136 -18.47 0 -52.005 -21.705 1.055 -52.233 -21.206

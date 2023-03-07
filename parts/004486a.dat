@@ -2,15 +2,15 @@
 0 Name: 004486a.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS United States, America, United States of America, USA
-0 !KEYWORDS Star-Spangled Banner, Stars and Stripes, Old Glory
-0 !KEYWORDS set 367, moon landing
+0 !KEYWORDS America, moon landing, Old Glory, set 367, Star-Spangled Banner
+0 !KEYWORDS Stars and Stripes, United States, United States of America, USA
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // Red
 4 4 -6.24 -.25 6.127 16.25 -.25 6.127 16.25 -.25 7.25 -6.24 -.25 7.25

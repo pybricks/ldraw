@@ -2,20 +2,18 @@
 0 Name: 973pw8.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS western, wild west, cowboy, desperado, bandit, cardsharper, swindler
+0 !KEYWORDS bandit, cardsharper, cowboy, desperado, swindler, western, wild west
 
 0 !CMDLINE -c2
 
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
+
 0 // White
-
-
-
 
 4 15 5.557 0.75 -10 -5.314 0.75 -10 -0.617 3.325 -10 0.56 3.134 -10
 4 15 0.56 3.134 -10 -0.617 3.325 -10 -0.279 3.775 -10 0.267 3.817 -10

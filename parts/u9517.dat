@@ -2,13 +2,14 @@
 0 Name: u9517.dat
 0 Author: Niels Karsdorp [nielsk]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-04-21 [Steffen] changed orientation and origin, shortened by 1 LDU
 0 !HISTORY 2017-09-07 [GeraldLasser] complete rework
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 0 // Hook
 

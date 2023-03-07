@@ -2,10 +2,11 @@
 0 Name: 4089.dat
 0 Author: Lutz Uhlmann [El-Lutzo]
 0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS excavator bucket, space
+
+0 !KEYWORDS excavator bucket, Space
 
 0 !HISTORY 1998-01-12 [PTadmin] Official Update 1998-01
 0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
@@ -13,6 +14,7 @@
 0 !HISTORY 2013-12-23 [MagFors] Made BFC compliant
 0 !HISTORY 2013-12-23 [MagFors] Primitive substitution, added underside notches
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 1 16 0 12 20 8 0 0 0 8 0 0 0 8 8-8sphe.dat
 1 16 0 12 20 4 0 0 0 0 -4 0 4 0 4-4cyl1sph2.dat
@@ -67,7 +69,7 @@
 3 16 -20 24 -10 -15.5434 20.148 -17.7038 -15.602 20 -18
 3 16 -20 24 -10 -14.2426 21.121 -15.7574 -15.5434 20.148 -17.7038
 3 16 -20 24 -10 -12.2962 21.772 -14.4566 -14.2426 21.121 -15.7574
-4 16 -20 24 -10  0 24 -10 -10 22 -14 -12.2962 21.772 -14.4566
+4 16 -20 24 -10 0 24 -10 -10 22 -14 -12.2962 21.772 -14.4566
 3 16 0 24 -10 -7.7038 21.772 -14.4566 -10 22 -14
 3 16 0 24 -10 -5.7574 21.121 -15.7574 -7.7038 21.772 -14.4566
 3 16 0 24 -10 -4.4566 20.148 -17.7038 -5.7574 21.121 -15.7574

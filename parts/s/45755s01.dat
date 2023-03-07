@@ -2,11 +2,12 @@
 0 Name: s\45755s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 // Top
 5 24 9.3986 -10.3823 -16.35 0 -11 -16.5 10.0505 -15.3413 -16.171 7.7668 2.4412 -16.3481

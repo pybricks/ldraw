@@ -2,15 +2,17 @@
 0 Name: 3039p11.dat
 0 Author: John Riley [jriley]
 0 !LDRAW_ORG Part UPDATE 2004-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS telephone, 12 key pad, buttons, Town
+
+0 !KEYWORDS 12 key pad, buttons, telephone, town
 
 0 !HISTORY 2003-07-06 [Steffen] fixed BFC errors, fixed numeric precision glitches, adjusted header to comply with standard
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 4 16 2 20 -30 20 20 -30 20 17.6777 -27.6777 2 17.6777 -27.6777

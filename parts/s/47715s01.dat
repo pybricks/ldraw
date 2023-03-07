@@ -2,11 +2,12 @@
 0 Name: s\47715s01.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 26 31.5 30 12 0 0 0 -1 0 0 0 -12 3-16edge.dat
 2 24 30.5924 31.5 18.9132 29 31.5 18.5966

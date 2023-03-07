@@ -2,12 +2,14 @@
 0 Name: 64449.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !KEYWORDS Crane, Crane Arm, Truss
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 -10 24 0 -7.0711 0.2083 7.0711 0 -1 0 7.0711 0 7.0711 1-4chrd.dat
 1 16 -10 24 0 7.07 -1.6667 0 0 8 0 0 0 -7.07 2-4edge.dat

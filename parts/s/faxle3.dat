@@ -2,7 +2,7 @@
 0 Name: s\faxle3.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP See flexible axle parts for usage information
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-08-08 [MagFors] Minor clean-up
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 1.2 0 0 0 1 0 1 0 0 0 0 1 axlehol3.dat
 1 16 1.2 0 0 0 2.8 0 6 0 0 0 0 6 4-4cyli.dat

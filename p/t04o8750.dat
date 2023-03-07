@@ -2,17 +2,18 @@
 0 Name: t04o8750.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Primitive UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
+
 0 // Major Radius: 8
 0 // Tube(Minor) Radius: 7
 0 // Segments(Sweep): 4/16 = 0.25
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.8750 0 0  0 0 0.8750  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.8750 0 0 0 0 0.8750 0 1 0 4-4edge.dat
 
 4 16 1 0.875 0 0.9239 0.875 0.3827 1.2333 0.8084 0.5109 1.3349 0.8084 0
 4 16 1.3349 0.8084 0 1.2333 0.8084 0.5109 1.4955 0.6187 0.6195 1.6187 0.6187 0

@@ -2,14 +2,17 @@
 0 Name: 3626bph2.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Harry Potter, Hogwarts School of Witchcraft and Wizardry
-0 !KEYWORDS Slytherin House, Draco Malfoy
+
+0 !KEYWORDS Draco Malfoy, Harry Potter
+0 !KEYWORDS Hogwarts School of Witchcraft and Wizardry, Slytherin House
+
 0 !CMDLINE -C14
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 0 // replacing s\3626bs01.dat
 
@@ -120,8 +123,8 @@
 4 16 4.5 9.75 -12.1045 3.5 10 -12.3035 3.25 15 -12.3533 4.975 17 -12.01
 4 16 6.25 8 -11.158 4.975 9 -12.01 4.975 17 -12.01 9.192 17 -9.192
 
- 1 16 0 4 0 13 0 0 0 13 0 0 0 -13 1-8cyli.dat
- 1 16 0 4 0 -13 0 0 0 13 0 0 0 -13 1-8cyli.dat
+1 16 0 4 0 13 0 0 0 13 0 0 0 -13 1-8cyli.dat
+1 16 0 4 0 -13 0 0 0 13 0 0 0 -13 1-8cyli.dat
 0
 
 0

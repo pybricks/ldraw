@@ -2,11 +2,12 @@
 0 Name: s\59349p01s01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 272 -46.7 70 0 -47.4 70 0 -47.4 120 0 -46.7 120 0
 4 71 -47.4 70 0 -50 70 0 -50 120 0 -47.4 120 0

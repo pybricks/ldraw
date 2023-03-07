@@ -2,7 +2,7 @@
 0 Name: s\30363s01.dat
 0 Author: John Riley [jriley]
 0 !LDRAW_ORG Subpart UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2008-09-24 [mkennedy] Used stud4s primitives, boxes, and rects
 0 !HISTORY 2008-11-28 [tchang] Add 2 lines
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 6.667 -10 1 0 0 0 -4.333 0 0 0 1 stud4a.dat
 1 16 0 4 -10 6 0 0 0 1 0 0 0 6 2-4edge.dat

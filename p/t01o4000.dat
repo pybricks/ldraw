@@ -2,7 +2,7 @@
 0 Name: t01o4000.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Primitive UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,11 +10,12 @@
 0 !HISTORY 2013-09-27 [MMR1988] Recreated to fix condlines
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
+
 0 // Major Radius: 5
 0 // Tube(Minor) Radius: 2
 0 // Segments(Sweep): 16/16 = 1.00
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.4000 0 0  0 0 0.4000  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.4000 0 0 0 0 0.4000 0 1 0 4-4edge.dat
 
 4 16 1 0.4 0 0.9239 0.4 0.3827 1.0653 0.3696 0.4413 1.1531 0.3696 0
 4 16 1.1531 0.3696 0 1.0653 0.3696 0.4413 1.1852 0.2828 0.4909 1.2828 0.2828 0

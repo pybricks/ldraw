@@ -2,15 +2,16 @@
 0 Name: u9105p01c03.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Shortcut Physical_Colour UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Set 132, Set 341, Set 3666, Set 3671
-0 !KEYWORDS Musen Mugge, Mortimer Mouse, Morty Mouse
-0 !KEYWORDS Raton Rodriguez, Frimousse la souris
-0 !KEYWORDS Pieppie de muis, Morty Maus
+
+0 !KEYWORDS Frimousse la souris, Mortimer Mouse, Morty Maus, Morty Mouse
+0 !KEYWORDS Musen Mugge, Pieppie de muis, Raton Rodriguez, Set 132, Set 341
+0 !KEYWORDS Set 3666, set 3671
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 7 0 -67 4 1 0 0 0 1 0 0 0 1 u9105p01c01.dat
 1 1 0 -37 4 1 0 0 0 1 0 0 0 1 u9102.dat

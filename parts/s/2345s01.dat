@@ -2,7 +2,7 @@
 0 Name: s\2345s01.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Subpart UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-07 [cwdee] Removed edge lines between decorated surfaces (2005-08-22)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
+
 0 // Uncomment for sides
 0 // 4 16 30 120 30 30 24 30 30 24 10 30 120 10
 0 // 4 16 -10 120 -30 -10 24 -30 -30 24 -30 -30 120 -30
@@ -20,8 +21,6 @@
 0 // 4 16 15.7566 144 -4.2428 15.7566 140 -4.2428 4.2428 140 -15.7566 4.2428 144 -15.7566
 0 // 4 16 -10 144 -30 -4.2424 144 -24.2418 -4.2424 140 -24.2418 -10 0 -30
 0 // 4 16 30 0 10 -10 0 -30 -4.2424 140 -24.2418 24.2418 140
-
-
 
 1 16 -10 140 10 1 0 0 0 -1 0 0 0 1 stud4.dat
 0 BFC INVERTNEXT

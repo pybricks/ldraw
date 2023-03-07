@@ -2,13 +2,14 @@
 0 Name: s\48002s01.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-10-29 [tchang] New subfile, Geometry made by Philo with 48002.dat part
 0 !HISTORY 2014-10-30 [tchang] Add 2 primitives connhole
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 0 // Bottom beam
 1 16 -20 434 0 0 0 -1 -1 0 0 0 1 0 connhole.dat

@@ -2,25 +2,19 @@
 0 Name: 3068bpt5.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10264, Set 10754, Set 10259, Set 40312, Set 21310
-0 !KEYWORDS Set 60200, Set 60204, Set 60215
+0 !KEYWORDS Set 10259, Set 10264, Set 10754, set 21310, Set 40312, Set 60200
+0 !KEYWORDS Set 60204, Set 60215
 
 0 !CMDLINE -c15
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
+
 0 // Font: Times New Roman Bold
-
-
-
-
-
-
-
 
 0 // Main
 

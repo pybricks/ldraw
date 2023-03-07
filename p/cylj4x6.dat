@@ -2,13 +2,14 @@
 0 Name: cylj4x6.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Primitive UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-13 [tchang] Rebuild erroneous cylinder
 0 !HISTORY 2011-07-14 [tchang] Inverse BFC polygon
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 3 16 1.531 0 3.696 0 0 4 1.531 -0.305 3.696
 3 16 -1.531 -0.305 -3.696 -1.531 0 -3.696 0 0 -4

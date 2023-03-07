@@ -2,14 +2,15 @@
 0 Name: 766b.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-22 [Steffen] corrected part geometry: moved sockets 0.5 LDU towards rear, otherwise putting one plug into another like in set 7866 does not work
 0 !HISTORY 2011-12-22 [Steffen] removed central pin hole
-0 !HISTORY 2020-12-09 [Holly-Wood] Prim substitution, fixed T-Junk, added conds    
+0 !HISTORY 2020-12-09 [Holly-Wood] Prim substitution, fixed T-Junk, added conds
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 16 -7.5 21.5 0 0 2 0 1 0 -2 0 0 2-4chrd.dat
 1 16 16 7.5 21.5 0 0 2 0 -1 0 -2 0 0 2-4chrd.dat

@@ -2,11 +2,12 @@
 0 Name: s\41897s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 4 16 -17.5292 -65.4197 34.1 -15.88 -65.75 34.1 -15.35 -63.08 35 -16.8233 -62.7852 35
 4 16 -17.7879 -66.3855 32.6 -16.07 -66.73 32.6 -15.88 -65.75 34.1 -17.5292 -65.4197 34.1

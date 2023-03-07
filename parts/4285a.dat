@@ -2,10 +2,11 @@
 0 Name: 4285a.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Space, Radar Dish, Town, Round
+
+0 !KEYWORDS Radar Dish, Round, Space, town
 
 0 !HISTORY 2002-07-15 [sbliss] Fix bad cylinder ref, serious L3P warnings.
 0 !HISTORY 2002-07-30 [sbliss] Added missing quads, conditional lines, fixed ghost edges.
@@ -18,6 +19,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2010-05-09 [cwdee] Remove CATEGORY Round
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4285s01.dat
 1 16 0 0 0 0.707 0 -0.707 0 1 0 0.707 0 0.707 s\4285s01.dat

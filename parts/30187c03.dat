@@ -2,12 +2,13 @@
 0 Name: 30187c03.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Shortcut UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
 0 !CATEGORY Vehicle
-0 !KEYWORDS minifig, tricycle, motorbike, motor, cycle, ATV, chopper
-0 !KEYWORDS Town, City Centre, vehicle, three
+0 !KEYWORDS ATV, chopper, City Centre, cycle, minifig, Motor, motorbike, three
+0 !KEYWORDS town, tricycle, Vehicle
 
 0 !HISTORY 2001-11-23 [pneaster] added BFC to speed up render time.
 0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
@@ -19,6 +20,7 @@
 0 !HISTORY 2010-11-22 [anathema] Changed !CATEGORY
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 30187C01.DAT
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 30187C02.DAT
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 30187c01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 30187c02.dat
 0

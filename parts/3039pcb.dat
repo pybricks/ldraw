@@ -2,11 +2,12 @@
 0 Name: 3039pcb.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 4 15 -11.5 6.2579 -16.2579 -11.25 6.3286 -16.3286 -11.1 6.1165 -16.1165 -11.6 6.0458 -16.0458

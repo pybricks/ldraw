@@ -2,7 +2,7 @@
 0 Name: 6213p02.dat
 0 Author: Damien Guichard [BrickCaster]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-09-03 [MagFors] used subfile
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6213s01.dat
 4 16 54 5 -20 54 69 -20 60 72 -20 60 0 -20

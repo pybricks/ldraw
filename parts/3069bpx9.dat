@@ -2,15 +2,16 @@
 0 Name: 3069bpx9.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10295, Bricklink 3069bpb908, Porsche, Year 2021
+0 !KEYWORDS Bricklink 3069bpb908, Porsche, Set 10295, Year 2021
 
 0 !CMDLINE -c47
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 4 16 20 0 10 12 0 9 12 0 -9 20 0 -10

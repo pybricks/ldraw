@@ -2,11 +2,11 @@
 0 Name: 30042.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Adventurers, Pirates, Ninja, Western, Wild West
+0 !KEYWORDS Adventurers, Ninja, Pirates, western, wild west
 
 0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
 0 !HISTORY 2007-05-25 [PTadmin] Header formatted for Contributor Agreement
@@ -15,6 +15,7 @@
 0 !HISTORY 2017-06-21 [MagFors] Removed overlapping surfaces
 0 !HISTORY 2018-03-29 [MMR1988] Added one missing condline
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 16 109 -2 40 106 -2 36 14 -2 36 12 -2 40
 4 16 109 -2 -40 12 -2 -40 14 -2 -36 106 -2 -36

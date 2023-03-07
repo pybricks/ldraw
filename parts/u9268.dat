@@ -2,7 +2,7 @@
 0 Name: u9268.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP This part is highly simplified,
 0 !HELP no wires or other electrical connections are modelled.
@@ -10,6 +10,7 @@
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 -43 0 3.5 176.5 0 0 0 -4 0 0 0 76.5 box4.dat
 0 BFC INVERTNEXT

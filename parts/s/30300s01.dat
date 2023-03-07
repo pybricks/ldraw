@@ -2,7 +2,7 @@
 0 Name: s\30300s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2011-07-22 [Steffen] removed studs from subfile
 0 !HISTORY 2015-11-12 [GeraldLasser] added side recesses
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 0 // Bottom Face Back
 

@@ -2,14 +2,15 @@
 0 Name: 32533p619.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 8613, Rebrickable 32533pr0619, Bricklink 32533pb619
+0 !KEYWORDS Bricklink 32533pb619, Rebrickable 32533pr0619, Set 8613
 
 0 !HISTORY 2021-04-05 [Sirio] Removed unuseful points in number area
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32533s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\32533s01.dat

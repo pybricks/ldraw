@@ -2,14 +2,15 @@
 0 Name: 003605a.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 373, platform, offshore, drilling, rig, shell, tanker, deep water horizont
-0 !KEYWORDS Bricklink 373.1stk01, Rebrickable 3605, Brickowl 196990
+0 !KEYWORDS Bricklink 373.1stk01, Brickowl 196990, deep water horizont, drilling
+0 !KEYWORDS offshore, platform, Rebrickable 3605, rig, set 373, shell, tanker
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 0 // Small box
 
@@ -172,7 +173,6 @@
 4 4 -43.858 -.25 7.5 -46.572 -.25 7.5 -46.572 -.25 -7.5 -43.858 -.25 -7.5
 4 4 14.652 -.25 7.5 13 -.25 7.5 13 -.25 -7.5 14.652 -.25 -7.5
 4 4 51.728 -.25 7.5 50.068 -.25 7.5 50.068 -.25 -7.5 56.796 -.25 -7.5
-
 
 0 // White
 0 // O

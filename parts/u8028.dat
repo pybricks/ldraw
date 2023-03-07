@@ -2,7 +2,7 @@
 0 Name: u8028.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -10,6 +10,7 @@
 0 !KEYWORDS Automatic Binding Brick
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 0 BFC INVERTNEXT
 1 16 -14 34 -10 11 0 0 0 0 24 0 4 0 box4.dat
@@ -116,7 +117,7 @@
 2 24 30 4 -7 30 60 -7
 4 16 27 8 -7 30 4 -7 30 60 -7 27 60 -7
 4 16 -1 8 -7 1 8 -7 1 60 -7 -1 60 -7
-4 16 -60 72 -6 -60 72 -10 60 72 -10 60 72 -6 
+4 16 -60 72 -6 -60 72 -10 60 72 -10 60 72 -6
 4 16 -56 58 -6 -56 72 -6 56 72 -6 56 58 -6
 4 16 34 56 -6 25 58 -6 56 59 -6 56 56 -6
 4 16 -56 56 -6 -56 58 -6 -25 58 -6 -34 56 -6

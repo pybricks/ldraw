@@ -2,7 +2,7 @@
 0 Name: 15503.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2021-07-06 [GeraldLasser] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-02-24 [MagFors] Made more convex
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // Inside
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
@@ -1717,7 +1718,7 @@
 0 // Conditional Lines
 
 5 24 13.516 1.336 -6.611 15.619 4.329 -4.62 14.842 2.177 -3.191 15.094 4.717 -5.191
-5 24 13.516 1.336 -6.611 15.094 4.717 -5.191 12.695 .839 -7.498 15.619 4.329 -4.62 
+5 24 13.516 1.336 -6.611 15.094 4.717 -5.191 12.695 .839 -7.498 15.619 4.329 -4.62
 5 24 15.619 4.329 -4.62 16.076 8.302 -4.047 15.483 4.308 -2.58 15.094 4.717 -5.191
 5 24 16.076 8.302 -4.047 15.819 10.145 -4.424 15.748 10.496 -2.926 15.047 8.276 -5.155
 5 24 15.819 10.145 -4.424 15.419 11.673 -5.173 15.44 12.043 -3.614 14.619 10.117 -5.87

@@ -2,15 +2,17 @@
 0 Name: 6028.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2004-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS Crocodile, Alligator, Stegosaurus, reptile
-0 !KEYWORDS Castle, City, Pirates, Adventurers, Dinosaurs
+
+0 !KEYWORDS Adventurers, Alligator, Castle, City, Crocodile, Dinosaurs, Pirates
+0 !KEYWORDS reptile, Stegosaurus
 
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 0 // Underside Stud
 1 16 14.75 14.5 58 4 0 0 0 -1 0 0 0 4 4-4disc.dat
@@ -227,7 +229,6 @@
 3 16 9.25 23.754 17.75 9.75 22 8.5 14 22 8
 3 16 9.75 22 8.5 9.25 23.754 17.75 7 2 14.75
 3 16 9.75 7.597 40.25 7 4.388 29.5 10.5 25.841 28.75
-
 
 4 16 -14 22 12.25 -14.5 22 6 -10.5 22 5.5 -10 22 11.5
 4 16 -14.5 22 6 -14.5 22 0 -10.5 22 0 -10.5 22 5.5

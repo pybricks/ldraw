@@ -2,13 +2,14 @@
 0 Name: 64225.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-10-21 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2011-10-21 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 16 -11.5 16 13.75 -11.5 16 10 -11.5 4.995 10 -11.5 4.313 13.75
 1 16 -10 10.157 13.75 -1.5 0 0 0 0 -5.8435 0 -1.00174 0 rect.dat
@@ -642,7 +643,7 @@
 2 24 -3.702 3.655 18.5 -4 3.517 20
 2 24 -3.696 3.377 21.531 -2.923 3.271 22.687
 2 24 3.696 3.377 21.531 2.923 3.271 22.687
-1 16 0 20 -10 -1 0 0 0 -1 0 0 0 1 STUD4A.dat
+1 16 0 20 -10 -1 0 0 0 -1 0 0 0 1 stud4a.dat
 0 BFC INVERTNEXT
 1 16 0 20 -10 -6 0 0 0 -6.2 0 0 0 6 4-4cyli.dat
 0 BFC INVERTNEXT

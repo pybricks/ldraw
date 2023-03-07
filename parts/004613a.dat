@@ -2,13 +2,14 @@
 0 Name: 004613a.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 391-1, 40CV, Classic car
+0 !KEYWORDS 40CV, Classic car, Set 391-1
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 -0.25 0 39 0 0 0 0.25 0 0 0 11 box5-12.dat
 4 0 -21 -0.25 6.2 -22.7 -0.25 6.2 -23 -0.25 5.9 -20.5 -0.25 5.8

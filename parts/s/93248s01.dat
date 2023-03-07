@@ -2,13 +2,14 @@
 0 Name: s\93248s01.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-10-16 [MagFors] Improvements to split plane
 0 !HISTORY 2011-12-04 [MagFors] Subfiled surface for patterned parts
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 3 16 19.107 -24.384 0.066 15.857 -13.909 -4.98 16.435 -13.885 0.131
 3 16 14.996 -43.376 2.792 13.747 -47.239 0.114 15.596 -43.441 0.053

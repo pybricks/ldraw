@@ -2,11 +2,11 @@
 0 Name: 30236.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS gizmo, rod, bar, side, grab, horizontal, clip-on
+0 !KEYWORDS bar, clip-on, gizmo, grab, horizontal, rod, side
 
 0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
 0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
@@ -14,7 +14,8 @@
 0 !HISTORY 2008-07-07 [guyvivan] made BFC compliant (2005-11-16)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 3004.DAT
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3004.dat
 2 24 12 16 -10 6 16 -10
 2 24 -6 16 -10 -12 16 -10
 2 24 12 8 -10 6 8 -10

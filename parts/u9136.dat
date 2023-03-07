@@ -2,7 +2,7 @@
 0 Name: u9136.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2011-12-16 [Steffen] adjusted to modified origin of 993.dat
 0 !HISTORY 2013-10-13 [MMR1988] Adjusted to reworked 993.dat
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 -1 0 1 0 0 0 1 0 0 0 1 993.dat
 1 16 0 -1 -5.6352 0 4.25 0 -4.25 0 0 0 0 4.25 t04q3529.dat

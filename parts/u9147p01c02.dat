@@ -2,14 +2,15 @@
 0 Name: u9147p01c02.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Shortcut Physical_Colour UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS hog, swine
-0 !KEYWORDS Set 325, Set 3615
-0 !KEYWORDS Percy Pig, Prosper le Cochon, Patricio el Cerdito, Henry Schwein
+
+0 !KEYWORDS Henry Schwein, hog, Patricio el Cerdito, Percy Pig
+0 !KEYWORDS Prosper le Cochon, set 325, Set 3615, swine
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 0 // The color choice for the head has been done simply by color appearance.
 0 // Maybe a different number needs to be used.

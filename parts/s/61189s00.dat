@@ -2,11 +2,12 @@
 0 Name: s\61189s00.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 3 16 14.754 -1.311 -1.525 14.725 -1.72 .018 14.466 -2.557 .75
 3 16 14.466 -2.557 .75 14.725 -1.72 .018 14.733 -1.624 .746

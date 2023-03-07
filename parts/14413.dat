@@ -2,13 +2,14 @@
 0 Name: 14413.dat
 0 Author: Jude Parrill [theJudeAbides]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS faceted, angled, wedge, 4 stud
+0 !KEYWORDS 4 stud, angled, faceted, wedge
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Bottom Surfaces and Edges
 
@@ -107,7 +108,7 @@
 1 16 10 14 2 -1 0 0 0 0 10 0 2 0 box4-2p.dat
 1 16 6.5 14 2 2.5 0 0 0 0 10 0 -1 0 rect2p.dat
 0 BFC INVERTNEXT
-1 16 11 14 9 0 -7 0 10 0 0 0 0 7 BOX2-5.DAT
+1 16 11 14 9 0 -7 0 10 0 0 0 0 7 box2-5.dat
 1 16 9 14 0 5 0 0 0 0 10 0 1 0 rect.dat
 2 24 14 24 0 11.25 24 -2.75
 2 24 11.25 20 -2.75 11.25 24 -2.75
@@ -132,7 +133,7 @@
 1 16 -10 14 -18 -1 0 0 0 0 10 0 2 0 box4-2p.dat
 1 16 -13.5 14 -18 2.5 0 0 0 0 10 0 -1 0 rect2p.dat
 0 BFC INVERTNEXT
-1 16 -9 14 -11 0 -7 0 10 0 0 0 0 7 BOX2-5.DAT
+1 16 -9 14 -11 0 -7 0 10 0 0 0 0 7 box2-5.dat
 1 16 -11 14 -20 5 0 0 0 0 10 0 1 0 rect.dat
 2 24 -6 24 -20 -8.75 24 -22.75
 2 24 -8.75 20 -22.75 -8.75 24 -22.75

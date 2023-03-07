@@ -2,13 +2,14 @@
 0 Name: 3939d01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Shortcut UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 6353, Coastal cutter, Boat, Ship, Bricklink 3939pb06
+0 !KEYWORDS boat, Bricklink 3939pb06, Coastal cutter, Set 6353, ship
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3939.dat
 1 16 0 10 -30 -1 0 0 0 .89443 -.44721 0 .44721 .89443 820674b.dat

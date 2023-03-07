@@ -2,11 +2,12 @@
 0 Name: s\24054s01.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Hinge
 0 // Primitives
@@ -149,8 +150,8 @@
 4 16 61.5 91 1 61.5 90 2 61.5 126 2 61.5 126 1
 4 16 61.5 -45.8891 1 61.5 -45.8891 2 61.5 66 2 61.5 65 1
 0 // Edges
-2 24 7 130 4 7 -12.4196 4 
-2 24 7 130 4 7 130 2.5 
+2 24 7 130 4 7 -12.4196 4
+2 24 7 130 4 7 130 2.5
 2 24 7 130 4 76 130 4
 2 24 71 126 4 71 88 4
 2 24 71 68 4 71 -47.6705 4

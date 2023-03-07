@@ -2,16 +2,17 @@
 0 Name: 18835p01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS set 70327, Bricklink 18835pb01, King Halbert
-0 !KEYWORDS set 71008, Collectable, CMF, Series 13, Classic King
-0 !KEYWORDS set 5004422, TRU Exclusive, Warriors
+0 !KEYWORDS Bricklink 18835pb01, Classic King, CMF, Collectable, King Halbert
+0 !KEYWORDS Series 13, set 5004422, set 70327, set 71008, TRU Exclusive
+0 !KEYWORDS Warriors
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18835s01.dat
 1 82 0 0 0 1 0 0 0 1 0 0 0 1 s\18835s02.dat

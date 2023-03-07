@@ -2,11 +2,12 @@
 0 Name: s\2341s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 BFC INVERTNEXT
 1 16 0 24 0 6 0 0 0 -20 0 0 0 6 box5.dat
@@ -31,7 +32,7 @@
 4 16 -8 0 -10 -8 0 -26 -8 4 -26 -8 20 -10
 4 16 8 0 10 8 0 26 8 4 26 8 20 10
 4 16 -8 4 26 -8 0 26 -8 0 10 -8 20 10
-0 
+0
 4 16 -10 0 30 -8 0 26 8 0 26 10 0 30
 3 16 -10 0 -30 -8 0 -26 -8 0 -10
 3 16 -8 0 10 -8 0 26 -10 0 30

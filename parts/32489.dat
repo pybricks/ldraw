@@ -2,16 +2,17 @@
 0 Name: 32489.dat
 0 Author: Robert Sexton [rhsexton]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bionicle, Body, Toa, Torso, Robot
+0 !KEYWORDS bionicle, body, Robot, Toa, Torso
 
 0 !HISTORY 2003-07-05 [Steffen] removed WRITE statements
 0 !HISTORY 2007-11-19 [mikeheide] added many missing lines
 0 !HISTORY 2021-03-25 [Sirio] Subparted, BFC'd and reworked
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 0 // Subparts
 
@@ -85,7 +86,7 @@
 1 16 0 -25.5684 34 0 0 -6.3639 4.4316 0 0 0 -1 0 rect1.dat
 1 16 0 -10 25.9791 0 0 6.3639 0 1 0 4.0209 0 0 rect.dat
 0 // Faces
- 4 16 6 -20.9613 30 8 -32 30 -8 -32 30 -6 -20.9613 30
+4 16 6 -20.9613 30 8 -32 30 -8 -32 30 -6 -20.9613 30
 3 16 -6.3639 -10 30 6.3639 -10 30 0 -6 30
 3 16 0 20 -20 -1 20.5 -20 1 20.5 -20
 3 16 -1 39.5 -20 0 40 -20 1 39.5 -20

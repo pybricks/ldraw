@@ -2,12 +2,13 @@
 0 Name: s\47222s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-10-17 [Philo] Subparted from Guy Vivan 47222 initial design. Minor improvements.
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 1 16 10 0 -24 0 -1 0 0 0 4 4 0 0 4-4ndis.dat
 1 16 7 0 -24 0 1 0 0 0 2 2 0 0 4-4ndis.dat

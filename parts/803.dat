@@ -2,7 +2,7 @@
 0 Name: 803.dat
 0 Author: Arne Hackstein
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed (2005-11-23)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 100 4 20 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 80 4 20 1 0 0 0 -1 0 0 0 1 stud4.dat

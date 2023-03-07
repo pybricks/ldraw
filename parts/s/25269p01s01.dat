@@ -2,11 +2,12 @@
 0 Name: s\25269p01s01.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 4 5 -8.25 0 3.25 -6.75 0 1.75 -5.25 0 3.25 -6.75 0 4.75
 4 5 -3.25 0 -1.75 -1.75 0 -.25 -3.25 0 1.25 -4.75 0 -.25

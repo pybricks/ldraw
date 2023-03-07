@@ -2,13 +2,14 @@
 0 Name: 4533401j.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 10188, Star Wars, Death Star, Yavin
+0 !KEYWORDS Death Star, Set 10188, Star Wars, Yavin
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 -0.25 0 57.5 0 0 0 0.25 0 0 0 16 box5-12.dat
 

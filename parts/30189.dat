@@ -1,14 +1,14 @@
-0 Bike 3 Wheel Motorcycle Forks 
+0 Bike 3 Wheel Motorcycle Forks
 0 Name: 30189.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !CATEGORY Vehicle
-0 !KEYWORDS minifig, tricycle, motorbike, motor, cycle, ATV, chopper 
-0 !KEYWORDS Town, City Centre, vehicle
+0 !KEYWORDS ATV, chopper, City Centre, cycle, minifig, Motor, motorbike, town
+0 !KEYWORDS tricycle, Vehicle
 
 0 !HISTORY 2001-11-23 [pneaster] added BFC to speed up render time.
 0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
@@ -18,6 +18,7 @@
 0 !HISTORY 2015-03-08 [MagFors] Removed ~ from the description, changed category
 0 !HISTORY 2016-06-16 [legolijntje] Fixed a few edgelines
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 -12 0 3.536 0 -3.536 0 1 0 3.536 0 3.536 1-4disc.dat
 1 16 0 -12 0 3.536 0 -3.536 0 4 0 3.536 0 3.536 1-4cyli.dat
@@ -173,7 +174,7 @@
 2 24 12.5 1 -17.8 -12.5 1 -17.8
 
 0 // wheel holder (forks)
-0 // 1 16  0 0 0  1 0 0  0 1 0  0 0 1  30189s1.dat
+0 // 1 16 0 0 0 1 0 0 0 1 0 0 0 1 30189s1.dat
 0 // 20 degrees around X
 0 // Inlined: 1 16 0 30 -104 1 0 0 0 .94 .342 0 -.342 .94 30189s1.dat
 2 24 14 5.39 -5.724 10 5.39 -5.724

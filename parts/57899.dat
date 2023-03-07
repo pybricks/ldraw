@@ -2,16 +2,17 @@
 0 Name: 57899.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Barrel angle: 12 degrees
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS weapon, firearm, star wars, clone trooper, storm trooper
+0 !KEYWORDS Clone Trooper, firearm, Star Wars, storm trooper, Weapon
 
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 1 16 0 -1.598 -7.201 4 0 0 0 5.4057 -3.91259 0 25.4318 0.83165 4-4cyli.dat
 1 16 0 -1.141 -12.41 3.695 0 0 0 0.97815 1.03956 0 -0.20791 4.89074 rect.dat

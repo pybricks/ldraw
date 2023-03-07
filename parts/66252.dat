@@ -1,13 +1,14 @@
-0 Plate  4 x  4 with 2 Clips Horizontal (Open C-Clips) and Studs on Three Edges 
+0 Plate  4 x  4 with 2 Clips Horizontal (Open C-Clips) and Studs on Three Edges
 0 Name: 66252.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-11 [GeraldLasser] Derieved from 11399 by C3POwen
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stug4-3x3.dat
 0 BFC INVERTNEXT

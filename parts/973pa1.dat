@@ -2,12 +2,12 @@
 0 Name: 973pa1.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Adventurers, Dr. Kilroy, Prof. Kilroy, doctor, professor, old man
-0 !KEYWORDS shirt, collar, belt, belt buckle, buttons, Dr. Lightning, bands
+0 !KEYWORDS Adventurers, bands, belt, belt buckle, buttons, collar, doctor
+0 !KEYWORDS Dr. Kilroy, Dr. Lightning, old man, Prof. Kilroy, professor, shirt
 
 0 !CMDLINE -c15
 
@@ -16,6 +16,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-10-03 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat

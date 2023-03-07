@@ -2,13 +2,14 @@
 0 Name: 3039p67.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Space, Insectoids
+0 !KEYWORDS Insectoids, Space
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 4 80 13.217 7.259 -17.259 12.531 7.363 -17.363 12.973 9.263 -19.263 13.683 9.263 -19.263

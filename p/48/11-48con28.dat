@@ -2,11 +2,12 @@
 0 Name: 48\11-48con28.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG 48_Primitive UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 16 28 1 0 27.7592 1 3.654 28.7506 0 3.7845 29 0 0
 4 16 27.7592 1 3.654 27.0452 1 7.2464 28.0111 0 7.5052 28.7506 0 3.7845

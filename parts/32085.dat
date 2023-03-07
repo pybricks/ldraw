@@ -2,7 +2,7 @@
 0 Name: 32085.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Place Light Prism (2919.dat) at {0 0 -130}
 0 !HELP Place Magnet Holder (2920.dat) at {0 40 -130}
@@ -12,6 +12,7 @@
 0 !KEYWORDS Set 4560, Set 4561
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 -100 1 0 0 0 1 0 0 0 1 s\32085s01.dat
 1 16 0 0 -100 -1 0 0 0 1 0 0 0 1 s\32085s01.dat

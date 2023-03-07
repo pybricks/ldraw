@@ -2,13 +2,14 @@
 0 Name: 4107582f.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Set 5561
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 4 16 -9.815 0 -2.667 58 0 32 58 0 10.667 4.462 0 -6.222
 4 16 16.954 0 -19.556 -1.785 0 -12.444 -9.815 0 -2.667 4.462 0 -6.222

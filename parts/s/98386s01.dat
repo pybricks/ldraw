@@ -2,7 +2,7 @@
 0 Name: s\98386s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2021-02-10 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-05-09 [Holly-Wood] Fixed control points, flipped triangles
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 3 16 7.285 -2.934 -3.698 5.652 -5.25 -3.817 5.604 0 -3.426
 3 16 5.604 0 -3.426 7.035 0 -3.352 7.285 -2.934 -3.698

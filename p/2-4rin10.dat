@@ -2,11 +2,12 @@
 0 Name: 2-4rin10.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Primitive UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 4 16 10 0 0 11 0 0 10.1629 0 4.2097 9.239 0 3.827
 4 16 9.239 0 3.827 10.1629 0 4.2097 7.7781 0 7.7781 7.071 0 7.071

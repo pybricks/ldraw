@@ -2,11 +2,13 @@
 0 Name: 3815c4f.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Shortcut UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Castle, Knights Kingdom, set 4817, armor, leggings, belt, straps
-0 !KEYWORDS red studs, archer, knight
+
+0 !KEYWORDS archer, Armor, belt, Castle, knight, Knights Kingdom, leggings
+0 !KEYWORDS red studs, set 4817, straps
+
 0 !CMDLINE -c0
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
@@ -19,7 +21,8 @@
 0 !HISTORY 2020-07-09 [cwdee] Obsoleted due to bad leg geometry
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
- 1 16 0  0 0 1 0 0 0 1 0 0 0 1 3815p4f.dat
- 1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816p4f.dat
- 1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817p4f.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815p4f.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816p4f.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817p4f.dat
 0

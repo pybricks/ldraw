@@ -2,14 +2,15 @@
 0 Name: 22678.dat
 0 Author: Sylvain Sauvage [SLS]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Hose
-0 !KEYWORDS 7 mm D., 99 Ribs, 248 mm
+0 !KEYWORDS 248 mm, 7 mm D., 99 Ribs
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 -312.5 0 0 0 -1 0 1 0 0 0 0 -1 71944k01.dat
 1 16 -306.25 0 0 0 1 0 1 0 0 0 0 1 71944k02.dat

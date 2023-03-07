@@ -2,17 +2,18 @@
 0 Name: 3626bpc21.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Series 2, Mariachi, Maraca Man, Mexican, Bricklink 3626bpb0465
+0 !KEYWORDS Bricklink 3626bpb0465, Maraca Man, Mariachi, Mexican, Series 2
 
 0 !CMDLINE -c14
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 0 !HISTORY 2022-06-22 [Philo] Updated description
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat

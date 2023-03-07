@@ -2,14 +2,15 @@
 0 Name: 30361dps9.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, droid, astromech, orange droid, minifig
-0 !KEYWORDS Bricklink 30361pb032, set 75098
+0 !KEYWORDS astromech, Bricklink 30361pb032, droid, minifig, orange droid
+0 !KEYWORDS set 75098, Star Wars
 
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 0 // Body without front face
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30361ds01.dat
@@ -152,7 +153,6 @@
 4 25 -4.8 10 -19.042 -4.8 9.5 -19.042 -5.3 9.5 -18.943 -5.3 10 -18.943
 4 25 -5.3 16.3 -18.943 -5.3 16.8 -18.943 -4.8 16.8 -19.042 -4.8 16.3 -19.042
 4 25 -4.8 10 -19.042 -4.8 16.3 -19.042 -4.3 16.3 -19.142 -4.3 10 -19.142
-
 
 3 16 -5.8 10 -18.844 -5.8 9.5 -18.844 -6.3 9 -18.744
 3 16 -6.3 17.3 -18.744 -5.8 16.8 -18.844 -5.8 16.3 -18.844

@@ -2,16 +2,15 @@
 0 Name: s\170876s1.dat
 0 Author: Miklos Hosszu [hmick]
 0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2006-08-19 [WilliamH] BFCed
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
+
 0 // inside triangles
-
-
 
 3 16 11.8711 0 1.1692 12 0 0 4 0 7
 3 16 11.4991 0 2.2873 11.8711 0 1.1692 4 0 7

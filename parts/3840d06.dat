@@ -2,7 +2,7 @@
 0 Name: 3840d06.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Shortcut UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 0 !HISTORY 2021-01-16 [cwdee] Update description
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3840.dat
 1 16 0 14 -13 1 0 0 0 0 -1 0 1 0 003238p.dat

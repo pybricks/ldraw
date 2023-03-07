@@ -2,17 +2,18 @@
 0 Name: 3815cm1.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Shortcut UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Lord of the Rings, Eomer, Theoden
+0 !KEYWORDS Éomer, Lord of the Rings, Théoden
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 0 !HISTORY 2015-12-30 [cwdee] Update description
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
 0 !HISTORY 2020-07-09 [cwdee] Obsoleted due to bad leg geometry
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815pm1.dat
 1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816pm1.dat

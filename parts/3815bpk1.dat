@@ -2,17 +2,17 @@
 0 Name: 3815bpk1.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Toy Story, Woody, Disney
+0 !KEYWORDS Disney, Toy Story, Woody
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3815bs01.dat
 1 16 -2 12 0 0 4 0 8.08395 0 -3.34848 -3.34848 0 -8.08395 5-16cyli.dat
-
 
 4 484 -9 5 -10 -9 1 -10 -17.5 1 -10 -17.5 5 -10
 4 0 0 5.142 -10 0 4.6393 -10 -1.1473 4.5069 -10 -1.38 5 -10

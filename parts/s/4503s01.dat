@@ -2,7 +2,7 @@
 0 Name: s\4503s01.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-02-19 [MMR1988] Reworked
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 3 16 7.0288 -2.7502 12.5376 7.0288 -7.5704 7.0288 12.5376 -2.7502 7.0288
 3 16 12.5376 -2.7502 7.0288 7.0288 -7.5704 7.0288 11.3136 -6.4994 0
@@ -439,7 +440,6 @@
 4 16 2 19.851 -18.251 2 19.851 -12.602 2 1.749 -12.602 2 1.749 -18.251
 4 16 2 15.698 -21.026 2 19.851 -18.251 2 1.749 -18.251 2 5.902 -21.026
 3 16 2 10.8 -22 2 15.698 -21.026 2 5.902 -21.026
-
 
 2 24 12.7 7.123 -4.975 16 10.8 -4.975
 2 24 6 6.399 -19.825 6 10.8 -20.7

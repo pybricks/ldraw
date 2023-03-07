@@ -2,11 +2,12 @@
 0 Name: 95188.dat
 0 Author: Tim Gould [timgould]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 0 // Needs work: missing much underside detailing
 
@@ -1372,7 +1373,6 @@
 2 24 74.34 20 -85.66 76.36 20 -87
 0 //
 
-
 0 // Rims
 0 // Rim details
 2 24 0 24 -120 15.66 24 -118.97
@@ -1413,7 +1413,6 @@
 2 24 58 20 -100.46 66.18 20 -95
 2 24 68.46 20 -98.27 66.18 20 -95
 2 24 54.9 20 -106.44 53.08 20 -102.89
-
 
 4 16 0 20 -120 15.66 20 -118.97 15.66 24 -118.97 0 24 -120
 4 16 15.66 20 -118.97 25.4 20 -117.04 25.4 24 -117.04 15.66 24 -118.97

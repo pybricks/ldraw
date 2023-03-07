@@ -2,11 +2,12 @@
 0 Name: s\49308s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 3 16 22.516 32 13 25.4355 32 15.816 25.98 32 15
 4 16 24.0214 32 9.9502 22.516 32 13 25.98 32 15 27.717 32 11.481

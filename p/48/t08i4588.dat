@@ -2,11 +2,12 @@
 0 Name: 48\t08i4588.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG 48_Primitive UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // Major Radius: 85
 0 // Tube(Minor) Radius: 39

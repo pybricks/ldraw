@@ -2,16 +2,18 @@
 0 Name: 3963.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2003-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Space, Soccer, Public Address, PA, Loudspeaker
+
+0 !KEYWORDS Loudspeaker, PA, Public Address, Soccer, Space
 
 0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
 0 !HISTORY 2003-07-03 [hafhead] BFC'd, new name, many other improvements
 0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
 0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 1 16 0 4 12 1.5 0 0 0 4 0 0 0 2 box5.dat
 0 BFC INVERTNEXT

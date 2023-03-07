@@ -2,11 +2,12 @@
 0 Name: s\47972s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 -8 17.125 0 0 1 0 0 0 7.125 -5 0 0 rect.dat
 1 16 -14 10 0 6 0 0 0 -1 0 0 0 5 rect2p.dat

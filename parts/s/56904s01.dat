@@ -2,11 +2,12 @@
 0 Name: s\56904s01.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Subpart UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 4 16 4.6546 10.9496 18 3.2491 33.7862 18 1.2371 33.9186 18 2.6073 11.6567 18
 3 16 2.6073 11.6567 18 2.0308 21.0236 3.4891 2.6073 11.6567 3.4983

@@ -2,13 +2,14 @@
 0 Name: 57520.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-07-27 [technog] inlined face for patterns
 0 !HISTORY 2009-10-17 [arezey] Subfiled geometry
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 5 24 16 27.713 -5 8.5 14.722 -9 19.48 25.387 -5 12.246 29.564 -5
 4 16 6.505 15.706 -9 12.246 29.564 -5 16 27.713 -5 8.5 14.722 -9

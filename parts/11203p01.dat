@@ -2,14 +2,14 @@
 0 Name: 11203p01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Present, Birthday, Party
-0 !KEYWORDS Bricklink 11203pb013, Set 41310, Set 41132
+0 !KEYWORDS Birthday, Bricklink 11203pb013, Party, Present, Set 41132, Set 41310
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11203s01.dat
 4 272 -6.2 8 -8.7 -5.6 8 -8.5 -5.7 8 -9.4 -6.2 8 -9.5

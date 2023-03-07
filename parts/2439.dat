@@ -1,11 +1,12 @@
-0 Container  2 x  2 Rubbish Bin 
+0 Container  2 x  2 Rubbish Bin
 0 Name: 2439.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS trash, ashbin, dustbin, refuse, garbage, can, cylinder
+
+0 !KEYWORDS ashbin, can, Cylinder, dustbin, garbage, refuse, trash
 
 0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
 0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
@@ -13,8 +14,8 @@
 0 !HISTORY 2008-07-07 [nielsk] BFC'd and all bad vertices fixed (2006-01-09)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
-0 // Bottom
 
+0 // Bottom
 
 2 24 -1 43 -19.5 -1 43 -18.935
 2 24 -1 43 18.935 -4.917 43 18.352
@@ -129,7 +130,7 @@
 4 16 10.616 43 -16.387 10.334 43 -15.898 8.601 43 -16.898 8.884 43 -17.387
 
 0 // Bottom Stud
-1 16 0 43 0 1 0 0 0 -1 0 0 0 1  stud4.dat
+1 16 0 43 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 
 2 24 -16 43 -4.788 -16 48 -4.788
 2 24 -16 43 4.788 -16 43 -4.788

@@ -2,15 +2,16 @@
 0 Name: 973phd.dat
 0 Author: Howard Lande [HowardLande]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 75948, BrickLink 973pb3700
-0 !KEYWORDS Harry Potter, Goblet of Fire, Viktor Krum
+0 !KEYWORDS BrickLink 973pb3700, Goblet of Fire, Harry Potter, Set 75948
+0 !KEYWORDS Viktor Krum
 
 0 !HISTORY 2021-01-19 [Cheenzo] Fixed undefined colour code, added prims, removed unnecessary vertices
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat

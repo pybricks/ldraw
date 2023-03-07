@@ -2,11 +2,12 @@
 0 Name: s\6581b.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 3 16 0 54.525931 27.007307 0 55.111525 25.791309 -12.5 54.662941 27.073288
 4 16 -12.5 54.662941 27.073288 0 55.111525 25.791309 0 59.168543 14.197016 -12.5 59.617127 12.915038

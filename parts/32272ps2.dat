@@ -2,13 +2,15 @@
 0 Name: 32272ps2.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 9748, Star Wars, Artoo-Detoo, R2-D2, blue droid, astromech, x51ps2
+0 !KEYWORDS Artoo-Detoo, astromech, blue droid, R2-D2, Set 9748, Star Wars
+0 !KEYWORDS x51ps2
 
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32272s01.dat
 4 16 21.991 -127.178 -55.562 20 -127.186 -55.691 20 -124.5 -61.06 21.995 -125.54 -58.845

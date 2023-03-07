@@ -2,11 +2,12 @@
 0 Name: 3070bph0.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
 3 0 1.5 0 8 -3.5 0 5 -2 0 4.25
@@ -126,7 +127,7 @@
 4 7 0.2929 0 2.9571 -0.4142 0 3.6642 -0.8478 0 3.0154 0.0761 0 2.6327
 4 7 0.6173 0 3.1739 0.2346 0 4.0978 -0.4142 0 3.6642 0.2929 0 2.9571
 4 7 0.6173 0 3.1739 1 0 3.25 1 0 4.25 0.2346 0 4.0978
-0 
+0
 0 Pattern created wholly or in part by Quad2Dat
 0 Thanks James
 0

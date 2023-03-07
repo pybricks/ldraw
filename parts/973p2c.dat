@@ -2,19 +2,22 @@
 0 Name: 973p2c.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2003-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS Town, Paradisa, swimsuit
+
+0 !KEYWORDS Paradisa, swimsuit, town
+
 0 !CMDLINE -c14
 
 0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
 0 !HISTORY 2007-07-28 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 neck mark
-1 0 0 -4 0 4.243 0 -4.243  0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 0 plain back
 4 16 19 29 10 -19 29 10 -19 32 10 19 32 10
 4 16 -14.345 2 10 -19 29 10 19 29 10 14.345 2 10
@@ -122,8 +125,6 @@
 2 0 3.75 15.25 -10 6.75 16.25 -10
 4 0 6.5 16.5 -10 7 16 -10 9 16 -10 9 16.5 -10
 2 0 6.75 16.25 -10 9 16.25 -10
-
-
 
 4 16 0 9.5 -10 5 9.5 -10 2 11 -10 0 10.5 -10
 4 4 15.552 9 -10 19 29 -10 19 32 -10 15.552 32 -10

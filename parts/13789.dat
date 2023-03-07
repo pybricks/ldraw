@@ -2,17 +2,18 @@
 0 Name: 13789.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Constable, Bobby
+0 !KEYWORDS Bobby, Constable
 
 0 !HISTORY 2014-01-07 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-01-08 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-01-16 [Philo] Rebuilt inside, separated patternable areas, added keywords
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\13789s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\13789s01.dat

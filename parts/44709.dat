@@ -2,7 +2,7 @@
 0 Name: 44709.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Barrel angle: 18 degrees
 
@@ -12,6 +12,7 @@
 0 !KEYWORDS Overwatch
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 1 16 0 6 0 4 0 0 0 -16 0 0 0 4 4-4cylc.dat
 1 16 0 -7.5956 -17.7421 -1 0 0 0 -0.95106 0.30902 0 0.30902 0.95106 stud2a.dat

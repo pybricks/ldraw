@@ -2,14 +2,17 @@
 0 Name: 973p6a.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS SP2, Space Police 2, Law enforcement
+
+0 !KEYWORDS Law enforcement, SP2, Space Police 2
+
 0 !CMDLINE -c15
 
 0 !HISTORY 2009-05-24 [Eldar] add BFC, remove a gap, corrected some visual defects
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 // COMMENT neck mark

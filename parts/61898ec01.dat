@@ -2,14 +2,15 @@
 0 Name: 61898ec01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Sheet Plastic
-0 !KEYWORDS Duplo, Dacta, Early Simple Machines
+0 !KEYWORDS dacta, Duplo, Early Simple Machines
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 179.0383 0.0924 -1 0 0 0 0.92388 -0.38268 0 -0.38268 -0.92388 s\61898s01.dat
 1 16 -101 190.5188 27.8088 -8 0 0 0 0.92388 3.06147 0 -0.38268 7.39104 1-4cylo.dat

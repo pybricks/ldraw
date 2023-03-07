@@ -2,13 +2,14 @@
 0 Name: 87079pze.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 41599, BrickLink 87079pb469, Brickheadz
+0 !KEYWORDS Brickheadz, BrickLink 87079pb469, set 41599
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
 

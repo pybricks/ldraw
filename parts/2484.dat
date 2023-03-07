@@ -2,15 +2,16 @@
 0 Name: 2484.dat
 0 Author: William Howard [WilliamH]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Spring, Town, Axle, Wheels, Offroad
+
+0 !KEYWORDS Axle, Offroad, Spring, town, Wheels
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
-0 // Complete rework of the part originally submitted by Thomas Burger
 
+0 // Complete rework of the part originally submitted by Thomas Burger
 
 1 16 0 4 0 5 0 0 0 1 0 0 0 5 4-4edge.dat
 1 16 0 0 0 5 0 0 0 1 0 0 0 5 4-4edge.dat

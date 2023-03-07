@@ -2,11 +2,12 @@
 0 Name: s\4640189bs01.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Subpart UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 4 16 -54.454 0 5.558 -54.735 0 5.473 -54.827 0 5.339 -54.81 0 5.155
 4 16 -54.211 0 5.583 -54.454 0 5.558 -54.81 0 5.155 -54.655 0 4.95

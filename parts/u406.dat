@@ -2,13 +2,14 @@
 0 Name: u406.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Figure
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 3 16 6.26 14.23 18.54 0 8.78 22.72 0 14.73 19.2
 3 16 6.92 7.5 22.14 0 8.78 22.72 6.26 14.23 18.54

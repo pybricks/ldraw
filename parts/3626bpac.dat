@@ -2,12 +2,13 @@
 0 Name: 3626bpac.dat
 0 Author: George Barnes [glbarnes]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS face, eyebrows, pupil, pupils, highlight, highlights
-0 !KEYWORDS Adventurers, amazon, Achu, ruler, Jungle, priest, Racers
+0 !KEYWORDS Achu, Adventurers, amazon, eyebrows, face, highlight, highlights
+0 !KEYWORDS Jungle, priest, pupil, pupils, Racers, ruler
+
 0 !CMDLINE -c14
 
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
@@ -17,6 +18,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-10-29 [MagFors] bfc'd
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs04.dat

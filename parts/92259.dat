@@ -2,7 +2,7 @@
 0 Name: 92259.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Top accessory position: Y = -11.2
 0 !HELP Side accessory position: X = -19 , Y = 4.2, Z = 2.2
@@ -10,6 +10,7 @@
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 BFC INVERTNEXT
 1 16 0 4 0 -5.65685 0 -5.65685 0 -6.4 0 -5.65685 0 5.65685 t08o6250.dat

@@ -2,11 +2,12 @@
 0 Name: s\18788s01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 12.728 -27.188 -2 2.82843 0 -1.41421 2.82843 0 1.41421 0 -0.25 0 box5.dat
 1 16 12.728 -13.046 -2 -2.82843 0 -1.41421 2.82843 0 -1.41421 0 -0.25 0 box5.dat

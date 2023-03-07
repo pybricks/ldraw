@@ -2,7 +2,7 @@
 0 Name: s\30161s01.dat
 0 Author: George Barnes [glbarnes]
 0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2013-03-06 [MMR1988] BFC'ed, used more prims, added bumps
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
+
 1 16 0 -4 0 -40 0 0 0 -24 0 0 0 2 box4t.dat
 
 4 16 -36 -4 2 -36 -4 -2 -40 -4 -2 -40 -4 2
@@ -19,7 +20,6 @@
 4 16 2 -4 2 2 -4 -2 -2 -4 -2 -2 -4 2
 4 16 22 -4 2 22 -4 -2 18 -4 -2 18 -4 2
 4 16 40 -4 2 40 -4 -2 36 -4 -2 36 -4 2
-
 
 1 16 -36 -2 0 0 14 0 2 0 0 0 0 -4 box3u8p.dat
 1 16 -29 -4 0 7 0 0 0 1 0 0 0 4 recte4.dat

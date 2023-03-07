@@ -2,10 +2,11 @@
 0 Name: 42446.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS minifig neckwear
+
+0 !KEYWORDS Minifig Neckwear
 
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
@@ -14,6 +15,7 @@
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 0 !HISTORY 2019-09-02 [cwdee] Add thin to title
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 1 16 0 10 -13 1 0 0 0 0 -1 0 1 0 stud2.dat
 

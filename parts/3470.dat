@@ -2,7 +2,7 @@
 0 Name: 3470.dat
 0 Author: Christian M. Angele [cma_1971]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2010-06-20 [BlackBrick89] Made BFC compliant
 0 !HISTORY 2011-02-02 [Philo] Many small improvements
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 3 16 8 -34.12 -3 8 -40 -3 20.19 -40 -3
 4 16 9.5 -46 -3 9.5 -52 -3 32.71 -52 -3 27.64 -46 -3

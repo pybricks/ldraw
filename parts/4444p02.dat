@@ -2,7 +2,7 @@
 0 Name: 4444p02.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -16,6 +16,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2014-01-20 [Philo] Pattern recreated
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4444s01.dat
 4 8 25.1 16.3 -10 24.2 15.2 -10 18.1 27 -10 21.7 26.2 -10

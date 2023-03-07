@@ -2,7 +2,7 @@
 0 Name: t43243.dat
 0 Author: Rolf Osterthun [Rolf]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !KEYWORDS Duplo
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 2 24 -12 48 40 -12 48 36
 2 24 -12 48 -40 -12 48 -36

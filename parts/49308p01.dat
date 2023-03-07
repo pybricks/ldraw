@@ -2,13 +2,14 @@
 0 Name: 49308p01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Bricklink 49308pb001, Set 70822
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\49308s01.dat
 
@@ -2650,7 +2651,6 @@
 5 24 18.159 17.39 -23.666 21.091 17.39 -21.091 18.264 20 -23.802 17.849 14.824 -23.261
 5 24 18.159 17.39 -23.666 18.264 20 -23.802 21.091 17.39 -21.091 14.914 17.39 -25.831
 5 24 18.264 20 -23.802 21.213 20 -21.213 18.264 22.634 -23.802 18.159 17.39 -23.666
-
 
 0 // Pattern Front
 3 16 -.8 9.7 -27.0671 -1.82 10 -27.2 0 10 -27.32

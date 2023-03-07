@@ -2,13 +2,14 @@
 0 Name: 821472e.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Set 5521
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 4 0 -15.681 -0.25 -0.027 -16.054 -0.25 -0.026 -16.008 -0.25 -0.741 -15.639 -0.25 -0.687
 4 0 -15.634 -0.25 0.664 -16.002 -0.25 0.725 -16.054 -0.25 -0.026 -15.681 -0.25 -0.027

@@ -2,7 +2,7 @@
 0 Name: s\501s01.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP (1)
 0 !HELP The wheel position is raised a slight bit to allow for the wheels to
@@ -17,7 +17,7 @@
 0 BFC CERTIFY CW
 
 0 !HISTORY 2003-05-23 [Steffen] did some size bugfixes, used primitives
-0 !HISTORY 2004-01-28 [cwdee]   Removed POV code per LSC decision
+0 !HISTORY 2004-01-28 [cwdee] Removed POV code per LSC decision
 0 !HISTORY 2004-04-10 [Steffen] corrected renumbered wheel file reference
 0 !HISTORY 2008-12-02 [Steffen] this file was duplicatedly present on the PT, merged the two versions
 0 !HISTORY 2009-01-10 [Steffen] subparted, removed T junctions
@@ -30,6 +30,7 @@
 0 !HISTORY 2011-01-08 [Steffen] used u9130.dat, corrected position and size of bottomsize contacts to match x431.dat
 0 !HISTORY 2011-12-10 [Steffen] changed color 383 to 494
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 2 24 -40 16 -100 -40 56 -100
 2 24 40 56 -100 -40 56 -100

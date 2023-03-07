@@ -2,7 +2,7 @@
 0 Name: 2609a.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2014-10-15 [Darats] Complete rework; use more primitives; BFCed
 0 !HISTORY 2014-12-21 [PTadmin] Renamed from 2609
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 2 24 -20 0 20 -20 0 8
 2 24 -16 0 8 -16 0 -8

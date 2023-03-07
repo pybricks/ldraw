@@ -2,14 +2,16 @@
 0 Name: 973p1o.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 973pb0989, Police, Set 60131, Set 60068, Set 4440, Set 4439, Set 30018
-0 !KEYWORDS Swamp police, Forest police, Chopper pilot, helicopter
+0 !KEYWORDS Bricklink 973pb0989, Chopper pilot, Forest police, helicopter
+0 !KEYWORDS police, Set 30018, Set 4439, Set 4440, Set 60068, set 60131
+0 !KEYWORDS Swamp police
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat

@@ -2,14 +2,15 @@
 0 Name: 37341c.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS weapon, ninjago
+0 !KEYWORDS Ninjago, Weapon
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 4 0 0 0 -10 0 0 0 4 4-4cylc.dat
 1 16 0 -12 -3.5 5.5 0 0 0 0 2 0 -2 0 box5-2p.dat

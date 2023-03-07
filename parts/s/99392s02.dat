@@ -2,13 +2,14 @@
 0 Name: s\99392s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-05-20 {LEGO MINDSTORMS Team} Original part shape
 0 !HISTORY 2012-06-25 [Philo] Complete rebuild for LDraw Parts Tracker
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 4 16 55.7 29.6 -43.064 55.7 28.4 -43.064 55.5 28 -43.095 55 27.8 -43.172
 4 16 55 27.8 -43.172 55 30.2 -43.172 55.5 30 -43.095 55.7 29.6 -43.064

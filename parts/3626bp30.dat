@@ -2,11 +2,11 @@
 0 Name: 3626bp30.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS face, pirates, castle, wolfpack
+0 !KEYWORDS Castle, face, Pirates, wolfpack
 
 0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
 0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
@@ -14,6 +14,7 @@
 0 !HISTORY 2016-02-10 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2016-02-11 [cwdee] Obsoleted
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 0 // messy hair
 

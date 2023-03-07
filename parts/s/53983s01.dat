@@ -2,7 +2,7 @@
 0 Name: s\53983s01.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2018-02-07 [arezey] Complete rewrite
 0 !HISTORY 2020-05-28 [Holly-Wood] Eliminated T-Junk, rebuild blades
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 9 0 0 100 100 0 0 0 -18 0 48\1-4cylo.dat
 1 16 0 0 -30 0 0 94 94 0 0 0 1 0 48\1-4edge.dat
@@ -286,5 +287,4 @@
 5 24 45.627 82.082 -11.354 37.07 73.216 -14.007 35.974 86.847 -18.59 42.303 73.271 -10
 5 24 59.054 76.96 -15.741 49.418 64.403 -15.806 54.215 62.345 -13.064 46.814 65.14 -17.216
 5 24 33.641 87.637 -20.452 27.414 73.987 -19.409 28.238 73.563 -19.642 31.313 88.426 -18.5
-
 

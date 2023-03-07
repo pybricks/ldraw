@@ -2,7 +2,7 @@
 0 Name: 4611.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-08-30 [MagFors] bfc'd, added missing cond-lines, used stud
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 -76 0 2 0 0 0 2 0 0 0 2 bump5000.dat
 1 16 0 76 0 2 0 0 0 -2 0 0 0 2 bump5000.dat

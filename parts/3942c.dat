@@ -2,11 +2,12 @@
 0 Name: 3942c.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 2 24 20 48 0 18.48 48 7.65
 2 24 18.48 48 7.65 16 48 11.36
@@ -56,7 +57,7 @@
 2 24 -11.35 48 -16 0 48 -16
 2 24 -16 44 0 -16 44 -11.36
 2 24 -11.35 44 -16 0 44 -16
-1 16 0 12 0 1 0 0 0 -9 0 0 0 1 STUD4A.dat
+1 16 0 12 0 1 0 0 0 -9 0 0 0 1 stud4a.dat
 1 16 0 4 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
 1 16 0 4 0 8 0 0 0 8 0 0 0 8 4-4cyli.dat
 0 BFC INVERTNEXT
@@ -117,9 +118,9 @@
 1 16 0 0 0 3 0 0 0 1 0 0 0 3 4-4ring2.dat
 1 16 0 0 0 2 0 0 0 1 0 0 0 2 4-4ring4.dat
 1 16 0 0 0 10 0 0 0 1 0 0 0 10 4-4edge.dat
-1 16 0 44 0 10 0 0 0 -44 0 0 0 -10 4-4CON1.DAT
+1 16 0 44 0 10 0 0 0 -44 0 0 0 -10 4-4con1.dat
 0 BFC INVERTNEXT
-1 16 0 44 0 0 0 -8 0 -40 0 -8 0 0 4-4CON1.DAT
+1 16 0 44 0 0 0 -8 0 -40 0 -8 0 0 4-4con1.dat
 1 16 0 4 0 2 0 0 0 -2 0 0 0 2 4-4ring2.dat
 0 //
 2 24 5.602 12 2 5.543 12 2.296

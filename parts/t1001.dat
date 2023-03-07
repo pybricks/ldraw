@@ -2,13 +2,14 @@
 0 Name: t1001.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Electric
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 12 80 40 0 0 0 0 12 0 -1 0 rect.dat
 1 16 0 12 -80 40 0 0 0 0 12 0 1 0 rect.dat
@@ -252,7 +253,6 @@
 4 16 -18 3 77 -14 3 14 -14 3 6 -18 3 -77
 4 16 -14 3 6 -10 3 -6 -10 3 -14 -13 3 -63
 4 16 -13 3 -63 -13 3 -75 -18 3 -77 -14 3 6
-
 
 4 16 -36.7804 0.5 -70.3319 -36.8523 0.5 -71.4508 -36.3348 0.5 -71.1145 -35.9273 0.5 -70.778
 4 16 -35.9273 0.5 -70.778 -35.9273 0.5 -77 -34.951 0.5 -77 -34.951 0.5 -69.0153

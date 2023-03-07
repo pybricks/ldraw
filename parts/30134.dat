@@ -2,7 +2,7 @@
 0 Name: 30134.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 8 50 -40 0 0 0 -8 0 0 0 10 box4-1.dat
 1 16 0 32 30 40 0 0 0 -8 0 0 0 -10 box4-7a.dat

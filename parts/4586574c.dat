@@ -2,17 +2,17 @@
 0 Name: 4586574c.dat
 0 Author: David Manley [djm]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS railway, train
-0 !KEYWORDS set 7939
+0 !KEYWORDS railway, set 7939, Train
 
 0 !HISTORY 2019-07-03 [Holly-Wood] Added primitives, polished pattern
 0 !HISTORY 2020-06-29 [Cheenzo] Added 1-4ering primitives
 0 !HISTORY 2020-07-20 [MagFors] removed ering, used chrd and tang primitives
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 17.5 0 0 0 -.25 0 0 0 17.5 4-4cylc3.dat
 

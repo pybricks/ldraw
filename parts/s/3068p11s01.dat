@@ -2,12 +2,13 @@
 0 Name: s\3068p11s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-04-04 [GeraldLasser] Extracted from 3068bp11 and made CCW
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 4 16 11.598 0 12.588 11.29 0 10.508 12.043 0 9.779 20 0 20
 3 16 13.09 0 8.544 20 0 20 12.043 0 9.779

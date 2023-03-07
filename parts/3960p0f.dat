@@ -2,16 +2,18 @@
 0 Name: 3960p0f.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Town, umbrella, parasol, pinwheel, daisy, round, radar dish
-0 !KEYWORDS Bricklink 3960pb027
+0 !KEYWORDS Bricklink 3960pb027, daisy, parasol, pinwheel, Radar Dish, Round
+0 !KEYWORDS town, umbrella
+
 0 !CMDLINE -c15
 
 0 !HISTORY 2019-08-24 [GeraldLasser] Recoloured 3960p01.dat
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960p01a.dat
 1 26 0 0 0 1 0 0 0 1 0 0 0 1 s\3960p01b.dat

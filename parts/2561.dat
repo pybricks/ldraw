@@ -2,22 +2,23 @@
 0 Name: 2561.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS minifig weapon, firearm, pirate, blackpowder, blunderbuss
+0 !KEYWORDS blackpowder, blunderbuss, firearm, minifig weapon, Pirate
 
 0 !HISTORY 1998-05-21 [PTadmin] Official Update 1998-05
 0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
 0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
 0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-02-22 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2015-02-22 [MagFors] Added missing edges, used cyls primitives
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 -34 0 4 0 0 0 1 0 0 0 -4 4-4edge.dat
 1 16 0 -34 0 6 0 0 0 1 0 0 0 -6 4-4edge.dat

@@ -2,11 +2,12 @@
 0 Name: 87609.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 1 16 0 12 10 -7.391 0 3.0615 0 -8 0 -3.0615 0 -7.391 3-8cyli.dat
 1 16 0 4 10 -7.391 0 3.0615 0 -1 0 -3.0615 0 -7.391 3-8edge.dat

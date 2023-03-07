@@ -2,11 +2,12 @@
 0 Name: s\23799s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 1 16 7.9352 100.5631 46 -0.05235 -1 0 -0.9986 0 0 0 0 -6 rect3.dat
 1 16 3.4414 100.7987 49 0.05235 1 0 0.99865 0 0 0 0 -3 rect3.dat
@@ -114,7 +115,6 @@
 2 24 41.4791 93.1637 40 34.0119 96.0301 40
 2 24 37.4963 92.5503 46 40.6646 91.3341 46
 2 24 41.4792 93.1639 40 34.0122 96.0302 40
-
 
 1 16 80.0427 61.3929 46 -0.77715 0 0 -0.6293 1 0 0 0 -6 rect3.dat
 1 16 77.2107 64.8901 49 0.77715 0 0 0.62935 -1 0 0 0 -3 rect3.dat

@@ -2,11 +2,13 @@
 0 Name: 4150ps1.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Star Wars, Episode One, Life on Mars
-0 !KEYWORDS pod racer, podracer, flash, steam, Sebulba
+
+0 !KEYWORDS Episode One, Flash, Life on Mars, pod racer, podracer, Sebulba
+0 !KEYWORDS Star Wars, steam
+
 0 !CMDLINE -C7
 
 0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
@@ -16,6 +18,7 @@
 0 !HISTORY 2008-07-08 [westrate] fixed bowtie quads (2004-03-15)
 0 !HISTORY 2009-09-22 [anathema] BFC'd, added subpart and more primitives, removed edge-lines from pattern
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4150s01.dat
 4 8 -10.5 0 0 -10.45 0 -0.25 10.45 0 -0.25 10.5 0 0

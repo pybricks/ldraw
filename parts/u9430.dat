@@ -2,17 +2,19 @@
 0 Name: u9430.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Electric
-0 !KEYWORDS CR57, lithium, 3V
+0 !KEYWORDS 3V, CR57, lithium
 
 0 !CMDLINE -c494
+
 0 !HISTORY 2020-05-18 [Cheenzo] Changed orientation
 0 !HISTORY 2020-05-21 [MagFors] Used cone primitives, adjusted the pattern
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 -6 0 11.5 0 0 0 1 0 0 0 11.5 4-4edge.dat
 1 16 0 -6 0 11.5 0 0 0 4 0 0 0 11.5 4-4cyli.dat

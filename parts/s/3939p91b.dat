@@ -2,7 +2,7 @@
 0 Name: s\3939p91b.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2013-12-14 [MagFors] Removed T-junctions
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 4 4 34.195 0 15.906 35.277 0 15.093 35.313 0 13.774 34.664 0 12.836
 4 4 32.986 0 16.014 34.195 0 15.906 34.664 0 12.836 33.87 0 12.023

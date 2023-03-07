@@ -2,11 +2,12 @@
 0 Name: s\42607s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // Inner Tube Dimple
 4 16 -21.75 3.5327 0 -21 3.5327 -2.6789 -21.6992 4 -2.6789 -22.4492 4 0
@@ -56,7 +57,6 @@
 1 16 -12 10 0 0 -8 0 8 0 0 0 0 -8 1-4cyls.dat
 1 16 -20 10 0 8 0 0 8 1 0 0 0 -8 3-16edge.dat
 
-
 1 16 -17.8519 22 -5.5729 0 0 -.1481 2 0 0 0 -1 -.02945 rect3.dat
 0 BFC INVERTNEXT
 1 16 -20 24 0 6 0 0 0 -4 0 0 0 -6 3-16cylo.dat
@@ -86,7 +86,6 @@
 1 16 -15.75 14 -7.7985 0 -1 0 0 0 10 -1.2015 0 0 rect.dat
 2 24 -15.75 24 -6.597 -14.3432 24 -5.6568
 4 16 -14.3432 24 -5.6568 -14.3432 15.6568 -5.6568 -15.75 14.25 -6.597 -15.75 24 -6.597
-
 
 1 16 -20 24 0 8 0 0 0 1 0 0 0 -8 1-8edge.dat
 1 16 -20 24 0 8 0 0 0 -6 0 0 0 -8 1-8cyli.dat

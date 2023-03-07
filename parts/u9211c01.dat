@@ -2,13 +2,14 @@
 0 Name: u9211c01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 2 24 -6 1.5 0 -5.5433 1.5938 -2.2961
 2 24 -5.25 0.75 0 -4.8504 0.8438 -2.0091

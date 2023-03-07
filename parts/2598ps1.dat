@@ -1,13 +1,14 @@
 0 Windscreen 10 x 10 x  4 Octagonal Canopy with TIE Pattern
 0 Name: 2598ps1.dat
 0 Author: Orion Pobursky [OrionP]
-0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-01
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Interceptor, Set 7181, Empire, Imperial, Fighter, UCS
-0 !KEYWORDS Ultimate Collector Series, windshield, viewport
-0 !KEYWORDS Bricklink 2598px1, Rebrickable 2598pr0002, Brickowl 342287-95
+
+0 !KEYWORDS Bricklink 2598px1, Brickowl 342287-95, Empire, Fighter, Imperial
+0 !KEYWORDS Interceptor, Rebrickable 2598pr0002, Set 7181, UCS
+0 !KEYWORDS Ultimate Collector Series, viewport, windshield
 
 0 !HISTORY 2005-12-27 [guyvivan] Made BFC'ed and fixed bad quads and add one missing quad
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
@@ -15,9 +16,12 @@
 0 !HISTORY 2022-01-01 [MMR1988] Reworked Triangulation
 0 !HISTORY 2022-02-23 [OrionP] Fixed T-Junctions and added no clip command
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+0 !HISTORY 2023-01-09 [tchang] Replace NO CLIP by NOCLIP on line 22
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2598s01.dat
-0 BFC NO CLIP
+0 BFC NOCLIP
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2598ps1a.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2598ps1a.dat
 1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\2598ps1b.dat

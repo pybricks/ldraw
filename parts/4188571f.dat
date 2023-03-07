@@ -2,16 +2,17 @@
 0 Name: 4188571f.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Santa Fe, Train
+0 !KEYWORDS santa fe, Train
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
+
 0 // Original Text Produced by txt2dat, Copyright 2005-2007, 2009 R. Crawford
-0 // Using font: "Times New Roman" style: "Regular" size: 40pt 
+0 // Using font: "Times New Roman" style: "Regular" size: 40pt
 0 // LDRAW Scaling of Txt2dat output: 1.02 0 0 0 1 0 0 0 0.32
 
 1 80 0 -0.25 0 39 0 0 0 0.25 0 0 0 9 box5-12.dat

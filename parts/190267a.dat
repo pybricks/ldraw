@@ -2,13 +2,14 @@
 0 Name: 190267a.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Fabuland, set 350
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 0 -28.9 -0.25 11.6 -29.6 -0.25 10.8 -28.9 -0.25 10.4 -28.5 -0.25 10.9
 4 0 -28.2 -0.25 11.9 -28.9 -0.25 11.6 -28.5 -0.25 10.9 -28 -0.25 11.1

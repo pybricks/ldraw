@@ -2,13 +2,14 @@
 0 Name: 4713.dat
 0 Author: Marc Klein [marckl]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2006-08-20 [WilliamH] Added inverted dimple; used primitives
 0 !HISTORY 2009-12-15 [arezey] Fixed origin
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 26 1 0 3 0 24 0 0 0 0 19 box5.dat
 0 BFC INVERTNEXT

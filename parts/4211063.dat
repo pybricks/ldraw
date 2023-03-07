@@ -2,7 +2,7 @@
 0 Name: 4211063.dat
 0 Author: [PTadmin]
 0 !LDRAW_ORG Part Physical_Colour UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 0 !HISTORY 2021-01-16 [cwdee] Update description
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // This file is a "shortcut" with the correct number for the actual
 0 // colouring of the part (Dark_Bluish_Grey).

@@ -2,15 +2,16 @@
 0 Name: 57895p05.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10251, Bricklink 57895pb031, Modular
+0 !KEYWORDS Bricklink 57895pb031, Modular, set 10251
 
 0 !CMDLINE -47
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 // Font : Signature Regular, Bankoli Bold
 
@@ -1769,7 +1770,6 @@
 4 15 22.7 17.5 -2 22.7 29 -2 23.7 29 -2 23.7 17.5 -2
 4 15 16.7239 18.6173 -2 19.8522 29.7654 -2 20.7761 29.3827 -2 17.6478 18.2346 -2
 4 15 13.8 19 -2 13.8 30.5 -2 14.8 30.5 -2 14.8 19 -2
-
 
 0 // Bright Light Blue I
 

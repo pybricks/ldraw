@@ -2,13 +2,14 @@
 0 Name: s\30380s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2017-07-07 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 3 16 21.549 42.297 16.705 21.246 42.297 17.122 21.549 42.297 16.19
 4 16 20.756 42.297 17.281 21.246 42.297 15.773 21.549 42.297 16.19 21.246 42.297 17.122

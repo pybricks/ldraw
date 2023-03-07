@@ -1,15 +1,17 @@
-0 Tile  1 x  2 with  2 White Squares on Black Background and Gold Rectangle Pattern 
+0 Tile  1 x  2 with  2 White Squares on Black Background and Gold Rectangle Pattern
 0 Name: 3069bpz4.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 41621, BrickHeadz, Bricklink 3069bpb658
+0 !KEYWORDS Brickheadz, Bricklink 3069bpb658, Set 41621
+
 0 !CMDLINE -c47
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 // Main
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat

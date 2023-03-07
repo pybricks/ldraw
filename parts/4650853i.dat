@@ -2,13 +2,14 @@
 0 Name: 4650853i.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 3063, Flight plan, Flying club
+0 !KEYWORDS Flight plan, Flying Club, Set 3063
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 -0.25 0 19 0 0 0 0.25 0 0 0 19 box5-12.dat
 4 118 -9.1 -0.25 18 -9.4 -0.25 19 -19 -0.25 19 -19 -0.25 16.3

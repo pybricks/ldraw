@@ -2,12 +2,13 @@
 0 Name: tooth16.dat
 0 Author: Lance Hopenwasser [cavehop]
 0 !LDRAW_ORG Primitive UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2003-11-17 [technog] Moved from tooth24b to tooth16, re-titled, miner adjustment of length
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 0 4.6192 0 1 0 0 0 -1 0 0 0 4.75 rect.dat
 1 16 1.438 3.3096 0 0 -1 -0.4375 0 0 1.3096 -4.75 0 0 rect3.dat

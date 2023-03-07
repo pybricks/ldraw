@@ -2,13 +2,14 @@
 0 Name: 6219.dat
 0 Author: Luis E. Fernandez [lfernand]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS space, airplane, aeroplane, aircraft, airliner, airship, jet, spaceship
-0 !KEYWORDS extraterrestrial spacecraft, extraterrestrial vessel, spacecraft
-0 !KEYWORDS spaceport, space station, lunar module, NASA
+0 !KEYWORDS aeroplane, Aircraft, Airliner, Airplane, airship
+0 !KEYWORDS extraterrestrial spacecraft, extraterrestrial vessel, jet
+0 !KEYWORDS lunar module, NASA, Space, space station, spacecraft, Spaceport
+0 !KEYWORDS Spaceship
 
 0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
 0 !HISTORY 1998-04-11 [PTadmin] Official Update 1998-04
@@ -19,6 +20,7 @@
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 0 !HISTORY 2022-01-03 [MagFors] Reshaped axlehole, removed bad edgelines
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6219s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6219s01.dat

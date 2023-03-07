@@ -2,17 +2,17 @@
 0 Name: 004690ac01.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP 1 4 -20 0 0 1 0 0 0 1 0 0 0 1 3297.dat
 0 !HELP 1 4 40 0 0 1 0 0 0 1 0 0 0 1 3298.dat
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS awning, house, garden, slope
-0 !KEYWORDS set 376-2, set 560-1
+0 !KEYWORDS awning, garden, house, set 376-2, set 560-1, slope
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 10 -30 1 0 0 0 0.894427 -0.447214 0 0.447214 0.894427 s\004690as01.dat
 1 16 0 20 -50 1 0 0 0 0 -1 0 1 0 s\004690as02.dat

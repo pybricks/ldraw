@@ -2,11 +2,12 @@
 0 Name: s\3626cpm9s01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 3 0 -5.45 9.8 -11.693 -5.8 9.95 -11.459 -5.3 10.15 -11.793
 4 72 -8.2 7.05 -9.855 -8.9 6.95 -9.387 -8.35 7.6 -9.755 -7.6 7.85 -10.256

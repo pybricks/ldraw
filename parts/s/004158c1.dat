@@ -2,15 +2,14 @@
 0 Name: s\004158c1.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
+
 0 // Red
-
-
 
 4 4 2.95 0 2.95 2.95 0 -2.95 -2.95 0 -2.95 -2.95 0 2.95
 4 4 2.95 0 24 2.95 0 2.95 -2.95 0 2.95 -2.95 0 24

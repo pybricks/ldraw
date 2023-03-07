@@ -2,13 +2,14 @@
 0 Name: 973pu5.dat
 0 Author: Bruno Altmann [Bruno_Altmann]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Maersk, train, workman, set 10219, Bricklink 973pb0862.
+0 !KEYWORDS Bricklink 973pb0862., Maersk, Set 10219, Train, workman
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 
@@ -17,7 +18,6 @@
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
 
 1 0 12.95 13.4 -10 0 0 0.5 -0.5 0 0 0 1 0 1-4disc.dat
 1 0 6.45 13.4 -10 -0.5 0 0 0 0 -0.5 0 1 0 1-4disc.dat

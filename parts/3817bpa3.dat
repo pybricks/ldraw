@@ -2,15 +2,18 @@
 0 Name: 3817bpa3.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Johnny Thunder, Bricklink 970c00pb0018
+
+0 !KEYWORDS Bricklink 970c00pb0018, Johnny Thunder
+
 0 !CMDLINE -c19
 
 0 !HISTORY 2009-12-29 [westrate] Original design as 3817pa3
 0 !HISTORY 2020-06-27 [MagFors] Adapted to corrected geometry
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bs01.dat
 4 16 1.5 20 -4 1.5 20 -10 19.23 20 -10 19.23 20 -4

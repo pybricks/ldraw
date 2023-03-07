@@ -2,20 +2,21 @@
 0 Name: 48489.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Place at Y=6.5 on 2446 helmet
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Vladek, Evil, Castle
+0 !KEYWORDS Castle, evil, Vladek
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2019-03-05 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 0 !HISTORY 2020-10-04 [cwdee] Update description
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\48489s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\48489s01.dat

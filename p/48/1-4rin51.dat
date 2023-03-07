@@ -2,13 +2,14 @@
 0 Name: 48\1-4rin51.dat
 0 Author: John Riley [jriley]
 0 !LDRAW_ORG 48_Primitive UPDATE 2004-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 4 16 51 0 0 52 0 0 51.5528 0 6.786 50.5614 0 6.6555
 4 16 50.5614 0 6.6555 51.5528 0 6.786 50.2268 0 13.4576 49.2609 0 13.1988

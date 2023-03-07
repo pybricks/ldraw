@@ -2,13 +2,14 @@
 0 Name: s\43363s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 0 !HISTORY 2022-01-06 [MagFors] Reshaped axleholes
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 4 16 12.8284 116.213 87.5042 12.8498 126.937 90.479 0 126.813 91.0059 0 116.061 88.0218
 4 16 16.0433 116.519 86.4756 16.0704 127.189 89.4318 12.8498 126.937 90.479 12.8284 116.213 87.5042

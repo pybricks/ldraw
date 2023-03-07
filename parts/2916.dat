@@ -2,18 +2,19 @@
 0 Name: 2916.dat
 0 Author: R. M. Rodinsky [dublar]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Place Light Prism (2919.dat) at {0 24 -30}
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS train, front, light prism
+0 !KEYWORDS front, light prism, Train
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 0 !HISTORY 2017-07-31 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2017-07-31 [MagFors] bfc'd, added missing edges, closed gaps
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 16 -60 64 0 -60 24 0 -56 24 0 -56 60 0
 2 24 60 64 0 60 24 0

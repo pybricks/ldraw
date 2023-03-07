@@ -2,11 +2,12 @@
 0 Name: s\29096s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 // BOTTOM
 3 16 80 144 0 84 144 -16 79.312 144 -10.44
@@ -83,7 +84,7 @@
 1 16 62.5234 144 -52.8096 1.414214 0 1.414214 0 -5 0 1.414214 0 -1.414214 1-4cylo.dat
 5 24 63.9376 144 -54.2238 63.9376 139 -54.2238 59.3964 144 -59.3964 64.3712 144 -53.575
 1 16 61.667 141.5 -56.8101 -2.2706 -1 0 0 0 -2.5 -2.5863 0 0 rect2p.dat
- 
+
 1 16 79.7057 141.5 -53.1408 0 1 .7079 2.5 0 0 0 0 1.0609 rect3.dat
 1 16 80.2068 141.5 -51.04 -.2068 1 0 0 0 -2.5 1.03995 0 0 rect2p.dat
 5 24 80 144 -50 80 139 -50 80.761 139 -46.173 80.4136 139 -52.0799

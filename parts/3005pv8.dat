@@ -2,16 +2,18 @@
 0 Name: 3005pv8.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
 0 !KEYWORDS letters, numbers
 
-0 !HISTORY 2004-09-15 [PTadmin]       Official Update 2004-03
-0 !HISTORY 2007-05-11 [PTadmin]       Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin]       Official Update 2008-01
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-05-11 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-11-26 [Tore_Eriksson] Changed pattern color, pattern re-made
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3005s01.dat
 

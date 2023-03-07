@@ -2,13 +2,14 @@
 0 Name: toothb20.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Primitive UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 0 !HISTORY 2017-07-16 [MagFors] Closed gaps
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 3 16 2.07 -6.13 6.5 -2.07 -6.13 6.5 0 -6.13 2
 3 16 1.582 0 0 0 -3.13 0 -1.582 0 0

@@ -2,14 +2,15 @@
 0 Name: 3039pci.dat
 0 Author: N. W. Perry [Plastikean]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS console, computer, Star Wars UCS
-0 !KEYWORDS bricklink 3039pb108, set 75144, set 75220
+0 !KEYWORDS bricklink 3039pb108, computer, console, Set 75144, set 75220
+0 !KEYWORDS Star Wars UCS
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 

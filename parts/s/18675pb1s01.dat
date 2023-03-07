@@ -2,11 +2,12 @@
 0 Name: s\18675pb1s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 3 0 -39.4032 .9253 39.0634 -39.598 1.267 39.598 -41.1256 .9243 37.0994
 3 0 -41.1256 .9243 37.0994 -39.598 1.267 39.598 -41.4553 .9241 36.7235

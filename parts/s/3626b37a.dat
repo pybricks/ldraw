@@ -2,7 +2,7 @@
 0 Name: s\3626b37a.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Subpart UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-10-15 [MagFors] bfc'd
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 0 // stubble
 4 16 -10.147 14.6 -7.7638 -9.929 14.6 -8.09 -10.0381 14.2408 -7.9267 -10.3095 14.2371 -7.5206

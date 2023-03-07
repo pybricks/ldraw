@@ -2,11 +2,12 @@
 0 Name: 71379.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 0 BFC INVERTNEXT
 1 16 81.375 2 74.5 0 0 -1.875 -2 0 0 0 -6 0 box3u2p.dat
@@ -163,7 +164,6 @@
 1 495 -40 -11.75 30 -20 0 0 0 1 0 0 0 20 4-4disc.dat
 1 0 -40 -11.75 30 -20 0 0 0 1 0 0 0 20 4-4edge.dat
 1 0 -40 -11.75 30 -10 0 0 0 -1 0 0 0 10 4-4ring2.dat
-
 
 1 494 80 0 56.5 -1 0 0 0 -1 0 0 0 1 s\71379s01.dat
 1 494 80 0 23.5 -1 0 0 0 -1 0 0 0 1 s\71379s01.dat

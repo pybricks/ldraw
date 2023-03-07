@@ -2,7 +2,7 @@
 0 Name: s\3678as01.dat
 0 Author: Matt Schild [mschild]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,12 +15,11 @@
 0 !HISTORY 2010-05-08 [PTadmin] Renamed from s\3678s01
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
+
 0 // Uncomment for front shell
 0 // 4 16 20 44 -30 20 0 -10 -20 0 -10 -20 44 -30
 0 // Uncomment for back shell
 0 // 4 16 20 48 10 20 0 10 -20 0 10 -20 48 10
-
-
 
 2 24 16 48 6 -16 48 6
 2 24 -16 48 6 -16 48 -26

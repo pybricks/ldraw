@@ -2,11 +2,12 @@
 0 Name: s\71772s03.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 0 // Centre Studs
 1 16 20 12 0 -7.391 0 3.062 0 -8 0 3.062 0 7.391 3-8cyli.dat

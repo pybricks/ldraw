@@ -2,14 +2,15 @@
 0 Name: 973pxe.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 973pb2059, Set 75916, Set 75919, Set 75915, Set 75917, Set 75918
-0 !KEYWORDS Set 71205, Jurassic World
+0 !KEYWORDS Bricklink 973pb2059, Jurassic world, Set 71205, Set 75915, Set 75916
+0 !KEYWORDS Set 75917, Set 75918, Set 75919
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
@@ -1359,7 +1360,6 @@
 3 0 -1.4 4.3 -10 -1.47 4.45 -10 -.7 4.6 -10
 4 0 5.75 18.65 -10 7.25 18.7 -10 10.1 18.15 -10 5.8 18 -10
 3 0 10.1 18.15 -10 7.25 18.7 -10 10.15 18.8 -10
-
 
 4 0 7.4 1.75 10 7.25 .75 10 7.6 .75 10 7.85 1.8 10
 4 0 7.5 2.5 10 7.4 1.75 10 7.85 1.8 10 8 2.6 10

@@ -2,15 +2,16 @@
 0 Name: 004757a.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Train, Passenger wagon, Caboose, Set 164-1
+0 !KEYWORDS Caboose, Passenger wagon, Set 164-1, Train
 
 0 !HISTORY 2020-01-07 [Plastikean] Original TEXMAP pattern for OMR
 0 !HISTORY 2021-03-31 [RainbowDolphin] File preparation for LDraw Parts Tracker, vectorized the pattern
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 -0.25 0 13 0 0 0 0.25 0 0 0 13 box5-12.dat
 1 4 0 -0.25 0 10 0 0 0 1 0 0 0 10 48\4-4aring.dat

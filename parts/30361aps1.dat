@@ -2,11 +2,12 @@
 0 Name: 30361aps1.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, droid, astromech, Artoo-Detoo, Artoo, blue droid, minifig, R2-D2
+0 !KEYWORDS Artoo, Artoo-Detoo, astromech, blue droid, droid, minifig, R2-D2
+0 !KEYWORDS Star Wars
 
 0 !CMDLINE -c15
 
@@ -18,6 +19,7 @@
 0 !HISTORY 2012-05-14 [TK-949] Complete Rewrite
 0 !HISTORY 2012-05-15 [PTadmin] Renamed from 30361ps1
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30361as01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30361ps1s01.dat

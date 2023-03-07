@@ -2,7 +2,7 @@
 0 Name: 3942a.dat
 0 Author: Ronald Scott Moody [rmoody]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2021-12-29 [MagFors] Reshaped axlehole, used cyli and tang primitives
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 2 24 18.478 48 7.654 16 48 11.36
 2 24 16 48 11.36 16 44 11.36

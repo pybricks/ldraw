@@ -2,17 +2,18 @@
 0 Name: 48\t04o0222.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG 48_Primitive UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
+
 0 // Major Radius: 45
 0 // Tube(Minor) Radius: 1
 0 // Segments(Sweep): 12/48 = 0.25
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.0222 0 0  0 0 0.0222  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.0222 0 0 0 0 0.0222 0 1 0 4-4edge.dat
 
 4 16 1 0.0222 0 0.9914 0.0222 0.1305 0.9943 0.022 0.1309 1.0029 0.022 0
 4 16 1.0029 0.022 0 0.9943 0.022 0.1309 0.9971 0.0215 0.1313 1.0058 0.0215 0

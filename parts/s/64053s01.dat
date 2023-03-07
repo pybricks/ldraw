@@ -2,11 +2,12 @@
 0 Name: s\64053s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 20 0 0 -1 0 0 0 1 0 0 0 -1 stug-2x2.dat
 1 16 -20 0 0 -1 0 0 0 1 0 0 0 -1 stug-2x2.dat
@@ -138,20 +139,6 @@
 3 16 38 6.4 7.08 38 4.7 5 38 4.2 8.33
 3 16 38 4.7 5 38 3.8 2.42 38 4.2 8.33
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1 16 7.25 5.55 -19 0 0.65501 1.25 0 -0.75562 0.85 -1 0 0 rect3.dat
 1 16 4.45 4.25 -19 -1.55 0.40415 0 -0.45 -0.91469 0 0 0 -1 rect2p.dat
 1 16 1.45 3.65 -19 -1.45 0.14824 0 -0.15 -0.98895 0 0 0 -1 rect2p.dat
@@ -263,9 +250,6 @@
 3 16 40 4.2 -8.33 40 6.4 -7.08 40 4.7 -5
 3 16 38 4.2 -8.33 38 4.7 -5 38 6.4 -7.08
 3 16 38 4.2 -8.33 38 3.8 -2.42 38 4.7 -5
-
-
-
 
 3 16 40 0 -20 40 3.8 -2.42 40 3.5 0
 3 16 38 12.3 -3.83 38 8.3 -1.92 38 8.1 0

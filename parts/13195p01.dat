@@ -2,15 +2,16 @@
 0 Name: 13195p01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS SW, Star Wars
+0 !KEYWORDS Star Wars, SW
 
 0 !HISTORY 2013-08-30 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2019-10-01 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\13195s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\13195s01.dat
@@ -123,7 +124,6 @@
 3 15 -8.7678 -13.5761 -13.7064 -8.6943 -15.3008 -13.7252 -9.778 -14.401 -12.57
 3 0 -7.26 -14.27 -14.8909 -7.457 -15.4282 -14.8287 -7.44 -14.78 -14.8352
 3 15 -7.3563 -15.955 -14.8582 -7.5935 -16.6013 -14.7848 -7.457 -15.4282 -14.8287
-
 
 3 71 7.2412 -22.2054 8.6775 7.588 -19.541 10.248 7.1 -20.4 9.9904
 4 71 7.1 -20.4 9.9904 7.588 -19.541 10.248 6.845 -19.879 10.511 6.8372 -20.6994 9.9619

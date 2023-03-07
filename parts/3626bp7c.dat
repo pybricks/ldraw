@@ -2,17 +2,20 @@
 0 Name: 3626bp7c.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2005-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS Ross Ranger, Town, Arctic, A1, explorer
-0 !KEYWORDS Antarctic, Antarctica, polar, north pole, south pole
+
+0 !KEYWORDS A1, Antarctic, Antarctica, Arctic, explorer, north pole, Polar
+0 !KEYWORDS Ross Ranger, south pole, town
+
 0 !CMDLINE -C14
 
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 4 0 13 0 0 0 13 0 0 0 13 2-4cyli.dat

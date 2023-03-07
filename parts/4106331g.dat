@@ -2,15 +2,15 @@
 0 Name: 4106331g.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS wild west, western, cowboys, bandits
-0 !KEYWORDS shop, printing office, legoredo, sheet, poster
-0 !KEYWORDS set 6765
+0 !KEYWORDS bandits, cowboys, legoredo, poster, printing office, set 6765, sheet
+0 !KEYWORDS Shop, western, wild west
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // Box
 1 16 0 -.25 0 15 0 0 0 .25 0 0 0 25 box5-12.dat

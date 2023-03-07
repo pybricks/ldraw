@@ -2,11 +2,12 @@
 0 Name: s\3817bp70s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 16 4.7403 -4.7849 -7.1242 3.8704 -5.1329 -6.8916 4.1604 -4.379 -7.3955 4.7983 -4.495 -7.318
 4 16 4.1024 -5.4809 -6.659 3.8704 -5.3069 -6.7753 3.8704 -5.1329 -6.8916 4.7403 -4.7849 -7.1242

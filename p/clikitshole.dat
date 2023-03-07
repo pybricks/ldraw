@@ -2,19 +2,20 @@
 0 Name: clikitshole.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Primitive UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2006-10-14 [WilliamH] Rewound to CCW, added missing conditional lines
-0 !HISTORY 2015-07-14 [MagFors]  Added four more missing condlines
+0 !HISTORY 2015-07-14 [MagFors] Added four more missing condlines
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 6.5 0 0 0 1 0 0 0 6.5 4-4edge.dat
 0 BFC INVERTNEXT
-1 16 0 0 0 6.5 0 0 0 3 0 0 0 6.5 1-4cyli.DAT
+1 16 0 0 0 6.5 0 0 0 3 0 0 0 6.5 1-4cyli.dat
 0 BFC INVERTNEXT
-1 16 0 0 0 -6.5 0 0 0 3 0 0 0 -6.5 1-4cyli.DAT
+1 16 0 0 0 -6.5 0 0 0 3 0 0 0 -6.5 1-4cyli.dat
 2 24 0.75 3 -5.85 0.75 3 -6.351
 2 24 0.75 3 -5.85 0.75 0 -6.351
 2 24 0.75 0 -6.351 0.75 3 -6.351

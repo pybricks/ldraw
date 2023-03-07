@@ -2,14 +2,14 @@
 0 Name: 64782.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
-0 // Top holes
 
+0 // Top holes
 
 1 16 80 0 40 1 0 0 0 1 0 0 0 1 connhole.dat
 1 16 80 -10 40 9 0 0 0 20 0 0 0 9 4-4cyli.dat

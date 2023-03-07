@@ -2,7 +2,7 @@
 0 Name: axleend.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Primitive UPDATE 2003-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,12 +12,13 @@
 0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
- 4 16 6 0 0 5.602 0 2 2 0 2 0 0 0
- 4 16 -6 0 0 0 0 0 -2 0 2 -5.602 0 2
- 4 16 6 0 0 0 0 0 2 0 -2 5.602 0 -2
- 4 16 -6 0 0 -5.602 0 -2 -2 0 -2 0 0 0
- 4 16 0 0 6 0 0 0 2 0 2 2 0 5.602
- 4 16 0 0 6 -2 0 5.602 -2 0 2 0 0 0
- 4 16 0 0 -6 2 0 -5.602 2 0 -2 0 0 0
- 4 16 0 0 -6 0 0 0 -2 0 -2 -2 0 -5.602
+
+4 16 6 0 0 5.602 0 2 2 0 2 0 0 0
+4 16 -6 0 0 0 0 0 -2 0 2 -5.602 0 2
+4 16 6 0 0 0 0 0 2 0 -2 5.602 0 -2
+4 16 -6 0 0 -5.602 0 -2 -2 0 -2 0 0 0
+4 16 0 0 6 0 0 0 2 0 2 2 0 5.602
+4 16 0 0 6 -2 0 5.602 -2 0 2 0 0 0
+4 16 0 0 -6 2 0 -5.602 2 0 -2 0 0 0
+4 16 0 0 -6 0 0 0 -2 0 -2 -2 0 -5.602
 0

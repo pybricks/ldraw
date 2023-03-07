@@ -2,11 +2,12 @@
 0 Name: 48\4-4con30.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG 48_Primitive UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
 
 4 16 30 1 0 29.742 1 3.915 30.7334 0 4.0455 31 0 0
 4 16 29.742 1 3.915 28.977 1 7.764 29.9429 0 8.0228 30.7334 0 4.0455
@@ -107,6 +108,5 @@
 5 24 28.977 1 -7.764 29.9429 0 -8.0228 27.717 1 -11.481 29.742 1 -3.915
 5 24 29.742 1 -3.915 30.7334 0 -4.0455 28.977 1 -7.764 30 1 0
 
-0 end of file 
-
+0 end of file
 

@@ -2,10 +2,12 @@
 0 Name: 3641.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Town, Tire
+
+0 !KEYWORDS Tire, town
+
 0 !CMDLINE -c256
 
 0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
@@ -17,9 +19,8 @@
 0 !HISTORY 2008-07-08 [guyvivan] Add inner detail (2004-12-19)
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
+
 0 // Nomenclature: width_(mm)/profile_as_%age_of_width x rim_diameter_(mm)
-
-
 
 2 24 0 14 -8 2.7313 13.731 -8
 2 24 3.5116 17.6541 -8 6.8883 16.6298 -8

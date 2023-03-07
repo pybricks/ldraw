@@ -2,11 +2,12 @@
 0 Name: s\23800s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 4 16 -74.529 0 -52 -72.6658 0 -52 -71.7134 -11.2989 -52 -73.8881 -9.726 -52
 4 16 -73.8881 -9.726 -52 -71.7134 -11.2989 -52 -69.4956 -20.5585 -52 -71.9876 -19.2881 -52

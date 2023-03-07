@@ -2,11 +2,12 @@
 0 Name: s\32078s01.dat
 0 Author: Marc Klein [marckl]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 5 24 0 82.5385 27.4102 0 83.18 24.8502 -1.493 83.082 24.85 7.7393 81.2328 28.4291
 5 24 0 80.5867 35.2 0 81.5741 31.2592 -1.493 83.082 24.85 12.8 79.2717 33.5148

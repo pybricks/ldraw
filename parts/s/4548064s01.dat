@@ -2,13 +2,14 @@
 0 Name: s\4548064s01.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 0 !HISTORY 2017-05-01 [PTadmin] Renamed from s/86037s01
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 0 -42.045 0 -7.027 -38.935 0 -7.027 -38.935 0 0.691 -42.045 0 3.225
 4 0 -42.045 0 3.225 -38.935 0 0.691 -38.359 0 0.691 -36.401 0 3.225

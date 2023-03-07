@@ -2,13 +2,14 @@
 0 Name: 3068bp85.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Simpson, The Simpsons, set 71006
+0 !KEYWORDS Set 71006, Simpson, The Simpsons
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 4 0 -17.85 0 -15.5 -18.25 0 -15.55 -18.5 0 -15.95 -18.1 0 -16.55

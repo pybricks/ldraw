@@ -2,11 +2,12 @@
 0 Name: s\3960pv2a.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 4 0 10.948 1.33 14.264 9.4 1.247 14.7 7.657 0.604 11.237 8.3 0.605 10.81
 4 0 12 1.794 16.9 10.3 1.622 16.8 9.4 1.247 14.7 10.948 1.33 14.264

@@ -2,11 +2,12 @@
 0 Name: s\92253p04s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 3 16 17.8827 -6.8465 -1.7163 18.4 -4.5 -3 18.4792 -5.1567 0.9942
 3 16 9.1924 -2.6166 13.1086 9.2994 -4.2352 12.8873 10.2568 -3.2041 12.3797

@@ -2,7 +2,7 @@
 0 Name: 4287a.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2017-07-17 [PTadmin] Renamesd from 4287
 0 !HISTORY 2017-09-16 [Sirio] Renamed and redrew for the notch
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // Studs without blocker
 

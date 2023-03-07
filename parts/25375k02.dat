@@ -2,7 +2,7 @@
 0 Name: 25375k02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part Flexible_Section UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2016-10-05 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2016-10-10 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 3 16 2.473 28.291 2.335 1.756 29.055 2.801 1.313 26.799 5.976
 3 16 1.313 26.799 5.976 1.756 29.055 2.801 0.765 27.443 6.109

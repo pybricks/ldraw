@@ -2,17 +2,18 @@
 0 Name: 14769p03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Friends, Ship, Boat, Beach, Pool, Bricklink 14769pb002
-0 !KEYWORDS Set 10747, Set 41028, Set 41033, Set 41099, Set 41306, Set 41313
-0 !KEYWORDS Set 41316, Set 41317, Set 41347, Set 471801, Set 853778
+0 !KEYWORDS Beach, boat, Bricklink 14769pb002, Friends, Pool, Set 10747
+0 !KEYWORDS Set 41028, Set 41033, Set 41099, Set 41306, Set 41313, Set 41316
+0 !KEYWORDS Set 41317, Set 41347, Set 471801, Set 853778, ship
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 0 !HISTORY 2020-09-17 [RainbowDolphin] Subfiled for common print pattern with 4150p08, added Bricklink reference and set numbers
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769p03s01.dat

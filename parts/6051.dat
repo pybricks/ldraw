@@ -2,22 +2,23 @@
 0 Name: 6051.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS pirate, pirates, ship, skull, Armada
+0 !KEYWORDS Armada, Pirate, Pirates, ship, skull
 
-0 !HISTORY 2002-11-30 [PTadmin]       Official Update 2002-05
-0 !HISTORY 2007-07-09 [PTadmin]       Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin]       Official Update 2008-01
-0 !HISTORY 2012-10-02 [Steffen]       BFC rationalisation
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2012-10-02 [Steffen] BFC rationalisation
 0 !HISTORY 2013-08-11 [theJudeAbides] Fixed Errors, Used More Primitives
-0 !HISTORY 2015-10-11 [PTadmin]       Official Update 2015-01
-0 !HISTORY 2018-04-30 [MagFors]       Rotated all studs, subfiled
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2018-04-30 [MagFors] Rotated all studs, subfiled
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
-0 // Needs work: usually invisible underside not modeled 
+
+0 // Needs work: usually invisible underside not modeled
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6051s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6051s01.dat

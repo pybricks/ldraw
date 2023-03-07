@@ -2,7 +2,7 @@
 0 Name: 3183a.dat
 0 Author: Remco Braak [remco1974]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2016-10-01 [MagFors] Made bfc, closed gaps, extended description
 0 !HISTORY 2016-10-09 [PTadmin] Renamed from 3183
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 2 24 -11.83 6 -26 -11.31 8 -27
 2 24 -11.31 8 -27 -9.7 8 -29

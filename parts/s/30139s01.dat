@@ -2,11 +2,12 @@
 0 Name: s\30139s01.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 2 24 34.306 -76 13.86 36.999 -76 0.323
 4 16 37.5 -76 0 36.999 -76 0.323 34.306 -76 13.86 34.645 -76 14.351

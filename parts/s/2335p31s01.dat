@@ -2,11 +2,12 @@
 0 Name: s\2335p31s01.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 4 0 -2 7.9985 47.7559 -2 8.0973 47.7778 -2 14.1613 47.1365 -2 10.4093 47.2106
 4 0 -2 23.921 46.2909 -2 22.0653 46.3799 -2 23.7323 46.8903 -2 26.058 46.9483

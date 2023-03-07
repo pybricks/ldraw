@@ -2,14 +2,17 @@
 0 Name: 72632c01.dat
 0 Author: Kevin Clague [kclague]
 0 !LDRAW_ORG Shortcut UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Dacta, 9V, Mindstorm, RCX
+
+0 !KEYWORDS 9V, dacta, Mindstorm, RCX
+
 0 !CMDLINE -c1
 
 0 !HISTORY 2017-01-06 [MagFors] Made BFC, made cable of primitives
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 72632.dat
 1 0 20 64 0 -1 0 0 0 1 0 0 0 -1 6625c01.dat

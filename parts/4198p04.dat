@@ -2,14 +2,15 @@
 0 Name: 4198p04.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Circus, Clown, Set 2033, Set 2344, bricklink 4198pb02
+0 !KEYWORDS bricklink 4198pb02, Circus, Clown, Set 2033, Set 2344
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4198s01.dat
 4 15 -30.16 24.02 -40 -31.5 23.75 -40 -32.84 24.02 -40 -33.97 24.78 -40

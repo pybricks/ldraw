@@ -2,17 +2,18 @@
 0 Name: 72824p01.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS football, sphere, truncated icosahedron
+0 !KEYWORDS football, Sphere, truncated icosahedron
 
 0 !CMDLINE -c15
 
 0 !HISTORY 2010-02-09 [Philo] Subparted, added grooves and condlines
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 0 // Steve Bliss: Original DAT code - Matthew Verdier: Geometry
 

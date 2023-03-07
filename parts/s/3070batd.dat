@@ -2,13 +2,14 @@
 0 Name: s\3070batd.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Subpart UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
-4 16 0 0 -5.5 0 0 -7.5 -6 0 -7.5 -4 0 -5.5 
+
+4 16 0 0 -5.5 0 0 -7.5 -6 0 -7.5 -4 0 -5.5
 4 16 -4 0 -5.5 -6 0 -7.5 -6 0 7.5 -4 0 5.5
 4 16 -4 0 5.5 -6 0 7.5 0 0 7.5 0 0 5.5
 4 16 2.2962 0 6.9293 1.5308 0 5.0814 0 0 5.5 0 0 7.5

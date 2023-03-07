@@ -2,14 +2,15 @@
 0 Name: 6530.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Technic
-0 !KEYWORDS Dacta, Early Simple Machines
+0 !KEYWORDS dacta, Early Simple Machines
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 0 -20 0 0 -1 -1 0 0 0 40 0 daxlehub.dat
 1 16 0 0 -20 0 0 -1 -1 0 0 0 40 0 daxlehole.dat

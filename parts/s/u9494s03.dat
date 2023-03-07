@@ -2,11 +2,12 @@
 0 Name: s\u9494s03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 16 -210 0 -139.5 -235 0 -214 -235 -0.25 -214 -210 -0.25 -139.5
 4 16 -235 0 -214 -253 0 -262.5 -253 -0.25 -262.5 -235 -0.25 -214

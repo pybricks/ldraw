@@ -2,7 +2,7 @@
 0 Name: 572c.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Shortcut UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,11 +14,12 @@
 0 !HISTORY 2022-02-23 [OrionP] Added category
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
-1 16 -9 0 0  0 1 0  4   0 0 0 0 4   4-4edge.dat
-1 16 -9 0 0  0 1 0  1.5 0 0 0 0 1.5 4-4edge.dat
-1 16  9 0 0  0 1 0  1.5 0 0 0 0 1.5 4-4edge.dat
-1 16  9 0 0  0 1 0  4   0 0 0 0 4   4-4edge.dat
-1 16 -9 0 0  0 1 0  4   0 0 0 0 4   4-4disc.dat
-1 16  9 0 0 0 -1 0 4 0 0 0 0 -4 4-4disc.dat
-1 16 -9 0 0  0 18 0  4 0 0  0 0 4 4-4cyli.dat
+
+1 16 -9 0 0 0 1 0 4 0 0 0 0 4 4-4edge.dat
+1 16 -9 0 0 0 1 0 1.5 0 0 0 0 1.5 4-4edge.dat
+1 16 9 0 0 0 1 0 1.5 0 0 0 0 1.5 4-4edge.dat
+1 16 9 0 0 0 1 0 4 0 0 0 0 4 4-4edge.dat
+1 16 -9 0 0 0 1 0 4 0 0 0 0 4 4-4disc.dat
+1 16 9 0 0 0 -1 0 4 0 0 0 0 -4 4-4disc.dat
+1 16 -9 0 0 0 18 0 4 0 0 0 0 4 4-4cyli.dat
 0

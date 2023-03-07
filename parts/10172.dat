@@ -2,12 +2,11 @@
 0 Name: 10172.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-
 0 !KEYWORDS award, prize
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
@@ -15,6 +14,7 @@
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 0 !HISTORY 2021-09-14 [GeraldLasser] Subfiled for Pattern
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\10172s02.dat
 

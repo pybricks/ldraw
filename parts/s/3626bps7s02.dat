@@ -2,12 +2,13 @@
 0 Name: s\3626bps7s02.dat
 0 Author: Daniel Goerner [TK-949]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-02-01 [Holly-Wood] Closed gaps
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 16 5.75 12.02 -11.493 5.31 12.13 -11.787 5.57 12.78 -11.613 6.04 12.64 -11.299
 4 16 5.31 12.13 -11.787 4.9745 12.13 -12.011 4.9745 12.84 -12.011 5.57 12.78 -11.613

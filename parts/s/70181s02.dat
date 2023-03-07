@@ -2,13 +2,14 @@
 0 Name: s\70181s02.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-29 [MagFors] Created with the help of MLCad Spring Generator
 0 !HISTORY 2019-03-06 [MagFors] Added conditional lines
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 2 24 3.75 0.23 0 3.46 0.29 1.44
 2 24 3.98 0 0 3.68 0.06 1.53

@@ -2,13 +2,14 @@
 0 Name: 58134.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 0 // Needs Work: Battery case is underdetailed
 0 // Needs Work: Internal surface not exact
@@ -129,7 +130,7 @@
 5 24 13.01 -12.59 -97.02 17 -24 -99 13.01 -24 -104.97 18 -24 -97
 5 24 13.01 -12.59 -97.02 18 -24 -97 17 -24 -99 17 -2 -84
 2 24 13.01 -12.59 -97.02 17 -2 -84
-0 
+0
 4 16 -14.54 -24 -105.67 -17 -24 -99 -18 -24 -97 -19 -24 -99
 3 16 -13.01 -24 -104.97 -17 -24 -99 -14.54 -24 -105.67
 4 16 -7.04 -24 -108.96 -13.01 -24 -104.97 -14.54 -24 -105.67 -7.87 -24 -110.13
@@ -138,4 +139,4 @@
 4 16 14.54 -24 -105.67 13.01 -24 -104.97 7.04 -24 -108.96 7.87 -24 -110.13
 3 16 17 -24 -99 13.01 -24 -104.97 14.54 -24 -105.67
 4 16 19 -24 -99 18 -24 -97 17 -24 -99 14.54 -24 -105.67
-0 
+0

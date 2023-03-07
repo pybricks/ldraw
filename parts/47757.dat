@@ -2,7 +2,7 @@
 0 Name: 47757.dat
 0 Author: Tim Gould [timgould]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,7 +10,8 @@
 0 !HISTORY 2008-03-15 [Philo] Added condlines on 2 faces
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 S\48933s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\48933s01.dat
 0 // Top surface
 4 16 -20 0 -10 -2 -8 -30 2 -8 -30 20 0 -10
 4 16 20 20 -70 2 -8 -30 -2 -8 -30 -20 20 -70
@@ -28,7 +29,7 @@
 3 16 20 20 -70 40 20 -10 34.6 17.6 -16
 2 24 14.6 -2.4 -16 34.6 17.6 -16
 2 24 34.6 17.6 -16 40 20 -10
-2 24 34.6 17.6 -16 20 20 -70    
+2 24 34.6 17.6 -16 20 20 -70
 5 24 14.6 -2.4 -16 20 20 -70 34.6 17.6 -16 2 -8 -30
 0 // Side 2
 4 16 -20 0 -10 -20 0 10 -40 20 10 -40 20 -10

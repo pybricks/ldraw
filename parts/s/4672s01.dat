@@ -2,14 +2,12 @@
 0 Name: s\4672s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Plate
-
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 BFC INVERTNEXT
 1 16 0 24 0 156 0 0 0 -20 0 0 0 76 box5.dat

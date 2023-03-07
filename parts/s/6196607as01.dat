@@ -2,11 +2,12 @@
 0 Name: s\6196607as01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 4 15 -14.5 -0.25 29 -14.5 -0.25 0 -13.5 -0.25 0 -13.5 -0.25 22.5
 3 15 -14.5 -0.25 29 -13.5 -0.25 22.5 -13.3 -0.25 24.5

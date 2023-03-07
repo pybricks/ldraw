@@ -2,12 +2,13 @@
 0 Name: 33230.dat
 0 Author: Paul Izquierdo Rojas [pir]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-05-11 [MagFors] Used subfile, added edgelines
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 3 16 -156 4 -156 -40 4 -40 156 4 -40
 3 16 -40 4 -40 -156 4 -156 -40 4 156

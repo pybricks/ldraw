@@ -2,11 +2,12 @@
 0 Name: 3650c.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3650s01.dat
 1 16 0 0 -6 13.858 0 5.74 -5.74 0 13.858 0 -1 0 1-8edge.dat

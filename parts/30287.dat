@@ -2,17 +2,18 @@
 0 Name: 30287.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS parka, Arctic
+0 !KEYWORDS Arctic, parka
 
 0 !HISTORY 2008-12-20 {LEGO Universe Team} Original part shape
 0 !HISTORY 2009-05-08 [westrate] File preparation for LDraw Parts
 0 !HISTORY 2016-06-02 [Holly-Wood] Fixed inner diameter
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30287s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30287s01.dat

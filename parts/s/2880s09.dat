@@ -2,12 +2,13 @@
 0 Name: s\2880s09.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2020-02-02 [Holly-Wood] Fixed BFC error, fixed concave quads, fixed prims, changed line to cond.
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 -284 0 0 1 0 0 0 1 0 0 0 1 s\2670s03.dat
 1 16 -292 0 0 1 0 0 0 1 0 0 0 1 s\2670s03.dat

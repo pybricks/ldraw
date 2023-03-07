@@ -2,7 +2,7 @@
 0 Name: 90462b.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Position of frontside stud: 0 -5.672 -15.841
 0 !HELP 1 36 0 -5.672 -24.341 0 0 1 1 0 0 0 1 0 4073.dat
@@ -16,10 +16,11 @@
 0 !HISTORY 2011-10-16 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2011-11-01 [MagFors] Added edge lines
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-0 !HISTORY 2012-12-24 [cwdee]   Update category
+0 !HISTORY 2012-12-24 [cwdee] Update category
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 0 !HISTORY 2016-01-18 [MagFors] Copied from 90462a and moved all surfaces 2 ldu up without changing origin
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\90462bs01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\90462bs01.dat

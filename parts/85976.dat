@@ -2,13 +2,14 @@
 0 Name: 85976.dat
 0 Author: Ronald Vallenduuk [Duq]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
-0 BFC CERTIFY CCW
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP The rotation point is at 0/0/-480
 
+0 BFC CERTIFY CCW
+
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // End plate
 

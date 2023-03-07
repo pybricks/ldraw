@@ -2,14 +2,14 @@
 0 Name: 6138629h.dat
 0 Author: Joel Barker [joel333]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Ghostbusters, firehouse
-0 !KEYWORDS set 75827
+0 !KEYWORDS firehouse, Ghostbusters, set 75827
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // outer part of map pin (black)
 4 0 -4.01 -0.25 4.04 -4.059 -0.25 3.58 -3.08 -0.25 3.58 -3.03 -0.25 3.94

@@ -2,13 +2,14 @@
 0 Name: 30117p62.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Space, Set 6977
+0 !KEYWORDS Set 6977, Space
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30117s01.dat
 1 16 10 0 -70 1 0 0 0 1 0 0 0 1 stud.dat

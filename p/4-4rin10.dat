@@ -2,7 +2,7 @@
 0 Name: 4-4rin10.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Primitive UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2010-12-19 [MagFors] Corrected with Primitive Generator 2
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 4 16 11 0 0 10.1629 0 4.2097 9.239 0 3.827 10 0 0
 4 16 10.1629 0 4.2097 7.7781 0 7.7781 7.071 0 7.071 9.239 0 3.827

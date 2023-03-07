@@ -2,12 +2,13 @@
 0 Name: s\u9248s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-18 [GeraldLasser] Re-Written from Scratch
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 0 // Bottom around LED Holder and Side
 4 16 -16 0 -136 -21.3333 0 -131 -10 0 -131 -6 0 -136
@@ -316,7 +317,7 @@
 2 24 -7.9669 -10.5248 24 -7.049 -10.7132 23.5
 2 24 -7.9669 -10.5248 24 -8.8848 -9.3364 24.5
 
-0 // Tip, Corrugated 
+0 // Tip, Corrugated
 4 16 -1.1716 -11.8827 35.5 -.358 -14.742 24.5 -8.8848 -9.3364 24.5 -19.9155 0 35.5
 3 16 -8.8848 -9.3364 24.5 -21.3333 0 24.5 -21.3333 0 31.2811
 3 16 -8.8848 -9.3364 24.5 -21.3333 0 31.2811 -19.9155 0 35.5

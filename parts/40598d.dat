@@ -2,15 +2,15 @@
 0 Name: 40598d.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-
 0 !KEYWORDS Minifig Accessory Pack #10
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 4 0 0 0 -10 0 0 0 4 4-4cylc.dat
 3 16 5.625 -10 0 2.1527 -10 -5.1969 2.1527 -10 5.1969

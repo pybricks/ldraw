@@ -2,15 +2,16 @@
 0 Name: 3068bp77.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS age, height, weight, eyes, hair, build, unknown, 42 mm, 3.4 g, black, average
-0 !KEYWORDS set 10246, set 60131
-0 !KEYWORDS fugitive, criminal, detective, gangster, villain, robber, reward
+0 !KEYWORDS 3.4 g, 42 mm, age, average, Black, build, criminal, detective, Eyes
+0 !KEYWORDS fugitive, gangster, hair, height, reward, robber, set 10246
+0 !KEYWORDS set 60131, unknown, villain, weight
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 0 // Subpart
 

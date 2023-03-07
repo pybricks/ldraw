@@ -2,7 +2,7 @@
 0 Name: bushlock.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Primitive UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2010-05-21 [tchang] Rebuild with 16 edges on external cylinder/plane form
 0 !HISTORY 2010-12-21 [tchang] Y position set to official update
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 0 // Half Cylinder External
 

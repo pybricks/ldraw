@@ -2,7 +2,7 @@
 0 Name: 17979.dat
 0 Author: Bertrand Lequy [Berth]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2021-04-17 [Berth] File preparation for LDraw Parts Tracker
 0 !HISTORY 2021-10-21 [Holly-Wood] Changed clip type, fixed gaps, fixed T-junk
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // frame
 1 16 -2.25 90.75 8.675 0 1 0 1.5 0 0 0 0 1.5 1-4ndis.dat

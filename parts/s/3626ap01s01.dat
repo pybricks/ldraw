@@ -2,13 +2,14 @@
 0 Name: s\3626ap01s01.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-04-10 [MMR1988] Created by using content of 3626cp01.dat
 0 !HISTORY 2013-09-01 [MagFors] Increased decimal accuracy
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 0 // neutral area
 1 16 3.5 10 -12.3035 1.226 0 0 0 0 -1.25 0.2442 1 0 4-4ndis.dat

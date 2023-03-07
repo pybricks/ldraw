@@ -2,7 +2,7 @@
 0 Name: 6431.dat
 0 Author: Tim Lampmann [L4mpi]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Place Door as 1 15 -139.5 85 -76 1 0 0 0 1 0 0 0 1 2205.dat
 0 !HELP Place Window as 1 15 139.5 85 -76 -1 0 0 0 1 0 0 0 1 2206.dat
@@ -12,6 +12,7 @@
 0 !CATEGORY Brick
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 BFC INVERTNEXT
 1 16 0 278 -76 0 0 156 10 0 0 0 152 0 box3u2p.dat
@@ -94,11 +95,11 @@
 1 16 75 84 -79 70 0 0 0 0 -20 0 1 0 48\2-4ndis.dat
 0 BFC INVERTNEXT
 1 16 75 84 -79 70 0 0 0 0 -20 0 6 0 48\2-4cylo.dat
-1 16 75 84 -73 70 0 0 0 0 -20 0 1 0 48\2-4chrd.dat 
+1 16 75 84 -73 70 0 0 0 0 -20 0 1 0 48\2-4chrd.dat
 1 16 -75 84 -79 70 0 0 0 0 -20 0 1 0 48\2-4ndis.dat
 0 BFC INVERTNEXT
 1 16 -75 84 -79 70 0 0 0 0 -20 0 6 0 48\2-4cylo.dat
-1 16 -75 84 -73 70 0 0 0 0 -20 0 1 0 48\2-4chrd.dat  
+1 16 -75 84 -73 70 0 0 0 0 -20 0 1 0 48\2-4chrd.dat
 0 BFC INVERTNEXT
 1 16 -68 264 -71 0 0 60 0 -176 0 2 0 0 box3u2p.dat
 0 BFC INVERTNEXT

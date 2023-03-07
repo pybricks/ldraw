@@ -2,13 +2,14 @@
 0 Name: 25269p05.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 41912, Dots, Love Birds, Bricklink 25269pb010
+0 !KEYWORDS Bricklink 25269pb010, Dots, Love Birds, Set 41912
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\25269s01.dat
 1 16 -10 0 10 0 0 20 0 1 0 -20 0 0 1-4ering.dat

@@ -2,7 +2,7 @@
 0 Name: 55297.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -17,6 +17,7 @@
 0 !HISTORY 2010-03-17 [PTadmin] Renamed from 6246c
 0 !HISTORY 2010-03-20 [Philo] BFCed, corrected errors, carved sides
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 0 -18.128 -35.777 1.5 0 0 0 -0.38823 -1.44889 0 -1.44889 0.38823 4-8sphe.dat
 1 16 0 -18.128 -35.777 1.5 0 0 0 1.68232 -1.44889 0 6.27852 0.38823 4-4cyli.dat

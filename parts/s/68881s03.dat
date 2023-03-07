@@ -2,11 +2,12 @@
 0 Name: s\68881s03.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 0 // Bottom Anti Stud Openings
 4 16 -85 0 4 -85 -3.5 4 -83 -3.5 4.8 -80 0 6
@@ -96,7 +97,7 @@
 2 24 -40 -30 4 -20 -34.4 4
 5 24 -20 -34.4 4 -20 -34.4 16 0 -35.5 16 -40 -30 4
 2 24 -36 -30.88 8 -40 -30 8
-1 16 -20 -35 10 1 0 0  0 -2.75 0 0 0 1 stud3a.dat
+1 16 -20 -35 10 1 0 0 0 -2.75 0 0 0 1 stud3a.dat
 1 16 0 -35.5 10 0 0 -4 0 1 0.22 4 0 0 2-4edge.dat
 1 16 -20 -34.4 10 0 0 4 0 1 -.22 4 0 0 2-4edge.dat
 1 16 -20 -34.4 10 0 0 -4 0 1 .88 4 0 0 2-4edge.dat

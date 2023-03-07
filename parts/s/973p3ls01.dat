@@ -2,11 +2,12 @@
 0 Name: s\973p3ls01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 0 -8.7627 22.9 0 -8.6704 22.4359 0 -9.1446 22.2395 0 -9.276 22.9 0
 4 0 -8.6704 23.3641 0 -8.7627 22.9 0 -9.276 22.9 0 -9.1446 23.5605 0

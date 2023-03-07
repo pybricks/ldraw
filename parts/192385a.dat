@@ -2,13 +2,14 @@
 0 Name: 192385a.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 6390, Main Street, Signboard
+0 !KEYWORDS Main Street, Set 6390, Signboard
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 -0.25 0 139 0 0 0 0.25 0 0 0 19 box5-12.dat
 4 1 -119.8 -0.25 -9.52 -120.88 -0.25 -9.72 -120.88 -0.25 -10.5 -112.54 -0.25 -8.62

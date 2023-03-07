@@ -2,11 +2,12 @@
 0 Name: s\u587s03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 4 16 -11.7 -33.6 -16.53 -12.2 -34.5 -15.7 -12.8 -32.5 -16.4 -11.874 -33.182 -16.644
 3 16 -11.346 -34.106 -16.488 -12.2 -34.5 -15.7 -11.7 -33.6 -16.53

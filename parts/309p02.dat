@@ -2,7 +2,7 @@
 0 Name: 309p02.dat
 0 Author: Imre Papp [ampi]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2010-04-08 [mikeheide] Moved some portions from subfile
 0 !HISTORY 2010-06-08 [cwdee] Removed references to s\309p02a for emphasis lines
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\309s01.dat
 3 15 -26.3 0 285.77 -33.57 0 287.71 -33.08 0 289.89

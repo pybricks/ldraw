@@ -2,7 +2,7 @@
 0 Name: s\2039s02.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Subpart UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [nielsk] Made BFC compliant; Conditional lines added for outer curve (2005-10-31)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 0 // Note: Some faces seem possibly wrong, just above and below the oval
 2 24 7.678 104 2.701 8 104 0

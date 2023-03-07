@@ -2,13 +2,14 @@
 0 Name: s\59228s03.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2008-12-20 {LEGO Universe Team} Original part shape
 0 !HISTORY 2009-06-18 [westrate] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 4 16 0 -10.15 45.68 1.88 -10.15 45.68 15 -7.71 44.67 0 -7.71 44.67
 4 16 -15 -7.71 44.67 -1.88 -10.15 45.68 0 -10.15 45.68 0 -7.71 44.67

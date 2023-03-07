@@ -2,11 +2,12 @@
 0 Name: s\004488es01.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // Pattern
 0 // Red
@@ -61,7 +62,6 @@
 4 15 10.825 -.25 6.25 11.549 -.25 4.784 19.402 -.25 8.037 18.186 -.25 10.5
 4 15 9.918 -.25 7.61 10.825 -.25 6.25 18.186 -.25 10.5 16.661 -.25 12.785
 4 15 9.335 -.25 8.274 9.918 -.25 7.61 16.661 -.25 12.785 15.345 -.25 14.284
-
 
 0 // Black
 4 0 -2.741 -.25 20.819 0 -.25 21 0 -.25 22.5 -2.936 -.25 22.307

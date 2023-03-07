@@ -1,18 +1,19 @@
 0 ~Tyre 24/ 80 x 43 - Segment
 0 Name: s\3740a.dat
-0 Author: Leonardo Zide
+0 Author: Leonardo Zide [leozide]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
 0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2017-01-01 [Philo]   Removed overlaps, unneeded edge line, added condline
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2017-01-01 [Philo] Removed overlaps, unneeded edge line, added condline
 0 !HISTORY 2017-01-01 [Steffen] BFCed
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 93.75 0 -30 0 0 8.75 5 0 0 0 1 0 rect3.dat
 1 16 93.75 -5.875 -15 8.75 0 0 0 1 -0.875 0 0 15 rect3.dat

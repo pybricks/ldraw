@@ -2,11 +2,12 @@
 0 Name: s\15429p03s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 3 25 10 -9.797 8.227 10 -9.735 5.673 10 -4.899 7.863
 4 25 10 0 3.487 10 -4.275 -4.724 10 -2.01 -5.744 10 0 -6.213

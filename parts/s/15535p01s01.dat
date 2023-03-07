@@ -2,13 +2,14 @@
 0 Name: s\15535p01s01.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Subpart UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 0 !HISTORY 2021-04-12 [MagFors] Added a 2-4ering
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 4 15 13.9773 0 10.72516 15.84653 0 9.149 14.51678 0 11.13912 12.45781 0 12.45781
 4 15 15.25764 0 8.809 16.90515 0 7.002341 15.84653 0 9.149 13.9773 0 10.72516

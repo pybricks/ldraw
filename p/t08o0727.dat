@@ -2,17 +2,18 @@
 0 Name: t08o0727.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Primitive UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
+
 0 // Major Radius: 110
 0 // Tube(Minor) Radius: 8
 0 // Segments(Sweep): 2/16 = 0.125
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.0727 0 0  0 0 0.0727  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.0727 0 0 0 0 0.0727 0 1 0 4-4edge.dat
 
 4 16 1 0.0727 0 0.9239 0.0727 0.3827 0.9496 0.0672 0.3934 1.0278 0.0672 0
 4 16 1.0278 0.0672 0 0.9496 0.0672 0.3934 0.9714 0.0514 0.4024 1.0514 0.0514 0

@@ -2,13 +2,14 @@
 0 Name: 3010pz9.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS BrickLink 3010pb209, Set 41490, Brickheadz
+0 !KEYWORDS Brickheadz, BrickLink 3010pb209, Set 41490
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 4 0 -9.944 2.035 -10 -15.863 8.08 -10 -14.351 8.08 -10 -9.494 3.094 -10

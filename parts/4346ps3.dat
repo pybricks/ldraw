@@ -2,16 +2,16 @@
 0 Name: 4346ps3.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 4346pb09, Set 4480, Set 10144, Star Wars
+0 !KEYWORDS Bricklink 4346pb09, Set 10144, Set 4480, Star Wars
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4346s01.dat
 
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4346s01.dat
 
 1 16 -14 4.5 -30 0 0 -3 -3 0 0 0 1 0 1-4ndis.dat
 1 16 14 4.5 -30 3 0 0 0 0 -3 0 1 0 1-4ndis.dat

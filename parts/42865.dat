@@ -2,12 +2,13 @@
 0 Name: 42865.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-01-24 [MMR1988] Partital rewrite due to condlines issues and correction of t-junctions.
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 // connect6
 
@@ -166,7 +167,6 @@
 1 16 -18 0 0 0 -1 0 -0.191342 0 -0.461939 -0.461939 0 0.191342 3-8rin12.dat
 1 16 -4 0 0 0 2 0 0 0 6 6 0 0 4-4cyli.dat
 1 16 -2 0 0 0 1 0 0 0 6 6 0 0 4-4edge.dat
-
 
 0 // confric5
 
@@ -414,7 +414,6 @@
 5 24 20 -3.6956 1.5308 11.5 -3.6956 1.5308 20 -4 0 20 -2.8284 2.8284
 5 24 20 -3.6956 -1.5308 11.5 -3.6956 -1.5308 20 -2.8284 -2.8284 20 -4 0
 5 24 20 3.6956 -1.5308 11.5 3.6956 -1.5308 20 4 0 20 2.8284 -2.8284
-
 
 0 // coller
 1 16 0 6 0 0 0 2 0 -1 0 5.143266 0 0 rect.dat

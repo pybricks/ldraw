@@ -2,21 +2,22 @@
 0 Name: 973pw5.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS bandit, bandido, brigand, crook, desperado, gangster, gunman, hijacker, holdup man
-0 !KEYWORDS hooligan, marauder, mobster, outlaw, plunderer, robber, villain, bad guy
-0 !KEYWORDS western, wild west, spaghetti western, cowboy, pistol, revolver, rifle
-0 !KEYWORDS Doc Holliday, Tombstone, Billy the Kid
+
+0 !KEYWORDS bad guy, bandido, bandit, billy the kid, brigand, cowboy, crook
+0 !KEYWORDS desperado, doc holliday, gangster, gunman, hijacker, holdup man
+0 !KEYWORDS hooligan, marauder, mobster, outlaw, Pistol, plunderer, revolver
+0 !KEYWORDS rifle, robber, spaghetti western, tombstone, villain, western
+0 !KEYWORDS wild west
+
 0 !CMDLINE -c0
 
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
+
 0 // White
-
-
-
 
 1 15 -1.05 14.23 -10 0.63 0 0 0 0 -0.63 0 1 0 4-4ndis.dat
 1 15 -1.15 17.87 -10 0.63 0 0 0 0 -0.63 0 1 0 4-4ndis.dat

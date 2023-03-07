@@ -2,17 +2,17 @@
 0 Name: 87610ps3.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Minifig Headwear
 
-0 !KEYWORDS Jango Fett, set 75023, set 75015, set 75191
-0 !KEYWORDS Bricklink 87610pb04
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 87610pb04, Jango Fett, Set 75015, set 75023, set 75191
 
 0 !CMDLINE -c179
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87610s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87610s01.dat

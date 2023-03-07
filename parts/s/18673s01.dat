@@ -2,11 +2,12 @@
 0 Name: s\18673s01.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 // Upper stud
 0 BFC INVERTNEXT
@@ -457,5 +458,4 @@
 5 24 4.2426 -15.25 4.2426 4.2426 -12 4.2426 3.5 -12 4.7389 5.5434 -12 2.2962
 5 24 -4.2426 -15.25 -4.2426 -4.2426 -12 -4.2426 -5.5434 -12 -2.2962 -3.5 -12 -4.7389
 5 24 4.2426 -15.25 -4.2426 4.2426 -12 -4.2426 3.5 -12 -4.7389 5.5434 -12 -2.2962
-
 

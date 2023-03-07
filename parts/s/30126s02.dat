@@ -2,13 +2,14 @@
 0 Name: s\30126s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-07-03 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2017-07-03 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 16 2.165 0 0.422 3.914 -0.591 0.593 3.914 -0.591 -2.268 2.165 0 -2.2
 3 16 -2.684 -4.089 -2.206 -2.4765 -5.233 -0.4795 -2.625 -4.44 -0.513

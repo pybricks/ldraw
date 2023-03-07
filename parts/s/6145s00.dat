@@ -2,12 +2,13 @@
 0 Name: s\6145s00.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-03-27 [MagFors] Subparted for patterned part, changed winding
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 3 16 20 58 24 20 68.055 28.525 20 67.055 31
 3 16 20 60 52.414 20 81.076 46.669 20 85.138 52.414

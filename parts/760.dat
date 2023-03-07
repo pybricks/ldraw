@@ -2,11 +2,11 @@
 0 Name: 760.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS gizmo, space, tube, end, tabs, cap, Star Wars, Studio, Life on Mars
+0 !KEYWORDS Cap, end, gizmo, Life on Mars, Space, Star Wars, Studio, tabs, tube
 
 0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
 0 !HISTORY 2007-12-30 [PTadmin] Header formatted for Contributor Agreement
@@ -14,6 +14,7 @@
 0 !HISTORY 2018-01-26 [Steffen] removed duplicate lines
 0 !HISTORY 2018-04-24 [MagFors] closed gaps, used cone primitives
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 1 16 0 8 0 -1 0 0 0 -2 0 0 0 1 stud4a.dat
 1 16 0 8 0 2 0 0 0 -1 0 0 0 2 4-4ring2.dat

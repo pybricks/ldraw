@@ -2,13 +2,14 @@
 0 Name: s\30172s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2008-12-20 {LEGO Universe Team} Original part shape
 0 !HISTORY 2009-01-07 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 4 16 12.83 5.22 0.63 11.12 3.46 -5.56 10.97 1.12 -5.64 12.67 1.12 0.7
 2 24 12.83 5.22 0.63 11.12 3.46 -5.56

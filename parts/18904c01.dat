@@ -2,7 +2,7 @@
 0 Name: 18904c01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Shortcut UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP max movement to the left
 0 !HELP 1 47 0 14.75 60 .70711 0 .70711 0 1 0 -.70711 0 .70711 18906.dat
@@ -22,6 +22,7 @@
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 18904.dat
 1 16 0 6.9 -40.2 1 0 0 0 1 0 0 0 1 18905.dat

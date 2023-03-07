@@ -2,12 +2,12 @@
 0 Name: 2599a.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Shortcut UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Footwear
-0 !KEYWORDS Divers, Aquazone, composite, runner, pair, scuba
+0 !KEYWORDS Aquazone, composite, Divers, pair, runner, scuba
 
 0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
 0 !HISTORY 2007-10-12 [PTadmin] Header formatted for Contributor Agreement
@@ -19,6 +19,7 @@
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 0 !HISTORY 2020-10-16 [PTadmin] Renamed from 2599c01
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 -8 0 4.5 0 0 0 1 0 0 0 4.5 4-4edge.dat
 2 24 0 -4 -4.5 1.722 -4 -4.158

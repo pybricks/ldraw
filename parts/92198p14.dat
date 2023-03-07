@@ -2,14 +2,14 @@
 0 Name: 92198p14.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Azari Firedancer
-0 !KEYWORDS Set 41074, Set 41075, Set 41077, Set 30259
+0 !KEYWORDS Azari Firedancer, set 30259, set 41074, Set 41075, Set 41077
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\92198p13s03.dat
 4 15 0.51 22.43 -13.991 0 22.46 -14.096 0 22.78 -13.978 0.58 22.74 -13.861

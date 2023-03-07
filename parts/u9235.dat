@@ -2,16 +2,17 @@
 0 Name: u9235.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Vehicle
 
-0 !HISTORY 2009-04-11 [tchang]  BFCed, studs, partial rebuild, primitives, subparts, separation, key mechanism
+0 !HISTORY 2009-04-11 [tchang] BFCed, studs, partial rebuild, primitives, subparts, separation, key mechanism
 0 !HISTORY 2012-02-29 [Steffen] replaced color 383 by 494, used more stugs
 0 !HISTORY 2012-04-07 [Steffen] splitup into top, bottom and parent assembly
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 // Needs Work: invisible portions not modeled
 

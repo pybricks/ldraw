@@ -2,17 +2,18 @@
 0 Name: r08o1800.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Primitive UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
+
 0 // Major Radius: 5
 0 // Tube(Minor) Radius: 9
 0 // Segments(Sweep): 2/16 = 0.125
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 1.8000 0 0  0 0 1.8000  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 1.8000 0 0 0 0 1.8000 0 1 0 4-4edge.dat
 
 4 16 1 1.8 0 0.9239 1.8 0.3827 1.5603 1.663 0.6463 1.6889 1.663 0
 4 16 1.6889 1.663 0 1.5603 1.663 0.6463 2.0998 1.2728 0.8698 2.2728 1.2728 0

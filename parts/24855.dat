@@ -2,11 +2,12 @@
 0 Name: 24855.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 0 // Flower on short stalk:1 16 0 -14.6829 19.0279 1 0 0 0 .81915 .57358 0 -.57358 .81915 3742.dat
 0 // Flower on long stalk: 1 29 -22.191 -24.1031 -12.812 -.5 .49673 -.70941 0 .81915 .57358 .86603 .28679 -.40958 3742.dat

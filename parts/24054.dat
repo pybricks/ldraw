@@ -2,15 +2,16 @@
 0 Name: 24054.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Disney princess, Jurassic world, Ninjago, SuperHeores
+0 !KEYWORDS Disney Princess, Jurassic world, Ninjago, SuperHeores
 
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2020-10-28 [Sirio] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Subparts
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24054s01.dat

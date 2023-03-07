@@ -2,11 +2,12 @@
 0 Name: s\4331s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 3 16 1.3396 3.2335 3.7565 1.531 3.6954 3.2565 0 4 2.5
 3 16 0 4 2.5 0 3.5 3 1.3396 3.2335 3.7565

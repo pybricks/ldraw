@@ -2,16 +2,17 @@
 0 Name: 98138p84.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS 98138pb025, Paleontologist, Collectible Minifigs Series 13
+0 !KEYWORDS 98138pb025, Collectible Minifigs Series 13, Paleontologist
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s01.dat
-1 16 0 0 0 9 0 0 0 1 0 0 0 9 4-4ering.dat 
+1 16 0 0 0 9 0 0 0 1 0 0 0 9 4-4ering.dat
 4 28 -4.63 0 0.14 -4.3 0 0.1 -4.2 0 0.3 -4.9 0 0.22
 4 28 -4.9 0 0.22 -4.2 0 0.3 -4.175 0 1.225 -4.28 0 1.635
 4 28 -4.9 0 0.22 -4.28 0 1.635 -4.55 0 2.085 -4.865 0 2.505

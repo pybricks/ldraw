@@ -2,7 +2,7 @@
 0 Name: 41670.dat
 0 Author: Niels Bugge [SirBugge]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 0 !HISTORY 2022-01-06 [MagFors] Reshaped axlehole
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 0 BFC INVERTNEXT
 1 16 40 -0.5 20 0 0 4 0 1 0 -4 0 0 4-4cyli.dat
@@ -33,7 +34,6 @@
 0 BFC INVERTNEXT
 1 16 40 20 20 0 0 6 0 -2 0 -6 0 0 4-4cyli.dat
 1 16 40 20 20 0 0 6 0 -1 0 -6 0 0 4-4edge.dat
-
 
 2 24 42 -.5 24 42 -.5 25.6019
 2 24 42 .5 24 42 .5 25.6019
@@ -99,7 +99,6 @@
 1 16 -9 -7 69 41.5 0 71.8801 0 -86 0 -71.8801 0 41.5 48\tm12o0349.dat
 1 16 -9 7 69 41.5 0 71.8801 0 86 0 -71.8801 0 41.5 48\tm12o0349.dat
 1 16 -8.9788 -7 68.9252 42.92697 0 74.37386 0 14 0 -74.31396 0 42.96562 48\1-12cyli.dat
-
 
 1 16 31 0 0 0 -1 0 1 0 0 0 0 1 axlehol2.dat
 1 16 31 0 0 0 -1 0 1 0 0 0 0 1 axlehol9.dat

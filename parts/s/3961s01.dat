@@ -2,7 +2,7 @@
 0 Name: s\3961s01.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 0 !HISTORY 2020-07-07 [ejboer] Moved studs to main file, added condlines, closed gaps, removed overlaps
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 0 // Uncomment for top surface
 0 // 1 16 0 3 0 20 0 0 0 -3 0 0 0 20 48\4-4con1.dat
@@ -193,7 +194,6 @@
 4 16 10 4 -10 8 4 -8 8 4 0 16 4 -10
 3 16 0 4 -8 10 4 -16 -10 4 -16
 4 16 -10 4 -10 -8 4 -8 0 4 -8 -10 4 -16
-
 
 4 16 12.2962 8 15.5434 10 8 16 11.5 8 19.918 14.0024 8 18.2482
 4 16 14.2426 8 14.2426 12.2962 8 15.5434 14.0024 8 18.2482 16.2633 8 16.2633

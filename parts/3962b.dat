@@ -2,12 +2,12 @@
 0 Name: 3962b.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS walkie talkie, transceiver, two way, town
+0 !KEYWORDS town, transceiver, two way, walkie talkie
 
 0 !HISTORY 2000-11-05 [pneaster] Fixed handle, antenna and ribs on back, bfc.
 0 !HISTORY 2003-02-15 [OrionP] Fixed BFC
@@ -17,6 +17,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2013-08-31 [Philo] Fixed handle diameter
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 -14 18 0 8 0 0 0 -1 0 0 0 4 rect.dat
 1 16 -8 7 0 -2 0 0 0 1 0 0 0 4 rect.dat

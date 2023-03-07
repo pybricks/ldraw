@@ -2,11 +2,12 @@
 0 Name: s\3626bp8ks01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 72 -11.45 7 -5.8139 -11.45 7.4 -5.8139 -9.1921 7.4968 -9.1922 -9.1921 7.0309 -9.1922
 4 16 -9.192 4 -9.1923 -12.0105 4 -4.9752 -11.45 7 -5.8139 -9.1921 7.0309 -9.1922

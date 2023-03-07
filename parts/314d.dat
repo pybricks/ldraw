@@ -2,7 +2,7 @@
 0 Name: 314d.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -17,6 +17,7 @@
 0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, introduced 4-4cylo.dat, merged some triangles to quads
 0 !HISTORY 2020-07-21 [MagFors] Removed hidden surface
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // Primitives
 1 16 0 -6 -50 0 0 1 0 -1 0 -1 0 0 stug4-1x3.dat

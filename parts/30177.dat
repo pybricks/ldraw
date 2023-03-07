@@ -2,12 +2,13 @@
 0 Name: 30177.dat
 0 Author: Mark Chittenden [mdublade]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP To place the katana
 0 !HELP 1 7 22.21 -1.46 26.21 -.106 .633 .766 -.135 -.773 .62 .985 -.038 .167 30173a.dat
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Minifig Headwear
 
 0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
@@ -16,6 +17,7 @@
 0 !HISTORY 2016-11-09 [Philo] Used torus, flipped concave surface, new cond-lines
 0 !HISTORY 2017-01-26 [MagFors] Reshaped around the shoulders
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 -4 0 6 0 0 0 -1 0 0 0 6 4-4disc.dat

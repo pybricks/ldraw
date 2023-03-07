@@ -2,13 +2,14 @@
 0 Name: 48812.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2008-12-20 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2008-12-20 {LEGO Universe Team} Original part shape
 0 !HISTORY 2009-02-10 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 4 16 3.75 1.7 21.89 3.75 2.25 20.82 3.75 5.07 22.58 3.75 4.19 24.1
 2 24 3.75 1.7 21.89 3.75 4.19 24.1

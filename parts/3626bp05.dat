@@ -2,7 +2,7 @@
 0 Name: 3626bp05.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2014-02-13 [smr] moved half face from 3626bp05 to s\3626p05s01.dat
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 0 // replacing s\3626bs00.dat
 
@@ -33,6 +34,5 @@
 
 1 16 0 4 0 13 0 0 0 13 0 0 0 -13 1-8cyli.dat
 1 16 0 4 0 -13 0 0 0 13 0 0 0 -13 1-8cyli.dat
-
 
 5 24 0 4 -13 0 17 -13 4.975 4 -12.01 -4.975 4 -12.01

@@ -2,14 +2,14 @@
 0 Name: 4162510e.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Sculptures, Sopwith, Camel, Biplane
-0 !KEYWORDS Set 3451
+0 !KEYWORDS Biplane, Camel, Sculptures, Set 3451, Sopwith
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 0 // Primitives
 1 16 0 -.25 0 40 0 0 0 .25 0 0 0 12 box5-12.dat
@@ -88,7 +88,7 @@
 4 0 31.6752 -.25 6.8638 30.911 -.25 5.8454 31.2446 -.25 2.2121 32 -.25 2.7756
 4 0 31.6752 -.25 6.8638 32 -.25 2.7756 35.75 -.25 8 32.25 -.25 8
 4 0 35.75 -.25 8 32 -.25 2.7756 32 -.25 -8 35.75 -.25 -8
-0 // White faces 
+0 // White faces
 3 15 -40 -.25 12 -35.75 -.25 8 -31.75 -.25 8
 3 15 -40 -.25 12 -31.75 -.25 8 -24.75 -.25 8
 3 15 -40 -.25 12 -24.75 -.25 8 -20.75 -.25 8

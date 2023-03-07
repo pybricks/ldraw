@@ -2,13 +2,14 @@
 0 Name: t16i3333.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Primitive UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-14 [arezey] Regenerated with PrimGen as sixteenth instead of full torus
 0 !HISTORY 2013-12-09 [MMR1988] Recreated to fix condlines
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 0 // Major Radius: 3
 0 // Tube(Minor) Radius: 1

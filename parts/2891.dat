@@ -2,7 +2,7 @@
 0 Name: 2891.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Use the following transformation matrices for the 1 x 4 Plates
 0 !HELP 1 16 -27.65 10 27.65 0.707 0.707 0 0 0 1 0.707 -0.707 0 3710.DAT
@@ -15,6 +15,7 @@
 0 !HISTORY 2018-09-16 [gaia] Moved geometry to main file for use with monorail track points
 0 !HISTORY 2020-02-08 [Holly-Wood] Closed gap, added edge
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 400 0 160 -1 0 0 0 1 0 0 0 -1 s\2670s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\2892s02.dat

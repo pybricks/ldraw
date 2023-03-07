@@ -2,11 +2,12 @@
 0 Name: 790.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Origin is 0 -24 20 relative to Fabuland Roof Slope
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Brick
 
 0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
@@ -15,8 +16,8 @@
 0 !HISTORY 2010-11-19 [Philo] BFCed with Windz, BFCed
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
-0 // inside
 
+0 // inside
 
 0 BFC INVERTNEXT
 1 16 0 -2 -20 17 0 0 0 -24 0 0 0 -17 box4-1.dat

@@ -2,7 +2,7 @@
 0 Name: t1060.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !KEYWORDS Bluetooth
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 0 // Top led
 
@@ -1191,8 +1192,6 @@
 4 16 17 16 -40 17 0 -40 14.5776 7.3159 -40 14.6044 10.8207 -40
 3 16 17 16 -40 14.6044 10.8207 -40 14.0935 11.2641 -40
 3 16 17 16 -40 14.0935 11.2641 -40 13.4892 11.5661 -40
-
-
 
 4 16 15.5 19 -21 37.6 19 -17 37.6 19 -20.6 19.4675 19 -25.6372
 4 16 15.5 19 -35 15.5 19 -21 19.4675 19 -25.6372 20.6 19 -37.6

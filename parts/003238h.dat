@@ -2,15 +2,17 @@
 0 Name: 003238h.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Castle, Clubs, Part 3840, Set 375, Sheet 003238h
+
+0 !KEYWORDS Castle, Clubs, part 3840, Set 375, Sheet 003238h
 
 0 !HISTORY 2007-11-11 [mikeheide] fixed errors
 0 !HISTORY 2007-11-12 [mikeheide] moved 0.5LDU in z
 0 !HISTORY 2008-11-28 [anathema] used new subparts
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 1 1 11 -0.25 -16 2 0 0 0 1 0 0 0 -2 1-4disc.dat
 1 1 -11 -0.25 -16 -2 0 0 0 1 0 0 0 -2 1-4disc.dat

@@ -2,11 +2,12 @@
 0 Name: s\u589s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 3 16 24.5 -52.4 1.8 22.2 -52 3.3 23 -54.1 1.6
 3 16 24.3 -54.2 0.3 23 -54.1 1.6 22.8 -55.2 0.3

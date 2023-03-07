@@ -2,7 +2,7 @@
 0 Name: 3349p01.dat
 0 Author: Arne Hackstein
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -15,8 +15,8 @@
 0 !HISTORY 2010-04-25 [cwdee] Renamed from 675p01 and chaned white to main colour
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
-0 // Needs work: pixelated pattern should be re-worked
 
+0 // Needs work: pixelated pattern should be re-worked
 
 2 24 4 -68 2 4 -68 -2
 2 24 -4 -68 2 -4 -68 -2

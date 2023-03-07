@@ -2,23 +2,24 @@
 0 Name: s\2865s04.dat
 0 Author: Manfred Moolhuysen
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-11-29 [ludo]    Secondary author
+0 !HISTORY 2002-11-29 [ludo] Secondary author
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2002-12-23 [ludo]    Moved studs to main part for stud-logos to be aligned correctly
+0 !HISTORY 2002-12-23 [ludo] Moved studs to main part for stud-logos to be aligned correctly
 0 !HISTORY 2003-05-16 [ludo] Made some corrections (Y-level) in both Track finger connections
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2011-03-30 [Philo]   BFCed with Windz, more primitives, minor corrections
-0 !HISTORY 2012-09-08 [KROACH]  Made BFC compliant
-0 !HISTORY 2012-09-10 [KROACH]  Added cone primitive 1-4con0
+0 !HISTORY 2011-03-30 [Philo] BFCed with Windz, more primitives, minor corrections
+0 !HISTORY 2012-09-08 [KROACH] Made BFC compliant
+0 !HISTORY 2012-09-10 [KROACH] Added cone primitive 1-4con0
 0 !HISTORY 2017-11-24 [MagFors] removed hi-res primitives and T-junctions
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 -2.36 8 -25.7 .4492 0 -1.0803 0 -1 0 1.0803 0 .4492 7-16chrd.dat
 1 16 -2.36 8 -14.3 .4492 0 -1.0803 0 -1 0 -1.0803 0 -.4492 7-16chrd.dat

@@ -2,13 +2,14 @@
 0 Name: 30115.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2010-01-08 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 4 16 6.94 -7.27 53.36 7.73 -7.4 54.19 7.58 -7.08 54.03 7.32 -6.97 53.76
 3 16 7.72 -7.01 54.18 7.58 -7.08 54.03 7.73 -7.4 54.19

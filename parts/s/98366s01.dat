@@ -2,13 +2,14 @@
 0 Name: s\98366s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2017-11-02 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 17.3347 1.3304 2.3438 -0.20916 1.28019 0.08586 -1.28306 -0.20869 -0.014 0 0.08699 -1.29709 4-8sphe.dat
 1 16 17.3347 1.3304 2.3438 -0.20916 0.98476 0.08586 -1.28306 -0.16053 -0.014 0 0.06692 -1.29709 4-4edge.dat

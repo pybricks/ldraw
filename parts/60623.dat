@@ -2,11 +2,12 @@
 0 Name: 60623.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 32 102 -2 24 0 0 0 0 -21 0 1 0 rect.dat
 4 16 8 81 -2 56 81 -2 60 77 -1 4 77 -1
@@ -70,7 +71,7 @@
 1 16 58 68 3 6 0 0 0 0 6 0 1 0 4-4edge.dat
 1 16 58 68 3 4 0 0 0 0 4 0 1 0 4-4edge.dat
 4 16 60 77 1 60 127 1 56 123 2 56 81 2
-1 16 3 6 0 0 0 4 0 -2 0 3 0 0 box4-4A.dat
+1 16 3 6 0 0 0 4 0 -2 0 3 0 0 box4-4a.dat
 4 16 -1 6 -3 -1 6 3 7 6 3 7 6 -3
 1 16 -1 136 0 0 0 -3 0 -4 0 -3 0 0 2-4cylc.dat
 1 16 -1 132 0 0 0 -3 0 1 0 3 0 0 4-4disc.dat
@@ -79,7 +80,7 @@
 1 16 -1 132 0 0 0 3 0 2 0 -3 0 0 2-4cyli.dat
 1 16 0 136 0 2 0 0 0 -1 0 0 0 -2 4-4edge.dat
 1 16 0 136 0 2 0 0 0 1 0 0 0 2 4-8sphe.dat
-1 16 3 134 0 0 0 4 0 2 0 -3 0 0 box4-4A.dat
+1 16 3 134 0 0 0 4 0 2 0 -3 0 0 box4-4a.dat
 4 16 -1 134 3 -1 134 -3 7 134 -3 7 134 3
 4 16 29 39 -2 35 39 -2 35 33 -2 29 33 -2
 4 16 29 33 -2 35 33 -2 35 13 -2 29 13 -2

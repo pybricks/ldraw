@@ -2,7 +2,7 @@
 0 Name: 2489.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2019-07-12 [GeraldLasser] Added Details, Bevels between Staves
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 16 0 36 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
 1 16 0 36 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
@@ -74,7 +75,7 @@
 2 24 11.36 36 16 14.14 36 14.14
 5 24 7.6537 40 18.4776 7.654 36 18.478 11.36 36 16 0 36 20
 5 24 -7.6536 40 18.47741 -7.6536 36 18.47741 0 36 20 -11.36 36 16
-0 // Bottom 
+0 // Bottom
 1 16 0 36 0 8 0 0 0 -1 0 0 0 8 4-4ndis.dat
 4 16 8 36 0 8 36 8 14.14 36 14.14 16 36 11.36
 4 16 8 36 -8 8 36 0 16 36 -11.36 14.14 36 -14.14

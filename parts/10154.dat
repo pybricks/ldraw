@@ -2,7 +2,7 @@
 0 Name: 10154.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Hand socket at x = 30, y = 40, Z = -40
 
@@ -16,6 +16,7 @@
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 0 !HISTORY 2021-12-30 [MagFors] Reshaped axlehole
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 3 16 23.844 10.832 3.691 3.739 10.818 3.515 23.5 7.775 3.964
 3 16 23.5 7.775 3.964 3.739 10.818 3.515 3.801 7.678 3.704

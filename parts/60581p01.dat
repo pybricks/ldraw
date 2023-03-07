@@ -2,14 +2,15 @@
 0 Name: 60581p01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Telescope, Space, NASA, Universe, Hubble
-0 !KEYWORDS Bricklink 60581pb094, Set 21312, Women
+0 !KEYWORDS Bricklink 60581pb094, Hubble, NASA, Set 21312, Space, Telescope
+0 !KEYWORDS Universe, women
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\60581s01.dat
 0 !TEXMAP START PLANAR 40 0 10 -40 0 10 40 72 10 60581p01.png

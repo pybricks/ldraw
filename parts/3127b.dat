@@ -2,12 +2,14 @@
 0 Name: 3127b.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS town, construction, grab, claw
+
+0 !KEYWORDS Claw, Construction, grab, town
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT
@@ -17,8 +19,8 @@
 4 16 20 8 -10 16 8 -6 -16 8 -6 -20 8 -10
 4 16 20 8 10 16 8 6 16 8 -6 20 8 -10
 1 16 0 8 0 20 0 0 0 -8 0 0 0 10 box5.dat
-1 16 10 0 0 -1 0 0 0 1 0 0 0 -1 STUD.DAT
-1 16 -10 0 0 -1 0 0 0 1 0 0 0 -1 STUD.DAT
+1 16 10 0 0 -1 0 0 0 1 0 0 0 -1 stud.dat
+1 16 -10 0 0 -1 0 0 0 1 0 0 0 -1 stud.dat
 0 //
 2 24 20 6 10 20 6 -2.618
 2 24 20 6 -2.618 28 6 -2.618

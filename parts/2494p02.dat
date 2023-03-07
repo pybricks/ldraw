@@ -2,7 +2,7 @@
 0 Name: 2494p02.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !CMDLINE -47
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 0 // Main
 
@@ -671,7 +672,6 @@
 3 0 15.4 93.4 -6 15.4 92.15 -6 9.3 92.15 -6
 4 0 7.8 108.8 -6 6.5 111.5 -6 20.6 111.5 -6 18.2 108.8 -6
 4 0 20.6 111.5 -6 33.1 111.5 -6 30.7 110 -6 22.45 110 -6
-
 
 0 // Dark Orange
 4 484 5.2 93.4 -6 2.4 93.4 -6 2.4 94.6 -6 5.2 94.6 -6

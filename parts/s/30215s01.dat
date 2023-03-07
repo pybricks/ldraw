@@ -2,11 +2,12 @@
 0 Name: s\30215s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // Aft Section - Bottom
 
@@ -358,7 +359,7 @@
 5 24 0 120 -393.276 -4.2675 4 -495.372 0 4 -497.922 -8.365 120 -389.739
 5 24 -18.9545 4 -485.458 -8.365 120 -389.739 -22.5 120 -382.17 -4.267 4 -495.372
 
-0 // Stern Section - Lip 
+0 // Stern Section - Lip
 1 16 -2.134 2 -496.647 0 -1 2.1335 -2 0 0 0 0 -1.275 rect3.dat
 1 16 -11.611 2 -490.415 7.3435 -1 0 0 0 2 -4.957 0 0 rect2p.dat
 4 16 -33.035 0 -474.886 -18.954 0 -485.458 -18.954 4 -485.458 -33.035 4.2 -474.886

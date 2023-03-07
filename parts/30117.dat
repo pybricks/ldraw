@@ -2,10 +2,11 @@
 0 Name: 30117.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS UFO, Insectoids, small hull, Alpha Team, Ogel, Mission Deep Sea
+
+0 !KEYWORDS Alpha Team, Insectoids, Mission Deep Sea, Ogel, small hull, UFO
 
 0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
@@ -15,6 +16,7 @@
 0 !HISTORY 2010-10-06 [BlackBrick89] Subfiled, minor improvements
 0 !HISTORY 2010-12-16 [BlackBrick89] Removed stud.dat from subpart
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 0 // Main part
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30117s01.dat
@@ -48,6 +50,4 @@
 4 16 10 0 -80 0 0 -80 0 16 -140 20 16 -140
 4 16 30 48 -200 80 48 -185 55 16 -129.5 20 16 -140
 4 16 30 0 -74 10 0 -80 20 16 -140 55 16 -129.5
-
-
 

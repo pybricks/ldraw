@@ -2,13 +2,14 @@
 0 Name: s\4325s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
 0 !HISTORY 2017-08-20 [PTadmin] Renamed from s/u663s01
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 2 24 0 -36 -22 2.588 -36 -21.2498
 2 24 2.588 -36 -21.2498 5 -36 -19.052

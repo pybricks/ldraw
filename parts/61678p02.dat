@@ -2,14 +2,15 @@
 0 Name: 61678p02.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 75327, Bricklink 61678pb169, Rebrickable 11153pr0005
-0 !KEYWORDS Star Wars, Luke Skywalker
+0 !KEYWORDS Bricklink 61678pb169, Luke Skywalker, Rebrickable 11153pr0005
+0 !KEYWORDS Set 75327, Star Wars
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61678s01.dat
 

@@ -2,13 +2,14 @@
 0 Name: 13252.dat
 0 Author: Christophe Mitillo [Christophe_Mitillo]
 0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-09-03 [MMR1988] Fixed edges, used more primitives.
 0 !HISTORY 2014-06-13 [C3POwen] Fixed hinges and updated origin.
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 4 16 -40 -18 -70 -40 -18 -30 -60 22 -50 -60 22 -250
 4 16 -40 -18 -70 -60 22 -250 60 22 -250 40 -18 -70

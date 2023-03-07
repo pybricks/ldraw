@@ -2,11 +2,12 @@
 0 Name: s\11125s01.dat
 0 Author: Ingolf Weisheit [stahlwollschaf]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 0 // subpart for 11125.dat: wheel hub and frame one half common parts (symmetrical to xy-plane)
 0 // origin: center of wheel
@@ -17,7 +18,7 @@
 1 16 -20 0 -30 0 0 1 0 1 0 1 0 0 connhole.dat
 1 16 -20 -10 -30 9 0 0 0 1 0 0 0 -9 1-4ndis.dat
 
-0 // outer surface around peghole 
+0 // outer surface around peghole
 1 16 -20 -10 -30 -9 0 0 0 1 0 0 0 -9 1-4edge.dat
 1 16 -20 10 -30 -9 0 0 0 1 0 0 0 -9 2-4edge.dat
 1 16 -20 -10 -30 -9 0 0 0 20 0 0 0 -9 1-4cyli.dat

@@ -2,11 +2,12 @@
 0 Name: s\30250p01s01.dat
 0 Author: Marc Giraudet [Mad_Marc]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 14 -15.22 -9.2 0 -16.76 -10.7 0 -16.68 -9.06 0 -15 -7.72 0
 4 14 -15 -7.72 0 -16.68 -9.06 0 -16.44 -7.43 0 -14.64 -6.26 0

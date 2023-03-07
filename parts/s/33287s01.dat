@@ -2,11 +2,12 @@
 0 Name: s\33287s01.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 4 16 18.478 -40 7.654 18.478 -7 7.654 14.142 -7 14.142 14.142 -40 14.142
 4 16 14.142 -40 14.142 14.142 -7 14.142 7.654 -7 18.478 7.654 -40 18.478

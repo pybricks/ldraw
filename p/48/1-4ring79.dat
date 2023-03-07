@@ -2,11 +2,12 @@
 0 Name: 48\1-4ring79.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG 48_Primitive UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 4 16 80 0 0 79.312 0 10.44 78.3206 0 10.3095 79 0 0
 4 16 79.312 0 10.44 77.272 0 20.704 76.3061 0 20.4452 78.3206 0 10.3095

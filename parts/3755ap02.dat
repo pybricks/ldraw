@@ -2,13 +2,14 @@
 0 Name: 3755ap02.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Truck stop, Set 6393, bricklink 3755pb02
+0 !KEYWORDS bricklink 3755pb02, Set 6393, Truck stop
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3755as01.dat
 4 0 8 18 -10 -21 18 -10 -21 22.5 -10 8 22.5 -10

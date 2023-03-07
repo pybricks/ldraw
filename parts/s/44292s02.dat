@@ -2,11 +2,12 @@
 0 Name: s\44292s02.dat
 0 Author: Marc Klein [marckl]
 0 !LDRAW_ORG Subpart UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 0 BFC INVERTNEXT
 1 16 0 20 8 0 0 -6 6 0 0 0 -16 0 2-4cyli.dat
@@ -22,7 +23,6 @@
 1 16 0 20 -10 0 0 -8 -8 0 0 0 1 0 2-4edge.dat
 1 16 0 20 -8 0 0 -8 -8 0 0 0 1 0 2-4edge.dat
 1 16 0 20 -8 0 0 -2 -2 0 0 0 1 0 2-4ring3.dat
-
 
 3 16 -18.851 21.776 -9 -11.453 18.9839 -9 -20.506 20.506 -9
 2 24 -11.453 18.9839 -9 -18.851 21.776 -9

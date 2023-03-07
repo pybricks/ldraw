@@ -2,7 +2,7 @@
 0 Name: s\6069s01.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -16,8 +16,8 @@
 0 !HISTORY 2008-07-09 [guyvivan] Remove all sloped surfaces and studs for patterned variants add missing elements (2006-01-04)
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
-0 // Wedge  4 x  4 Triple w/o Top Angled Face
 
+0 // Wedge 4 x 4 Triple w/o Top Angled Face
 
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 18 4 0 0 0 -2 0 4 0 1 0 0 box4-1.dat
@@ -60,7 +60,7 @@
 1 16 0 19.036 -50 0 0 8 0 -2.572 0 -8 0 0 4-4cyls.dat
 0 BFC INVERTNEXT
 1 16 0 18.548 -50 6 0 0 0 0.488 0 0 0 6 4-4cyli.dat
-1 16 0 19.036 -50 1 0 0 0 -1.241 0 0 0 1 STUD4A.dat
+1 16 0 19.036 -50 1 0 0 0 -1.241 0 0 0 1 stud4a.dat
 2 24 40 24 10 20 24 10
 2 24 20 24 10 20 24 -30
 2 24 -20 24 -30 -20 24 10

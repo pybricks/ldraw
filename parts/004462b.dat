@@ -2,14 +2,15 @@
 0 Name: 004462b.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 392-1, Formula 1, Racer
-0 !KEYWORDS Bricklink 392.1stk01, Rebrickable 004462, Brickowl 792264
+0 !KEYWORDS Bricklink 392.1stk01, Brickowl 792264, Formula 1, Racer
+0 !KEYWORDS Rebrickable 004462, Set 392-1
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 -35 0 19 0 0 -4 0 -1 0 4 0 0 1-4chrd.dat
 1 16 35 0 -19 0 0 4 0 -1 0 -4 0 0 1-4chrd.dat

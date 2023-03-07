@@ -2,11 +2,12 @@
 0 Name: s\2950s01.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 2 24 6 0 -113 6 -2 -111
 4 16 4.5 -10.635 -120.887 4.5 -8.514 -123 6 0 -113 6 -2 -111

@@ -2,13 +2,14 @@
 0 Name: s\87414s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 4 16 1.165 -14.829 8 1.165 -14.829 1.0667 1.779 -17.912 1.0667 1.734 -17.688 8
 1 16 2.893 -14.5445 -4.5333 0 0 -1.143 0 1 -0.2275 3.46667 0 0 rect3.dat

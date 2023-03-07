@@ -2,7 +2,7 @@
 0 Name: 32165.dat
 0 Author: Marc Klein [marckl]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 0 !HISTORY 2022-01-04 [MagFors] Reshaped axleholes, added more details
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 -20 0 0 0 6 0 -8.87 0 1.5 -1.5 0 -8.87 3-8cylo.dat
 1 16 -20 0 0 0 1 0 -8.87 0 1.5 -1.5 0 -8.87 3-16chrd.dat
@@ -77,8 +78,6 @@
 1 16 -1 -.0445 -75.4707 0 2 0 0 0 1.5 1.5 0 0 4-4cylo.dat
 1 16 -1 -.0445 -75.4707 0 1 0 0 0 1.5 1.5 0 0 4-4ndis.dat
 1 16 1 -.0445 -75.4707 0 -1 0 0 0 1.5 1.5 0 0 4-4ndis.dat
-
-
 
 2 24 12.83 -2.093 -37.17 11.5308 -5.1955 -36.3044
 2 24 13.7 2.461 -38.47 12.83 -2.093 -37.17

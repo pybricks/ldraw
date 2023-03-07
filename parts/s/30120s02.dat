@@ -2,11 +2,12 @@
 0 Name: s\30120s02.dat
 0 Author: Nils Schmidt [BlackBrick89]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 14 -5.7362 1.4246 -16.0848 -6.0025 1.3812 -16.0472 -5.5709 3.9055 -18.2375 -5.4731 2.964 -17.4205
 3 14 -5.5709 3.9055 -18.2375 -5.3955 3.4182 -17.8146 -5.4731 2.964 -17.4205

@@ -2,7 +2,7 @@
 0 Name: 2638.dat
 0 Author: Luis E. Fernandez [lfernand]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2017-01-02 [MagFors] Made BFC, removed unwanted surfaces
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // top
 2 24 10 2 0 5.5 2 -60
@@ -144,7 +145,7 @@
 4 16 -4 0 -80 -5.5 0 -60 -14 0 0 -8 0 -80
 4 16 -14 26 0 -10 26 0 -4 20 -80 -8 20 -80
 
-0 // between, rear 
+0 // between, rear
 2 24 -10 5 70 -10 17 70
 2 24 10 5 74 10 17 74
 1 16 0 17 72 0 0 10 0 -1 0 2 0 0 rect.dat

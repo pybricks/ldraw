@@ -2,7 +2,7 @@
 0 Name: 3068bp66.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -17,6 +17,7 @@
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 0 !HISTORY 2020-09-03 [Cheenzo] Added keywords and used 4209ap02s01 subfile to add missing black outlines and change Light Blue to Blue colour
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 1 16 0 0 0 0 0 1 -1 0 0 0 -1 0 s\4209ap02s01.dat

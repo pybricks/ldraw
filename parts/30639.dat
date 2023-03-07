@@ -2,13 +2,14 @@
 0 Name: 30639.dat
 0 Author: John Riley [jriley]
 0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-01-04 [mikeheide] Code cleanup
 0 !HISTORY 2014-01-23 [cwdee] Used stud group
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 0 // Needs Work: Missing detail on top between studs.
 

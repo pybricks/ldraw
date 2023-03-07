@@ -2,17 +2,18 @@
 0 Name: t01o0667.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Primitive UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
+
 0 // Major Radius: 15
 0 // Tube(Minor) Radius: 1
 0 // Segments(Sweep): 16/16 = 1.00
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.0667 0 0  0 0 0.0667  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.0667 0 0 0 0 0.0667 0 1 0 4-4edge.dat
 
 4 16 1 0.0667 0 0.9239 0.0667 0.3827 0.9475 0.0616 0.3925 1.0255 0.0616 0
 4 16 1.0255 0.0616 0 0.9475 0.0616 0.3925 0.9675 0.0471 0.4007 1.0471 0.0471 0

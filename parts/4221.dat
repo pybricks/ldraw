@@ -2,7 +2,7 @@
 0 Name: 4221.dat
 0 Author: Remco Braak [remco1974]
 0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-07 [tchang] Add BFC (2008-02-08)
 0 !HISTORY 2010-02-07 [mikeheide] changed one yellow triangle, optimized with rectifier
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 2 24 -10 7 -52 -10 12 -50
 2 24 -10 12 -50 -10 12 -18

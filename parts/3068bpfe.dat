@@ -2,15 +2,16 @@
 0 Name: 3068bpfe.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 3681, Bricklink 3068pb34, Ticket, Amusement Park
+0 !KEYWORDS Amusement Park, Bricklink 3068pb34, Set 3681, Ticket
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 0 !HISTORY 2022-01-15 [OrionP] Update description, add set keyword
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bpfds01.dat

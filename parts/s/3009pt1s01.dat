@@ -2,7 +2,7 @@
 0 Name: s\3009pt1s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,13 +10,13 @@
 0 !HISTORY 2021-04-12 [Holly-Wood] Updated with hires letters
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
+
 0 // Shell sign
 1 16 -41 12.1 -10 .85 0 0 0 0 -.85 0 1 0 logo-shell-s.dat
 1 16 -12.7 12.1 -10 .85 0 0 0 0 -.85 0 1 0 logo-shell-h.dat
 1 16 14 14.4 -10 .85 0 0 0 0 -.85 0 1 0 logo-shell-e.dat
 4 4 31.525 4.025 -10 31.525 20.175 -10 37.475 20.175 -10 37.475 4.025 -10
 4 4 44.525 4.025 -10 44.525 20.175 -10 50.475 20.175 -10 50.475 4.025 -10
-
 
 0 // Background
 3 16 -60 0 -10 -51.4975 4.025 -10 -30.5025 4.025 -10

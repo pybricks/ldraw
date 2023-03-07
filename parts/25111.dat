@@ -2,7 +2,7 @@
 0 Name: 25111.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Grip middle position: Y=9.52, Z=-0.37, Angle 4.5°
 0 !HELP Bottom Stud3: Y=23.94, Z -1.98, Angle 9°
@@ -10,11 +10,12 @@
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Saber
+0 !KEYWORDS saber
 
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2021-02-17 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 4 16 -5.938 -4.6 -3.411 -5.938 0 -5.438 -5.938 1.853 -7.871 -5.938 -4.6 -7.871
 3 16 -5.938 -4.6 -3.411 -5.938 0 -3.432 -5.938 0 -5.438

@@ -2,7 +2,7 @@
 0 Name: s\25128s03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 0 !HISTORY 2022-05-08 [OrionP] Renumbered from s\25126s03.dat
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 4 16 10 -11.968 10 7.909 -24 6.994 9.7546 -13.2833 -7.7989 9.884 -12.532 -7.892
 3 16 9.0423 -17.4196 -7.2864 9.7546 -13.2833 -7.7989 7.909 -24 6.994

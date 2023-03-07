@@ -2,11 +2,12 @@
 0 Name: s\2528ap30s03.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 4 16 1.7939 -14.7748 -7.7747 1 -14.8702 -7.7803 0 -14.9549 -7.8092 0 -11.9876 -9.6547
 4 16 0 -11.9876 -9.6547 5.575 -10.526 -9.546 3.4199 -14.2998 -7.7707 2.72 -14.5299 -7.7579

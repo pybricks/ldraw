@@ -2,13 +2,14 @@
 0 Name: 3068bptb.dat
 0 Author: Jens Brühl [jb70]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Lamborghini, Sian, set 42115, Bricklink 3068bpb1342
+0 !KEYWORDS Bricklink 3068bpb1342, Lamborghini, set 42115, Sian
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 
@@ -99,7 +100,6 @@
 3 16 -4.25 0 9.75 -6.19928 0 8.90217 -3.06731 0 9.35577
 4 87 -.75 0 10.25 -4.25 0 9.75 -3.06731 0 9.35577 -.94565 0 9.66304
 3 16 -.75 0 10.25 -.94565 0 9.66304 0 0 9.8
-
 
 0 // V12 sign
 4 16 1.06098 0 9.64634 0 0 9.8 -.94565 0 9.66304 0 0 8.8

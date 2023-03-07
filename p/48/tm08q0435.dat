@@ -2,17 +2,18 @@
 0 Name: 48\tm08q0435.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG 48_Primitive UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
+
 0 // Major Radius: 23
 0 // Tube(Minor) Radius: 1
 0 // Segments(Sweep): 6/48 = 0.1250
-0 // 1 9  0 0 0  1 0 0  0 1 0  0 0 1  4-4edge.dat
-0 // 1 12  1 0 0 0.0435 0 0  0 0 0.0435  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.0435 0 0 0 0 0.0435 0 1 0 4-4edge.dat
 
 4 16 1.0402 0.0166 0 1.0313 0.0166 0.1358 1.0346 0 0.1362 1.0435 0 0
 4 16 1.0307 0.0307 0 1.0219 0.0307 0.1345 1.0313 0.0166 0.1358 1.0402 0.0166 0

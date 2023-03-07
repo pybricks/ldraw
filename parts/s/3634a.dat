@@ -1,8 +1,8 @@
 0 ~Tyre 10/130 x 17 Inside Tooth
 0 Name: s\3634a.dat
-0 Author: Leonardo Zide
+0 Author: Leonardo Zide [leozide]
 0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2010-03-31 [Philo] BFCed and optimized
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 20.5 0 8.75 0 1 1.5 -1 0 0 0 -2 0.75 rect.dat
 1 16 20.5 0 -1.75 0 1 -1.5 -1 0 0 0 2 0.75 rect.dat

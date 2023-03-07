@@ -2,11 +2,11 @@
 0 Name: u9373.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS 4.5V, 12V, Stator
+0 !KEYWORDS 12V, 4.5V, Stator
 
 0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
 0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
@@ -14,6 +14,7 @@
 0 !HISTORY 2013-04-09 [MagFors] bfc'd, removed t-junctions
 0 !HISTORY 2018-03-31 [MagFors] renamed from s/6216mb, subfiled for parts with/without centre hole
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9373s01.dat
 

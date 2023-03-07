@@ -1,14 +1,15 @@
-0 ~Window  4 x  2 x  3 Pane - 1/4 
+0 ~Window  4 x  2 x  3 Pane - 1/4
 0 Name: s\4133s01.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-08-25 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
 0 !HISTORY 2007-11-06 [Holly-Wood] File preparation for LDraw Parts Tracker
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 2 24 2.5 -9.75 10.875 2.5 -9.75 -10.875
 2 24 2.5 -9.75 -10.875 2.5 9.75 -10.875

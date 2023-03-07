@@ -2,11 +2,12 @@
 0 Name: 48\2-4ring34.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG 48_Primitive UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 16 35 0 0 34.699 0 4.5675 33.7076 0 4.437 34 0 0
 4 16 34.699 0 4.5675 33.8065 0 9.058 32.8406 0 8.7992 33.7076 0 4.437

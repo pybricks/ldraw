@@ -2,13 +2,14 @@
 0 Name: s\3650s01.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2006-02-20 [guyvivan] Fixed gaps near torus and use more primitives (rect)
 0 !HISTORY 2006-05-27 [technog] Removed 3-8edge near axlehole, used more primitives
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 1 16 0 0 -8 1.148 0 2.772 2.772 0 -1.148 0 1 0 3-8ring2.dat
 1 16 0 0 -8 -1.148 0 -2.772 -2.772 0 1.148 0 1 0 3-8ring2.dat

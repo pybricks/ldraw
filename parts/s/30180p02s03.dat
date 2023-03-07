@@ -2,12 +2,13 @@
 0 Name: s\30180p02s03.dat
 0 Author: Andrew Ananjev [woozle]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-01-24 [mikeheide] BFC'ed
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 16 -4.576 -9.372 0 -0.44 -0.308 0 0.44 -0.308 0 4.576 -9.372 0
 4 16 4.752 -9.548 0 -4.752 -9.548 0 -4.576 -9.372 0 4.576 -9.372 0

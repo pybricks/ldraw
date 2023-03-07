@@ -2,14 +2,16 @@
 0 Name: 61780.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS box, case, canister, tin, bin
+
+0 !KEYWORDS Bin, Box, Canister, Case, Tin
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
-1 16 0 4 0 1 0 0 0 -1 0 0 0 1 STUD4A.dat
+
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
 1 16 0 4 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
 1 16 0 4 0 8 0 0 0 -1 0 0 0 8 4-4ndis.dat
 1 16 0 4 0 1 0 0 0 1 0 0 0 1 axlehol3.dat

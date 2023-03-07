@@ -2,14 +2,15 @@
 0 Name: 3626bp4f.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3626bpx20, Set 6031, Set 6097, Set 2872, Set 6087, Set 6037
-0 !KEYWORDS Castle, Witch
+0 !KEYWORDS Bricklink 3626bpx20, Castle, Set 2872, Set 6031, Set 6037, Set 6087
+0 !KEYWORDS Set 6097, Witch
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs04.dat
@@ -389,7 +390,6 @@
 4 0 0 1.1718 -11.5351 4.4144 1.1718 -10.6575 3.7936 0.3046 -9.159 0 0.3046 -9.9134
 4 0 0 2.4691 -12.6192 4.8296 2.4691 -11.6592 4.4144 1.1718 -10.6575 0 1.1718 -11.5351
 4 0 0 4 -13 4.9751 4 -12.0106 4.8296 2.4691 -11.6592 0 2.4691 -12.6192
-
 
 5 24 -12.0107 17 -4.9751 -12.0107 4 -4.9751 -13 17 0 -9.1923 17 -9.1923
 5 24 -7.3912 0 -3.0616 -9.1592 0.3046 -3.7936 -8 0 0 -5.6568 0 -5.6568

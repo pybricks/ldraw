@@ -2,11 +2,12 @@
 0 Name: s\42090s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 16 0 14 45 5.4 12.9 45 5.3578 12.9346 30 0 14 30
 4 16 5.4 12.9 45 9.9 9.9 45 9.8994 9.8994 30 5.3578 12.9346 30

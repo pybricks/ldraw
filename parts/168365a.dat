@@ -2,13 +2,14 @@
 0 Name: 168365a.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Set 8858-1
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 4 16 -19 0 -11.35 -19 0 -8.45 0.6 0 11.35 19 0 -11.35
 3 16 0.6 0 11.35 19 0 11.35 19 0 -11.35

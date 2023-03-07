@@ -2,20 +2,21 @@
 0 Name: s\54383s01.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
+
 1 16 10 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 -7.114 4 7.623 -0.634609 0 1.42248 0 3.8 0 1.89664 0 0.475957 box4-1.dat
 1 16 10 4 20 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 10 4 40 1 0 0 0 -1 0 0 0 1 stud4.dat
-1 16 20 8 0 0 0 10 0 -8 0 60 0 0 BOX4-4A.DAT
+1 16 20 8 0 0 0 10 0 -8 0 60 0 0 box4-4a.dat
 3 16 10 0 60 -30 0 60 10 0 -60
 0 BFC INVERTNEXT
-1 16 19.25 8 0 0 0 6.75 0 -4 0 56 0 0 BOX4-4A.DAT
+1 16 19.25 8 0 0 0 6.75 0 -4 0 56 0 0 box4-4a.dat
 3 16 -24.83 4 56 12.5 4 56 12.5 4 -56
 0 BFC INVERTNEXT
 1 16 10 4 -20 6 0 0 0 4 0 0 0 6 4-4cyli.dat
@@ -28,9 +29,9 @@
 1 16 10 4 -20 0 0 8 0 1 0 -8 0 0 3-4edge.dat
 1 16 10 8 -20 0 0 8 0 1 0 -8 0 0 3-4edge.dat
 1 16 10 8 -20 2 0 0 0 -1 0 0 0 2 4-4ring3.dat
-1 16 10 4 -40 0 0 8 0 1 0 8 0 0 2-4edge.DAT
-1 16 10 4 -40 0 0 8 0 4 0 8 0 0 2-4cyli.DAT
-1 16 10 8 -40 0 0 8 0 1 0 8 0 0 2-4edge.DAT
+1 16 10 4 -40 0 0 8 0 1 0 8 0 0 2-4edge.dat
+1 16 10 4 -40 0 0 8 0 4 0 8 0 0 2-4cyli.dat
+1 16 10 8 -40 0 0 8 0 1 0 8 0 0 2-4edge.dat
 1 16 10 4 -40 0 0 -8 0 1 0 8 0 0 3-16edge.dat
 1 16 10 4 -40 0 0 -8 0 4 0 8 0 0 3-16cyli.dat
 1 16 10 8 -40 0 0 -8 0 1 0 8 0 0 3-16edge.dat
@@ -82,9 +83,9 @@
 1 16 -10 4 40 0 0 8 0 1 0 -8 0 0 3-4edge.dat
 1 16 -10 8 40 0 0 8 0 1 0 -8 0 0 3-4edge.dat
 1 16 -10 8 40 2 0 0 0 -1 0 0 0 2 4-4ring3.dat
-1 16 -10 4 20 0 0 8 0 1 0 8 0 0 2-4edge.DAT
-1 16 -10 4 20 0 0 8 0 4 0 8 0 0 2-4cyli.DAT
-1 16 -10 8 20 0 0 8 0 1 0 8 0 0 2-4edge.DAT
+1 16 -10 4 20 0 0 8 0 1 0 8 0 0 2-4edge.dat
+1 16 -10 4 20 0 0 8 0 4 0 8 0 0 2-4cyli.dat
+1 16 -10 8 20 0 0 8 0 1 0 8 0 0 2-4edge.dat
 1 16 -10 4 20 0 0 -8 0 1 0 8 0 0 3-16edge.dat
 1 16 -10 4 20 0 0 -8 0 4 0 8 0 0 3-16cyli.dat
 1 16 -10 8 20 0 0 -8 0 1 0 8 0 0 3-16edge.dat

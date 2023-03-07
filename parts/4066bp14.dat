@@ -2,14 +2,15 @@
 0 Name: 4066bp14.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Zoo, Monkey, Set 2668, bricklink 4066pb090
+0 !KEYWORDS bricklink 4066pb090, Monkey, Set 2668, Zoo
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 4 15 -10.25 13.25 -20 -11.75 14.5 -20 -12.5 16.5 -20 -8 12.75 -20

@@ -2,11 +2,12 @@
 0 Name: s\3626bps3s01.dat
 0 Author: Daniel Goerner [TK-949]
 0 !LDRAW_ORG Subpart UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 4 0 3.55 9.82 -12.294 2.533 9.399 -12.496 2.449 9.82 -12.513 2.533 10.241 -12.496
 4 0 3.55 9.82 -12.294 2.533 10.241 -12.496 2.771 10.599 -12.449 3.129 10.837 -12.378

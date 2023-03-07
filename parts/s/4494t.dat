@@ -2,7 +2,7 @@
 0 Name: s\4494t.dat
 0 Author: Sascha Broich
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2014-12-11 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2014-12-12 [MagFors] regerated cond-lines
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 0 // outer groove outer line
 2 24 0.7 -89.659 42.802 0 -89.659 42.802

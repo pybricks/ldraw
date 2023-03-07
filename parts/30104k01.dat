@@ -2,7 +2,7 @@
 0 Name: 30104k01.dat
 0 Author: Matt Schild [mschild]
 0 !LDRAW_ORG Part Flexible_Section UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Use this file in conjuction with the file
 0 !HELP 30104k02.dat. This file is the end segment of
@@ -13,7 +13,7 @@
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Plate 1 x 1 Round with Chain Link, chainlink, padlock, lock
+0 !KEYWORDS chainlink, lock, padlock, Plate 1 x 1 Round with Chain Link
 
 0 !HISTORY 2002-05-27 [mschild] Rebuilt link connector using primitives and corrected its size
 0 !HISTORY 2003-07-23 [Steffen] BFCed
@@ -25,6 +25,7 @@
 0 !HISTORY 2017-09-15 [Philo] Changed part type, updated description, moved to 208a
 0 !HISTORY 2018-04-02 [PTadmin] Renamed from 208a
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 4 0 -1 0 0 0 -1 0 0 0 1 stud4a.dat
 1 16 0 4 0 2 0 0 0 -1 0 0 0 -2 4-4ring2.dat

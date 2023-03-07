@@ -2,11 +2,12 @@
 0 Name: s\43898pa1s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 4 -7.74156 0.38201 5.94033 -6.92965 0.38634 6.92965 -7.42462 0.45751 7.42462 -8.29452 0.45286 6.36464
 4 16 -4.2426 0 4.2426 -6.92965 0.38634 6.92965 -7.74156 0.38201 5.94033 -4.7604 0 3.6528

@@ -2,13 +2,14 @@
 0 Name: 4762.dat
 0 Author: Jonathan Wilson [jonwil]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
 0 !HISTORY 2011-07-15 [MagFors] Complete rewrite
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 0 17 1.5 4 0 0 0 2 0 0 0 3.5 box3u2p.dat
 1 16 0 19 -1.5 0 0 -4 0 -2 0 -0.5 0 0 box3u7a.dat

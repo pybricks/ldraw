@@ -2,14 +2,15 @@
 0 Name: 973phh.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 973pb3596, Set 75945, Set 75947, Set 76388, Set 75957, Set 76950
-0 !KEYWORDS Harry Potter
+0 !KEYWORDS Bricklink 973pb3596, Harry Potter, Set 75945, Set 75947, Set 75957
+0 !KEYWORDS Set 76388, Set 76950
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat

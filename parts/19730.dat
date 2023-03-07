@@ -2,7 +2,7 @@
 0 Name: 19730.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2019-07-20 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 4 16 -1.25 19.685 15.375 -1.25 18.209 15 -1.25 0 15 -1.25 0 15.375
 1 16 0 9.1045 15 1.25 0 0 0 0 -9.1045 0 1 0 rect3.dat

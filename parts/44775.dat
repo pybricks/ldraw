@@ -2,11 +2,11 @@
 0 Name: 44775.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Multi-Challenge, Race, 8364, oar, beam
+0 !KEYWORDS 8364, Beam, Multi-Challenge, oar, Race
 
 0 !CMDLINE -c14
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2016-03-26 [MMR1988] Fixed double lines, reworked to reduce file size
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 connhole.dat
 1 16 0 0 -20 1 0 0 0 1 0 0 0 1 beamhole.dat

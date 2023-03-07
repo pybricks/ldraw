@@ -2,11 +2,12 @@
 0 Name: typestuc.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Primitive UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Black
 1 0 -.29 0 3.2 -.65 0 0 0 1 0 0 0 1.02 1-4ndis.dat
@@ -51,7 +52,6 @@
 4 0 1.975 0 -3.272 2.625 0 -3.716 2.908 0 -3.311 2.193 0 -2.935
 4 0 2.193 0 -2.935 2.908 0 -3.311 3.1 0 -2.874 2.353 0 -2.567
 4 0 2.353 0 -2.567 3.1 0 -2.874 3.2 0 -2.4 2.43044 0 -2.20865
-
 
 0 // Main Color
 1 16 -.29 0 3.2 -.65 0 0 0 1 0 0 0 1.02 1-4chrd.dat

@@ -2,11 +2,12 @@
 0 Name: s\u9303s01.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 16 -7.654 -18.478 0 -7.654 -18.478 -62.5 -2 -19.6023 -37.5 -2 -19.6023 0
 4 16 -7.654 -18.478 -62.5 0 -20 -62.5 0 -20 -37.5 -2 -19.6023 -37.5

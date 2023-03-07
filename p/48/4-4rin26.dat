@@ -2,11 +2,12 @@
 0 Name: 48\4-4rin26.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG 48_Primitive UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 4 16 26 0 0 27 0 0 26.7678 0 3.5235 25.7764 0 3.393
 4 16 25.7764 0 3.393 26.7678 0 3.5235 26.0793 0 6.9876 25.1134 0 6.7288
@@ -57,6 +58,5 @@
 4 16 25.1134 0 -6.7288 26.0793 0 -6.9876 26.7678 0 -3.5235 25.7764 0 -3.393
 4 16 25.7764 0 -3.393 26.7678 0 -3.5235 27 0 0 26 0 0
 
-0 end of file 
-
+0 end of file
 

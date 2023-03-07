@@ -2,7 +2,7 @@
 0 Name: s\11438s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 0 !HISTORY 2020-11-14 [cwdee] Update description
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 3 16 9.247 -4 -10.137 0 -4 -11.148 5.897 -1.856 -11.865
 3 16 0 2.821 -13.746 1.711 2.032 -13.529 0 -4 -11.148

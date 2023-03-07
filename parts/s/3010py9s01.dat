@@ -2,11 +2,12 @@
 0 Name: s\3010py9s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 80 38.25 10.08 -10 36.75 9.98 -10 36.75 23.5 -10 38.25 23.5 -10
 4 80 23.25 23.5 -10 23.25 19.87 -10 21.75 20.18 -10 21.75 23.5 -10

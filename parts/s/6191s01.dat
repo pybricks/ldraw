@@ -2,12 +2,13 @@
 0 Name: s\6191s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-08-06 [MagFors] Primitive substitution
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 16 20 10.475 0 0 0 -4 0 -2.675 0 -4 0 0 4-4cyls.dat
 2 24 16.26121 8.6864 -1.3136 16.3044 9.011399 -1.5308
@@ -81,7 +82,6 @@
 1 16 -20 10.475 0 4 0 0 0 17.525 0 0 0 4 4-4cyli.dat
 1 16 -20 28 0 1 0 0 0 -1 0 0 0 1 stud3a.dat
 
-
 1 16 0 32 0 36 0 0 0 1 0 0 0 6 recte4.dat
 4 16 40 32 10 36 32 6 -36 32 6 -40 32 10
 4 16 -40 32 10 -36 32 6 -36 32 -6 -40 32 -10
@@ -99,7 +99,6 @@
 1 16 36 20 10 0 1 0 0 0 -16 -16 0 0 3-16chrd.dat
 4 16 36 32 -6 36 20 -6 36 5.2176 3.8768 36 32 6
 3 16 36 32 6 36 5.2176 3.8768 36 4.8 6
-
 
 1 16 0 32 0 40 0 0 0 1 0 0 0 10 recte4.dat
 1 16 0 16 10 -40 0 0 0 0 -16 0 -1 0 rect3.dat

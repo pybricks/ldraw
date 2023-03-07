@@ -2,13 +2,14 @@
 0 Name: 004847c.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 393-1, Norton, Motorcycle
+0 !KEYWORDS Motorcycle, Norton, Set 393-1
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 -0.25 0 19 0 0 0 0.25 0 0 0 9 box5-12.dat
 4 15 -8.5 -0.25 3.2 -12.8 -0.25 3.2 -12.1 -0.25 2.6 -9.8 -0.25 2.6

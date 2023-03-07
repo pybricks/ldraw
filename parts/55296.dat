@@ -2,7 +2,7 @@
 0 Name: 55296.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP 12.529 Degrees rotation on x-axis to make bottom of can level
 
@@ -19,6 +19,7 @@
 0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives and fixed some T-junctions
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 0 // Primitives
 1 16 0 14.4769 -21.2593 8 0 0 0 -3.90475 1.73547 0 .86773 7.80949 4-4cylc.dat

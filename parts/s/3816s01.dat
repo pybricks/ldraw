@@ -2,24 +2,25 @@
 0 Name: s\3816s01.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
-0 !HISTORY 2002-05-29 [fwcain]  removed all front surfaces (put into "main" file[s])...
+0 !HISTORY 2002-05-29 [fwcain] removed all front surfaces (put into "main" file[s])...
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
 0 !HISTORY 2007-09-13 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [tchang]  Add BFC, partially rebuild
-0 !HISTORY 2008-12-31 [tchang]  Corrected some conditional lines
+0 !HISTORY 2008-07-07 [tchang] Add BFC, partially rebuild
+0 !HISTORY 2008-12-31 [tchang] Corrected some conditional lines
 0 !HISTORY 2009-08-24 [PTadmin] Renamed from s/971s01
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-0 !HISTORY 2013-04-01 [tchang]  Suppress overlap faces
+0 !HISTORY 2013-04-01 [tchang] Suppress overlap faces
 0 !HISTORY 2013-04-03 [MagFors] Used new file s\3816s02.dat
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 0 !HISTORY 2020-05-30 [cwdee] Obsoleted due to bad leg geometry
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3816s02.dat
 0 // outer side surface

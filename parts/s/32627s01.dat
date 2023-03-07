@@ -2,7 +2,7 @@
 0 Name: s\32627s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,14 +10,15 @@
 0 !HISTORY 2021-01-03 [cwdee] Update description
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug2-1x2.dat
 1 16 0 0 0 40 0 0 0 7 0 0 0 40 48\4-4cylo.dat
-1 16 0 7 0 1 0 0 0 -1 0 0 0 1 48\4-4ring39.dat 
+1 16 0 7 0 1 0 0 0 -1 0 0 0 1 48\4-4ring39.dat
 1 16 0 7 0 39 0 0 0 1 0 0 0 39 48\4-4cylo.dat
 0 BFC INVERTNEXT
 1 16 0 4 0 36 0 0 0 4 0 0 0 36 48\4-4cylc.dat
-1 16 0 8 0 1 0 0 0 -1 0 0 0 1 48\4-4ring38.dat 
-1 16 0 8 0 2 0 0 0 -1 0 0 0 2 48\4-4rin18.dat 
+1 16 0 8 0 1 0 0 0 -1 0 0 0 1 48\4-4ring38.dat
+1 16 0 8 0 2 0 0 0 -1 0 0 0 2 48\4-4rin18.dat
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 -11.90388 4 0 4.09613 0 0 0 3 0 0 0 1 box3u5p.dat
 2 24 -8 7 0 -7.80115 7 -1

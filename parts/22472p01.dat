@@ -2,7 +2,7 @@
 0 Name: 22472p01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Tail hole: Y = -23, Z = 20
 0 !HELP Arm holes: Y= -30, X = +/-17
@@ -10,9 +10,10 @@
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Beatles, Yellow Submarine, Set 21306
+0 !KEYWORDS Beatles, set 21306, yellow submarine
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\22472s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\22472s01.dat

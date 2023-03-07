@@ -2,17 +2,18 @@
 0 Name: 30113.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS west, wild west, western, american nativ, shaman, witch doctor, medicine man
-0 !KEYWORDS set 6748, 2845, 6718, 6763, 6766, 5392, 5317
+0 !KEYWORDS 2845, 5317, 5392, 6718, 6763, 6766, american nativ, medicine man
+0 !KEYWORDS set 6748, shaman, west, western, wild west, witch doctor
 
 0 !HISTORY 2010-09-10 {LEGO Universe Team} Original part shape
 0 !HISTORY 2016-02-07 [Holly-Wood] File preparation for LDraw Parts Tracker
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 2 24 1.143 19.728 12.93 0 19.726 13
 2 24 3.746 19.635 12.433 1.143 19.728 12.93
@@ -3840,5 +3841,5 @@
 5 24 -23.435 22.604 3.999 -22.061 19.532 4.125 -22.648 19.82 3.295 -21.68 19.443 4.987
 5 24 -24.233 24.266 3.922 -23.435 22.604 3.999 -23.011 22.54 4.862 -24.708 24.599 3.409
 3 16 -13.047 14.99 -2.718 -13.548 14.962 -2.627 -13 17.86 0
-3 16 -13.047 14.99 -2.718 -13 17.86 0 -12.698 15.024 -2.687       
+3 16 -13.047 14.99 -2.718 -13 17.86 0 -12.698 15.024 -2.687
 5 24 -13 17.86 0 -13.047 14.99 -2.718 -13.548 14.962 -2.627 -12.698 15.024 -2.687

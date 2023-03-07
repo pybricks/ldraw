@@ -2,15 +2,16 @@
 0 Name: 54271.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Zamor, Sphere, Launcher, Bionicle
+0 !KEYWORDS bionicle, launcher, Sphere, Zamor
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 0 !HISTORY 2021-01-15 [MagFors] Reshaped axlehole, removed overlapping
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\54271s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\54271s01.dat

@@ -2,12 +2,14 @@
 0 Name: 2408p05.dat
 0 Author: Miklos Hosszu [hmick]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Space, Panel, Futuron
+
+0 !KEYWORDS Futuron, Panel, Space
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2408s01.dat
 4 16 60 264 -170 60 144 -170 -60 144 -170 -60 264 -170

@@ -2,11 +2,12 @@
 0 Name: s\3037ps2a.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 4 15 -21.3 5.98 -15.98 -21.16 5.85 -15.85 -21.69 5.75 -15.75 -21.83 5.98 -15.98
 4 15 -21.83 5.98 -15.98 -21.83 6.4 -16.4 -21.3 6.4 -16.4 -21.3 5.98 -15.98

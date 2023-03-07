@@ -2,16 +2,17 @@
 0 Name: 4250285a.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Tiny Turbos, Street Maniac, set 8644
+0 !KEYWORDS set 8644, Street Maniac, Tiny Turbos
 
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
 0 !HISTORY 2017-07-03 [cwdee] Use cylinder primitives with conditional lines
 0 !HISTORY 2017-12-03 [MMR1988] fixed t-junctions
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 14 -17 0 -7.5 0 0 -2 0 -2 0 -2 0 0 1-4chrd.dat
 1 14 -17 0 -7.5 0 0 -2 0 -0.25 0 -2 0 0 1-4cyli.dat
@@ -29,10 +30,10 @@
 4 14 19 0 -7.5 19 0 7.5 19 -0.25 7.5 19 -0.25 -7.5
 4 14 17 0 -9.5 17 0 9.5 19 0 7.5 19 0 -7.5
 
-1 14 -17 -0.25 7.5 0 0 -2 0 2 0 2 0 0  1-4disc.dat
-1 14 17 -0.25 7.5 2 0 0 0 2 0 0 0 2  1-4disc.dat
-1 0 -17 -0.25 -7.5 -2 0 0 0 2 0 0 0 -2  1-4disc.dat
-1 0 17 -0.25 -7.5 0 0 2 0 2 0 -2 0 0  1-4disc.dat
+1 14 -17 -0.25 7.5 0 0 -2 0 2 0 2 0 0 1-4disc.dat
+1 14 17 -0.25 7.5 2 0 0 0 2 0 0 0 2 1-4disc.dat
+1 0 -17 -0.25 -7.5 -2 0 0 0 2 0 0 0 -2 1-4disc.dat
+1 0 17 -0.25 -7.5 0 0 2 0 2 0 -2 0 0 1-4disc.dat
 4 0 17 -0.25 -7.5 19 -0.25 -7.5 19 -0.25 -4 16.5 -0.25 -5.75
 4 0 19 -0.25 -4 13.75 -0.25 -2.25 13.5 -0.25 -2.75 15.25 -0.25 -4.25
 3 0 19 -0.25 -4 15.25 -0.25 -4.25 16.5 -0.25 -5.75

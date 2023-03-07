@@ -2,17 +2,18 @@
 0 Name: 3660bp02.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS boat, ferry, windows, Color Line, P&O Stena, Viking Line
-0 !KEYWORDS Bricklink 3660pb002, set 1054
+0 !KEYWORDS boat, Bricklink 3660pb002, Color Line, ferry, P&O Stena, set 1054
+0 !KEYWORDS Viking Line, windows
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 0 !HISTORY 2020-03-14 [MagFors] Used b-version subfile
 0 !HISTORY 2021-11-07 [Holly-Wood] Added set reference
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3660bs01.dat
 0 // Pattern

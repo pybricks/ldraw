@@ -2,13 +2,14 @@
 0 Name: 18455.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2016-03-18 [Holly-Wood] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Inner studs
 1 16 20 24 0 0 0 -8 0 -20 0 8 0 0 2-4cylo.dat
@@ -77,7 +78,6 @@
 3 16 40 24 20 36 24 4.2426 39.3 -7.3 -3.5
 3 16 40 24 20 36 24 4.2426 36 24 5.7574
 3 16 40 24 20 36 24 5.7574 36 24 16
-
 
 4 16 24 24 -16 36 24 -16 40 24 -20 20 24 -20
 

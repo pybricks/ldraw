@@ -2,15 +2,17 @@
 0 Name: 3867p02.dat
 0 Author: Damien Guichard [BrickCaster]
 0 !LDRAW_ORG Part UPDATE 2003-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS Island, Pirate, Pirates, "Imperial Guard", Navy
+
+0 !KEYWORDS Imperial Guard, Island, Navy, Pirate, Pirates
 
 0 !HISTORY 2003-07-03 [Steffen] fixed BFC errors
 0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
 0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 0 // studs
 

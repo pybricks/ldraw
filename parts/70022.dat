@@ -2,11 +2,11 @@
 0 Name: 70022.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS stop, red, green
+0 !KEYWORDS green, red, Stop
 
 0 !CMDLINE -c0
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2012-02-13 [PTadmin] Renamed from 988
 0 !HISTORY 2012-02-14 [Steffen] replaced color 383 by 494
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 -30 12 0 0 60 0 -12 0 0 0 0 -20 box5.dat
 1 16 20 0 10 1 0 0 0 1 0 0 0 1 stud.dat

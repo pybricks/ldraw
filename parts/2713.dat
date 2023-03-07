@@ -2,9 +2,10 @@
 0 Name: 2713.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Figure Accessory
 
 0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
@@ -12,6 +13,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2010-12-17 [Philo] BFCed, corrected length and tip shape, reoriented studs
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 2 24 25 8 10 116 8 10
 2 24 25 8 -10 116 8 -10
@@ -22,8 +24,8 @@
 3 16 35 8 5 35 8 10 25 8 10
 2 24 25 0 -10 35 8 -5
 2 24 25 0 10 35 8 5
-1 16 -10 8 0 -1 0 0 0 1 0 0 0 -1 stud2.DAT
-1 16 10.001 8 -0.001 -1 0 0 0 1 0 0 0 -1 stud2.DAT
+1 16 -10 8 0 -1 0 0 0 1 0 0 0 -1 stud2.dat
+1 16 10.001 8 -0.001 -1 0 0 0 1 0 0 0 -1 stud2.dat
 1 16 -100 10 0 0 1 0 0 0 2 10 0 0 rect.dat
 3 16 35 8 5 25 8 10 25 0 10
 3 16 25 0 -10 25 8 -10 35 8 -5

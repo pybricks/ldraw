@@ -2,15 +2,16 @@
 0 Name: 4198p07.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Train, Cargo, bricklink 4198px4
-0 !KEYWORDS Set 1622, Set 2701, Set 2720, Set 2653, Set 1635, Set 2459
+0 !KEYWORDS bricklink 4198px4, Cargo, Set 1622, Set 1635, Set 2459, Set 2653
+0 !KEYWORDS Set 2701, Set 2720, Train
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4198s01.dat
 1 0 0 48 -40 2 0 0 0 0 -2 0 1 0 48\4-4rin17.dat

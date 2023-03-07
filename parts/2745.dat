@@ -2,16 +2,17 @@
 0 Name: 2745.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Propeller, Cowling
+0 !KEYWORDS Cowling, Propeller
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 0 !HISTORY 2021-12-01 [cwdee] Update keywords
 0 !HISTORY 2021-12-24 [MagFors] Reshaped axleholes, removed T-junctions, added missing condlines
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 0 BFC INVERTNEXT
 1 16 0 -20 0 36 0 0 0 40 0 0 0 -36 48\3-16cyli.dat
@@ -297,7 +298,6 @@
 4 16 2 -4 -35.8682 2.5 -2.5 -35.8352 2.5 -2.5 -36 2 -4 -36
 4 16 2 -4 -36 2 -5.602 -36 2 -5.602 -35.8675 2 -4 -35.8682
 3 16 0 -6 -36 2 -5.602 -35.8675 2 -5.602 -36
-
 
 2 24 -5.602 2 -36 -5.602 2 -35.511
 5 24 -2.5 2.5 -36 -2.5 2.5 -35.8351 -2 4 -36 -4 2 -36

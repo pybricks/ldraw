@@ -2,15 +2,15 @@
 0 Name: 94531.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Canopy, Rounded, Slope
-0 !KEYWORDS Ninjago, Space Police
-0 !KEYWORDS Set 70709, Set 70724, Set 70735, Set 70815
+0 !KEYWORDS canopy, Ninjago, rounded, Set 70709, Set 70724, Set 70735, Set 70815
+0 !KEYWORDS slope, Space Police
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\94531s01.dat
 0 // Patternable area

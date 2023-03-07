@@ -2,11 +2,12 @@
 0 Name: s\69958s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 12 -80 1 0 0 0 -1 0 0 0 1 stud4h.dat
 1 16 0 8 -80 6 0 0 0 1 0 0 0 6 4-4ndis.dat
@@ -106,4 +107,4 @@
 2 24 24 4 -120 120 4 -120
 2 24 120 4 -120 120 4 -24
 2 24 36 4 -20 20 4 -20
-2 24 20 4 -20 20 4 -36 
+2 24 20 4 -20 20 4 -36

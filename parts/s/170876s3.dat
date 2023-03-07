@@ -2,15 +2,15 @@
 0 Name: s\170876s3.dat
 0 Author: Miklos Hosszu [hmick]
 0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2007-11-15 [Philo] BFCed
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
-0 // negativ 1
 
+0 // negativ 1
 
 3 16 13 0 9 13 0 0 12.87 0 1.27
 3 16 13 0 9 12.87 0 1.27 12.49 0 2.49

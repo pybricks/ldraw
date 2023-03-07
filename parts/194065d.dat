@@ -2,13 +2,14 @@
 0 Name: 194065d.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Fabuland, Set 3678
 
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 4 16 15.64 0 22.304 15.708 0 -23.868 0 0 -31.348 15.096 0 27.064
 4 16 12.852 0 31.076 15.096 0 27.064 0 0 -31.348 8.704 0 34.204

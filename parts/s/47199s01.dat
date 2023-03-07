@@ -2,11 +2,12 @@
 0 Name: s\47199s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 4 16 27.2109 -23 0 26.8118 -23 9.4382 26.039 -30.2314 9.1796 26.4241 -30.2931 0
 4 16 26.8118 -23 9.4382 25.5379 -23 14.167 24.8451 -30 13.767 26.039 -30.2314 9.1796

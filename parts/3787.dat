@@ -2,7 +2,7 @@
 0 Name: 3787.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Use more primitives and rotate studs of 90 degrees (2005-12-02)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
 
 1 16 0 12 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 0 BFC INVERTNEXT
@@ -58,12 +59,12 @@
 4 16 -24 6 8 -40 6 8 -40 16 16 -20 16 16
 4 16 24 6 -8 40 6 -8 40 16 -16 20 16 -16
 4 16 -40 16 -16 -40 6 -8 -24 6 -8 -20 16 -16
-1 16 0 10 -20 0 0 20 2 0 0 0 1 0 rect2P.dat
-1 16 0 10 20 0 0 -20 2 0 0 0 -1 0 rect2P.dat
+1 16 0 10 -20 0 0 20 2 0 0 0 1 0 rect2p.dat
+1 16 0 10 20 0 0 -20 2 0 0 0 -1 0 rect2p.dat
 1 16 0 14 20 40 0 0 0 0 2 0 -1 0 rect3.dat
 1 16 0 14 -20 -40 0 0 0 0 2 0 1 0 rect3.dat
-1 16 0 16 18 0 0 -40 0 -1 0 -2 0 0 rect2P.dat
-1 16 0 16 -18 0 0 -40 0 -1 0 -2 0 0 rect2P.dat
+1 16 0 16 18 0 0 -40 0 -1 0 -2 0 0 rect2p.dat
+1 16 0 16 -18 0 0 -40 0 -1 0 -2 0 0 rect2p.dat
 1 16 -18 16 0 -2 0 0 0 -1 0 0 0 16 rect1.dat
 1 16 18 16 0 2 0 0 0 -1 0 0 0 -16 rect1.dat
 1 16 -32 6 0 8 0 0 0 -1 0 0 0 8 rect.dat

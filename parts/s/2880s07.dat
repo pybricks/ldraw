@@ -2,13 +2,14 @@
 0 Name: s\2880s07.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Center for Rotation: 0 0 -240 about 1.8 degrees
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 4 16 3.449 -7 -4.525 3.449 0 -4.525 1.949 0 -7.525 1.949 -7 -7.525
 4 16 1.949 -7 -7.525 1.949 0 -7.525 1.449 0 -7.525 1.449 -7 -7.525

@@ -2,10 +2,11 @@
 0 Name: 30350ap01.dat
 0 Author: Ronald Scott Moody [rmoody]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS flag, mudflap
+
+0 !KEYWORDS Flag, mudflap
 
 0 !HISTORY 2003-07-05 [Steffen] re-worked part to make use of s\30350s01.dat, fixed part origin, polished part name, BFCed, removed bowtie quads
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
@@ -13,6 +14,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-02-20 [PTadmin] Renamed from 30350p01
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30350as01.dat
 

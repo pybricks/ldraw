@@ -1,8 +1,8 @@
 0 ~Wheel Rim 20 x 33 with 6 Pinholes - 1/4 of Inner Structure
 0 Name: s\6582b.dat
-0 Author: Jeff Boen
+0 Author: Jeff Boen [onyx]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 0 !HISTORY 2022-04-24 [MagFors] Reshaped axlehole
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 -12.75 11.07277 6.378545 -2.25 0 0 0 -1 -0.627765 0 0 0.93933 rect.dat
 1 16 -12.75 0.56346 12.88796 2.25 0 0 0 0 0.56346 0 -1 -0.112045 rect3.dat

@@ -2,7 +2,7 @@
 0 Name: 30104k02.dat
 0 Author: Matt Schild [mschild]
 0 !LDRAW_ORG Part Flexible_Section UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Use this file in conjuction with the file
 0 !HELP 30104k01.dat. This file is the internal
@@ -25,6 +25,7 @@
 0 !HISTORY 2017-09-15 [Philo] Changed part type, updated description, moved to 209a
 0 !HISTORY 2018-04-02 [PTadmin] Renamed from 209a
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 4 0 0 1.5 0 0 0 -9 0 0 0 1.5 4-4cyli.dat
 1 16 -4 0 0 1.5 0 0 0 -9 0 0 0 1.5 4-4cyli.dat

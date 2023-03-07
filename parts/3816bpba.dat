@@ -2,17 +2,18 @@
 0 Name: 3816bpba.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Move down 12 units to align with hips
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Harley Quinn, set 7886, Batman, 2006, bricklink 970d03pb01
+0 !KEYWORDS 2006, Batman, bricklink 970d03pb01, Harley Quinn, set 7886
 
 0 !HISTORY 2013-12-23 [MagFors] Original design as 3816pba
 0 !HISTORY 2020-06-14 [MagFors] Adapted to corrected geometry
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3817bs01.dat
 4 16 -19.23 20 -4 -19.23 20 -10 -1.5 20 -10 -1.5 20 -4

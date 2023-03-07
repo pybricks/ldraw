@@ -2,11 +2,12 @@
 0 Name: s\3960ps4s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 0 34.93354 6 1.00166 37.93452 7.20054 0.99899 36.86883 6.80041 2.00123 34.86827 6 1.99958
 4 0 37.6749 7.2001 4.96 36.68346 6.80011 4.82947 36.86883 6.80041 2.00123 37.93452 7.20054 0.99899

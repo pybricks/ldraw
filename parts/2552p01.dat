@@ -2,13 +2,14 @@
 0 Name: 2552p01.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Space, Ice Planet 2002, set 6983
+0 !KEYWORDS Ice Planet 2002, set 6983, Space
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 -210 0 300 1 0 0 0 1 0 0 0 1 stug-1x12.dat
 1 16 -210 0 -320 1 0 0 0 1 0 0 0 1 stug-1x12.dat

@@ -2,16 +2,17 @@
 0 Name: 29602p01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10291, Bricklink 29602pb01, Rebrickable 29602pr0001
+0 !KEYWORDS Bricklink 29602pb01, Rebrickable 29602pr0001, Set 10291
 
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2018-01-28 [GeraldLasser] File preparation for LDraw Parts Tracker
 0 !HISTORY 2021-11-02 [MMR1988] Remove T Junctions
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\29602s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\29602s01.dat

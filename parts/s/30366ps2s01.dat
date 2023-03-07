@@ -2,11 +2,12 @@
 0 Name: s\30366ps2s01.dat
 0 Author: Daniel Goerner [TK-949]
 0 !LDRAW_ORG Subpart UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 3 1 2.082 61.598 -39.827 2.08 61.89 -39.814 2.28 61.75 -39.811
 3 1 0 60 -40 1.27 62.2 -39.833 1.281 61.669 -39.861

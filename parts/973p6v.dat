@@ -2,20 +2,22 @@
 0 Name: 973p6v.dat
 0 Author: Nils Schmidt [BlackBrick89]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
 0 !KEYWORDS Invaders
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2011-01-04 [BlackBrick89] Standardise description
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 14.345 2 10 12 0 10 -12 0 10 -14.345 2 10
 4 16 -19 29 10 19 29 10 14.345 2 10 -14.345 2 10
 4 16 19 32 10 19 29 10 -19 29 10 -19 32 10
-1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.DAT
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 3 0 -0.6971 29.0225 -10 -0.7031 29 -10 -0.6581 29 -10
 4 0 -0.6581 29 -10 -0.2194 29 -10 -0.4025 29.3171 -10 -0.6971 29.0225 -10
 4 0 -0.2194 29 -10 0 29 -10 0 29.425 -10 -0.4025 29.3171 -10
@@ -1880,4 +1882,4 @@
 4 16 -14.0188 2 -10 -14.2512 1.92 -10 -13.8004 1.5355 -10 -12.2469 2 -10
 4 16 -6.6772 0 -10 -12.2469 2 -10 -13.8004 1.5355 -10 -12 0 -10
 3 16 -6.6772 0 -10 -12.1255 2 -10 -12.2469 2 -10
-0 
+0

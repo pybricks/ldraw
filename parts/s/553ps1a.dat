@@ -1,14 +1,15 @@
-0 ~Cylinder  2 x  2 with Dome Top and R2-D2 Pattern - Silver 
+0 ~Cylinder  2 x  2 with Dome Top and R2-D2 Pattern - Silver
 0 Name: s\553ps1a.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Subpart UPDATE 2003-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
 0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 1 16 0 0.1169 0 0.5 0 0 0 -0.1169 0 0 0 0.5 4-4con16.dat
 4 16 0 0.1169 -8.5 0.5 0.1169 -8.4006 0.5 0.785 -11.2585 0 0.785 -11.358

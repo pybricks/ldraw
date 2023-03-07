@@ -2,19 +2,20 @@
 0 Name: 99799.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-06-30 [cwdee] Adjust origin
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 
+
 1 16 0 68 0 10 0 0 0 -56 0 0 0 10 4-4cylo.dat
-1 16 0 6 -8.5 -5 0 0 0 0 -5 0 -1.5 0 2-4cyli.DAT
-1 16 0 6 -8.5 -5 0 0 0 0 -5 0 1 0 2-4edge.DAT
+1 16 0 6 -8.5 -5 0 0 0 0 -5 0 -1.5 0 2-4cyli.dat
+1 16 0 6 -8.5 -5 0 0 0 0 -5 0 1 0 2-4edge.dat
 1 16 0 6 -8.5 -5 0 0 0 0 -5 0 1 0 2-4ndis.dat
 1 16 0 6 -10 -5 0 0 0 0 5 0 1 0 2-4ndis.dat
-1 16 0 6 -10 -5 0 0 0 0 -5 0 1 0 2-4edge.DAT
+1 16 0 6 -10 -5 0 0 0 0 -5 0 1 0 2-4edge.dat
 1 16 0 6 -10 5 0 0 0 0 5 0 1 0 4-4disc.dat
 3 16 4.933 12 8.5 8.5 12 8.5 7.071 12 7.071
 2 24 8.5 12 8.5 4.933 12 8.5

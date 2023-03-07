@@ -2,13 +2,14 @@
 0 Name: 48092.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2021-01-03 [cwdee] Update description
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 0 0 20 0 1 0 -20 0 0 48\1-4ring3.dat
 1 16 0 0 0 0 0 80 0 1 0 -80 0 0 48\1-4edge.dat
@@ -44,12 +45,12 @@
 3 16 77.272 24 -20.704 76 24 -16 79.312 24 -10.44
 2 24 4 4 -76 13 4 -76
 4 16 4 4 -76 13 4 -76 13 24 -76 4 24 -76
-1 16 13 24 -73 0 0 3 0 1 0 -3 0 0 1-4edge.DAT
+1 16 13 24 -73 0 0 3 0 1 0 -3 0 0 1-4edge.dat
 1 16 13 24 -73 0 0 3 0 -1 0 -3 0 0 1-4ndis.dat
-1 16 13 4 -73 0 0 3 0 1 0 -3 0 0 1-4edge.DAT
+1 16 13 4 -73 0 0 3 0 1 0 -3 0 0 1-4edge.dat
 1 16 13 4 -73 0 0 3 0 -1 0 -3 0 0 1-4disc.dat
 0 BFC INVERTNEXT
-1 16 13 4 -73 0 0 3 0 20 0 -3 0 0 1-4cyli.DAT
+1 16 13 4 -73 0 0 3 0 20 0 -3 0 0 1-4cyli.dat
 2 24 16 24 -73 16 24 -61.93
 2 24 73 24 -16 61.93 24 -16
 2 24 73 4 -16 61.93 4 -16
@@ -224,12 +225,12 @@
 2 24 76 24 -13 76 24 -4
 2 24 76 4 -13 76 4 -4
 4 16 76 24 -4 76 24 -13 76 4 -13 76 4 -4
-1 16 73 24 -13 0 0 3 0 1 0 -3 0 0 1-4edge.DAT
+1 16 73 24 -13 0 0 3 0 1 0 -3 0 0 1-4edge.dat
 1 16 73 24 -13 0 0 3 0 -1 0 -3 0 0 1-4ndis.dat
-1 16 73 4 -13 0 0 3 0 1 0 -3 0 0 1-4edge.DAT
+1 16 73 4 -13 0 0 3 0 1 0 -3 0 0 1-4edge.dat
 1 16 73 4 -13 0 0 3 0 -1 0 -3 0 0 1-4disc.dat
 0 BFC INVERTNEXT
-1 16 73 4 -13 0 0 3 0 20 0 -3 0 0 1-4cyli.DAT
+1 16 73 4 -13 0 0 3 0 20 0 -3 0 0 1-4cyli.dat
 2 24 4 24 -63.737 8.352 24 -63.45
 4 16 8.352 24 -63.45 4 24 -63.737 0 24 -60 7.83 24 -59.484
 4 16 63.737 24 -4 63.45 24 -8.352 59.484 24 -7.83 60 24 0

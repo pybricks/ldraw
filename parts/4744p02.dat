@@ -2,14 +2,16 @@
 0 Name: 4744p02.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2004-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS Freckles, Freckle Face
+
+0 !KEYWORDS Freckle Face, Freckles
 
 0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
 0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4744s01.dat
 
@@ -116,10 +118,10 @@
 1 16 -12 35 -20 -17 0 0 0 0 11.5 0 1 0 1-4ndis.dat
 4 16 -40 48 -20 -29 46.5 -20 -12 46.5 -20 0 48 -20
 3 16 -12 46.5 -20 0 47 -20 0 48 -20
-4 16 0 48 -20 12 46.5 -20 29 46.5 -20 40 48 -20 
+4 16 0 48 -20 12 46.5 -20 29 46.5 -20 40 48 -20
 3 16 0 48 -20 0 47 -20 12 46.5 -20
 4 16 -40 48 -20 -33.5 32.5 -20 -29 32.5 -20 -29 46.5 -20
-4 16 -40 48 -20 -40 20 -20 -33.5 23.5 -20 -33.5 32.5 -20 
+4 16 -40 48 -20 -40 20 -20 -33.5 23.5 -20 -33.5 32.5 -20
 4 16 -40 20 -20 -29 18 -20 -29 23.5 -20 -33.5 23.5 -20
 4 16 29 32.5 -20 33.5 32.5 -20 40 48 -20 29 46.5 -20
 4 16 33.5 23.5 -20 40 20 -20 40 48 -20 33.5 32.5 -20

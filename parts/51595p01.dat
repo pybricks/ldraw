@@ -2,9 +2,10 @@
 0 Name: 51595p01.dat
 0 Author: Ross Crawford [rosco]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
 0 !CMDLINE -c2
 
 0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
@@ -14,6 +15,7 @@
 0 !HISTORY 2010-09-12 [PTadmin] Renamed from 30225p01
 0 !HISTORY 2010-11-22 [Steffen] BFCed, subfiled, used stug
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\51595s01.dat
 1 16 156 0 156 4 0 0 0 1 0 0 0 4 1-4disc.dat

@@ -2,13 +2,14 @@
 0 Name: 98138p13.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 41908, Dots, Vegetable, Fruit, Bricklink 98138pb126
+0 !KEYWORDS Bricklink 98138pb126, Dots, Fruit, Set 41908, Vegetable
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138p13s01.dat

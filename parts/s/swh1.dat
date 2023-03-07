@@ -2,7 +2,7 @@
 0 Name: s\swh1.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2016-12-13 [MagFors] Made BFC, primitive substitution
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 6 5.7331 -2.0996 2 0 0 0 -1 0.26686 0 0 -0.10044 rect3.dat
 4 16 4 4.8125 -2.2 4 4.8757 -1.8817 4 5.4663 -1.9991 4 6 -2.2

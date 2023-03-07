@@ -2,7 +2,7 @@
 0 Name: t04i2500.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Primitive UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,11 +12,12 @@
 0 !HISTORY 2012-02-22 [Philo] Rebuilt CCW
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
+
 0 // Major Radius: 4
 0 // Tube(Minor) Radius: 1
 0 // Segments(Sweep): 4/16 = 0.25
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.2500 0 0  0 0 0.2500  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.2500 0 0 0 0 0.2500 0 1 0 4-4edge.dat
 
 4 16 0.75 0 0 0.6929 0 0.287 0.7105 0.0957 0.2943 0.769 0.0957 0
 4 16 0.769 0.0957 0 0.7105 0.0957 0.2943 0.7606 0.1768 0.315 0.8232 0.1768 0

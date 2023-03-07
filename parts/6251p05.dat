@@ -2,15 +2,15 @@
 0 Name: 6251p05.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS Belville, Bricklink 6251px2, creature, mousetrap, pet, Scala
 0 !KEYWORDS set 3149, set 5823
-0 !KEYWORDS pet, creature, mousetrap, belville, scala
-0 !KEYWORDS Bricklink 6251px2
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 0 // Half without Patternable Area
 

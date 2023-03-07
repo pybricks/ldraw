@@ -2,19 +2,20 @@
 0 Name: 2549.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Pirates, Islanders, bridge, rope, jungle, vines, boards
-0 !KEYWORDS canyon, crevasse
+0 !KEYWORDS boards, bridge, canyon, crevasse, islanders, Jungle, Pirates, rope
+0 !KEYWORDS vines
 
 0 !HISTORY 2004-03-27 [westrate] Fixed L3P errors
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 0 !HISTORY 2009-09-20 [Steffen] un-mirrored studs
 0 !HISTORY 2009-09-28 [arezey] Made BFC compliant
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 0 // Needs work: large gaps in the bridge supports
 

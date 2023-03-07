@@ -2,12 +2,13 @@
 0 Name: s\448s03.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-10 [GeraldLasser] Old s03 File discarded, re-organized
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // Centre Portion for Handle
 1 16 125.5 -88 0 0 0 -.5 0 -1 -88 -13 0 0 rect.dat
@@ -18,7 +19,7 @@
 4 16 126 0 13 125 -176 13 98 -100 13 98 -96 13
 4 16 102 -176 -13 125 -176 -13 98 -100 -13 98 -172 -13
 2 24 126 0 -13 -126 0 -13
-2 24 98 -96 -13 -98 -96 -13 
+2 24 98 -96 -13 -98 -96 -13
 
 3 16 98 -96 13 98 -100 13 98 -100 2
 3 16 98 -100 -2 98 -100 -13 98 -96 -13

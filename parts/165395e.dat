@@ -2,14 +2,15 @@
 0 Name: 165395e.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part Alias UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 6551, Raceway, Oil, Fuel, Gas
-0 !KEYWORDS Bricklink 6551stk01, Rebrickable 165395, Brickowl 930700
+0 !KEYWORDS Bricklink 6551stk01, Brickowl 930700, Fuel, Gas, oil, Raceway
+0 !KEYWORDS Rebrickable 165395, Set 6551
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 0 // Alias of 165495c, but used as a formed sticker applied on 3941 cylindrical face in actual set
 

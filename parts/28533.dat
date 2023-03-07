@@ -2,13 +2,14 @@
 0 Name: 28533.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2019-07-18 [Sirio] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Needs Work: Optimization of the curved surfaces
 0 // Needs Work: Possible use of primitives
@@ -50,4 +51,4 @@
 5 24 0 18.72 -141.546 0 45.502 -103.514 11.689 42.729 -104.966 -11.689 42.729 -104.966
 5 24 0 45.502 -103.514 0 62.042 -45.021 11.368 59.019 -45.213 -11.368 59.019 -45.213
 5 24 0 62.042 -45.021 0 63.613 80.786 -11.948 60.114 83.027 11.948 60.114 83.027
-5 24  0 63.613 80.786 0 63.785 80.786 -12.203 63.785 83.142 12.203 63.785 83.142
+5 24 0 63.613 80.786 0 63.785 80.786 -12.203 63.785 83.142 12.203 63.785 83.142

@@ -2,13 +2,14 @@
 0 Name: 004490f.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 365, western, wild west, cowboy, trading post
+0 !KEYWORDS cowboy, set 365, trading post, western, wild west
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 0 // Pattern
 0 // White
@@ -156,7 +157,6 @@
 3 15 -29.8 -.25 -5.6 -28.863 -.25 -7.392 -29.2 -.25 -5.6
 3 15 -29.2 -.25 -4.25 -29.2 -.25 -4.6 -26.6 -.25 -2.6
 3 15 -26.6 -.25 -2.6 -29.2 -.25 -4.6 -29.2 -.25 -5.6
-
 
 0 // Black
 1 0 -1.5 -.25 -15.5 1 0 0 0 1 0 0 0 1 2-4disc.dat
@@ -488,7 +488,6 @@
 4 0 27.1 -.25 -15.9 27.1 -.25 -16.65 28.291 -.25 -16.66 28.161 -.25 -15.07
 3 0 28.161 -.25 -15.07 27.1 -.25 -15.15 27.1 -.25 -15.9
 3 0 -27.5 -.25 -2.2 -26.6 -.25 -2.6 -26.2 -.25 -2.2
-
 
 0 // Red
 1 4 0 -.25 8 0 0 24.5 0 1 0 21 0 0 48\5-24chrd.dat

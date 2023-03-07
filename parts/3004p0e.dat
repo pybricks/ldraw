@@ -2,13 +2,15 @@
 0 Name: 3004p0e.dat
 0 Author: Bertrand Lequy [Berth]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS Bricklink 3004pb022, Set 3047, eye, pumpkin, Jack O'Lantern, halloween, triangle
+0 !KEYWORDS Bricklink 3004pb022, Eye, Halloween, Jack O'Lantern, pumpkin
+0 !KEYWORDS Set 3047, Triangle
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
 4 0 -10.3 18.1 -10 -10.977 18.128 -10 0 5.239 -10 0 6 -10

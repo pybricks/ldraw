@@ -2,11 +2,12 @@
 0 Name: s\2372s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 3 16 4.3509 -5.9069 -346.527 5.4 -14.0168 -353.5 0 -5.9128 -347.068
 3 16 5.4 -14.0168 -353.5 0 -14.0269 -354.4 0 -5.9128 -347.068

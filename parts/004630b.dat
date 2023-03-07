@@ -2,22 +2,23 @@
 0 Name: 004630b.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Plane, Lindbergh
+0 !KEYWORDS Lindbergh, Plane
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 0 !HISTORY 2012-01-09 [cwdee] Corrected dimensions
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 4 16 30 0 12 30 0 -12 -30 0 -12 -30 0 12
 4 16 -30 0 12 -30 -0.25 12 30 -0.25 12 30 0 12
 4 16 30 0 -12 30 -0.25 -12 -30 -0.25 -12 -30 0 -12
 4 16 30 0 12 30 -0.25 12 30 -0.25 -12 30 0 -12
 4 16 -30 0 -12 -30 -0.25 -12 -30 -0.25 12 -30 0 12
-0 
+0
 4 0 -7.7 -0.25 5.2 -8.4 -0.25 5.9 -9.6 -0.25 5.1 -9.4 -0.25 4.6
 4 0 -8.4 -0.25 5.9 -9.8 -0.25 6.3 -10.3 -0.25 5.3 -9.6 -0.25 5.1
 4 0 -9.8 -0.25 6.3 -12.3 -0.25 6.3 -11.9 -0.25 5.3 -10.3 -0.25 5.3

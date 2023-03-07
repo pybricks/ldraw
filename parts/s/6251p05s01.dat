@@ -2,11 +2,12 @@
 0 Name: s\6251p05s01.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 0 // Medium Blue
 3 73 4.405 -12.667 -18.098 4.192 -12.761 -18.223 3.959 -12.716 -18.336
@@ -131,8 +132,6 @@
 3 16 5.264 -14.64 -17.55 6.499 -12.44 -16.98 7.028 -13.89 -15.45
 3 16 5.264 -14.64 -17.55 3.709 -15.11 -18.48 4.072 -13.96 -18.49
 3 16 3.709 -15.11 -18.48 2.307 -14.33 -19.28 4.072 -13.96 -18.49
-
-
 
 3 16 2.231 -15.57 -19.04 1.343 -16.59 -18.65 0 -15.19 -19.73
 3 16 1.343 -16.59 -18.65 1.346 -17.496 -17.807 0 -16.59 -18.65

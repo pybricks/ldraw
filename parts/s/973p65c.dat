@@ -2,13 +2,14 @@
 0 Name: s\973p65c.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Subpart UPDATE 2002-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 4 16 -9.182 4.818 -10 -7.722 3.843 -10 -7.579 4.189 -10 -8.917 5.083 -10
 4 16 -10.157 6.278 -10 -9.182 4.818 -10 -8.917 5.083 -10 -9.811 6.421 -10

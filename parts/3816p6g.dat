@@ -2,17 +2,19 @@
 0 Name: 3816p6g.dat
 0 Author: Christophe Mitillo [Christophe_Mitillo]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Wyldstyle
+
 0 !CMDLINE -c1
 
 0 !HISTORY 2015-10-25 [MagFors] Minor improvements
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
 0 !HISTORY 2020-05-31 [cwdee] Obsoleted due to bad geometry
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3816s01.dat
 4 16 -1.5 20 -11 -19.18 20 -11 -19.5 28 -11 -1.5 28 -11
@@ -238,7 +240,6 @@
 4 82 -4.45 5.7 -6.714 -5.75 5.7 -6.714 -5.75 6.74 -6 -4.45 6.74 -6
 4 82 -4.45 5.25 -7.023 -4.45 3.95 -7.916 -5.75 3.95 -7.916 -5.75 5.25 -7.023
 3 82 -11.617 3.42 -8.28 -12.15 3.42 -8.28 -11.65 3.55 -8.191
-
 
 4 16 -6.9 11.25 -6 -6.8 11.077 -6 -7.1 10.973 -6 -7.1 11.527 -6
 4 16 -9.1 12.773 -6 -9.3 12.773 -6 -9.3 13.327 -6 -9.1 13.327 -6

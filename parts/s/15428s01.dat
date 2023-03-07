@@ -2,13 +2,14 @@
 0 Name: s\15428s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2015-11-28 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 16 -15.264 0 -7.581 -7.307 0 -7.575 -6.913 0 -9.004 -14.822 0 -9.191
 4 16 -7.307 0 -7.575 -15.264 0 -7.581 -15.547 0 -5.715 -7.625 0 -6.222

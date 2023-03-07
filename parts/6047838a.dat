@@ -2,13 +2,14 @@
 0 Name: 6047838a.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Volkswagen, Type 2, T1, camper van, set 40079
+0 !KEYWORDS camper van, set 40079, T1, Type 2, Volkswagen
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 0 -0.25 0 19 0 0 0 0.25 0 0 0 19 box5-12.dat
 

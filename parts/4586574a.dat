@@ -2,14 +2,14 @@
 0 Name: 4586574a.dat
 0 Author: David Manley [djm]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS railway
-0 !KEYWORDS set 7939
+0 !KEYWORDS railway, set 7939
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 // Sticker backside.
 1 16 0 -0.25 0 37.5 0 0 0 0.25 0 0 0 7.5 box5-12.dat

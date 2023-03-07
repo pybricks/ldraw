@@ -2,13 +2,14 @@
 0 Name: s\2335ps4a.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Subpart UPDATE 2004-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
 0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 0 // Frame
 4 16 0 34.75 15.25 0 34.75 44.75 0 37.5 47.5 0 37.5 12.5

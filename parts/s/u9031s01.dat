@@ -1,13 +1,14 @@
-0 ~Tyre 36.8 x 14 ZR Segment 
+0 ~Tyre 36.8 x 14 ZR Segment
 0 Name: s\u9031s01.dat
 0 Author: Sven Moritz Hein [smhltec]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2007-06-22 [mikeheide] BFC'ed
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 4 16 36 0 -18 34.7733 9.3175 -18 42.5007 11.388 -18 44 0 -18
 4 16 36 0 -18 36 0 18 34.7733 9.3175 18 34.7733 9.3175 -18

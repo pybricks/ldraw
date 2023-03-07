@@ -2,15 +2,16 @@
 0 Name: 3626bpaa.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Aquazone, Set 6125, Set 6175, Set 6195
-0 !KEYWORDS Set 1822, Set 6104, Set 3409, Set 2151, Set 2153
+0 !KEYWORDS Aquazone, Set 1822, Set 2151, Set 2153, Set 3409, Set 6104, Set 6125
+0 !KEYWORDS Set 6175, Set 6195
 
 0 !HISTORY 2020-04-18 [Holly-Wood] Streamlined pattern, regenerated conds
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 17 0 -12.0104 0 -4.97488 0 -13 0 -4.97488 0 12.0104 5-8cyli.dat

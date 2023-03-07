@@ -2,7 +2,7 @@
 0 Name: 2772.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2010-01-24 [mikeheide] added two missing edgelines
 0 !HISTORY 2010-01-25 [bbroich] corrected BFC
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 0 // Top back
 1 16 -10 0 150 0 0 -1 0 1 0 1 0 0 stud.dat
@@ -556,8 +557,8 @@
 1 16 -20 14.5 0 1 0 0 0 -2.25 0 0 0 1 stud4.dat
 1 16 -20 14.5 100 0 0 6 0 1 0 6 0 0 1-4edge.dat
 1 16 -20 14.5 100 0 0 8 0 1 0 8 0 0 1-4edge.dat
-1 16 -20 14.5 100 1 0 0 0 -2.25 0 0 0 1 STUD4A.dat
-1 16 -20 14.5 140 1 0 0 0 -2.25 0 0 0 1 STUD4A.dat
+1 16 -20 14.5 100 1 0 0 0 -2.25 0 0 0 1 stud4a.dat
+1 16 -20 14.5 140 1 0 0 0 -2.25 0 0 0 1 stud4a.dat
 1 16 -20 14.5 140 6 0 0 0 1 0 0 0 -6 1-4edge.dat
 1 16 -20 14.5 140 8 0 0 0 1 0 0 0 -8 1-4edge.dat
 1 16 -20 14.5 20 1 0 0 0 -2.25 0 0 0 1 stud4.dat
@@ -587,10 +588,10 @@
 1 16 20 14.5 0 1 0 0 0 -2.25 0 0 0 1 stud4.dat
 1 16 20 14.5 100 0 0 -6 0 1 0 6 0 0 1-4edge.dat
 1 16 20 14.5 100 0 0 -8 0 1 0 8 0 0 1-4edge.dat
-1 16 20 14.5 100 1 0 0 0 -2.25 0 0 0 1 STUD4A.dat
+1 16 20 14.5 100 1 0 0 0 -2.25 0 0 0 1 stud4a.dat
 1 16 20 14.5 140 -6 0 0 0 1 0 0 0 -6 1-4edge.dat
 1 16 20 14.5 140 -8 0 0 0 1 0 0 0 -8 1-4edge.dat
-1 16 20 14.5 140 1 0 0 0 -2.25 0 0 0 1 STUD4A.dat
+1 16 20 14.5 140 1 0 0 0 -2.25 0 0 0 1 stud4a.dat
 1 16 20 14.5 20 1 0 0 0 -2.25 0 0 0 1 stud4.dat
 1 16 20 14.5 60 1 0 0 0 -2.25 0 0 0 1 stud4.dat
 1 16 20 3 100 -4.24264 0 4.24264 0 1 0 -4.24264 0 -4.24264 2-4edge.dat

@@ -1,17 +1,18 @@
 0 Minifig Cup with Reddish Brown "TVA" Logo on Metallic Gold Rectangle Pattern
 0 Name: 3899p09.dat
-0 Author: Gerald Lasser [GeraldLasser]	
+0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Town, mug, coffee, cocoa, tea, drink, utensil, cookware
-0 !KEYWORDS Bricklink 3899pb009, Set 71031
-0 !KEYWORDS Collectible Minifigures, Marvel, Loki, Time Variance Authority
+0 !KEYWORDS Bricklink 3899pb009, cocoa, Coffee, Collectible Minifigures
+0 !KEYWORDS Cookware, drink, Loki, Marvel, mug, Set 71031, tea
+0 !KEYWORDS Time Variance Authority, town, utensil
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3899s01.dat
 

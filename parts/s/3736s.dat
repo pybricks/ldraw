@@ -1,8 +1,8 @@
-0 ~Technic Pulley Wheel 5D Segment 
+0 ~Technic Pulley Wheel 5D Segment
 0 Name: s\3736s.dat
 0 Author: Marc Klein [marckl]
 0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC Compliant (2004-08-04)
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 4 16 0 -3.828 -45.83 0 -2.531 -46.7 9.11 -2.531 -45.8 8.941 -3.828 -44.95
 2 24 9.11 -2.531 -45.8 0 -2.531 -46.7

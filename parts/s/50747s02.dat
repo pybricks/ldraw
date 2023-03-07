@@ -2,11 +2,12 @@
 0 Name: s\50747s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 4 16 -51.98 -40.03 2.325 -51.65 -40.23 9.45 -42.43 -28.052 9.45 -42.45 -27.597 2.325
 4 16 -57.57 -54.64 9.45 -51.65 -40.23 9.45 -51.98 -40.03 2.325 -57.96 -54.49 2.325

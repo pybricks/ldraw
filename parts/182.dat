@@ -2,12 +2,13 @@
 0 Name: 182.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2007-11-09 [mikeheide] based on the work of Jaco van der Molen
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 4 16 20 80 120 16 80 120 16 80 136 20 80 140
 4 16 20 80 140 16 80 136 -16 80 136 -20 80 140
@@ -54,7 +55,7 @@
 1 16 0 64 -110 -4 0 0 0 1 0 0 0 4 4-4cyli.dat
 1 16 0 64 -110 -4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 65 -110 -4 0 0 0 1 0 0 0 4 4-4edge.dat
-1 16 0 65 -110 -4 0 0 0 3 0 0 0 4 4-4CON0.DAT
+1 16 0 65 -110 -4 0 0 0 3 0 0 0 4 4-4con0.dat
 1 16 0 64 -110 0 0 -20 0 -1 0 -6 0 0 rect.dat
 1 16 0 68 -102 0 0 24 0 -1 0 2 0 0 rect.dat
 1 16 0 68 -118 0 0 24 0 -1 0 2 0 0 rect.dat

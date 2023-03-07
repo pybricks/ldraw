@@ -2,13 +2,14 @@
 0 Name: 14718px0.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 75551, BrickLink 14718pb031, Mouth, Minions
+0 !KEYWORDS BrickLink 14718pb031, Minions, Mouth, Set 75551
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14718s01.dat
 4 0 22.783 28.031 10 19.652 30.866 10 15.304 23.622 10 18.609 23.307 10

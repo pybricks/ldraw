@@ -2,15 +2,17 @@
 0 Name: 3890.dat
 0 Author: Sybrand Bonsma [Sybrand]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Fabuland, building, wall
+
+0 !KEYWORDS building, Fabuland, Wall
 
 0 !HISTORY 2010-11-14 [anathema] BFC'd, made more use of primitives
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2014-07-28 [cwdee] Corrected size and shape of window hole
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 16 0 164 0 1 0 0 0 -1 0 0 0 1 stug4-1x5.dat
 
@@ -30,7 +32,7 @@
 1 16 -31 27 -16 -3 0 0 0 0 -3 0 -1 0 1-4ndis.dat
 3 16 -56 4 -16 -34 24 -16 -34 27 -16
 4 16 56 112 -16 34 97 -16 34 27 -16 56 4 -16
-3 16 56 112 -16 34 100 -16 34 97 -16 
+3 16 56 112 -16 34 100 -16 34 97 -16
 1 16 31 97 -16 3 0 0 0 0 3 0 -1 0 1-4ndis.dat
 3 16 31 100 -16 34 100 -16 56 112 -16
 4 16 -56 4 -16 -34 27 -16 -34 97 -16 -56 112 -16

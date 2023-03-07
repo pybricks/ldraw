@@ -2,12 +2,14 @@
 0 Name: 58090.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
 0 !KEYWORDS 30.4 x 14
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 0 // Nomenclature: width_(mm)/profile_as_%age_of_width x rim_diameter_(mm)
 
@@ -24,14 +26,14 @@
 0 BFC INVERTNEXT
 1 16 0 0 17 21 0 0 0 0 -21 0 -13 0 4-4cylo.dat
 0 // Rim
-1 16 0 0 -12.629 1 0 0 0 1 0 0 0 0.97143 s\6578s02.DAT
-1 16 0 0 -12.629 0 1 0 -1 0 0 0 0 0.97143 s\6578s02.DAT
-1 16 0 0 -12.629 -1 0 0 0 -1 0 0 0 0.97143 s\6578s02.DAT
-1 16 0 0 -12.629 0 -1 0 1 0 0 0 0 0.97143 s\6578s02.DAT
-1 16 0 0 12.629 1 0 0 0 1 0 0 0 -0.97143 s\6578s02.DAT
-1 16 0 0 12.629 0 1 0 -1 0 0 0 0 -0.97143 s\6578s02.DAT
-1 16 0 0 12.629 -1 0 0 0 -1 0 0 0 -0.97143 s\6578s02.DAT
-1 16 0 0 12.629 0 -1 0 1 0 0 0 0 -0.97143 s\6578s02.DAT
+1 16 0 0 -12.629 1 0 0 0 1 0 0 0 0.97143 s\6578s02.dat
+1 16 0 0 -12.629 0 1 0 -1 0 0 0 0 0.97143 s\6578s02.dat
+1 16 0 0 -12.629 -1 0 0 0 -1 0 0 0 0.97143 s\6578s02.dat
+1 16 0 0 -12.629 0 -1 0 1 0 0 0 0 0.97143 s\6578s02.dat
+1 16 0 0 12.629 1 0 0 0 1 0 0 0 -0.97143 s\6578s02.dat
+1 16 0 0 12.629 0 1 0 -1 0 0 0 0 -0.97143 s\6578s02.dat
+1 16 0 0 12.629 -1 0 0 0 -1 0 0 0 -0.97143 s\6578s02.dat
+1 16 0 0 12.629 0 -1 0 1 0 0 0 0 -0.97143 s\6578s02.dat
 1 16 0 0 0.971 38 0 0 0 0 -38 0 4.85714 0 48\4-4cyli.dat
 1 16 0 0 0.971 38 0 0 0 0 -38 0 0.97143 0 48\4-4edge.dat
 1 16 0 0 -0.971 38 0 0 0 0 -38 0 0.97143 0 48\4-4edge.dat

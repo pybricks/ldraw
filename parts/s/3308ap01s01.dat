@@ -2,12 +2,13 @@
 0 Name: s\3308ap01s01.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Subpart UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-11-06 [MMR1988] Removed scaling, fixed t-junctions
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 4 16 -55.6 15.6 0 -54.5 15.6 0 -54.2 14.4 0 -54.4 13.7 0
 4 14 -50.9 15.3 0 -50.8 15.1 0 -52.3 13 0 -54.1 15.3 0

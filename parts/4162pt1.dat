@@ -2,13 +2,14 @@
 0 Name: 4162pt1.dat
 0 Author: Jens Brühl [jb70]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Lamborghini, Sian, set 42115, Bricklink 4162pb224
+0 !KEYWORDS Bricklink 4162pb224, Lamborghini, set 42115, Sian
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
 1 16 0 0 0 2.5 0 0 0 1 0 0 0 2.5 s\logolambt01.dat

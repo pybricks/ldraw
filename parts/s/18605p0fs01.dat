@@ -2,11 +2,12 @@
 0 Name: s\18605p0fs01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 4 15 -34.25 0 1.65 -34.45 0 0 -25.7 0 0 -33.7 0 3.25
 4 15 -32.85 0 4.4 -33.7 0 3.25 -25.7 0 0 -31.3 0 5.45

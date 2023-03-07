@@ -2,7 +2,7 @@
 0 Name: 2636.dat
 0 Author: Luis E. Fernandez [lfernand]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2016-01-09 [MMR1988] BFC'ed, partly rewritten
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 -10 -10 -150 0 1 0 -1 0 0 0 0 1 peghole.dat
 

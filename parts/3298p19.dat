@@ -1,8 +1,8 @@
 0 Slope Brick 33  3 x  2 with Freestyle Pennant Pattern
 0 Name: 3298p19.dat
-0 Author: Dave Schuler
+0 Author: Dave Schuler [Schuler]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-01-26 [Philo] BFCed, used subpart, rebuilt pattern
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3298s01.dat
 4 0 -19.4 0.2683 -10.5367 -18.7 0.5814 -11.1628 -12.1 0.5814 -11.1628 -11.4 0.2683 -10.5367

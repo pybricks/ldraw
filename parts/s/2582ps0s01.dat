@@ -2,11 +2,12 @@
 0 Name: s\2582ps0s01.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 4 1 -25.236 22.961 -30 -25.971 23.518 -30 -24.898 25.635 -30 -24.742 22.627 -30
 4 1 -24.742 22.627 -30 -24.898 25.635 -30 -23.276 23.985 -30 -24.561 22.516 -30

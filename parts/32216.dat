@@ -2,7 +2,7 @@
 0 Name: 32216.dat
 0 Author: Thomas Woelk [t.woelk]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2005-08-14 [mikeheide] added some missing lines
 0 !HISTORY 2011-02-28 [Philo] Closed gaps with Unificator, used cyli around middle connholes, other small improvements
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 120 0 40 1 0 0 0 1 0 0 0 1 znap2.dat
 1 16 120 0 0 1 0 0 0 1 0 0 0 1 znap3b.dat

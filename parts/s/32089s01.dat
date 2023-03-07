@@ -2,20 +2,16 @@
 0 Name: s\32089s01.dat
 0 Author: Svend Eisenhardt [eisenhardt]
 0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2005-12-18 [guyvivan] Made BFC'ed add missing lines and fixed errors L3p
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
+
 0 // ******** start lines negative levels***********
 0 // curve 65 (top of teeth) level -9
-
-
-
-
-
 
 2 24 -9 -32.44 1.984 -9 -32.44 -1.984
 2 24 -9 -31.465 -8.138 -9 -30.239 -11.911
@@ -67,7 +63,7 @@
 2 24 -9 -21.551 -19.405 -9 -19.405 -21.551
 2 24 -9 -14.5 -25.115 -9 -11.796 -26.493
 2 24 -9 -6.03 -28.367 -9 -3.032 -28.841
-0 curve 58 (bottom of  teeth) level -2***
+0 curve 58 (bottom of teeth) level -2***
 2 24 -2 -28.841 3.032 -2 -28.841 -3.032
 2 24 -2 -28.367 -6.03 -2 -26.493 -11.796
 2 24 -2 -25.115 -14.5 -2 -21.551 -19.405
@@ -396,7 +392,7 @@
 2 24 9 -27.41 -17.462 9 -25.078 -20.673
 2 24 9 -20.673 -25.078 9 -17.462 -27.41
 2 24 9 -11.911 -30.239 9 -8.138 -31.465
-0 curve 65 (top of teeth) level  +4
+0 curve 65 (top of teeth) level +4
 2 24 4 -32.44 1.984 4 -32.44 -1.984
 2 24 4 -31.465 -8.138 4 -30.239 -11.911
 2 24 4 -27.41 -17.462 4 -25.078 -20.673
@@ -441,7 +437,7 @@
 2 24 9 -21.551 -19.405 9 -19.405 -21.551
 2 24 9 -14.5 -25.115 9 -11.796 -26.493
 2 24 9 -6.03 -28.367 9 -3.032 -28.841
-0 curve 58 (bottom of  teeth) level +2
+0 curve 58 (bottom of teeth) level +2
 2 24 2 -28.841 3.032 2 -28.841 -3.032
 2 24 2 -28.367 -6.03 2 -26.493 -11.796
 2 24 2 -25.115 -14.5 2 -21.551 -19.405

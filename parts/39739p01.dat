@@ -2,14 +2,15 @@
 0 Name: 39739p01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 39739pb01, Set 71023
-0 !KEYWORDS Collectible Minifigures, The LEGO Movie 2, Tin Man, Wizard of Oz
+0 !KEYWORDS Bricklink 39739pb01, Collectible Minifigures, Set 71023
+0 !KEYWORDS The LEGO Movie 2, Tin Man, Wizard of Oz
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\39739s01.dat
 

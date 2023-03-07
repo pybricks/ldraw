@@ -2,7 +2,7 @@
 0 Name: 30046.dat
 0 Author: Adam Howard [Whist]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2010-07-09 [Philo] BFCed, corrected top curvature and thickness, optimized
 0 !HISTORY 2011-02-28 [Brickaneer] Reduced to 4 digits.
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 4 16 14 -4 2 16 -4 2 16 32 2 14 30 2
 4 16 -16 -4 2 -14 -4 2 -14 30 2 -16 32 2

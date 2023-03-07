@@ -2,18 +2,19 @@
 0 Name: 6234.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
-0 !HISTORY 2003-08-04 [mkennedy] Completed header, BFC'ed, Optimized 
+0 !HISTORY 2003-08-04 [mkennedy] Completed header, BFC'ed, Optimized
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [Steffen] Changed part name to fit in "Door" category, 48ed top round windows (2004-04-24)
 0 !HISTORY 2008-07-08 [PTadmin] Renamed from 600 (2004-12-06)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 3 36 53 0 1 0 -28 0 0 0 0 32 48\1-4edge.dat
 1 16 -3 36 53 0 1 0 -28 0 0 0 0 32 48\1-4edge.dat

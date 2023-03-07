@@ -2,13 +2,15 @@
 0 Name: 3245cpz4.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS BrickLink 3245cpb118, BrickHeadz, Set 40378, Goofy, Disney, Turtleneck Jumper
+0 !KEYWORDS Brickheadz, BrickLink 3245cpb118, Disney, Goofy, Set 40378
+0 !KEYWORDS Turtleneck Jumper
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3245cs01.dat
 

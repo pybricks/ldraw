@@ -2,7 +2,7 @@
 0 Name: s\59228s02.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2009-06-18 [westrate] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-03-11 [MagFors] Corrected some edge lines
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 3 16 10 -19.82 -43.13 10 -18.31 -45.61 10 -17.58 -45.37
 4 16 10 -12.32 -45.61 10 -14.52 -46.19 10 -16.38 -47.48 10 -13.86 -48.45
@@ -2493,7 +2494,7 @@
 5 24 3.29 -48.4 -63.8 4.71 -50.5 -62.47 4.36 -49.3 -63.25 4.37 -51.7 -61.7
 5 24 1.88 -55.8 -66.25 4.37 -51.9 -68 3.3 -50.9 -68.42 3.29 -55.4 -66.42
 5 24 4.05 -35.69 -49.26 4.06 -37.37 -47.52 3.25 -37.95 -46.93 4.37 -36.53 -48.4
-2 24 10 7.22 -14.12 10 4.09 -14.12 
+2 24 10 7.22 -14.12 10 4.09 -14.12
 2 24 10 -18.97 -14.12 10 -2.64 -14.12
 2 24 7.5 -39.79 -85.19 0 -39.79 -85.19
 2 24 7.5 -34.39 -88.34 0 -34.39 -88.34

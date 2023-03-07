@@ -2,13 +2,15 @@
 0 Name: 58177.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Bionicle
+
+0 !KEYWORDS bionicle
 
 0 !HISTORY 2007-10-28 [mikeheide] fixed two edgelines; removed 4-4cyli.dat, corrected BFC error
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 0 BFC INVERTNEXT
 1 16 -20 -8 40 0 0 6 0 16 0 -6 0 0 4-4cyli.dat

@@ -2,11 +2,12 @@
 0 Name: s\3011s01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 4 0 1 0 0 0 -10 0 0 0 1 stug8-1x3.dat
 
@@ -18,8 +19,8 @@
 4 16 80 48 -40 76 48 -36 76 48 36 80 48 40
 
 1 16 0 48 0 0 0 80 0 -48 0 -40 0 0 box3u2p.dat
-2 24 -80 48 -40 80 48 -40 
-2 24 -80 48 40 80 48 40 
+2 24 -80 48 -40 80 48 -40
+2 24 -80 48 40 80 48 40
 1 16 40 0 0 1 0 0 0 2.75 0 0 0 1 stug7-2x2.dat
 1 16 -40 0 0 1 0 0 0 2.75 0 0 0 1 stug7-2x2.dat
 

@@ -2,11 +2,12 @@
 0 Name: s\2507p6us01.dat
 0 Author: Nils Schmidt [BlackBrick89]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 0 16.575 6.7167 -101.72 1.105 0 0 0 1.1908 -0.4963 0 0.4963 1.1908 s\2507p6us02.dat
 1 0 16.575 8.46667 -105.92 1.105 0 0 0 1.1908 -0.4963 0 0.4963 1.1908 s\2507p6us02.dat

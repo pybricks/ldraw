@@ -2,16 +2,18 @@
 0 Name: 3626bps6.dat
 0 Author: Daniel Goerner [TK-949]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS face, frown, grim, Star Wars, Classic Trilogy, Darth Vader, Anakin Skywalker
-0 !KEYWORDS Sith, Sith Lord, Empire, evil, villain, bad guy, eyebrows, scar, scars 
-0 !KEYWORDS scarred, burn marks, sunken eye sockets, pockets under eyes, wrinkles
+0 !KEYWORDS Anakin Skywalker, bad guy, burn marks, Classic Trilogy, Darth Vader
+0 !KEYWORDS Empire, evil, eyebrows, face, frown, grim, pockets under eyes, scar
+0 !KEYWORDS scarred, scars, sith, Sith Lord, Star Wars, sunken eye sockets
+0 !KEYWORDS villain, wrinkles
 
 0 !HISTORY 2019-02-01 [Holly-Wood] Closed gaps
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 // Subfiles
 

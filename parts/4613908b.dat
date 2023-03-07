@@ -2,16 +2,18 @@
 0 Name: 4613908b.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP place at 428.986 -35.65 -158.82 0 -0.96352 -0.26764 0 0.26764 -0.96352 1 0 0 on 51542.dat
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Pharaoh's Quest, Set 7327
+
 0 !CMDLINE -c28
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 4 16 98 0 -32.5 -115 0 -32.5 -98 0 32.5 98 0 32.5
 4 16 -98 0 32.5 -115 0 -32.5 -115 -0.25 -32.5 -98 -0.25 32.5

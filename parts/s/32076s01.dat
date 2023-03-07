@@ -2,12 +2,13 @@
 0 Name: s\32076s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-01-24 [Philo] Adapted from Marc Klein 32078
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 5 24 82.5385 0 13.7051 83.18 0 12.4251 83.082 1.4929 12.4251 81.2328 -7.7393 14.2145
 5 24 80.5867 0 17.5 81.5741 0 15.6296 83.082 1.4929 12.4251 79.2717 -12.8 16.7574

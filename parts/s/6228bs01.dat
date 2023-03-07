@@ -2,11 +2,12 @@
 0 Name: s\6228bs01.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 2 24 6 -14.318 -14.477 6 0 -16.582
 2 24 6 0 -16.582 0 0 -16.582
@@ -181,7 +182,7 @@
 2 24 4.068 -.767 59.471 5.894 .814 64.637
 2 24 13.494 3.02 74.879 5.894 .814 64.637
 2 24 15.059 0 -2.815 15.188 0 7.266
-2 24 1.5 -9.6118 17.42248 1.5 -9.97666 14.94924 
+2 24 1.5 -9.6118 17.42248 1.5 -9.97666 14.94924
 
 0 // Box
 4 16 6 -9.612 17.421 6 0 16 6 0 -16.582 6 -14.318 -14.477

@@ -2,11 +2,12 @@
 0 Name: 48\4-4con19.dat
 0 Author: Mark Kennedy [mkennedy]
 0 !LDRAW_ORG 48_Primitive UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 4 16 19 1 0 18.8366 1 2.4795 19.828 0 2.61 20 0 0
 4 16 18.8366 1 2.4795 18.3521 1 4.9172 19.318 0 5.176 19.828 0 2.61
@@ -107,6 +108,5 @@
 5 24 18.3521 1 -4.9172 19.318 0 -5.176 17.5541 1 -7.2713 18.8366 1 -2.4795
 5 24 18.8366 1 -2.4795 19.828 0 -2.61 18.3521 1 -4.9172 19 1 0
 
-0 end of file 
-
+0 end of file
 

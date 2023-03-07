@@ -2,7 +2,7 @@
 0 Name: s\3068p69a.dat
 0 Author: Carsten Schmitz [Deckard]
 0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2013-02-17 [MagFors] Changed colour 179 to 80 (printed silver)
 0 !HISTORY 2013-02-17 [MagFors] Removed t-junctions
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 // S
 

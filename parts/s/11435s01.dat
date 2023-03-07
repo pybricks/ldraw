@@ -2,13 +2,14 @@
 0 Name: s\11435s01.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Subpart UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2021-05-09 [Holly-Wood] Smoothed surface, fixed rounding errors, converted conds, changed origin
 0 !HISTORY 2021-06-30 [MagFors] Adjusted surfaces
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 3 16 16.255 18.736 -37.269 15.966 18.43 -36.142 15.147 16.845 -40.273
 3 16 16.255 18.736 -37.269 15.039 23.426 -37.495 15.966 18.43 -36.142
@@ -1065,7 +1066,6 @@
 3 16 6.149 0 45.673 2.597 0 45.187 4.234 0 42.766
 
 1 16 0 0 48 1.5 0 0 0 1 0 0 0 2.5 1-4tang.dat
-
 
 0 // Edges and conds of the patternable area
 2 24 4.817 27.39 -80.481 0 27.178 -81.267

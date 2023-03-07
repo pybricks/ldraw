@@ -2,7 +2,7 @@
 0 Name: 62711.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2013-12-15 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2013-12-15 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 0 -4 0 -1 0 0 0 -1 0 0 0 1 stud4o.dat
 3 16 11.839 19.271 -5.383 11.625 19.203 -5.877 10.857 3.455 -6.268

@@ -2,11 +2,12 @@
 0 Name: s\87748s01.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 -16.83 0 19.151 2 8.6602 0 0 0 -4 -3.4641 5 0 4-4cylc.dat
 1 16 -8.17 0 24.151 -2 -0.866 0 0 0 4 3.4641 -0.5 0 4-4disc.dat

@@ -2,7 +2,7 @@
 0 Name: 70450b.dat
 0 Author: Marc Klein [marckl]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,8 +10,8 @@
 0 !HISTORY 2009-05-04 [PTadmin] Renamed from 328b
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
-0 // Created with spring2dat H=78 R=10 D=20 S=2 T=1 B=1
 
+0 // Created with spring2dat H=78 R=10 D=20 S=2 T=1 B=1
 
 2 24 10 1 0 9.239 1.488 3.827
 2 24 11 0 0 10.16 0.4875 4.21

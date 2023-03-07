@@ -2,15 +2,16 @@
 0 Name: 87079pt7.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10295, Bricklink 87079pb899, Porsche, Year 2021
+0 !KEYWORDS Bricklink 87079pb899, Porsche, Set 10295, Year 2021
 
 0 !CMDLINE -c15
 
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
 1 16 -37 0 16.4 -2 0 0 0 1 0 0 0 2 1-4ndis.dat

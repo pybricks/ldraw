@@ -2,7 +2,7 @@
 0 Name: 22587a.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,7 +13,8 @@
 0 !HISTORY 2013-08-07 [MMR1988] Adjusted Subpart Origin, Updated Description and Keywords, Changed box Colour to 16
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
-1 16  0 -0.25 0  38 0 0  0 0.25 0  0 0 34  box5-12.dat
+
+1 16 0 -0.25 0 38 0 0 0 0.25 0 0 0 34 box5-12.dat
 0 //
 1 15 0 -0.25 -2.32 3.2 0 0 0 1 0 0 0 3.2 s\22587s01.dat
 0 //

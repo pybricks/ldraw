@@ -2,11 +2,12 @@
 0 Name: 92198p11.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\92198s01.dat
 5 24 0 25.49 -12.39 3.39 23.09 -13.11 0 23.1 -13.86 2.87 25.46 -11.32

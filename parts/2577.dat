@@ -2,7 +2,7 @@
 0 Name: 2577.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2009-01-22 [mikeheide] corrected bad vertex sequences
 0 !HISTORY 2009-01-24 [Philo] BFCed, corrected studs orientation, improved bottom
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 1 16 20 4 -20 1 0 0 0 -5 0 0 0 1 stud4f4n.dat
 1 16 20 4 -20 6 0 0 0 -5 0 0 0 6 4-4edge.dat

@@ -2,13 +2,14 @@
 0 Name: 004452d.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 374-1, Fire Station
+0 !KEYWORDS Fire Station, Set 374-1
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 -0.25 0 79 0 0 0 0.25 0 0 0 11 box5-12.dat
 4 0 -72.49 -.25 -7.56 -69.38 -.25 -7.56 -69.38 -.25 -1.03 -72.49 -.25 7.78

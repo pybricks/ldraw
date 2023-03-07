@@ -2,12 +2,13 @@
 0 Name: s\6092s02.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-03-04 [Holly-Wood] Closed gaps, fixed conds and edges
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 0 // Base
 1 16 -200 0 -200 -100 0 0 0 1 0 0 0 -100 48\1-4ndis.dat

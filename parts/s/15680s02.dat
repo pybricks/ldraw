@@ -2,11 +2,12 @@
 0 Name: s\15680s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 4 16 10.9352 -42.9949 -3.1965 8.6563 -42.9989 -4.8744 8.7 -39 -4.96 11 -39 -3.26
 3 16 12.3939 -42.9768 -1.3293 10.9352 -42.9949 -3.1965 11 -39 -3.26

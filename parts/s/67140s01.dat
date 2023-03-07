@@ -2,11 +2,12 @@
 0 Name: s\67140s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 4 16 0 -119 0 0 -118.1 -8.5 15.4151 -117.0896 -8.5 15.5326 -117.9819 0
 4 16 28.8583 -107.7007 -25.8 14.5537 -110.5461 -25.8 13.9794 -106.1837 -31.8 27.7195 -103.4507 -31.8

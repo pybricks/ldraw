@@ -2,13 +2,14 @@
 0 Name: 3068bp0g.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Friends, Disney Princess, bricklink 3068bpb0589, Set 3939
+0 !KEYWORDS bricklink 3068bpb0589, Disney Princess, Friends, Set 3939
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 1 29 -15 0 7 0 0 -0.8 0 1 0 0.8 0 0 1-4disc.dat

@@ -2,7 +2,7 @@
 0 Name: 62885.dat
 0 Author: Kevin Roach [KROACH]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Grip-barrel angle = 17 degrees
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2012-10-16 [KROACH] This is a mock-up. I don't have part as of yet.
 0 !HISTORY 2020-02-24 [MagFors] No longer a mock-up
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 -26.209 -21.245 0 0 1 -0.29237 0.95631 0 -0.95631 -0.29237 0 s\62885s01.dat
 1 16 0 -26.209 -21.245 0 0 -1 -0.29237 0.95631 0 -0.95631 -0.29237 0 s\62885s01.dat

@@ -2,14 +2,18 @@
 0 Name: 973pw7.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS western, wild west, spaghetti western, cowboy, desperado, star, deputy
-0 !KEYWORDS Doc Holliday, Tombstone, Billy the Kid, Wyatt Earp, Dodge City, Winnetou
+
+0 !KEYWORDS billy the kid, cowboy, deputy, desperado, doc holliday, Dodge City
+0 !KEYWORDS spaghetti western, Star, tombstone, western, wild west, Winnetou
+0 !KEYWORDS Wyatt Earp
+
 0 !CMDLINE -c6
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 0 // Yellow
 

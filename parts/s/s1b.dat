@@ -2,13 +2,14 @@
 0 Name: s\s1b.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2003-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
 0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 0 // Pattern
 4 16 -30 -0.25 24 30 -0.25 24 -0.045 -0.25 10.55 -4.757 -0.25 11.489
@@ -57,7 +58,7 @@
 4 16 -20.242 -0.25 -6.314 -19.254 -0.25 -6.975 -20.26 -0.25 -7.014 -20.46 -0.25 -6.669
 
 0 Thin Box
-4 16 30 0 24 -30 0 24 -30 0 -24 30 0 -24 
+4 16 30 0 24 -30 0 24 -30 0 -24 30 0 -24
 4 16 -30 0 -24 -30 -0.25 -24 30 -0.25 -24 30 0 -24
 4 16 30 0 -24 30 -0.25 -24 30 -0.25 24 30 0 24
 4 16 30 0 24 30 -0.25 24 -30 -0.25 24 -30 0 24

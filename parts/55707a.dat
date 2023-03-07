@@ -2,16 +2,18 @@
 0 Name: 55707a.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Angle of handle/housing is 26.8136
 
 0 BFC CERTIFY CW
+
 0 !CATEGORY Minifig Accessory
 0 !KEYWORDS Batman
 
 0 !HISTORY 2010-09-28 [Philo] Added trigger
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 2 24 5 -14.828 -16.036 -5 -14.828 -16.036
 2 24 5 -6.708 0.029 -5 -6.708 0.029

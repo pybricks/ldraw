@@ -2,13 +2,14 @@
 0 Name: s\usflags03.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP See s/usflag01 for instructions on use
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 4 4 1 0 -7.6923 1 0 0 0 0 0 0 0 -7.6923
 4 15 1 0 -15.3846 1 0 -7.6923 0 0 -7.6923 0 0 -15.3846

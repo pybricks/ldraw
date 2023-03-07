@@ -2,16 +2,17 @@
 0 Name: 4478p04.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS BrickLink 4478px3, set 6419
+0 !KEYWORDS BrickLink 4478px3, Set 6419
 
 0 !HISTORY 2010-04-09 [mikeheide] Moved portions from subfile
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2021-01-16 [cwdee] Update description
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4478s01.dat
 4 16 -128 0 320 -316 0 320 -316 0 -320 -128 0 -320

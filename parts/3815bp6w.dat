@@ -2,19 +2,20 @@
 0 Name: 3815bp6w.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS UFO, Invaders, Android
-0 !KEYWORDS Bricklink 970c00pb0021
-0 !KEYWORDS set 3012, set 4305, set 6800, set 6816, set 6818, set 6829
-0 !KEYWORDS set 6836, set 6901, set 6902, set 6915, set 6975, set 6979
+0 !KEYWORDS Android, Bricklink 970c00pb0021, Invaders, set 3012, set 4305
+0 !KEYWORDS set 6800, set 6816, set 6818, set 6829, set 6836, set 6901, set 6902
+0 !KEYWORDS set 6915, set 6975, set 6979, UFO
+
 0 !CMDLINE -c0
 
 0 !HISTORY 2010-12-31 [BlackBrick89] Original pattern design
 0 !HISTORY 2020-05-30 [cwdee] Adapted to corrected geometry
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3815bs01.dat
 1 16 -2 12 0 0 4 0 8.08395 0 -3.34848 -3.34848 0 -8.08395 5-16cyli.dat

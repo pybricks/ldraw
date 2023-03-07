@@ -2,13 +2,14 @@
 0 Name: 6009194dc01.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 30195, Racers, Ferrari, FXX, Polybag
+0 !KEYWORDS Ferrari, FXX, Polybag, Racers, Set 30195
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 1.773 0.053 1 0 0 0 0.99847 -0.055283 0 0.055283 0.99847 s\6009194ds01.dat
 1 16 0 2.362 0.10716 1 0 0 0 0.995483 -0.0949396 0 0.0949396 0.995483 s\6009194ds02.dat

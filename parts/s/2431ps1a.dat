@@ -2,7 +2,7 @@
 0 Name: s\2431ps1a.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2012-04-09 [TK-949] Complete Rewrite
 0 !HISTORY 2013-07-07 [MMR1988] Corrected BFC winding
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 4 0 34.43 0 0.28 33.44 0 0.86 34.2 0 0.248 34.389 0 0.274
 4 0 33.819 0 0.194 34.011 0 0.221 34.2 0 0.248 33.44 0 0.86

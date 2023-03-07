@@ -2,14 +2,15 @@
 0 Name: 98138pc4.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10295, Porsche, Bricklink 98138pb175
-0 !KEYWORDS Set 10262, Set 10255, Set 10274, Set 10271, Set 60306, Set 71741
+0 !KEYWORDS Bricklink 98138pb175, Porsche, Set 10255, Set 10262, set 10271
+0 !KEYWORDS Set 10274, Set 10295, Set 60306, Set 71741
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s02.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 4-4ring9.dat

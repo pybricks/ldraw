@@ -2,7 +2,7 @@
 0 Name: 1-8sphe.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Primitive UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -17,6 +17,7 @@
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2012-07-01 [tcobbs] Replaced with geometry from LDView
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 3 16 1 0 0 0.9239 0.3827 0 0.9239 0 0.3827
 3 16 0.9239 0.3827 0 0.7836 0.4393 0.4393 0.9239 0 0.3827

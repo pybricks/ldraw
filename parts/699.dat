@@ -2,11 +2,12 @@
 0 Name: 699.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 0 8 0 20 0 0 0 -8 0 0 0 -120 box5.dat
 0 BFC INVERTNEXT
@@ -275,4 +276,4 @@
 1 16 -15 14 -113 0 -1 0 0 0 2 -3 0 0 rect1.dat
 1 16 -18 20.765 -111.848 0 0 -3 -0.765 0.924 0 1.848 1 0 rect.dat
 1 16 -18 16 -115 0 0 -3 0 -1 0 -1 0 0 rect2p.dat
-0 
+0

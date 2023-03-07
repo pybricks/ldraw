@@ -2,13 +2,14 @@
 0 Name: 973p8h.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-06-03 [tchang] New Part
 0 !HISTORY 2012-07-08 [tchang] Replace subparts 4181p08a+b by 4865p01b+c
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10

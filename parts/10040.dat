@@ -2,13 +2,14 @@
 0 Name: 10040.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Vehicle
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 16 0 4 -40 0 0 1 0 -1 0 -1 0 0 stug4-1x3.dat
 1 16 0 4 0 -1 0 0 0 -1 0 0 0 -1 2-4stud4.dat
@@ -29,7 +30,7 @@
 4 16 -16 4 -2 -14 4 0 14 4 0 16 4 -2
 1 16 0 6 0 6 0 0 0 0 -2 0 1 0 rect.dat
 1 16 11 6 0 0 0 -3 -2 0 0 0 1 0 rect3.dat
-1 16 -11 6 0 0 0 3 2 0 -1E-15 0 1 0 rect3.dat
+1 16 -11 6 0 0 0 3 2 0 -1e-15 0 1 0 rect3.dat
 1 16 0 8 -40 -20 0 0 0 -8 0 0 0 -40 box4-4a.dat
 1 16 0 8 20.25 0 0 -20 0 -8 0 20.25 0 0 box3u8p.dat
 1 16 0 4 80 -20 0 0 0 0 -4 0 -1 0 rect.dat
@@ -189,7 +190,6 @@
 5 24 31.25 2.224 68.827 27.292 1.526 71.504 28.8307 1.7471 67.8531 28.872 1.805 73.546
 5 24 27.292 1.526 71.504 28.872 1.805 73.546 20 0 74.081 31.25 2.224 68.827
 5 24 28.872 1.805 73.546 20 0 74.081 27.292 1.526 71.504 20 0 76.682
-
 
 0 // other side
 0 // transmission

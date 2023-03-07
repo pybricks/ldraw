@@ -2,18 +2,18 @@
 0 Name: s\40066s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // Pillar
 1 16 -50 160 2 -6 0 0 0 1 0 0 0 -8 rect.dat
 4 16 -44 160 10 -44 160 -6 -44 144 -6 -44 144 0
 4 16 -56 144 -6 -56 160 -6 -56 160 10 -56 144 0
 4 16 -56 144 -6 -44 144 -6 -44 160 -6 -56 160 -6
-
 
 4 16 -56 48 0 -56 144 0 -56 160 10 -56 28 10
 4 16 -44 144 0 -44 48 0 -44 48 10 -44 160 10

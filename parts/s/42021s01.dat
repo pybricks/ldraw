@@ -2,13 +2,14 @@
 0 Name: s\42021s01.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-02-21 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2011-02-24 [MagFors] "rectified", used more primitives, moved cond-lines to main file
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 2 24 -20 20 0 -20 4 -20
 2 24 20 20 0 20 4 -20

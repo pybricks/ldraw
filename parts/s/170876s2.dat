@@ -2,7 +2,7 @@
 0 Name: s\170876s2.dat
 0 Author: Miklos Hosszu [hmick]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -11,8 +11,8 @@
 0 !HISTORY 2011-01-11 [Philo] Adjusted vertices to better match s1 and s3 subparts
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
-0 // outer quads to ellipse
 
+0 // outer quads to ellipse
 
 4 16 12 0 0 11.8711 0 1.1692 12.87 0 1.27 13 0 0
 4 16 11.8711 0 1.1692 11.4991 0 2.2873 12.49 0 2.49 12.87 0 1.27

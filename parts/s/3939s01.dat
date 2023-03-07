@@ -2,7 +2,7 @@
 0 Name: s\3939s01.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Subpart UPDATE 2004-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
 0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 2 24 44 24 6 44 24 -46
 2 24 56 24 -46 56 24 6

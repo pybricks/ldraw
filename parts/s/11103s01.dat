@@ -2,13 +2,14 @@
 0 Name: s\11103s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2018-05-17 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 4 16 3.375 -18.055 0 3.375 -16.069 5.244 3.542 -17.159 5.128 4.125 -22.748 0
 3 16 1.794 -16.109 6.604 2.5 -25.041 6.651 2.81 -15.922 5.77

@@ -2,19 +2,20 @@
 0 Name: 23421.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+0 !HELP The length of the helix is 600 units.
+0 !HELP The revolutions on the helix are 6.416667, that are 2310 degrees.
+0 !HELP The single stump of helix (23421s01) is 20 units long with a rotation of 77 degrees.
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Bar
 
-0 !HELP The length of the helix is 600 units. 
-0 !HELP The revolutions on the helix are 6.416667, that are 2310 degrees. 
-0 !HELP The single stump of helix (23421s01) is 20 units long with a rotation of 77 degrees.
-
 0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2017-11-25 [Sirio] File preparation for LDraw Parts Tracker
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 -300 0 0 1 0 0 0 1 0 0 0 1 s\23421s02.dat
 1 16 -300 0 0 1 0 0 0 1 0 0 0 1 s\23421s01.dat

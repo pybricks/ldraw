@@ -2,11 +2,12 @@
 0 Name: 85489a.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\85489s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\85489s02.dat
@@ -36,7 +37,7 @@
 1 16 0 0 7 0 0 -46 46 0 0 0 1 0 48\4-4edge.dat
 1 16 0 0 7 0 0 -46 46 0 0 0 2 0 48\4-4cyli.dat
 1 16 0 0 9 0 0 -46 46 0 0 0 1 0 48\4-4edge.dat
-1 16 0 0 9 0 0 2 2 0 0 0 -1 0 48\4-4RIN22.DAT
+1 16 0 0 9 0 0 2 2 0 0 0 -1 0 48\4-4rin22.dat
 1 16 0 0 9 0 0 -44 44 0 0 0 1 0 48\4-4edge.dat
 0 BFC INVERTNEXT
 1 16 0 0 9 0 0 4 4 0 0 0 -2 0 48\4-4con10.dat

@@ -2,13 +2,14 @@
 0 Name: s\93084s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-06 {LEGO/Unity Microgame} Original part shape
 0 !HISTORY 2020-12-10 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 0 // inside
 
@@ -1923,11 +1924,6 @@
 3 16 4.34 30.662 52.502 -1.266 25.003 50.689 -0.865 31.131 52.048
 3 16 4.337 24.768 51.545 4.351 18.443 50.566 -1.266 25.003 50.689
 3 16 -1.266 25.003 50.689 4.351 18.443 50.566 -1.878 19.074 49.531
-
-
-
-
-
 
 2 24 0 -30.231 -64.571 0 -31.463 -62.183
 2 24 0 -29.533 -93.292 0 -24.602 -92.985

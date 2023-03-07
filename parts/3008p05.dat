@@ -2,11 +2,11 @@
 0 Name: 3008p05.dat
 0 Author: Jan Folkersma [Stinky]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 723, train
+0 !KEYWORDS set 723, Train
 
 0 !CMDLINE -c4
 
@@ -14,11 +14,12 @@
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2016-01-01 [MMR1988] Fixed overlappings and BFC errors, used subpart
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 0 !HISTORY 2018-02-06 [Steffen] re-created pattern together with more variants 3008p*.dat, 3009p*.dat, 3010p*.dat
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3008s01.dat
 

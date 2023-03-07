@@ -2,7 +2,7 @@
 0 Name: 3840.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
 0 !HISTORY 2020-10-02 [Holly-Wood] Subfiled for pattern version
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Front
 1 16 11 30 -13 2 0 0 0 0 2 0 1 0 1-4chrd.dat

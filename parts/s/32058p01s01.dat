@@ -2,11 +2,12 @@
 0 Name: s\32058p01s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 0 // Produced by txt2dat, Copyright 2005-2007, 2009 R. Crawford
 0 // Using font: "Arial Rounded MT Bold" style: "Regular" size: 50pt
@@ -264,7 +265,6 @@
 3 16 65.175 2.07 110.15 65.216 2.086 110.751 60 0 120
 3 16 67.049 2.82 112.857 67.639 3.056 113.061 60 0 120
 3 16 67.826 3.13 108.915 67.341 2.936 111.33 67.337 2.935 109.053
-
 
 0 // Port Labels
 0 // Numeral 1

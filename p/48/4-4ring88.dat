@@ -2,11 +2,12 @@
 0 Name: 48\4-4ring88.dat
 0 Author: Tim Lampmann [L4mpi]
 0 !LDRAW_ORG 48_Primitive UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 4 16 89 0 0 88.2346 0 11.6145 87.2432 0 11.484 88 0 0
 4 16 88.2346 0 11.6145 85.9651 0 23.0332 84.9992 0 22.7744 87.2432 0 11.484

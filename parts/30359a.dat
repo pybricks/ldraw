@@ -2,13 +2,12 @@
 0 Name: 30359a.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, laser cannon, cylinder, rounded, piston rod, bar, rod
-0 !KEYWORDS brick, support, connector, ion cannon, blaster, energy, binder
-0 !KEYWORDS Podracer
+0 !KEYWORDS bar, binder, Blaster, brick, connector, Cylinder, energy, ion cannon
+0 !KEYWORDS laser cannon, piston rod, podracer, rod, rounded, Star Wars, support
 
 0 !HISTORY 2004-11-06 [sbliss] Secondary author
 0 !HISTORY 2004-11-07 [guyvivan] Made BFC Compliant
@@ -17,6 +16,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2020-06-04 [Sirio] Subparted and updated the use of primitives
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 0 // Subparts
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30359s01.dat

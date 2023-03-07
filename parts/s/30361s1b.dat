@@ -2,7 +2,7 @@
 0 Name: s\30361s1b.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2011-05-19 [Philo] BFCed
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 16 -7.631 -10 -18.423 -7.631 -8.5 -18.423 0 -8.5 -19.94 0 -10 -19.94
 4 16 0 -10 -19.94 0 -8.5 -19.94 7.631 -8.5 -18.423 7.631 -10 -18.423

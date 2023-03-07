@@ -2,11 +2,12 @@
 0 Name: s\3960p0ds01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 4 26 34.923 6 -1.173 35.8 6.373 -2 38.796 7.519 0 35 6 0
 3 26 38.796 7.519 0 35.8 6.373 -2 38.463 7.519 -5.063

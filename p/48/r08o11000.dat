@@ -2,17 +2,18 @@
 0 Name: 48\r08o11000.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG 48_Primitive UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
+
 0 // Major Radius: 1
 0 // Tube(Minor) Radius: 11
 0 // Segments(Sweep): 6/48 = 0.125
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 11.0000 0 0  0 0 11.0000  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 11.0000 0 0 0 0 11.0000 0 1 0 4-4edge.dat
 
 4 16 1 11 0 0.9914 11 0.1305 2.4146 10.9054 0.3178 2.4355 10.9054 0
 4 16 2.4355 10.9054 0 2.4146 10.9054 0.3178 3.8137 10.6249 0.502 3.8468 10.6249 0

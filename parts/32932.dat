@@ -2,11 +2,12 @@
 0 Name: 32932.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 44 0 1 0 0 0 -1 0 0 0 -1 stug3-1x3.dat
 4 16 -40 48 10 -36 48 6 -36 48 -6 -40 48 -10
@@ -46,7 +47,6 @@
 4 16 10 32 6 10 12 6 14 8 6 14 36 6
 4 16 10 32 6 14 36 6 -14 36 6 -10 32 6
 4 16 -10 32 6 -14 36 6 -14 8 6 -10 12 6
-
 
 2 24 -26 8 6 -40 8 6
 2 24 -26 36 6 -40 36 6

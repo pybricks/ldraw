@@ -2,11 +2,12 @@
 0 Name: s\4740p04s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 4 16 9.05 0.8867 0.4 6 0 0 12 1.7 0 11.9205 1.7 0.4
 4 16 8.7981 0.9144 2.1579 8.9541 0.9144 1.3733 11.6214 1.7 1.9038 11.4654 1.7 2.6884

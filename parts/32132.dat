@@ -2,7 +2,7 @@
 0 Name: 32132.dat
 0 Author: Marc Klein [marckl]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant (2004-07-29)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 2 24 94 4 6 102.213 4 6
 2 24 102.213 4 6 100.76 4 3.83
@@ -466,8 +467,8 @@
 1 16 110 2 0 6 0 0 0 6 0 0 0 6 4-4cyli.dat
 0 BFC INVERTNEXT
 1 16 -110 2 0 6 0 0 0 6 0 0 0 6 4-4cyli.dat
-1 16 -110 4 0 7.07107 0 7.07107 0 6 0 -7.07107 0 7.07107 1-4cyli.DAT
-1 16 -110 0 0 7.07107 0 7.07107 0 1 0 -7.07107 0 7.07107 1-4cyli.DAT
-1 16 110 4 0 -7.07107 0 -7.07107 0 6 0 7.07107 0 -7.07107 1-4cyli.DAT
-1 16 110 0 0 -7.07107 0 -7.07107 0 1 0 7.07107 0 -7.07107 1-4cyli.DAT
+1 16 -110 4 0 7.07107 0 7.07107 0 6 0 -7.07107 0 7.07107 1-4cyli.dat
+1 16 -110 0 0 7.07107 0 7.07107 0 1 0 -7.07107 0 7.07107 1-4cyli.dat
+1 16 110 4 0 -7.07107 0 -7.07107 0 6 0 7.07107 0 -7.07107 1-4cyli.dat
+1 16 110 0 0 -7.07107 0 -7.07107 0 1 0 7.07107 0 -7.07107 1-4cyli.dat
 0

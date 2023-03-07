@@ -2,21 +2,22 @@
 0 Name: 3626bp3j.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Islanders, natives
+0 !KEYWORDS islanders, natives
 
 0 !CMDLINE -c14
 
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
-0 !HISTORY 2003-11-02 [hmick]   corrected overlapping quads
+0 !HISTORY 2003-11-02 [hmick] corrected overlapping quads
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-10-15 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs04.dat

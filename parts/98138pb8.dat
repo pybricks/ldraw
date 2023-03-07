@@ -1,15 +1,15 @@
-0 Tile  1 x  1 Round with White Sinestro Logo Pattern 
+0 Tile  1 x  1 Round with White Sinestro Logo Pattern
 0 Name: 98138pb8.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 98138pb114
-0 !KEYWORDS Yellow Lantern
+0 !KEYWORDS Bricklink 98138pb114, Yellow Lantern
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s02.dat
 1 16 0 0 0 10 0 0 0 1 0 0 0 10 4-4ering.dat

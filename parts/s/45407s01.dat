@@ -2,12 +2,13 @@
 0 Name: s\45407s01.dat
 0 Author: Niels Karsdorp [nielsk]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-08-27 [MagFors] used 3-16cyls instead of 1-4cyls
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 0 // Outer vertical tube
 

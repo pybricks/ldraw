@@ -2,7 +2,7 @@
 0 Name: 6556.dat
 0 Author: Lutz Uhlmann [El-Lutzo]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2013-12-14 [MagFors] Made BFC compliant, made four holes and two dents
 0 !HISTORY 2015-01-01 [cwdee] Correct primitive usage
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 68 0 1 0 0 0 -1 0 0 0 1 stug3-1x3.dat
 1 16 0 36 0 40 0 0 0 36 0 0 0 10 box0.dat

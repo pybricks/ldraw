@@ -2,13 +2,14 @@
 0 Name: 991.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2012-11-27 [Philo] Force re-issue due to incorrect update
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 1 16 0 0 -20 9 0 0 0 0 9 0 -1 0 4-4edge.dat
 1 16 0 0 20 9 0 0 0 0 9 0 -1 0 4-4edge.dat

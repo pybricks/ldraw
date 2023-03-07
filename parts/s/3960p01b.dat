@@ -2,7 +2,7 @@
 0 Name: s\3960p01b.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-08-13 [MagFors] bfc'd, added condlines
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 16 40 8 0 38.75 7.5 0 38.584 7.5 -2.529 39.914 8 -1.305
 4 16 39.914 8 1.305 38.584 7.5 2.529 38.75 7.5 0 40 8 0

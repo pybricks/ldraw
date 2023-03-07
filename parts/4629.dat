@@ -2,7 +2,7 @@
 0 Name: 4629.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP (lifter = 4627, handle = 4628, base = 4629)
 0 !HELP hole for lifter: -25 -10.5 0
@@ -21,6 +21,7 @@
 0 !HISTORY 2013-08-30 [MagFors] Reduced innerheight for lifter clearance
 0 !HISTORY 2015-11-17 [BlackBrick89] Corrected flat scaled 2D primitives
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 2 24 -45 0 -10 -33 0 -10
 2 24 -17 0 -10 38 0 -10

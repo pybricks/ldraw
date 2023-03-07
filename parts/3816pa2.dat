@@ -2,12 +2,14 @@
 0 Name: 3816pa2.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS Adventurers, Egypt, Egyptian, ancient, mummy, pharaoh, archeology
-0 !KEYWORDS pyramid, ruins, crypt, Nile, Cairo, Giza, King Tut, barefoot
-0 !KEYWORDS skirt, loincloth, pleats, pleated, folds, folded, wrap, barefeet
+
+0 !KEYWORDS Adventurers, ancient, archeology, barefeet, barefoot, Cairo, crypt
+0 !KEYWORDS Egypt, egyptian, folded, folds, Giza, King Tut, loincloth, mummy
+0 !KEYWORDS Nile, Pharaoh, pleated, pleats, pyramid, ruins, skirt, wrap
+
 0 !CMDLINE -c0
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
@@ -18,6 +20,7 @@
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2020-07-09 [cwdee] Obsoleted due to bad leg geometry
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3816s01.dat
 0 //

@@ -2,13 +2,14 @@
 0 Name: s\92013s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-11-03 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2019-10-31 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 16 31.342 19.75 5.004 31.342 18.3376 5.004 30 18.3376 0 30 19.75 0
 4 16 31.342 18.3376 5.004 31.342 19.75 5.004 34.996 19.75 8.658 34.996 18.3376 8.658

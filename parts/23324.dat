@@ -2,7 +2,7 @@
 0 Name: 23324.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP uncomment for batteries
 0 !HELP 1 16 0 -31 37 -1 0 0 0 0 -1 0 -1 0 u9284.dat
@@ -14,6 +14,7 @@
 0 !HISTORY 2014-11-21 [Steffen] BFCd
 0 !HISTORY 2022-03-10 [Holly-Wood] Primitive substitution, added edges and conds, inverted winding
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\23324s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\23324s01.dat
@@ -49,7 +50,6 @@
 4 16 -80 -8 0 -80 -8 24 -73 -8 24 -73 -8 0
 4 16 -73 -8 40 -80 -8 40 -80 -8 60 -70 -8 56
 4 16 -80 -8 -16 -73 -8 -16 -70 -8 -56 -80 -8 -60
-
 
 2 24 80 -8 -60 32 -8 -60
 2 24 32 -8 -60 32 -8 -59
@@ -505,7 +505,6 @@
 2 24 -64 -39.242 -28 -66 -39.242 -28
 2 24 -64 -39.242 -28 -64 -36.75 -24.271
 
-
 0 BFC INVERTNEXT
 1 16 -64 -24.021 -37 0 -2 0 -16.63115 0 -6.88863 6.88863 0 -16.63115 1-8cyli.dat
 4 16 -66 -40.652 -43.889 -64 -40.652 -43.889 -64 -39.242 -46 -66 -39.242 -46
@@ -569,7 +568,6 @@
 3 16 -66 -8 28 -64 -8 28 -66 -8 20
 4 16 -66 -8 -28 -66 -8 -9 -64 -8 -9 -64 -8 -28
 4 16 -66 -8 -56 -66 -8 -46 -64 -8 -46 -64 -8 -56
-
 
 4 16 80 -8 -60 32 -8 -60 32 -8 -56 70 -8 -56
 4 16 32 -8 -56 32 -8 -59 28 -8 -59 28 -8 -56

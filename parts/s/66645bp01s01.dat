@@ -2,11 +2,12 @@
 0 Name: s\66645bp01s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 321 0 -24 -25 0 -22.8284 -27.8284 0 -20 -29 0 -14.5044 -25.6098
 4 0 0 757.4536 -82.5203 0 768.7349 -80.0813 0 748.5898 -54.065 0 737.3086 -54.065

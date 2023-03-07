@@ -2,15 +2,15 @@
 0 Name: 3298p02.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Mouse, Rabbit, Bunny, bricklink 3298px11
-0 !KEYWORDS Set 1953, Set 1677, Set 1545, Set 5870, Set 2875, Set 3047
-0 !KEYWORDS Set 1263, Set 4116, Set 10071
+0 !KEYWORDS bricklink 3298px11, Bunny, Mouse, Rabbit, Set 10071, Set 1263
+0 !KEYWORDS Set 1545, Set 1677, Set 1953, Set 2875, Set 3047, Set 4116, Set 5870
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3298s01.dat
 4 15 -7.5 10.0623 -30.1246 -6.6 9.7045 -29.4091 -6.5 9.3915 -28.783 -8.2 9.5257 -29.0513

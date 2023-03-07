@@ -2,7 +2,7 @@
 0 Name: 3009p18.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 0 !HISTORY 2011-04-24 [tchang] Change CERTIFY CW to CCW, used DATHeader
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3009s01.dat
 4 0 -43 3.5 -10 -43 21.5 -10 -39 21.5 -10 -39 7 -10

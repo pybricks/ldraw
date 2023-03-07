@@ -2,7 +2,7 @@
 0 Name: u9068.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -17,6 +17,7 @@
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 0 !HISTORY 2021-12-31 [MagFors] Reshaped axlehole
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 -40 0 0 0 1 0 1 0 0 0 0 -1 axlehol2.dat
 1 16 -40 0 0 0 1 0 1 0 0 0 0 -1 axlehol9.dat

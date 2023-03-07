@@ -2,15 +2,15 @@
 0 Name: 4106331f.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS wild west, western, cowboys
-0 !KEYWORDS shop, warehouse, trading post, market
-0 !KEYWORDS set 6765
+0 !KEYWORDS cowboys, market, set 6765, Shop, trading post, warehouse, western
+0 !KEYWORDS wild west
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // Box
 1 16 0 -.25 0 57.5 0 0 0 .25 0 0 0 21.5 box5-12.dat

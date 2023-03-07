@@ -2,12 +2,12 @@
 0 Name: 3626bpa8.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS bricklink 3626bpx115
-0 !KEYWORDS set 4757, set 7409, set 7774, set 8104, set 8877, set 10176
+0 !KEYWORDS bricklink 3626bpx115, set 10176, set 4757, set 7409, set 7774
+0 !KEYWORDS set 8104, set 8877
 
 0 !CMDLINE -c15
 
@@ -18,6 +18,7 @@
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2021-02-02 [MagFors] Added condlines
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 4 0 13 0 0 0 13 0 0 0 13 2-4cyli.dat

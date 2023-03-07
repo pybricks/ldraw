@@ -2,13 +2,14 @@
 0 Name: 973pbz.dat
 0 Author: Rolf Osterthun [Rolf]
 0 !LDRAW_ORG Part UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS DC, Super Heroes, Sinestro, Villain, Justice League, set 76025
+0 !KEYWORDS DC, Justice League, Set 76025, Sinestro, Super Heroes, villain
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
@@ -820,7 +821,6 @@
 4 16 -1.32 27.959 -10 -2.179 26.228 -10 -2.607 26.3 -10 -1.759 28.041 -10
 4 0 -15.505 18.062 -10 -13.938 18.969 -10 -13.732 16.701 -10 -14.326 16.824 -10
 4 0 14.763 18.557 -10 15.505 18.062 -10 15.01 16.742 -10 14.388 16.824 -10
-
 
 0 // back
 4 0 13.856 20.536 10 13.608 21.938 10 11.224 25.367 10 10.887 16.825 10

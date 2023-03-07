@@ -2,12 +2,13 @@
 0 Name: s\3960p0es01.dat
 0 Author: Bjoern Sigve Storesund [Storesund]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-05-31 [GeraldLasser] Reduced Slice Size from 180 deg to 45 deg
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 16 9.914 0 1.305 9.96705 0 0.5 21.96705 2 0.5 21.8108 2 2.871
 4 16 21.8108 2 2.871 21.96705 2 0.5 29.46705 4 0.5 29.2463 4 3.84975

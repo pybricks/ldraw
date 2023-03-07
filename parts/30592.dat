@@ -2,7 +2,7 @@
 0 Name: 30592.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, delete duplicate lines and improve primitives (2005-05-21)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
 
 0 BFC INVERTNEXT
 1 16 0 24 0 16 0 0 0 -20 0 0 0 16 box5.dat
@@ -23,7 +24,7 @@
 1 16 20 24 0 0 0 1.5 0 -4 0 -16 0 0 box5.dat
 0 BFC INVERTNEXT
 1 16 -20 24 0 0 0 1.5 0 -4 0 -16 0 0 box5.dat
-1 16 0 4 0 1 0 0 0 -5 0 0 0 1 STUD4.DAT
+1 16 0 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
 1 16 -30 20 0 0 0 1 0 -1 0 -1 0 0 stud3.dat
 1 16 30 20 0 0 0 1 0 -1 0 -1 0 0 stud3.dat
 4 16 -40 24 -20 -36 24 -16 36 24 -16 40 24 -20
@@ -42,8 +43,8 @@
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 connect.dat
 1 16 0 0 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
 1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
-0 
-0 
+0
+0
 1 16 30 16 -10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 30 16 10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -30 16 10 1 0 0 0 1 0 0 0 1 stud.dat

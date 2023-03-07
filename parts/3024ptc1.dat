@@ -2,13 +2,14 @@
 0 Name: 3024ptc1.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 21137, Set 21147, BrickLink 3024pb008, Minecraft, Spider
+0 !KEYWORDS BrickLink 3024pb008, Minecraft, Set 21137, set 21147, Spider
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3024s01.dat
 

@@ -2,11 +2,12 @@
 0 Name: s\18675ps3s02.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 16 -42.426 4 42.426 -38.1834 -0.1 38.1834 -36.7382 -0.1 39.4522 -40.8733 4 43.7891
 4 16 -42.426 4 42.426 -47.604 4 36.528 -42.8436 -0.1 32.8752 -38.1834 -0.1 38.1834

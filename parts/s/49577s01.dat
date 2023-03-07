@@ -2,11 +2,12 @@
 0 Name: s\49577s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 4 16 14.011 47.989 3.696 14.929 47.071 2.828 18.0913 49.5254 2.8284 17.5948 50.7243 3.6956
 4 16 12.929 49.071 4 14.011 47.989 3.696 17.5948 50.7243 3.6956 17.009 52.1385 4

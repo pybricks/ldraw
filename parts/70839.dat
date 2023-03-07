@@ -2,7 +2,7 @@
 0 Name: 70839.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2017-01-14 [MagFors] Made BFC, added a backside
 0 !HISTORY 2018-08-19 [PTadmin] Renamed from 881
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 2 2 -1.5 0 33 0 0 0 1 0 0 0 15 box.dat
 0 // LED (trans red)

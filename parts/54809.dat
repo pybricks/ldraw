@@ -2,7 +2,7 @@
 0 Name: 54809.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 0 !HISTORY 2021-03-17 [cwdee] Update description
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 2.5 0 0 0 0 2.5 0 2.5 0 4-4cylc.dat
 1 16 0 0 2.5 -7.7 0 0 0 0 7.7 0 26.2 0 4-4cylc.dat

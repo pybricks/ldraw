@@ -2,13 +2,14 @@
 0 Name: 6180ps3.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Set 75274
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6180s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6180ps1s01.dat
@@ -111,8 +112,6 @@
 3 15 -23.998 0 1.624 -25.535 0 1.137 -25.382 0 .823
 4 15 -25.628 0 1.483 -24.059 0 1.941 -25.576 0 2.473 -25.659 0 1.853
 4 15 -25.535 0 1.137 -23.998 0 1.624 -24.059 0 1.941 -25.628 0 1.483
-
-
 
 0 // P
 3 15 10.69 0 15 10.69 0 13.01 12.25 0 15

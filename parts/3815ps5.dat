@@ -2,12 +2,13 @@
 0 Name: 3815ps5.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Star Wars, Original Trilogy, Han Solo, blaster, gun, firearm, pistol
-0 !KEYWORDS weapon, holster, belt, quick-draw, fast-draw, smuggler, pirate
-0 !KEYWORDS gunfighter, gunslinger, shootist
+
+0 !KEYWORDS belt, Blaster, fast-draw, firearm, gun, gunfighter, gunslinger
+0 !KEYWORDS Han Solo, holster, Original Trilogy, Pirate, Pistol, quick-draw
+0 !KEYWORDS shootist, smuggler, Star Wars, Weapon
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
 0 !HISTORY 2004-06-15 [nielsk] BFC'd
@@ -20,6 +21,7 @@
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
 0 !HISTORY 2020-05-30 [cwdee] Obsoleted due to bad geometry
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 -2 12 0 0 4 0 -6.36 0 6.36 -6.36 0 -6.36 5-16cyli.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3815s01.dat

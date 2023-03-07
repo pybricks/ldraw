@@ -2,13 +2,14 @@
 0 Name: s\2715s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-03-23 [cwdee] Use t04ounit instead of duplicate r04o1000
 0 !HISTORY 2018-03-26 [cwdee] Revert to r04o1000
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 2 24 18.5 16.8 2.5 17.1 14.5 9.6
 2 24 17.1 14.5 9.6 13.1 12.5 15.6

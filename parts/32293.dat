@@ -2,12 +2,13 @@
 0 Name: 32293.dat
 0 Author: John Riley [jriley]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2003-05-23 [technog] cleaned up and added detail
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 0 0 10 8 0 0 0 0 -4 0 140 0 4-4cyli.dat
 1 16 0 0 150 8 0 0 0 0 4 0 4.4 0 1-4cyls2.dat

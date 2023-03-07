@@ -2,14 +2,15 @@
 0 Name: 973p5c.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 973pb3002, Margaret Hamilton, NASA, Squiggly, Knit, Set 21312, Women
-0 !KEYWORDS 2-sided
+0 !KEYWORDS 2-sided, Bricklink 973pb3002, Knit, Margaret Hamilton, NASA
+0 !KEYWORDS Set 21312, Squiggly, women
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 71 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat

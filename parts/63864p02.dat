@@ -2,14 +2,16 @@
 0 Name: 63864p02.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Ford, Car, Set 10265
+0 !KEYWORDS Car, Ford, Set 10265
+
 0 !CMDLINE -c71
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 0 // Main
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\63864s01.dat
@@ -87,7 +89,6 @@
 3 80 -6.349 0 4.866 -8.808 0 4.558 -6.522 0 4.572
 4 80 -4.684 0 -3.38 -4.081 0 -2.721 -6.916 0 -2.241 -5.947 0 -2.945
 4 80 2.875 0 -2.272 4.614 0 -1.613 6.072 0 -.673 .047 0 -1.239
-
 
 0 // Black
 3 0 -12.601 0 -1.162 -8.793 0 -0.926 -8.653 0 -0.323

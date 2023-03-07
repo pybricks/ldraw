@@ -2,19 +2,18 @@
 0 Name: 322.dat
 0 Author: Niels Karsdorp [nielsk]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
 0 !KEYWORDS Vintage
+
 0 !CMDLINE -c47
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
+
 0 // Top
-
-
-
-
 
 1 16 0 0 0 3 0 0 0 1 0 0 0 3 4-4edge.dat
 1 16 0 4 0 3 0 0 0 1 0 0 0 3 4-4edge.dat
@@ -1253,4 +1252,4 @@
 1 16 10 0 -10 -1 0 0 0 1 0 0 0 -1 stud.dat
 1 16 -10 0 -10 -1 0 0 0 1 0 0 0 -1 stud.dat
 1 16 -30 0 -10 -1 0 0 0 1 0 0 0 -1 stud.dat
-0 
+0

@@ -2,12 +2,14 @@
 0 Name: 3010pyb.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Sally, Brickheadz, set 41630, bricklink 3010pb256
+
+0 !KEYWORDS Brickheadz, bricklink 3010pb256, Sally, set 41630
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 4 0 -21.5 .5 -10 -.5 10 -10 0 9 -10 -18.75 .5 -10

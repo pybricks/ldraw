@@ -2,18 +2,18 @@
 0 Name: 32104.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 0 // Needs Work: Silk screen labels not modelled
 0 // Needs Work: Some top line details not modelled
 0 // Needs Work: Inside not detailed
 
 0 // Buttons
-
 
 1 2 -58 4 13 1 0 0 0 0.5 0 0 0 1 s\883-1.dat
 1 7 -58 4 -13 1 0 0 0 0.5 0 0 0 1 s\883-1.dat
@@ -329,9 +329,9 @@
 0 BFC INVERTNEXT
 1 16 40 34 -120 0 0 -6 6 0 0 0 4 0 4-4cyli.dat
 1 16 40 34 -120 0 0 -2 2 0 0 0 1 0 4-4ring3.dat
-1 16 40 34 -120 -8 0 0 0 0 -8 0 7 0 2-4cyli.DAT
-1 16 40 34 -120 -8 0 0 0 0 -8 0 4 0 2-4edge.DAT
-1 16 40 34 -120 8 0 0 0 0 8 0 4 0 2-4ndis.DAT
+1 16 40 34 -120 -8 0 0 0 0 -8 0 7 0 2-4cyli.dat
+1 16 40 34 -120 -8 0 0 0 0 -8 0 4 0 2-4edge.dat
+1 16 40 34 -120 8 0 0 0 0 8 0 4 0 2-4ndis.dat
 2 24 60 18 -120 80 26 -120
 2 24 60 18 -120 53 18 -120
 2 24 60 18 -110 53 18 -112.5
@@ -366,9 +366,9 @@
 0 BFC INVERTNEXT
 1 16 -40 34 -120 0 0 6 6 0 0 0 4 0 4-4cyli.dat
 1 16 -40 34 -120 0 0 2 2 0 0 0 1 0 4-4ring3.dat
-1 16 -40 34 -120 8 0 0 0 0 -8 0 7 0 2-4cyli.DAT
-1 16 -40 34 -120 8 0 0 0 0 -8 0 4 0 2-4edge.DAT
-1 16 -40 34 -120 -8 0 0 0 0 8 0 4 0 2-4ndis.DAT
+1 16 -40 34 -120 8 0 0 0 0 -8 0 7 0 2-4cyli.dat
+1 16 -40 34 -120 8 0 0 0 0 -8 0 4 0 2-4edge.dat
+1 16 -40 34 -120 -8 0 0 0 0 8 0 4 0 2-4ndis.dat
 2 24 -60 18 -120 -80 26 -120
 2 24 -60 18 -120 -53 18 -120
 2 24 -53 34 -120 -48 34 -120

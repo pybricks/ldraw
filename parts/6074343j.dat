@@ -2,12 +2,15 @@
 0 Name: 6074343j.dat
 0 Author: Christophe Mitillo [Christophe_Mitillo]
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !KEYWORDS Set 70816, Spaceship
+
 0 !HISTORY 2015-11-06 [MagFors] Changed origin
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 0 // Front
 4 15 -10.931 -0.25 2.794 -11.266 -0.25 0.589 -10.144 -0.25 0.532 -9.846 -0.25 2.501

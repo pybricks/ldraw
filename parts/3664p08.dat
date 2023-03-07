@@ -2,14 +2,15 @@
 0 Name: 3664p08.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Airport, Dacta, Set 9156, Set 9976, bricklink 3664pb07
+0 !KEYWORDS Airport, bricklink 3664pb07, dacta, Set 9156, Set 9976
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3664s01.dat
 1 14 0 -24 -40 7 0 0 0 0 -7 0 1 0 48\4-4ring4.dat

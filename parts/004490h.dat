@@ -2,17 +2,18 @@
 0 Name: 004490h.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 365, western, wild west, cowboy
-0 !KEYWORDS fugitive, jail, poster, billboard, bounty, reward
-0 !KEYWORDS bandit, bandido, desperado, gangster, gunman, hijacker, holdup man
-0 !KEYWORDS hooligan, marauder, outlaw, plunderer, robber, villain, bad guy,
-0 !KEYWORDS eiusmod tempor incidunt ut, placeholder text, lorem ipsum
+0 !KEYWORDS bad guy, bandido, bandit, billboard, bounty, cowboy, desperado
+0 !KEYWORDS eiusmod tempor incidunt ut, fugitive, gangster, gunman, hijacker
+0 !KEYWORDS holdup man, hooligan, jail, lorem ipsum, marauder, outlaw
+0 !KEYWORDS placeholder text, plunderer, poster, reward, robber, set 365
+0 !KEYWORDS villain, western, wild west
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 0 // Small Box
 1 16 0 -0.25 0 17.5 0 0 0 0.25 0 0 0 22.5 box5-12.dat

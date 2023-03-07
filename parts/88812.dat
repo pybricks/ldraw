@@ -2,16 +2,17 @@
 0 Name: 88812.dat
 0 Author: Rolf Osterthun [Rolf]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Hassansin Braces, Sword
+0 !KEYWORDS Hassansin Braces, sword
 
 0 !HISTORY 2011-10-13 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2011-10-14 [Rolf] File preparation for LDraw Parts Tracker
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 0 // Minifig Weapon Base
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\88811s01.dat

@@ -2,17 +2,18 @@
 0 Name: s\777s02.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
 0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-10-18 [tchang]  Add conditionnal lines, flagpole junction
+0 !HISTORY 2008-10-18 [tchang] Add conditionnal lines, flagpole junction
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 0 !HISTORY 2015-02-10 [MagFors] Redesign without peghole.dat
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 19 0 1 0 0 0 -1.25 0 0 0 1 stud4a.dat
 0 BFC INVERTNEXT

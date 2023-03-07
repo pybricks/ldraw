@@ -2,11 +2,12 @@
 0 Name: s\29630s04.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 80 0 0 0 -1 0 -28 0 0 0 0 28 48\1-4edge.dat
 
@@ -70,7 +71,6 @@
 2 24 67.435 -51.7447 0 60.1041 -60.1041 0
 2 24 60.1041 -60.1041 0 51.7447 -67.435 0
 2 24 51.7447 -67.435 0 42.5 -73.6122 0
-
 
 5 24 39.2649 -68.0088 32.5281 30.052 -72.552 32.5281 36.8061 -63.75 42.5 31.4197 -75.8539 21.9996
 5 24 71.1039 -19.0522 42.5 75.8539 -20.325 32.5281 77.8579 -10.2502 32.5281 68.0088 -28.1702 42.5

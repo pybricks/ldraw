@@ -2,16 +2,17 @@
 0 Name: 47203p02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
 
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\47203s01.dat
 
 0 !TEXMAP START PLANAR -22 -36.5 20 22 -36.5 20 -22 -12 20 47203p02.png
-0 !: 1 16 0 0 0 1 0 0 0 1 0 0 0 1  s\47203s02.dat
+0 !: 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\47203s02.dat
 0 !TEXMAP FALLBACK
 
 1 16 -18.5 -34 -11 0 0 -5 0 -5 0 -5 0 0 1-8sphe.dat
@@ -1366,5 +1367,4 @@
 3 16 -21.4081 -16.7887 -15.6449 -21.1489 -17.082 -15.6927 -20.4135 -34 -15.6195
 3 16 -20.4135 -34 -15.6195 -21.1489 -17.082 -15.6927 -20.8157 -17.2653 -15.7566
 0 !TEXMAP END
-
 

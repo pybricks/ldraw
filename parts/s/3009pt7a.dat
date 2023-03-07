@@ -2,11 +2,12 @@
 0 Name: s\3009pt7a.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 4 16 -24.957 7.521 -10 -24.957 16 -10 -23.231 14.556 -10 -23.231 7.521 -10
 4 16 -23.231 14.556 -10 -24.957 16 -10 -18.939 16 -10 -18.939 14.556 -10

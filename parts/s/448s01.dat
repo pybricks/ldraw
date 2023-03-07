@@ -2,12 +2,13 @@
 0 Name: s\448s01.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
 0 !HISTORY 2013-03-23 [MagFors] Recreated uncoloured area
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 4 0 -64.8 0 64.8 -64.75 0 -64.8 -66.42 0 -66.42 -66.42 0 66.42
 4 0 64.771 0 64.8 -64.8 0 64.8 -66.42 0 66.42 66.42 0 66.42

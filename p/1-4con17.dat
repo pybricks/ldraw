@@ -2,11 +2,12 @@
 0 Name: 1-4con17.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Primitive UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 4 16 17 1 0 15.7063 1 6.5059 16.6302 0 6.8886 18 0 0
 4 16 15.7063 1 6.5059 12.0207 1 12.0207 12.7278 0 12.7278 16.6302 0 6.8886

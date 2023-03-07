@@ -2,15 +2,16 @@
 0 Name: 3626cpne.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Ninjago, Jay, Bricklink 3626cpb1892
+0 !KEYWORDS Bricklink 3626cpb1892, Jay, Ninjago
 
 0 !CMDLINE -c14
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
@@ -24,7 +25,7 @@
 1 16 0 17 0 8 0 0 0 6.4 0 0 0 -8 t04o6250.dat
 1 16 0 17 0 0 0 -8 0 6.4 0 -8 0 0 t04o6250.dat
 
-0 // Face Front 
+0 // Face Front
 3 92 -9.192 10.157 -9.193 -9.272 10.36 -9.073 -9.192 10.57 -9.192
 4 92 -9.192 12.959 -9.193 -9.639 12.76 -8.525 -9.712 12.97 -8.414 -9.639 13.18 -8.525
 4 92 -9.192 12.959 -9.193 -9.639 13.18 -8.525 -9.46 13.267 -8.792 -9.281 13.18 -9.059

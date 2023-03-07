@@ -2,11 +2,12 @@
 0 Name: s\46891s03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 5 24 -18.4 167.6041 -24.5349 18.4 167.6041 -24.5349 -18.4 162.478 -13.6849 -18.4 170.6441 -28.6286
 5 24 -18.4 174.3747 -31.843 18.4 174.3747 -31.843 -18.4 177.8312 -33.3068 -18.4 170.6441 -28.6286

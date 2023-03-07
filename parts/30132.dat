@@ -2,15 +2,14 @@
 0 Name: 30132.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS weapon, firearm, pistol, western, wild west
-0 !KEYWORDS cowboy, six-gun, six-shooter, colt .45, equalizer, peacemaker
-0 !KEYWORDS cavalry, indian, injun
-0 !KEYWORDS adventurers
+0 !KEYWORDS Adventurers, cavalry, colt .45, cowboy, equalizer, firearm, indian
+0 !KEYWORDS injun, peacemaker, Pistol, six-gun, six-shooter, Weapon, western
+0 !KEYWORDS wild west
 
 0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
 0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
@@ -18,9 +17,9 @@
 0 !HISTORY 2017-07-01 [MagFors] BFC'd, added missing edges and conditional lines
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
+
 0 // Please note that I measured the angle between the grip
 0 // and the rest of the pistol as 60 (120) degrees.
-
 
 0 // grip
 1 16 0 -6 0 4 0 0 0 12 0 0 0 4 4-4cyli.dat

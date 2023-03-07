@@ -2,11 +2,12 @@
 0 Name: s\18675ps5s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 4 0 55.02519 0.92677 7.2442 55.5 0.925 0 56.3 1.47167 0 55.81835 1.47346 7.34862
 3 72 6 -13.51386 -20.3 5.43911 -13.54694 -20.3 5.97499 -13.16734 -22.3

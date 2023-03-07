@@ -2,17 +2,19 @@
 0 Name: 92241p01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Stephanie, Set 3063, Set 3183, Set 3185, Set 3930, Set 30105, Set 5000245, Bricklink FTGpb002c01
+0 !KEYWORDS Bricklink FTGpb002c01, set 30105, Set 3063, Set 3183, Set 3185
+0 !KEYWORDS set 3930, set 5000245, Stephanie
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 0 !HISTORY 2016-11-02 [cwdee] Update description
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 0 !HISTORY 2021-09-21 [RainbowDolphin] Fixed colours, added keywords
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\92241s01.dat
 4 26 2 15.75 -8.603 3.55 13.25 -8.478 3.369 13.265 -8.5 1.927 15.291 -8.624

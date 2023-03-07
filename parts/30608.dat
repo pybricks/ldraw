@@ -2,7 +2,7 @@
 0 Name: 30608.dat
 0 Author: Mark Chittenden [mdublade]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2010-07-14 [mdublade] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-12-09 [Holly-Wood] Fixed cond. lines and edges, fixed origin, added stud, BFCed
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 2 24 -13 0 0 -9.193 0 -9.193
 2 24 -9.193 0 -9.193 0 0 -13

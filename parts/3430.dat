@@ -2,7 +2,7 @@
 0 Name: 3430.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 0 !HISTORY 2021-03-30 [Philo] Added spring attachment
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 2 24 20 40 -56 12 40 -56
 2 24 12 40 -52 16 40 -52

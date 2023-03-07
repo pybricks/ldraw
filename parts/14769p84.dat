@@ -2,22 +2,22 @@
 0 Name: 14769p84.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 80026, Bricklink 14769pb458
-0 !KEYWORDS Monkie Kid, Food
+0 !KEYWORDS Bricklink 14769pb458, food, Monkie Kid, Set 80026
 
 0 !HISTORY 2022-01-29 {LEGO Instructions App} Original part pattern
 0 !HISTORY 2022-01-29 [GeraldLasser] File preparation with Img4Dat for LDraw Parts Tracker
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769s01.dat
 
 1 16 0 0 0 18.5 0 0 0 1 0 0 0 18.5 4-4ering.dat
-1 14 0 0 0 .5 0 0 0 1 0 0 0 .5 4-4rin37.dat 
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 4-4rin19.dat 
+1 14 0 0 0 .5 0 0 0 1 0 0 0 .5 4-4rin37.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4-4rin19.dat
 
 0 // Pattern
 4 28 1.09 0 -16.25 1.17 0 -16.02 .39 0 -15.55 .39 0 -16.33

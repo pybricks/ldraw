@@ -2,11 +2,12 @@
 0 Name: s\93595s01.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Subpart UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 2 24 3 -9.3 -8 2.602181 -12.48256 -8
 2 24 1.397936 -12.72202 -8 2 -6.3 -8

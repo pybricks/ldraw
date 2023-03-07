@@ -2,11 +2,12 @@
 0 Name: s\65617s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 // Bottom
 
@@ -238,7 +239,7 @@
 5 24 54.6046 13.62 -4 56.0141 20 -7.3733 55.746 20 -8.7224 56.2364 20 -4
 5 24 42.8505 4.6 -17.7496 40.6516 4 -16.8388 38.104 4 -22 41.512 4 -14.3007
 
-0 // Outside 
+0 // Outside
 1 16 0 24 0 60 0 0 0 -4 0 0 0 -60 48\1-16cyli.dat
 1 16 54.91635 22 -24.0105 0 -1 .51765 2 0 0 0 0 1.0485 rect1.dat
 1 16 45.015 22 -39.477 0 -1 2.589 2 0 0 0 0 2.949 rect1.dat

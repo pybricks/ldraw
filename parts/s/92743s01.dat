@@ -2,7 +2,7 @@
 0 Name: s\92743s01.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,12 +10,13 @@
 0 !HISTORY 2012-11-04 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
-0 // Needs work : 
-0 //  Quads near coplanarity
-0 //  Invisible conds
-0 //  Todays LDD data far better
-0 //  Some edges should be conds and vice versa
-0 //  Should further subfiled
+
+0 // Needs work :
+0 // Quads near coplanarity
+0 // Invisible conds
+0 // Todays LDD data far better
+0 // Some edges should be conds and vice versa
+0 // Should further subfiled
 
 4 16 2.296 0 5.543 0 0 6 0 0 8.72 4.36 0 7.551
 4 16 4.243 0 4.243 2.296 0 5.543 4.36 0 7.551 7.051 0 5.124
@@ -5390,7 +5391,6 @@
 5 24 8.739 -28.79 -3.797 9.582 -28.01 -2.863 8.39 -28.802 -2.309 9.677 -27.888 -4.96
 5 24 9.582 -28.01 -2.863 8.39 -28.802 -2.309 8.739 -28.79 -3.797 9.126 -28.455 -1.031
 0 // ///
-
 
 5 24 4.245 -30.54 -8.668 4.169 -31.633 -8.818 4.163 -31.043 -7.614 4.697 -31.364 -9.641
 5 24 4.169 -31.633 -8.818 4.163 -31.043 -7.614 4.245 -30.54 -8.668 4.309 -32.205 -7.792

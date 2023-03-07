@@ -2,11 +2,12 @@
 0 Name: s\30370ps3a.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 16 10.312 -7.518 -1.194 10.414 -7.722 0.889 6.96 -9.525 0.635 6.934 -9.22 -1.651
 3 16 6.934 -9.22 -1.651 10.236 -6.985 -3.251 10.312 -7.518 -1.194

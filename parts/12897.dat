@@ -2,7 +2,7 @@
 0 Name: 12897.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Head offset Y = -3
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2015-02-03 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 0 // Neck
 1 16 10 -1.5 1.5 0 -1 0 1.5 0 0 0 0 8.5 rect3.dat

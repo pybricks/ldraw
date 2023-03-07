@@ -2,12 +2,13 @@
 0 Name: s\4492s03.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-11-21 [Holly-Wood] Subfiled mane groove
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 0 // Forehead groove
 2 24 6.089 -64.25 -29.335 6.19 -58.635 -30.635

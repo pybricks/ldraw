@@ -2,7 +2,7 @@
 0 Name: 24324.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Place Cover 24093.dat at 11 0 -30
 0 !HELP Place Book Content 3069b.dat at 8 0 -16
@@ -12,6 +12,7 @@
 0 !CATEGORY Minifig Accessory
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 11 -18 -30 1 0 0 0 -1 0 0 0 1 s\24324s01.dat
 1 16 11 18 -30 1 0 0 0 1 0 0 0 1 s\24324s01.dat
@@ -43,7 +44,7 @@
 1 16 0 0 -27 0 2.5 0 16 0 0 0 0 1 box3u8p.dat
 
 0 // Spine
-1 16 -1 24 -30.3567 -3 0 0 0 -48 0 0 0 -3 3-16Cyli.dat
+1 16 -1 24 -30.3567 -3 0 0 0 -48 0 0 0 -3 3-16cyli.dat
 1 16 -1 24 -30.3567 -3 0 0 0 -1 0 0 0 -3 3-16disc.dat
 1 16 -1 24 -30.3567 -3 0 0 0 1 0 0 0 -3 3-16edge.dat
 1 16 -1 -24 -30.3567 -3 0 0 0 1 0 0 0 -3 3-16disc.dat

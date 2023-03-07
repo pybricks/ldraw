@@ -2,13 +2,14 @@
 0 Name: 14396p02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Shortcut UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Gingerbread Man, Gingerbread House, Set 10267
+0 !KEYWORDS Gingerbread House, Gingerbread Man, Set 10267
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14396s01.dat
 

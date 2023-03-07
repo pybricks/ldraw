@@ -2,12 +2,13 @@
 0 Name: s\6057s07.dat
 0 Author: William Howard [WilliamH]
 0 !LDRAW_ORG Subpart UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-12-07 [MMR1988] Major rework of entire sub-part
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 4 16 0.94731 -0.936289 -0.320395 2 -0.9239 -0.3827 2 -1 0 0.989107 -1 0
 3 16 0.94731 -0.936289 -0.320395 0.911424 -0.9239 -0.3827 2 -0.9239 -0.3827

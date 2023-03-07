@@ -2,13 +2,14 @@
 0 Name: 6258203n.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Ford, Mustang, Set 10265
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 0 // Main
 1 16 26.75 0 7 1.25 0 0 0 -1 0 0 0 1.25 1-4disc.dat
@@ -595,7 +596,7 @@
 
 0 // Condlines
 5 24 28 0 7 28 -0.25 7 27.286 -0.25 2.796 27.9049 0 7.47837
-5 24 -7 -0.25 -28 -7 0 -28 -2.796 0 -27.286 -7.47837 -0.25 -27.9049 
+5 24 -7 -0.25 -28 -7 0 -28 -2.796 0 -27.286 -7.47837 -0.25 -27.9049
 5 24 9.106 -.25 -22.727 9.106 0 -22.727 5.302 -.25 -24.654 14.236 0 -19.101
 5 24 5.302 -.25 -24.654 5.302 0 -24.654 1.408 -.25 -26.152 9.106 0 -22.727
 5 24 -2.246 -.25 -10.134 -2.246 0 -10.134 -.217 -.25 -9.174 -4.36 0 -10.89

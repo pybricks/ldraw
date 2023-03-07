@@ -2,13 +2,14 @@
 0 Name: 2941.dat
 0 Author: Marc Klein [marckl]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2006-08-13 [guyvivan] Made BFC'ed and use more primitives
 0 !HISTORY 2009-12-16 [cwdee] Adjusted origin
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 0 BFC INVERTNEXT
 1 16 -10 8.5 0 0 1.5 0 -2.5 0 0 0 0 4 box4.dat

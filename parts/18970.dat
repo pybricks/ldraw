@@ -2,15 +2,16 @@
 0 Name: 18970.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Scallop, Shell
+0 !KEYWORDS Scallop, shell
 
 0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2016-03-18 [UR] File preparation for LDraw Parts Tracker
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 0 // Main
 0 // Plate

@@ -2,11 +2,12 @@
 0 Name: s\13786p01s04.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 0 // Muzzle
 
@@ -38,7 +39,6 @@
 3 29 -.088 -42.479 -14.843 0 -44.102 -14.289 -.551 -44.078 -14.208
 3 29 -.088 -42.479 -14.843 -.551 -44.078 -14.208 -1.039 -43.872 -14.201
 3 29 -.088 -42.479 -14.843 -1.039 -43.872 -14.201 -1.369 -43.549 -14.261
-
 
 3 0 .127 -41.017 -15.025 .13 -41.185 -15.032 0 -41.205 -15.047
 3 0 0 -41.205 -15.047 0 -40.605 -15.022 .127 -41.017 -15.025

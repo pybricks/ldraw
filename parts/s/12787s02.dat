@@ -2,7 +2,7 @@
 0 Name: s\12787s02.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2014-11-20 [tchang] Add some lines and cond lines, round coord
 0 !HISTORY 2014-12-08 [MMR1988] Reworked to close hairline gaps
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 4 16 8.026 0.5 -2.08 8.96 0.5 -4.245 9.51 0.5 -3.825 9.925 0.5 -3.361
 4 16 7.9 0.5 6.326 7.41 0.5 5.23 8.025 0.5 5.5 8.776 0.5 6.55

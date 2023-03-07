@@ -2,21 +2,22 @@
 0 Name: 4216816a.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS United States, America, United States of America, USA
-0 !KEYWORDS Star-Spangled Banner, Stars and Stripes, Old Glory
+0 !KEYWORDS America, Old Glory, Star-Spangled Banner, Stars and Stripes
+0 !KEYWORDS United States, United States of America, USA
 
-0 !HISTORY 2011-07-22 [Philo] Cyli -> cyli2 
+0 !HISTORY 2011-07-22 [Philo] Cyli -> cyli2
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 0 !HISTORY 2016-07-01 [cwdee] Updated description
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 0 !HISTORY 2017-07-03 [cwdee] Use cylinder primitives with conditional lines
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-0 !HISTORY 2021-07-01 [OrionP] Made use of US Flag subfile 
+0 !HISTORY 2021-07-01 [OrionP] Made use of US Flag subfile
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 -15.15 -.25 9.45 .18903 0 0 0 1 0 0 0 .18903 s\usflags02.dat
 1 16 -0.78372 -.25 9.45 18.28372 0 0 0 1 0 0 0 .18903 s\usflags03.dat

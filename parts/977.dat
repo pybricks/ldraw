@@ -1,21 +1,22 @@
 0 ~Minifig Hand (Obsolete)
 0 Name: 977.dat
-0 Author: Leonardo Zide
+0 Author: Leonardo Zide [leozide]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 1998-01-11 [Tore_Eriksson] Secondary author
-0 !HISTORY 1998-01-12 [PTadmin]       Official Update 1998-01
-0 !HISTORY 1998-02-12 [PTadmin]       Official Update 1998-02
-0 !HISTORY 2001-02-09 [cwdee]         Corrected type 5 line, non-planar quads, vertex sequences, and added intersect lines between wrist and hand.
-0 !HISTORY 2001-10-26 [PTadmin]       Official Update 2001-01
-0 !HISTORY 2002-11-30 [PTadmin]       Official Update 2002-05
-0 !HISTORY 2007-07-25 [PTadmin]       Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin]       Official Update 2008-01
-0 !HISTORY 2018-01-01 [Steffen]       BFCed
+0 !HISTORY 1998-01-12 [PTadmin] Official Update 1998-01
+0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
+0 !HISTORY 2001-02-09 [cwdee] Corrected type 5 line, non-planar quads, vertex sequences, and added intersect lines between wrist and hand.
+0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-07-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2018-01-01 [Steffen] BFCed
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 0 // outside
 4 16 2 8 0 2 -4 0 1.52 -4 -2.28 1.52 8 -2.28

@@ -2,13 +2,14 @@
 0 Name: s\62694s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2010-03-06 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 58 72.43 3.475 -2 0 0 0 -52.2 -0.43 0 -3.44 6.525 rect3.dat
 1 16 58 74.135 -9.465 0 0 2 -1.275 -51.32 0 6.415 -10.2 0 rect2p.dat

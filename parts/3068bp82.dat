@@ -2,11 +2,12 @@
 0 Name: 3068bp82.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 4 4 -6.543 0 -3.239 -6.796 0 -4.013 -1.552 0 -1.966 -6.189 0 -2.486
@@ -141,4 +142,4 @@
 4 16 6.6 0 7.4 15.029 0 7.4 17 0 17 6.6 0 13.1
 4 16 6.6 0 13.1 17 0 17 -17 0 17 -7.4 0 13.1
 4 15 -7.6 0 -2 -13.098 0 -2 -12.564 0 -4.6 -8 0 -4.6
-0 
+0

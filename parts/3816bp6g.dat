@@ -2,27 +2,29 @@
 0 Name: 3816bp6g.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Wyldstyle
+
 0 !CMDLINE -c1
 
 0 !HISTORY 2020-06-03 [Christophe_Mitillo] Original pattern design
 0 !HISTORY 2020-06-03 [cwdee] Adapted to corrected geometry
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
+
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3817bs01.dat
 5 24 -2 3.349 -8.084 -18.659 3.349 -8.084 -2 0 -8.75 -2 6.187 -6.187
 5 24 -2 6.187 -6.187 -18.755 6.187 -6.187 -2 7.399 -4 -2 3.349 -8.084
 5 24 -2 0 -8.75 -18.546 0 -8.75 -2 3.349 -8.084 -2 -3.349 -8.084
-5 24 -2 -3.349 -8.084 -18.433 -3.349 -8.084 -2 0 -8.75 -2 -6.187 -6.187 
+5 24 -2 -3.349 -8.084 -18.433 -3.349 -8.084 -2 0 -8.75 -2 -6.187 -6.187
 0 // Foot Front
 4 16 -1.5 28 -10 -1.5 20 -10 -19.23 20 -10 -19.5 28 -10
 0 // Foot Top
 4 16 -19.23 20 -4 -19.23 20 -10 -1.5 20 -10 -1.5 20 -4
-0 // Decoration 
+0 // Decoration
 4 4 -4 7.399 -4 -4 7.659 -4 -2.7 7.659 -4 -2.7 7.399 -4
 4 4 -4.3 -3.391 -8.056 -4.3 -4.141 -7.555 -5.95 -4.141 -7.555 -5.95 -3.391 -8.056
 4 4 -7.2 8.655 -4 -6.8 8.655 -4 -6.6 8.309 -4 -7.4 8.309 -4

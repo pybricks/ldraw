@@ -2,15 +2,15 @@
 0 Name: 4162p0t.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS The Eiffel Tower, 1889, Paris, France
-0 !KEYWORDS Architect, Gustave Eiffel
-0 !KEYWORDS Set 21019
+0 !KEYWORDS 1889, Architect, France, Gustave Eiffel, Paris, Set 21019
+0 !KEYWORDS The Eiffel Tower
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Text produced by txt2dat, using "Arial" font
 0 // Scaled and Positioned with MLCad

@@ -2,7 +2,7 @@
 0 Name: 4620856c.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP To be put on a Minifig Surf Board 90397,
 0 !HELP paired with 4620856b
@@ -12,6 +12,7 @@
 0 !KEYWORDS Camper, Set 3184
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 16 3.2 0 -17.7 0 0 -18 -3.2 0 -17.7 -6.5 0 -17
 4 16 6.5 0 -17 3.2 0 -17.7 -6.5 0 -17 -8.5 0 -16

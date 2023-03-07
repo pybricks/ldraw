@@ -2,11 +2,11 @@
 0 Name: 973p4e.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS King Richard, tunic, coat of arms, Castle, red and white
+0 !KEYWORDS Castle, Coat of Arms, King Richard, red and white, tunic
 
 0 !CMDLINE -c4
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2014-12-06 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 // Belt

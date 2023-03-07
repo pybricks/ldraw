@@ -2,7 +2,7 @@
 0 Name: s\003432s1.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2014-01-28 [tchang] Update reference to (R) 777s07, add 777s09
 0 !HISTORY 2017-04-05 [Holly-Wood] Rewrote from scratch in Hires
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // (R)
 1 0 23 -9.5 0 .3 0 0 0 0 -.3 0 1 0 s\777s09.dat

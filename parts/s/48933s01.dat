@@ -2,13 +2,14 @@
 0 Name: s\48933s01.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2007-08-25 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
 0 !HISTORY 2008-03-03 [Holly-Wood] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 2 24 16 6.67 -21 16 6 -19
 2 24 -16 6.67 -21 -16 6 -19
@@ -152,7 +153,7 @@
 1 16 0 19.12 -50 0 0 8 0 -2.55 0 -8 0 0 4-4cyls.dat
 0 BFC INVERTNEXT
 1 16 0 18.45 -50 6 0 0 0 0.67 0 0 0 6 4-4cyli.dat
-1 16 0 19.12 -50 1 0 0 0 -1.22 0 0 0 1 STUD4A.dat
+1 16 0 19.12 -50 1 0 0 0 -1.22 0 0 0 1 stud4a.dat
 1 16 36 22 -2 0 1 0 2 0 0 0 0 8 rect.dat
 1 16 31.25 19.625 -8.125 0 -1 0 -4.375 0 0 0 0 -1.875 rect.dat
 1 16 28.75 18.375 -8.125 0 1 0 -5.625 0 0 0 0 1.875 rect.dat

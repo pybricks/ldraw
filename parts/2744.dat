@@ -2,25 +2,26 @@
 0 Name: 2744.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant (2004-05-15)
-0 !HISTORY 2008-07-08 [guyvivan] Corrected triangle overlaps and two matrix zero;  Modify stud3 by stud3a and add "edge" lines (2004-05-21)
+0 !HISTORY 2008-07-08 [guyvivan] Corrected triangle overlaps and two matrix zero; Modify stud3 by stud3a and add "edge" lines (2004-05-21)
 0 !HISTORY 2008-07-09 [guyvivan] Rename Technic Brick... (2004-05-23)
 0 !HISTORY 2008-07-10 [guyvivan] Use primitive 1-4cyls2.dat 2-4cyls.dat near stud3a top (2004-11-07)
 0 !HISTORY 2008-07-11 [guyvivan] Replace primitive 1-4cyls2.dat 2-4cyls.dat near stud3a top by cylj4x8.dat (2005-11-30)
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
-1 16 60 21.438 0 1 0 0 0 -2.6405 0 0 0 1 STUD3A.DAT
-1 16 40 13.233 0 1 0 0 0 -4.69175 0 0 0 1 STUD3A.DAT
-1 16 20 18 0 1 0 0 0 -3.5 0 0 0 1 STUD3A.DAT
-1 16 20 18 0 1 0 0 0 1 0 0 0 1 cylj4x8.DAT
-1 16 -20 18 0 1 0 0 0 -1.5 0 0 0 1 STUD3A.DAT
-1 16 -20 18 0 1 0 0 0 1 0 0 0 1 cylj4x8.DAT
+
+1 16 60 21.438 0 1 0 0 0 -2.6405 0 0 0 1 stud3a.dat
+1 16 40 13.233 0 1 0 0 0 -4.69175 0 0 0 1 stud3a.dat
+1 16 20 18 0 1 0 0 0 -3.5 0 0 0 1 stud3a.dat
+1 16 20 18 0 1 0 0 0 1 0 0 0 1 cylj4x8.dat
+1 16 -20 18 0 1 0 0 0 -1.5 0 0 0 1 stud3a.dat
+1 16 -20 18 0 1 0 0 0 1 0 0 0 1 cylj4x8.dat
 1 16 40 11.6 0 4 0 0 1.64 1 0 0 0 4 4-4edge.dat
 1 16 60 19.8 0 4 0 0 1.64 1 0 0 0 4 4-4edge.dat
 1 16 40 13.233 0 4 0 0 0 -1.64 0 0 0 4 2-4cyls.dat
@@ -33,12 +34,12 @@
 1 16 0 10 -10 1 0 0 0 0 1 0 1 0 peghole.dat
 1 16 -20 10 10 1 0 0 0 0 1 0 -1 0 peghole.dat
 1 16 -20 10 -10 1 0 0 0 0 1 0 1 0 peghole.dat
-1 16 20 10 6 8 0 0 0 0 8 0 1 0 2-4edge.DAT
-1 16 20 10 -6 8 0 0 0 0 8 0 1 0 2-4edge.DAT
-1 16 0 10 6 8 0 0 0 0 8 0 1 0 2-4edge.DAT
-1 16 0 10 -6 8 0 0 0 0 8 0 1 0 2-4edge.DAT
-1 16 -20 10 6 8 0 0 0 0 8 0 1 0 2-4edge.DAT
-1 16 -20 10 -6 8 0 0 0 0 8 0 1 0 2-4edge.DAT
+1 16 20 10 6 8 0 0 0 0 8 0 1 0 2-4edge.dat
+1 16 20 10 -6 8 0 0 0 0 8 0 1 0 2-4edge.dat
+1 16 0 10 6 8 0 0 0 0 8 0 1 0 2-4edge.dat
+1 16 0 10 -6 8 0 0 0 0 8 0 1 0 2-4edge.dat
+1 16 -20 10 6 8 0 0 0 0 8 0 1 0 2-4edge.dat
+1 16 -20 10 -6 8 0 0 0 0 8 0 1 0 2-4edge.dat
 2 24 76 32 6 4 32 6
 2 24 4 32 6 4 32 -6
 2 24 4 32 -6 76 32 -6
@@ -110,9 +111,9 @@
 4 16 0 24 10 0 24 6 -36 24 6 -40 24 10
 4 16 -40 24 10 -36 24 6 -36 24 -6 -40 24 -10
 4 16 -40 24 -10 -36 24 -6 0 24 -6 0 24 -10
-1 16 20 10 6 8 0 0 0 0 8 0 -12 0 2-4cyli.DAT
-1 16 0 10 6 8 0 0 0 0 8 0 -12 0 2-4cyli.DAT
-1 16 -20 10 6 8 0 0 0 0 8 0 -12 0 2-4cyli.DAT
+1 16 20 10 6 8 0 0 0 0 8 0 -12 0 2-4cyli.dat
+1 16 0 10 6 8 0 0 0 0 8 0 -12 0 2-4cyli.dat
+1 16 -20 10 6 8 0 0 0 0 8 0 -12 0 2-4cyli.dat
 4 16 28 6.67 6 76 26.36 6 76 26.36 -6 28 6.67 -6
 4 16 28 10 6 28 6.67 6 28 6.67 -6 28 10 -6
 4 16 12 10 -6 12 0.1 -6 12 0.1 6 12 10 6

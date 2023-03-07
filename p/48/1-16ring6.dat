@@ -2,12 +2,13 @@
 0 Name: 48\1-16ring6.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG 48_Primitive UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-17 [Brickaneer] Created.
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 0 // Derived from 1-12rin6.
 

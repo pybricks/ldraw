@@ -2,7 +2,7 @@
 0 Name: 30286.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,10 +12,11 @@
 0 !HISTORY 2014-01-08 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
+
 1 16 0 -40 0.046 0 0 -1 0 1 0 1 0 0 stug-2x2.dat
 1 16 0 -36 0.046 1 0 0 0 -1 0 0 0 -1 stud4a.dat
 0 BFC INVERTNEXT
-1 16 0 -5.359 0.046 36 0 0 0 -33 0 0 0 -36 4-8sphe.DAT
+1 16 0 -5.359 0.046 36 0 0 0 -33 0 0 0 -36 4-8sphe.dat
 1 16 0 -5.359 0.046 36 0 0 0 1 0 0 0 -36 4-4edge.dat
 0 // ///
 1 16 0 0 0.046 1 0 0 0 5.359 0 0 0 1 s\86500s01.dat

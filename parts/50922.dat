@@ -2,15 +2,16 @@
 0 Name: 50922.dat
 0 Author: Kevin Roach [KROACH]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Technic, Bionicle, Toa, Hordika
+0 !KEYWORDS bionicle, Hordika, Technic, Toa
 
 0 !HISTORY 2016-01-01 [arezey] Fixed edges and rects
 0 !HISTORY 2021-03-31 [Sirio] Fixed sphere joint and corrected intermediate rotation of circular primitives
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 -60 -40 0 1 0 -1 0 0 0 0 1 connhole.dat
 1 16 0 -60 -60 0 1 0 -1 0 0 0 0 1 beamhole.dat

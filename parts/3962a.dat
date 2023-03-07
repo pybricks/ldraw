@@ -2,18 +2,19 @@
 0 Name: 3962a.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS walkie talkie, transceiver, two way, town
+0 !KEYWORDS town, transceiver, two way, walkie talkie
 
 0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
 0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2013-08-31 [Philo] Fixed handle diameter
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 -11 18 0 8 0 0 0 -1 0 0 0 4 rect.dat
 1 16 -5 7 0 -2 0 0 0 1 0 0 0 4 rect.dat

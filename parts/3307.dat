@@ -2,9 +2,9 @@
 0 Name: 3307.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
-0 !HELP Bad geometry in this file in 2003-03 and 2008-01 versions can be 
+0 !HELP Bad geometry in this file in 2003-03 and 2008-01 versions can be
 0 !HELP simulated by using part 12939
 
 0 BFC CERTIFY CW
@@ -15,6 +15,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2013-09-06 [theJudeAbides] Corrected bad geometry, used more prims, renamed
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 4 16 40 48 10 44 48 6 56 48 6 60 48 10
 4 16 40 48 -10 44 48 -6 44 48 6 40 48 10

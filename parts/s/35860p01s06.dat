@@ -2,11 +2,12 @@
 0 Name: s\35860p01s06.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 1 -5.79522 -41.31481 -26.92967 -5.7736 -41.2 -26.93722 -4.98737 -41.2 -27.09396 -5.06665 -41.62095 -27.06631
 4 1 -5.85843 -41.41213 -26.91433 -5.79522 -41.31481 -26.92967 -5.06665 -41.62095 -27.06631 -5.29843 -41.97782 -27.01005

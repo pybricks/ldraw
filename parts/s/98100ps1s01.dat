@@ -2,11 +2,12 @@
 0 Name: s\98100ps1s01.dat
 0 Author: John Troxler [Gargan]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 4 80 0 8.6 -17.456 0 7.9 -17.216 -0.392 7.926 -17.147 -0.392 8.626 -17.387
 4 80 -0.392 7.726 -17.078 -0.392 6.826 -16.769 -0.776 6.902 -16.718 -0.776 7.802 -17.028

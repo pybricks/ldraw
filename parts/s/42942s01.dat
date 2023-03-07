@@ -2,11 +2,12 @@
 0 Name: s\42942s01.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Primitives
 
@@ -81,7 +82,7 @@
 2 24 20 48 60 20 48 80
 2 24 20 48 60 20 26 60
 2 24 20 40 60 20 40 40
-2 24 20 40 40 16 40 40 
+2 24 20 40 40 16 40 40
 2 24 0 0 80 0 0 60
 2 24 0 0 80 0 40 80
 2 24 0 40 80 0 40 40

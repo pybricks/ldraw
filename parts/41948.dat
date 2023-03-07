@@ -2,11 +2,12 @@
 0 Name: 41948.dat
 0 Author: Rolf Osterthun [Rolf]
 0 !LDRAW_ORG Part UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 16 0 0 -40 1 0 0 0 1 0 0 0 1 s\22888s01.dat
 1 16 40 0 0 0 0 -1 0 1 0 -1 0 0 s\22888s01.dat
@@ -81,10 +82,10 @@
 5 24 -54.59634 8 -54.59628 -54.59634 4 -54.59628 -56.0053 8 -52.48752 -52.48752 8 -56.0053
 5 24 54.59634 8 -54.59628 54.59634 4 -54.59628 56.0053 8 -52.48752 52.48752 8 -56.0053
 
-1 16 40 4 40 1 0 0 0 -1 0 0 0 1 stug4-3x3.DAT
-1 16 -40 4 40 1 0 0 0 -1 0 0 0 1 stug4-3x3.DAT
-1 16 0 4 40 0 0 -1 0 -1 0 1 0 0 stug4-1x3.DAT
-1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stug4-1x7.DAT
+1 16 40 4 40 1 0 0 0 -1 0 0 0 1 stug4-3x3.dat
+1 16 -40 4 40 1 0 0 0 -1 0 0 0 1 stug4-3x3.dat
+1 16 0 4 40 0 0 -1 0 -1 0 1 0 0 stug4-1x3.dat
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stug4-1x7.dat
 0 BFC INVERTNEXT
 1 16 0 8 36 76 0 0 0 -4 0 0 0 40 box4-4a.dat
 4 16 80 8 80 80 8 0 76 8 -4 76 8 76

@@ -2,15 +2,16 @@
 0 Name: 67196-f2.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Sheet Plastic
-0 !KEYWORDS Wrist, Band, Strap, DOTS
+0 !KEYWORDS Band, Dots, Strap, wrist
 
 0 !HISTORY 2022-05-03 [GeraldLasser] Derieved from Philos 66821-f2.dat
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 74 0 1 0 0 0 -1 0 0 0 -1 67196k05.dat
 1 16 0 68 0 -1 0 0 0 -1 0 0 0 1 67196k04.dat

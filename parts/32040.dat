@@ -2,7 +2,7 @@
 0 Name: 32040.dat
 0 Author: Marc Klein [marckl]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2013-03-15 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2013-03-15 [MagFors] Reduced filesize by using more primitives
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 -71.5 0 -15 0 0 0 0.5 0 0 0 -15 4-4cylo.dat
 1 16 0 -76.5 0 -12 0 0 0 5 0 0 0 -12 4-4cylo.dat

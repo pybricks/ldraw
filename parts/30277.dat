@@ -1,8 +1,8 @@
 0 Car Base  2 x  8 x  1.333
 0 Name: 30277.dat
-0 Author: Leonardo Zide
+0 Author: Leonardo Zide [leozide]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2008-07-10 [WilliamH] Added missing lines above wpin2 (2006-09-07)
 0 !HISTORY 2008-07-11 [WilliamH] Fixed length of internal box4-1's (2006-09-30)
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 40 4 0 1 0 0 0 -7 0 0 0 1 stud4.dat
 1 16 0 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat

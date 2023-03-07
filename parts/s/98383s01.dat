@@ -2,12 +2,13 @@
 0 Name: s\98383s01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-07-03 [Philo] Additional smoothing
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 3 16 3.416 -4.65 -9.364 1.921 -7.237 -14.928 0 -3.975 -9.698
 3 16 1.921 -7.237 -14.928 0 -6.636 -15.059 0 -3.975 -9.698

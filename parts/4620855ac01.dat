@@ -2,12 +2,14 @@
 0 Name: 4620855ac01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 3183, Convertible, Car, Vehicle
+0 !KEYWORDS Car, Convertible, Set 3183, Vehicle
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 3 25 8.1647 0.75 -40 5.4 0.7002 -39.5025 0 0.75 -40
 3 30 -22.4 0.75 -40 -26.5 0.7002 -39.5025 -26.2222 0.75 -40

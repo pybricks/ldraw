@@ -2,16 +2,18 @@
 0 Name: 60614.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP In windowframe 60594 place door at -32 4 -5 and 32 64 -5
 
 0 BFC CERTIFY CCW
+
 0 !KEYWORDS 4132, 60594, 60598, 60806
 
-0 !HISTORY 2008-08-25 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2008-08-25 {LEGO Universe Team} Original part shape
 0 !HISTORY 2010-05-30 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 0 60 0 2 0 0 0 -2 0 0 0 -2 bump5000.dat
 1 16 0 60 0 0 0 2 0 -1 0 -2 0 0 2-4ndis.dat

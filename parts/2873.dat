@@ -2,17 +2,18 @@
 0 Name: 2873.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS train gate, door, cover, laptop lid
+0 !KEYWORDS cover, Door, laptop lid, train gate
 
 0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
 0 !HISTORY 2011-08-30 [cwdee] CA rewrite
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 0 !HISTORY 2013-03-05 [MMR1988] used more prims, removed wrong bumps and t-junctions
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 BFC INVERTNEXT
 1 16 0 8 0 36 0 0 0 -4 0 0 0 16 box5.dat

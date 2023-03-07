@@ -2,7 +2,7 @@
 0 Name: 61196.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2012-06-11 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2012-06-30 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 3 16 -13.594 4.103 7.988 -10.524 -0.571 11.353 -12.552 4.885 10.169
 4 16 -12.055 -1.056 7.426 -13.594 4.103 7.988 -13.889 3.743 7.873 -13.117 -1.351 7.185

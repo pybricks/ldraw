@@ -2,11 +2,12 @@
 0 Name: s\logostarwars01.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 4 15 29.576 42 0 36.356 42 0 37.342 39.308 0 39.134 34.294 0
 4 15 35.088 23.14 0 29.576 42 0 39.134 34.294 0 40.556 30.35 0

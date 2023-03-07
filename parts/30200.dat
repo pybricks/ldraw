@@ -2,7 +2,7 @@
 0 Name: 30200.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2017-07-02 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2017-07-03 [MagFors] Removed overlapping surfaces
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4ndis.dat

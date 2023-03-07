@@ -1,13 +1,15 @@
-0 Duplo Baseplate 16 x 24 with 93 Stud Irregular Gap  
+0 Duplo Baseplate 16 x 24 with 93 Stud Irregular Gap
 0 Name: 2296.dat
 0 Author: Rolf Osterthun [Rolf]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Baseplate
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 4 16 -408 0 -248 408 0 -248 408 0 248 -408 0 248
 4 16 408 0 -248 480 0 -248 480 0 248 408 0 248

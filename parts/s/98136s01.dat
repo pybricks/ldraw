@@ -2,13 +2,14 @@
 0 Name: s\98136s01.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-01-04 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-01-04 [Wesley] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 3 16 5.016 -46.751 -6.728 0 -46.319 -13.458 3.122 -45.991 -13.972
 3 16 3.122 -45.991 -13.972 0 -46.319 -13.458 0 -45.702 -16.05

@@ -2,15 +2,16 @@
 0 Name: 50687.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Scabbers, Harry Potter
+0 !KEYWORDS Harry Potter, Scabbers
 
-0 !HISTORY 2010-09-10 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2010-09-10 {LEGO Universe Team} Original part shape
 0 !HISTORY 2010-09-13 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 stud4.dat
 3 16 9.665 -37.152 -2.636 10.772 -34.438 -3.15 10.667 -35.197 0.567

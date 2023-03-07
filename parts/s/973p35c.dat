@@ -2,7 +2,7 @@
 0 Name: s\973p35c.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-05-04 [BlackBrick89] BFCed
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 4 16 5 12 -10 14.345 2 -10 12 0 -10 4.5 11.5 -10
 3 16 5 12 -10 17.793 22 -10 14.345 2 -10
@@ -26,7 +27,7 @@
 3 16 -4.5 12.5 -10 -5 12 -10 -17.793 22 -10
 4 16 -18.828 28 -10 -19 29 -10 -19 32 -10 -14.5 32 -10
 3 16 -18.828 28 -10 -14.5 32 -10 -12.5 30 -10
-3 16 -18.828 28 -10 -12.5 30 -10 -10.75 28 -10 
+3 16 -18.828 28 -10 -12.5 30 -10 -10.75 28 -10
 3 16 -18.828 28 -10 -10.75 28 -10 -9.5 26.25 -10
 3 16 -18.828 28 -10 -9.5 26.25 -10 -6 20 -10
 4 16 -7 22.5 -10 -6 20 -10 -9.5 26.25 -10 -8.25 24.5 -10

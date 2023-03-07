@@ -2,7 +2,7 @@
 0 Name: s\25061s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Connectable bar:
 0 !HELP 1 4 215.6018 -6 55.4039 2.62424 31.73658 0 0 0 -4 3.01884 -27.58819 0 4-4cyli.dat
@@ -10,6 +10,7 @@
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 4 16 210.606 -10 0 210 -10 0 209.2009 -10 18.3027 209.8046 -10 18.3555
 3 16 209.8046 -10 18.3555 211.3 -2 24.5 212.8989 -2 0

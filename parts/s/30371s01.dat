@@ -2,11 +2,12 @@
 0 Name: s\30371s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 3 16 6.2008 -32.1925 -11.0205 5.7617 -31.979 -10.7349 6.0425 -31.9202 -10.8654
 3 16 6.6079 -32.4122 -11.3876 6.2008 -32.1925 -11.0205 6.8853 -32.165 -11.2944

@@ -2,13 +2,14 @@
 0 Name: s\25971s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-10-05 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2019-05-19 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 -3 0 0 0 8 0 3 0 -8 0 0 2-4cylo.dat
 0 BFC INVERTNEXT
@@ -52,7 +53,6 @@
 2 24 5.491 23.5 -11.965 10.833 23.5 -12.143
 2 24 10.833 23.5 -12.143 5.087 26.013 -12.195
 2 24 11.06 23.5 -12.9 10.833 23.5 -12.143
-
 
 3 16 0 -7.458 -9.991 0 -5.856 -11.0715 2.7015 -6.7945 -9.729
 3 16 0 -10.144 -0.544 0 -7.458 -9.991 4.1315 -8.097 -6.857

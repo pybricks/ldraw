@@ -2,13 +2,14 @@
 0 Name: s\42511s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2012-08-24 [Philo] Moved top surface to main part for patterned versions
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 0 5 16 0 15.75 0 0 0 3 4 0 0 2-4cyli.dat
 2 24 0 5 12 15.75 5 12

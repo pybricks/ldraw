@@ -2,7 +2,7 @@
 0 Name: 23769.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2018-10-09 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 0 -1 0 0 0 1 -1 0 0 clip13.dat
 1 16 4 7 0 0 -1 0 0 0 3.5 -4 0 0 2-4edge.dat
@@ -33,10 +34,10 @@
 4 16 4 6.5 4 4 6.5 -4 4 7 -4 4 7 4
 4 16 -4 7 -4 -4 6.5 -4 -4 6.5 4 -4 7 4
 4 16 -4 4.1965 -6.3256 -4 4.1965 6.3256 -4 6.5 4 -4 6.5 -4
-1 16 0 7 0 0 -4 0 0 0 3.5 -4 0 0 1-8sphc.dat 
-1 16 0 7 0 0 -4 0 0 0 3.5 4 0 0 1-8sphc.dat 
-1 16 0 7 0 0 4 0 0 0 3.5 -4 0 0 1-8sphc.dat 
-1 16 0 7 0 0 4 0 0 0 3.5 4 0 0 1-8sphc.dat 
+1 16 0 7 0 0 -4 0 0 0 3.5 -4 0 0 1-8sphc.dat
+1 16 0 7 0 0 -4 0 0 0 3.5 4 0 0 1-8sphc.dat
+1 16 0 7 0 0 4 0 0 0 3.5 -4 0 0 1-8sphc.dat
+1 16 0 7 0 0 4 0 0 0 3.5 4 0 0 1-8sphc.dat
 1 16 0 24.5 0 -6 0 0 0 5 0 0 0 6 4-4cylc.dat
 1 16 0 29.5 0 6 0 0 0 -1 0 0 0 6 4-4disc.dat
 1 16 0 24.5 0 4 0 0 0 1 0 0 0 4 4-4edge.dat

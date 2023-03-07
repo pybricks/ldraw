@@ -2,16 +2,18 @@
 0 Name: 90398.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP 1 16 0 -37.0595 0.3 .3065 0 0 0 .3065 0 0 0 .3065 3626a.dat
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Minifig Accessory
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2018-04-15 [MagFors] Adapted to LDD size, subfiled
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\90398s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\90398s02.dat

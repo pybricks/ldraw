@@ -2,7 +2,7 @@
 0 Name: 87747.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !KEYWORDS Claw, Horn
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 2 24 0 -39.84 18.8 0 -39.89 17.346
 2 24 0 -39.89 17.346 0 -37.8 12.36

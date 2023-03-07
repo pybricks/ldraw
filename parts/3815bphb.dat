@@ -2,11 +2,13 @@
 0 Name: 3815bphb.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Harry Potter, Severus Snape, Hogwarts, Slytherin
-0 !KEYWORDS Sorcerer's Stone, set 4705, set 4709, set 4733, bricklink 970c00pb0002
+
+0 !KEYWORDS bricklink 970c00pb0002, Harry Potter, Hogwarts, set 4705, set 4709
+0 !KEYWORDS set 4733, Severus Snape, Slytherin, Sorcerer's Stone
+
 0 !CMDLINE -c0
 
 0 !HISTORY 2004-04-22 [westrate] Original pattern design
@@ -14,6 +16,7 @@
 0 !HISTORY 2020-08-01 [cwdee] Remove t-junctions
 0 !HISTORY 2020-10-02 [MagFors] extended description
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3815bs01.dat
 1 16 -2 12 0 0 4 0 8.08395 0 -3.34848 -3.34848 0 -8.08395 5-16cyli.dat

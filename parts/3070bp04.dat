@@ -2,7 +2,7 @@
 0 Name: 3070bp04.dat
 0 Author: John Riley [jriley]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2009-08-12 [anathema] Improved pattern
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
 4 16 -10 0 10 0.625 0 5.625 2.875 0 5.625 10 0 10

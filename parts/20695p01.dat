@@ -2,13 +2,14 @@
 0 Name: 20695p01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Jack O' Lantern, Headless Horseman, Elwood Crane, halloween, ghost, Scooby-Doo
-0 !KEYWORDS BrickLink 20695pb01, set 40260, set 40351, set 45023, set 71040, set 75901, set 75904, set 853607 
+0 !KEYWORDS BrickLink 20695pb01, Elwood Crane, ghost, Halloween
+0 !KEYWORDS Headless Horseman, Jack O' Lantern, Scooby-Doo, set 40260, set 40351
+0 !KEYWORDS set 45023, set 71040, set 75901, set 75904, set 853607
 
 0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2017-07-04 [ejboer] File preparation for LDraw Parts Tracker
@@ -17,5 +18,6 @@
 0 !HISTORY 2022-06-22 [Philo] Updated description
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 20693.dat
-1  2 0 0 0 1 0 0 0 1 0 0 0 1 20694.dat
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 20694.dat

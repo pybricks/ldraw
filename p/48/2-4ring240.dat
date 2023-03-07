@@ -2,12 +2,13 @@
 0 Name: 48\2-4ring240.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG 48_Primitive UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 4 16 240 0 0 241 0 0 238.9274 0 31.4505 237.936 0 31.32
 4 16 237.936 0 31.32 238.9274 0 31.4505 232.7819 0 62.3708 231.816 0 62.112

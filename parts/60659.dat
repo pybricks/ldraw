@@ -2,15 +2,17 @@
 0 Name: 60659.dat
 0 Author: El'dar Ismagilov [Eldar]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Figure Accessory
 0 !KEYWORDS Troll, Weapon
 
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2009-11-09 [Eldar] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 1 16 0 13 0 4 0 0 0 -25.9 0 0 0 4 4-4cylc.dat
 3 16 -11.7 -34.5 2.372 -7.048 -23.94 5.049 -9.344 -23.51 1.492
@@ -245,7 +247,7 @@
 3 16 -7.303 -15.55 -1.952 -4 -12.91 0 -3.938 -14.67 -6.102
 3 16 -4 -12.91 0 -3.464 -12.91 -2 -3.938 -14.67 -6.102
 3 16 -3.464 -12.91 -2 -2 -12.91 -3.464 -3.938 -14.67 -6.102
-0 
+0
 2 24 -9.344 -23.51 1.492 -11.7 -34.5 2.372
 2 24 -8.575 -62.27 17.28 -4.558 -69.38 19.04
 2 24 -4.558 -69.38 19.04 -3.415 -76.94 20.12
@@ -431,7 +433,7 @@
 2 24 18.98 -50.06 4.774 10.39 -48.33 12.33
 2 24 15.49 -77.37 9.959 21.04 -85.94 -4.068
 2 24 18.98 -50.06 4.774 15.83 -43.49 -7.735
-0 
+0
 5 24 -11.7 -34.5 2.372 -7.048 -23.94 5.049 -9.344 -23.51 1.492 -3.442 -33.02 10.58
 5 24 -4.558 -69.38 19.04 7.751 -62.49 16.07 -8.575 -62.27 17.28 2.531 -76.9 19.86
 5 24 7.751 -62.49 16.07 -8.575 -62.27 17.28 -4.558 -69.38 19.04 4.373 -55.51 14.7

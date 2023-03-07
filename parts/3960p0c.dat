@@ -2,13 +2,14 @@
 0 Name: 3960p0c.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS 3960pb037, Disney Castle, Set 71040
+0 !KEYWORDS 3960pb037, Disney Castle, set 71040
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s01.dat
 
@@ -1586,7 +1587,6 @@
 4 0 9.6593 0 -2.5882 10.6249 0.1666 -2.8468 10.9054 0.1667 -1.4355 9.914 0 -1.3054
 4 16 10.6249 0.1666 -2.8468 19.318 1.6666 -5.176 19.828 1.6666 -2.61 10.9054 0.1667 -1.4355
 4 71 19.318 1.6666 -5.176 21.2503 2 -5.694 21.8109 2 -2.8713 19.828 1.6666 -2.61
-
 
 1 16 0 8 0 40 0 0 0 1 0 0 0 40 48\4-4edge.dat
 5 24 35 6 0 40 8 0 39.656 8 -5.22 34.699 6 4.5681

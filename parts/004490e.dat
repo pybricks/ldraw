@@ -2,13 +2,14 @@
 0 Name: 004490e.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 365, western, wild west, cowboy
+0 !KEYWORDS cowboy, set 365, western, wild west
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 0 // Black
 1 0 -21.2 -.25 5.6 -.4 0 0 0 1 0 0 0 -.4 1-4chrd.dat

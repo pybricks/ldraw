@@ -2,11 +2,12 @@
 0 Name: s\80679s03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 3 16 -3.7986 -25.5733 -17.1014 -2.4514 -27.0633 -17.8529 -4.5214 -27.0397 -15.4316
 3 16 -4.5214 -27.0397 -15.4316 -2.4514 -27.0633 -17.8529 -3.2371 -28.9938 -15.8946

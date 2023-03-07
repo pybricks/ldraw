@@ -2,11 +2,12 @@
 0 Name: 6638.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 2 24 -24.2503 20.0041 19.1806 -23.7422 19.2505 18.9999
 2 24 24.7046 20.9168 19.3822 24.2503 20.0041 19.1806
@@ -74,8 +75,6 @@
 1 16 -19.1313 10.9612 -1.5 0 0 -.8687 0 -1 .7609 -18.5 0 0 rect3.dat
 3 16 -18.2626 10.2003 17 -20 11.7221 17 -19.799 14.201 17
 4 16 18.2628 10.1994 17 -18.2626 10.2003 17 -19.799 14.201 17 19.799 14.201 17
-
-
 
 0 // left side
 2 24 20.17728 32.9666 20 27.8276 31.4418 20

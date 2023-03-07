@@ -2,17 +2,18 @@
 0 Name: 2342.dat
 0 Author: Jaco van der Molen [Jaco]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS space, robot, control
+0 !KEYWORDS control, Robot, Space
 
 0 !HISTORY 1997-10-29 [PTadmin] Official Update 1997-16
 0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2013-08-18 [theJudeAbides] Fixed numerous problems, BFC'd
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Base
 
@@ -145,7 +146,7 @@
 4 16 -6 -23.2 -23 -6 -23.2 -13 -6 -24.2 -7 -6 -24.2 -23
 
 0 // Outer Sides
-3 16 10 -3.4 -5.4 10 0 -10 10 0 10 
+3 16 10 -3.4 -5.4 10 0 -10 10 0 10
 3 16 10 -7 -2.8 10 -3.4 -5.4 10 0 10
 3 16 10 -11.2 -2 10 -7 -2.8 10 0 10
 4 16 10 -11.2 -2 10 0 10 10 -18 6 10 -18 0

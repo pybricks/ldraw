@@ -2,18 +2,20 @@
 0 Name: 30116.dat
 0 Author: Matthew J. Chiles [mchiles]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS ufo, aquaraiders, aquanauts, mars, dome, quarter dome
+
+0 !KEYWORDS Aquanauts, aquaraiders, Dome, mars, quarter dome, UFO
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 0 !HISTORY 2010-12-16 [BlackBrick89] Removed stug from subpart
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
+
 0 // everything but the top face
 
-1 16  0 0 0  1 0 0 0 1 0 0 0 1 s\30116s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30116s01.dat
 0 // studgroup and studs
 1 16 160 48 -160 1 0 0 0 1 0 0 0 1 stug-2x2.dat
 1 16 90 8 -10 1 0 0 0 1 0 0 0 1 stud.dat
@@ -68,7 +70,7 @@
 3 16 70 0 -70 85.0054 0 -85.0054 96.0064 0 -74.0043
 
 0 // left side (4 digit accuracy for dimensions less than 3 LDU, otherwise 3 digit accuracy)
-0 // left bottom panels 
+0 // left bottom panels
 3 16 31.4286 24 -220 20 24 -220 20 34.6667 -240
 3 16 20 34.6667 -240 40 56 -280 31.4286 24 -220
 3 16 0 56 -280 40 56 -280 20 34.6667 -240

@@ -2,12 +2,13 @@
 0 Name: s\2892s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-28 [Philo] Created from Bernd Broich 2892 original design
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 109.202 0 -89.267 -0.85264 0 -0.5225 0 1 0 0.5225 0 -0.85264 s\2672s01.dat
 1 16 109.202 0 -89.267 0.85264 0 -0.5225 0 1 0 -0.5225 0 -0.85264 s\2672s01.dat

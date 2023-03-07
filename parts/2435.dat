@@ -2,11 +2,11 @@
 0 Name: 2435.dat
 0 Author: Ildefonso Zanette [izanette]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS christmas, cone
+0 !KEYWORDS Christmas, cone
 
 0 !CMDLINE -c2
 
@@ -16,6 +16,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2011-02-02 [Philo] Rectified, used same baseplate as other trees
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 0 -82 0 5 0 0 0 1 0 0 0 5 4-4edge.dat
 1 16 0 -82 0 5 0 0 0 6 0 0 0 5 4-4cyli.dat

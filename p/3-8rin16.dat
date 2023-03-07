@@ -2,11 +2,12 @@
 0 Name: 3-8rin16.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Primitive UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 4 16 16 0 0 17 0 0 15.7063 0 6.5059 14.7824 0 6.1232
 4 16 14.7824 0 6.1232 15.7063 0 6.5059 12.0207 0 12.0207 11.3136 0 11.3136

@@ -2,11 +2,12 @@
 0 Name: s\59231p4ha.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 320 -5.4 12.2 0 -5.7265 11.0313 0 -6.4858 10.1662 0 -7.8 9 0
 3 320 -5.7265 11.0313 0 -5.4 12.2 0 -5.0006 11.6216 0

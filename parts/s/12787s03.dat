@@ -2,13 +2,14 @@
 0 Name: s\12787s03.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-11-26 [tchang] Uncolored, BFC'ed 1 face, change 1 edgline position, used Unificator, Change orientation
 0 !HISTORY 2014-12-03 [tchang] Corrected DATHeader messages, Suppress some little gaps
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 16 30 0 0 0 -1 0 8 0 0 0 0 8 4-4edge.dat
 1 16 30 0 0 0 -1 0 9.1924 0 9.1924 -9.1924 0 9.1924 2-4edge.dat

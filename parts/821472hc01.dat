@@ -2,11 +2,12 @@
 0 Name: 821472hc01.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 4 0 -25.36 9.38926 -26.7519 17.86 9.38926 -26.7519 19 8.02564 -25.8408 -27 8.02564 -25.8408
 3 0 -27 8.02564 -25.8408 -25.36 10.7529 -27.663 -25.36 9.38926 -26.7519

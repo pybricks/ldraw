@@ -2,17 +2,18 @@
 0 Name: t04o3077.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Primitive UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
+
 0 // Major Radius: 13
 0 // Tube(Minor) Radius: 4
 0 // Segments(Sweep): 4/16 = 0.25
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.3077 0 0  0 0 0.3077  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.3077 0 0 0 0 0.3077 0 1 0 4-4edge.dat
 
 4 16 1 0.3077 0 0.9239 0.3077 0.3827 1.0327 0.2843 0.4278 1.1178 0.2843 0
 4 16 1.1178 0.2843 0 1.0327 0.2843 0.4278 1.1249 0.2176 0.466 1.2176 0.2176 0

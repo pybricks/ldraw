@@ -2,7 +2,7 @@
 0 Name: s\970p63a.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2008-07-07 [nielsk] BFC'd (2004-06-15)
 0 !HISTORY 2010-12-31 [Steffen] Inlined into main part
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 4 16 -3 5 -10 -7 5 -10 -7 2 -10 -3 2 -10
 4 16 -8 5 -10 -10.5 5 -10 -10.5 4 -10 -8 4 -10

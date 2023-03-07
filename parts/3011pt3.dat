@@ -2,14 +2,15 @@
 0 Name: 3011pt3.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Train station, set 523, set 081, bricklink 3011pb013
+0 !KEYWORDS bricklink 3011pb013, set 081, set 523, Train Station
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3011s01.dat
 4 16 80 0 40 80 48 40 -80 48 40 -80 0 40

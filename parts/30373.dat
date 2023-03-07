@@ -2,25 +2,27 @@
 0 Name: 30373.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2003-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS bracket, Technic, "Star Wars", Brick  4 x  4 with Holes, 4x4
-0 !KEYWORDS Slope Brick 65  2 x  2 x  2 Inverted Double Convex, 2x2x2
+
+0 !KEYWORDS 2x2x2, 4x4, bracket, Brick 4 x 4 with Holes
+0 !KEYWORDS Slope Brick 65 2 x 2 x 2 Inverted Double Convex, Star Wars, Technic
 
 0 !HISTORY 2002-06-05 [sbliss] Added keywords, simplified title, applied BFC rules, replaced 2345 lines with primitives, reduced 1/4 subfile to 1/8.
 0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
 0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
- 1 16  0  0  0 -1  0  0  0  1  0  0  0 -1  s\30373s01.dat
- 1 16  0  0  0  0  0 -1  0  1  0 -1  0  0  s\30373s01.dat
- 1 16  0  0  0  1  0  0  0  1  0  0  0  1  s\30373s01.dat
- 1 16  0  0  0  0  0  1  0  1  0  1  0  0  s\30373s01.dat
- 1 16  0  0  0  0  0 -1  0  1  0  1  0  0  s\30373s01.dat
- 1 16  0  0  0 -1  0  0  0  1  0  0  0  1  s\30373s01.dat
- 1 16  0  0  0  0  0  1  0  1  0 -1  0  0  s\30373s01.dat
- 1 16  0  0  0  1  0  0  0  1  0  0  0 -1  s\30373s01.dat
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\30373s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\30373s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30373s01.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\30373s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\30373s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30373s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\30373s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\30373s01.dat
 
 0 Corner seams between mirrored subfiles
 2 24 60 0 60 60 4 60
@@ -75,29 +77,29 @@
 5 24 -45.757 19.778 45.757 -45.757 29.206 45.757 -44.457 19.778 47.704 -47.704 19.778 44.457
 2 24 -36 48 36 -36 28 36
 0
- 1 16 -10  24 -10 1 0 0 0 1 0 0 0 1 stud.dat
- 1 16  10  24 -10 1 0 0 0 1 0 0 0 1 stud.dat
- 1 16 -10  24  10 1 0 0 0 1 0 0 0 1 stud.dat
- 1 16  10  24  10 1 0 0 0 1 0 0 0 1 stud.dat
- 1 16 -30  24 -10 1 0 0 0 1 0 0 0 1 stud.dat
- 1 16  30  24 -10 1 0 0 0 1 0 0 0 1 stud.dat
- 1 16 -30  24  10 1 0 0 0 1 0 0 0 1 stud.dat
- 1 16  30  24  10 1 0 0 0 1 0 0 0 1 stud.dat
- 1 16 -10  24 -30 1 0 0 0 1 0 0 0 1 stud.dat
- 1 16  10  24 -30 1 0 0 0 1 0 0 0 1 stud.dat
- 1 16 -10  24  30 1 0 0 0 1 0 0 0 1 stud.dat
- 1 16  10  24  30 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -10 24 -10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 10 24 -10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -10 24 10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 10 24 10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -30 24 -10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 30 24 -10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -30 24 10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 30 24 10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -10 24 -30 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 10 24 -30 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -10 24 30 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 10 24 30 1 0 0 0 1 0 0 0 1 stud.dat
 
-1 16   0 24  20 1 0 0 0 1 0 0 0 1 peghole.dat
-1 16 -20 24   0 1 0 0 0 1 0 0 0 1 peghole.dat
-1 16   0 24   0 1 0 0 0 1 0 0 0 1 peghole.dat
-1 16  20 24   0 1 0 0 0 1 0 0 0 1 peghole.dat
-1 16   0 24 -20 1 0 0 0 1 0 0 0 1 peghole.dat
+1 16 0 24 20 1 0 0 0 1 0 0 0 1 peghole.dat
+1 16 -20 24 0 1 0 0 0 1 0 0 0 1 peghole.dat
+1 16 0 24 0 1 0 0 0 1 0 0 0 1 peghole.dat
+1 16 20 24 0 1 0 0 0 1 0 0 0 1 peghole.dat
+1 16 0 24 -20 1 0 0 0 1 0 0 0 1 peghole.dat
 
-1 16  30  0  50 1 0 0 0 1 0 0 0 1 stud2a.dat
-1 16  50  0  50 1 0 0 0 1 0 0 0 1 stud2a.dat
-1 16  30  0  30 1 0 0 0 1 0 0 0 1 stud2a.dat
-1 16  50  0  30 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 30 0 50 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 50 0 50 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 30 0 30 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 50 0 30 1 0 0 0 1 0 0 0 1 stud2a.dat
 
 1 16 50 0 -30 0 0 1 0 1 0 -1 0 0 stud2a.dat
 1 16 50 0 -50 0 0 1 0 1 0 -1 0 0 stud2a.dat
@@ -114,15 +116,15 @@
 1 16 -30 0 30 0 0 -1 0 1 0 1 0 0 stud2a.dat
 1 16 -30 0 50 0 0 -1 0 1 0 1 0 0 stud2a.dat
 
-1 16 -20 28  20 1 0 0 0 -5   0 0 0 1 stud4.dat
-1 16   0 28  20 1 0 0 0 -4.5 0 0 0 1 stud4a.dat
-1 16  20 28  20 1 0 0 0 -5   0 0 0 1 stud4.dat
+1 16 -20 28 20 1 0 0 0 -5 0 0 0 1 stud4.dat
+1 16 0 28 20 1 0 0 0 -4.5 0 0 0 1 stud4a.dat
+1 16 20 28 20 1 0 0 0 -5 0 0 0 1 stud4.dat
 
-1 16 -20 28   0 1 0 0 0 -4.5 0 0 0 1 stud4a.dat
-1 16   0 28   0 1 0 0 0 -4.5 0 0 0 1 stud4a.dat
-1 16  20 28   0 1 0 0 0 -4.5 0 0 0 1 stud4a.dat
+1 16 -20 28 0 1 0 0 0 -4.5 0 0 0 1 stud4a.dat
+1 16 0 28 0 1 0 0 0 -4.5 0 0 0 1 stud4a.dat
+1 16 20 28 0 1 0 0 0 -4.5 0 0 0 1 stud4a.dat
 
-1 16 -20 28 -20 1 0 0 0 -5   0 0 0 1 stud4.dat
-1 16   0 28 -20 1 0 0 0 -4.5 0 0 0 1 stud4a.dat
-1 16  20 28 -20 1 0 0 0 -5   0 0 0 1 stud4.dat
+1 16 -20 28 -20 1 0 0 0 -5 0 0 0 1 stud4.dat
+1 16 0 28 -20 1 0 0 0 -4.5 0 0 0 1 stud4a.dat
+1 16 20 28 -20 1 0 0 0 -5 0 0 0 1 stud4.dat
 0

@@ -2,13 +2,14 @@
 0 Name: s\85959s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-08-20 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-08-20 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 16 0 16 0 4 0 0 0 -16 0 0 0 4 4-4cylc.dat
 2 24 -3.657 -21.1 3.998 -6.645 -26.523 3.831

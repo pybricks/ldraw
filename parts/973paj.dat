@@ -2,11 +2,11 @@
 0 Name: 973paj.dat
 0 Author: Matt Schild [mschild]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Hover Scout, Pilot, Granite Girl
+0 !KEYWORDS Granite Girl, Hover Scout, pilot
 
 0 !CMDLINE -c1
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-10-10 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 // Neck mark

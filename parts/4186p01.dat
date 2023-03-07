@@ -2,21 +2,23 @@
 0 Name: 4186p01.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 3302, football, playing field, sports, World Cup
+0 !KEYWORDS football, playing field, set 3302, Sports, World Cup
+
 0 !CMDLINE -c2
 
 0 !HISTORY 1998-12-15 [PTadmin] Official Update 1998-10
 0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-01-19 [Steffen] BFCed, corrected dark green color, restructured subfiles, retitled
 0 !HISTORY 2015-02-17 [MagFors] used box and rect primitives
 0 !HISTORY 2015-05-15 [MMR1988] fixed overlappings at corners of plate
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 -476 2 0 0 952 0 -2 0 0 0 0 480 box4o8a.dat
 4 16 -480 4 -476 -480 4 476 -476 4 480 -476 4 -480

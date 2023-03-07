@@ -2,12 +2,14 @@
 0 Name: 990.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS level crossing, gates, flashlight, flash
+
+0 !KEYWORDS Flash, flashlight, gates, Level Crossing
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 20 36 20 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 36 20 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -166,12 +168,12 @@
 1 16 0 18 48 -3.5 0 0 0 0 3.5 0 -1 0 4-4edge.dat
 1 16 -10 18 40 -4.5 0 0 0 0 4.5 0 -1 0 4-4ndis.dat
 1 16 10 18 40 -4.5 0 0 0 0 4.5 0 -1 0 4-4ndis.dat
-0 
+0
 1 383 -10 18 40 4.5 0 0 0 0 4.5 0 4.5 0 4-4edge.dat
 1 383 -10 18 40 -0.5 0 0 0 0 0.5 0 -1 0 4-4ring7.dat
 1 383 -10 18 40 -0.5 0 0 0 0 0.5 0 -1 0 4-4ring8.dat
 1 383 -10 18 40 -1 0 0 0 1 0 0 0 -1 plug34.dat
-0 
+0
 1 383 10 18 40 4.5 0 0 0 0 4.5 0 4.5 0 4-4edge.dat
 1 383 10 18 40 -0.5 0 0 0 0 0.5 0 -1 0 4-4ring7.dat
 1 383 10 18 40 -0.5 0 0 0 0 0.5 0 -1 0 4-4ring8.dat

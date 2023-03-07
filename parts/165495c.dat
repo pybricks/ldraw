@@ -2,15 +2,15 @@
 0 Name: 165495c.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 6397, Set 6472, Service Station, Gas pump
-0 !KEYWORDS Bricklink 6397stk01, Rebrickable 165495, Brickowl 258553
-0 !KEYWORDS Bricklink 6472stk01
+0 !KEYWORDS Bricklink 6397stk01, Bricklink 6472stk01, Brickowl 258553, Gas pump
+0 !KEYWORDS Rebrickable 165495, Service station, Set 6397, Set 6472
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 -0.25 0 18 0 0 0 0.25 0 0 0 5 box5-12.dat
 

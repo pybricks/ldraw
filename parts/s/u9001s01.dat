@@ -2,7 +2,7 @@
 0 Name: s\u9001s01.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP to put this part into a pressed-down state, rotate it 4.3 degrees
 0 !HELP around the x-axis
@@ -14,6 +14,7 @@
 0 !HISTORY 2009-11-02 [Steffen] closed gap
 0 !HISTORY 2010-04-20 [Steffen] corrected geometry
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 3 16 -38 -14.3976 -56.503 -38 -10.278 -1.718 -38 -29 -2
 1 16 -40 -3.547 -47.17 0 1 0 -10.092 0 -0.758822 0.758822 0 -10.092 1-4ndis.dat

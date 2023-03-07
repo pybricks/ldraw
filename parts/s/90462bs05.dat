@@ -2,11 +2,12 @@
 0 Name: s\90462bs05.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 3 16 0.752 0.565 17.638 0 0.53 17.444 0 -0.118 17.417
 3 16 0.752 0.565 17.638 1.231 3.63 18.325 0 0.53 17.444
@@ -394,7 +395,6 @@
 3 16 13.961 11.887 10.538 16.812 10.42 8.135 16.844 11.686 7.023
 3 16 16.844 11.686 7.023 16.812 10.42 8.135 19.14 10.574 5.166
 3 16 19.14 10.574 5.166 16.812 10.42 8.135 19.09 9.594 5.68
-
 
 0 // adapted inside
 5 24 13.273 2.148 -8.661 9.263 4.123 -9.263 12.039 4.9 -5.339 11.271 2.042 -11.39

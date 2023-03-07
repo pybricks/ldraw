@@ -2,11 +2,12 @@
 0 Name: s\67141s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 0 // Bottom Pegholes
 1 16 0 0 132 0 0 -3 3 0 0 0 1 0 1-4ring2.dat
@@ -74,7 +75,7 @@
 2 24 -9 -20 150 -9 0 150
 2 24 9 -20 150 9 0 150
 
-0 // Wheel Arch 
+0 // Wheel Arch
 4 16 9.5 -9.754 113.0595 9.5 0 119.064 9.5 -.0064 124.9586 9.5 -12.737875657 116.943794518
 4 16 0 -11.9785 115.9585 0 0 123.9514 0 0 119.064 0 -9.754 113.0595
 4 16 9.5 -9.754 113.0595 0 -9.754 113.0595 0 0 119.064 9.5 0 119.064

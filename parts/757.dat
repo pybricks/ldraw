@@ -2,18 +2,19 @@
 0 Name: 757.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS gizmo, minifig, space, tube, tabs, cap
-0 !KEYWORDS Star Wars, Studio, Life on Mars
+0 !KEYWORDS Cap, gizmo, Life on Mars, minifig, Space, Star Wars, Studio, tabs
+0 !KEYWORDS tube
 
 0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
 0 !HISTORY 2007-12-30 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2020-06-04 [Sirio] Subparted and removed overlapping
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 0 // Suparts
 

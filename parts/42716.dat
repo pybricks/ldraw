@@ -2,16 +2,18 @@
 0 Name: 42716.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10265, Mustang
+0 !KEYWORDS Mustang, Set 10265
+
 0 !CMDLINE -c135
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 0 !HISTORY 2020-01-07 [cwdee] Correct typo in description
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 // Spokes
 
@@ -272,7 +274,7 @@
 1 16 0 0 0 1 0 0 0 0 1 0 -20 0 axl3hole.dat
 1 16 0 0 -20 3 0 0 0 0 3 0 1 0 4-4ring2.dat
 1 16 0 0 0 3 0 0 0 0 3 0 -1 0 4-4ring2.dat
-1 16 0 0 11 -34 0 0 0 0 -34 0 -1 0 48\4-4edge.dat 
+1 16 0 0 11 -34 0 0 0 0 -34 0 -1 0 48\4-4edge.dat
 
 0 // Hub Intersection Lines
 2 24 8.453797 2.746804 -15.623552 8.3151 3.4443 -15.348

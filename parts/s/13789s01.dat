@@ -2,11 +2,12 @@
 0 Name: s\13789s01.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 1 16 0 8.9342 0 0 0 13 -1.8146 1 0 -13 0 0 2-4edge.dat
 0 BFC INVERTNEXT

@@ -2,7 +2,7 @@
 0 Name: 3063b.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2013-06-09 [MMR1988] Completely rewritten
 0 !HISTORY 2013-06-10 [PTadmin] renamed from 3063
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 // outside
 
@@ -116,7 +117,6 @@
 2 24 12.90297 4 -19.847 8.81212 4 -22.58298
 2 24 24.64 0 -10 21.736 0 -14.352
 2 24 14.35046 0 -21.73413 10 0 -24.64
-
 
 5 24 13.6729 4 0.19415 13.6729 24 0.19415 8.11788 4 -8.11788 15.6228 4 10
 5 24 -0.19415 4 -13.6729 -0.19415 24 -13.6729 -10 4 -15.6228 8.11788 4 -8.11788

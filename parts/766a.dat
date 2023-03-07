@@ -2,19 +2,20 @@
 0 Name: 766a.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-11-30 [PTadmin]  Official Update 2002-05
-0 !HISTORY 2007-07-22 [PTadmin]  Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin]  Official Update 2008-01
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-07-22 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant (2004-05-09)
-0 !HISTORY 2009-04-11 [PTadmin]  Renamed from 766
-0 !HISTORY 2010-04-05 [PTadmin]  Official Update 2010-01
-0 !HISTORY 2011-12-22 [Steffen]  Corrected part geometry: moved sockets 0.5 LDU towards rear, otherwise putting one plug into another like in set 7866 does not work.
-0 !HISTORY 2013-12-07 [Steffen]  Reduced diameter of the central hole to match the central plug's diameter. This at least makes this part self-consistent.
+0 !HISTORY 2009-04-11 [PTadmin] Renamed from 766
+0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+0 !HISTORY 2011-12-22 [Steffen] Corrected part geometry: moved sockets 0.5 LDU towards rear, otherwise putting one plug into another like in set 7866 does not work.
+0 !HISTORY 2013-12-07 [Steffen] Reduced diameter of the central hole to match the central plug's diameter. This at least makes this part self-consistent.
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 0 // Needs work: add some missing condlines, remove T junctions
 
@@ -63,10 +64,10 @@
 2 24 -3 7.5 23.5 3 7.5 23.5
 1 16 16 -7.5 21.5 0 0 2 0 15 0 -2 0 0 2-4cyli.dat
 1 16 -16 -7.5 21.5 0 0 -2 0 15 0 -2 0 0 2-4cyli.dat
-1 16 16 0 9.75 0 -1 0 7.5 0 0 0 0 9.75 RECT.DAT
-1 16 16 0 23.75 0 -1 0 7.5 0 0 0 0 0.25 RECT.DAT
-1 16 -16 0 9.75 0 1 0 7.5 0 0 0 0 9.75 RECT.DAT
-1 16 -16 0 23.75 0 1 0 7.5 0 0 0 0 0.25 RECT.DAT
+1 16 16 0 9.75 0 -1 0 7.5 0 0 0 0 9.75 rect.dat
+1 16 16 0 23.75 0 -1 0 7.5 0 0 0 0 0.25 rect.dat
+1 16 -16 0 9.75 0 1 0 7.5 0 0 0 0 9.75 rect.dat
+1 16 -16 0 23.75 0 1 0 7.5 0 0 0 0 0.25 rect.dat
 2 24 -16 -7.5 24 16 -7.5 24
 2 24 16 7.5 24 -16 7.5 24
 1 16 0 -7.5 7.5 3.5 0 0 0 1 0 0 0 3.5 4-4edge.dat

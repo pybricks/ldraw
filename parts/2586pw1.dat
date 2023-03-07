@@ -2,12 +2,13 @@
 0 Name: 2586pw1.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Wild West, Feather, Brave, Warrior, Native American
+0 !KEYWORDS Brave, Feather, Native American, Warrior, wild west
+
 0 !CMDLINE -c487
 
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
@@ -16,6 +17,7 @@
 0 !HISTORY 2014-12-06 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2015-02-09 [MagFors] Solved minor issues
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2586s01.dat
 4 4 -6.1 -27.6 -8 -6.4 -24.1 -8 -5.7 -23.1 -8 -5.3 -27.6 -8

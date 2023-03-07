@@ -2,13 +2,14 @@
 0 Name: axl2hol3.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Primitive UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 0 !HISTORY 2022-01-23 [MagFors] Reshaped axlehole
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 2 24 5.6023 0 2 5.5434 0 2.2961
 2 24 5.5434 0 2.2961 4.2427 0 4.2428

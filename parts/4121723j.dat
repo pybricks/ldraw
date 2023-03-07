@@ -2,13 +2,14 @@
 0 Name: 4121723j.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 5563, Racing Truck, Model Team
+0 !KEYWORDS Model Team, Racing Truck, Set 5563
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // Body
 
@@ -46,7 +47,6 @@
 4 0 -28 -0.25 7.5 -28 -0.25 -7.5 -27 -0.25 -8.5 -27 -0.25 8.5
 4 0 -27 -0.25 -8.5 -25.5 -0.25 -6 -25.5 -0.25 6 -27 -0.25 8.5
 4 0 25.5 -0.25 6 25.5 -0.25 -6 27 -0.25 -8.5 27 -0.25 8.5
-
 
 0 // White
 3 15 -4.2414 -0.25 -4.15 -25.5 -0.25 -6 -1.3945 -0.25 -4.15

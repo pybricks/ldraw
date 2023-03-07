@@ -2,13 +2,14 @@
 0 Name: 88068.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 7592, Buzz Lightyear, Toy Story
+0 !KEYWORDS Buzz Lightyear, set 7592, Toy Story
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 79 0 0 0 -4 0 4 0 0 0 0 4 4-4cylc.dat
 1 16 -79 0 0 0 4 0 4 0 0 0 0 4 4-4cylc.dat

@@ -2,11 +2,12 @@
 0 Name: s\3960s04.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 16 17.4548 2 13.3936 7.934 0 6.088 8.66 0 5 19.052 2 11
 4 16 23.4053 4 17.9596 17.4548 2 13.3936 19.052 2 11 25.547 4 14.75

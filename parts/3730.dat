@@ -1,8 +1,8 @@
 0 Plate  2 x  2 with Towball Socket
 0 Name: 3730.dat
-0 Author: Remco Braak
+0 Author: Remco Braak [remco1974]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-07 [tchang] Add BFC, build or rebuild some faces and edges, split 4 non planar faces, oriented studs, add some conditional lines (2008-03-14)
 0 !HISTORY 2009-05-29 [Eldar] Fix wrong color lines
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 2 24 -2 -3.75 -26 -2 -3.75 -37.5
 2 24 -2 -3.75 -37.5 -2 -6.82 -36.5
@@ -298,7 +299,7 @@
 4 16 11.31 8 -24 10.25 8 -21 7.78 11.78 -21 8.49 12.49 -24
 4 16 8.49 12.49 -24 7.78 11.78 -21 4.21 14.16 -21 5.19 14.82 -24
 3 16 5.19 14.82 -24 4.21 14.16 -21 2 14.82 -21
-0 
+0
 5 24 -4.21 -6.16 -36.5 -4.59 -7.09 -33.5 -2 -7.83 -33.5 -7.78 -3.78 -36.5
 5 24 -4.59 -7.09 -33.5 -2 -7.83 -33.5 -2 -6.82 -36.5 -4.59 -7.09 -24
 5 24 -7.78 -3.78 -36.5 -8.49 -4.49 -33.5 -4.59 -7.09 -33.5 -10.25 0 -36.5

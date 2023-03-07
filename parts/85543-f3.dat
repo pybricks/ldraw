@@ -2,7 +2,7 @@
 0 Name: 85543-f3.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP 1 4 0 -6 40 1 0 0 0 -1 0 0 0 -1 15108.dat
 0 !HELP 1 4 0 6 40 -1 0 0 0 1 0 0 0 -1 15108.dat
@@ -14,6 +14,7 @@
 0 !CATEGORY Technic
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 16 14.5 -20 0 2 0 0 0 0 -2 0 2 0 r04q1000.dat
 1 16 16.5 -20 0 2 0 0 0 40 0 0 0 2 4-4cyli.dat

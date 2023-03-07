@@ -2,11 +2,11 @@
 0 Name: 4511.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS train
+0 !KEYWORDS Train
 
 0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
 0 !HISTORY 2001-01-12 [cwdee] improved detail os ribs and added mounds, dimples and lugs
@@ -17,6 +17,7 @@
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 0 !HISTORY 2021-09-13 [GeraldLasser] Subfiled for Pattern
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4511s01.dat
 

@@ -2,10 +2,12 @@
 0 Name: 4150p40.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Castle, Forestman, bullseye
+
+0 !KEYWORDS bullseye, Castle, Forestman
+
 0 !CMDLINE -C14
 
 0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
@@ -15,6 +17,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2009-10-06 [anathema] BFC'd; optimised a bit
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4150s01.dat
 1 4 0 0 0 4 0 0 0 1 0 0 0 4 4-4disc.dat
@@ -41,4 +44,4 @@
 4 16 8.485 0 8.485 12.728 0 12.728 12.304 0 13.011 8.062 0 8.769
 4 16 8.769 0 8.062 13.011 0 12.304 12.728 0 12.728 8.485 0 8.485
 1 16 0 0 0 2 0 0 0 1 0 0 0 2 4-4ring9.dat
-0 
+0

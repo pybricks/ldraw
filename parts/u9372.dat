@@ -2,11 +2,11 @@
 0 Name: u9372.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS 4.5V, 12V
+0 !KEYWORDS 12V, 4.5V
 
 0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
 0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
@@ -16,6 +16,7 @@
 0 !HISTORY 2018-03-30 [MagFors] created simplified inside surface
 0 !HISTORY 2018-03-31 [PTadmin] Renamed from s/6216ma
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 52 0 0 0 1 0 -1 0 -1 0 0 stug4-1x3.dat
 0 BFC INVERTNEXT
@@ -203,7 +204,6 @@
 4 16 6 32 -40 -6 32 -40 -20 52 -40 20 52 -40
 4 16 -6 32 -40 -6 20 -40 -20 0 -40 -20 52 -40
 4 16 -6 20 -40 6 20 -40 20 0 -40 -20 0 -40
-
 
 0 // inside, simplified surface
 0 BFC INVERTNEXT

@@ -2,11 +2,12 @@
 0 Name: s\27149s03.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 16 -17.676 -25.48 -4.8499 -18.3 -25.4 0 -15.85 -15.858 0 -15.3095 -15.91 -4.1408
 4 16 -17.676 -25.48 -4.8499 -15.3095 -15.91 -4.1408 -13.7261 -16.075 -8 -15.8478 -25.7 -9.37

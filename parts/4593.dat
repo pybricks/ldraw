@@ -2,11 +2,12 @@
 0 Name: 4593.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS lever, small, controls, gear shift
-0 !KEYWORDS antenna, finger, nanofig leg, nanofig gun
+
+0 !KEYWORDS antenna, controls, finger, gear shift, lever, nanofig gun
+0 !KEYWORDS nanofig leg, Small
 
 0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
 0 !HISTORY 2003-06-08 [jriley] made BFC compliant...
@@ -17,6 +18,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2021-03-12 [MagFors] added hinge point
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 -2 0 0 0 4 0 4 0 0 0 0 4 4-4cylo.dat
 1 16 -2 0 0 0 1 0 1 0 0 0 0 1 4-4ring3.dat

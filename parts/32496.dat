@@ -2,11 +2,12 @@
 0 Name: 32496.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 -20 -40 0 0 -1 -1 0 0 0 1 0 connect.dat
 1 16 17.321 10 -40 0.866 0 0.5 0.5 0 -0.866 0 1 0 connect.dat
@@ -14,9 +15,9 @@
 1 16 0 -20.001 -40 4 0 0 0 0 -4 0 1 0 4-4disc.dat
 1 16 -17.321 10 -40 -2 0 -3.464 -3.464 0 2 0 1 0 4-4disc.dat
 1 16 17.321 10 -40 2 0 -3.464 -3.464 0 -2 0 1 0 4-4disc.dat
-1 16 0 -20 -35 -8 0 0 0 0 -8 0 -5 0 2-4CYLI.dat
-1 16 -17.321 10 -35 4 0 -6.928 6.928 0 4 0 -5 0 2-4CYLI.dat
-1 16 17.321 10 -35 4 0 6.928 -6.928 0 4 0 -5 0 2-4CYLI.dat
+1 16 0 -20 -35 -8 0 0 0 0 -8 0 -5 0 2-4cyli.dat
+1 16 -17.321 10 -35 4 0 -6.928 6.928 0 4 0 -5 0 2-4cyli.dat
+1 16 17.321 10 -35 4 0 6.928 -6.928 0 4 0 -5 0 2-4cyli.dat
 1 16 0 0 -35 -13 0 0 0 0 13 0 9 0 4-4cyli.dat
 0 BFC INVERTNEXT
 1 16 0 0 -37 -9 0 0 0 0 9 0 7 0 4-4cyli.dat
@@ -45,10 +46,10 @@
 1 16 0 0 -26 3.25 0 0 0 0 3.25 0 -1 0 4-4ring3.dat
 1 16 0 0 -40 11.5 0 0 0 0 11.5 0 1 0 4-4edge.dat
 0 BFC INVERTNEXT
-1 16 0 0 -40 1.643 0 0 0 0 1.643 0 2 0 4-4CON6.DAT
+1 16 0 0 -40 1.643 0 0 0 0 1.643 0 2 0 4-4con6.dat
 0 BFC INVERTNEXT
 1 16 0 0 -38.2 1 0 0 0 0 1 0 1.2 0 4-4con9.dat
-1 16 0 0 -30 -4 0 0 0 0 4 0 1 0 RING1.DAT
+1 16 0 0 -30 -4 0 0 0 0 4 0 1 0 ring1.dat
 1 16 0 0 -30 -1 0 0 0 0 1 0 1 0 4-4ring8.dat
 1 16 0 -20 -40 4 0 0 0 0 4 0 1 0 4-4edge.dat
 1 16 -17.321 10 -40 -2 0 3.464 -3.464 0 -2 0 1 0 4-4edge.dat

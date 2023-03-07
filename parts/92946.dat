@@ -2,7 +2,7 @@
 0 Name: 92946.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP This isn't an alias of 15672
 0 !HELP This part does NOT have the exact same angle as 3040b. 15672 does.
@@ -16,6 +16,7 @@
 0 !HISTORY 2017-01-06 [Steffen] added note which compares 92946 vs 15672
 0 !HISTORY 2021-11-14 [Holly-Wood] Fixed issue raised in the comment, rounded corner
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 2 24 -9.41 -15.41 -1.075 -8 -16 -.5
 2 24 -10 -14 -2.45 -9.41 -15.41 -1.075

@@ -2,11 +2,12 @@
 0 Name: s\48170s03.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug2a.dat
 1 16 0 0 0 0 0 20 0 1 0 20 0 0 rect2p.dat
@@ -32,14 +33,14 @@
 1 16 2 10 0 0 16 0 0 0 6 6 0 0 4-4cyli.dat
 0 BFC INVERTNEXT
 1 16 -2 10 0 0 -16 0 0 0 6 -6 0 0 4-4cyli.dat
-1 16 -2 10 0 0 1 0 0 0 -8 -8 0 0 2-4edge.DAT
-1 16 2 10 0 0 1 0 0 0 -8 -8 0 0 2-4edge.DAT
+1 16 -2 10 0 0 1 0 0 0 -8 -8 0 0 2-4edge.dat
+1 16 2 10 0 0 1 0 0 0 -8 -8 0 0 2-4edge.dat
 1 16 2 10 0 0 1 0 0 0 -2 -2 0 0 4-4ring3.dat
 1 16 2 10 0 0 1 0 0 0 8 8 0 0 2-4ndis.dat
 1 16 -2 10 0 0 -1 0 0 0 8 -8 0 0 2-4ndis.dat
 1 16 -2 10 0 0 -1 0 0 0 -2 2 0 0 4-4ring3.dat
 0 BFC INVERTNEXT
-1 16 -2 10 0 0 4 0 0 0 -8 -8 0 0 2-4cyli.DAT
+1 16 -2 10 0 0 4 0 0 0 -8 -8 0 0 2-4cyli.dat
 1 16 0 17 8 -2 0 0 0 0 7 0 1 0 rect3.dat
 1 16 0 17 -8 2 0 0 0 0 7 0 -1 0 rect3.dat
 1 16 -20 10 0 0 1 0 0 0 8 8 0 0 4-4ndis.dat
@@ -86,12 +87,12 @@
 1 16 0 20 0 2.2961 0 5.54328 0 -1 0 -5.54328 0 2.2961 3-8chrd.dat
 4 16 2 20 5.603 2.298 20 5.544 2.298 20 -5.544 2 20 -5.603
 4 16 -2 20 -5.603 -2.298 20 -5.544 -2.298 20 5.544 -2 20 5.603
-1 16 16 10 0 0 1 0 0 0 9 -9 0 0 2-4edge.DAT
+1 16 16 10 0 0 1 0 0 0 9 -9 0 0 2-4edge.dat
 1 16 16 10 0 0 1 0 0 0 9 -9 0 0 2-4ndis.dat
-1 16 -16 10 0 0 -1 0 0 0 9 9 0 0 2-4edge.DAT
+1 16 -16 10 0 0 -1 0 0 0 9 9 0 0 2-4edge.dat
 1 16 -16 10 0 0 -1 0 0 0 9 9 0 0 2-4ndis.dat
-1 16 -16 10 0 0 12 0 0 0 9 -9 0 0 2-4cyli.DAT
-1 16 16 10 0 0 -12 0 0 0 9 9 0 0 2-4cyli.DAT
+1 16 -16 10 0 0 12 0 0 0 9 -9 0 0 2-4cyli.dat
+1 16 16 10 0 0 -12 0 0 0 9 9 0 0 2-4cyli.dat
 2 24 4 4 -9 4 4 -9.5
 2 24 -4 4 -9 -4 4 -9.5
 2 24 -4 4 9 -4 4 9.5

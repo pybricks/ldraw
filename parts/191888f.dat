@@ -2,14 +2,15 @@
 0 Name: 191888f.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 7710, Locomotive, Engine, Train
+0 !KEYWORDS Engine, locomotive, set 7710, Train
 
 0 !HISTORY 2021-10-05 [RainbowDolphin] Mirrored pattern, added BFC NOCLIP
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 -.25 -10.5 -37 0 0 0 .25 0 0 0 -10.25 box4-12.dat
 4 16 16 0 20.75 37 0 -.25 -37 0 -.25 -16 0 20.75

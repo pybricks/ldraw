@@ -2,13 +2,14 @@
 0 Name: s\54094s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-09-10 {LEGO Universe Team} Original part shape
 0 !HISTORY 2010-09-17 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 3 16 45.824 0 -12.982 80.039 0 -9.475 62.992 -23.995 -10.657
 3 16 95.285 -24.035 -7.651 62.992 -23.995 -10.657 80.039 0 -9.475

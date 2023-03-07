@@ -2,17 +2,18 @@
 0 Name: t01i1250.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Primitive UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
+
 0 // Major Radius: 40
 0 // Tube(Minor) Radius: 5
 0 // Segments(Sweep): 16/16 = 1.00
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.1250 0 0  0 0 0.1250  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.1250 0 0 0 0 0.1250 0 1 0 4-4edge.dat
 
 4 16 0.875 0 0 0.8084 0 0.3349 0.8172 0.0478 0.3385 0.8845 0.0478 0
 4 16 0.8845 0.0478 0 0.8172 0.0478 0.3385 0.8422 0.0884 0.3489 0.9116 0.0884 0

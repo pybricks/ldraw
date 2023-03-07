@@ -2,13 +2,14 @@
 0 Name: s\32196s01.dat
 0 Author: Marc Klein [marckl]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2001-09-14 [marckl]  Created with stl2dat conversion tool
+0 !HISTORY 2001-09-14 [marckl] Created with stl2dat conversion tool
 0 !HISTORY 2013-03-22 [MagFors] recreated conditional lines
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 4 16 7.722 100.835 2.1004 6.5741 100.604 5.0276 24.6125 100.093 11.5285 25.1647 100.34 8.3865
 2 24 24.6125 100.093 11.5285 6.5741 100.604 5.0276

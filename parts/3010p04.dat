@@ -2,16 +2,17 @@
 0 Name: 3010p04.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2010-10-04 [tchang]  Add BFC, use subpart, replace rect by quad
+0 !HISTORY 2010-10-04 [tchang] Add BFC, use subpart, replace rect by quad
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2013-01-22 [Steffen] retitled to better match 3010p40.dat
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 4 0 -34 21 -10 -34 3 -10 -36 3 -10 -36 21 -10

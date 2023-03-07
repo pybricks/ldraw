@@ -2,11 +2,12 @@
 0 Name: 48\1-4rin70.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG 48_Primitive UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 4 16 70 0 0 71 0 0 70.3894 0 9.2655 69.398 0 9.135
 4 16 69.398 0 9.135 70.3894 0 9.2655 68.5789 0 18.3748 67.613 0 18.116

@@ -2,14 +2,16 @@
 0 Name: 98385.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Minifig Headwear
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2016-02-13 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 3 16 11.906 5.318 -8.603 10.366 8.101 -7.973 11.968 7.915 -8.112
 3 16 10.165 6.055 -8.238 10.366 8.101 -7.973 11.906 5.318 -8.603

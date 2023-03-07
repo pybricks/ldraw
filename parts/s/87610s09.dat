@@ -2,11 +2,12 @@
 0 Name: s\87610s09.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 5 24 0 22.074 -19.884 0 21.664 -15.624 3.992 21.585 -15.16 -3.992 21.585 -15.16
 0 // Seam Condlines Outside

@@ -2,11 +2,12 @@
 0 Name: s\44790s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 16 31.8 0 7.1 33.5 0 1.6 33.5 -44.3562 1.6 31.8 -43.5381 7.1
 4 16 33.5 0 1.6 34.6 0 -7.3 34.6 -45.034 -7.3 33.5 -44.3562 1.6

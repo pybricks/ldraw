@@ -2,18 +2,21 @@
 0 Name: 3004ph2.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Harry Potter, Hogwarts School of Witchcraft and Wizardry
-0 !KEYWORDS Slytherin House, Salazar Syltherin
-0 !KEYWORDS Coat of Arms
+
+0 !KEYWORDS Coat of Arms, Harry Potter
+0 !KEYWORDS Hogwarts School of Witchcraft and Wizardry, Salazar Syltherin
+0 !KEYWORDS Slytherin House
+
 0 !CMDLINE -c2
 
 0 !HISTORY 2009-07-01 [Eldar] Change color 258 to 288 and inline files
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 0 !HISTORY 2013-03-02 [MagFors] Changed colour 383 to 80 (printed silver)
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
 4 288 1.2 12.8 -10 1.1 12.4 -10 0.5 12.1 -10 0.8 12.9 -10

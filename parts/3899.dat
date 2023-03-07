@@ -2,12 +2,12 @@
 0 Name: 3899.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Town, mug, coffee, cocoa, tea, drink, utensil, cookware
+0 !KEYWORDS cocoa, Coffee, Cookware, drink, mug, tea, town, utensil
 
 0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
 0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
@@ -22,6 +22,7 @@
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 0 !HISTORY 2021-09-14 [GeraldLasser] Subfiled
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3899s01.dat
 

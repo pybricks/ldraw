@@ -2,12 +2,14 @@
 0 Name: 6296256ec01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS set 10271, FIAT, 500, Nuova, Cinquecento
+
+0 !KEYWORDS 500, Cinquecento, FIAT, Nuova, set 10271
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 3 0 5.8613 -13.2086 -1.3195 5.384 -13.3977 -.5494 4.7476 -13.1279 -1.648
 3 0 1.5772 -13.2157 -1.2903 1.6743 -13.4684 -.2616 .2343 -13.2394 -1.1939

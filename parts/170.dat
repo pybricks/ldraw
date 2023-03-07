@@ -2,16 +2,18 @@
 0 Name: 170.dat
 0 Author: Ross Crawford [rosco]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS set 872, 4.5V, 12V
+
+0 !KEYWORDS 12V, 4.5V, set 872
 
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-05-05 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-08-08 [MagFors] bfc'd, used more primitives
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 26 -40 6 0 0 0 0 6 0 1 0 4-4edge.dat
 0 BFC INVERTNEXT
@@ -37,7 +39,6 @@
 1 16 10 0 -10 1 0 0 0 1 0 0 0 1 stug2-3x1.dat
 1 16 -10 0 -10 1 0 0 0 1 0 0 0 1 stug2-3x1.dat
 1 16 0 0 -10 -20 0 0 0 1 0 0 0 -30 rect2p.dat
-
 
 2 24 24.6 8 20 22.3 5 20
 2 24 26.7 12 20 24.6 8 20
@@ -152,7 +153,6 @@
 4 16 -29 40 -40 -29 12 -40 -30.5 16 -40 -30.5 36 -40
 4 16 -30.5 36 -40 -30.5 16 -40 -31.5 20 -40 -31.5 32 -40
 4 16 -32 24 -40 -32 28 -40 -31.5 32 -40 -31.5 20 -40
-
 
 0 // faked internal surface
 2 24 22.3 47 -36 -22.3 47 -36

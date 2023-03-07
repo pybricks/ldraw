@@ -2,12 +2,12 @@
 0 Name: 3069bps6.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, Episode Two, Attack of the Clones, Obi-Wan Kenobi
-0 !KEYWORDS Kamino, Geonosis, avionics, navigation, astrogation, hyperspace
+0 !KEYWORDS astrogation, Attack of the Clones, avionics, Episode Two, Geonosis
+0 !KEYWORDS hyperspace, Kamino, navigation, Obi-Wan Kenobi, Star Wars
 
 0 !HISTORY 2003-11-07 [fwcain] fixed minor typo in Title...; added KEYWORDS...
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
@@ -16,11 +16,12 @@
 0 !HISTORY 2015-06-21 [MagFors] Inlined subfiles, reworked pattern
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
 
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
-1 0x2DC9150 -4.5 0 8.5 0 0 0.5 0 1 0 0.5 0 0 4-4disc.dat
-1 0x2DC9150 -2.25 0 5.5 0 0 0.5 0 1 0 0.5 0 0 4-4disc.dat
-1 0x2DC9150 -4.5 0 5.5 0 0 0.5 0 1 0 0.5 0 0 4-4disc.dat
-1 0x2DC9150 -4.5 0 2.5 0 0 0.5 0 1 0 0.5 0 0 4-4disc.dat
+1 0x2dc9150 -4.5 0 8.5 0 0 0.5 0 1 0 0.5 0 0 4-4disc.dat
+1 0x2dc9150 -2.25 0 5.5 0 0 0.5 0 1 0 0.5 0 0 4-4disc.dat
+1 0x2dc9150 -4.5 0 5.5 0 0 0.5 0 1 0 0.5 0 0 4-4disc.dat
+1 0x2dc9150 -4.5 0 2.5 0 0 0.5 0 1 0 0.5 0 0 4-4disc.dat
 1 4 -10.5 0 0 0 0 0.25 0 1 0 -0.25 0 0 4-4disc.dat
 1 4 -10.5 0 2.5 0 0 0.25 0 1 0 -0.25 0 0 4-4disc.dat
 1 4 -10.5 0 -2.5 0 0 0.25 0 1 0 -0.25 0 0 4-4disc.dat

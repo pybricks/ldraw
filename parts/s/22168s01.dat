@@ -2,11 +2,12 @@
 0 Name: s\22168s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 -36.6393 0 0 -1 -1 0 0 0 32.79286 0 u9392.dat
 1 16 0 -0.0454 -46.2821 0 0 -1 -0.99999 0.04814 0 0.00463 10.39775 0 u9392.dat

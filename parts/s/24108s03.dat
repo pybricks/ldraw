@@ -2,13 +2,14 @@
 0 Name: s\24108s03.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Vertex are along 48\4-4edge radius 1
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // Primitives
 1 16 -.433 .5 .75 0 1 .433 -.5 0 0 0 0 .25 rect3.dat

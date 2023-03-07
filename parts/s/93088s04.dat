@@ -2,13 +2,14 @@
 0 Name: s\93088s04.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2020-09-09 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 3 16 -18.84 -30.688 -15.676 -19.416 -31.957 -14.57 -20.149 -29.335 -12.523
 3 16 -19.772 -31.351 -11.888 -20.149 -29.335 -12.523 -19.416 -31.957 -14.57

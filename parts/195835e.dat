@@ -2,13 +2,14 @@
 0 Name: 195835e.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Fabuland, Set 3670
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 0 -8.4 -0.25 20.4 -8.3 -0.25 19.6 -3.7 -0.25 19.8 -3.7 -0.25 20.6
 4 0 -3.7 -0.25 20.6 -3.7 -0.25 19.8 0.3 -0.25 19.6 0.3 -0.25 20.3

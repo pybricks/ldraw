@@ -2,7 +2,7 @@
 0 Name: 48\t12o0349.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG 48_Primitive UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,11 +10,12 @@
 0 !HISTORY 2013-09-27 [MMR1988] Recreated to fix condlines
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
+
 0 // Major Radius: 86
 0 // Tube(Minor) Radius: 3
 0 // Segments(Sweep): 4/48 = 0.0833
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.0349 0 0  0 0 0.0349  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.0349 0 0 0 0 0.0349 0 1 0 4-4edge.dat
 
 4 16 1 0.0349 0 0.9914 0.0349 0.1305 0.9959 0.0346 0.1311 1.0046 0.0346 0
 4 16 1.0046 0.0346 0 0.9959 0.0346 0.1311 1.0004 0.0337 0.1317 1.009 0.0337 0

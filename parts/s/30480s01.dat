@@ -2,13 +2,14 @@
 0 Name: s\30480s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 0 !HISTORY 2015-01-26 [Gargan] Removed eye for patterning
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 2 24 3.3 -3.9 7.5 1.7 -3.9 8.1
 2 24 3.3 -3.9 7.5 4.8 -3.9 6.8
@@ -1530,7 +1531,6 @@
 2 24 1.325 -6.763 -12.325 1.586 -6.763 -12.286
 2 24 1.586 -6.763 -12.286 2 -6.763 -12.143
 2 24 0 -6.763 -12.4 0.62 -6.763 -12.4
-
 
 4 16 2 -6.2 -12.143 2 -6.763 -12.143 1.586 -6.763 -12.286 1.586 -6.2 -12.286
 4 16 1.586 -6.2 -12.286 1.586 -6.763 -12.286 1.325 -6.763 -12.325 1.325 -6.2 -12.325

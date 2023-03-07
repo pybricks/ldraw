@@ -2,11 +2,12 @@
 0 Name: 48\1-4ring46.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG 48_Primitive UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 4 16 47 0 0 46.5958 0 6.1335 45.6044 0 6.003 46 0 0
 4 16 46.5958 0 6.1335 45.3973 0 12.1636 44.4314 0 11.9048 45.6044 0 6.003

@@ -2,11 +2,12 @@
 0 Name: u9285.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 4 16 11.75 34.5 -0.75 -11.75 34.5 -0.75 -12.5 34.5 0 12.5 34.5 0
 4 16 -12.5 34.5 0 -11.75 34.5 -0.75 -11.75 34.5 -4 -12.5 34.5 -4
@@ -80,7 +81,6 @@
 3 16 11.75 -4.75 0 8.375 -4.75 12.25 10.375 -4.75 12.25
 4 16 10.375 -4.75 12.25 10.375 -4.75 14.25 11.75 -4.75 19.25 11.75 -4.75 0
 3 16 11.75 -4.75 19.25 10.375 -4.75 14.25 10.375 -4.75 16.25
-
 
 1 16 0 25.25 0 0 0 4 4 0 0 0 1 0 4-4edge.dat
 1 16 0 25.25 0 0 0 1 1 0 0 0 1.5 0 4-4con3.dat

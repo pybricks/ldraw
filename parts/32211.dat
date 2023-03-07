@@ -2,12 +2,13 @@
 0 Name: 32211.dat
 0 Author: Thomas Woelk [t.woelk]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2005-07-17 [mikeheide] Added details and BFC'ed
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 2 24 10 10 10 10 -10 10
 0 //

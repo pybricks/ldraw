@@ -2,11 +2,12 @@
 0 Name: s\3009ptgs01.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Subpart UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 0 // TAX = 69.2 x 11
 1 16 -43.85 7.5 -10 1 0 0 0 1 0 0 0 1 s\3009ptgs02.dat

@@ -2,16 +2,18 @@
 0 Name: 3144.dat
 0 Author: Jaco van der Molen [Jaco]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS transmission, Classic Space, 928
+
+0 !KEYWORDS 928, Classic Space, transmission
 
 0 !HISTORY 1998-01-12 [PTadmin] Official Update 1998-01
 0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [Holly-Wood] Complete re-write (2008-05-11)
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 0 // Subpart Antenna 5H with Side Spokes - Base
 

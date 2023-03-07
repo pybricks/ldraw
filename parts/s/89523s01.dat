@@ -2,11 +2,12 @@
 0 Name: s\89523s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 16 100 8 40 96 8 38.36 91.44 8 42.92 94.26 8 45.74
 4 16 40 8 100 38.36 8 96 -38.36 8 96 -40 8 100

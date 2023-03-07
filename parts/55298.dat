@@ -2,12 +2,12 @@
 0 Name: 55298.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS tools, flat-blade
+0 !KEYWORDS flat-blade, tools
 
 0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
 0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
@@ -17,6 +17,7 @@
 0 !HISTORY 2010-03-17 [PTadmin] Renamed from 6246a
 0 !HISTORY 2010-03-20 [Philo] BFCed, Reworked blade, put origin in handle
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 1 16 0 -10 0 4 0 0 0 4 0 0 0 4 4-4edge.dat
 1 16 0 -10 0 2 0 0 0 -3 0 0 0 2 4-4con1.dat

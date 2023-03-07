@@ -2,7 +2,7 @@
 0 Name: 505.dat
 0 Author: Niels Karsdorp [nielsk]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2009-01-28 [mikeheide] rotated 90 degree
 0 !HISTORY 2009-02-01 [mikeheide] replaced 2-4edge.dat with 1-4edge.dat
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 0 //--Outer Edges
 2 24 -3.25 -9 0 -3.25 -9 -140

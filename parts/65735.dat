@@ -2,11 +2,12 @@
 0 Name: 65735.dat
 0 Author: Yu Zhang [ishkafel]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 0 // base
 4 16 90 92 -6 -90 92 -6 -96 92 0 96 92 0

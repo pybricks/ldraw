@@ -2,19 +2,20 @@
 0 Name: 6123.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS minifig weapon, poleaxe, castle, glaive, guissarme, pike, greataxe
+0 !KEYWORDS Castle, glaive, greataxe, guissarme, minifig weapon, pike, poleaxe
 
 0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
 0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-11-21 [Philo]   BFCed with Windz, minor improvements
+0 !HISTORY 2012-11-21 [Philo] BFCed with Windz, minor improvements
 0 !HISTORY 2012-11-27 [MagFors] Removed a t-junction and two edge-lines
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 0 // shaft
 1 16 0 70 0 4 0 0 0 -140 0 0 0 4 4-4cylc.dat
@@ -193,7 +194,7 @@
 3 16 2 -56.376 -27 2 -61 -18 2 -61.566 -23.532
 4 16 -2 -84.19 -23.532 -2 -84 -18 -2 -74 -18 -2 -73.81 -23.532
 4 16 2 -74 -18 2 -84 -18 2 -84.19 -23.532 2 -73.81 -23.532
-3 16 -2 -73.81 -23.532  -2 -79 -27 -2 -84.19 -23.532
+3 16 -2 -73.81 -23.532 -2 -79 -27 -2 -84.19 -23.532
 3 16 2 -79 -27 2 -73.81 -23.532 2 -84.19 -23.532
 4 16 -2 -84 -18 -2 -84.19 -23.532 -2 -90.312 -22.315 -2 -97 -18
 4 16 2 -90.312 -22.315 2 -84.19 -23.532 2 -84 -18 2 -97 -18

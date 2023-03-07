@@ -2,11 +2,11 @@
 0 Name: 3961.dat
 0 Author: Lutz Uhlmann [El-Lutzo]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Space, Radar Dish, Round
+0 !KEYWORDS Radar Dish, Round, Space
 
 0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
 0 !HISTORY 2003-06-08 [jriley] BFC compliant
@@ -19,13 +19,13 @@
 0 !HISTORY 2020-07-07 [ejboer] Moved stud group to main file, updated description, added condlines
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3961s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat
 
 1 16 0 3 0 20 0 0 0 -3 0 0 0 20 48\4-4con1.dat
 1 16 0 9 0 20 0 0 0 -6 0 0 0 20 48\4-4con2.dat
 1 16 0 16 0 20 0 0 0 -7 0 0 0 20 48\4-4con3.dat
-
 
 5 24 -38.636 3 10.352 -36.956 3 15.308 -57.954 9 15.528 -18.478 0 7.654
 5 24 -7.83 9 -59.484 0 9 -60 -5.22 3 -39.656 0 16 -80

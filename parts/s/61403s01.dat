@@ -2,16 +2,14 @@
 0 Name: s\61403s01.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
+
 0 // Created with CATIA V5 as STL file, converted with stl2dat to DAT file and finished with MLCAD
-
-
-
 
 3 16 0 70.5 -3.5 7.8935 70.0567 -3.5 0 61.5 -3.5
 3 16 15.6877 68.7324 -3.5 0 61.5 -3.5 7.8935 70.0567 -3.5

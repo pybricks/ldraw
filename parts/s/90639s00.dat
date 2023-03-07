@@ -2,11 +2,12 @@
 0 Name: s\90639s00.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 3 16 -19.596 34.021 -21.439 -18.375 40.746 -21.084 0 38.061 -26.444
 4 16 -18.375 40.746 -21.084 -12.025 45.003 -22.384 -5.017 48.063 -23.981 0 38.061 -26.444

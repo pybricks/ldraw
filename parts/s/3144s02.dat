@@ -2,11 +2,12 @@
 0 Name: s\3144s02.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 2 24 0.493 -98.744 -1.19 0 -98.772 -1.148
 2 24 0.814 -98.696 -1.262 0.493 -98.744 -1.19

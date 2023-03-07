@@ -2,11 +2,12 @@
 0 Name: s\30370s01.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 3 16 0 5.131 -15.519 0 5.461 -13.106 4.826 5.131 -15.519
 3 16 0 5.461 -13.106 10.262 5.461 -13.437 4.826 5.131 -15.519
@@ -1122,4 +1123,4 @@
 2 24 3.15 -0.127 -17.399 0 -0.127 -17.399
 2 24 0 0.787 -18.415 3.607 0.787 -18.415
 2 24 0 -4 -8 3.06 -4 -7.39
-2 24 0 -4 8 3.06 -4 7.39 
+2 24 0 -4 8 3.06 -4 7.39

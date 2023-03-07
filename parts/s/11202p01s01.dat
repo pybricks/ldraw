@@ -2,11 +2,12 @@
 0 Name: s\11202p01s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 3 16 5.6524 -2.7232 13.8417 5.6837 -4.0258 13.7026 9.322 -2.8728 12.9857
 3 16 2.861 -3.8372 12.5452 5.6837 -4.0258 13.7026 5.6524 -2.7232 13.8417

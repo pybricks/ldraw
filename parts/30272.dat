@@ -2,14 +2,16 @@
 0 Name: 30272.dat
 0 Author: Derrick Chiu [LordAdmiral]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS gate, castle, knights
+
+0 !KEYWORDS Castle, Gate, Knights
 
 0 !HISTORY 2006-07-18 [WilliamH] inlined box3u6p and box3u7a
 0 !HISTORY 2009-09-20 [Eldar] Add missing edges, Use rectifier
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 0 144 -16 80 0 0 0 0 -80 0 1 0 48\2-4edge.dat
 1 16 0 144 -20 80 0 0 0 0 -80 0 1 0 48\2-4edge.dat
@@ -360,7 +362,7 @@
 4 16 -120 144 -20 -116 144 -16 -104 144 -16 -100 144 -20
 4 16 -100 144 -20 -104 144 -16 -104 144 16 -100 144 20
 4 16 -100 144 20 -104 144 16 -116 144 16 -120 144 20
-1 16 -110 144 0 0 0 -10 0 -24 0 20 0 0 box4-4A.dat
+1 16 -110 144 0 0 0 -10 0 -24 0 20 0 0 box4-4a.dat
 1 16 -110 120 10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -110 120 -10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 110 124 0 0 0 1 0 -5 0 1 0 0 stud3.dat
@@ -370,7 +372,7 @@
 4 16 100 144 -20 104 144 -16 116 144 -16 120 144 -20
 4 16 120 144 -20 116 144 -16 116 144 16 120 144 20
 4 16 120 144 20 116 144 16 104 144 16 100 144 20
-1 16 110 144 0 0 0 10 0 -24 0 -20 0 0 box4-4A.dat
+1 16 110 144 0 0 0 10 0 -24 0 -20 0 0 box4-4a.dat
 1 16 110 120 10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 110 120 -10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -100 60 0 0 1 0 -60 0 0 0 0 20 rect.dat

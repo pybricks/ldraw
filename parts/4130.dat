@@ -2,16 +2,17 @@
 0 Name: 4130.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2004-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
-0 !HELP Door  2 x  4 x  5 placement
-0 !HELP 1 4 -28 8 -14 1 0 0  0 1 0  0 0 1  4131.dat
+0 !HELP Door 2 x 4 x 5 placement
+0 !HELP 1 4 -28 8 -14 1 0 0 0 1 0 0 0 1 4131.dat
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 1 16 20 116 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 116 0 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -33,7 +34,7 @@
 1 16 36 58 2 0 1 0 54 0 0 0 0 -18 rect.dat
 1 16 -32 60 -18 0 -1 0 52 0 0 0 0 2 rect.dat
 1 16 32 60 -18 0 1 0 52 0 0 0 0 -2 rect.dat
-2 24  36 4 20 -36 4 20
+2 24 36 4 20 -36 4 20
 2 24 36 112 20 -36 112 20
 2 24 -36 112 20 -36 112 -16
 2 24 -32 112 -20 32 112 -20

@@ -2,13 +2,14 @@
 0 Name: 47507.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Cockpit, Cabin Base
+0 !KEYWORDS Cabin Base, Cockpit
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 50 0 0 0 0 1 0 1 0 -1 0 0 stug-1x6.dat
 1 16 -50 0 0 0 0 1 0 1 0 -1 0 0 stug-1x6.dat
@@ -433,6 +434,6 @@
 4 16 -8 44 -36 -32 44 -36 -32 44 36 -8 44 36
 1 16 -20 44 0 0 0 1 0 -1 0 1 0 0 stug4-1x3.dat
 1 16 20 44 0 0 0 1 0 -1 0 1 0 0 stug4-1x3.dat
-1 16 0 44 20 0 0 1 0 -1 0 1 0 0 STUD4H.dat
-1 16 0 44 0 0 0 1 0 -1 0 1 0 0 STUD4H.dat
-1 16 0 44 -20 0 0 1 0 -1 0 1 0 0 STUD4H.dat
+1 16 0 44 20 0 0 1 0 -1 0 1 0 0 stud4h.dat
+1 16 0 44 0 0 0 1 0 -1 0 1 0 0 stud4h.dat
+1 16 0 44 -20 0 0 1 0 -1 0 1 0 0 stud4h.dat

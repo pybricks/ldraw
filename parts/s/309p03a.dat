@@ -2,13 +2,14 @@
 0 Name: s\309p03a.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-08 [mikeheide] Deleted keywords; moved some portions from subfile
 0 !HISTORY 2010-04-10 [mikeheide] corrected bad quads from subpart
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\309s01.dat
 4 15 178 0 -320 178 0 -302 168 0 -298 168 0 -320
@@ -33,10 +34,10 @@
 1 7 42 0 -142 0 0 30 0 1 0 -30 0 0 48\1-4ndis.dat
 4 16 42 0 -162 42 0 -142 38 0 -142 38 0 -162
 4 16 62 0 -143 62 0 142 18 0 142 18 0 -143
-1 16 42 0 -142 0 0 20 0 1 0 -20 0 0 48\1-4disc.DAT
-1 16 38 0 -142 -20 0 0 0 1 0 0 0 -20 48\1-4disc.DAT
-1 16 38 0 142 0 0 -20 0 1 0 20 0 0 48\1-4disc.DAT
-1 16 42 0 142 20 0 0 0 1 0 0 0 20 48\1-4disc.DAT
+1 16 42 0 -142 0 0 20 0 1 0 -20 0 0 48\1-4disc.dat
+1 16 38 0 -142 -20 0 0 0 1 0 0 0 -20 48\1-4disc.dat
+1 16 38 0 142 0 0 -20 0 1 0 20 0 0 48\1-4disc.dat
+1 16 42 0 142 20 0 0 0 1 0 0 0 20 48\1-4disc.dat
 4 15 87.2 0 40 87.2 0 -40 102.2 0 -40 102.2 0 40
 4 15 117.4 0 40 117.4 0 -40 132.4 0 -40 132.4 0 40
 4 15 147.6 0 40 147.6 0 -40 162.6 0 -40 162.6 0 40

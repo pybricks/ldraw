@@ -2,13 +2,14 @@
 0 Name: 60621.dat
 0 Author: El'dar Ismagilov [Eldar]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2008-12-20 {LEGO Universe Team} Original part shape
 0 !HISTORY 2009-07-07 [Eldar] File preparation for LDraw Parts Tracker
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 42 8.5 0 -4 0 0 0 123 0 0 0 -4 4-4cylo.dat
 1 16 42 60 0 2.82843 0 2.82843 0 1 0 -2.82843 0 2.82843 1-4edge.dat

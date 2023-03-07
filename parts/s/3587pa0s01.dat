@@ -2,12 +2,13 @@
 0 Name: s\3587pa0s01.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-20 [cwdee] Re-order to investigate rendering issue
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 4 0 -31.467 39.474 0 -31.617 39.8 0 -35.367 39.8 0 -35.667 38.984
 4 4 0 -31.467 39.31 0 -31.467 39.474 0 -35.667 38.984 0 -35.967 38.168

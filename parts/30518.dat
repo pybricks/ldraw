@@ -2,16 +2,17 @@
 0 Name: 30518.dat
 0 Author: Ross Crawford [rosco]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Truss, Beam
+0 !KEYWORDS Beam, Truss
 
 0 !HISTORY 2004-11-07 [guyvivan] Replace axleho11.dat with axl2hole, axl2hol3 and axl2hol2.dat
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 0 !HISTORY 2022-01-30 [MagFors] Corrected axleholes, T-junctions and bottom stud cavities
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 150 4 10 1 0 0 0 2 0 0 0 1 stud2.dat
 1 16 130 4 10 1 0 0 0 2 0 0 0 1 stud2.dat

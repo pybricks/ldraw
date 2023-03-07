@@ -2,13 +2,14 @@
 0 Name: 2700.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Figure
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 4 16 -6 -7.197 -26 -3.636 -8.777 -26 -3.636 -8.777 -2.5 -6 -7.197 -2.5
 5 24 -3.636 -8.777 -26 -3.636 -8.777 -2.5 -6.718 -6.718 -26 0 -10.283 -26
@@ -75,7 +76,7 @@
 1 16 0 -9 0 2.5 0 0 0 -0.5 0 0 0 -2.5 1-4cyls.dat
 0 BFC INVERTNEXT
 1 16 0 -9 0 -2.5 0 0 0 -0.5 0 0 0 -2.5 1-4cyls.dat
-1 16 0 -9 0 2.5 0 0 0 5 0 0 0 2.5 2-4edge.DAT
+1 16 0 -9 0 2.5 0 0 0 5 0 0 0 2.5 2-4edge.dat
 1 16 0 -4 0 2.5 0 0 0 5 0 0 0 2.5 4-4edge.dat
 1 16 0 -4 0 -2.5 0 0 0 -1 0 0 0 -2.5 2-4ndis.dat
 1 16 0 -4 0 8.54 0 0 0 5 0 0 0 8.54 5-8edge.dat
@@ -174,7 +175,7 @@
 1 16 0 9 0 2.5 0 0 0 0.5 0 0 0 -2.5 1-4cyls.dat
 0 BFC INVERTNEXT
 1 16 0 9 0 -2.5 0 0 0 0.5 0 0 0 -2.5 1-4cyls.dat
-1 16 0 9 0 2.5 0 0 0 -5 0 0 0 2.5 2-4edge.DAT
+1 16 0 9 0 2.5 0 0 0 -5 0 0 0 2.5 2-4edge.dat
 1 16 0 4 0 2.5 0 0 0 -5 0 0 0 2.5 4-4edge.dat
 1 16 0 4 0 -2.5 0 0 0 1 0 0 0 -2.5 2-4ndis.dat
 1 16 0 4 0 8.54 0 0 0 -5 0 0 0 8.54 5-8edge.dat
@@ -221,7 +222,7 @@
 1 16 0 0 -26 -3.63549 0 8.77686 8.77686 0 3.63549 0 -22.5 0 5-8edge.dat
 1 16 0 0 -26 -5.97112 0 5.97112 -5.97112 0 -5.97112 0 1 0 3-4edge.dat
 1 16 0 0 -26 0.40394 0 -0.97521 0.97521 0 0.40394 0 1 0 1-8ring8.dat
-1 16 0 0 -26 -0.40394 0 0.97521 -0.97521 0 -0.40394 0 1 0 2-4RING8.DAT
+1 16 0 0 -26 -0.40394 0 0.97521 -0.97521 0 -0.40394 0 1 0 2-4ring8.dat
 0 BFC INVERTNEXT
 1 16 0 0 -26 2.98556 0 2.98556 -2.98556 0 2.98556 0 4.5 0 2-4con1.dat
 0 BFC INVERTNEXT

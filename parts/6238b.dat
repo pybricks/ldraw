@@ -2,11 +2,12 @@
 0 Name: 6238b.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 30 24 -30 6 0 0 0 1 0 0 0 -6 4-4edge.dat
 1 16 -30 24 -30 -6 0 0 0 1 0 0 0 -6 4-4edge.dat
@@ -86,10 +87,10 @@
 4 16 -30 4 -13 -30 4 0 -36 4 0 -36 4 -13
 1 16 30 0 -10 10 0 0 0 1 0 0 0 -10 1-4disc.dat
 1 16 -30 0 -10 -10 0 0 0 1 0 0 0 -10 1-4disc.dat
-1 16 -30 24 -30 -2 0 0 0 -1 0 0 0 -2 1-4RING3.DAT
-1 16 -30 24 -30 -2 0 0 0 -1 0 0 0 -2 1-4RING4.DAT
-1 16 30 24 -30 2 0 0 0 -1 0 0 0 -2 1-4RING3.DAT
-1 16 30 24 -30 2 0 0 0 -1 0 0 0 -2 1-4RING4.DAT
+1 16 -30 24 -30 -2 0 0 0 -1 0 0 0 -2 1-4ring3.dat
+1 16 -30 24 -30 -2 0 0 0 -1 0 0 0 -2 1-4ring4.dat
+1 16 30 24 -30 2 0 0 0 -1 0 0 0 -2 1-4ring3.dat
+1 16 30 24 -30 2 0 0 0 -1 0 0 0 -2 1-4ring4.dat
 0 BFC INVERTNEXT
 1 16 30 4 -13 6 0 0 0 16 0 0 -17 -6 1-4cyli.dat
 0 BFC INVERTNEXT

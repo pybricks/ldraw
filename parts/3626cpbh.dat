@@ -2,13 +2,14 @@
 0 Name: 3626cpbh.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Tony Stark, Iron Man, Armoured Suit Mark XLII
+0 !KEYWORDS Armoured Suit Mark XLII, Iron Man, Tony Stark
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 -9.1924 0 -9.1924 0 13 0 -9.1924 0 9.1924 1-4cyli.dat

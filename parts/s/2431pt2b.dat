@@ -2,7 +2,7 @@
 0 Name: s\2431pt2b.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Use in conjunction with s\2431pt2a.dat & s\2431pt2c.dat
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 0 !HISTORY 2021-02-25 [Sirio] Removed overlapping
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 0 // Primitives
 1 16 -254 0 0 8 0 0 0 1 0 0 0 8 4-4rin10.dat
@@ -82,7 +83,7 @@
 3 16 -86 0 9 -86 0 7 -78.99872 0 7
 3 16 -86 0 15 -86 0 9 -78.99872 0 7
 3 16 -86 0 15 -78.99872 0 7 -72.52896 0 5.3258
-4 16 -57.7157 0 6.2132 -86 0 15 -72.52896 0 5.3258 -66.0592 0 3.6516 
+4 16 -57.7157 0 6.2132 -86 0 15 -72.52896 0 5.3258 -66.0592 0 3.6516
 3 16 -57.7157 0 6.2132 -66.0592 0 3.6516 -61.11008 0 .5562
 3 16 -57.7157 0 6.2132 -61.11008 0 .5562 -56.15744 0 -2.537
 4 16 -57.7157 0 6.2132 -56.15744 0 -2.537 -53.47872 0 -6.5806 -50.2991 0 -6.581

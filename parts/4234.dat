@@ -2,7 +2,7 @@
 0 Name: 4234.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP 45 LDU of Key is engaged in the Motor Wind-Up u9236c03 part
 
@@ -11,10 +11,11 @@
 0 !CATEGORY Vehicle
 
 0 !HISTORY 2009-01-27 [mikeheide] delete four unnecessary edgelines.
-0 !HISTORY 2009-04-09 [tchang]    Rebuild junction, hexagonal hole
-0 !HISTORY 2009-09-03 [PTadmin]   Official Update 2009-02
-0 !HISTORY 2013-08-29 [cwdee]     Updated description and category
+0 !HISTORY 2009-04-09 [tchang] Rebuild junction, hexagonal hole
+0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2013-08-29 [cwdee] Updated description and category
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 20 0 0 0 -40 0 -4 0 0 0 0 20 box4o8a.dat
 1 16 0 -4 0 1 0 0 0 1 0 0 0 1 stug2-2x2.dat

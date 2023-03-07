@@ -2,10 +2,11 @@
 0 Name: 973p39.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Pirates, coat, buttons, belt, merchant, gentleman, squire
+
+0 !KEYWORDS belt, buttons, coat, gentleman, merchant, Pirates, squire
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
 0 !HISTORY 2002-08-21 [fwcain] Separated DAT code for dithered color (was Color-19) into subfile
@@ -14,6 +15,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-04-08 [BlackBrick89] Colour cleanup;BFCed;Inlined subfiles
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10

@@ -2,7 +2,7 @@
 0 Name: 4474p61.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-08-27 [MagFors] bfc'd, used subpart
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4474s01.dat
 
@@ -72,7 +73,6 @@
 1 16 30 -4 -9 -2 0 0 0 1 0 0 0 2 1-4ndis.dat
 1 16 33 -4 -29 2 0 0 0 1 0 0 0 -2 1-4ndis.dat
 1 16 33 -4 -9 2 0 0 0 1 0 0 0 2 1-4ndis.dat
-
 
 4 0 -0.7654 -4 -17.1522 -1.4142 -4 -17.5858 -0.5 -4 -18.5 -0.5 -4 -17.25
 4 0 -0.5 -4 -19.5 -1.4142 -4 -20.4142 -0.7654 -4 -20.8478 -0.5 -4 -20.75

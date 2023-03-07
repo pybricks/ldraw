@@ -2,16 +2,17 @@
 0 Name: 15526.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Arm position: x=+/-13.5, y=8, z=0
 0 !HELP Arm angle: +/-3.576 degrees
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Maggie, Simpson, Set 71006, Set 6059283
+0 !KEYWORDS Maggie, Set 6059283, Set 71006, Simpson
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 4 16 20 48 -8 16 48 -7 16 48 7 20 48 7
 4 16 15.8 48 -12.2 16 48 -7 20 48 -8 18.1 48 -10.6

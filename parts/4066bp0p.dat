@@ -2,14 +2,15 @@
 0 Name: 4066bp0p.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Living Room, Set 2642, bricklink 4066pb291
+0 !KEYWORDS bricklink 4066pb291, Living Room, Set 2642
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 4 16 -7.25 25 -20 -10.02 23.85 -20 -10.25 25 -20 -10.02 26.15 -20

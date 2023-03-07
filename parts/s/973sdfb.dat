@@ -2,13 +2,14 @@
 0 Name: s\973sdfb.dat
 0 Author: Larry Pieniazek [lar]
 0 !LDRAW_ORG Subpart UPDATE 2004-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
 0 !HISTORY 2007-09-14 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 3 16 -6.9782 8.3877 -10 -7.9 9.05 -10 -8.35 7.45 -10
 3 16 -7.9 9.05 -10 -6.9782 8.3877 -10 -7.1 9 -10

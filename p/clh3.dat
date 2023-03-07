@@ -2,7 +2,7 @@
 0 Name: clh3.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Primitive UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP To use rotate accordingly and place on end of arm.
 
@@ -13,9 +13,10 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-02-16 [Philo] Changed to CCW, fixed gaps, condlines
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-0 !HISTORY 2021-12-30 [MMR1988] Changed bottom triangulation and edges to avoid surface bleed-in 
+0 !HISTORY 2021-12-30 [MMR1988] Changed bottom triangulation and edges to avoid surface bleed-in
 0 !HISTORY 2022-03-02 [GeraldLasser] Change to 8 Prims
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 7.1 -7.24 0 0 -3.48 1.1 -1 0 7.24 0 0 rect1.dat
 1 16 3.48 7.68 0 0.52 0 0 0 0 0.52 0 1 0 8\1-4edge.dat

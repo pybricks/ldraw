@@ -2,7 +2,7 @@
 0 Name: 15071.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Angle of the handle is 22.5 degrees
 0 !HELP The base of the handle is at x=0 y=2.8284 z=1.1716
@@ -11,6 +11,7 @@
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 1 16 0 -8 -10 0 0 -10 0 -8 0 20 0 0 box0.dat
 4 16 -10 0 10 -6 0 -10 -6 0 -26 -10 0 -30

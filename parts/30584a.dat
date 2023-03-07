@@ -2,11 +2,12 @@
 0 Name: 30584a.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 10 0 20 0 0 1 0 1 0 -1 0 0 stud2a.dat
 1 16 30 0 20 0 0 1 0 1 0 -1 0 0 stud2a.dat
@@ -86,7 +87,6 @@
 2 24 119 48 240 99 48 240
 2 24 -119 48 150 -119 48 240
 2 24 -119 48 240 -99 48 240
-
 
 2 24 108.822 11 130 108.321 8.417 135.742
 2 24 108.321 8.417 135.742 105.25 2 150

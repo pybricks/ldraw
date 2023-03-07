@@ -2,17 +2,19 @@
 0 Name: 58247.dat
 0 Author: Christopher Bulliner [CMB27]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Barrel angle: 12 degrees
 
 0 BFC CERTIFY CW
+
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS weapon, firearm, star wars, clone trooper, storm trooper
+0 !KEYWORDS Clone Trooper, firearm, Star Wars, storm trooper, Weapon
 
 0 !HISTORY 2010-08-08 [Philo] Changed origin/orientation
 0 !HISTORY 2010-08-08 [MagFors] Removed T-junctions, new edgeline around handle
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 4 16 4 -15.966 13.793 4 -8.14 12.129 4 -12.592 0.807 4 -16.504 1.639
 4 16 -1.5 -19.5 -2.836 1.5 -19.5 -2.836 4 -20.54 -7.727 1 -21.579 -12.617
@@ -36,7 +38,7 @@
 1 16 0 -22.449 -35.946 4 0 0 0 3.32659 -3.91259 0 15.6504 0.83165 4-4cyli.dat
 1 16 0 -19.122 -20.296 4 0 0 0 3.32659 -3.91259 0 15.6504 0.83165 4-4ndis.dat
 1 16 0 -26.201 -5.501 2 0 0 0 2.49494 -1.9563 0 11.7378 0.41582 4-4cyli.dat
-1 16 0 -21.627 16.018 -2 0 0 0 -2.07912 -1.9563 0 -9.78148 0.41582 4-4CON1.DAT
+1 16 0 -21.627 16.018 -2 0 0 0 -2.07912 -1.9563 0 -9.78148 0.41582 4-4con1.dat
 1 16 0 -22.449 -35.946 4 0 0 0 3.32659 -3.91259 0 15.6504 0.83165 4-4disc.dat
 1 16 0 -9.974 22.742 -4 0 0 0 -3.32659 -3.91259 0 -15.6504 0.83165 4-4disc.dat
 1 16 0 -22.449 -35.946 4 0 0 0 3.32659 -3.91259 0 15.6504 0.83165 4-4edge.dat

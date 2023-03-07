@@ -2,16 +2,17 @@
 0 Name: 27257.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Weapon, Spike, Blade
+0 !KEYWORDS Blade, Spike, Weapon
 
 0 !HISTORY 2018-01-09 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2018-01-22 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 4 0 0 0 -8 0 0 0 4 4-4cylc.dat
 1 16 0 -10.5 5.088 -2.937 0 0 0 0 -2.5 0 -1 0 rect.dat

@@ -2,7 +2,7 @@
 0 Name: s\2551s01.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2014-03-06 [Philo] Miscellaneous improvements, added clapboard to sides
 0 !HISTORY 2018-06-04 [Philo] Modified for 21301 variant
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 2 24 3.5 -20.97 112.07 3.5 -28.97 112.07
 4 16 45.16 -23.91 98.75 45.15 -23.94 -23 44.19 -23.6 -23 44.2 -23.57 98.75

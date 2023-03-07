@@ -2,7 +2,7 @@
 0 Name: 4616559cc01.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Origin = Origin part 45677
 
@@ -11,6 +11,7 @@
 0 !KEYWORDS Set 10219
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 4 16 -18 0.183 -31.83 18 0.183 -31.83 18 1 -40 -18 1 -40
 4 16 -18 2.6 -50 -18 1 -40 18 1 -40 18 2.6 -50

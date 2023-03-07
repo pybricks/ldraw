@@ -2,11 +2,12 @@
 0 Name: s\27507s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 0 BFC INVERTNEXT
 1 16 0 0 0 47.6012 0 -36.52569 0 7 0 -36.52569 0 -47.6012 48\1-24cyli.dat
@@ -136,8 +137,6 @@
 1 16 55.71315 7.5 -24.568 0 1 -.44475 .5 0 0 0 0 -.9887 rect3.dat
 3 16 55.8614 8 -55.8614 58 8 -51 68.4135 8 -39.4996
 4 16 43.1323 8 -43.1306 48.3946 8 -37.1344 46.3029 8 -42.3029 42.3029 8 -46.3029
-
-
 
 2 24 47.9342 4 -36.0266 51.96 4 -30
 4 16 51.96 0 -30 51.96 4 -30 47.9342 4 -36.0266 47.9342 0 -36.0266

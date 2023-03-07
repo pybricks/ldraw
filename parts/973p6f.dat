@@ -2,17 +2,18 @@
 0 Name: 973p6f.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 3928, set 3929, Bricklink 973px335c01
-0 !KEYWORDS promotional, space, astronaut, astrobot
-0 !KEYWORDS Mars Exploration Rover, Biff Starling, Sandy Moondust
+0 !KEYWORDS astrobot, astronaut, Biff Starling, Bricklink 973px335c01
+0 !KEYWORDS Mars Exploration Rover, promotional, Sandy Moondust, set 3928
+0 !KEYWORDS set 3929, Space
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 0 !HISTORY 2020-08-02 [MagFors] Corrected colour and inlined subfile
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 // Plain back
@@ -333,7 +334,7 @@
 4 15 .98 13.89 -10 1.93 14.18 -10 2.24 13.45 -10 1.14 13.11 -10
 4 15 0 13.8 -10 .98 13.89 -10 1.14 13.11 -10 0 13 -10
 4 15 0 13.8 -10 0 13 -10 -1.12 13.11 -10 -.97 13.89 -10
-0 // gold section 
+0 // gold section
 3 82 -4.5 2 -10 -4.5 2.8 -10 -4.3 1.5 -10
 4 82 -4.5 6.5 -10 -4.3 7 -10 -4.3 1.5 -10 -4.5 2.8 -10
 4 82 -3.2 7.2 -10 -3.2 1.2 -10 -4.3 1.5 -10 -4.3 7 -10

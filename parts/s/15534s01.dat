@@ -2,13 +2,14 @@
 0 Name: s\15534s01.dat
 0 Author: John Troxler [Gargan]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2017-04-24 [Gargan] File preparation for LDraw Parts Tracker
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 16 21.971 25.468 0 21.355 25.969 1.621 19.657 23.881 1.621 19.915 22.91 0
 4 16 21.971 25.468 0 19.915 22.91 0 19.657 23.881 -1.621 21.355 25.969 -1.621

@@ -2,11 +2,12 @@
 0 Name: s\6131s01.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 0 // Inside cone
 5 24 -3.061 -3 7.391 -4.975 1 12.01 0 1 13 -9.192 1 9.192

@@ -2,9 +2,10 @@
 0 Name: 6059.dat
 0 Author: Tim Gould [timgould]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !KEYWORDS Paradisa
 
 0 !HISTORY 2006-10-30 [WilliamH] Re-orientated; reworked underside, inlined sub-part
@@ -12,6 +13,7 @@
 0 !HISTORY 2020-06-24 [Mad_Marc] Primitives added for rendering
 0 !HISTORY 2021-05-31 [MagFors] Made outside hi-res
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 10 0 -10 -1 0 0 0 1 0 0 0 -1 stud.dat
 0 // Outer surface

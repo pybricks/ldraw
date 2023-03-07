@@ -2,15 +2,16 @@
 0 Name: 3843.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS knight, castle, mask, slot
+0 !KEYWORDS Castle, knight, mask, slot
 
 0 !HISTORY 2016-02-22 [Holly-Wood] Fixed T-Junction, BFCed, fixed nonscalable primitives, fixed overlap, eliminated primitives in order to reduce polycount, fixed cond. lines
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 2 24 1.25 4 -18 -1.25 4 -18
 2 24 1.25 4 -15 -1.25 4 -15

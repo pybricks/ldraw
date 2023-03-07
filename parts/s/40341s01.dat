@@ -2,12 +2,13 @@
 0 Name: s\40341s01.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-03-28 [Holly-Wood] Sanded part, added cond. lines
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 2 24 -9 -1.56 25.8 -7.683 -2.114 22.254
 2 24 -7.683 -2.114 22.254 -7.5 -2.173 21.9

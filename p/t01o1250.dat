@@ -2,17 +2,18 @@
 0 Name: t01o1250.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Primitive UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
+
 0 // Major Radius: 8
 0 // Tube(Minor) Radius: 1
 0 // Segments(Sweep): 16/16 = 1.00
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.1250 0 0  0 0 0.1250  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.1250 0 0 0 0 0.1250 0 1 0 4-4edge.dat
 
 4 16 1 0.125 0 0.9239 0.125 0.3827 0.9681 0.1155 0.401 1.0478 0.1155 0
 4 16 1.0478 0.1155 0 0.9681 0.1155 0.401 1.0056 0.0884 0.4165 1.0884 0.0884 0

@@ -2,11 +2,12 @@
 0 Name: s\6142622ms02.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 0 // Primitives
 1 0 -5.45 -.25 .7172 -.7 0 0 0 1 0 0 0 .7 1-4ndis.dat
@@ -27,4 +28,4 @@
 4 0 .5491 -.25 -.0128 -3.65 -.25 .0172 -6.15 -.25 .0172 -8 -.25 -.0128
 0 // Light grey faces
 4 7 -6.15 -.25 .7172 -3.65 -.25 .7172 -4.35 -.25 1.4172 -5.45 -.25 1.4172
-4 7 -6.15 -.25 .7172 -6.15 -.25 .0172 -3.65 -.25 .0172 -3.65 -.25 .7172 
+4 7 -6.15 -.25 .7172 -6.15 -.25 .0172 -3.65 -.25 .0172 -3.65 -.25 .7172

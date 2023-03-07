@@ -2,14 +2,14 @@
 0 Name: 004677a.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Thatcher Perkins, locomotive, train, hobby, iron horse
-0 !KEYWORDS set 396
+0 !KEYWORDS hobby, iron horse, locomotive, set 396, Thatcher Perkins, Train
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 0 // Box
 1 16 0 -0.25 0 125 0 0 0 0.25 0 0 0 21.5 box5-12.dat

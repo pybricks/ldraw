@@ -2,13 +2,14 @@
 0 Name: 3068bp0i.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Rebrickable 3068bpr0582, Bricklink 3068bpb1887, Set 10297
+0 !KEYWORDS Bricklink 3068bpb1887, Rebrickable 3068bpr0582, Set 10297
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 4 70 18 0 16.3 17.925 0 16.683 17.708 0 17.008 17.383 0 17.225

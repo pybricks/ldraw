@@ -2,11 +2,12 @@
 0 Name: s\90541s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 3 16 3.1923 -4.4984 -12.3869 3.1391 -7.1884 -10.0987 0 -5.85 -11.7615
 3 16 3.06 -9.13 -7.3615 2.87 -11.1 -2.6415 0 -10.32 -5.4015

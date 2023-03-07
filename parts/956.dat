@@ -2,13 +2,14 @@
 0 Name: 956.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Fabuland, mailbox, mail box, postbox, post box
+0 !KEYWORDS Fabuland, mail box, mailbox, post box, postbox
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\956s01.dat
 4 16 -21 -62 -38 -32 0 -38 32 0 -38 21 -62 -38

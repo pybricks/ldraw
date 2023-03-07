@@ -2,11 +2,12 @@
 0 Name: 3068bp80.dat
 0 Author: Carsten Schmitz [Deckard]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS clock, timer, digits, lcd, temperature, degree, typewriter, computer
-0 !KEYWORDS terminal, office, input, letter
+
+0 !KEYWORDS clock, computer, degree, digits, input, lcd, letter, office
+0 !KEYWORDS temperature, terminal, timer, typewriter
 
 0 !HISTORY 2002-02-15 [BrickCaster] groove
 0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
@@ -14,8 +15,9 @@
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2019-08-17 [cwdee]   Update description
+0 !HISTORY 2019-08-17 [cwdee] Update description
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Red
 
@@ -355,9 +357,9 @@
 4 16 -18.2 0 -1.4 -16.999 0 -1.735 -16.999 0 -16.954 -18.2 0 -17.3
 4 16 0 0 -1.735 -16.999 0 -1.735 -18.2 0 -1.4 0 0 -1.4
 
-0 Subpart Tile  1 x  2 with Keyboard Pattern
+0 Subpart Tile 1 x 2 with Keyboard Pattern
 1 16 0 0 -9.3 0.89 0 0 0 1 0 0 0 0.89 s\3069p80a.dat
 
-0 Subpart Tile  2 x  2 with Groove without Face
+0 Subpart Tile 2 x 2 with Groove without Face
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 0

@@ -1,15 +1,16 @@
-0 Minifig Torso with Gold Tie Pin and Black Tie Pattern 
+0 Minifig Torso with Gold Tie Pin and Black Tie Pattern
 0 Name: 973pd7f.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS Armour, Ninjago, Flashback, Garmadon, Collectible
-0 !KEYWORDS BrickLink 973pb2797
+0 !KEYWORDS Armour, BrickLink 973pb2797, Collectible, Flashback, Garmadon
+0 !KEYWORDS Ninjago
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 // Back
@@ -56,4 +57,4 @@
 4 16 -7 24 -10 -19 29 -10 -14.345 2 -10 -4.5 2.5 -10
 4 16 -7 24 -10 0 30 -10 -19 32 -10 -19 29 -10
 
-3 16 0 30 -10 19 32 -10 -19 32 -10 
+3 16 0 30 -10 19 32 -10 -19 32 -10

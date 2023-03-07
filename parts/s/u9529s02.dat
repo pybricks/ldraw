@@ -2,11 +2,12 @@
 0 Name: s\u9529s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 2 24 -4.0653 -3.5 -0.5043 -3.7715 -5.0307 -0.4026
 2 24 -4.4957 -3.5 -1.0653 -4.1643 -5.2221 -0.9586

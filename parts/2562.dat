@@ -2,12 +2,12 @@
 0 Name: 2562.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS weapon, firearm, musket, pirates, blackpowder, wheellock
+0 !KEYWORDS blackpowder, firearm, musket, Pirates, Weapon, wheellock
 
 0 !HISTORY 1998-05-21 [PTadmin] Official Update 1998-05
 0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
@@ -16,6 +16,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-07-19 [MagFors] bfc'd, added more condlines
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 0 // FWIW: I used an angle of 75 degrees for the bend between the barrel and the grip.
 

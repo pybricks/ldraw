@@ -2,12 +2,12 @@
 0 Name: s\3004s60.dat
 0 Author: Niels Karsdorp [nielsk]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2002-12-23 [nielsk]  BFC Certified, bad polygons repaired and changed into subpart
-0 !HISTORY 2003-09-25 [nielsk]  Origin changed to centre
+0 !HISTORY 2002-12-23 [nielsk] BFC Certified, bad polygons repaired and changed into subpart
+0 !HISTORY 2003-09-25 [nielsk] Origin changed to centre
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-08-29 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
@@ -16,8 +16,9 @@
 0 !HISTORY 2017-10-12 [MagFors] Reworked pattern
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 
+
 0 // Shell Logo 1971
-0 // Size:  x = -11.5 to 11.5  y = -10.5 to 10.5  z = 0
+0 // Size: x = -11.5 to 11.5 y = -10.5 to 10.5 z = 0
 
 4 14 0 3.53 0 0.73 8.26 0 1.07 7.97 0 1.07 3.67 0
 4 14 -0.4 8.47 0 0 8.54 0 0 3.53 0 -0.73 8.26 0

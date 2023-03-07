@@ -2,23 +2,24 @@
 0 Name: 61191.dat
 0 Author: Greg Teft [gregteft]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS rounded, slope, canopy, Star Wars, Magna Guard, Utapauan P-38
+0 !KEYWORDS canopy, Magna Guard, rounded, slope, Star Wars, Utapauan P-38
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
+
 0 // bottom stud & axlehole
 
-1 16 0 64 -120 1 0 0 0 4 0 0 0 1 AXLEHOLE.DAT
-1 16 0 64 -120 1 0 0 0 1 0 0 0 1 AXLEHOL2.DAT
-1 16 0 68 -120 1 0 0 0 1 0 0 0 1 AXLEHOL3.DAT
-1 16 0 64 -120 6 0 0 0 1 0 0 0 6 4-4NDIS.DAT
-1 16 0 68 -120 8 0 0 0 -1 0 0 0 8 4-4NDIS.DAT
-1 16 0 68 -120 8 0 0 0 1 0 0 0 8 4-4EDGE.DAT
-1 16 0 68 -120 1 0 0 0 -1 0 0 0 1 STUD4A.DAT
+1 16 0 64 -120 1 0 0 0 4 0 0 0 1 axlehole.dat
+1 16 0 64 -120 1 0 0 0 1 0 0 0 1 axlehol2.dat
+1 16 0 68 -120 1 0 0 0 1 0 0 0 1 axlehol3.dat
+1 16 0 64 -120 6 0 0 0 1 0 0 0 6 4-4ndis.dat
+1 16 0 68 -120 8 0 0 0 -1 0 0 0 8 4-4ndis.dat
+1 16 0 68 -120 8 0 0 0 1 0 0 0 8 4-4edge.dat
+1 16 0 68 -120 1 0 0 0 -1 0 0 0 1 stud4a.dat
 0 // bottom surfaces surrounding axlehole
 2 24 -20 72 -140 20 72 -140
 2 24 -29.117 72 -100 29.117 72 -100
@@ -73,12 +74,12 @@
 0 // it may more smoothly transition to hi-res quarter circle on side.
 0 // An appropriate arc was drafted and divided into twelve segements.
 0 // top dimple included here in the event an alternate version excludes it
-1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4NDIS.DAT
-1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4EDGE.DAT
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 0 BFC INVERTNEXT
-1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4CYLI.DAT
-1 16 0 1 0 6 0 0 0 1 0 0 0 6 4-4EDGE.DAT
-1 16 0 1 0 6 0 0 0 1 0 0 0 6 4-4DISC.DAT
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4cyli.dat
+1 16 0 1 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 1 0 6 0 0 0 1 0 0 0 6 4-4disc.dat
 0 // top surfaces
 4 16 -20 68 -140 20 68 -140 20 58.259 -135.577 -20 58.259 -135.577
 4 16 -20 58.259 -135.577 20 58.259 -135.577 20 49.006 -130.208 -20 49.006 -130.208

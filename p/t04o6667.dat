@@ -2,17 +2,18 @@
 0 Name: t04o6667.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Primitive UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
+
 0 // Major Radius: 3
 0 // Tube(Minor) Radius: 2
 0 // Segments(Sweep): 4/16 = 0.25
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.6667 0 0  0 0 0.6667  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.6667 0 0 0 0 0.6667 0 1 0 4-4edge.dat
 
 4 16 1 0.6667 0 0.9239 0.6667 0.3827 1.1596 0.6159 0.4803 1.2551 0.6159 0
 4 16 1.2551 0.6159 0 1.1596 0.6159 0.4803 1.3594 0.4714 0.5631 1.4714 0.4714 0

@@ -2,13 +2,14 @@
 0 Name: 47991.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-07 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2020-10-17 [Sirio] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 0 // Stud primitives
 1 16 0 0 10 1 0 0 0 1 0 0 0 1 stug2-1x6.dat

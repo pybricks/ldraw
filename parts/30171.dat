@@ -2,13 +2,13 @@
 0 Name: 30171.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS hat, helmet, skullcap, pilot, barnstormer, Adventurers, Alpha Team
-0 !KEYWORDS Star Wars, Mos Espa, pod race, Naboo fighter
+0 !KEYWORDS Adventurers, Alpha Team, barnstormer, hat, helmet, Mos Espa
+0 !KEYWORDS Naboo fighter, pilot, pod race, skullcap, Star Wars
 
 0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
 0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
@@ -19,6 +19,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-01-08 [Philo] Corrected scaled flat primitives
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 4 16 2 -10 -2 2 -10 2 -2 -10 2 -2 -10 -2
 1 16 -2 4 -2 0 4 0 -14 0 0 0 0 -14 1-4cyli.dat

@@ -2,13 +2,12 @@
 0 Name: s\64991c01s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Canvas
-
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 4 16 262.727 270.091 -50.545 260.037 270.593 -50.3752 263.822 282.272 -46.424 272.146 279.07 -47.5075
 4 16 260.037 270.593 -50.3752 257.342 270.091 -50.545 255.581 282.272 -46.4238 263.822 282.272 -46.424

@@ -2,14 +2,14 @@
 0 Name: s\919s03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
-0 // Work needed: correctly model battery sockets
 
+0 // Work needed: correctly model battery sockets
 
 1 16 77 50 20 0 -154 0 20 0 0 0 0 20 1-16cyli.dat
 1 16 77 50 -20 0 -154 0 20 0 0 0 0 -20 1-16cyli.dat

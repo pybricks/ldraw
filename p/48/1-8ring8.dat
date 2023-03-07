@@ -2,11 +2,12 @@
 0 Name: 48\1-8ring8.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG 48_Primitive UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 4 16 8 0 0 9 0 0 8.9226 0 1.1745 7.9312 0 1.044
 4 16 7.9312 0 1.044 8.9226 0 1.1745 8.6931 0 2.3292 7.7272 0 2.0704
@@ -16,5 +17,4 @@
 4 16 6.3472 0 4.8704 7.1406 0 5.4792 6.3639 0 6.3639 5.6568 0 5.6568
 
 0 end of file
-
 

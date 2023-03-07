@@ -2,7 +2,7 @@
 0 Name: connect.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Primitive UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -16,6 +16,7 @@
 0 !HISTORY 2010-01-15 [cwdee] Update ring3 to 4-4ring3
 0 !HISTORY 2010-02-19 [Philo] Added condlines
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 2 24 5.801 -18 1 5.543 -18 2.296
 2 24 -5.543 -18 2.296 -5.801 -18 1

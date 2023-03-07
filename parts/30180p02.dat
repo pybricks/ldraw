@@ -2,12 +2,13 @@
 0 Name: 30180p02.dat
 0 Author: Andrew Ananjev [woozle]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-11-20 [MagFors] Removed emphasis lines and overlapping areas
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30180s01.dat
 
@@ -20,10 +21,10 @@
 1 15 20 12 38 0 0 -1 0 1 0 1 0 0 s\30180p02s02.dat
 
 0 // Motorcycle rotated horizontally 11.31 degree and scaled 0.54
-1 16 20 -3.32 -22.14 0 0 -1 -0.106 0.529 0 0.529 0.106 0 S\4215p70s01.dat
-1 15 20 -3.32 -22.14 0 0 -1 -0.106 0.529 0 0.529 0.106 0 S\4215p70s02.dat
-1 15 20 -3.32 -22.14 0 0 -1 -0.106 0.529 0 0.529 0.106 0 S\4215p70s03.dat
-1 16 20 -3.32 -22.14 0 0 -1 -0.106 0.529 0 0.529 0.106 0 S\4215p70s04.dat
+1 16 20 -3.32 -22.14 0 0 -1 -0.106 0.529 0 0.529 0.106 0 s\4215p70s01.dat
+1 15 20 -3.32 -22.14 0 0 -1 -0.106 0.529 0 0.529 0.106 0 s\4215p70s02.dat
+1 15 20 -3.32 -22.14 0 0 -1 -0.106 0.529 0 0.529 0.106 0 s\4215p70s03.dat
+1 16 20 -3.32 -22.14 0 0 -1 -0.106 0.529 0 0.529 0.106 0 s\4215p70s04.dat
 
 0 // Backgound areas (left and right from Motorcycle)
 3 16 20 6.4665 -20.179 20 0.912 -21.292 20 1 -27

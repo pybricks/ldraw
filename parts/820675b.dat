@@ -2,14 +2,16 @@
 0 Name: 820675b.dat
 0 Author: Miklos Hosszu [hmick]
 0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 6679, Nautica, Dark Shark
+0 !KEYWORDS Dark Shark, Nautica, set 6679
+
 0 !HISTORY 2006-08-29 [WilliamH] Swapped colour 16 to colour 0
-0 !HISTORY 2014-01-25 [MagFors]  Unswapped colours
+0 !HISTORY 2014-01-25 [MagFors] Unswapped colours
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 4 14 -78 -0.25 -2 78 -0.25 -22 78 -0.25 -20 40 -0.25 -2
 4 16 -78 -0.25 -2 40 -0.25 -2 40 -0.25 0 -80 -0.25 0

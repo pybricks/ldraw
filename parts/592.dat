@@ -2,13 +2,14 @@
 0 Name: 592.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2004-10-20 [mikeheide] Secondary author
 0 !HISTORY 2010-05-21 [mikeheide] remodeled portion with the hole.
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 0 0 -22 4.5 0 0 0 0 4.5 0 1 0 4-4edge.dat
 1 16 0 0 2 4.5 0 0 0 0 4.5 0 1 0 4-4edge.dat

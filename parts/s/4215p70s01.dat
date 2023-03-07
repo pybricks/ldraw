@@ -2,12 +2,13 @@
 0 Name: s\4215p70s01.dat
 0 Author: Andrew Ananjev [woozle]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2013-11-20 [MagFors] Removed emphasis lines
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 0 11.9 14.4 0 11.9 13.9 0 12.5 13.9 0 12.5 14.4 0
 4 0 11.1 14.7 0 10.85 14.3 0 11.9 13.9 0 11.9 14.4 0

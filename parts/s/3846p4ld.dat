@@ -2,11 +2,12 @@
 0 Name: s\3846p4ld.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 0 3 3.2928 0 2.7 2.3 0 2.4 2.6 0 2.7182 3.7577 0
 4 0 3 3.2928 0 2.7182 3.7577 0 3.8545 3.5898 0 3.8739 3.1508 0

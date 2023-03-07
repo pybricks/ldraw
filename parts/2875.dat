@@ -1,8 +1,8 @@
 0 Slope Brick 45  2 x  6 x  0.667
 0 Name: 2875.dat
-0 Author: Lutz Uhlmann
+0 Author: Lutz Uhlmann [El-Lutzo]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2009-03-27 [tchang] Add BFC, primitives, edges on stud4, Correct bad faces
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 4 16 60 24 -30 -60 24 -30 -56 24 -26 56 24 -26
 4 16 56 24 -26 56 24 -14 60 24 -10 60 24 -30

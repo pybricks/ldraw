@@ -2,15 +2,15 @@
 0 Name: 63869.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
+
 0 // Utilizes data from unofficial 32184.dat
 0 // contains an inlined and modified bush0.dat
-
 
 1 16 0 20 0 0 0 1 -1 0 0 0 -1 0 32523.dat
 1 16 10 0 0 0 -20 0 1 0 0 0 0 1 axlehol5.dat
@@ -85,7 +85,7 @@
 5 24 6 -2.68 -6.47 -6 -2.68 -6.47 6 0 -7 6 -4.95 -4.95
 5 24 6 2.68 -6.47 -6 2.68 -6.47 6 4.95 -4.95 6 0 -7
 5 24 6 2.68 6.47 -6 2.68 6.47 6 0 7 6 4.95 4.95
-0 
+0
 1 16 10 0 0 0 -1 0 3 0 0 0 0 3 4-4ring2.dat
 1 16 -10 0 0 0 1 0 3 0 0 0 0 3 4-4ring2.dat
 1 16 10 0 0 0 -3 0 0 0 -9 9 0 0 2-4cyli.dat
@@ -130,7 +130,7 @@
 2 24 10 11 -9 7 11 -9
 2 24 -7 11 1 7 11 1
 2 24 -7 11 7 7 11 7
-0 
+0
 5 24 -5 0 7 -6 0 7 6 2.899 7 6 -2.679 6.467
 5 24 6 0 7 5 0 7 6 2.899 7 6 -2.679 6.467
 5 24 6 -2.679 6.467 -6 -2.679 6.467 6 0 7 6 -5.358 5.358

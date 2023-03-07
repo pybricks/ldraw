@@ -2,12 +2,13 @@
 0 Name: 2887.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-02-02 [Holly-Wood] Modified size and position of pin
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 0 // Curved Rack Rack
 1 16 -280 0 69.5 1 0 0 0 -1 0 0 0 -1 s\2880s03.dat
@@ -302,8 +303,6 @@
 4 16 -146.966 0 99.624 -146.761 0 99.715 -143.811 0 101.017 -127.5 0 106.445
 3 16 -146.966 0 99.624 -127.5 0 106.445 -147.197 0 99.526
 
-
-
 3 16 -151.004 0 90.374 -136.392 0 94.525 -164 0 85.536
 3 16 -136.392 0 94.525 -151.004 0 90.374 -137.454 0 96.235
 4 16 -88 0 117.296 -136.392 0 94.525 -137.454 0 96.235 -127.5 0 100.92
@@ -428,7 +427,6 @@
 3 16 -84 0 -2.5 -44 0 -2.5 -40 0 -4.5
 4 16 -44 0 2.5 -84 0 2.5 -84 0 4.5 -40 0 4.5
 1 16 -64 -3.5 0 0 0 -20 0 -1 0 -2.5 0 0 rect1.dat
-
 
 3 16 -88 0 -2.5 -40 0 -4.5 -124.5 0 -2.5
 3 16 -88 0 4.5 -88 0 2.5 -124.5 0 2.5

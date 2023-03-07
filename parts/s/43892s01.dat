@@ -2,13 +2,14 @@
 0 Name: s\43892s01.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2009-11-21 [westrate] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 4 16 1.96 60.51 44 0 60 44 0 57.87 44 3 58.65 44
 4 16 3.49 62.04 44 1.96 60.51 44 3 58.65 44 5.35 61 44

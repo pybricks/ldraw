@@ -2,11 +2,12 @@
 0 Name: s\3960pb1s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 4 80 -38.35 7.4059 2.5 -38.27631 7.38367 2.775 -38.49282 7.47357 2.9 -38.6 7.5059 2.5
 4 80 -38.27631 7.36918 2.225 -38.35 7.4059 2.5 -38.6 7.5059 2.5 -38.49282 7.45248 2.1

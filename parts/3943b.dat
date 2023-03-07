@@ -2,7 +2,7 @@
 0 Name: 3943b.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -17,6 +17,7 @@
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
 0 !HISTORY 2022-01-02 [MagFors] Made common subfile, thinner outside ring
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3943s01.dat
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\3943s01.dat

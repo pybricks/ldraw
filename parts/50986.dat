@@ -2,13 +2,14 @@
 0 Name: 50986.dat
 0 Author: El'dar Ismagilov [Eldar]
 0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-09-10 {LEGO Universe Team} Original part shape
 0 !HISTORY 2010-09-30 [Eldar] File preparation for LDraw Parts Tracker
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\50986s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\50986s01.dat

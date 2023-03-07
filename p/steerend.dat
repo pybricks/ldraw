@@ -2,7 +2,7 @@
 0 Name: steerend.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Primitive UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,13 +14,14 @@
 0 !HISTORY 2010-12-21 [tchang] Update bushlock position
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
+
 1 16 0 6 0 1 0 0 0 1 0 0 0 1 bushlock.dat
 0 BFC INVERTNEXT
 1 16 0 0 0 6 0 0 0 6 0 0 0 6 4-4cyli.dat
 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 1 16 0 0 0 10 0 0 0 1 0 0 0 10 2-4edge.dat
-1 16  0 0 0  2 0 0  0 1 0  0 0 2 2-4ring3.dat      
-1 16  0 0 0  2 0 0  0 1 0  0 0 2 2-4ring4.dat      
+1 16 0 0 0 2 0 0 0 1 0 0 0 2 2-4ring3.dat
+1 16 0 0 0 2 0 0 0 1 0 0 0 2 2-4ring4.dat
 1 16 0 0 0 10 0 0 0 6 0 0 0 10 2-4cyli.dat
 0 //
 1 16 0 6 0 10 0 0 0 -1 0 0 0 -10 2-4ndis.dat

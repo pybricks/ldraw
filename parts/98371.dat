@@ -2,16 +2,17 @@
 0 Name: 98371.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Mechanic, Daredevil, Rockabilly, Pompadour
+0 !KEYWORDS Daredevil, mechanic, Pompadour, Rockabilly
 
 0 !HISTORY 2012-06-11 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2012-06-11 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 3 16 -10.699 0.252 7.361 -10.636 -4.188 7.369 -12.871 -0.563 0.52
 3 16 -10.636 -4.188 7.369 -12.704 -5.079 0.557 -12.871 -0.563 0.52

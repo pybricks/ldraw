@@ -2,14 +2,17 @@
 0 Name: 973phf.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Harry Potter, Severus Snape, Hogwarts, Slytherin, grey head
-0 !KEYWORDS Prisoner of Azkaban, set 4751, bricklink 973pb0312
+
+0 !KEYWORDS bricklink 973pb0312, grey head, Harry Potter, Hogwarts
+0 !KEYWORDS Prisoner of Azkaban, set 4751, Severus Snape, Slytherin
+
 0 !CMDLINE -c0
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 -12 0 10 12 0 10 14.345 2 10 -14.345 2 10

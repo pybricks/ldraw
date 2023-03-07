@@ -2,13 +2,14 @@
 0 Name: 197905a.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Set 5510
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 4 0 -25 -0.25 9 -27 -0.25 11 -27 -0.25 -11 -25 -0.25 -9
 4 0 -19.758 -0.25 0.763 -21.848 -0.25 3.902 -21.848 -0.25 -3.628 -19.758 -0.25 -3.628

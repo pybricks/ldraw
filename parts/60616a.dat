@@ -2,14 +2,12 @@
 0 Name: 60616a.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP To place the glass on 30179.dat, have it +/-32LDU on the X-axis
 0 !HELP and +/-6 LDU on the Z-axis relative to the door to place it correctly.
-
 0 !HELP To place the glass on 60596.dat, have it +/-32LDU on the X-axis
 0 !HELP and 5 LDU on the Z-axis relative to the door to place it correctly.
-
 0 !HELP Stud is at 57,70,3.75/-3.75
 
 0 BFC CERTIFY CCW
@@ -20,6 +18,7 @@
 0 !HISTORY 2014-01-05 [bsupnik] corrected HELP comment on correct placement
 0 !HISTORY 2014-07-05 [MagFors] corrected HELP comment on correct placement
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 4 0 1 0 0 0 1 0 0 0 1 s\60616s01.dat
 1 16 0 136 0 1 0 0 0 -1 0 0 0 1 s\60616s01.dat

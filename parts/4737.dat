@@ -2,11 +2,11 @@
 0 Name: 4737.dat
 0 Author: Lutz Uhlmann [El-Lutzo]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS honeycomb, space
+0 !KEYWORDS honeycomb, Space
 
 0 !HISTORY 1997-12-05 [PTadmin] Official Update 1997-17
 0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
@@ -14,6 +14,7 @@
 0 !HISTORY 2012-11-17 [Jellby] BFC'ed, generally sanitized, fixed dimensions
 0 !HISTORY 2012-11-19 [Jellby] Changed name, fixed metadata and a quad
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 0 // EDGES
 

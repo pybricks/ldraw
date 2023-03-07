@@ -2,16 +2,18 @@
 0 Name: 973pdg.dat
 0 Author: Larry Pieniazek [lar]
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Studios, movie, vampire, igor, hunchback, scary, peasant
+
+0 !KEYWORDS hunchback, igor, Movie, peasant, scary, Studios, vampire
 
 0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
 0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2015-07-12 [MagFors] Inlined subfiles, made lots of dots
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 // neck mark (Black)
@@ -22,7 +24,7 @@
 4 16 14.345 2 10 -14.345 2 10 -12 0 10 12 0 10
 0 // front pattern
 0 // Dithered (264) shadows
-0 // subfile for color Custom dither  (dithered black dots on dk grey)
+0 // subfile for color Custom dither (dithered black dots on dk grey)
 3 0 -14.188 21.707 -10 -14.05 22.1 -10 -14.05 21.75 -10
 4 0 -13.708 17.802 -10 -13.796 17.785 -10 -13.945 18.059 -10 -14.1 18.35 -10
 3 0 -0.997 12.111 -10 -0.8 12.35 -10 -0.88 12.132 -10

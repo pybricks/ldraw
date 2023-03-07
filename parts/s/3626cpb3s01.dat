@@ -2,11 +2,12 @@
 0 Name: s\3626cpb3s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 92 4.9751 6.75 -12.0107 4.9751 7.75691 -12.0107 5.84164 7.33502 -11.43158 5.96238 6.265 -11.35089
 4 92 5.96238 6.265 -11.35089 5.84164 7.33502 -11.43158 6.82365 6.80258 -10.77529 6.68003 5.84443 -10.87128

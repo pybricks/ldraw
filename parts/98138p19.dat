@@ -2,14 +2,14 @@
 0 Name: 98138p19.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS DOTS, Kissing, Kiss, Love, Cute
-0 !KEYWORDS Bricklink 98138pb128, set 41908
+0 !KEYWORDS Bricklink 98138pb128, Cute, Dots, Kiss, Kissing, Love, Set 41908
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s01.dat
 1 226 0 0 0 9 0 0 0 1 0 0 0 9 4-4ering.dat
@@ -51,7 +51,6 @@
 3 226 9 0 0 6.2556 0 1.4 5.4778 0 .6222
 3 226 9 0 0 5.4778 0 .6222 3.85 0 -1.1
 4 226 3 0 2.9556 3.82 0 4.93 3.42 0 4.99 3.12 0 5.03
-
 
 1 0 .5 0 -1.5 -.55 0 0 0 1 0 0 0 .55 5-8ring2.dat
 1 0 .5 0 -4.25 -.55 0 0 0 1 0 0 0 -.55 5-8ring2.dat

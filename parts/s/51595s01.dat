@@ -2,11 +2,12 @@
 0 Name: s\51595s01.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 156 4 156 4 0 0 0 1 0 0 0 4 1-4edge.dat
 2 24 156 4 160 -156 4 160

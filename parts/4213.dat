@@ -2,7 +2,7 @@
 0 Name: 4213.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 0 !HISTORY 2013-03-05 [MMR1988] Rewritten (based on 2349s01.dat)
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 4 32 0 0 40 4 0 0 0 -72 0 box3u2p.dat
 
@@ -29,7 +30,6 @@
 4 16 -18 0 36 -18 0 32 -2 0 32 -2 0 36
 1 16 29 0 34 7 0 0 0 1 0 0 0 2 rect1.dat
 1 16 -29 0 34 -7 0 0 0 1 0 0 0 2 rect1.dat
-
 
 1 16 38 4 32 0 0 -2 4 0 0 0 -1 0 rect3.dat
 0 BFC INVERTNEXT
@@ -118,7 +118,6 @@
 3 16 -32 3 28 -26 3 28 -36 3 -36
 4 16 -26 3 28 -21.25 3 28 -21.25 3 4.25 -36 3 -36
 3 16 -21.25 3 4.25 -21.25 3 -17 -36 3 -36
-
 
 1 16 -20 3 -20 1 0 0 0 -1.25 0 0 0 1 stud4.dat
 1 16 20 3 -20 1 0 0 0 -1.25 0 0 0 1 stud4.dat

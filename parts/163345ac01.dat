@@ -2,13 +2,15 @@
 0 Name: 163345ac01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 1682, Space shuttle, Rocket, Tank
-0 !KEYWORDS Bricklink 1682stk01, Rebrickable 163345, Brickowl 849575
+0 !KEYWORDS Bricklink 1682stk01, Brickowl 849575, Rebrickable 163345, Rocket
+0 !KEYWORDS Set 1682, Space Shuttle, Tank
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 3 16 -21.5265 6.5279 -6.72 -21.8259 6.7277 -8.64 -20.6281 5.9284 -11.28
 3 16 5.9695 .2777 -1.8 4.959 .0768 -.9629 4.959 .0768 -6.48

@@ -2,13 +2,12 @@
 0 Name: s\3009p27a.dat
 0 Author: Peter Lind [peterlinddk]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Brick
-
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 0 -44.5 0 7.25 -44.5 0 5.25 -42.8 0 5.25 -32.5 0 7.25
 4 0 -32.5 0 7.25 -42.8 0 5.25 -42.5 0 5.05 -38 0 5.25

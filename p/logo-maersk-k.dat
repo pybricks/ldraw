@@ -2,12 +2,13 @@
 0 Name: logo-maersk-k.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Primitive UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2021-11-04 [RainbowDolphin] Split from 4616559ps2 by J.C. Tchang [tchang]
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 4 15 -1.45 0 -.2 -2.75 0 2.7 -2.75 0 -2.7 -1.45 0 -2.7
 3 15 -2.75 0 2.7 -1.45 0 -.2 -1.45 0 .6

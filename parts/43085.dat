@@ -2,19 +2,20 @@
 0 Name: 43085.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP The ramp is a segment of cylinder: center 0 -110 -220; radius 230
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Skateboard, Snowboard, Sports
+0 !KEYWORDS skateboard, Snowboard, Sports
 
 0 !HISTORY 2013-05-29 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2013-05-29 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 0 !HISTORY 2020-06-20 [Sirio] Added primitives and reworked the ramp
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 0 // Primitives
 
@@ -432,7 +433,7 @@
 2 24 80 130.5031 -140 80 144 -140
 2 24 80 144 -140 80 144 -200
 2 24 -80 144 -140 -80 144 -200
-2 24 -80 144 -140 -80  130.5031 -140
+2 24 -80 144 -140 -80 130.5031 -140
 2 24 -36 144 -204 36 144 -204
 0 // Rear underside studs
 4 16 28 4 4 76 4 4 76 24 4 28 18 4

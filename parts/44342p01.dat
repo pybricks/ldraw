@@ -2,10 +2,11 @@
 0 Name: 44342p01.dat
 0 Author: William Howard [WilliamH]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS roadplate, curved
+
+0 !KEYWORDS curved, roadplate
 
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
@@ -14,6 +15,7 @@
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2018-11-29 [cwdee] Update description
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3811s01.dat
 1 16 316 0 316 4 0 0 0 1 0 0 0 4 1-4disc.dat

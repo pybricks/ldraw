@@ -2,16 +2,18 @@
 0 Name: 3626bps8.dat
 0 Author: Nils Schmidt [BlackBrick89]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, Episode One, Sith Lord, apprentice, villian
-0 !KEYWORDS Sith Infiltrator
+0 !KEYWORDS apprentice, Episode One, Sith Infiltrator, Sith Lord, Star Wars
+0 !KEYWORDS villian
+
 0 !CMDLINE -c0
 
 0 !HISTORY 2011-10-20 [BlackBrick89] CA rewrite
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 4 0 13 0 0 0 13 0 0 0 13 2-4cyli.dat

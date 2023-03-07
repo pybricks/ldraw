@@ -2,11 +2,12 @@
 0 Name: s\3961pb0s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 3 16 -55.434 9 -22.962 -74.42406 16 -29.10542 -70.29404 14.62941 -29.11736
 3 16 -77.272 16 -20.704 -74.42406 16 -29.10542 -55.434 9 -22.962

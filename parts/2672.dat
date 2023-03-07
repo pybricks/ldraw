@@ -2,11 +2,12 @@
 0 Name: 2672.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 -322.34 0 158.52 0.99692 0 0.07846 0 1 0 -0.07846 0 0.99692 s\2672s01.dat
 1 16 -247.947 0 146.737 0.97237 0 0.23345 0 1 0 -0.23345 0 0.97237 s\2672s01.dat
@@ -560,7 +561,7 @@
 1 16 -10 5 16.25 0.5 0 0 0 20 0 0 0 -0.25 box4-1.dat
 1 16 -16.25 5 -10 0 0 0.25 0 20 0 0.5 0 0 box4-1.dat
 1 16 -16.25 5 10 0 0 0.25 0 20 0 0.5 0 0 box4-1.dat
-1 16 0 5 0 0 0 1 0 -5 0 -1 0 0 STUD4A.dat
+1 16 0 5 0 0 0 1 0 -5 0 -1 0 0 stud4a.dat
 1 16 10 5 -16.25 0.5 0 0 0 20 0 0 0 0.25 box4-1.dat
 1 16 10 5 16.25 0.5 0 0 0 20 0 0 0 -0.25 box4-1.dat
 1 16 16.25 5 -10 0 0 -0.25 0 20 0 0.5 0 0 box4-1.dat

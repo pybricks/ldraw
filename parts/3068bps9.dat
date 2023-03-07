@@ -2,13 +2,14 @@
 0 Name: 3068bps9.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3068bpb0947, Set 75171, Set 75136, Star Wars
+0 !KEYWORDS Bricklink 3068bpb0947, Set 75136, Set 75171, Star Wars
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 4 15 7.08 0 -10.6 8.09 0 -9.85 6.1 0 -9.2 6.01 0 -11.24

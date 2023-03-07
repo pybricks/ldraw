@@ -2,13 +2,15 @@
 0 Name: 4489b.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Western, Wild West, Castle Wheel, Conestoga, wagon, prairie, settler, cavalry
+0 !KEYWORDS Castle Wheel, cavalry, Conestoga, prairie, settler, wagon, western
+0 !KEYWORDS wild west
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Nomenclature: width_(mm) x rim_diameter_(mm) [optional qualifier]
 0 // inlined hub

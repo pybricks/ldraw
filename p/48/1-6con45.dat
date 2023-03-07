@@ -2,11 +2,12 @@
 0 Name: 48\1-6con45.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG 48_Primitive UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 4 16 45 1 0 44.613 1 5.8725 45.6044 0 6.003 46 0 0
 4 16 44.613 1 5.8725 43.4655 1 11.646 44.4314 0 11.9048 45.6044 0 6.003

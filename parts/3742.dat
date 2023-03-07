@@ -2,7 +2,7 @@
 0 Name: 3742.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2008-07-07 [sbliss] Completed header, BFC'ed, added missing cylinder (2003-01-30)
 0 !HISTORY 2008-08-30 [Holly-Wood] Fixed identical line, fixed gaps visible where petals touch flower's body
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 0 2 0 2 0 0 0 1 0 0 0 2 4-4edge.dat
 1 16 0 2 6.97 4.935 0 0 0 1 0 0 0 4.935 2-4edge.dat

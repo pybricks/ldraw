@@ -2,11 +2,12 @@
 0 Name: s\15413s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 1 16 7.08125 60.58215 21.43965 -0.05855 0 5.1104 -0.5018 -1 -0.59725 2.43965 0 0 rect.dat
 4 16 1.9126 60.6776 23.8793 1.6815 58.7069 24.0544 11.9022 57.5124 24.0544 12.1322 59.4831 23.8793

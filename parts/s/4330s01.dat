@@ -2,7 +2,7 @@
 0 Name: s\4330s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2017-08-20 [PTadmin] Renamed from 556s01
 0 !HISTORY 2018-03-18 [MagFors] Minor improvements
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 2 24 3.949 -9.597 -4.258 3.956 -9.685 -4.224
 2 24 4 -10.268 -4.001 3.959 -10.801 -3.796

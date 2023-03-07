@@ -1,8 +1,8 @@
 0 Technic Peg Hole / Axle Hole Negative without Top Surface Extensions
 0 Name: npeghol3.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Primitive UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Primitive UPDATE 2023-01
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP For insert between cylinder and axlehol4.dat or axlehol5.dat
 
@@ -14,21 +14,12 @@
 0 !HISTORY 2018-04-08 [arezey] Closed gaps with increased decimal precision
 0 !HISTORY 2018-04-08 [MagFors] adapted to four digit decimals
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+0 !HISTORY 2022-07-08 [SwampKryakwa] New primitive shape - corners of npegholes are now smoothed similar to the actual lego parts
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
 
-1 16 0 0 10 6.36396 0 -6.36396 0 1 0 -6.36396 0 -6.36396 1-4cylo.dat
-5 24 3.4443 1 -1.6849 3.4443 0 -1.6849 6.3639 1 -3.6361 2 1 -1.397
-5 24 -3.4443 1 -1.6849 -3.4443 0 -1.6849 -6.3639 1 -3.6361 -2 1 -1.397
-1 16 6.3639 0.5 0 0 1 0 0.5 0 0 0 0 3.6361 rect.dat
-1 16 -6.3639 0.5 0 0 -1 0 0.5 0 0 0 0 3.6361 rect.dat
-1 16 0 0 -10 -3 0 0 0 1 0 0 0 3 3-16rin2.dat
-1 16 0 1 -10 -3 0 0 0 -1 0 0 0 3 3-16rin2.dat
-1 16 0 0 -10 3 0 0 0 1 0 0 0 3 3-16rin2.dat
-1 16 0 1 -10 3 0 0 0 -1 0 0 0 3 3-16rin2.dat
-1 16 0 0 -10 -6.36396 0 6.36396 0 1 0 6.36396 0 6.36396 1-16cylo.dat
-1 16 0 0 -10 6.36396 0 -6.36396 0 1 0 6.36396 0 6.36396 1-16cylo.dat
-4 16 2 0 -4.397 2.2962 0 -4.4566 3.4443 0 -1.6849 2 0 -1.397
-4 16 -2.2962 0 -4.4566 -2 0 -4.397 -2 0 -1.397 -3.4443 0 -1.6849
-4 16 -2 1 -4.397 -2.2962 1 -4.4566 -3.4443 1 -1.6849 -2 1 -1.397
-4 16 2.2962 1 -4.4566 2 1 -4.397 2 1 -1.397 3.4443 1 -1.6849
-1 16 -2.7222 0.5 -3.041 0 0.72215 0 0.5 0 0 0 0.14395 1.5 box2-7.dat
-1 16 2.7222 0.5 -3.041 0 -0.72215 0 0.5 0 0 0 0.14395 1.5 box2-7.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 npeghol3a.dat
+1 16 0 0 10 0 0 9 0 1 0 -9 0 0 1-16edge.dat
+1 16 0 1 10 0 0 9 0 1 0 -9 0 0 1-16edge.dat
+1 16 0 0 10 0 0 -9 0 1 0 -9 0 0 1-16edge.dat
+1 16 0 1 10 0 0 -9 0 1 0 -9 0 0 1-16edge.dat

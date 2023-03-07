@@ -2,11 +2,12 @@
 0 Name: s\2880s03.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 4 16 5.601 0 -7.585 5.1 0 -7.577 3.922 0 -4.534 7.146 0 -4.61
 4 16 1.949 0 -7.525 1.449 0 -7.525 .224 0 -4.502 3.449 0 -4.525

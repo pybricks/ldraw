@@ -2,10 +2,11 @@
 0 Name: 32059.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS wing, space port, 6-wide, delta, octagon, 1/2 octagon
+
+0 !KEYWORDS 1/2 octagon, 6-wide, delta, octagon, space port, Wing
 
 0 !HISTORY 1999-05-24 [PTadmin] Official Update 1999-04
 0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
@@ -15,6 +16,7 @@
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 0 !HISTORY 2020-04-20 [Sirio] Removed surface bleeding on external faces and flat scaled primitives, added stud group anc changd box primitives
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 // Studs
 1 16 0 0 30 0 0 1 0 1 0 -1 0 0 stug-6x1.dat

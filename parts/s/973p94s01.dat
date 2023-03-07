@@ -2,11 +2,12 @@
 0 Name: s\973p94s01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 0 -15.75 29.65 0 -18 29.55 0 -18 30.1 0 -14.15 30.35 0
 4 0 -10.75 30.5 0 -6.05 30.65 0 -8.8 29.95 0 -9.39746 29.92916 0

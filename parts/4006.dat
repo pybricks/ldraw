@@ -2,7 +2,7 @@
 0 Name: 4006.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2008-07-07 [tchang] Add BFC, rebuild 4 faces, 3 edges (2008-02-08)
 0 !HISTORY 2010-10-21 [Philo] Rebuilt screwdriver tip, added some condlines
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 0 0 0 4 0 0 0 25 0 0 0 4 4-4cyli.dat
 2 24 3.68 26.4 1.52 4 25 0
@@ -54,9 +55,9 @@
 1 16 -4 -23.5 2.5 0 8 0 -3.86 0 4.6 -4.6 0 -3.86 2-4ndis.dat
 4 16 -4 -28.827 -0.273 -4 -27.36 -2.1 4 -27.36 -2.1 4 -28.827 -0.273
 2 24 4 -28.827 -0.273 -4 -28.827 -0.273
-1 16 4 -20.21 0.86 0 -8 0 -9.66 0 2.59 -2.59 0 -9.66 1-4cyli.DAT
-1 16 4 -20.21 0.86 0 -8 0 -9.66 0 2.59 -2.59 0 -9.66 1-4edge.DAT
-1 16 -4 -20.21 0.86 0 -8 0 -9.66 0 2.59 -2.59 0 -9.66 1-4edge.DAT
+1 16 4 -20.21 0.86 0 -8 0 -9.66 0 2.59 -2.59 0 -9.66 1-4cyli.dat
+1 16 4 -20.21 0.86 0 -8 0 -9.66 0 2.59 -2.59 0 -9.66 1-4edge.dat
+1 16 -4 -20.21 0.86 0 -8 0 -9.66 0 2.59 -2.59 0 -9.66 1-4edge.dat
 4 16 4 -28.827 -0.273 4 -29.45 -0.8 -4 -29.45 -0.8 -4 -28.827 -0.273
 4 16 -4 -29.87 -1.73 -4 -29.45 -0.8 4 -29.45 -0.8 4 -29.87 -1.73
 2 24 4 -29.87 -1.73 -4 -29.87 -1.73

@@ -2,7 +2,7 @@
 0 Name: 56467.dat
 0 Author: Kevin Clague [kclague]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2007-06-06 [benedettelli] added 'mouth' edges as provided by Philo
 0 !HISTORY 2007-11-08 [Philo] Complete rework of inside
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 0 // inside edges
 1 16 55 14 -57 10 0 0 0 0 -10 0 78 0 1-4edge.dat

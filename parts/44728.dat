@@ -2,7 +2,7 @@
 0 Name: 44728.dat
 0 Author: Brent Jackson [bjackson]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2020-10-23 [cwdee] Update description
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 -10 0 0 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 10 0 0 0 0 1 0 1 0 -1 0 0 stud.dat
@@ -53,7 +54,7 @@
 1 16 -10 10 -14 0 0 1 1 0 0 0 1 0 stud2.dat
 1 16 -10 30 -14 0 0 1 1 0 0 0 1 0 stud2.dat
 1 16 10 30 -14 0 0 1 1 0 0 0 1 0 stud2.dat
-1 16 0 4 0 -1 0 0 0 -1 0 0 0 1 STUD3.DAT
+1 16 0 4 0 -1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT
 1 16 0 8 -2 -16 0 0 0 -4 0 0 0 8 box4-1.dat
 0

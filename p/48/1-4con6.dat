@@ -2,7 +2,7 @@
 0 Name: 48\1-4con6.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG 48_Primitive UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2019-11-29 [GeraldLasser] Rebuilt with LDPE due to missing Cond-Line
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 4 16 6 1 0 5.9484 1 0.783 6.9398 0 0.9135 7 0 0
 4 16 5.9484 1 0.783 5.7954 1 1.5528 6.7613 0 1.8116 6.9398 0 0.9135

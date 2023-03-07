@@ -2,7 +2,7 @@
 0 Name: 812.dat
 0 Author: Arne Hackstein
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2017-01-15 [Steffen] BFCed, applied rectifier
 0 !HISTORY 2017-03-03 [MMR1988] used more primitives
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 3 16 -16 -8 140 -16 -11 140 -16 -18 136
 4 16 -16 -18 136 -16 -18 -136 -16 -8 -140 -16 -8 140

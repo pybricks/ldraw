@@ -2,7 +2,7 @@
 0 Name: s\2593s01.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2017-01-15 [MagFors] Closed gaps, added conditional lines
 0 !HISTORY 2017-01-25 [PTadmin] Renamed from s/25931-12
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // tread sector A
 

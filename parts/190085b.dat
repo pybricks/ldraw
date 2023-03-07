@@ -2,13 +2,14 @@
 0 Name: 190085b.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 261-1, Bathroom, Homemaker
+0 !KEYWORDS Bathroom, Homemaker, Set 261-1
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 4 15 -9.23 -0.25 -21.17 -8.86 -0.25 -20.21 -10.66 -0.25 -19.24 -9.82 -0.25 -20.82
 4 15 13.46 -0.25 23.47 12.61 -0.25 26.35 12.26 -0.25 26.84 12.5 -0.25 24.55
@@ -674,7 +675,6 @@
 3 4 -6.93 -0.25 -43.01 -5.89 -0.25 -41.8 -7.54 -0.25 -43.49
 3 0 -6.93 -0.25 -43.01 -7.54 -0.25 -43.49 -7.78 -0.25 -45.05
 4 4 -8.58 -0.25 -44.74 -7.54 -0.25 -43.49 -9.34 -0.25 -37.11 -9.58 -0.25 -45.78
-
 
 4 16 -11.51 0 29.38 -11.51 0 31.07 -4.64 0 51.33 12.02 0 27.69
 4 16 14.19 0 42.29 14.43 0 38.42 13.71 0 34.93 13.22 0 44.94

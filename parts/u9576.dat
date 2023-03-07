@@ -2,7 +2,7 @@
 0 Name: u9576.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,13 +10,13 @@
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
 
+
 0 // Nomenclature: Screw length_(LDu) x thread_diameter_(LDu) {head type} {slot type}
 
 1 16 0 -.3 0 1 0 0 0 1 0 0 0 1 4-4ering.dat
 1 16 0 0 0 2.25 0 0 0 2.7 0 0 0 2.25 4-4con1.dat
 1 16 0 0 0 4.5 0 0 0 1 0 0 0 4.5 4-4edge.dat
 1 16 0 17.7 0 2.5 0 0 0 -15.3 0 0 0 2.5 4-4cylc.dat
-
 
 4 16 3.18195 0 3.18195 1.72215 0 4.15755 .9 0 3.3264 .9 0 .9
 4 16 3.18195 0 3.18195 .9 0 .9 3.3264 0 .9 4.15755 0 1.72215
@@ -34,7 +34,6 @@
 3 16 -4.15755 0 1.72215 -4.5 0 0 -3.3264 0 .9
 3 16 0 0 4.5 .9 0 3.3264 1.72215 0 4.15755
 3 16 3.3264 0 -.9 4.15755 0 -1.72215 4.5 0 0
-
 
 2 24 .9 0 3.3264 .9 0 .9
 3 16 .9 0 .9 .9 0 3.3264 0 2.7 0

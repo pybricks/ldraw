@@ -2,7 +2,7 @@
 0 Name: 93551.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2012-09-19 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2012-09-19 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93551s01.dat
 4 16 -23.222 -13.125 -3.429 -20.976 -13.125 -5.972 -17.586 -13.125 -5.876 -23.718 -13.125 -0.01

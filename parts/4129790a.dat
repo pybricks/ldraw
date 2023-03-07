@@ -2,13 +2,14 @@
 0 Name: 4129790a.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS boat, ferry, windows, P&O Stena Ferry
+0 !KEYWORDS boat, ferry, P&O Stena Ferry, windows
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 4 15 -40 -0.25 12 -40 -0.25 4 40 -0.25 4 40 -0.25 12
 4 15 -40 -0.25 -4 -40 -0.25 -12 40 -0.25 -12 40 -0.25 -4

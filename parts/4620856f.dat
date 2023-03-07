@@ -2,13 +2,14 @@
 0 Name: 4620856f.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 3184, Camper, Trailer
+0 !KEYWORDS Camper, Set 3184, Trailer
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 -0.25 0 19 0 0 0 0.25 0 0 0 9 box5-12.dat
 1 191 -15.5 -0.25 5 0.7 0 0 0 1 0 0 0 0.7 4-4disc.dat

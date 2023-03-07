@@ -1,8 +1,8 @@
-0 Joint-8 Socket with Friction 
+0 Joint-8 Socket with Friction
 0 Name: joint8socket1.dat
 0 Author: Tim Gould [timgould]
 0 !LDRAW_ORG Primitive UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP it moves +/-35 degrees in the horizontal plane
 0 !HELP 1 4 0 0 0 0.819152 0 0.573576 0 -1 0 0.573576 0 -0.819152 joint-8-balla.dat
@@ -12,8 +12,9 @@
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-01-06 [timgould] Update description
-0 !HISTORY 2014-03-22 [MagFors]  Complete rewrite
+0 !HISTORY 2014-03-22 [MagFors] Complete rewrite
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // first quarter
 

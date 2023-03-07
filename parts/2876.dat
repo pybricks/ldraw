@@ -2,7 +2,7 @@
 0 Name: 2876.dat
 0 Author: Lutz Uhlmann [El-Lutzo]
 0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC Compliant (2005-05-15)
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 1 16 50 18.167 40 1 0 0 0 -1.45825 0 0 0 1 stud3a.dat
 1 16 50 14.5 40 4 0 0 3.667 1 0 0 0 4 4-4edge.dat

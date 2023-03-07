@@ -2,11 +2,11 @@
 0 Name: 81294.dat
 0 Author: Manfred Moolhuysen
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 81294, Set 989, Set 2234
+0 !KEYWORDS Bricklink 81294, Set 2234, Set 989
 
 0 !HISTORY 1998-09-15 [PTadmin] Official Update 1998-08
 0 !HISTORY 2003-08-01 [Steffen] made use of primitives and subfiles
@@ -18,6 +18,7 @@
 0 !HISTORY 2022-06-22 [Philo] Updated description, added keywords
 0 !HISTORY 2022-06-24 [OrionP] Made obsolete, use 3351ap15
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 4 0 -108.1 -2 1 0 -1.732 -1.732 0 -1 0 1 0 1-4disc.dat
 1 4 0 -108.1 -2 1.732 0 -1 -1 0 -1.732 0 1 0 1-4disc.dat

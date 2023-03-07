@@ -2,13 +2,14 @@
 0 Name: 2372c01d01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Shortcut UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Set 4010
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 2372c01.dat
 1 16 104.498 16 -17 0 -0.9986 0.0523 0 -0.0523 -0.9986 1 0 0 197875a.dat

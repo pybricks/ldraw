@@ -2,17 +2,18 @@
 0 Name: 6107.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS faceted, angled, wedge, 5 stud
+0 !KEYWORDS 5 stud, angled, faceted, wedge
 
 0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
 0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2013-07-18 [theJudeAbides] BFCed, Removed T-Junctions, Used more primitives
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Bottom Surfaces and Edges
 
@@ -105,7 +106,7 @@
 1 16 20 14 12 -1 0 0 0 0 10 0 2 0 box4-2p.dat
 1 16 16.5 14 12 2.5 0 0 0 0 10 0 -1 0 rect2p.dat
 0 BFC INVERTNEXT
-1 16 21 14 19 0 -7 0 10 0 0 0 0 7 BOX2-5.DAT
+1 16 21 14 19 0 -7 0 10 0 0 0 0 7 box2-5.dat
 1 16 19 14 10 5 0 0 0 0 10 0 1 0 rect.dat
 2 24 24 24 10 21.25 24 7.25
 2 24 12.75 24 -1.25 10 24 -4
@@ -123,7 +124,7 @@
 1 16 0 14 -8 -1 0 0 0 0 10 0 2 0 box4-2p.dat
 1 16 -3.5 14 -8 2.5 0 0 0 0 10 0 -1 0 rect2p.dat
 0 BFC INVERTNEXT
-1 16 1 14 -1 0 -7 0 10 0 0 0 0 7 BOX2-5.DAT
+1 16 1 14 -1 0 -7 0 10 0 0 0 0 7 box2-5.dat
 1 16 -1 14 -10 5 0 0 0 0 10 0 1 0 rect.dat
 2 24 4 24 -10 1.25 24 -12.75
 2 24 -7.25 24 -21.25 -10 24 -24
@@ -141,7 +142,7 @@
 1 16 -20 14 -28 -1 0 0 0 0 10 0 2 0 box4-2p.dat
 1 16 -23.5 14 -28 2.5 0 0 0 0 10 0 -1 0 rect2p.dat
 0 BFC INVERTNEXT
-1 16 -19 14 -21 0 -7 0 10 0 0 0 0 7 BOX2-5.DAT
+1 16 -19 14 -21 0 -7 0 10 0 0 0 0 7 box2-5.dat
 1 16 -21 14 -30 5 0 0 0 0 10 0 1 0 rect.dat
 2 24 -16 24 -30 -18.75 24 -32.75
 2 24 -27.25 24 -41.25 -32 24 -46
@@ -192,7 +193,7 @@
 0 // Outside Surfaces and Edges
 1 16 40 12 30 0 0 10 12 0 0 0 20 0 box3u2p.dat
 1 16 20 12 20 0 -10 0 12 0 0 0 0 10 box2-7.dat
-1 16 0 12 0 0 -10 0 12 0 0 0 0 10 BOX2-5.DAT
+1 16 0 12 0 0 -10 0 12 0 0 0 0 10 box2-5.dat
 1 16 -20 12 -20 0 -10 0 12 0 0 0 0 10 box2-7.dat
 1 16 -30 12 -40 0 -20 0 12 0 0 0 0 10 box3u2p.dat
 2 24 -30 24 -50 -24.25 24 -44.25

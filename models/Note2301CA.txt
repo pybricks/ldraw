@@ -1,0 +1,80 @@
+ldraw.org Parts Update 2023-01
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Sun, 05 Mar 2023 04:46:49 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 161
+   New files: 121
+   New parts: 84
+   New subparts: 28
+   New primitives: 9
+
+Moved Parts
+   24314.dat                  ~Moved to 24314p01
+   25866c01.dat               ~Moved to 25866p01
+   25866c02.dat               ~Moved to 25866p02
+   6035.dat                   ~Moved to 74880
+   u9520.dat                  ~Moved to 92551
+
+Renamed Parts
+   24314.dat                  Wheel Minifig Wheelchair with Integral Black Tyre
+   changed to    ~Moved to 24314p01
+   25866c01.dat               =Figure Friends Lipstick with Light Bluish Grey Handle
+   changed to    ~Moved to 25866p01
+   25866c02.dat               Figure Friends Lipstick with White Handle
+   changed to    ~Moved to 25866p02
+   6035.dat                   Electric Light & Sound Brick  1 x  2 with Single Side Light
+   changed to    ~Moved to 74880
+   u9520.dat                  ~Spinner Ninjago  6 x  6 x 1.333 Type 1 Clip
+   changed to    ~Moved to 92551
+   s\93552s02.dat             ~Minifig Paint Brush Tip
+   changed to    ~Minifig Paint Brush Tip - Top
+   npeghol10.dat              Technic Peg Hole Negative for Alternate Beam Type 2 w/o Ext.
+   changed to    Technic Peg Hole Negative for Alternate Beam Type 2 without Extensions
+   npeghol5.dat               Technic Peg Hole 0.5 / Axle Hole Negative with Top Surface Extensions
+   changed to    Technic Peg Hole 0.5 / Axle Hole Negative with Top Surface Extension
+   npeghol6b.dat              Technic Peg Hole Negative with Middle Tab 0.25
+   changed to    Technic Peg Hole Negative 0.25 with Middle Tab
+   npeghol6c.dat              Technic Peg Hole Negative 0.125 without One Edge
+   changed to    Technic Peg Hole Negative 0.25 without One Edge
+   npeghol8.dat               Technic Peg Hole Negative for Alternate Beam Type 1 Half w/o Ext
+   changed to    Technic Peg Hole Negative for Alternate Beam Type 1 Half without Extensions
+   npeghol9.dat               Technic Peg Hole Negative for Alternate Beam Type 2
+   changed to    Technic Peg Hole Negative for Alternate Beam Type 2 with Extensions
+   98138p1n.dat               Tile 1 x 1 Round with Bright Light Yellow "#" on Medium Azure Background Pattern
+   changed to    Tile  1 x  1 Round with Bright Light Yellow "#" on Medium Azure Background Pattern
+   98138p2f.dat               Tile 1 x 1 Round with Dark Torquoise "#" on Lavender Background Pattern
+   changed to    Tile  1 x  1 Round with Dark Torquoise "#" on Lavender Background Pattern
+   24314p02.dat               Wheel Minifig Wheelchair with Integral Rubber Bright Green Tyre
+   changed to    Wheel  2 x 21 with Wheel Pin Hole with Integral Rubber Bright Green Tyre Pattern
+
+Other Fixed Parts
+   18649.dat                  Plate  1 x  2 with Handles on Opposite Ends
+   2654b.dat                  Dish  2 x  2 without Rim
+   32009.dat                  Technic Beam  3 x  3.8 x  7 Liftarm Bent 45 Double
+   33008.dat                  Scala Flower Pot
+   3587.dat                   Tail  2 x  5 x  3.667 Plane
+   50898.dat                  Constraction Connector  7 x  2 with Double Round Ball Sockets
+   65413.dat                  Technic Gear 28 Tooth Double Bevel with Peghole
+   92547.dat                  Spinner Ninjago  6 x  6 x  1.333 Type 1
+   92910.dat                  Technic Ball Joint  2.25 Diameter with C-Shape Frame
+   s\11477s01.dat             ~Slope Brick Curved  2 x  1 without Top Surface
+   s\39790s02.dat             ~Technic Beam with Alternate Holes Corner
+   s\50898s02.dat             ~Constraction Connector Ball Socket End for Beam - Half
+   s\64178s01.dat             ~Technic Beam 11 x  5 with Open Center  5 x  3 Quarter
+   4-4cylse.dat               Cylinder Sloped 1.0 with Edge
+   npeghol11.dat              Technic Peg Hole Negative for Alternate Beam Type 3
+   npeghol13.dat              Technic Peg Hole with Extended Perimeter (Two Sides) and Surface
+   npeghol18.dat              Technic Peg Hole Corner 0.125 Without Lower Faces
+   npeghol2.dat               Technic Peg Hole Negative with Top Surface Extensions
+   npeghol3.dat               Technic Peg Hole / Axle Hole Negative without Top Surface Extensions
+   npeghol4.dat               Technic Peg Hole / Axle Hole Negative with Top Surface Extension
+   npeghol7.dat               Technic Peg Hole Negative 0.5 without Top Surface Extensions
+   npeghol7a.dat              Technic Peg Hole Negative 0.5 with Top Surface Extensions
+   npeghole.dat               Technic Peg Hole Negative without Top Surface Extensions
+   toothb28d.dat              Single Tooth for Technic Double Bevel Gear 28 Tooth
+   2598ps1.dat                Windscreen 10 x 10 x  4 Octagonal Canopy with TIE Pattern

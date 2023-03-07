@@ -2,11 +2,12 @@
 0 Name: s\3245cpz7s01.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 15 0 .5 -10 0 8.75 -10 3.125 8.75 -10 3.5 5.75 -10
 4 15 14.675 3 -10 17.875 .5 -10 0 .5 -10 3.5 5.75 -10

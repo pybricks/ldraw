@@ -2,17 +2,17 @@
 0 Name: 87610ps0.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Minifig Headwear
 
-0 !KEYWORDS Boba Fett
-0 !KEYWORDS Bricklink 87610pb01
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Boba Fett, Bricklink 87610pb01
 
 0 !CMDLINE -c378
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87610s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87610s01.dat
@@ -186,7 +186,7 @@
 1 80 0 0 0 1 0 0 0 1 0 0 0 1 s\87610s06.dat
 1 80 0 0 0 -1 0 0 0 1 0 0 0 1 s\87610s06.dat
 
-0 // Helmet Top Right Side 
+0 // Helmet Top Right Side
 4 80 -5 1.5 -14.9417 -5.02 .93 -14.7729 -5.52 .33 -14.3772 -6.434 1.5 -14.289
 4 80 -6.434 1.5 -14.289 -5.52 .33 -14.3772 -5.75 -.2 -14.124 -6.336 -.7694 -13.6977
 4 80 -6.434 1.5 -14.289 -6.336 -.7694 -13.6977 -7.1 -.95 -13.0432 -7.57 -.74 -12.7352

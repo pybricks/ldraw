@@ -2,7 +2,7 @@
 0 Name: 2894c01.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Shortcut UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -19,6 +19,7 @@
 0 !HISTORY 2009-10-06 [Steffen] corrected origin after 590.dat got moved to 2894c01.dat
 0 !HISTORY 2010-05-29 [Steffen] adjusted to changed origin of wheel part
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 2894.dat
 1 16 0 54 0 1 0 0 0 1 0 0 0 1 2893.dat

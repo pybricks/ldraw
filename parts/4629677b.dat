@@ -2,13 +2,14 @@
 0 Name: 4629677b.dat
 0 Author: Howard Lande [HowardLande]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS set 10222, Winter Village
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 0 -0.25 0 18 0 0 0 0.25 0 0 0 14 box5-12.dat
 4 16 -0.805 -0.25 3.337 -5.187 -0.25 2.953 -5.137 -0.25 2.573 -5.054 -0.25 2.198

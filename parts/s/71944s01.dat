@@ -2,7 +2,7 @@
 0 Name: s\71944s01.dat
 0 Author: William Howard [WilliamH]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2020-03-11 [Philo] Corrected internal tube diameter, Refactored to minimize surface number.
 0 !HISTORY 2020-04-03 [PTadmin] Renamed from s/78s01
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 1 0 9 0 0 0 -2 0 0 0 9 4-4cyli.dat
 0 BFC INVERTNEXT

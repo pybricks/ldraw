@@ -2,13 +2,14 @@
 0 Name: 67704.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part Alias UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Mindstorms, Set 51515, Robot Inventor
+0 !KEYWORDS Mindstorms, Robot Inventor, Set 51515
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Alias of 45610
 

@@ -2,12 +2,14 @@
 0 Name: 821410c.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Set 6398
+
+0 !KEYWORDS set 6398
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 0 9.75 9 0.794 0 0 0 0 1 0 -0.794 0 s\3009p17a.dat
 4 16 25.408 -0.25 -7.27 -24.614 -0.25 -7.27 -29 -0.25 -9 29 -0.25 -9

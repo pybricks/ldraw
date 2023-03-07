@@ -2,11 +2,11 @@
 0 Name: 32235.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
-0 !HELP This part is written so the main axle (everything except the rod-sized 
-0 !HELP 'skinny tips') can be curved smoothly.  The main axle is a series of 
-0 !HELP 4LDU-long segments, all of which are subfile references.  This should 
+0 !HELP This part is written so the main axle (everything except the rod-sized
+0 !HELP 'skinny tips') can be curved smoothly. The main axle is a series of
+0 !HELP 4LDU-long segments, all of which are subfile references. This should
 0 !HELP optimize the ease of flexing.
 
 0 BFC CERTIFY CCW
@@ -16,6 +16,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-08-08 [MagFors] bfc'd
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 0 // Skinny Tip
 1 16 -170 0 0 0 5 0 -1 0 0 0 0 1 stud3a.dat

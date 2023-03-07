@@ -2,12 +2,13 @@
 0 Name: s\3811p02a.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2008-06-20 [anathema] Split into separate subfiles for 'island' and 'water'
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 4 15 0 0 266 44 0 265 39 0 252 0 0 253
 4 15 213 0 213 202 0 202 197 0 207 208 0 218

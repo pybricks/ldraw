@@ -2,14 +2,15 @@
 0 Name: 163345f.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 1682, Space shuttle, Launch pad
-0 !KEYWORDS Bricklink 1682stk01, Rebrickable 163345, Brickowl 849575
+0 !KEYWORDS Bricklink 1682stk01, Brickowl 849575, Launch pad, Rebrickable 163345
+0 !KEYWORDS Set 1682, Space Shuttle
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 -0.25 0 17 0 0 0 0.25 0 0 0 7 box5-12.dat
 0 BFC NOCLIP

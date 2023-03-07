@@ -2,13 +2,14 @@
 0 Name: s\3960pvb.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 0 !HISTORY 2013-03-29 [MagFors] Changed colour 383 to 80 (printed silver)
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 4 0 -6.09 0 7.93 -6.39 0.083 8.33 -7.42 0.082 7.42 -7.07 0 7.07
 4 0 -5 0 8.66 -5.25 0.083 9.09 -6.39 0.083 8.33 -6.09 0 7.93

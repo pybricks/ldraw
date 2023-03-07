@@ -2,11 +2,12 @@
 0 Name: s\u9251p02s01.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 20 0 20 -40 0 0 0 1 0 0 0 -40 1-4ering.dat
 1 16 20 0 20 -1 0 0 0 1 0 0 0 -1 1-4rin20.dat

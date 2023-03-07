@@ -2,7 +2,7 @@
 0 Name: s\2560s01.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2011-01-05 [tchang] Add 4-4cyli to suppress gap in x130 hollow stud
 0 !HISTORY 2011-04-18 [MagFors] Calculated new edge lines
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 0 BFC INVERTNEXT
 1 16 150 0 0 4 0 0 0 6.67 0 0 0 4 4-4cyli.dat

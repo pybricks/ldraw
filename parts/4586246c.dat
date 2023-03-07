@@ -1,16 +1,17 @@
-0 Sticker  0.8 x  3.8 White Dot Matrix Display on Black Background with "LEGO CITY" 
+0 Sticker  0.8 x  3.8 White Dot Matrix Display on Black Background with "LEGO CITY"
 0 Name: 4586246c.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+0 !HELP !ATTACHTO 46413.dat 0 38 -130 1 0 0 0 .85717 -.51504 0 .51504 .85717
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Set 7938
 
-0 !HELP !ATTACHTO 46413.dat 0 38 -130 1 0 0 0 .85717 -.51504 0 .51504 .85717
-
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 -.25 0 38 0 0 0 .25 0 0 0 8 box5-12.dat
 

@@ -2,16 +2,17 @@
 0 Name: 3788.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-12-20 [PTadmin]      Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin]      Official Update 2008-01
+0 !HISTORY 2007-12-20 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [DeannaEarley] Removed erroneous BFC CERTIFY entry; Corrected stud orientation; Made some use of primitives (2005-08-29)
-0 !HISTORY 2009-05-02 [PTadmin]      Official Update 2009-01
-0 !HISTORY 2017-01-09 [Steffen]      compacted file
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2017-01-09 [Steffen] compacted file
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 -30 0 0 0 0 1 0 1 0 -1 0 0 stug-1x2.dat
 1 16 30 0 0 0 0 1 0 1 0 -1 0 0 stug-1x2.dat

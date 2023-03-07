@@ -2,18 +2,19 @@
 0 Name: 973psu.dat
 0 Author: El'dar Ismagilov [Eldar]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS star wars, clone wars, republic army
-0 !KEYWORDS soldier, armour, dual, belt
-0 !KEYWORDS brickLink 973pb0510, set 8098, set 7869, set 7675, set 10195, set 8039
+0 !KEYWORDS Armour, belt, brickLink 973pb0510, Clone Wars, Dual, republic army
+0 !KEYWORDS set 10195, set 7675, set 7869, set 8039, set 8098, soldier
+0 !KEYWORDS Star Wars
 
 0 !HISTORY 2011-07-25 [BlackBrick89] repaired pattern
 0 !HISTORY 2018-12-22 [MagFors] added missing pattern
 0 !HISTORY 2021-11-14 [Holly-Wood] Changed to bluish grey, streamlined pattern, added set ref
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 

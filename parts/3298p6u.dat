@@ -2,11 +2,12 @@
 0 Name: 3298p6u.dat
 0 Author: Nils Schmidt [BlackBrick89]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3298s01.dat
 3 0 -14.755 1.94 -13.88 -13.27 1.225 -12.45 -13.81 0.77 -11.54
@@ -1827,4 +1828,4 @@
 4 16 -20 9.8247 -29.6493 -18.265 9.805 -29.61 -18.265 4.93 -19.86 -20 5.6867 -21.3735
 4 16 -20 5.6867 -21.3735 -18.265 4.93 -19.86 -18.265 2.915 -15.83 -20 3.9764 -17.9528
 3 16 -18.265 2.915 -15.83 -20 1.4703 -12.9406 -20 3.9764 -17.9528
-0 
+0

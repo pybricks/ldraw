@@ -2,15 +2,16 @@
 0 Name: 4066bp0z.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Trash, Recycle, bricklink 4066pb058
-0 !KEYWORDS Set 2613, Set 9160, Set 9165, Set 9157, Set 9177, Set 9179, Set 9124
+0 !KEYWORDS bricklink 4066pb058, Recycle, Set 2613, Set 9124, Set 9157, Set 9160
+0 !KEYWORDS Set 9165, Set 9177, Set 9179, trash
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 4 4 3.5 7 -20 0 6.75 -20 -3.5 7 -20 -5.5 7.5 -20

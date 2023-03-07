@@ -2,7 +2,7 @@
 0 Name: s\12888s01.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2014-12-17 [Steffen] File preparation for LDraw Parts Tracker
 0 !HISTORY 2018-06-18 [MagFors] Added cond-lines, reworked pattern
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 16 2.229 -4.041 -9.71 -1.77 -4.041 -9.71 -2.069 0 -9.37 2.528 0 -9.37
 4 16 -7.063 -13.835 -9.153 -7.117 -14.362 -5.144 -7.008 -10.63 -5.981 -6.968 -10.58 -8.686

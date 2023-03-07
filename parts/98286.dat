@@ -2,11 +2,12 @@
 0 Name: 98286.dat
 0 Author: Tim Gould [timgould]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 1 16 0 0 -20 0 0 -1 0 1 0 1 0 0 stug-2x2.dat
 1 16 0 0 10 0 0 -1 0 1 0 1 0 0 stug-2x1.dat
@@ -56,10 +57,9 @@
 3 16 8 4 20 7.39 4 23.06 8 4 26
 3 16 7.39 4 23.06 5.66 4 25.57 8 4 26
 3 16 5.66 4 25.57 5.14 4 26 8 4 26
-1 16 0 4 20 0 0 -1 0 -1 0 1 0 0 STUD4H.dat
-1 16 0 4 0 0 0 -1 0 -1 0 1 0 0 STUD4H.dat
-1 16 0 4 -20 0 0 -1 0 -1 0 1 0 0 STUD4H.dat
-
+1 16 0 4 20 0 0 -1 0 -1 0 1 0 0 stud4h.dat
+1 16 0 4 0 0 0 -1 0 -1 0 1 0 0 stud4h.dat
+1 16 0 4 -20 0 0 -1 0 -1 0 1 0 0 stud4h.dat
 
 0 // Connection
 1 16 10 10 40 0 -1 0 1 0 0 0 0 1 connhole.dat

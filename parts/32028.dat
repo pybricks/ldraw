@@ -1,8 +1,8 @@
 0 Plate  1 x  2 with Door Rail
 0 Name: 32028.dat
-0 Author: Remco Braak
+0 Author: Remco Braak [remco1974]
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -16,6 +16,7 @@
 0 !HISTORY 2008-11-16 [boogie] corrected part and simplified code by use of box4-4a primitive
 0 !HISTORY 2009-01-02 [anathema] Corrected dimensions of tongue, optimised a bit
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
 
 0 BFC INVERTNEXT
 1 16 0 8 0 16 0 0 0 -4 0 0 0 -6 box5.dat

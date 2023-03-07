@@ -2,17 +2,18 @@
 0 Name: 48\t04i0455.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG 48_Primitive UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 
+
 0 // Major Radius: 22
 0 // Tube(Minor) Radius: 1
 0 // Segments(Sweep): 12/48 = 0.25
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.0455 0 0  0 0 0.0455  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.0455 0 0 0 0 0.0455 0 1 0 4-4edge.dat
 
 4 16 0.9545 0 0 0.9463 0 0.1246 0.9467 0.0059 0.1246 0.9549 0.0059 0
 4 16 0.9549 0.0059 0 0.9467 0.0059 0.1246 0.9479 0.0118 0.1248 0.9561 0.0118 0

@@ -2,13 +2,14 @@
 0 Name: 30363ps0.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Bricklink 30363px2, Set 7133
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30363s01.dat
 4 2 -1.6703 8.235 -34.7051 0 8.2091 -34.6273 0 8.054 -34.162 -1.7183 8.0807 -34.2421

@@ -2,7 +2,7 @@
 0 Name: 44126.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2004-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,13 +12,14 @@
 0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+
 1 16 16 12 -20 0 -8 0 0 0 8 -1 0 0 box4-1.dat
 1 16 -16 12 -20 0 8 0 0 0 8 1 0 0 box4-1.dat
 1 16 -16 15 -60 0 8 0 0 0 5 1 0 0 box4-1.dat
 1 16 16 15 -60 0 -8 0 0 0 5 -1 0 0 box4-1.dat
-1 16 0 24 0 20 0 0 0 -24 0 0 0 20 BOX4-7A.DAT
+1 16 0 24 0 20 0 0 0 -24 0 0 0 20 box4-7a.dat
 0 BFC INVERTNEXT
-1 16 0 24 -1.5 16 0 0 0 -20 0 0 0 17.5 BOX4-7A.DAT
+1 16 0 24 -1.5 16 0 0 0 -20 0 0 0 17.5 box4-7a.dat
 2 24 -20 0 -20 -20 2 -40
 5 24 -20 0 -20 20 0 -20 0 2 -40 0 0 0
 2 24 -20 2 -40 -20 6 -60

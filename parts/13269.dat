@@ -2,13 +2,14 @@
 0 Name: 13269.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Cockpit, Roof, Train
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 12 -40 40 0 0 0 -2 10 0 0 -20 box2-5.dat
 1 16 57.1213 22 -12.8787 0 2.8787 0 2 0 0 0 2.8787 -30 box2-7.dat
@@ -175,7 +176,6 @@
 4 16 40 24 -60 -40 24 -60 -38.3431 24 -56 38.3431 24 -56
 4 16 -38.3431 24 -56 -40 24 -60 -45.7574 24 -54.2426 -42.929 24 -51.4142
 
-
 2 24 55.5 20 -24 56 20 -24
 4 16 56 20 -38.3431 55.5 20 -36.5 55.5 20 -24 56 20 -24
 3 16 55.5 20 -36.5 56 20 -38.3431 51.4142 20 -42.929
@@ -208,7 +208,6 @@
 3 16 -40 7.4 -24 -45.2727 9.7727 -24 -56 24 -24
 3 16 -45.2727 9.7727 -24 -55.5 20 -24 -56 24 -24
 3 16 -55.5 20 -24 -56 20 -24 -56 24 -24
-
 
 0 // underside front studs at sides (double sloped area)
 0 // +x
@@ -275,7 +274,6 @@
 1 16 -40 17.3 -40 0 0 6 0 -2.7 0 -6 0 0 2-4cyls.dat
 
 1 16 -40 20 -40 1 0 0 0 -1 0 0 0 1 stud4a.dat
-
 
 0 // other underside front studs
 

@@ -2,11 +2,11 @@
 0 Name: 30299.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Rock Raiders, canopy, base, nose
+0 !KEYWORDS base, canopy, Nose, rock raiders
 
 0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
 0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
@@ -15,6 +15,7 @@
 0 !HISTORY 2017-07-10 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2017-07-12 [MagFors] Closed gaps, removed overlapping surfaces
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 0 // outside canopy
 4 16 76 28 20 76 28 -19 -76 28 -19 -76 28 20

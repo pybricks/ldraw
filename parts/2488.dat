@@ -2,14 +2,13 @@
 0 Name: 2488.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS bullwhip, horsewhip, animal, drover
-0 !KEYWORDS plant, vegetation, vine, vines, jungle
-0 !KEYWORDS Pirates, islanders, adventurers, amazon
+0 !KEYWORDS Adventurers, amazon, animal, bullwhip, drover, horsewhip, islanders
+0 !KEYWORDS Jungle, Pirates, Plant, vegetation, vine, vines
 
 0 !HISTORY 2002-08-23 [BrickCaster] Identical lines removed, edge line uncommented
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
@@ -17,6 +16,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2014-11-20 [Holly-Wood] Primitive substitution, BFCed
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 16 0 24 0 4 0 0 0 -48 0 0 0 -4 4-4cylc.dat
 1 16 0 -24 0 2 0 0 0 -64 0 0 0 2 4-4con1.dat

@@ -2,7 +2,7 @@
 0 Name: 41763.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part Alias UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,8 +10,9 @@
 0 !HISTORY 2013-12-14 [cwdee] Add = prefix
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
+
 0 // Part 41763 is the counterpart of 42023. Visually, the two parts seem
-0 // identical.  This file is provided to make it easier to locate part files
+0 // identical. This file is provided to make it easier to locate part files
 0 // when using the numbers from other sources.
 0 // 42023 is used for molding opaque parts, 41763 for transparent parts.
 

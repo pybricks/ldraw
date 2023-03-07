@@ -2,16 +2,18 @@
 0 Name: 98138p2g.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 11014, Set 11015, Set 11017, Set 11018, Set 11019, Set 11020, Set 11021
-0 !KEYWORDS Set 11963, Set 30580, Set 30582, Set 41446, Bricklink 98138pb183
+0 !KEYWORDS Bricklink 98138pb183, Set 11014, Set 11015, Set 11017, Set 11018
+0 !KEYWORDS Set 11019, Set 11020, Set 11021, Set 11963, Set 30580, Set 30582
+0 !KEYWORDS Set 41446
 
 0 !CMDLINE -c15
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s01.dat
 1 16 0 0 0 9 0 0 0 1 0 0 0 9 4-4ering.dat

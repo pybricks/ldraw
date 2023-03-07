@@ -2,7 +2,7 @@
 0 Name: 40490.dat
 0 Author: Ross Crawford [rosco]
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2008-07-10 [guyvivan] Use more primitives (2004-11-26)
 0 !HISTORY 2008-07-11 [PTadmin] Renamed from 120 (2005-07-07)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
 
 1 16 0 -10 -80 9 0 0 0 1 0 0 0 -9 2-4edge.dat
 1 16 0 10 -80 9 0 0 0 1 0 0 0 -9 2-4edge.dat

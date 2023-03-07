@@ -2,11 +2,12 @@
 0 Name: s\30117p61s01.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 80 96.454 23.206 -119.462 95.606 22.56 -118.614 93.585 22.56 -120.635 94.332 23.206 -121.584
 4 80 101.97 27.409 -124.978 101.121 26.762 -124.129 98.444 26.762 -126.807 99.191 27.408 -127.756

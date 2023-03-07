@@ -2,12 +2,13 @@
 0 Name: 71591.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Castle, Ninja, Ninjago, samurai, shogun, decoration, crest, gold, chrome
+0 !KEYWORDS Castle, chrome, crest, decoration, gold, Ninja, Ninjago, samurai
+0 !KEYWORDS shogun
 
 0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
 0 !HISTORY 2003-11-04 [fwcain] added CMDLINE, KEYWORDS; fixed Title...
@@ -19,6 +20,7 @@
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2020-04-25 [Sirio] File preparation for LDraw Parts Tracker and renamed from 529
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 0 // Subparts
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\71591s01.dat

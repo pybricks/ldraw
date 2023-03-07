@@ -2,7 +2,7 @@
 0 Name: 14295c01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Offset torso by y=-0.5LDU
 
@@ -12,6 +12,7 @@
 0 !KEYWORDS Leia
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\600880c01s01.dat
 3 16 18.75 0 -10 19.2769 20.8517 -6.8644 18.7763 24.5385 -8.665

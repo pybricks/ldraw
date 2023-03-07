@@ -2,7 +2,7 @@
 0 Name: 2867.dat
 0 Author: Ludo Soete [ludo]
 0 !LDRAW_ORG Part UPDATE 2004-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC NOCERTIFY
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-05-20 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 0 // Thanks to Tore Eriksson for his help.
 
@@ -1234,7 +1235,7 @@
 0
 0 Inlined:1 16 0 0 0 1 0 0 0 1 0 0 0 1 Z_movedtop1.dat
 0
-0 Original Line:  1 16 0 0 800 1 0 0 0 1 0 0 0 1 Z_top1.dat
+0 Original Line: 1 16 0 0 800 1 0 0 0 1 0 0 0 1 Z_top1.dat
 0
 0 COMMENT : Binnenste Rail bovenkant 2 / Inner rail top 2
 0
@@ -2764,8 +2765,8 @@
 0
 0 Comment : metal rail
 1 383 0 0 0 1 0 0 0 1 0 0 0 1 s\2867s05.dat
-1 383 -156.0723 0 -15.3718 .9808 0 -.1951 0 1 0 .1951 0 .9808 s\2865s06.DAT
-1 383 -136.4657 0 -113.9407 .9808 0 -.1951 0 1 0 .1951 0 .9808 s\2865s06.DAT
+1 383 -156.0723 0 -15.3718 .9808 0 -.1951 0 1 0 .1951 0 .9808 s\2865s06.dat
+1 383 -136.4657 0 -113.9407 .9808 0 -.1951 0 1 0 .1951 0 .9808 s\2865s06.dat
 1 383 156.0723 0 -15.3718 -.9808 0 -.1951 0 1 0 .1951 0 -.9808 s\2865s06.dat
 1 383 175.6788 0 83.1971 -.9808 0 -.1951 0 1 0 .1951 0 -.9808 s\2865s06.dat
 0

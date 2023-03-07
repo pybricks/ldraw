@@ -2,16 +2,17 @@
 0 Name: 97785.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Kitchen, Cookware, Meal, 93082
+0 !KEYWORDS 93082, Cookware, Kitchen, Meal
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2015-03-01 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 3 16 -16.724 -7 10.65 -16.678 -5.7 10.744 -17.452 -7 6.285
 3 16 -17.452 -5.7 6.245 -17.452 -7 6.285 -16.678 -5.7 10.744

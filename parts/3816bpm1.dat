@@ -2,18 +2,19 @@
 0 Name: 3816bpm1.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Lord of the Rings, Eomer, Theoden, Armor
-0 !KEYWORDS set 9474, set 9471
+0 !KEYWORDS Armor, Éomer, Lord of the Rings, set 9471, set 9474, Théoden
+
 0 !CMDLINE -c308
 
 0 !HISTORY 2013-12-23 [Wesley] Original pattern design
 0 !HISTORY 2020-06-22 [cwdee] Adapted to corrected geometry
 0 !HISTORY 2021-03-28 [cwdee] Corrected grey colour 76->87
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3817bs01.dat
 5 24 -2 3.349 -8.084 -18.659 3.349 -8.084 -2 0 -8.75 -2 6.187 -6.187

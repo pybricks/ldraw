@@ -2,13 +2,14 @@
 0 Name: 3817bpc4b.dat
 0 Author: Fredrik Hareide [fhareide]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Bricklink 970c00pb0098, Set 8804, Soccer
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bs01.dat
 
@@ -18,7 +19,6 @@
 5 24 18.755 6.187 -6.187 2 6.187 -6.187 2 7.399 -4 2 3.349 -8.084
 5 24 2 0 -8.75 18.546 0 -8.75 18.659 3.349 -8.084 2 -3.349 -8.084
 5 24 2 -3.349 -8.084 18.433 -3.349 -8.084 18.546 0 -8.75 2 -6.187 -6.187
-
 
 0 // Black
 4 0 9.784 4.355 -7.412 10.915 4.603 -7.246 10.457 3.349 -8.084 9.555 3.349 -8.084

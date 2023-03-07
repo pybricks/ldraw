@@ -2,15 +2,16 @@
 0 Name: 2552p05.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Castle, Dragon Knights, Set 6082, Bricklink 2552px5
+0 !KEYWORDS Bricklink 2552px5, Castle, Dragon Knights, Set 6082
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 0 !HISTORY 2022-03-07 [RainbowDolphin] Added missing studs and keywords
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 -210 0 300 1 0 0 0 1 0 0 0 1 stug-1x12.dat
 1 16 -210 0 -320 1 0 0 0 1 0 0 0 1 stug-1x12.dat
@@ -83,7 +84,7 @@
 
 0 // Pit
 4 16 -130 0 110 -90 0 30 110 0 30 110 0 110
-4 16 -130 0 -10 -90 0 -10 -90 0 30 -130 0 110 
+4 16 -130 0 -10 -90 0 -10 -90 0 30 -130 0 110
 4 16 150 -136 150 110 0 110 110 0 30 150 -136 -10
 4 16 -50 -136 -10 150 -136 -10 110 0 30 -90 0 30
 4 16 -50 -136 -50 -50 -136 -10 -90 0 30 -90 0 -10

@@ -2,17 +2,17 @@
 0 Name: 3068bpt4.dat
 0 Author: Bertrand Lequy [Berth]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS tree comes to life
-0 !KEYWORDS set 10251, set 75902
-0 !KEYWORDS picture, paper clip, zombie, article
+0 !KEYWORDS article, paper clip, Picture, set 10251, Set 75902
+0 !KEYWORDS tree comes to life, zombie
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 0 !HISTORY 2018-06-14 [Holly-Wood] Redesigned from scratch using Bookman Old Style Italic and Bookmania Black, Bold, Semibold as fonts
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 0 // Subpart
 
@@ -887,7 +887,6 @@
 4 71 -3.767 0 -1.809 -2.71 0 .86 -3.11 0 1.65 -3.678 0 2.185
 4 71 11.41 0 2.86 10.57 0 3.2 10.34 0 1.647 12.167 0 2.035
 4 71 11.41 0 2.86 12.167 0 2.035 12.27 0 2.56 11.95 0 2.82
-
 
 0 // Light Yellow
 4 18 -15.13 0 17.8 -17.57 0 17.58 -17.58 0 16.99 -14.837 0 17.054

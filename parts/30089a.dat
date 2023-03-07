@@ -2,7 +2,7 @@
 0 Name: 30089a.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Handle is rotated 30°
 0 !HELP Front stud: X=0, Y=0 , Z=0s
@@ -11,8 +11,8 @@
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS pocket, still, slide, instamatic, 35mm, film, tourist
-0 !KEYWORDS town, photography
+0 !KEYWORDS 35mm, film, instamatic, photography, pocket, slide, still, tourist
+0 !KEYWORDS town
 
 0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
 0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
@@ -23,6 +23,7 @@
 0 !HISTORY 2018-11-09 [Philo] Unmirrored front stud, minor improvements
 0 !HISTORY 2018-11-13 [PTadmin] Renamed from 30089
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 0 // handle
 

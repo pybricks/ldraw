@@ -1,8 +1,8 @@
 0 Technic Turntable Type 1 Top
 0 Name: 2855.dat
-0 Author: Remco Braak
+0 Author: Remco Braak [remco1974]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC Compliant (2004-08-18)
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 0 0 68.5 0 0 0 16 0 0 0 68.5 48\4-4cyli.dat
 1 16 0 0 0 6.85 0 0 0 1 0 0 0 6.85 48\4-4ring9.dat

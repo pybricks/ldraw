@@ -2,10 +2,11 @@
 0 Name: 2039.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Fabuland, Belville, Trains, Harry Potter, Creator, Freestyle
+
+0 !KEYWORDS Belville, Creator, Fabuland, Freestyle, Harry Potter, Trains
 
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
@@ -17,6 +18,7 @@
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 0 !HISTORY 2019-09-12 [cwdee] Update description
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4disc.dat
@@ -47,12 +49,12 @@
 1 16 0 15.5 0 -7.5 0 0 0 -7.5 0 0 0 -7.5 t04o3333.dat
 1 16 0 18 0 7.5 0 0 0 -1 0 0 0 7.5 4-4disc.dat
 0 // upper column
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2039s01.DAT
-1 16 0 0 0 0.5 0 0.866 0 1 0 -0.866 0 0.5 s\2039s01.DAT
-1 16 0 0 0 -0.5 0 0.866 0 1 0 -0.866 0 -0.5 s\2039s01.DAT
-1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\2039s01.DAT
-1 16 0 0 0 -0.5 0 -0.866 0 1 0 0.866 0 -0.5 s\2039s01.DAT
-1 16 0 0 0 0.5 0 -0.866 0 1 0 0.866 0 0.5 s\2039s01.DAT
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2039s01.dat
+1 16 0 0 0 0.5 0 0.866 0 1 0 -0.866 0 0.5 s\2039s01.dat
+1 16 0 0 0 -0.5 0 0.866 0 1 0 -0.866 0 -0.5 s\2039s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\2039s01.dat
+1 16 0 0 0 -0.5 0 -0.866 0 1 0 0.866 0 -0.5 s\2039s01.dat
+1 16 0 0 0 0.5 0 -0.866 0 1 0 0.866 0 0.5 s\2039s01.dat
 0
 5 24 0 100.19 7.765 0 100 7 2.972 100.19 7.174 -2.972 100.19 7.174
 5 24 0 100.732 8.414 0 100.19 7.765 3.22 100.732 7.774 -3.22 100.732 7.774
@@ -361,12 +363,12 @@
 1 16 0 100 0 7 0 0 0 1 0 0 0 7 4-4disc.dat
 1 16 0 104 0 8.705 0 0 0 -1 0 0 0 8.705 4-4disc.dat
 0 // lower column
-1 16 0 0 0 0.866 0 0.5 0 1 0 -0.5 0 0.866 s\2039s02.DAT
-1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\2039s02.DAT
-1 16 0 0 0 -0.866 0 0.5 0 1 0 -0.5 0 -0.866 s\2039s02.DAT
-1 16 0 0 0 -0.866 0 -0.5 0 1 0 0.5 0 -0.866 s\2039s02.DAT
-1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\2039s02.DAT
-1 16 0 0 0 0.866 0 -0.5 0 1 0 0.5 0 0.866 s\2039s02.DAT
+1 16 0 0 0 0.866 0 0.5 0 1 0 -0.5 0 0.866 s\2039s02.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\2039s02.dat
+1 16 0 0 0 -0.866 0 0.5 0 1 0 -0.5 0 -0.866 s\2039s02.dat
+1 16 0 0 0 -0.866 0 -0.5 0 1 0 0.5 0 -0.866 s\2039s02.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\2039s02.dat
+1 16 0 0 0 0.866 0 -0.5 0 1 0 0.5 0 0.866 s\2039s02.dat
 1 16 0 154 0 2.5 0 0 0 1 0 0 0 2.5 4-4ring3.dat
 0
 1 16 0 154 0 10 0 0 0 1 0 0 0 10 4-4edge.dat

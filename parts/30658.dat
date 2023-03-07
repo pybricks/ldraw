@@ -2,13 +2,14 @@
 0 Name: 30658.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-11-17 [Philo] Optimized, made the hub normal res., removed ~
 0 !HISTORY 2017-12-10 [Philo] Simplified using 3404
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3404.dat
 1 16 0 15 -36.8 2.21731 0 -0.91844 0 -1 0 0.91844 0 2.21731 3-8chrd.dat

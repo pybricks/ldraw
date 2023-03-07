@@ -2,11 +2,12 @@
 0 Name: u574.dat
 0 Author: Greg Teft [gregteft]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 120 0 50 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 120 0 30 1 0 0 0 1 0 0 0 1 stud.dat
@@ -65,7 +66,7 @@
 1 16 -102 3 0 -1.5 0 0 0 4 0 0 0 -1.5 boxjcyl4.dat
 1 16 -118 3 0 1.5 0 0 0 4 0 0 0 1.5 boxjcyl4.dat
 1 16 -122 3 0 4 0 0 0 4 0 0 0 1.5 box3u5p.dat
-0 
+0
 1 16 120 8 50 -10 0 0 0 -8 0 0 0 10 box4-4a.dat
 1 16 120 8 -50 10 0 0 0 -8 0 0 0 -10 box4-4a.dat
 1 16 -10 8 50 -40 0 0 0 -8 0 0 0 10 box4-4a.dat

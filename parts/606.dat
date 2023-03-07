@@ -1,8 +1,8 @@
 0 Baseplate 32 x 32 Road 9-Stud Straight
 0 Name: 606.dat
-0 Author: Leonardo Zide
+0 Author: Leonardo Zide [leozide]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-07 [anathema] Used s\606s01.dat, BFC'd (2008-07-03)
 0 !HISTORY 2010-04-09 [mikeheide] Moved portions from subfile
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\606s01.dat
 4 16 -316 0 -320 316 0 -320 316 0 320 -316 0 320

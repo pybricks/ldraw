@@ -2,7 +2,7 @@
 0 Name: s\4003s01.dat
 0 Author: Niels Karsdorp [nielsk]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2017-08-19 [PTadmin] Renamed from s/503s01
 0 !HISTORY 2017-08-31 [cwdee] Comment format corrected
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // Handle side
 1 16 30 8 68.5 4 0 0 0 0 4 0 1 0 4-4edge.dat
@@ -22,10 +23,10 @@
 1 16 30 8 37.419 4 0 0 0 0 -4 0 -11.892 0 1-4cyls.dat
 1 16 23 8 28.5 0 1 3 4 0 0 0 0 11.172 2-4edge.dat
 1 16 23 8 28.5 0 1 3 4 0 0 0 0 11.172 2-4disc.dat
-1 16 28.872 8 37.872 -2.8718 1.1277 0 0 0 4 1.7994 1.7999 0  1-4cyls.dat
-1 16 28.872 8 37.872 -2.8718 1.1277 0 0 0 -4 1.7994 1.7999 0  1-4cyls.dat
-1 16 28.872 8 37.872 -2.8718 -5.8724 0 0 0 4 1.7994 -9.3722 0  1-4cyls.dat
-1 16 28.872 8 37.872 -2.8718 -5.8724 0 0 0 -4 1.7994 -9.3722 0  1-4cyls.dat
+1 16 28.872 8 37.872 -2.8718 1.1277 0 0 0 4 1.7994 1.7999 0 1-4cyls.dat
+1 16 28.872 8 37.872 -2.8718 1.1277 0 0 0 -4 1.7994 1.7999 0 1-4cyls.dat
+1 16 28.872 8 37.872 -2.8718 -5.8724 0 0 0 4 1.7994 -9.3722 0 1-4cyls.dat
+1 16 28.872 8 37.872 -2.8718 -5.8724 0 0 0 -4 1.7994 -9.3722 0 1-4cyls.dat
 1 16 30 8 39.672 0 0 -4 4 0 0 0 -12.253 0 2-4edge.dat
 0 // Middle side
 2 24 12.5 4 -26.5 30 4 25.527

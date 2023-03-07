@@ -2,7 +2,7 @@
 0 Name: 60601.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 0 !HISTORY 2018-10-02 [UR] Updated to insert Subfile
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 0 0 1 -0 0 0 1 0 0 0 1 s\60601s01.dat
 4 16 -2 39 -7 -2 4 -7 -16.5 4 -7 -16.5 39 -7

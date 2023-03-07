@@ -2,13 +2,14 @@
 0 Name: 15082.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2020-10-27 [GeraldLasser] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 10 0 4 0 0 0 -10 0 0 0 4 4-4cylc.dat
 
@@ -936,7 +937,6 @@
 2 24 -2.593 -.975 37.607 0 -.672 37.705
 2 24 0 -.84 33.206 -2.477 -1.118 33.135
 2 24 -2.841 -2.384 38.392 0 -2.337 38.922
-
 
 5 24 -3.396 -19.233 16.826 -3.5345 -19.122 10.8945 -3.331 -21.512 13.544 -3.746 -13.884 11.592
 5 24 -3.331 -21.512 13.544 -3.396 -19.233 16.826 -3.5345 -19.122 10.8945 -2.837 -25.908 16.726

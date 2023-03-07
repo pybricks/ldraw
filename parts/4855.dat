@@ -2,7 +2,7 @@
 0 Name: 4855.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2015-01-13 [Steffen] Modified with WINDZ for BFC compliance
 0 !HISTORY 2017-02-04 [MagFors] Subfiled for part variant
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4855s01.dat
 
@@ -51,7 +52,6 @@
 1 16 -10 0 -60 4 0 0 0 2.678 0 0 0 4 4-4cyli.dat
 1 16 10 0 -60 6 0 0 0 2.678 0 0 0 6 4-4cyli.dat
 1 16 -10 0 -60 6 0 0 0 2.678 0 0 0 6 4-4cyli.dat
-
 
 1 16 10 0 -50 0 0 1 0 1 0 -4.19885 0 0 rect2p.dat
 2 24 10 0 -46 9 0 -45.8012

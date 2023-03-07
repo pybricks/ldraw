@@ -2,11 +2,12 @@
 0 Name: s\30185s01.dat
 0 Author: William Howard [WilliamH]
 0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 4 16 -80 144 30 -75 144 30 -72 144 27 -74.5 144 24.5
 4 16 -74.5 140 24.5 -72 140 27 -63 140 18 -65.5 140 15.5

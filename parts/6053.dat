@@ -2,17 +2,19 @@
 0 Name: 6053.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS pirate, pirates, ship, skull, Armada
+
+0 !KEYWORDS Armada, Pirate, Pirates, ship, skull
 
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-08-25 [cwdee]   Update description
-0 !HISTORY 2012-08-30 [MagFors] Used stud-groups and subfile 
+0 !HISTORY 2012-08-25 [cwdee] Update description
+0 !HISTORY 2012-08-30 [MagFors] Used stud-groups and subfile
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 2 24 10 52 118 10 48 120
 4 16 10 52 140 10 48 140 10 48 120 10 52 118

@@ -2,13 +2,14 @@
 0 Name: 62698k01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part Flexible_Section UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2016-12-03 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 BFC INVERTNEXT
 1 16 0 -5.75 -14.13 -20 0 0 0 1.25 0 0 0 -11.25 box5.dat

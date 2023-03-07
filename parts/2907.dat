@@ -1,8 +1,8 @@
 0 Technic Ball with Grooves
 0 Name: 2907.dat
-0 Author: Jeff Boen
+0 Author: Jeff Boen [onyx]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2015-01-01 [Philo] Rebuilt with subpart
 0 !HISTORY 2021-09-23 [Philo] Swapped grooves/ribs position
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 -12 0 1 0 0 0 23 0 0 0 1 axlehole.dat
 1 16 0 -12 0 1 0 0 0 1 0 0 0 1 axlehol2.dat

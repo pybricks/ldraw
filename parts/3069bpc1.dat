@@ -2,11 +2,11 @@
 0 Name: 3069bpc1.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Rock Raiders, Underground, slide lever, gear shift
-0 !KEYWORDS throttle
+
+0 !KEYWORDS gear shift, rock raiders, slide lever, throttle, underground
 
 0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
 0 !HISTORY 2007-06-13 [PTadmin] Header formatted for Contributor Agreement
@@ -15,6 +15,7 @@
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 0 !HISTORY 2019-07-23 [Cheenzo] Reworked Pattern
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 

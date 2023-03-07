@@ -2,7 +2,7 @@
 0 Name: 32218.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2010-02-21 [mikeheide] Corrected edgelines, BFC error, closed gap.
 0 !HISTORY 2010-04-10 [mikeheide] corrected edgeline
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 2 24 0 -10 141.391 -4.2805 -10 137.633
 2 24 -4.2805 -10 137.633 -24.1295 -10 115.024

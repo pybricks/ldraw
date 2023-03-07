@@ -2,13 +2,14 @@
 0 Name: 24077.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 -12 -66 0 0 -6.4 0 0 0 -4 4 0 0 t02o4000.dat
 1 16 -12 -66 -4 -2.56 0 0 0 4 0 0 0 -1.6 1-4cyli.dat
@@ -28,7 +29,7 @@
 1 16 12 -66 0 0 -24 0 0 0 -4 4 0 0 4-4cyli.dat
 1 16 6.6 -34 0 0 -9.4 1.9 0 0 -4 4 0 0 4-4cyli.dat
 1 16 6.6 -34 0 0 -1 1.9 0 0 -4 4 0 0 4-4edge.dat
-1 16 -2.8 -34 0 -1.9 -3.8 0 4 0 0 0 0 4 4-4cylse.dat 
+1 16 -2.8 -34 0 -1.9 -3.8 0 4 0 0 0 0 4 4-4cylse.dat
 1 16 12 -66 0 0 1 0 0 0 -5.6 5.6 0 0 2-4chrd.dat
 1 16 12 -66 0 0 1 0 0 0 -5.6 5.6 0 0 2-4edge.dat
 1 16 -12 -66 0 0 -1 0 0 0 -4 4 0 0 4-4edge.dat

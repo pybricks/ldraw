@@ -2,11 +2,12 @@
 0 Name: s\61191s01.dat
 0 Author: Greg Teft [gregteft]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 2 24 19.784 72 -128 24.308 72 -114.427
 2 24 20 72 -140 28.103 72 -115.692

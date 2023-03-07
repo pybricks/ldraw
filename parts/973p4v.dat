@@ -2,15 +2,16 @@
 0 Name: 973p4v.dat
 0 Author: Lee Gaiteri [LummoxJR]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS Castle, Villager, Civilian
+0 !KEYWORDS Castle, civilian, Villager
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 0 !HISTORY 2020-09-30 [ejboer] Used updated pattern from 973p4y
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 -19 32 10 19 32 10 19 29 10 -19 29 10

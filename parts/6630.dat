@@ -2,7 +2,7 @@
 0 Name: 6630.dat
 0 Author: Remco Braak [remco1974]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, introduced use of 2-4cylo.dat, substituted some quads qith rects
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 2 24 54 4 6 62.213 4 6
 2 24 62.213 4 6 60.76 4 3.83

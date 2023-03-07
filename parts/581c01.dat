@@ -2,20 +2,21 @@
 0 Name: 581c01.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Shortcut UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS train, Bricklink x469b
-0 !KEYWORDS Set 107, Set 183, Set 404, Set 744, Set 901, Set 912, Set 7720
+0 !KEYWORDS Bricklink x469b, Set 107, set 183, Set 404, Set 744, set 7720
+0 !KEYWORDS Set 901, Set 912, Train
 
 0 !CMDLINE -c0
 
-0 !HISTORY 2012-03-18 [Steffen]   replaced color 383 by 494
-0 !HISTORY 2013-06-19 [MagFors]   moved axles to assembly shortcut
-0 !HISTORY 2015-06-08 [MagFors]   Renamed bottom part, was x582
-0 !HISTORY 2019-08-02 [anathema]  Added '4.5V' sticker
+0 !HISTORY 2012-03-18 [Steffen] replaced color 383 by 494
+0 !HISTORY 2013-06-19 [MagFors] moved axles to assembly shortcut
+0 !HISTORY 2015-06-08 [MagFors] Renamed bottom part, was x582
+0 !HISTORY 2019-08-02 [anathema] Added '4.5V' sticker
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9189.dat
 1 79 0 66 60 1 0 0 0 1 0 0 0 1 u9291.dat

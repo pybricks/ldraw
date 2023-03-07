@@ -2,15 +2,16 @@
 0 Name: 2586pw2.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS wild west, western, indian, american native, warrior
-0 !KEYWORDS set 5317, set 5392, set 6709, set 6746, set 6748, set 6763, set 6766
+0 !KEYWORDS american native, indian, set 5317, set 5392, set 6709, set 6746
+0 !KEYWORDS set 6748, set 6763, set 6766, Warrior, western, wild west
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 0 // Black
 4 0 2.661 30.698 -8 .525 31.275 -8 0 31.8 -8 3.077 31.221 -8

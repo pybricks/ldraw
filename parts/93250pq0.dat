@@ -2,16 +2,18 @@
 0 Name: 93250pq0.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Neckwear
 0 !KEYWORDS Pharaoh's Quest
+
 0 !CMDLINE -c272
 
 0 !HISTORY 2013-10-13 [MMR1988] Minor improvements
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 1.708 12.873 -1 0 0 0 1 0 0 0 -1 s\93250pq0s01.dat
 1 16 0 1.708 12.873 1 0 0 0 1 0 0 0 -1 s\93250pq0s01.dat
@@ -25,13 +27,13 @@
 1 16 0 1.708 15.746 -1 0 0 0 1 0 0 0 1 s\93250pq0s03.dat
 
 0 BFC INVERTNEXT
-1 16 0 -2 0 -6 0 0 0 1.9 0 0 0 -6 4-4cylo.DAT
-1 16 0 -2 0 6 0 0 0 1 0 0 0 6 4-4ndis.DAT
-1 16 0 -0.1 0 -6 0 0 0 -1 0 0 0 6 4-4ndis.DAT
-1 16 -6 -2 -6 -4 0 0 0 1.9 0 0 0 -4 1-4cylc.DAT
-1 16 -6 -0.1 -6 0 0 -4 0 -1 0 -4 0 0 1-4disc.DAT
-1 16 6 -2 -6 0 0 4 0 1.9 0 -4 0 0 1-4cylc.DAT
-1 16 6 -0.1 -6 4 0 0 0 -1 0 0 0 -4 1-4disc.DAT
+1 16 0 -2 0 -6 0 0 0 1.9 0 0 0 -6 4-4cylo.dat
+1 16 0 -2 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat
+1 16 0 -0.1 0 -6 0 0 0 -1 0 0 0 6 4-4ndis.dat
+1 16 -6 -2 -6 -4 0 0 0 1.9 0 0 0 -4 1-4cylc.dat
+1 16 -6 -0.1 -6 0 0 -4 0 -1 0 -4 0 0 1-4disc.dat
+1 16 6 -2 -6 0 0 4 0 1.9 0 -4 0 0 1-4cylc.dat
+1 16 6 -0.1 -6 4 0 0 0 -1 0 0 0 -4 1-4disc.dat
 1 16 0 -1.05 -10 6 0 0 0 0 -0.95 0 1 0 rect2p.dat
 2 24 -10 -0.1 9.9976 -10 -2 10
 2 24 -10 -0.1 9.9976 -10 -0.1 -6
@@ -62,7 +64,6 @@
 4 16 -6 -2 -6 -6 -2 0 -10 -2 10 -10 -2 -6
 4 16 -10 -2 10 -6 -2 6 0 -2 6 0 -2 10
 4 16 0 -2 10 0 -2 6 6 -2 6 10 -2 10
-
 
 5 24 -93.0048 -8.6166 12.873 -93.0466 -8.5845 12.873 -93.182 -8.355 11.466 -93.163 -8.315 14.892
 5 24 0 18.438 12.116 0 18.38 11.436 -1.066 18.919 11.724 1.066 18.919 11.724

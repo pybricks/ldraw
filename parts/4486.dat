@@ -2,7 +2,7 @@
 0 Name: 4486.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2017-08-08 [PTadmin] Renamed from 236a
 0 !HISTORY 2017-08-09 [Holly-Wood] Optimized
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // Grip
 
@@ -94,8 +95,6 @@
 1 16 5 107 30 0 -1 0 -3 0 0 0 0 -8 rect1.dat
 1 16 5 7 30 0 -1 0 3 0 0 0 0 -8 rect1.dat
 
-
-
 3 16 5 114 -10 5 104 0 5 64 0
 4 16 5 114 -10 5 64 0 5 50 0 5 0 -10
 3 16 5 0 -10 5 50 0 5 10 0
@@ -116,7 +115,6 @@
 4 16 5 114 70 5 59 66 5 64 60 5 104 60
 
 4 16 5 0 70 5 55 66 5 59 66 5 114 70
-
 
 3 16 5 64 60 5 59 66 5 59 64
 3 16 5 64 60 5 59 64 5 59 56

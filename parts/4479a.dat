@@ -2,7 +2,7 @@
 0 Name: 4479a.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 
 0 !HISTORY 2016-11-14 [Philo] Adapted from Tore Eriksson's 4479 to fit LDD shape
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 -2 0 4 0 0 0 2 0 0 0 4 4-4cylc.dat
 1 16 17 -2 0 4 0 0 0 2 0 0 0 4 4-4cylc.dat

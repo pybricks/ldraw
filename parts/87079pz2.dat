@@ -2,13 +2,14 @@
 0 Name: 87079pz2.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS BrickLink 87079pb411, Set 41594, Brickheadz, Captain Armando Salazar
+0 !KEYWORDS Brickheadz, BrickLink 87079pb411, Captain Armando Salazar, Set 41594
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
 3 0 38.5 0 0.94 38.5 0 3.34 33.45 0 2.37

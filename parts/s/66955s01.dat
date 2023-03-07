@@ -2,11 +2,12 @@
 0 Name: s\66955s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // Bottom
 
@@ -185,7 +186,7 @@
 2 24 8 -14.5635 -10 7.3912 -14.6515 -13.0616
 2 24 7.3912 -14.6515 -6.9384 7.384 -14.6525 -6.9276
 
-0 // Inside - Lower Section 
+0 // Inside - Lower Section
 1 16 18 -12 -20 0 0 -2 0 4 0 1.5 0 0 box4-1.dat
 0 BFC INVERTNEXT
 1 16 10.5 -12 -20 -6 0 0 0 2 0 0 0 -6 1-4cyls2.dat

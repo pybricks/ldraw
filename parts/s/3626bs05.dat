@@ -2,12 +2,13 @@
 0 Name: s\3626bs05.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-15 [MagFors] Increased decimal accuracy
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 5 24 13 17 0 13 4 0 12.0107 17 -4.9751 12.0107 17 4.9751
 5 24 8 0 0 9.9136 0.3046 0 7.3912 0 -3.0616 7.3912 0 3.0616

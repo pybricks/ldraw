@@ -2,7 +2,7 @@
 0 Name: 4448.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2008-07-08 [Philo] BFCed (2007-06-19)
 0 !HISTORY 2008-07-09 [anathema] Added pivots (2008-02-08)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 2 24 35 64 -60 -35 64 -60
 2 24 35 60 -60 -35 60 -60

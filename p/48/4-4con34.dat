@@ -2,11 +2,12 @@
 0 Name: 48\4-4con34.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG 48_Primitive UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 4 16 34 1 0 33.7076 1 4.437 34.699 0 4.5675 35 0 0
 4 16 33.7076 1 4.437 32.8406 1 8.7992 33.8065 0 9.058 34.699 0 4.5675

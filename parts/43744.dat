@@ -2,17 +2,18 @@
 0 Name: 43744.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Harry Potter, Fawkes
+0 !KEYWORDS Fawkes, Harry Potter
 
 0 !HISTORY 2011-12-03 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2011-12-04 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 0 !HISTORY 2015-11-05 [Philo] Corrected top pin hole diameter
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 1 16 0.02 0 0 0 0 -1 0 1 0 1 0 0 stud.dat
 0 BFC INVERTNEXT

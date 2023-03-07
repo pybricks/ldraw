@@ -2,7 +2,7 @@
 0 Name: 2717.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2005-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,10 +12,11 @@
 0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+
 1 16 -20 -41.5 13 0 1 0 2 0 0 0 0 2 4-4edge.dat
-1 16 -20 -41.5 13 0 1 0 2 0 0 0 0 2 4-8SPHE.DAT
+1 16 -20 -41.5 13 0 1 0 2 0 0 0 0 2 4-8sphe.dat
 1 16 20 -41.5 13 0 1 0 2 0 0 0 0 2 4-4edge.dat
-1 16 20 -41.5 13 0 -1 0 2 0 0 0 0 2 4-8SPHE.DAT
+1 16 20 -41.5 13 0 -1 0 2 0 0 0 0 2 4-8sphe.dat
 1 16 0 -4 10 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 -4 -10 1 0 0 0 -1 0 0 0 1 stud4.dat
 0 BFC INVERTNEXT
@@ -216,13 +217,13 @@
 0 BFC INVERTNEXT
 1 16 -25.6 -22 -10 0 -12.4 0 6 0 0 0 0 6 4-4cyli.dat
 0 BFC INVERTNEXT
-1 16 25.6 -22 -10 0 -0.6 0 0 0 6 -6 0 0 2-4CYLS.DAT
+1 16 25.6 -22 -10 0 -0.6 0 0 0 6 -6 0 0 2-4cyls.dat
 0 BFC INVERTNEXT
-1 16 -25.6 -22 -10 0 0.6 0 0 0 6 -6 0 0 2-4CYLS.DAT
+1 16 -25.6 -22 -10 0 0.6 0 0 0 6 -6 0 0 2-4cyls.dat
 0 BFC INVERTNEXT
-1 16 25.6 -22 -10 0 -0.6 0 0 0 -6 -6 0 0 2-4CYLS.DAT
+1 16 25.6 -22 -10 0 -0.6 0 0 0 -6 -6 0 0 2-4cyls.dat
 0 BFC INVERTNEXT
-1 16 -25.6 -22 -10 0 0.6 0 0 0 -6 -6 0 0 2-4CYLS.DAT
+1 16 -25.6 -22 -10 0 0.6 0 0 0 -6 -6 0 0 2-4cyls.dat
 2 24 40 -32 -20 40 -31.696 -21.531
 2 24 -40 -32 -20 -40 -31.696 -21.531
 2 24 40 -31.696 -21.531 40 -30.828 -22.828
@@ -464,13 +465,13 @@
 4 16 -16 -44 30 16 -44 30 16 -44 26 -16 -44 26
 4 16 -16 -8 30 -16 -8 18.5 16 -8 18.5 16 -8 30
 4 16 16 -38 26 16 -8 18.5 -16 -8 18.5 -16 -38 26
-1 16 0 -28 25.5 1 0 0 0 0 1 0 -1.125 0 STUD4A.dat
-1 16 0 -28 25.5 0 0 8 -8 0 0 0 -2 0 2-4CYLS.DAT
-1 16 0 -28 25.5 0 0 -8 -8 0 0 0 -2 0 2-4CYLS.DAT
+1 16 0 -28 25.5 1 0 0 0 0 1 0 -1.125 0 stud4a.dat
+1 16 0 -28 25.5 0 0 8 -8 0 0 0 -2 0 2-4cyls.dat
+1 16 0 -28 25.5 0 0 -8 -8 0 0 0 -2 0 2-4cyls.dat
 0 BFC INVERTNEXT
-1 16 0 -28 25 0 0 6 -6 0 0 0 -1.5 0 2-4CYLS.DAT
+1 16 0 -28 25 0 0 6 -6 0 0 0 -1.5 0 2-4cyls.dat
 0 BFC INVERTNEXT
-1 16 0 -28 25 0 0 -6 -6 0 0 0 -1.5 0 2-4CYLS.DAT
+1 16 0 -28 25 0 0 -6 -6 0 0 0 -1.5 0 2-4cyls.dat
 0 BFC INVERTNEXT
 1 16 0 -28 25.5 6 0 0 0 0 6 0 -0.5 0 4-4cyli.dat
 1 16 0 -28 23.5 8 0 0 0 0 8 0 1 -2 4-4edge.dat

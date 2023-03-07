@@ -2,21 +2,22 @@
 0 Name: 973pa9.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Indiana, Jones, Indy, BrickLink 973pb0131, set 7620
+0 !KEYWORDS BrickLink 973pb0131, Indiana, Indy, Jones, set 7620
 
 0 !CMDLINE -c70
 
-0 !HISTORY 2009-12-29 [PTadmin]      Official Update 2009-03
+0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 0 !HISTORY 2012-04-08 [BlackBrick89] Colour cleanup
-0 !HISTORY 2012-08-09 [PTadmin]      Official Update 2012-02
-0 !HISTORY 2018-01-28 [Steffen]      fixed !CMDLINE syntax error
+0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+0 !HISTORY 2018-01-28 [Steffen] fixed !CMDLINE syntax error
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
 0 !HISTORY 2021-01-16 [cwdee] Update description
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 // neck mark

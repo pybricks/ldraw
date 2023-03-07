@@ -2,7 +2,7 @@
 0 Name: s\98367s01.dat
 0 Author: Rolf Osterthun [Rolf]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2012-10-08 [Rolf] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-02-17 [MagFors] moved origin of handle2.dat
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 2 24 -18.322 -27.775 -9.8 -18.322 27.775 -9.8
 2 24 -17.994 -28.864 -9.971 -18.322 -27.775 -9.8

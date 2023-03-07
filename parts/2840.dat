@@ -2,7 +2,7 @@
 0 Name: 2840.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2017-07-21 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2017-07-22 [MagFors] closed mesh
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 2 24 -220 120 80 220 120 80
 2 24 -320 120 -207.846 240 120 -207.846

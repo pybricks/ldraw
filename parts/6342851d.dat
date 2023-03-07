@@ -2,13 +2,14 @@
 0 Name: 6342851d.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Set 10283
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 4 16 25.538 0 12.368 31.212 0 -12.368 -25.538 0 -12.368 -31.212 0 12.368
 4 16 31.212 0 -12.368 25.538 0 12.368 25.538 -0.25 12.368 31.212 -0.25 -12.368

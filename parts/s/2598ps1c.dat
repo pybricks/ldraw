@@ -2,12 +2,13 @@
 0 Name: s\2598ps1c.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2005-12-27 [guyvivan] Made BFC'ed
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 1 8 68.777 26.9765 -27.7648 -0.6075 -0.3619 0.7071 -0.5118 0.8591 0 0.6075 -0.3619 0.7071 4-4disc.dat
 1 0 68.777 26.9765 -27.7648 -0.6075 -0.3619 0.7071 -0.5118 0.8591 0 0.6075 -0.3619 0.7071 4-4ndis.dat

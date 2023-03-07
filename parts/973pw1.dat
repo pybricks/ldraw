@@ -2,20 +2,21 @@
 0 Name: 973pw1.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Wild West, Western, military, uniform, United States, army, U.S. Army
-0 !KEYWORDS cavalry, horse troops, rank, insignia, star, stars, shoulder, collar
-0 !KEYWORDS officer, senior officer, General, Colonel, Lieutenant Colonel
-0 !KEYWORDS soldier, veteran
+
+0 !KEYWORDS army, cavalry, collar, colonel, General, horse troops, insignia
+0 !KEYWORDS Lieutenant Colonel, Military, officer, rank, senior officer
+0 !KEYWORDS shoulder, soldier, Star, Stars, U.S. Army, Uniform, United States
+0 !KEYWORDS veteran, western, wild west
+
 0 !CMDLINE -c1
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
+
 0 // Black
-
-
 
 4 0 -11.06 0 -10 -11.55 0 -10 -11.98 0.81 -10 -11.48 0.85 -10
 4 0 -11.48 0.85 -10 -11.98 0.81 -10 -12.566 2.158 -10 -12.02 2.22 -10
@@ -316,18 +317,18 @@
 1 334 0 0 0 1 0 0 0 1 0 0 0 1 s\973pw1c.dat
 
 0 // Subparts Buttons
-1 16 -5.6 4.52 -10 1 0 0 0 1 0 0 0 1  s\973pw1a.dat
-1 16 -4.87 8.42 -10 1 0 0 0 1 0 0 0 1  s\973pw1a.dat
-1 16 -4.43 12.63 -10 1 0 0 0 1 0 0 0 1  s\973pw1a.dat
-1 16 -4.2 16.83 -10 1 0 0 0 1 0 0 0 1  s\973pw1a.dat
-1 16 -3.64 21.04 -10 1 0 0 0 1 0 0 0 1  s\973pw1a.dat
-1 16 -2.79 25.25 -10 1 0 0 0 1 0 0 0 1  s\973pw1a.dat
-1 16 6.39 3.96 -10 -1 0 0 0 -1 0 0 0 1  s\973pw1a.dat
-1 16 6.29 7.96 -10 -1 0 0 0 -1 0 0 0 1  s\973pw1a.dat
-1 16 6.17 12.25 -10 -1 0 0 0 -1 0 0 0 1  s\973pw1a.dat
-1 16 5.87 16.54 -10 -1 0 0 0 -1 0 0 0 1  s\973pw1a.dat
-1 16 5.23 20.84 -10 -1 0 0 0 -1 0 0 0 1  s\973pw1a.dat
-1 16 4.18 25.14 -10 -1 0 0 0 -1 0 0 0 1  s\973pw1a.dat
+1 16 -5.6 4.52 -10 1 0 0 0 1 0 0 0 1 s\973pw1a.dat
+1 16 -4.87 8.42 -10 1 0 0 0 1 0 0 0 1 s\973pw1a.dat
+1 16 -4.43 12.63 -10 1 0 0 0 1 0 0 0 1 s\973pw1a.dat
+1 16 -4.2 16.83 -10 1 0 0 0 1 0 0 0 1 s\973pw1a.dat
+1 16 -3.64 21.04 -10 1 0 0 0 1 0 0 0 1 s\973pw1a.dat
+1 16 -2.79 25.25 -10 1 0 0 0 1 0 0 0 1 s\973pw1a.dat
+1 16 6.39 3.96 -10 -1 0 0 0 -1 0 0 0 1 s\973pw1a.dat
+1 16 6.29 7.96 -10 -1 0 0 0 -1 0 0 0 1 s\973pw1a.dat
+1 16 6.17 12.25 -10 -1 0 0 0 -1 0 0 0 1 s\973pw1a.dat
+1 16 5.87 16.54 -10 -1 0 0 0 -1 0 0 0 1 s\973pw1a.dat
+1 16 5.23 20.84 -10 -1 0 0 0 -1 0 0 0 1 s\973pw1a.dat
+1 16 4.18 25.14 -10 -1 0 0 0 -1 0 0 0 1 s\973pw1a.dat
 
 0 // Subpart Belt Logo
 1 334 0 0 0 1 0 0 0 1 0 0 0 1 s\973pw1b.dat

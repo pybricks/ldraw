@@ -1,13 +1,13 @@
-0 Train Pantograph Shoe with Three Finger Hinge 
+0 Train Pantograph Shoe with Three Finger Hinge
 0 Name: 2922a.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Hinge
-0 !KEYWORDS cantenary, rod, bar, grille
+0 !KEYWORDS bar, cantenary, grille, rod
 
 0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
 0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
@@ -22,6 +22,7 @@
 0 !HISTORY 2020-03-10 [Sirio] Updated the use of primitives: removed 1-4ccyli.dat
 0 !HISTORY 2020-04-17 [MMR1988] Introduced 3-4cyli due to condlines at tangential faces
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 12 0 0 0 1 0 1 0 1 0 0 h2.dat
 

@@ -2,11 +2,12 @@
 0 Name: 48\4-4con35.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG 48_Primitive UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 4 16 35 1 0 34.699 1 4.5675 35.6904 0 4.698 36 0 0
 4 16 34.699 1 4.5675 33.8065 1 9.058 34.7724 0 9.3168 35.6904 0 4.698
@@ -108,5 +109,4 @@
 5 24 34.699 1 -4.5675 35.6904 0 -4.698 33.8065 1 -9.058 35 1 0
 
 0 // end of file
-
 

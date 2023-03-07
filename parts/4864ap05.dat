@@ -2,13 +2,14 @@
 0 Name: 4864ap05.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Cycle fix-it shop, set 6699, bricklink 4864apx7
+0 !KEYWORDS bricklink 4864apx7, Cycle fix-it shop, set 6699
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4864s01.dat
 1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat

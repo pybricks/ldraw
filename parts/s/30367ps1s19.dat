@@ -2,11 +2,12 @@
 0 Name: s\30367ps1s19.dat
 0 Author: Daniel Goerner [TK-949]
 0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 4 16 5.27 7.843 -17.02 5.16 8.14 -17.19 5.91 8.278 -17.11 5.89 7.95 -16.95
 4 16 3.99 7.174 -16.94 4.48 7.749 -17.13 4.71 7.521 -16.97 4.32 7.065 -16.82

@@ -2,12 +2,13 @@
 0 Name: s\64451s01.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-01-23 [MagFors] Changed name to 53.13
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 1 16 6.432 -3.75 6.262 0.068 -0.51 0 0 0 1.25 -0.102 -0.34 0 rect2a.dat
 4 16 6.5 -2.5 8.692 6.5 -2.5 9 0 -2.5 9 3.444 -2.5 8.315

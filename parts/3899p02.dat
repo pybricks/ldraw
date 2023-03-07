@@ -1,17 +1,18 @@
 0 Minifig Cup with Black "Shhh!" Pattern
 0 Name: 3899p02.dat
-0 Author: Gerald Lasser [GeraldLasser]	
+0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Town, mug, coffee, cocoa, tea, drink, utensil, cookware
-0 !KEYWORDS Bricklink 3899pb002, Set 71001
-0 !KEYWORDS Collectible Minifigures, Series 10, Librarian
+0 !KEYWORDS Bricklink 3899pb002, cocoa, Coffee, Collectible Minifigures
+0 !KEYWORDS Cookware, drink, Librarian, mug, Series 10, Set 71001, tea, town
+0 !KEYWORDS utensil
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3899s01.dat
 

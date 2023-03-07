@@ -2,16 +2,15 @@
 0 Name: 6148.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2008-12-22 [Philo] Copied improved underside studs from 2518
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
+
 0 // Needs work: Shape could be improved (less straight leaf edges)
-
-
 
 1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
 1 16 -10 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat

@@ -2,13 +2,14 @@
 0 Name: 3004pt6.dat
 0 Author: Jaco van der Molen [Jaco]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2008-12-13 [cwdee] BFCed and made use of 3004s01 subpart
 0 !HISTORY 2009-01-29 [mikeheide] corrected quad, delete double line
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
 0 // Standard color outline

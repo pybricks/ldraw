@@ -2,7 +2,7 @@
 0 Name: 750.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP This file, the End piece, forms each end of a flexible hose.
 0 !HELP Use this file in conjuction with the files:
@@ -21,7 +21,7 @@
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS gizmo, space, tube, cap
+0 !KEYWORDS Cap, gizmo, Space, tube
 
 0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
 0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
@@ -29,9 +29,10 @@
 0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
 0 !HISTORY 2007-12-30 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2016-11-27 [MagFors] Made BFC, closed mesh, used stud, removed keywords
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 7 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 1 16 0 7 0 -2 0 0 0 -1 0 0 0 2 4-4ring2.dat

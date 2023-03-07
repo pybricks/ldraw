@@ -2,11 +2,12 @@
 0 Name: s\64454s04.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 16 4 -.3862 -3.25 4 -7 -3.25 4 -7 -2 4 0 -2
 4 16 4.5935 -1.5432 -4.3098 4 -7 -3.25 4 -.3862 -3.25 4.2899 -.7322 -3.7678

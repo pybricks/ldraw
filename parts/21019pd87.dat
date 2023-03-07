@@ -2,14 +2,15 @@
 0 Name: 21019pd87.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Shortcut UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Collectible Minifigs, The Lego Batman Movie, Vacation The Joker
-0 !KEYWORDS 970c00pb752
+0 !KEYWORDS 970c00pb752, Collectible Minifigs, The Lego Batman Movie
+0 !KEYWORDS Vacation The Joker
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815b.dat
 1 16 0 12 0 1 0 0 0 1 0 0 0 1 20460pd87.dat

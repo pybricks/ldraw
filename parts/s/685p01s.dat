@@ -2,13 +2,14 @@
 0 Name: s\685p01s.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 0 !HISTORY 2019-03-30 [Philo] Optimized the pattern.
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Please keep the following lines as they are the primitives that led to this
 0 // pattern. If in future somebody wants to create pattern variant of this or

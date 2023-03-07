@@ -2,20 +2,21 @@
 0 Name: 6040.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS propeller, housing, propeller housing, nozzle, exhaust
+0 !KEYWORDS exhaust, Housing, nozzle, Propeller, propeller housing
 
 0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-01-30 [Steffen] BFCed
 0 !HISTORY 2015-03-01 [MagFors] Added more details, retitled
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 0 !HISTORY 2021-12-01 [cwdee] Update keywords
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat
 1 16 0 10 0 1 0 0 0 -1.5 0 0 0 1 stud4a.dat

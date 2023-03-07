@@ -2,11 +2,12 @@
 0 Name: s\821472fs01.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Subpart UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 3 1 -57.5 0 -3.154 -57.331 0 -4.943 -56.144 0 -3.831
 4 1 -57.331 0 -4.943 -56.77 0 -6.485 -55.961 0 -4.915 -56.144 0 -3.831

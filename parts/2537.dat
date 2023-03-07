@@ -2,17 +2,18 @@
 0 Name: 2537.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Pirates, Soldiers, Imperial Guard, Imperial Armada
-0 !KEYWORDS ship, man-o-war, clipper
+
+0 !KEYWORDS clipper, Imperial Armada, Imperial Guard, man-o-war, Pirates, ship
+0 !KEYWORDS Soldiers
 
 0 !HISTORY 2007-11-02 [mikeheide] added missing lines
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
-0 // Lower Tee
 
+0 // Lower Tee
 
 0 BFC INVERTNEXT
 1 16 0 320 -40 4 0 0 0 8 0 0 0 4 4-4cyli.dat
@@ -301,14 +302,14 @@
 2 24 -5 84 -8 5 84 -8
 2 24 5 84 8 -5 84 8
 2 24 8 84 -5 8 84 5
-1 16 -5 0 5 0 0 -3 0 1 0 3 0 0 1-4EDGE.DAT
-1 16 -5 0 -5 -3 0 0 0 1 0 0 0 -3 1-4EDGE.DAT
-1 16 5 0 -5 0 0 3 0 1 0 -3 0 0 1-4EDGE.DAT
-1 16 5 0 5 3 0 0 0 1 0 0 0 3 1-4EDGE.DAT
-1 16 -5 84 5 0 0 -3 0 1 0 3 0 0 1-4EDGE.DAT
-1 16 -5 84 -5 -3 0 0 0 1 0 0 0 -3 1-4EDGE.DAT
-1 16 5 84 -5 0 0 3 0 1 0 -3 0 0 1-4EDGE.DAT
-1 16 5 84 5 3 0 0 0 1 0 0 0 3 1-4EDGE.DAT
+1 16 -5 0 5 0 0 -3 0 1 0 3 0 0 1-4edge.dat
+1 16 -5 0 -5 -3 0 0 0 1 0 0 0 -3 1-4edge.dat
+1 16 5 0 -5 0 0 3 0 1 0 -3 0 0 1-4edge.dat
+1 16 5 0 5 3 0 0 0 1 0 0 0 3 1-4edge.dat
+1 16 -5 84 5 0 0 -3 0 1 0 3 0 0 1-4edge.dat
+1 16 -5 84 -5 -3 0 0 0 1 0 0 0 -3 1-4edge.dat
+1 16 5 84 -5 0 0 3 0 1 0 -3 0 0 1-4edge.dat
+1 16 5 84 5 3 0 0 0 1 0 0 0 3 1-4edge.dat
 0 // Upper Shaft
 1 16 0 80 0 -2 0 0 0 -78 0 0 0 -2 1-4con7.dat
 1 16 0 80 0 0 0 -2 0 -78 0 2 0 0 1-4con7.dat

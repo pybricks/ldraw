@@ -2,12 +2,13 @@
 0 Name: s\51349s01.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-01-23 [Holly-Wood] Reduced complexity, fixed conds, streamlined surface
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 2 24 2.286 34.19 32.933 2.115 42.035 35.339
 2 24 2.115 42.035 35.339 2.129 43.13 35.081

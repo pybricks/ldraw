@@ -2,11 +2,12 @@
 0 Name: s\87613p01s01.dat
 0 Author: Bertrand Lequy [Berth]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 3 4 57.6702 91.71 -60.421 57.3755 90.3712 -63.6661 57.2887 95.0004 -64.3848
 3 4 57.2887 95.0004 -64.3848 58.0219 93.239 -56.5516 57.6702 91.71 -60.421

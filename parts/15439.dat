@@ -2,7 +2,7 @@
 0 Name: 15439.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2017-04-26 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 16 -0.001 0 8.231 3.157 0 7.589 3.145 -2.532 7.605 -0.001 -2.532 8.23
 3 16 5.927 0 5.69 5.812 -2.532 5.823 3.157 0 7.589

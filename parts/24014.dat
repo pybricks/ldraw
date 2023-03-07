@@ -2,13 +2,14 @@
 0 Name: 24014.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2016-04-12 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 -2.5882 9.6593 0 0.96593 -0.25882 0 0.25882 0.96593 0 0 0 0.975 toothb12.dat
 1 16 2.5883 9.659 0 0.9659 0.25883 0 -0.25883 0.9659 0 0 0 0.975 toothb12.dat

@@ -2,11 +2,12 @@
 0 Name: s\64767s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 3 16 4.792 -26.764 21.177 11.07 -26.085 18.89 4.453 -19.966 17.93
 3 16 4.453 -19.966 17.93 11.07 -26.085 18.89 10.727 -20.149 15.342

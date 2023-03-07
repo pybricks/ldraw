@@ -2,10 +2,9 @@
 0 Name: 2737.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-
 
 0 !HISTORY 2002-06-11 [PTadmin] Official Update 2002-03
 0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
@@ -13,6 +12,7 @@
 0 !HISTORY 2017-07-21 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2017-07-21 [MagFors] Removed overlapping surfaces
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 0 0 1 0 0 0 0 1 0 -1 0 connhole.dat
 1 16 0 0 -10 .92388 0 -.382683 -.382683 0 -.92388 0 1 0 7-8ring9.dat

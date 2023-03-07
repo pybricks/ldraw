@@ -2,7 +2,7 @@
 0 Name: 6043.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2016-01-02 [MMR1988] BFC'ed, used more prims
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 76 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
 1 16 0 36 0 1 0 0 0 40 0 0 0 1 axlehole.dat
@@ -104,7 +105,6 @@
 4 16 -16 80 12 -16 76 6 -16 76 -6 -16 80 -12
 3 16 -16 76 -6 -16 76 -12 -16 80 -12
 1 16 -16 54 0 0 -1 0 0 0 -22 6 0 0 rect3.dat
-
 
 4 16 -6 36 16 -12 36 16 -16 32 16 -16 26 16
 4 16 -16 14 16 -16 8 16 -12 4 16 -6 4 16

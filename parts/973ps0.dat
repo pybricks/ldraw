@@ -2,11 +2,13 @@
 0 Name: 973ps0.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Star Wars, Classic Trilogy, military, uniform, jumpsuit, flight suit
-0 !KEYWORDS chestplate, lifevest, Rebel Alliance, A-Wing Starfighter
+
+0 !KEYWORDS A-Wing Starfighter, chestplate, Classic Trilogy, flight suit
+0 !KEYWORDS jumpsuit, lifevest, Military, Rebel Alliance, Star Wars, Uniform
+
 0 !CMDLINE -c2
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
@@ -14,6 +16,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-04-08 [BlackBrick89] Colour cleanup;BFCed;Inlined subfile
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10

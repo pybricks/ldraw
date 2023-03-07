@@ -2,7 +2,7 @@
 0 Name: 48\1-4rin14.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG 48_Primitive UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-02-27 [Philo] Changed to CCW
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 4 16 15 0 0 14.8717 0 1.9579 13.8802 0 1.8274 14 0 0
 4 16 14.8717 0 1.9579 14.4889 0 3.8823 13.523 0 3.6235 13.8802 0 1.8274

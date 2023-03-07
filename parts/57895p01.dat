@@ -2,16 +2,16 @@
 0 Name: 57895p01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Position in 60596 frame: Y=4.5, Z=5
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS 忍者, Ninjago, Masters of Spinjitsu
-0 !KEYWORDS Set 2504, Set 2507, Set 2520
+0 !KEYWORDS Masters of Spinjitsu, Ninjago, Set 2504, Set 2507, Set 2520, 忍者
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\57895s01.dat
 0 BFC NOCLIP

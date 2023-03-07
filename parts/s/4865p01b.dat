@@ -2,12 +2,12 @@
 0 Name: s\4865p01b.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2003-07-03 [Steffen] Took pattern from 4865p01.dat into separate file
-0 !HISTORY 2004-03-31 [fwcain] Separated "background" and "coloured" code...  
+0 !HISTORY 2004-03-31 [fwcain] Separated "background" and "coloured" code...
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
@@ -18,6 +18,7 @@
 0 !HISTORY 2020-11-09 [UR] Minor Dimensional Adjustments (1200 dpi scan)
 0 !HISTORY 2020-11-09 [UR] Polygon Reduction with Other Primitives
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 0 0 4 4 0 0 0 1 0 3-16ndis.dat
 1 16 0 0 0 0 0 -4 4 0 0 0 1 0 3-16ndis.dat
@@ -44,21 +45,4 @@
 4 16 3.6956 1.5308 0 4 4 0 6.8 .95 0 3.88 .95 0
 4 16 -3.6956 -1.5308 0 -4 -4 0 -6.8 -.95 0 -3.88 -.95 0
 4 16 -6.8 .95 0 -4 4 0 -3.6956 1.5308 0 -3.88 .95 0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

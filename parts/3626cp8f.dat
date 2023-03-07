@@ -2,16 +2,17 @@
 0 Name: 3626cp8f.dat
 0 Author: Christophe Mitillo [Christophe_Mitillo]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Robo Emmet, set 70816, Spaceship
-0 !KEYWORDS BrickLink 3626cpb1113
+0 !KEYWORDS BrickLink 3626cpb1113, Robo Emmet, Set 70816, Spaceship
+
 0 !CMDLINE -c179
 
 0 !HISTORY 2016-01-06 [MagFors] Recreated pattern
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 7.39104 0 3.06147 0 -6.4 0 3.06147 0 -7.39104 t08o6250.dat

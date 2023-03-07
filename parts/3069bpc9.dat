@@ -2,16 +2,17 @@
 0 Name: 3069bpc9.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3069bpb0304, Set 40256, Set 45103, Set 60102 
-0 !KEYWORDS Set 70357, Set 71016, Set 75917, Set 76083, Set 79115
-0 !KEYWORDS City, Town, Creator, Jurassic world, Nexo knights
-0 !KEYWORDS Ninjago, Superheroes, The Simpsons, TMNT
+0 !KEYWORDS Bricklink 3069bpb0304, City, Creator, Jurassic world, Nexo Knights
+0 !KEYWORDS Ninjago, Set 40256, Set 45103, Set 60102, set 70357, Set 71016
+0 !KEYWORDS Set 75917, Set 76083, Set 79115, Superheroes, The Simpsons, TMNT
+0 !KEYWORDS town
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 3 16 20 0 10 17.5 0 8.725 17.73 0 8.6793

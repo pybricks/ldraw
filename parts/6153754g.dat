@@ -2,13 +2,14 @@
 0 Name: 6153754g.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 10252, VW, Volkswagen, Beetle
+0 !KEYWORDS Beetle, set 10252, Volkswagen, VW
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 -0.25 0 28 0 0 0 0.25 0 0 0 8 box5-12.dat
 4 15 -14.94 -0.25 -5.12 -12.69 -0.25 -5.12 -12.26 -0.25 1.9 -14.09 -0.25 5.21

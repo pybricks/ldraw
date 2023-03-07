@@ -2,15 +2,17 @@
 0 Name: 11293.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS helicopter, cargo plane
+
+0 !KEYWORDS cargo plane, helicopter
 
 0 !HISTORY 2013-10-10 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2013-10-10 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-03-12 [MagFors] Adapted to fit bottom part 11295
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11293s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\11293s01.dat

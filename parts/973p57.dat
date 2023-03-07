@@ -2,15 +2,16 @@
 0 Name: 973p57.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Space, Set 6903, Set 6919, Bricklink 973pb0082
+0 !KEYWORDS Bricklink 973pb0082, Set 6903, Set 6919, Space
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 0 !HISTORY 2022-06-22 [Philo] Updated description, added keywords
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // Subfile
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
@@ -1014,7 +1015,7 @@
 4 80 -5.171 23.629 -10 -4.593 23.39 -10 -4.728 23.187 -10 -4.931 23.051 -10
 3 80 9.848 24.852 -10 9.42 25 -10 9.532 25.168 -10
 
-0 // Metallic copper 
+0 // Metallic copper
 4 300 -1.959 15.641 -10 -1.701 15.684 -10 -2.174 13.835 -10 -2.26 15.512 -10
 4 300 -2.475 15.383 -10 -2.26 15.512 -10 -2.174 13.835 -10 -2.604 15.211 -10
 4 300 -2.733 14.953 -10 -2.604 15.211 -10 -2.174 13.835 -10 -2.776 14.738 -10

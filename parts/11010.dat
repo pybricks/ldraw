@@ -2,17 +2,17 @@
 0 Name: 11010.dat
 0 Author: Owen Burgoyne [C3POwen]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Lord of the Rings, Sauron, Gollum
-0 !KEYWORDS Bilbo Baggins, Frodo Baggins
+0 !KEYWORDS Bilbo Baggins, Frodo Baggins, Gollum, Lord of the Rings, Sauron
 
 0 !CMDLINE -c334
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 BFC INVERTNEXT
 1 16 0 0 0 0.25 0 0 0 -0.25 0 0 0 -0.25 4-4con24.dat

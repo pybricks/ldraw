@@ -2,11 +2,12 @@
 0 Name: s\973p5fs01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 16 -1.89 19.42 0 1.09 22.04 0 1.31 21.82 0 0 19.35 0
 4 71 12.36 7.42 0 11.78 7.42 0 12.07 8.07 0 12.36 8.22 0

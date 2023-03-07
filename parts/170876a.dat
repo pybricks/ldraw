@@ -2,13 +2,15 @@
 0 Name: 170876a.dat
 0 Author: Miklos Hosszu [hmick]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS Sticker, Town, Octan
+
+0 !KEYWORDS Octan, Sticker, town
 
 0 !HISTORY 2007-11-13 [mikeheide] BFC'ed
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 0 // Sticker
 

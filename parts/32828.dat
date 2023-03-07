@@ -2,15 +2,16 @@
 0 Name: 32828.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS handle, espresso
+0 !KEYWORDS espresso, handle
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 0 !HISTORY 2019-06-03 [MagFors] Reworked transition from plate to bar
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 3 0 -1 0 0 0 -1.25 0 0 0 1 stud4o.dat
 1 16 0 3 0 1.41421 0 -1.41421 0 -1 0 -1.41421 0 -1.41421 3-4ring4.dat

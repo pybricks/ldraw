@@ -2,7 +2,7 @@
 0 Name: 2564.dat
 0 Author: Jack Hawk [jhawk]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2013-03-11 [mikeheide] Added conditional lines with Edger2
 0 !HISTORY 2013-11-17 [Philo] Used more primitives
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Ring At Top
 1 16 0 3.757 0 3.06147 0 7.39104 0 -7.513 0 -7.39104 0 3.06147 7-8cylo.dat

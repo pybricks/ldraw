@@ -2,18 +2,21 @@
 0 Name: 973pw2.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Wild West, Western, military, uniform, United States, army, U.S. Army
-0 !KEYWORDS cavalry, horse troops, rank, insignia, shoulder, collar
-0 !KEYWORDS officer, junior officer, Lieutenant, Captain, Major, soldier, veteran
+
+0 !KEYWORDS army, captain, cavalry, collar, horse troops, insignia
+0 !KEYWORDS junior officer, lieutenant, Major, Military, officer, rank, shoulder
+0 !KEYWORDS soldier, U.S. Army, Uniform, United States, veteran, western
+0 !KEYWORDS wild west
+
 0 !CMDLINE -c1
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
-0 // Black
 
+0 // Black
 
 1 0 -10.3 15.9 -10 0.5 0 0 0 0 -0.5 0 0.5 0 2-4disc.dat
 1 0 11.644 30.142 -10 1.117 0 0 0 0 -0.5125 0 1 0 4-4ndis.dat

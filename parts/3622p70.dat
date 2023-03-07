@@ -2,13 +2,14 @@
 0 Name: 3622p70.dat
 0 Author: Matthew Morrison [cuddlyogre]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3622px1, set 6444, boombox
+0 !KEYWORDS boombox, Bricklink 3622px1, set 6444
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3622s01.dat
 1 0 -12.35 4.61 -10 2.32 0 0 0 0 -2.32 0 1 0 4-4disc.dat

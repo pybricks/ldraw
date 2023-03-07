@@ -2,13 +2,12 @@
 0 Name: s\98107s03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Sphere
-
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 4 16 91.8044 0 53.0026 91.0145 -14.355 52.5465 83.3718 -14.355 63.9709 84.0951 0 64.526
 4 16 97.9305 0 40.5641 97.088 -14.355 40.2151 91.0145 -14.355 52.5465 91.8044 0 53.0026

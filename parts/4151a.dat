@@ -2,7 +2,7 @@
 0 Name: 4151a.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2009-07-14 [PTadmin] Moved from 4151
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 60 4 70 1 0 0 0 -1 0 0 0 1 stud3.dat

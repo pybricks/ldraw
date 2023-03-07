@@ -2,7 +2,7 @@
 0 Name: 23443.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Bar Tube with Clip in 60 degree position
 0 !HELP 1 46 0 0 0 -0.5 0.866 0 -0.866 -0.5 0 0 0 1 11090.dat
@@ -10,6 +10,7 @@
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 -30 -2.1 -6.25 0 6.25 0 1 0 6.33731 0 6.33731 1-4edge.dat
 1 16 0 -30 -2.1 -6.25 0 6.25 0 18.45 0 6.33731 0 6.33731 1-4cyli.dat

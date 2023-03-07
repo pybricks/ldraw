@@ -1,14 +1,17 @@
-0 ~Minifig Paint Brush Tip
+0 ~Minifig Paint Brush Tip - Top
 0 Name: s\93552s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-01
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-09-20 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2012-09-20 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+0 !HISTORY 2022-12-12 [Cheenzo] Updated description
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
+
 
 3 16 -0.485 -49.634 -0.574 0.68 -49.743 0 -0.521 -49.654 0
 3 16 0.68 -49.743 0 -0.486 -49.633 0.571 -0.521 -49.654 0

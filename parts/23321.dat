@@ -2,15 +2,16 @@
 0 Name: 23321.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Shortcut UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS manas, bionicle, set 8539
+0 !KEYWORDS bionicle, manas, set 8539
 
 0 !HISTORY 2014-11-22 [Steffen] BFCd
 0 !HISTORY 2022-03-11 [Holly-Wood] Added keywords, regrouped
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 0 // Top
 
@@ -31,5 +32,4 @@
 
 1 14 180 -54 0 1 0 0 0 1 0 0 0 1 u9271.dat
 1 462 -180 -54 0 -1 0 0 0 1 0 0 0 1 u9271.dat
-
 

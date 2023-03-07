@@ -2,13 +2,14 @@
 0 Name: s\4492s00.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-16 [Philo] Created in Meshmixer; Converted with stl2dat
 0 !HISTORY 2014-12-19 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 3 16 6.79283 -60.1902 -25.6343 7.08988 -54.6809 -25.4677 6.98971 -53.9347 -22.2747
 3 16 6.79283 -60.1902 -25.6343 6.539 -64.5 -28.7 6.562 -63.005 -28.999

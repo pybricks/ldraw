@@ -2,12 +2,12 @@
 0 Name: 851a.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 218, set 340, set 374, set 485, set 658, set 693
-0 !KEYWORDS step, rung, fire fighter, legoland
+0 !KEYWORDS fire fighter, legoland, rung, set 218, set 340, set 374, set 485
+0 !KEYWORDS set 658, set 693, Step
 
 0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
 0 !HISTORY 1998-04-11 [PTadmin] Official Update 1998-04
@@ -15,6 +15,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2020-10-26 [Holly-Wood] Complete rewrite remeasuring the part
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 -5 -16.5 130 0 0 0 -1 0 0 0 -2.5 rect3.dat
 1 16 0 -12.5 -14 0 0 130 -7.5 0 0 0 -5 0 box3u10p.dat
@@ -72,7 +73,7 @@
 1 16 -110 -10 0 0 0 -2.5 0 1 0 14 0 0 rect.dat
 0 BFC INVERTNEXT
 1 16 -130 -7.5 0 0 17.5 0 -2.5 0 0 0 0 -14 box3u5p.dat
- 
+
 4 16 107.5 -5 14 112.5 -5 14 112.5 -5 -14 107.5 -5 -14
 4 16 87.5 -5 14 92.5 -5 14 92.5 -5 -14 87.5 -5 -14
 4 16 67.5 -5 14 72.5 -5 14 72.5 -5 -14 67.5 -5 -14

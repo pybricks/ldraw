@@ -2,13 +2,14 @@
 0 Name: 4448d03.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Shortcut UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS House, Vacation, Set 6349, Set 6370, Set 6592, Bricklink 4448pb05
+0 !KEYWORDS Bricklink 4448pb05, house, Set 6349, Set 6370, Set 6592, Vacation
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 4448.dat
 1 16 0 18 -23.6 1 0 0 0 0.6549 -0.7557 0 0.7557 0.6549 196685a.dat

@@ -2,11 +2,12 @@
 0 Name: type-swiss721bt-bold-n0.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Primitive UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 0 // Main
 4 16 -.1405 0 .152 -.1485 0 0 .1485 0 0 .1405 0 .152

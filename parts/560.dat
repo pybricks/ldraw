@@ -2,7 +2,7 @@
 0 Name: 560.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2013-03-29 [MagFors] Changed colour 383 to 494 (real metal)
 0 !HISTORY 2013-03-29 [MagFors] Removed t-junctions, boxified
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 2 24 -66 0 -110 66 0 -110
 2 24 -66 0 110 66 0 110
@@ -129,7 +130,7 @@
 1 16 0 4 36 0 0 10 0 1 0 10 0 0 4-4edge.dat
 
 1 494 0 8 36 0 0 2.5 0 1 0 2.5 0 0 4-4edge.dat
-1 494 0 8 36 0 0 2.5 0 -1 0 2.5 0 0 4-4ring1.DAT
+1 494 0 8 36 0 0 2.5 0 -1 0 2.5 0 0 4-4ring1.dat
 1 494 0 4 36 0 0 2.5 0 1 0 2.5 0 0 4-4edge.dat
 0 BFC INVERTNEXT
 1 494 0 4 36 0 0 2.5 0 4 0 2.5 0 0 4-4cyli.dat

@@ -2,18 +2,19 @@
 0 Name: 3039pc3.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, Space, TIE Interceptor, computer, flight, controls
-0 !KEYWORDS airplane, radar, Space Police 2, Space Police II, SP2, SPII
+0 !KEYWORDS Airplane, computer, controls, flight, radar, SP2, Space
+0 !KEYWORDS Space Police 2, Space Police II, SPII, Star Wars, TIE Interceptor
 
 0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
 0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-07-15 [MagFors] bfc'd, reworked pattern
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 3 0 -12.5 16.9706 -26.9706 -14.75 18.3848 -28.3848 -8.75 18.3848 -28.3848

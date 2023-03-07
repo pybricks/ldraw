@@ -2,26 +2,27 @@
 0 Name: 190775a.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Technic, Set 8842, Go-kart
+0 !KEYWORDS Go-kart, Set 8842, Technic
 
 0 !HISTORY 2003-07-04 [Steffen] BFCed, added ring9 primitive to close render gaps
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2011-07-14 [Philo]   Used cylc2 for back
+0 !HISTORY 2011-07-14 [Philo] Used cylc2 for back
 0 !HISTORY 2011-07-14 [PTadmin] Renamed from 190775
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-0 !HISTORY 2017-07-03 [cwdee]   Use cylinder primitive with conditional lines
+0 !HISTORY 2017-07-03 [cwdee] Use cylinder primitive with conditional lines
 0 !HISTORY 2017-08-19 [MagFors] added a 4-4ering
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 0 !HISTORY 2019-08-10 [anathema] Corrected colour of backing box
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 0 !HISTORY 2021-02-17 [RainbowDolphin] Reworked using font
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 31 0 0 0 -0.25 0 0 0 31 4-4cylc3.dat
 1 15 0 -0.25 0 31 0 0 0 1 0 0 0 31 4-4ering.dat

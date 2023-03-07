@@ -2,17 +2,18 @@
 0 Name: 2650.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS hydraulic, boat, ship, container, crane, Trains, truck, towtruck
+0 !KEYWORDS boat, container, Crane, hydraulic, ship, towtruck, Trains, truck
 
 0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
 0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-07-20 [MagFors] bfc'd, used primitives
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 1 16 -10 0 0 0 1 0 -1 0 0 0 0 -1 h2.dat
 1 16 -50 -7 0 0 0 20 0 4 0 -1 0 0 box5-2p.dat

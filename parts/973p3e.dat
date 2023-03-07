@@ -2,12 +2,13 @@
 0 Name: 973p3e.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-06-25 [MagFors] Inlined subfiles
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 4 16 -14.345 2 -10 -16.328 13.5 -10 -12.5 9 -10 -11.5 4.5 -10
 3 16 -12 0 -10 -14.345 2 -10 -11.5 4.5 -10

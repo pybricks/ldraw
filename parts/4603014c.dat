@@ -2,13 +2,14 @@
 0 Name: 4603014c.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 3061, Cafe, Sweets
+0 !KEYWORDS Cafe, Set 3061, Sweets
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 16 -6.7 0 34 -5 0 34.9 -2.5 0 35 -.7 0 34
 4 16 -7.7 0 32.8 -6.7 0 34 -.7 0 34 -.1 0 32.6

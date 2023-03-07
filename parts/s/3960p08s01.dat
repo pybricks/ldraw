@@ -2,12 +2,13 @@
 0 Name: s\3960p08s01.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-09-09 [Philo] Rewritten using LPC
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 5 24 4.5684 6 -34.7002 5.22 8 -39.656 0 8 -40 9.0583 6 -33.8062
 5 24 0 6 -34.9988 4.5684 6 -34.7002 5.22 8 -39.656 0 4 -29.4987

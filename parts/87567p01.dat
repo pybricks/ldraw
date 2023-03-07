@@ -2,14 +2,14 @@
 0 Name: 87567p01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, General Grievous
-0 !KEYWORDS Bricklink 87567pb01, set 8095, set 9015
+0 !KEYWORDS Bricklink 87567pb01, General Grievous, set 8095, set 9015, Star Wars
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87567s01.dat
 1 19 0 0 0 1 0 0 0 1 0 0 0 1 s\87567p01s02.dat

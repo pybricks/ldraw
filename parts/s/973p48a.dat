@@ -2,7 +2,7 @@
 0 Name: s\973p48a.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Subpart UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2009-07-11 [arezey] BFC'd
 0 !HISTORY 2009-10-27 [Eldar] Improved pattern
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 4 14 2 27 -10 2 26 -10 -2 26 -10 -2 27 -10
 4 14 -2 31 -10 -2 32 -10 2 32 -10 2 31 -10

@@ -2,11 +2,12 @@
 0 Name: s\43747s02.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 4 16 87.154 -14.142 63.104 90.793 -7.654 60.747 96.086 -7.553 73.424 91.986 -13.955 74.647
 4 16 75.283 -20 70.79 81.707 -18.478 66.63 85.85 -18.234 76.476 78.613 -19.735 78.635

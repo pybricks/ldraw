@@ -2,7 +2,7 @@
 0 Name: 60806.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP place window/door at +/-32 8.5 -11 or at +/-32 53.5 -50.7
 0 !HELP place glass 86210 at 0 11.4 -13.8 or at 0 50.15 -48.5
@@ -10,9 +10,10 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2010-06-22 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 20 68 -60 1 0 0 0 -1 0 0 0 1 stud3a.dat
 1 16 0 68 -60 1 0 0 0 -1 0 0 0 1 stud3a.dat

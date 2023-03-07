@@ -2,7 +2,7 @@
 0 Name: 29630p01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP This part comes with a pre-mounted Plate 6 x 6 Round with Hole
 0 !HELP at 1 16 0 80 32 0 0 -1 -1 0 0 0 1 0 11213.dat
@@ -12,6 +12,7 @@
 0 !KEYWORDS Darth Vader, Set 5005376
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 64 0 0 0 1 0 0 0 1 0 0 0 1 s\29630s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\29630s02.dat

@@ -2,11 +2,12 @@
 0 Name: 64454.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\64454s01.dat
 1 16 50 0 20 0 0 -1 0 1 0 1 0 0 stug2-1x2.dat
@@ -131,7 +132,6 @@
 0 // Clips and Attachment
 1 16 -90 106 0 1 0 0 0 -1 0 0 0 1 s\64454s03.dat
 1 16 -90 54 0 1 0 0 0 1 0 0 0 1 s\64454s03.dat
-
 
 1 16 -92 40 4 -8 0 0 0 -4 0 0 0 8 1-4cylo.dat
 1 16 -92 36 4 -8 0 0 0 1 0 0 0 8 1-4chrd.dat

@@ -2,15 +2,16 @@
 0 Name: 4066bp15.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Zoo, Farm, Stable, bricklink 4066pb106
-0 !KEYWORDS Set 2668, Set 2669, Set 2391, Set 2392, Set 2384, Set 1614, Set 2553
+0 !KEYWORDS bricklink 4066pb106, Farm, Set 1614, Set 2384, Set 2391, Set 2392
+0 !KEYWORDS Set 2553, Set 2668, Set 2669, Stable, Zoo
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 4 14 -29.75 23.25 -20 -31 23.5 -20 -31.5 24.25 -20 -31.25 25.25 -20

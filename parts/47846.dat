@@ -2,18 +2,20 @@
 0 Name: 47846.dat
 0 Author: Bob LeVan [kyphurious]
 0 !LDRAW_ORG Part UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS slope, inverted
+
+0 !KEYWORDS Inverted, slope
 
 0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
 0 !HISTORY 2007-10-01 [kyphurious] Cleaned-up Front Inverse Slope
 0 !HISTORY 2007-10-01 [kyphurious] Cleaned-up Headers, Prep for further work.
 0 !HISTORY 2007-10-01 [kyphurious] Primitive Replacement: Using Stud2.dat & Stud2a.dat
 0 !HISTORY 2007-10-01 [kyphurious] Rotated part 180 deg around Y Axis, centered part on X & Z Axis, moved to 0 on Y
-0 !HISTORY 2017-11-25 [MagFors]    bfc'd, subfiled, reworked using photos
+0 !HISTORY 2017-11-25 [MagFors] bfc'd, subfiled, reworked using photos
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\47846s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\47846s01.dat

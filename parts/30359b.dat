@@ -2,12 +2,12 @@
 0 Name: 30359b.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, laser cannon, cylinder, rounded, piston rod, rod, support, connector
-0 !KEYWORDS ion cannon, blaster, energy, binder, Podracer
+0 !KEYWORDS binder, Blaster, connector, Cylinder, energy, ion cannon
+0 !KEYWORDS laser cannon, piston rod, podracer, rod, rounded, Star Wars, support
 
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
@@ -17,6 +17,7 @@
 0 !HISTORY 2020-06-04 [Sirio] Subparted and updated the use of primitives; fixed depth of axle hole
 0 !HISTORY 2021-12-24 [MagFors] Reshaped axlehole
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 0 // Subparts
 

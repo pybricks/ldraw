@@ -2,11 +2,12 @@
 0 Name: 48\5-24ring35.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG 48_Primitive UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 4 16 36 0 0 35.6904 0 4.698 34.699 0 4.5675 35 0 0
 4 16 35.6904 0 4.698 34.7724 0 9.3168 33.8065 0 9.058 34.699 0 4.5675

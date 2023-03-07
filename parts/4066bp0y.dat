@@ -2,14 +2,15 @@
 0 Name: 4066bp0y.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Fire station, Set 2658, Set 1635, Set 9165, bricklink 4066pb062
+0 !KEYWORDS bricklink 4066pb062, Fire Station, Set 1635, Set 2658, Set 9165
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 1 0 -14.5 54.25 -20 3 0 0 0 0 -3 0 1 0 4-4disc.dat

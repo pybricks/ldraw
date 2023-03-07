@@ -2,17 +2,18 @@
 0 Name: 973p1y.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 10246, set 10247, set 60060, set 60169, set 31050, set 60082
-0 !KEYWORDS set 75875, set 60051, set 30354, set 4000022, set 10259 
-0 !KEYWORDS detective's, office, dart player
+0 !KEYWORDS dart player, detective's, office, set 10246, set 10247, Set 10259
+0 !KEYWORDS set 30354, set 31050, set 4000022, Set 60051, set 60060, set 60082
+0 !KEYWORDS set 60169, Set 75875
 
 0 !CMDLINE -c1
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 0 // Subfile
 

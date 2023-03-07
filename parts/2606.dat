@@ -2,16 +2,18 @@
 0 Name: 2606.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2003-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS aquazone, aquanauts, hydronauts, wild west, spring, plate
-0 !KEYWORDS blacktron, space, suspension, train
+
+0 !KEYWORDS Aquanauts, Aquazone, Blacktron, Hydronauts, plate, Space, Spring
+0 !KEYWORDS suspension, Train, wild west
 
 0 !HISTORY 2001-11-23 [pneaster] corrected BFC use of primitive files.
 0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
 0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 1 16 0 0 -8 6 0 0 0 0 6 0 1 0 4-4edge.dat
 1 16 0 0 8 6 0 0 0 0 6 0 1 0 4-4edge.dat

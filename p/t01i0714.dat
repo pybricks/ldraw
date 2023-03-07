@@ -2,17 +2,18 @@
 0 Name: t01i0714.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Primitive UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
+
 0 // Major Radius: 14
 0 // Tube(Minor) Radius: 1
 0 // Segments(Sweep): 16/16 = 1.00
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.0714 0 0  0 0 0.0714  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.0714 0 0 0 0 0.0714 0 1 0 4-4edge.dat
 
 4 16 0.9286 0 0 0.8579 0 0.3554 0.8629 0.0273 0.3574 0.934 0.0273 0
 4 16 0.934 0.0273 0 0.8629 0.0273 0.3574 0.8772 0.0505 0.3634 0.9495 0.0505 0

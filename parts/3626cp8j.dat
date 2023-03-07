@@ -2,15 +2,17 @@
 0 Name: 3626cp8j.dat
 0 Author: John Troxler [Gargan]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Emmet, The Lego Movie, BrickLink 3626cpb1089, set 30280, set 70803, set 70810
+0 !KEYWORDS BrickLink 3626cpb1089, Emmet, set 30280, Set 70803, Set 70810
+0 !KEYWORDS The LEGO Movie
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 0 !HISTORY 2022-07-11 [MagFors] Update description, added keywords
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // Head without front or back face
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat

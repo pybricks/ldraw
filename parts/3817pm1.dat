@@ -2,16 +2,18 @@
 0 Name: 3817pm1.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Lord of the Rings, Eomer, Theoden
+0 !KEYWORDS Éomer, Lord of the Rings, Théoden
+
 0 !CMDLINE -c308
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 0 !HISTORY 2020-07-09 [cwdee] Obsoleted due to bad leg geometry
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817s01.dat
 4 16 1.5 20 -6 1.5 20 -11 19.18 20 -11 19.18 20 -6

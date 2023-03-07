@@ -2,11 +2,12 @@
 0 Name: s\6296256hs01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 226 -1.4 -.25 4.6 -1.4 -.25 6 -4.34 -.25 6 -4.34 -.25 4.6
 4 226 -1.4 -.25 4.6 -4.34 -.25 4.6 -4.34 -.25 -4.6 -1.4 -.25 -4.6

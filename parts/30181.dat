@@ -2,13 +2,14 @@
 0 Name: 30181.dat
 0 Author: John Riley [jriley]
 0 !LDRAW_ORG Part UPDATE 2005-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 2 24 40 24 -40 45.7574 24 -34.2426
 2 24 45.7574 24 -34.2426 42.7574 24 -31.2426

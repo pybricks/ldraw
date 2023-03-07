@@ -2,15 +2,16 @@
 0 Name: 96487.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Friends, Figure, Accessory
+0 !KEYWORDS Accessory, Figure, Friends
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2016-09-30 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 5.5 0 2 0 0 0 -5.5 0 0 0 2 4-4cylc.dat
 1 16 0 -3.0556 0 1.8 0 0 0 0.9 0 0 0 1.8 4-4cylc.dat

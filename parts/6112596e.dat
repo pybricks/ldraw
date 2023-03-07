@@ -2,13 +2,14 @@
 0 Name: 6112596e.dat
 0 Author: Bjoern Sigve Storesund [Storesund]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10248, Ferrari
+0 !KEYWORDS Ferrari, set 10248
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 -0.25 0 28 0 0 0 0.25 0 0 0 8 box5-12.dat
 0 // Black F

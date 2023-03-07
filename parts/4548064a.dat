@@ -2,16 +2,17 @@
 0 Name: 4548064a.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 8265, set 8265-1, Front Loader, set 8265-2, Forest Machine
+0 !KEYWORDS Forest Machine, Front Loader, set 8265, set 8265-1, set 8265-2
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
-0 !HISTORY 2017-05-01 [MagFors] Corrected origin and description, 
+0 !HISTORY 2017-05-01 [MagFors] Corrected origin and description,
 0 !HISTORY 2017-05-01 [PTadmin] Renamed from 86037a
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 -0.25 0 77.5 0 0 0 0.25 0 0 0 17.5 box5-12.dat
 4 14 -77.5 -0.25 -17.5 -20.965 -0.25 -17.5 -39.28 -0.25 9.1 -77.5 -0.25 9.1

@@ -2,7 +2,7 @@
 0 Name: t1078.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !KEYWORDS Big Ben Bricks, Third Party
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // Rim
 
@@ -858,7 +859,7 @@
 5 24 0 -48 -8 3.14 -47.8975 -8 2.22 -47.66 -8.48 0 -48 0
 5 24 -3.14 -47.8975 -17.5 -3.14 -47.8975 -8 -2.22 -47.66 -8.48 -6.265 -47.59 -17.5
 
-0 // Hidden Edge Lines 
+0 // Hidden Edge Lines
 
 2 24 -8.6939 -17.6705 -14 -8.3148 -16.5559 -14
 2 24 -8.9228 -18.8252 -14 -8.6939 -17.6705 -14

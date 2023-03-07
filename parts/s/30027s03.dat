@@ -2,11 +2,12 @@
 0 Name: s\30027s03.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 1 16 5.6226 1.8981 -0.5 0 -1 -0.07936 0 0 0.39805 -0.5 0 0 rect1.dat
 1 16 7.5465 2.2807 -0.5 0 1 0.15548 0 0 -0.78073 -0.5 0 0 rect1.dat

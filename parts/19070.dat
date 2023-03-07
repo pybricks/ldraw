@@ -2,13 +2,14 @@
 0 Name: 19070.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS WeDo 2.0
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 1 16 11 19.5858 -22 0 -22 0 -19.5858 0 0 0 0 -20 1-8cylo.dat
 0 BFC INVERTNEXT

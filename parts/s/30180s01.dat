@@ -2,12 +2,13 @@
 0 Name: s\30180s01.dat
 0 Author: Andrew Ananjev [woozle]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2004-09-25 [WilliamH] Re-write
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 0 0 40 0 0 -1 0 1 0 1 0 0 stug2.dat
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 stug2.dat
@@ -19,12 +20,12 @@
 1 16 0 24 0 16 0 0 0 -20 0 0 0 56 box5.dat
 1 16 0 4 40 0 0 -1 0 -5 0 1 0 0 stud4.dat
 1 16 0 4 20 0 0 -1 0 -5 0 1 0 0 stud4.dat
-1 16 -12 4 20 -4 0 0 0 16 0 0 0 -0.5 BOX3U2P.DAT
-1 16 12 4 20 -4 0 0 0 16 0 0 0 -0.5 BOX3U2P.DAT
+1 16 -12 4 20 -4 0 0 0 16 0 0 0 -0.5 box3u2p.dat
+1 16 12 4 20 -4 0 0 0 16 0 0 0 -0.5 box3u2p.dat
 1 16 0 4 0 0 0 -1 0 -5 0 1 0 0 stud4.dat
 1 16 0 4 -20 0 0 -1 0 -5 0 1 0 0 stud4.dat
-1 16 -12 4 -20 -4 0 0 0 16 0 0 0 -0.5 BOX3U2P.DAT
-1 16 12 4 -20 -4 0 0 0 16 0 0 0 -0.5 BOX3U2P.DAT
+1 16 -12 4 -20 -4 0 0 0 16 0 0 0 -0.5 box3u2p.dat
+1 16 12 4 -20 -4 0 0 0 16 0 0 0 -0.5 box3u2p.dat
 1 16 0 4 -40 0 0 -1 0 -5 0 1 0 0 stud4.dat
 4 16 -20 0 60 -20 24 60 -20 24 -60 -20 0 -60
 4 16 20 24 60 16 24 56 -16 24 56 -20 24 60

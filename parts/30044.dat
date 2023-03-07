@@ -2,7 +2,7 @@
 0 Name: 30044.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -20,6 +20,7 @@
 0 !HISTORY 2010-07-09 [Philo] Corrected top curvature, added more details
 0 !HISTORY 2011-02-28 [Brickaneer] Reduced to 4 digits. Rectified.
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 0 BFC INVERTNEXT
 1 16 0 64 0 16 0 0 0 -4 0 0 0 6 box4.dat

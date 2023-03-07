@@ -2,17 +2,18 @@
 0 Name: 6066.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS castle
+0 !KEYWORDS Castle
 
 0 !HISTORY 2007-07-12 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2010-01-15 [Eldar] Add BFC, fix l3p errors
-0 !HISTORY 2011-17-21 [MagFors] Used more primitives
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+0 !HISTORY 2012-05-21 [MagFors] Used more primitives
+
 
 1 16 50 52 20 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 -50 52 20 1 0 0 0 -1 0 0 0 1 stud3.dat

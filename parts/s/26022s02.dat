@@ -1,12 +1,13 @@
-0 ~Train Track Roller Coaster Straight  4 x  8 Middle-End Section 
+0 ~Train Track Roller Coaster Straight  4 x  8 Middle-End Section
 0 Name: s\26022s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // Adapter to End Piece
 3 16 55.5 -2.3044 -14.6888 55.5 -2 -12.3073 55.5 -2 -22.5

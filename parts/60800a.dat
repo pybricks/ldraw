@@ -2,11 +2,12 @@
 0 Name: 60800a.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 1 16 6 36 -49 0 0 1 36 0 0 0 -1 0 box5-4a.dat
 1 16 6 1 -22.5 -1 0 0 0 -1 0 0 0 26.5 box4-7a.dat

@@ -2,13 +2,14 @@
 0 Name: 32339.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2008-03-16 [Philo] Creation
 0 !HISTORY 2008-03-26 [Philo] Swapped sides of + and - signs
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 0 // Needs Work: Underside ribs not modelled
 
@@ -24,7 +25,7 @@
 1 16 138 -10 80 2 0 0 0 0 -10 0 -1 0 rect2p.dat
 1 16 140 10 0 0 -1 0 0 0 10 100 0 0 rect2a.dat
 1 16 -140 10 0 0 1 0 0 0 10 100 0 0 rect2a.dat
-0 // Technic Beam  9
+0 // Technic Beam 9
 1 16 80 0 -100 9 0 0 0 1 0 0 0 -9 1-4edge.dat
 1 16 80 4 -100 0 0 9 0 1 0 9 0 0 3-16edge.dat
 1 16 80 0 -100 0 0 9 0 1 0 9 0 0 1-4ndis.dat
@@ -79,7 +80,7 @@
 2 24 140 0 -100 140 0 -90
 2 24 -140 0 -100 -140 0 -90
 4 16 -89 0 -91 -140 0 -90 -140 0 -100 -89 0 -100
-0 // Technic Beam  2
+0 // Technic Beam 2
 1 16 80 0 120 -1 0 0 0 1 0 0 0 -1 4-4ring8.dat
 1 16 80 20 120 1 0 0 0 -1 0 0 0 -1 4-4ring8.dat
 1 16 80 20 120 1 0 0 0 -1 0 0 0 -1 peghole.dat
@@ -118,7 +119,7 @@
 4 16 71 0 91 40 0 80 140 0 80 89 0 91
 4 16 89 0 91 140 0 80 140 0 100 89 0 100
 2 24 140 0 80 140 0 100
-0 // Technic Beam  2
+0 // Technic Beam 2
 1 16 -80 0 120 1 0 0 0 1 0 0 0 -1 4-4ring8.dat
 1 16 -80 20 120 -1 0 0 0 -1 0 0 0 -1 4-4ring8.dat
 1 16 -80 20 120 -1 0 0 0 -1 0 0 0 -1 peghole.dat

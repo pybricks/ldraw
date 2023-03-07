@@ -2,22 +2,23 @@
 0 Name: u9131.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS Classic, Smooth
+0 !KEYWORDS classic, Smooth
 
 0 !HISTORY 1997-09-29 [PTadmin] Official Update 1997-15
 0 !HISTORY 2007-05-04 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [mikeheide] BFC'ed (2004-01-04) 
+0 !HISTORY 2008-07-07 [mikeheide] BFC'ed (2004-01-04)
 0 !HISTORY 2011-02-20 [Steffen] corrected orientation to match other wheels
 0 !HISTORY 2011-05-18 [Steffen] used ring primitives
 0 !HISTORY 2011-05-19 [PTadmin] renamed from 132-old
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 0 !HISTORY 2016-10-22 [cwdee] Added keywords
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 0 // Nomenclature: width_(mm)/profile_as_%age_of_width x rim_diameter_(mm)
 

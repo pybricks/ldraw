@@ -2,16 +2,18 @@
 0 Name: 2625.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2003-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS boat, wing
+
+0 !KEYWORDS boat, Wing
 
 0 !HISTORY 2003-06-08 [jriley] BFC compliant
 0 !HISTORY 2003-10-04 [OrionP] Changed name, added keywords
 0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
 0 !HISTORY 2007-05-17 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 1 16 40 4 50 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 20 4 50 1 0 0 0 -1 0 0 0 1 stud4.dat

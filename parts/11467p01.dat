@@ -2,20 +2,21 @@
 0 Name: 11467p01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Shortcut UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP base at y = 72
-0 !HELP  left clip centers at  30 2 -10 and  30 2 10
+0 !HELP left clip centers at 30 2 -10 and 30 2 10
 0 !HELP right clip centers at -30 2 -10 and -30 2 10
-0 !HELP  left wing connects at  30 2 -10
+0 !HELP left wing connects at 30 2 -10
 0 !HELP right wing connects at -30 2 -10
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 79007, set 10237, Rebrickable 11435pr0001, Bricklink 11435pb01
-0 !KEYWORDS hobbit, the lord of the rings
+0 !KEYWORDS Bricklink 11435pb01, Hobbit, Rebrickable 11435pr0001, Set 10237
+0 !KEYWORDS set 79007, the lord of the rings
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 11435p01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 98085.dat

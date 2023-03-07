@@ -2,7 +2,7 @@
 0 Name: 30141.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP The center of the "backgrip" (i.e. the part of the buttstock
 0 !HELP immediately behind the receiver) is the point (0,-7.41,9.66)
@@ -11,9 +11,8 @@
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS minifig weapon, firearm
-0 !KEYWORDS western, wild west, cowboy ,cavalry, indian, injun
-0 !KEYWORDS adventurers, machinegun
+0 !KEYWORDS Adventurers, cavalry, cowboy, firearm, indian, injun, machinegun
+0 !KEYWORDS minifig weapon, western, wild west
 
 0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
 0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
@@ -21,6 +20,7 @@
 0 !HISTORY 2009-11-09 [Eldar] BFC'ed
 0 !HISTORY 2011-02-12 [Philo] Fixed several intersections
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 0 // grip
 1 16 0 6 0 4 0 0 0 -12 0 0 0 4 4-4cyli.dat

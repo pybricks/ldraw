@@ -2,11 +2,12 @@
 0 Name: s\30483s03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 4 16 -6.6 25.4 -17.4 -4.8 24.7 -17.5 -3.8 23.5 -17.6 -4.3 23 -17.6
 4 16 -5.9 21.1 17.2 -7.5 21.3 17.2 -6.7 20.6 17.2 -6.5 20.5 17.2

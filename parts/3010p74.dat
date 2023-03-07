@@ -2,13 +2,14 @@
 0 Name: 3010p74.dat
 0 Author: Bertrand Lequy [Berth]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 60261, Set 60232, Set 10764, Bricklink 3010pb258
+0 !KEYWORDS Bricklink 3010pb258, Set 10764, Set 60232, Set 60261
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 4 16 6 8.9 -10 0 11.1 -10 0 14.1 -10 6 11.9 -10

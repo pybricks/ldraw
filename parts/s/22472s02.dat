@@ -2,11 +2,12 @@
 0 Name: s\22472s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 16 4.9751 -39 -12.0107 4.9751 -52 -12.0107 0 -52 -13 0 -39 -13
 4 16 9.1923 -39 -9.1923 9.1923 -52 -9.1923 4.9751 -52 -12.0107 4.9751 -39 -12.0107

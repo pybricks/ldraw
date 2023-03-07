@@ -2,10 +2,11 @@
 0 Name: 3127a.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS town, construction, grab, claw
+
+0 !KEYWORDS Claw, Construction, grab, town
 
 0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
 0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
@@ -13,6 +14,7 @@
 0 !HISTORY 2009-04-06 [tchang] Add BFC, more conditional lines, suppress gap, change stud orientation
 0 !HISTORY 2010-11-11 [PTadmin] Renamed from 3127
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT

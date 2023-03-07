@@ -2,22 +2,22 @@
 0 Name: 74780-f1.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Shortcut UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Use the following transformation matrices for
-0 !HELP  1 x 2 Plates and 1 x 2 Tile with Arrow
+0 !HELP 1 x 2 Plates and 1 x 2 Tile with Arrow
 0 !HELP 1 16 36.2 1 70 1 0 0 0 1 0 0 0 1 3023.dat
 0 !HELP 1 16 36.2 -7 70 1 0 0 0 1 0 0 0 1 3069bp14.dat
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Unitron, Airport Shuttle
-0 !KEYWORDS Set 6347, Set 6991
+0 !KEYWORDS Airport Shuttle, Set 6347, Set 6991, Unitron
 
-0 !HISTORY 2020-02-02 [Holly-Wood] Fixed collision 
+0 !HISTORY 2020-02-02 [Holly-Wood] Fixed collision
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 0 !HISTORY 2020-11-15 [cwdee] Update description
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Bottom
 

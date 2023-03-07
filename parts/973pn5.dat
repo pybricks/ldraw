@@ -2,19 +2,20 @@
 0 Name: 973pn5.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Castle, throwing star, Japan, Japanese, honor, ki
-0 !KEYWORDS assassin, spy, master of disguise, ninjitsu, robe
+0 !KEYWORDS assassin, Castle, honor, Japan, japanese, ki, master of disguise
+0 !KEYWORDS ninjitsu, Robe, spy, throwing star
 
-0 !HISTORY 2003-08-01 [PTadmin]      Official Update 2003-02
-0 !HISTORY 2007-07-29 [PTadmin]      Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin]      Official Update 2008-01
+0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
+0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-04-08 [BlackBrick89] Colour cleanup
-0 !HISTORY 2012-10-19 [Steffen]      inlined subpart
+0 !HISTORY 2012-10-19 [Steffen] inlined subpart
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10

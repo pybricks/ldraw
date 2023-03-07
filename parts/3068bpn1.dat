@@ -2,13 +2,14 @@
 0 Name: 3068bpn1.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Ninja, Bricklink 3068bpb1098, Set 70618, Set 70608, Set 70657
+0 !KEYWORDS Bricklink 3068bpb1098, Ninja, Set 70608, Set 70618, Set 70657
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 4 0 -13.8 0 18.7 -18.6 0 18.7 -18.15 0 18.05 -14.1 0 18.1

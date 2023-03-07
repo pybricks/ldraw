@@ -2,11 +2,12 @@
 0 Name: s\68325s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 0 0 6 0 0 0 1 0 0 0 6 1-8ndis.dat
 1 16 0 4 0 8 0 0 0 -1 0 0 0 8 1-8ndis.dat
@@ -75,7 +76,6 @@
 5 24 19.516 8 19.516 19.516 4 19.516 21.8978 8 16.8029 16.8029 8 21.8978
 5 24 20.7887 8 20.7887 20.7887 4 20.7887 23.326 8 17.8987 17.8987 8 23.326
 5 24 22.2961 8 14.4566 22.2961 4 14.4566 20 8 14.0001 23.1035 8 14.9961
-
 
 2 24 31.176 8 18 29.2967 8 20.8115
 2 24 34.64 8 20 32.1741 8 23.6888

@@ -2,14 +2,13 @@
 0 Name: 4738a.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Pirates, Castle, Adventurers, Belville, minifig accessory
-0 !KEYWORDS buried treasure, doubloons, pieces of eight, loot, hoard
-0 !KEYWORDS wealth, cargo, baggage, chest, trunk, steamer trunk
-0 !KEYWORDS locker, footlocker
+0 !KEYWORDS Adventurers, baggage, Belville, buried treasure, Cargo, Castle
+0 !KEYWORDS Chest, doubloons, footlocker, hoard, Locker, loot, minifig accessory
+0 !KEYWORDS pieces of eight, Pirates, steamer trunk, Trunk, wealth
 
 0 !HISTORY 2004-09-24 [cwdee] Reworked to include panel detail and BFCed
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
@@ -17,6 +16,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, introduced 4-4cylc.dat and modified some box primitives, substituted some quads with rects
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Underside box
 0 // Primitives
@@ -175,7 +175,7 @@
 0 // Edges
 2 24 -40 31 20 -40 4 20
 2 24 -40 31 -20 -40 1 -20
-2 24 -39 1 18.572 -39 .3044 17.5308 
+2 24 -39 1 18.572 -39 .3044 17.5308
 2 24 -39 .3044 17.5308 -39 0 16
 2 24 -39 0 12 -39 0 16
 2 24 -40 1.1716 18.8284 -40 1 18.572
@@ -244,7 +244,7 @@
 1 16 3.5 11.5 -19.75 -1.5 0 0 1.5 -1 0 0 0 .25 rect2p.dat
 1 16 -3.5 11.5 -19.75 1.5 0 0 1.5 -1 0 0 0 .25 rect2p.dat
 1 16 0 13 -19.75 2 0 0 0 -1 0 0 0 .25 rect.dat
-1 16 0 0.5 -12  0 0 39  0.5 0 0  0 -7 0 box3u2p.dat
+1 16 0 0.5 -12 0 0 39 0.5 0 0 0 -7 0 box3u2p.dat
 1 16 0 10 -19.5 0 0 -1 1 0 0 0 1 0 1-4chrd.dat
 1 16 0 10 -19.5 1 0 0 0 0 1 0 1 0 1-4chrd.dat
 0 BFC INVERTNEXT

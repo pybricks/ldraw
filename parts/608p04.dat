@@ -2,16 +2,19 @@
 0 Name: 608p04.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS crossing, crossroads, crosswalk, crossway, interchange
-0 !KEYWORDS junction, joint, stop
-0 !KEYWORDS airport, helipad, runway, accessory pack, Tee-plate, Space
+
+0 !KEYWORDS accessory pack, Airport, crossing, crossroads, Crosswalk, crossway
+0 !KEYWORDS helipad, interchange, joint, junction, runway, Space, Stop
+0 !KEYWORDS Tee-plate
+
 0 !CMDLINE -c7
 
 0 !HISTORY 2008-07-03 [anathema] Used subpart
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\608p03a.dat
 4 462 -136 0 -320 -124 0 -320 -124 0 320 -136 0 320

@@ -2,13 +2,14 @@
 0 Name: s\32013s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 0 !HISTORY 2022-02-02 [MagFors] Reworked axlehole, removed edge line
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 10 -1 0 0 0 0 -1 0 -1 0 axl2hol2.dat
 1 16 0 0 29 -1 0 0 0 0 -1 0 -1 0 axl2hol9.dat

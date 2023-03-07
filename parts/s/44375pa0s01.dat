@@ -1,12 +1,13 @@
-0 ~Dish  6 x  6 Jurassic World Gyrosphere Pattern - 1/8 
+0 ~Dish  6 x  6 Jurassic World Gyrosphere Pattern - 1/8
 0 Name: s\44375pa0s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 322 51.113 9.7335 26.0054 51.959819 11 29.998759 46.677247 7.95 26.948916 50.5389 9.4502 25.8912
 4 0 55.2142 8.7275 3.6541 55.1 8.6515 3.08 55.6 8.9015 3.08 55.6761 8.9521 3.4627

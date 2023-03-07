@@ -2,11 +2,12 @@
 0 Name: s\3626cpd67s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 4 0 -9.192 5.544 -9.193 -9.38 5.84 -8.911 -9.58 6.36 -8.612 -9.192 7.01 -9.192
 4 0 -9.77 7.69 -8.328 -9.192 7.01 -9.192 -9.58 6.36 -8.612 -9.94 7.42 -8.074

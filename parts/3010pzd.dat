@@ -2,13 +2,14 @@
 0 Name: 3010pzd.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 41492, Brickheadz, Captain America
+0 !KEYWORDS Brickheadz, Captain America, Set 41492
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 4 0 -7.55 13.35 -10 -6.03 13.06 -10 -10.53 8.37 -10 -13.23 7.44 -10

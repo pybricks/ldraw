@@ -2,7 +2,7 @@
 0 Name: 2773.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2009-11-25 [cwdee] Correct header line-wrap error
 0 !HISTORY 2009-12-17 [Eldar] BFC'ed
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 0 // Top
 

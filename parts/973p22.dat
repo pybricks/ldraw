@@ -2,10 +2,12 @@
 0 Name: 973p22.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2002-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS Adventurers, Sam Sinister, Sam Sanister
+
+0 !KEYWORDS Adventurers, Sam Sanister, Sam Sinister
+
 0 !CMDLINE -c0
 
 0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
@@ -17,9 +19,10 @@
 0 !HISTORY 2007-07-28 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+
 3 4 2 0 -10 7 0 -10 5 5 -10
 4 16 7 0 -10 7.5 0 -10 5 6 -10 5 5 -10
-4 16 5 5 -10 5 6 -10 1.5 0 -10 2 0 -10 
+4 16 5 5 -10 5 6 -10 1.5 0 -10 2 0 -10
 4 4 0.5 0 -10 1.5 0 -10 5 6 -10 0.5 6 -10
 4 4 0.5 6 -10 5 6 -10 5 10 -10 0.5 10.5 -10
 3 4 0.5 10.5 -10 5 10 -10 0 15 -10

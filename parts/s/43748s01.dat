@@ -1,12 +1,13 @@
-0 ~Animal Serpent Basilisk Tail/Neck S Curve - Top - Without patternable area 
+0 ~Animal Serpent Basilisk Tail/Neck S Curve - Top - Without patternable area
 0 Name: s\43748s01.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 2 24 20 0 0 18.478 -7.654 0
 2 24 18.478 -7.654 0 14.142 -14.142 0

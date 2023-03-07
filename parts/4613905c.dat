@@ -2,7 +2,7 @@
 0 Name: 4613905c.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP place at 0 24 -10 1 0 0 0 0 -1 0 1 0 on 3245b.dat
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 0 !HISTORY 2015-04-06 [Wesley] changed colour 148 to 72
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 19 0 -0.25 0 18 0 0 0 0.25 0 0 0 22 box5-12.dat
 4 72 -12.3 -0.25 2.6 -12 -0.25 2.1 -11.4 -0.25 2.9 -12.3 -0.25 3.2

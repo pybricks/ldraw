@@ -2,7 +2,7 @@
 0 Name: 2453a.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2017-02-11 [PTadmin] Renamed from 2453
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 BFC INVERTNEXT
 1 16 0 4 0 6 0 0 0 116 0 0 0 6 box4.dat

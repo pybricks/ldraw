@@ -2,7 +2,7 @@
 0 Name: 168185a.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2012-01-09 [cwdee] Corrected dimensions
 0 !HISTORY 2012-01-10 [MagFors] Closed gaps, removed duplicated surface, reduced filesize with Rectifier
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 0 // based on the work of Thomas Burger
 

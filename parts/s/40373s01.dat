@@ -2,14 +2,15 @@
 0 Name: s\40373s01.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2009-11-30 [westrate] File preparation for LDraw Parts Tracker
-0 !HISTORY 2015-10-19 [MagFors]  Moved unprinted surface to subfile
+0 !HISTORY 2015-10-19 [MagFors] Moved unprinted surface to subfile
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 4 16 40 0.03 20.19 40 55.58 20.23 40 32.1 34.27 40 24.94 35.7
 3 16 40 44.63 36.76 40 55.58 20.23 40 50.7 40.82

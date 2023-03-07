@@ -2,12 +2,13 @@
 0 Name: s\3003pe3s01.dat
 0 Author: Owen Burgoyne [C3POwen]
 0 !LDRAW_ORG Subpart UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-12-31 [GeraldLasser] Corrected Quads
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 4 0 -2.71 0 6.53 0 0 7.07 0 0 8 -3.06 0 7.39
 4 0 -5 0 5 -2.71 0 6.53 -3.06 0 7.39 -5.65 0 5.65

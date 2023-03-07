@@ -2,13 +2,14 @@
 0 Name: 3005pz0.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS BrickLink 3005pb031, set 41615, BrickHeadz, Harry Potter
+0 !KEYWORDS Brickheadz, BrickLink 3005pb031, Harry Potter, Set 41615
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3005s01.dat
 1 16 0 0 -10 1 0 0 0 1 0 0 0 1 s\3005pz0s01.dat
@@ -212,5 +213,5 @@
 3 82 3.33 10.81 -10 3.71 11.3 -10 3.81 11.16 -10
 
 0 // Top and Bottom Main Color Triangles
-3 16 -10 0 -10 0 1.24 -10 10 0 -10 
-3 16 0 23.1 -10 -10 24 -10 10 24 -10 
+3 16 -10 0 -10 0 1.24 -10 10 0 -10
+3 16 0 23.1 -10 -10 24 -10 10 24 -10

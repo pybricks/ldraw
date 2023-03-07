@@ -2,7 +2,7 @@
 0 Name: 15392.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-10-11 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 4 16 8.625 1.375 -2.382 -8.625 1.375 -2.382 -8.625 2.382 -1.375 8.625 2.382 -1.375
 4 16 8.625 2.382 -1.375 -8.625 2.382 -1.375 -8.625 2.75 0 8.625 2.75 0

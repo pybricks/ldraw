@@ -2,13 +2,14 @@
 0 Name: 3069bpz6.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Brickheadz, Set 41492, Iron Man
+0 !KEYWORDS Brickheadz, Iron Man, Set 41492
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 4 320 -19 0 6.67 -14.86 0 -0.38 -18.38 0 9 -19 0 9

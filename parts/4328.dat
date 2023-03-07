@@ -2,7 +2,7 @@
 0 Name: 4328.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Position of clip: Y = -50.7, Z = -1.3
 
@@ -15,7 +15,8 @@
 0 !HISTORY 2011-12-18 [Steffen] tidied up edges a bit
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
-0 // Needs Work: 
+
+0 // Needs Work:
 0 // - condlines where the cylindrical grip contacts the body are not ok
 0 // - T-junctions should be removed
 0 // - there are some duplicately modeled (overlapping) edges at the main body part

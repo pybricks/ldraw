@@ -2,7 +2,7 @@
 0 Name: s\3004p90a.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2013-12-05 [MagFors] Removed T-junctions
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 3 16 20 0 0 17.948 4.873 0 17.343 4.342 0
 4 16 20 0 0 20 24 0 18.029 5.658 0 17.948 4.873 0

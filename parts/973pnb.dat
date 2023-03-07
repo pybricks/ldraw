@@ -2,16 +2,17 @@
 0 Name: 973pnb.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS ninjago, ninja, tarragon, BrickLink 973pb1200, Dual
-0 !KEYWORDS sensei wu, teacher, grand, master, robe
+0 !KEYWORDS BrickLink 973pb1200, Dual, Grand, master, Ninja, Ninjago, Robe
+0 !KEYWORDS Sensei Wu, tarragon, teacher
 
 0 !CMDLINE -c15
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // Pattern front
 0 // Yellow
@@ -1165,7 +1166,6 @@
 3 16 5.618 27.442 -10 5.634 27.768 -10 5.907 27.849 -10
 3 16 5.882 27.236 -10 5.605 27.11 -10 5.618 27.442 -10
 3 16 5.235 27.16 -10 4.962 27.39 -10 5.323 27.654 -10
-
 
 0 // Pattern back
 0 // Dark bluish gray

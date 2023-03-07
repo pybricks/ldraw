@@ -2,11 +2,12 @@
 0 Name: s\38547s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 16 1.5 -33.916 -32.2694 1.5 -30.7613 -36.1732 1.5 -28.5 -31.9 1.5 -28.4129 -5.5563
 4 16 1.5 -28.4129 -5.5563 1.5 -28.5 -31.9 1.5 -23.9 -26.5 1.5 -10 -6

@@ -2,13 +2,14 @@
 0 Name: s\26051s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2019-02-20 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 3 16 0 -12.516 -24.31 1.889 -11.459 -24.153 0 -11.808 -21.204
 3 16 0 -11.808 -21.204 1.889 -11.459 -24.153 2.153 -10.46 -20.796

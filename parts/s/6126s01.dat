@@ -2,12 +2,13 @@
 0 Name: s\6126s01.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-02-10 [smr] moved flame from 6126 to s\6126s01.dat
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 1 16 -3.5 2 47 -0.76537 0 -1.84776 0 -1 0 -1.84776 0 0.76537 1-8ndis.dat
 1 16 -3.5 2 47 1.84776 0 -0.76537 0 -1 0 -0.76537 0 -1.84776 1-4ndis.dat

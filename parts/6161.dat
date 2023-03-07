@@ -2,13 +2,14 @@
 0 Name: 6161.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Belville, basebrick
+0 !KEYWORDS basebrick, Belville
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 // Needs Work: At Inner curved wall some edgelines are missing.
 0 // Needs Work: Inside shell
@@ -485,7 +486,6 @@
 1 16 200 0 40 1 0 0 0 1 0 0 0 1 s\6161s01.dat
 1 16 220 4 60 -1 0 0 0 -5 0 0 0 1 stud4.dat
 1 16 222 4 40 14 0 0 0 19 0 0 0 1 box3u2p.dat
-
 
 1 16 -200 0 80 0 0 -1 0 1 0 -1 0 0 s\6161s02.dat
 1 16 -160 0 80 1 0 0 0 1 0 0 0 1 s\6161s01.dat

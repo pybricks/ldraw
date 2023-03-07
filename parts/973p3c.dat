@@ -2,22 +2,25 @@
 0 Name: 973p3c.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2002-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS Pirates, vest, belt, bandolier, merchant
+
+0 !KEYWORDS bandolier, belt, merchant, Pirates, vest
+
 0 !CMDLINE -C15
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
 0 !HISTORY 2007-07-28 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+
 0 // Torso
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 14.345 2 10 12 0 10 -12 0 10 -14.345 2 10
 4 16 -19 29 10 19 29 10 14.345 2 10 -14.345 2 10
 4 16 19 32 10 19 29 10 -19 29 10 -19 32 10
-1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.DAT
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 
 0 Pattern
 4 16 6.25 0 -10 8 0 -10 12 6.5 -10 4 6 -10

@@ -2,11 +2,12 @@
 0 Name: s\30620s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // Back Part - Wheel Attachment
 3 16 40 80 424 36 80 424 40 80 434.3431
@@ -400,8 +401,8 @@
 4 16 10 -4 4 10 -4 10 7.4246 -4 7.4246 9.6693 -4 4.0658
 4 16 4 -4 10 4.0658 -4 9.6693 7.4246 -4 7.4246 10 -4 10
 
-1 16 0 0 0 10.5 0 0 0 1 0 0 0 10.5 1-16edge.dat 
-1 16 0 0 0 10.5 0 0 0 1 0 0 0 -10.5 1-16edge.dat 
+1 16 0 0 0 10.5 0 0 0 1 0 0 0 10.5 1-16edge.dat
+1 16 0 0 0 10.5 0 0 0 1 0 0 0 -10.5 1-16edge.dat
 1 16 0 0 0 0 0 10.5 0 1 0 10.5 0 0 1-16edge.dat
 1 16 0 0 0 0 0 10.5 0 1 0 -10.5 0 0 1-16edge.dat
 2 24 4.0184 0 9.701 4.0658 0 9.6693

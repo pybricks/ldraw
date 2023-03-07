@@ -2,11 +2,12 @@
 0 Name: 48\1-6cyls2.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG 48_Primitive UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 3 16 0 0 1 -.1305 .1305 .9914 -.1305 0 .9914
 4 16 -.1305 .1305 .9914 -.2588 .2588 .9659 -.2588 0 .9659 -.1305 0 .9914

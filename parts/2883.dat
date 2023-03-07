@@ -2,13 +2,14 @@
 0 Name: 2883.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 0 !HISTORY 2020-08-02 [Holly-Wood] Remeasured, fixed overlap with 74780-f1, added holes, prim substitution
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 2 24 -17 3 -42 -17 3 -22
 2 24 -17 3 -42 17 3 -42

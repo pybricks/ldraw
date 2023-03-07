@@ -2,12 +2,15 @@
 0 Name: 973p6h.dat
 0 Author: Christophe Mitillo [Christophe_Mitillo]
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !KEYWORDS BrickLink 973pb1685
+
 0 !HISTORY 2015-10-25 [MagFors] Minor improvements
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
@@ -944,7 +947,6 @@
 4 2 -0.741 14.452 -10 0 14.5 -10 0.36 13.715 -10 -0.855 13.22 -10
 4 2 -0.855 13.22 -10 0.36 13.715 -10 -0.165 12.928 -10 -0.481 12.66 -10
 3 2 -0.165 12.928 -10 -0.35 12 -10 -0.481 12.66 -10
-
 
 0 // Derriere
 4 0 12.8 21.7 10 13.183 21.624 10 13.374 22.086 10 12.8 22.2 10

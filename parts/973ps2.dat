@@ -2,11 +2,11 @@
 0 Name: 973ps2.dat
 0 Author: Matt Schild [mschild]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, classic trilogy, Luke Skywalker, Return of the Jedi
+0 !KEYWORDS Classic Trilogy, Luke Skywalker, Return of the Jedi, Star Wars
 
 0 !HISTORY 2002-04-02 [fwcain] added keywords; convert to color-16; added neck-mark...
 0 !HISTORY 2002-05-27 [mschild] fixed overlaps
@@ -16,6 +16,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2014-12-27 [Philo] BFCed
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10

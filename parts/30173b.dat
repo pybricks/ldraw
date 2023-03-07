@@ -2,16 +2,16 @@
 0 Name: 30173b.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS castle, weapon, ninja, samurai, Ninjago
-0 !KEYWORDS shamshir, Persia
+0 !KEYWORDS Castle, Ninja, Ninjago, Persia, samurai, shamshir, Weapon
 
 0 !HISTORY 2011-10-19 [Philo] Adapted from fwcain's 30173
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 0 // Grip
 1 16 0 -3 0 0 0 -1 0 -1 0 1 0 0 s\93247s01.dat

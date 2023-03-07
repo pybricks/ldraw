@@ -2,11 +2,12 @@
 0 Name: s\92084p01s02.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 3 0 0 -47.6 -17.1053 0 -45.969 -17.47 .8 -47.5 -17.1166
 4 16 1.025 -47.918 -17.02 0 -47.852 -17.049 0 -47.6 -17.1053 .8 -47.5 -17.1166

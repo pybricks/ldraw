@@ -2,12 +2,13 @@
 0 Name: s\64808s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-03-28 [Holly-Wood] Fixed conds, smoothed surface
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 3 16 18.933 -18.568 -7.421 19.343 -20.377 -6.305 19.406 -19.2 -8.924
 3 16 19.343 -20.377 -6.305 19.668 -20.657 -8.323 19.406 -19.2 -8.924

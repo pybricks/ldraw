@@ -2,13 +2,14 @@
 0 Name: 30218k01.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part Flexible_Section UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-11-03 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2017-11-20 [Holly-Wood] File preparation for LDraw Parts Tracker
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 2 24 15.315 -9.5 8.75 25.452 -9.5 8.75
 2 24 25.452 -9.5 -8.75 15.315 -9.5 -8.75
@@ -243,7 +244,6 @@
 2 24 28.5 -12 -8.75 32.5 -12 -8.75
 2 24 15.315 -12 8.75 28.5 -12 8.75
 
-
 1 16 28.5 -12 -8.75 -2.82843 0 2.82843 2.82843 0 2.82843 0 17.5 0 3-8cylo.dat
 1 16 28.5 -12 8.75 4 0 0 0 0 4 0 -1 0 3-8disc.dat
 1 16 28.5 -12 -8.75 4 0 0 0 0 4 0 1 0 3-8disc.dat
@@ -464,7 +464,6 @@
 3 16 7.574 -9 -11.681 17.7 -9 0 5.543 -7 -2.296
 3 16 4.243 -7 4.243 5.543 -7 2.296 7.574 -9 11.681
 3 16 5.543 -7 2.296 17.7 -9 0 7.574 -9 11.681
-
 
 4 16 -17.969 -12 0 -17.797 -12 1.994 -16.489 -9.578 1.994 -16.662 -9.578 0
 4 16 -10.794 -5.754 1.994 -10.967 -5.754 0 -16.662 -9.578 0 -16.489 -9.578 1.994

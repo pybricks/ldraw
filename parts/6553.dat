@@ -2,21 +2,22 @@
 0 Name: 6553.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Pole Reverser Handle, Pole Reverser
+0 !KEYWORDS Pole Reverser, Pole Reverser Handle
 
 0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant (2004-07-11)
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
+
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 bush0.dat
-1 16 -7 0 0 0 0.5 0 0 0 1 1 0 0 4-4CON8.DAT
+1 16 -7 0 0 0 0.5 0 0 0 1 1 0 0 4-4con8.dat
 1 16 -6.5 0 0 0 0.5 0 0 0 1 1 0 0 4-4con7.dat
-1 16 7 0 0 0 -0.5 0 0 0 1 -1 0 0 4-4CON8.DAT
+1 16 7 0 0 0 -0.5 0 0 0 1 -1 0 0 4-4con8.dat
 1 16 6.5 0 0 0 -0.5 0 0 0 1 -1 0 0 4-4con7.dat
 1 16 7 0 0 0 -1 0 0 0 9 -9 0 0 4-4edge.dat
 1 16 -7 0 0 0 -1 0 0 0 9 -9 0 0 4-4edge.dat

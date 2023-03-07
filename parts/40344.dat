@@ -2,7 +2,7 @@
 0 Name: 40344.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part Alias UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 0 !HISTORY 2020-10-07 [Sirio] Updated title and reference to part
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 0 // Alias of 32531a
 

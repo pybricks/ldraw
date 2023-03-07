@@ -2,7 +2,7 @@
 0 Name: 29634.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2020-01-15 [UR] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Main
 
@@ -3151,7 +3152,6 @@
 3 16 8.6 5.78 -10.34 9.1923 4 -9.1923 12.0107 4 -4.9751
 
 0 // Condlines
-
 
 5 24 -12.52 20.64 6.19 -14.92 21.59 4.23 -13.94 22.71 2.07 -14.81 22.08 5.74
 5 24 -14.9 22.94 1.64 -15.84 21.07 3.82 -14.92 21.59 4.23 -15.6 22.66 .96

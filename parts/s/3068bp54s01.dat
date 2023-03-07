@@ -2,13 +2,14 @@
 0 Name: s\3068bp54s01.dat
 0 Author: Nils Schmidt [BlackBrick89]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2013-03-29 [MagFors] Changed colour 383 to 80 (printed silver)
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 3 16 8.01 0 20 20 0 20 20 0 12.8
 4 80 7.61 0 20 16.15 0 9.24 0 0 18.81 5.22 0 20

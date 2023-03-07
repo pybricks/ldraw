@@ -2,14 +2,17 @@
 0 Name: 3815p4f.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS Castle, Knights Kingdom, set 4817, armor, leggings, straps, archer, knight
+
+0 !KEYWORDS archer, Armor, Castle, knight, Knights Kingdom, leggings, set 4817
+0 !KEYWORDS straps
+
 0 !CMDLINE -c0
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
-0 !HISTORY 2004-06-15 [nielsk]  BFC'd
+0 !HISTORY 2004-06-15 [nielsk] BFC'd
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-07-27 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
@@ -19,6 +22,7 @@
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2020-05-30 [cwdee] Obsoleted due to bad geometry
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3815s01.dat
 1 16 -2 12 0 0 4 0 -6.364 0 6.364 -6.364 0 -6.364 5-16cyli.dat

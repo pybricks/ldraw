@@ -1,8 +1,8 @@
 0 Technic Cross Block 1 x 3 (Axle/Pin/Axle)
 0 Name: 32184.dat
-0 Author: Jeff Boen
+0 Author: Jeff Boen [onyx]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant, add missing quads, lines, optional lines, used more primitives (2004-05-16)
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 -20 0 0 0 -1 0 1 0 1 0 0 bush0.dat
 1 16 0 20 0 0 0 -1 0 1 0 1 0 0 bush0.dat
@@ -159,11 +160,11 @@
 3 16 3.45 -8.32 2 7 -9 2 7 -5.41 2
 3 16 -3.45 -8.32 2 -7 -5.41 2 -7 -9 2
 1 16 6.5 20 0 0 -0.5 0 0 0 1 -1 0 0 4-4con7.dat
-1 16 7 20 0 0 -0.5 0 0 0 1 -1 0 0 4-4CON8.DAT
+1 16 7 20 0 0 -0.5 0 0 0 1 -1 0 0 4-4con8.dat
 1 16 -6.5 20 0 0 0.5 0 0 0 1 1 0 0 4-4con7.dat
-1 16 -7 20 0 0 0.5 0 0 0 1 1 0 0 4-4CON8.DAT
+1 16 -7 20 0 0 0.5 0 0 0 1 1 0 0 4-4con8.dat
 1 16 6.5 -20 0 0 -0.5 0 0 0 -1 1 0 0 4-4con7.dat
-1 16 7 -20 0 0 -0.5 0 0 0 -1 1 0 0 4-4CON8.DAT
+1 16 7 -20 0 0 -0.5 0 0 0 -1 1 0 0 4-4con8.dat
 1 16 -6.5 -20 0 0 0.5 0 0 0 -1 -1 0 0 4-4con7.dat
-1 16 -7 -20 0 0 0.5 0 0 0 -1 -1 0 0 4-4CON8.DAT
+1 16 -7 -20 0 0 0.5 0 0 0 -1 -1 0 0 4-4con8.dat
 0

@@ -2,12 +2,13 @@
 0 Name: s\2552p04s02.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2021-10-27 [MMR1988] Streamlined whole pattern, merged to two subfiles.
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // Lower Front (13)
 
@@ -817,7 +818,6 @@
 4 16 283.2206 -24.4056 -143.2207 247.5 -36.4 -139.8889 246.6 -34.7 -140.3611 279.625 -20.325 -144.3541
 3 16 243.85 -35.85 -140.0416 221.1 -59.25 -133.5416 243.4 -34.6 -140.3889
 3 16 221.1 -59.25 -133.5416 242.4 -32.6 -140.9444 243.4 -34.6 -140.3889
-
 
 0 // Right (10)
 3 16 282.916 -25.5 -115.9 283.167 -24.6 -113.1 271.083 -68.1 -118.1

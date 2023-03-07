@@ -2,13 +2,14 @@
 0 Name: znap4.dat
 0 Author: Thomas Woelk [t.woelk]
 0 !LDRAW_ORG Primitive UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2005-07-27 [mikeheide] added detail and BFC'ed
 0 !HISTORY 2005-08-03 [mikeheide] split cylinder
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 0 -10 0 -8.9944 0 0 0 1 0 0 0 8.9944 1-4edge.dat
 1 16 0 -2 0 -8.9944 0 0 0 1 0 0 0 8.9944 1-4edge.dat
@@ -48,7 +49,7 @@
 1 16 0 10 0 0.707107 0 0.707107 0 -1 0 0.707107 0 -0.707107 1-8ring9.dat
 1 16 0 -10 0 10 0 0 0 20 0 0 0 10 1-8edge.dat
 1 16 0 10 0 10 0 0 0 20 0 0 0 10 1-8edge.dat
-0 
+0
 4 16 -3.4422 -2 8.30992 -11.7083 -2 16.576 -14.1421 -2 14.1421 -6.35972 -2 6.35972
 4 16 -16.576 -2 11.7083 -8.30992 -2 3.4422 -6.35972 -2 6.35972 -14.1421 -2 14.1421
 4 16 -11.7083 -2 16.576 -3.43512 -2 8.30285 0 -2 8.9944 -9.64494 -2 18.6393

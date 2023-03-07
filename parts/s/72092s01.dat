@@ -2,11 +2,12 @@
 0 Name: s\72092s01.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 4 16 23.9023 -5.0039 0 24 -3 0 22.1731 -3 9.1844 22.0828 -5.0039 9.147
 4 16 23.5938 -6.2813 0 23.9023 -5.0039 0 22.0828 -5.0039 9.147 21.7978 -6.2813 9.029

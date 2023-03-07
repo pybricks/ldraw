@@ -2,16 +2,19 @@
 0 Name: 3817bpc1.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS set 76049, Bricklink 970c00pb0482
-0 !KEYWORDS Marvel, Super Heroes, Avengers, Captain Marvel, Carol Danvers
+
+0 !KEYWORDS Avengers, Bricklink 970c00pb0482, Captain Marvel, Carol Danvers
+0 !KEYWORDS Marvel, set 76049, Super Heroes
+
 0 !CMDLINE -c272
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 0 !HISTORY 2021-01-15 [cwdee] Correct description
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bs01.dat
 5 24 2 3.349 -8.084 18.659 3.349 -8.084 2 0 -8.75 2 6.187 -6.187

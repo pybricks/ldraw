@@ -2,12 +2,14 @@
 0 Name: 3070bps3.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !KEYWORDS Star Wars, TIE Interceptor
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
 4 0 -1 0 8.75 -1.5 0 8 0 0 8 0 0 8.75
@@ -206,7 +208,4 @@
 
 0 // Pattern created wholly or in part by Quad2Dat
 0 // Thanks James
-
-
-
 

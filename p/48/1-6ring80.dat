@@ -2,11 +2,12 @@
 0 Name: 48\1-6ring80.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG 48_Primitive UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 4 16 81 0 0 80.3034 0 10.5705 79.312 0 10.44 80 0 0
 4 16 80.3034 0 10.5705 78.2379 0 20.9628 77.272 0 20.704 79.312 0 10.44

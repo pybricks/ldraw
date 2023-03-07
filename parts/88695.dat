@@ -2,15 +2,16 @@
 0 Name: 88695.dat
 0 Author: Rolf Osterthun [Rolf]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Horn Chromastone, Ben 10
+0 !KEYWORDS Ben 10, Horn Chromastone
 
 0 !HISTORY 2011-10-16 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2011-10-17 [Rolf] File preparation for LDraw Parts Tracker
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 1 16 0 -1.1925 6.814 -3.25 0 0 0 0 -1.1925 0 -1 0 rect.dat
 1 16 0 -0.625 -6.814 -3.25 0 0 0 0 0.625 0 1 0 rect.dat

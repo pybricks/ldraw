@@ -2,7 +2,7 @@
 0 Name: 3829a.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] BFC'd (2005-11-26)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
 
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 0 4 -10 0 0 -20 4 0 0 0 20 0 box3u2p.dat

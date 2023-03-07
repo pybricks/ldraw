@@ -2,14 +2,15 @@
 0 Name: 3069bp82.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 10257, set 10258, set 10259
-0 !KEYWORDS Carousel, London Bus, Winter Village Station
+0 !KEYWORDS Carousel, London Bus, Set 10257, set 10258, Set 10259
+0 !KEYWORDS Winter Village Station
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 4 16 -20 0 -10 -17.504 0 -9 -17.6407 0 -8.3127 -18.03 0 -7.73

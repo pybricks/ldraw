@@ -2,13 +2,14 @@
 0 Name: s\24132s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2017-08-01 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 16 10.314 0 38.491 0 0 40.001 0 -4 39.887 10.284 -4 38.381
 4 16 0 -4 39.887 0 -12.892 38.512 9.93 -12.892 37.059 10.284 -4 38.381

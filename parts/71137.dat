@@ -2,7 +2,7 @@
 0 Name: 71137.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2013-03-11 [mikeheide] made the elbow diameter greater.
 0 !HISTORY 2013-03-12 [MMR1988] optimzied by using other prims
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 0 -30 4 0 0 0 0 4 0 19 0 4-4cylc.dat
 1 16 0 0 -11 4.4 0 0 0 0 4.4 0 1 0 4-4edge.dat

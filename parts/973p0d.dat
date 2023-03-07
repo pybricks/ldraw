@@ -2,13 +2,14 @@
 0 Name: 973p0d.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 4002020, Set 10275, Elf, Dwarf
+0 !KEYWORDS dwarf, Elf, Set 10275, Set 4002020
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
@@ -657,9 +658,6 @@
 3 16 -10.12 11.36 -10 -10.36 12.16 -10 -9.95 12.1 -10
 
 0 // back
-
-
-
 
 4 0 16.4 23 10 17.6 28.8 10 11.5 29.6 10 10.5 29.7 10
 3 0 16.4 23 10 10.5 29.7 10 14.4 23.4 10

@@ -2,16 +2,18 @@
 0 Name: 3816bpm2.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Lord of the Rings, Aragorn
+0 !KEYWORDS Aragorn, Lord of the Rings
+
 0 !CMDLINE -c28
 
 0 !HISTORY 2014-06-21 [Wesley] Original pattern design
 0 !HISTORY 2020-07-09 [cwdee] Adapted to corrected geometry
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3817bs01.dat
 5 24 -2 3.349 -8.084 -18.659 3.349 -8.084 -2 0 -8.75 -2 6.187 -6.187

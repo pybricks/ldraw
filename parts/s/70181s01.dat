@@ -2,20 +2,21 @@
 0 Name: s\70181s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Example of usage. Settings for an extended spring.
 0 !HELP 0 MLCAD SPRING 494 0 -139 -45 -1 0 0 0 1 0 0 0 -1 206 45.5 7.5 0.45 0 0
 0 !HELP 1 71 0 0 -24 1 0 0 0 1 0 0 0 1 45707.dat
 0 !HELP 1 0 0 0 0 1 0 0 0 1 0 0 0 1 4518b.dat
 0 !HELP 1 494 0 -139 -45 1 0 0 0 1 0 0 0 1 70181s01.dat
-0 !HELP 1 494 0 67 -45 -1 0 0 0 -1 0 0 0 1 70181s01.dat 
+0 !HELP 1 494 0 67 -45 -1 0 0 0 -1 0 0 0 1 70181s01.dat
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-29 [MagFors] Created with the help of MLCad Spring Generator
 0 !HISTORY 2019-03-06 [MagFors] Added conditional lines
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 2 24 -3.75 -.23 0 -3.46 -.29 1.43
 2 24 -3.98 0 0 -3.68 -.06 1.52

@@ -2,13 +2,14 @@
 0 Name: 14769p02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Mixels, Nixel
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769s01.dat
 4 0 7.5 0 1.5 14.6 0 3.2 14.5 0 3.8 5.4 0 1.7

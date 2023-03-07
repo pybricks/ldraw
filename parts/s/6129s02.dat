@@ -2,11 +2,12 @@
 0 Name: s\6129s02.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 3 16 12.8 -28.48 -89.85 12.8 -28.68 -89.94 12.72 -28.44 -90.04
 4 16 11.5 -28.98 -93.49 12.72 -28.44 -90.04 12.8 -28.68 -89.94 12.79 -31.05 -91.07

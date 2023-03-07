@@ -2,13 +2,14 @@
 0 Name: 4125165fc01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Set 8448
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 4 16 -5.6 0.6762 -1.95 -5.6 0.6755 75.55 0.0228 0.3101 81.7753 0.0023 0.31 -0.5544
 4 16 5.6 0.6762 0.84 0.0023 0.31 -0.5544 0.0228 0.3101 81.7753 5.6 0.6712 87.95

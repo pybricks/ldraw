@@ -2,7 +2,7 @@
 0 Name: 55967.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2007-10-23 [Philo] drilled button hole
 0 !HISTORY 2012-01-13 [Steffen] added missing edges
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 0 // Needs work: Internal structure should be modelled
 

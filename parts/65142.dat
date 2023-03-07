@@ -2,11 +2,12 @@
 0 Name: 65142.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 0 BFC INVERTNEXT
 1 16 0 0 0 0 0 1 0 5 0 -1 0 0 4-4con5.dat
@@ -67,7 +68,6 @@
 2 24 4.402 92 1.75 4.402 92 -1.75
 2 24 -4.4001 106 1.8226 -4.4001 106 -1.8226
 2 24 4.4001 106 1.8226 4.4001 106 -1.8226
-
 
 5 24 0 98 4.75 0 98 6.5 .95 97.7 6.3509 -.95 97.7 6.3509
 5 24 0 98 -4.75 0 98 -6.5 .95 97.7 -4.6009 -.95 97.7 -4.6009

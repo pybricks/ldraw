@@ -2,16 +2,18 @@
 0 Name: 3626bpq1.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Pharaoh's Quest, Amset-Ra
+0 !KEYWORDS Amset-Ra, Pharaoh's Quest
+
 0 !CMDLINE -c71
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 0 !HISTORY 2013-01-14 [Wesley] changed color 484 to 70, used more primitives, added "pattern" to title
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 0 // -- head framework --

@@ -2,7 +2,7 @@
 0 Name: t01o3810.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Primitive UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,11 +10,12 @@
 0 !HISTORY 2013-09-27 [MMR1988] Recreated to fix condlines
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
+
 0 // Major Radius: 21
 0 // Tube(Minor) Radius: 8
 0 // Segments(Sweep): 16/16 = 1.00
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.3810 0 0  0 0 0.3810  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.3810 0 0 0 0 0.3810 0 1 0 4-4edge.dat
 
 4 16 1 0.381 0 0.9239 0.381 0.3827 1.0586 0.352 0.4385 1.1458 0.352 0
 4 16 1.1458 0.352 0 1.0586 0.352 0.4385 1.1728 0.2694 0.4858 1.2694 0.2694 0

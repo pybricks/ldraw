@@ -2,13 +2,14 @@
 0 Name: 2797.dat
 0 Author: Marc Klein [marckl]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2008-08-12 [guyvivan] Rework part and use more primitives
 0 !HISTORY 2009-12-22 [Philo] Split cylinder and base, changed origin
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 0 // Created with stl2dat conversion tool
 

@@ -2,7 +2,7 @@
 0 Name: 6549.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,8 +10,9 @@
 0 !HISTORY 2011-01-04 [Philo] BFCed with Windz, improved some condlines
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 
+
 1 16 0 -79 0 1 0 0 0 50 0 0 0 1 axle.dat
-1 16 0 -29 0 1 0 0 0 1 0 0 0 1 Axleho10.dat
+1 16 0 -29 0 1 0 0 0 1 0 0 0 1 axleho10.dat
 1 16 0 -29 0 1 0 0 0 1 0 0 0 1 axlehol3.dat
 1 16 0 -29 0 6 0 0 0 18 0 0 0 6 4-4cyli.dat
 1 16 0 -11 0 6 0 0 0 1 0 0 0 6 4-4edge.dat

@@ -2,7 +2,7 @@
 0 Name: 3888a.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2011-02-13 [anathema] BFC'd, used stug primitives, added keywords
 0 !HISTORY 2015-03-14 [Philo] Improved geometry
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 38 4 0 2 0 0 0 4 0 0 0 81 box5.dat
 1 16 40 13 110 0 1 0 4 0 0 0 0 4 4-4ndis.dat

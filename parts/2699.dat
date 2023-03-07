@@ -2,7 +2,7 @@
 0 Name: 2699.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -10,6 +10,7 @@
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 0 14.5 -7 0 0 -2 -2.5 0 0 0 1 0 rect2p.dat
 1 16 0 16.95 8.48 0 0 2 -5 0 0 3.53 -1 0 rect2p.dat
@@ -28,7 +29,7 @@
 1 16 0 -40 -3.75 2 0 0 0 1 0 0 0 0.25 rect3.dat
 1 16 0 -31 -2.751 0 0 -2 9 0 0 0.75 -1 0 rect2p.dat
 0 BFC INVERTNEXT
-1 16 2 -22 0 0 -4 0 0 0 2 -2 0 0 2-4CYLI.dat
+1 16 2 -22 0 0 -4 0 0 0 2 -2 0 0 2-4cyli.dat
 1 16 2 -22 0 0 -4 0 0 0 2 -2 0 0 2-4edge.dat
 1 16 2 -22 0 0 -4 0 0 0 2 -2 0 0 2-4ndis.dat
 1 16 -2 -22 0 0 -4 0 0 0 2 -2 0 0 2-4edge.dat
@@ -39,8 +40,8 @@
 1 16 7 17 0 0 1 0 0 0 1 1 0 0 4-4con4.dat
 1 16 7.5 17 0 0 1.5 0 0 0 1.5 1.5 0 0 4-4con2.dat
 1 16 -2 17 0 0 4 0 0 0 7 -7 0 0 3-8cyli.dat
-1 16 -2 17 0 0 4 0 0 0 7 -7 0 0 3-8EDGE.DAT
-1 16 2 17 0 0 4 0 0 0 7 -7 0 0 3-8EDGE.DAT
+1 16 -2 17 0 0 4 0 0 0 7 -7 0 0 3-8edge.dat
+1 16 2 17 0 0 4 0 0 0 7 -7 0 0 3-8edge.dat
 1 16 -7 17 0 0 14 0 0 0 -5 5 0 0 4-4edge.dat
 1 16 -2 17 0 0 14 0 0 0 -5 5 0 0 4-4edge.dat
 1 16 7 17 0 0 14 0 0 0 -5 5 0 0 4-4edge.dat

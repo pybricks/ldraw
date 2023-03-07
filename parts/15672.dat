@@ -2,7 +2,7 @@
 0 Name: 15672.dat
 0 Author: Remco Canten [rempie]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP This isn't an alias of 92946.
 0 !HELP This part has the exact same angle as 3040b. 92946 doesn't.
@@ -15,6 +15,7 @@
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 0 !HISTORY 2021-11-14 [Holly-Wood] Fixed issue raised in the comment, rounded corner
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 2 24 8.239 -16 0 -8.239 -16 0
 2 24 10 -14.1 0 10 0 0

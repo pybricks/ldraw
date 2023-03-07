@@ -2,11 +2,11 @@
 0 Name: 56890.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS 24 x 12 R, rim 6014a, rim 6014b, rim 30190
+0 !KEYWORDS 24 x 12 R, rim 30190, rim 6014a, rim 6014b
 
 0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2010-05-17 [MagFors] File preparation for LDraw Parts Tracker
@@ -15,6 +15,7 @@
 0 !HISTORY 2020-03-07 [MagFors] Corrected description
 0 !HISTORY 2020-03-07 [MagFors] Replaced bad LDD shape with good from Arezey
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // Nomenclature: width_(mm)/profile_as_%age_of_width x rim_diameter_(mm) [optional qualifier]
 

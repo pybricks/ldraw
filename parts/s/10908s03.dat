@@ -2,13 +2,14 @@
 0 Name: s\10908s03.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-06-20 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2013-06-29 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 3 16 10.466 11.488 -7.62 5.203 12.174 -9.715 10.8735 12.0577 -8.0944
 3 16 10.8735 12.0577 -8.0944 5.203 12.174 -9.715 5.13 12.51 -10.562

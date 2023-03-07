@@ -2,7 +2,7 @@
 0 Name: 30342.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2014-01-08 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-01-21 [Philo] Closed gap
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 0 BFC INVERTNEXT
 1 16 0 -45.25 0 -6.428 0 0 0 8 0 0 0 -6.428 r04o4600.dat
@@ -178,7 +179,6 @@
 2 24 -15.587 0 22.695 -10.75 0 23.75
 2 24 -20.997 0 18.558 -15.587 0 22.695
 2 24 -23.542 0 12.379 -20.997 0 18.558
-
 
 2 24 30.34 -43.75 21.678 26.87 -43.75 26.87
 2 24 21.678 -43.75 30.34 26.87 -43.75 26.87

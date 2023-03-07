@@ -2,7 +2,7 @@
 0 Name: 2839a.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2009-04-29 [PTadmin] Renamed from 2837
 0 !HISTORY 2013-10-07 [MMR1988] Reworked
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 0 0 1 0 0 0 0 1 0 -20 0 axlehol8.dat
 1 16 0 0 0 1 0 0 0 0 1 0 -20 0 axlehol2.dat
@@ -58,8 +59,6 @@
 4 16 2 -5.602 -20 0 -6 -20 0 -3.18198 -20 2 -2 -20
 3 16 -1.59099 -1.59099 -20 0 -3.18198 -20 -2 -2 -20
 4 16 -2 -2 -20 0 -3.18198 -20 0 -6 -20 -2 -5.602 -20
-
-
 
 1 494 0 0 -20 2.25 0 0 0 0 2.25 0 56 0 4-4cylc.dat
 1 494 0 0 36 2.25 0 0 0 0 2.25 0 -1 0 4-4disc.dat

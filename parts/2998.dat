@@ -2,18 +2,21 @@
 0 Name: 2998.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS 8880 Super Car, Technic, 81.6 x 34 ZR
+
+0 !KEYWORDS 81.6 x 34 ZR, 8880 Super Car, Technic
+
 0 !CMDLINE -c15
 
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-05-23 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-03-08 [cwdee]   Description change
+0 !HISTORY 2014-03-08 [cwdee] Description change
 0 !HISTORY 2014-03-10 [MagFors] Made BFC compliant
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 0 // Nomenclature: width_(mm) x rim_diameter_(mm) [optional qualifier]
 

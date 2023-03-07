@@ -1,16 +1,17 @@
-0 Minifig Head with White Face Paint, Black Lines Through Eyebrows and Eyes, Bright Pink Hearts on Cheeks Pattern 
+0 Minifig Head with White Face Paint, Black Lines Through Eyebrows and Eyes, Bright Pink Hearts on Cheeks Pattern
 0 Name: 3626cpd6k.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Batman Movie, CMF Batman Movie Series 2, Bricklink 3626cpb1720
+0 !KEYWORDS Batman Movie, Bricklink 3626cpb1720, CMF Batman Movie Series 2
 
 0 !CMDLINE -c78
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 12.0104 0 4.9749 0 13 0 -4.9749 0 12.0104 5-8cyli.dat
@@ -555,7 +556,6 @@
 5 24 9.1923 4 -9.1923 9.1923 17 -9.1923 12.0107 4 -4.9751 4.9751 4 -12.0107
 5 24 12.0107 4 -4.9751 12.0107 17 -4.9751 13 4 0 9.1923 4 -9.1923
 
-
 0 // CHIN Front Lines 3-8
 0 // CHIN Front Lines 1-16 Left
 5 24 -7.3912 21 -3.0616 -5.6568 21 -5.6568 -9.1592 20.69536 -3.7936 -5.4776 21 -2.2688
@@ -618,7 +618,6 @@
 5 24 11.6592 18.53088 -4.8296 8.9232 18.53088 -8.9232 12.0104 17 -4.9752 10.6576 19.82816 -4.4144
 5 24 11.6592 18.53088 -4.8296 12.0104 17 -4.9752 8.9232 18.53088 -8.9232 12.6192 18.53088 0
 5 24 12.0104 17 -4.9752 9.192 17 -9.192 12.0104 15.34304 -4.9752 11.6592 18.53088 -4.8296
-
 
 0 // FOREHEAD Front Lines 3-8
 0 // FOREHEAD Front Lines 1-16 Left

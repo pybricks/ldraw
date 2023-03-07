@@ -2,7 +2,7 @@
 0 Name: s\4209as02.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -17,6 +17,7 @@
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 0 !HISTORY 2020-07-31 [PTadmin] Renamed from s/4209s02
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 24 0 40 0 0 0 24 0 0 0 20 box0.dat
 1 16 0 22 0 0 0 36 18 0 0 0 20 0 box0.dat

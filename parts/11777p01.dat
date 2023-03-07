@@ -2,13 +2,14 @@
 0 Name: 11777p01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 79017, set 79007, set 10237, bricklink 11777pb01
-0 !KEYWORDS hobbit, LOTR, the lord of the rings, gwaihir
+0 !KEYWORDS bricklink 11777pb01, gwaihir, Hobbit, LOTR, Set 10237, set 79007
+0 !KEYWORDS set 79017, the lord of the rings
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 11778p01.dat

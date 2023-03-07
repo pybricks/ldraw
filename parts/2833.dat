@@ -2,14 +2,15 @@
 0 Name: 2833.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Dacta, Typesetter, set 9550
+0 !KEYWORDS dacta, set 9550, Typesetter
 
 0 !HISTORY 2020-09-16 [UR] Adjusted Origin, T-junctions, Description
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 -20 0 80 0 0 0 1 0 0 0 10 rect.dat
 1 16 80 -18.5 0 0 -1 0 0 0 1.5 -10 0 0 rect3.dat

@@ -2,10 +2,11 @@
 0 Name: 2433.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2004-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS lever, control, controls, gear shift, finger, rod, rod system
+
+0 !KEYWORDS control, controls, finger, gear shift, lever, rod, rod system
 
 0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
 0 !HISTORY 2003-06-08 [jriley] BFC compliant
@@ -15,16 +16,17 @@
 0 !HISTORY 2007-05-08 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 0 26 0 1 0 0 0 1 0 0 0 1 h2.dat
 2 24 4 26 10 -4 26 10
 2 24 -4 26 10 -4 26 -10
 2 24 -4 26 -10 4 26 -10
 2 24 4 26 -10 4 26 10
-1 16 0 26 0 4 0 0 0 1 0 0 0 4  4-4edge.dat
-1 16 0 4 0 4 0 0 0 1 0 0 0 4  4-4edge.dat
-1 16 0 4 0 8 0 0 0 1 0 0 0 8  4-4edge.dat
-1 16 0 0 0 8 0 0 0 1 0 0 0 8  4-4edge.dat
+1 16 0 26 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 0 4 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 0 4 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+1 16 0 0 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
 4 16 4 26 -10 4 26 10 -4 26 10 -4 26 -10
 1 16 0 4 0 4 0 0 0 8 0 0 0 4 4-4cyli.dat
 1 16 0 20 0 4 0 0 0 6 0 0 0 4 4-4cyli.dat

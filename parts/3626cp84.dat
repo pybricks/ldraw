@@ -2,13 +2,15 @@
 0 Name: 3626cp84.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3626cpb0642, Set 60034, Set 4440, Set 30017, Set 5885, Set 4438
+0 !KEYWORDS Bricklink 3626cpb0642, Set 30017, Set 4438, Set 4440, Set 5885
+0 !KEYWORDS Set 60034
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat

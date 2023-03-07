@@ -2,9 +2,10 @@
 0 Name: 3070bp08.dat
 0 Author: John Riley [jriley]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !KEYWORDS thick
 
 0 !HISTORY 2003-07-02 [Steffen] fixed BFC errors
@@ -13,6 +14,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2009-08-12 [anathema] Corrected pattern
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
 4 0 -4.36 0 -4.751 -4.173 0 -5.139 -0.293 0 -3.201 -4.508 0 -4.338

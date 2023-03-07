@@ -2,11 +2,12 @@
 0 Name: s\85489s02.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 4 16 21.92 24.042 -9 24.042 24.042 -9 6.364 6.364 -9 5.446 7.567 -9
 4 16 25.033 22.912 -9 25.363 22.535 0 10.325 7.497 0 7.567 5.446 -9

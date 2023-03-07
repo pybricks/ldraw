@@ -2,13 +2,14 @@
 0 Name: 821472d.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Set 5521
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 0 // Top
 1 4 0 -0.25 0 0.25 0 0 0 1 0 0 0 0.25 s\821472as01.dat
@@ -48,9 +49,9 @@
 
 0 // Side
 1 16 8 0 5 7 0 0 0 -0.25 0 0 0 7 48\1-8cyli.dat
-1 16 -8 0 5 0 0 -7 0 -0.25 0 7 0 0 48\1-4CYLI.dat
+1 16 -8 0 5 0 0 -7 0 -0.25 0 7 0 0 48\1-4cyli.dat
 1 16 -8 0 -5 -7 0 0 0 -0.25 0 0 0 -7 48\1-8cyli.dat
-1 16 8 0 -5 0 0 7 0 -0.25 0 -7 0 0 48\1-4CYLI.dat
+1 16 8 0 -5 0 0 7 0 -0.25 0 -7 0 0 48\1-4cyli.dat
 4 16 -6.90433 0 -54.1113 -6.915 -.25 -54.111 -25.05 -.25 -48.445 -25.0393 0 -48.4453
 4 16 -12.9497 0 -9.9497 -25.0393 0 -48.4453 -25.05 -.25 -48.445 -12.9497 -.25 -9.9497
 4 16 6.2602 0 -12.0006 6.241 -.25 -12 -6.915 -.25 -54.111 -6.90433 0 -54.1113

@@ -2,7 +2,7 @@
 0 Name: s\41856s01.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Subpart UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,8 +10,9 @@
 0 !HISTORY 2019-08-31 [PTadmin] Update description
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
 
+
 0 // Needs Work: Hole for screw is missing
-0 //             Elements hidden in motor assembly are not modelled
+0 // Elements hidden in motor assembly are not modelled
 
 1 16 -10 8 5.5 4 0 0 0 0 4 0 -1 0 4-4edge.dat
 1 16 10 8 5.5 4 0 0 0 0 4 0 -1 0 4-4edge.dat

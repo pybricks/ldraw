@@ -2,13 +2,14 @@
 0 Name: 32288.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-11-03 [mikeheide] Moved origin
 0 !HISTORY 2021-06-21 [kuramapika1] Fix studs and add Lego logo subfile
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32288s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\32288s01.dat

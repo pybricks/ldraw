@@ -2,12 +2,13 @@
 0 Name: s\15429p01s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-06 [Philo] Extracted from MagFors initial pattern
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 4 16 10 28.304 19.716 10 20.6 21.485 10 19.719 19.921 10 28.125 17.882
 3 16 10 20.707 24.349 10 20.835 23.07 10 23.197 24.802

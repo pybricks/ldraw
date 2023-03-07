@@ -2,16 +2,19 @@
 0 Name: 3626bpha.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2005-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Albus Dumbledore, Professor, Headmaster, Harry Potter
-0 !KEYWORDS Hogwarts School of Witchcraft and Wizardry
+
+0 !KEYWORDS Albus Dumbledore, Harry Potter, Headmaster
+0 !KEYWORDS Hogwarts School of Witchcraft and Wizardry, professor
+
 0 !CMDLINE -C14
 
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 4 0 13 0 0 0 13 0 0 0 13 2-4cyli.dat
@@ -277,7 +280,7 @@
 4 16 9.192 11.1 -9.192 9.192 7.6 -9.192 8.4 7.3 -9.721 7.7 7.4 -10.189
 4 16 7.7 7.4 -10.189 7.4 7.2 -10.389 6.3 10 -11.125 9.192 11.1 -9.192
 3 16 9.192 11.1 -9.192 6.3 10 -11.125 6 10.7 -11.325
-0 
+0
 4 16 -3.7936 20.6954 -9.1592 -7.0096 20.6954 -7.0096 -5.6568 21 -5.6568 -3.0616 21 -7.3912
 4 16 -4.4144 19.8282 -10.6576 -8.1568 19.8282 -8.1568 -7.0096 20.6954 -7.0096 -3.7936 20.6954 -9.1592
 4 16 -4.8296 18.5309 -11.6592 -8.9232 18.5309 -8.9232 -8.1568 19.8282 -8.1568 -4.4144 19.8282 -10.6576

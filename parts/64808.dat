@@ -2,17 +2,18 @@
 0 Name: 64808.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, Nahdar Vebb
+0 !KEYWORDS Nahdar Vebb, Star Wars
 
 0 !HISTORY 2011-10-27 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2011-10-28 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2019-10-04 [GeraldLasser] Subfiled for Patterns
 0 !HISTORY 2020-03-28 [Holly-Wood] Fixed conds, smoothed surface, used stud prim
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\64808s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\64808s01.dat

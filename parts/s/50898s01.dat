@@ -2,16 +2,17 @@
 0 Name: s\50898s01.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-0 !HISTORY 2018-02-13 [cwdee]   Update description
+0 !HISTORY 2018-02-13 [cwdee] Update description
 0 !HISTORY 2018-04-01 [MMR1988] Added two condlines, removed trailing zero
 0 !HISTORY 2018-04-02 [MagFors] removed hidden surface
 0 !HISTORY 2021-12-26 [MagFors] Reshaped axlehole
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\50898s02.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\50898s02.dat

@@ -2,13 +2,16 @@
 0 Name: 30110.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Belville, stable
-0 !HISTORY 2010-09-10 {The LEGO Universe Team} Original part shape
+
+0 !KEYWORDS Belville, Stable
+
+0 !HISTORY 2010-09-10 {LEGO Universe Team} Original part shape
 0 !HISTORY 2010-10-17 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 0 // Also known as partnumber 60791
 

@@ -2,7 +2,7 @@
 0 Name: 6105.dat
 0 Author: Adam Howard [Whist]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,10 +10,11 @@
 0 !HISTORY 2007-10-26 [PTadmin] Replaced box38p references with box3u8p#
 0 !HISTORY 2007-10-26 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2016-12-22 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2016-12-22 [MagFors] Added missing condlines, subfiled front surface
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 2 16 60 0 -1 0 1 0 0 0 0 1 stud2a.dat
 1 16 -2 16 60 0 1 0 1 0 0 0 0 -1 stud2a.dat

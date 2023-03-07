@@ -2,13 +2,14 @@
 0 Name: 6255.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
 0 !HISTORY 2007-11-11 [Philo] File preparation for LDraw Parts. Subparted leaves
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 0 0 0 0 0 2 0 1 0 -2 0 0 4-4ring3.dat
@@ -68,4 +69,4 @@
 2 24 -9.6 0 -3.37 -7.56 0 -2.19
 2 24 -7.56 5 -2.19 -9.6 5 -3.37
 2 24 -5.77 5 -5.5 -7.72 5 -6.63
-0 
+0

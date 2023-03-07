@@ -2,15 +2,16 @@
 0 Name: 6256p02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Bricklink 6256pb05, Set 71017
-0 !KEYWORDS Lobster-Lovin' Batman, Collectible Minifigures, The LEGO Batman Movie
+0 !KEYWORDS Bricklink 6256pb05, Collectible Minifigures, Lobster-Lovin' Batman
+0 !KEYWORDS set 71017, The Lego Batman Movie
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6256s01.dat
 
@@ -718,15 +719,6 @@
 4 16 4.87 0 4.91 5.36 0 4.67 5.24 0 5.75 5 0 5.85
 4 16 5.08 0 6.24 5 0 5.85 5.24 0 5.75 5.2 0 6.08
 
-
-
-
-
-
-
-
-
-
 4 16 12.81 0 -1.4 12.84 0 -1.16 12.81 0 -.97 12.55 0 -.81
 4 16 11.67 0 -1.64 12.08 0 -1.69 12.53 0 -1.71 12.7 0 -1.58
 3 16 11.67 0 -1.64 12.7 0 -1.58 12.81 0 -1.4
@@ -926,12 +918,6 @@
 3 16 10.49 0 5.28 10.69 0 4.55 11.57 0 6.66
 4 16 5.07 0 10.82 4.41 0 11.58 3.99 0 11.58 4.2 0 11.18
 3 16 4.41 0 11.58 5.07 0 10.82 4.59 0 11.97
-
-
-
-
-
-
 
 4 27 -.42 0 6.19 2.83 0 6.99 2.85 0 7.77 -3.48 0 5.46
 4 27 -7.77 0 5.73 -6.91 0 5.81 -6.81 0 6.23 -7.91 0 6.67

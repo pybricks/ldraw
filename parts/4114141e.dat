@@ -2,13 +2,14 @@
 0 Name: 4114141e.dat
 0 Author: Merlijn Wissink [legolijntje]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS set 2879, set 5909, set 5948
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 -.25 0 17.5 0 0 0 .25 0 0 0 17.5 box5-12.dat
 

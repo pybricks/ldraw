@@ -2,13 +2,14 @@
 0 Name: s\29111s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2018-11-07 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 3 16 3.685 -15.9209 -2.599 3.833 -16.601 -3.963 4.329 -15.4176 -3.137
 3 16 4.329 -15.4176 -3.137 3.833 -16.601 -3.963 4.43 -15.0425 -3.789
@@ -982,8 +983,6 @@
 2 24 0.7158 -15.5236 -5.0154 0.821 -15.6552 -4.752
 2 24 0.549 -15.3389 -5.294 0.746 -14.9123 -5.96
 2 24 0.7158 -15.5236 -5.0154 0.549 -15.3389 -5.294
-
-
 
 5 24 10.652 -10.329 17.687 11.171 0 19.34 12.78 -0.001 19.707 9.641 -10.746 19.057
 5 24 12.12 -10.71 17.785 12.78 -0.001 19.707 10.652 -10.329 17.687 13.185 -10.514 18.641

@@ -2,11 +2,12 @@
 0 Name: s\u9137s02.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 3 16 16 16 56 20 16 60 16 16 60
 2 24 20 8 60 20 16 60
@@ -396,9 +397,9 @@
 1 16 30 16 130 10 0 0 0 -4 0 0 0 6 box3u2p.dat
 4 16 20 16 124 20 16 120 40 16 120 40 16 124
 4 16 40 16 136 40 16 140 20 16 140 20 16 136
-1 16 0 0 160 0 0 1 0 1 0 -1 0 0 s\3241S01.dat
-1 16 0 0 100 0 0 1 0 1 0 -8 0 0 s\3241S03.dat
-1 16 0 0 148 0 0 1 0 1 0 -1.6 0 0 s\3241S02.dat
+1 16 0 0 160 0 0 1 0 1 0 -1 0 0 s\3241s01.dat
+1 16 0 0 100 0 0 1 0 1 0 -8 0 0 s\3241s03.dat
+1 16 0 0 148 0 0 1 0 1 0 -1.6 0 0 s\3241s02.dat
 1 16 -12 8 25.125 0 0 -2 0 -8 0 -11.125 0 0 box3u8p.dat
 1 16 12 8 25.125 0 0 -2 0 -8 0 -11.125 0 0 box3u8p.dat
 1 16 0 8 12 -10 0 0 0 -8 0 0 0 2 box3u8p.dat

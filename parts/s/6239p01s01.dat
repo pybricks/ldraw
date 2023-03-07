@@ -2,11 +2,12 @@
 0 Name: s\6239p01s01.dat
 0 Author: Johann Eisner [technicbasics]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 4 15 2 -33.55 12.346 2 -36.649 11.57 2 -35.466 8.766 2 -32.676 9.465
 4 15 2 -30.541 13.422 2 -33.55 12.346 2 -32.676 9.465 2 -29.389 10.641

@@ -2,11 +2,12 @@
 0 Name: s\2340p01s01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 4 15 0 35.03 1.02 0 33.35 0.93 0 33.04 3.86 0 35.03 3.97
 4 15 0 36.7 0.93 0 35.03 1.02 0 35.03 3.97 0 37.01 3.86

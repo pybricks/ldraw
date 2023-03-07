@@ -2,11 +2,12 @@
 0 Name: s\43746s02.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 20 0 0 0 0 -20 0 2.5 0 1-4cylo.dat
 1 16 0 0 2.5 20 0 0 0 0 -20 0 -1 0 1-8chrd.dat
@@ -44,7 +45,6 @@
 2 24 16.261 -6.736 2.5 12.445 -12.445 2.5
 2 24 12.445 -12.445 2.5 6.736 -16.261 2.5
 2 24 6.736 -16.261 2.5 0 -17.6 2.5
-
 
 3 16 20 0 2.5 17.6 0 2.5 16.26 -6.735 2.5
 3 16 20 0 2.5 16.26 -6.735 2.5 14.142 -14.142 2.5

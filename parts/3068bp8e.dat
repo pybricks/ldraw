@@ -2,13 +2,14 @@
 0 Name: 3068bp8e.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10257, Carousel, Bricklink 3068bpb1086
+0 !KEYWORDS Bricklink 3068bpb1086, Carousel, Set 10257
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 4 82 -9.2038 0 10.256 -8.6381 0 10.6802 -9.1916 0 11.0338 -9.9109 0 10.6802

@@ -2,13 +2,14 @@
 0 Name: 18973p08.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 42125, Ferrari 488 GTE AF CORSE, Bricklink 18973pb12L
+0 !KEYWORDS Bricklink 18973pb12L, Ferrari 488 GTE AF CORSE, Set 42125
 
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18973s01.dat
 3 16 -15.308 18.9971 -94.81 -15.97 19.2422 -95.16 -15.308 19.2978 -95.54

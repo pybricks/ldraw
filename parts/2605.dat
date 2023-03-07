@@ -2,12 +2,12 @@
 0 Name: 2605.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS aquazone, aquanauts, hydronauts, wild west, spring, plate
-0 !KEYWORDS blacktron, space, suspension, train
+0 !KEYWORDS Aquanauts, Aquazone, Blacktron, Hydronauts, plate, Space, Spring
+0 !KEYWORDS suspension, Train, wild west
 
 0 !HISTORY 2001-11-23 [pneaster] corrected BFC use of primitive files.
 0 !HISTORY 2003-03-10 [pneaster] added missing lines.
@@ -16,6 +16,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, introduced boxes instead of rects
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Primitives
 

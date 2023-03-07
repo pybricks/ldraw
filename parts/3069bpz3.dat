@@ -2,13 +2,14 @@
 0 Name: 3069bpz3.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS BrickLink 3069bpb580, Brickheadz, Set 41490, Wonder Woman
+0 !KEYWORDS Brickheadz, BrickLink 3069bpb580, Set 41490, wonder woman
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 4 0 -2.5 0 -3.44 -2.02 0 -0.66 -3.37 0 -1.09 -4.16 0 -5.73

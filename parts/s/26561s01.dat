@@ -2,13 +2,14 @@
 0 Name: s\26561s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 0 !HISTORY 2022-07-03 [Philo] Improve top tip to avoid collision in perpendicular assemblies
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 4 16 -8.8113 -32 26.3042 19.2552 0 25 124.7311 94.6739 25 150 111.074 26.3044
 4 16 10 3 27.1 -10 -25.7055 29.394 150 118.248 29.394 121.233 104.264 27.1

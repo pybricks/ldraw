@@ -2,7 +2,7 @@
 0 Name: s\32533s01.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2014-06-14 [arezey] Description change, conditional lines from s\32533s02.dat moved in
 0 !HISTORY 2014-06-15 [arezey] Rebuilt for optimization
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 0 // outer
 

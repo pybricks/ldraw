@@ -2,7 +2,7 @@
 0 Name: 93612.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2012-07-09 [tchang] Add missing line, corrected gaps
 0 !HISTORY 2016-01-19 [GeraldLasser] Closed hairline gaps and re-did clip-face
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 16 -3 22 0 -2.772 22 1.148 2.772 22 1.148 3 22 0
 4 16 2.202 22 2 2.772 22 1.148 -2.772 22 1.148 -2.202 22 2

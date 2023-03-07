@@ -2,11 +2,12 @@
 0 Name: s\64454s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Bottom
 
@@ -50,7 +51,6 @@
 2 24 60 151.2046 44 60 152 44
 2 24 60 132 44 60 151.2046 44
 1 16 50 142 44 0 0 -10 -10 0 0 0 1 0 recte3.dat
-
 
 2 24 60 132 56 60 136 56
 2 24 60 136 56 60 142.1232 54.7824

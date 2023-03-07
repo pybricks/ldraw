@@ -2,13 +2,14 @@
 0 Name: u9255.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2020-06-04 [Sirio]   Updated the use of primitives: removed ringr.dat or ringrr.dat, introduced 2-4cylc.dat and 4-4cylo.dat and box4o4a.dat
+0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, introduced 2-4cylc.dat and 4-4cylo.dat and box4o4a.dat
 0 !HISTORY 2021-01-23 [Steffen] split up 735.dat into 735.dat and u9255.dat
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 36 2 0 0 -36 0 2 0 0 0 0 10 box4o4a.dat
 1 16 0 0 0 0 0 -10 0 4 0 10 0 0 2-4cylc.dat

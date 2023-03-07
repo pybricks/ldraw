@@ -2,10 +2,12 @@
 0 Name: 2335p40.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS Guarded Inn, Castle
+
+0 !KEYWORDS Castle, Guarded Inn
+
 0 !CMDLINE -c0
 
 0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
@@ -13,8 +15,9 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2013-02-21 [MagFors] Changed colour 383 to 80 (printed silver)
 0 !HISTORY 2013-02-21 [MagFors] Changed colour 334 to 82 (printed gold)
-0 !HISTORY 2014-10-18 [arezey]  Subfiled the pattern negative
+0 !HISTORY 2014-10-18 [arezey] Subfiled the pattern negative
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2335s01.dat
 1 80 2 0 0 1 0 0 0 1 0 0 0 1 s\2335ps4a.dat

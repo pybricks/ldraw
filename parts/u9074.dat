@@ -2,13 +2,14 @@
 0 Name: u9074.dat
 0 Author: Ludo Soete [ludo]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-09-08 [MagFors] Made BFC compliant
 0 !HISTORY 2013-05-13 [MMR1988] Removed t-junctions, used more prims.
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // bottom
 
@@ -89,7 +90,6 @@
 1 16 -14.75 0 12.5 0.5 0 0 0 1 0 0 0 0.5 4-4edge.dat
 1 16 14.75 0 12.5 0.5 0 0 0 0.5 0 0 0 0.5 4-8sphe.dat
 1 16 -14.75 0 12.5 0.5 0 0 0 -0.5 0 0 0 -0.5 4-4ndis.dat
-
 
 0 // top
 
@@ -174,7 +174,6 @@
 1 16 -14.75 -0.5 12.5 0.5 0 0 0 0.5 0 0 0 0.5 4-8sphe.dat
 1 16 -14.75 -0.5 12.5 0.5 0 0 0 0.5 0 0 0 0.5 4-4ndis.dat
 1 16 -14.75 -0.5 12.5 0.5 0 0 0 1 0 0 0 0.5 4-4edge.dat
-
 
 0 // boarder and inner cylinders
 

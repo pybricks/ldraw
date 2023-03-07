@@ -2,13 +2,14 @@
 0 Name: 3278.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
 0 !HISTORY 2015-12-29 [Holly-Wood] File preparation for LDraw Parts Tracker
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 2 24 0 -26.5 -8.661 -.472 -26.5 -8.445
 2 24 -.472 -26.5 -8.445 -.817 -26.5 -8.114

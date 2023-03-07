@@ -2,7 +2,7 @@
 0 Name: 2551.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2014-03-06 [Philo] Miscellaneous improvements, added clapboard to sides, used stugs
 0 !HISTORY 2018-06-04 [Philo] Updated for changed subpart
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 -80.2 0 0 -20 0 1 0 -20.1 0 0 rect1.dat
 1 16 0 0 19.825 0 0 40.23 0 1 0 79.925 0 0 rect1.dat

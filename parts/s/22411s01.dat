@@ -2,15 +2,14 @@
 0 Name: s\22411s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-
-0 !CATEGORY Minifig Headwear
 
 0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2016-11-23 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 16 0 -5.288 -4.921 0.821 -5.049 -4.508 0.899 -9.677 -2.289 0 -10.157 -2.657
 3 16 4.983 -0.981 2.531 5.717 -1.614 3.905 5.923 -1.145 1.747

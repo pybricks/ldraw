@@ -2,11 +2,12 @@
 0 Name: s\11140s01.dat
 0 Author: Ingolf Weisheit [stahlwollschaf]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 0 // subpart for 11140.dat: common parts (symmetrical to xy-plane and zy-plane, 60deg)
 0 // origin: center of wheel
@@ -77,9 +78,9 @@
 4 16 -4.44293 -20.79189 -1.875 -5.00916 -28.2541 -8.75 -7.73021 -18.66237 -8.75 -5.59641 -16.72589 -1.875
 3 16 -7.73021 -18.66237 -8.75 -6.76393 -16.32957 -1.875 -5.59641 -16.72589 -1.875
 4 16 -7.73021 -18.66237 -8.75 -10.1 -17.49371 -8.75 -8.8375 -15.307 -1.875 -6.76393 -16.32957 -1.875
-0 BFC INVERTNEXT 
+0 BFC INVERTNEXT
 1 16 0 0 -8.75 -1.2625 0 -2.18671 -2.18671 0 1.2625 0 6.875 0 48\1-24con7.dat
-0 BFC INVERTNEXT 
+0 BFC INVERTNEXT
 1 16 0 0 -8.75 -1.78544 0 -1.78544 -1.78544 0 1.78544 0 6.875 0 48\1-24con7.dat
 1 16 0 0 -8.75 -10.1 0 -17.49371 -17.49371 0 10.1 0 1 0 48\1-12edge.dat
 1 16 0 0 -1.875 -8.8375 0 -15.307 -15.307 0 8.8375 0 1 0 48\1-12edge.dat
@@ -107,7 +108,7 @@
 1 16 -10.87521 -29.23908 -8.375 -1.08365 0 0 0.36785 -1 0 0 0 0.375 rect.dat
 1 16 0 0 -8.75 -12.625 0 -21.86714 -21.86714 0 12.625 0 0.75 0 48\1-12cylo.dat
 1 16 0 0 -8 -1.57813 0 -2.73339 -2.73339 0 1.57813 0 1 0 48\1-12rin8.dat
-0 BFC INVERTNEXT 
+0 BFC INVERTNEXT
 1 16 0 0 -8.75 -14.20312 0 -24.60053 -24.60053 0 14.20312 0 0.74753 0 48\1-12cylo.dat
 
 0 // outer disc r28.40625->33.125

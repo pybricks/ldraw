@@ -2,14 +2,14 @@
 0 Name: s\2513s01.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Vehicle
 
 0 !HISTORY 2003-11-24 [OrionP] Co-authors: James Jessiman, DAT Code, Orion Pobursky, File Prep
 0 !HISTORY 2011-05-04 [MagFors] closed gaps, "rectified", "boxified"
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 0 // Uncomment for front face
 0 // 4 16 40 20 -50 40 0 -10 -40 0 -10 -40 20 -50

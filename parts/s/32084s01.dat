@@ -2,11 +2,12 @@
 0 Name: s\32084s01.dat
 0 Author: Greg Teft [gregteft]
 0 !LDRAW_ORG Subpart UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 1 16 50 4 30 0 0 -1 0 -5 0 1 0 0 stug3-1x4.dat
 1 16 50 24 40 10 0 0 0 -24 0 0 0 40 box4-4a.dat
@@ -269,4 +270,4 @@
 4 16 60 24 0 56 24 -4 56 24 76 60 24 80
 4 16 60 24 80 56 24 76 44 24 76 40 24 80
 4 16 40 24 80 44 24 76 44 24 -4 40 24 0
-0 
+0

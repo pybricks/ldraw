@@ -2,11 +2,12 @@
 0 Name: 59718b.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 3 0 -13.2571 -0.25 -2.4822 -13.7752 -0.25 -2.1493 -13.0618 -0.25 -1.3807
 3 0 -13.2571 -0.25 -2.4822 -13.0618 -0.25 -1.3807 -12.526 -0.25 -1.6688

@@ -2,7 +2,7 @@
 0 Name: 30463.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP tail position Y = 36.719 Z = 89.996
 0 !HELP legs position Y = 63.725 Z = -80.254
@@ -14,6 +14,7 @@
 0 !HISTORY 2011-11-06 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2011-11-09 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 stug-2x2.dat
 0 BFC INVERTNEXT

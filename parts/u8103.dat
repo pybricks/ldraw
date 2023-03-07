@@ -2,11 +2,12 @@
 0 Name: u8103.dat
 0 Author: Enzo Silvestri [ienzisolves]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 // this serie don't have glass
 
@@ -40,7 +41,7 @@
 
 0 // base inferiore
 4 16 60 70 -10 -60 70 -10 -60 72 -10 60 72 -10
-4 16 -60 70 -10 60 70 -10 60 62 -8 -60 62 -8   
+4 16 -60 70 -10 60 70 -10 60 62 -8 -60 62 -8
 4 16 60 62 -8 59 61 -8 -59 61 -8 -60 62 -8
 
 0 // base inferiore retro
@@ -303,7 +304,7 @@
 2 24 -56 6 -7 -56 2 -7
 2 24 56 66 -7 -56 66 -7
 
-0 // fronte 
+0 // fronte
 2 24 60 0 -10 -60 0 -10
 2 24 60 2 -10 -60 2 -10
 2 24 60 62 -8 -60 62 -8

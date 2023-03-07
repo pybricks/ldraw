@@ -2,14 +2,15 @@
 0 Name: 196695a.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 6385, Fire helmet, Fire ax, Signboard
-0 !KEYWORDS Bricklink 6385stk01, Rebrickable 196695, Brickowl 514321
+0 !KEYWORDS Bricklink 6385stk01, Brickowl 514321, Fire ax, Fire helmet
+0 !KEYWORDS Rebrickable 196695, Set 6385, Signboard
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 -0.25 0 79 0 0 0 0.25 0 0 0 23 box5-12.dat
 1 16 74 -0.25 18 2 0 0 0 1 0 0 0 2 1-4ndis.dat

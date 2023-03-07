@@ -2,7 +2,7 @@
 0 Name: 2627.dat
 0 Author: Luis E. Fernandez [lfernand]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2014-11-09 [MagFors] BFCed, used box-primitives
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 16 -30 20 40 -1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 30 20 40 -1 0 0 0 -1 0 0 0 1 stud3.dat
@@ -40,7 +41,6 @@
 1 16 30 20 23 1 0 0 0 4 0 0 0 1 box4-4a.dat
 1 16 33.5 22 22 0 0 2.5 2 0 0 0 -1 0 rect.dat
 
-
 0 BFC INVERTNEXT
 1 16 -24.5 22 -9 0 4.5 0 2 0 0 0 -9 -14 box2-5.dat
 0 BFC INVERTNEXT
@@ -67,7 +67,6 @@
 1 16 -47.25 22 39 0 0 7.25 2 0 0 0 17 0 box2-5.dat
 0 BFC INVERTNEXT
 1 16 -47.25 22 39 0 5.61605 -1.63395 2 0 0 0 -17 0 box2-7.dat
-
 
 0 BFC INVERTNEXT
 1 16 24.5 22 -9 0 -4.5 0 -2 0 0 0 -9 -14 box2-5.dat

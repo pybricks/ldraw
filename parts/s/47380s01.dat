@@ -2,11 +2,12 @@
 0 Name: s\47380s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 20.7629 23.736 0 4.80631 2.75637 0 -1.37819 9.61262 0 0 0 5 4-4cyli.dat
 1 16 17.25 42 0 2.25 0 0 0 6 0 0 0 7 box5-4a.dat

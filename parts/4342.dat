@@ -2,14 +2,16 @@
 0 Name: 4342.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Minifig Accessory
 
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2010-01-04 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 4 16 -33.25 -8.25 0 -32.66 -8.25 1.41 -31.25 -8.25 2 -32.66 -8.25 -1.41
 4 16 -32.66 -8.25 -1.41 -31.25 -8.25 2 31.25 -8.25 2 -31.25 -8.25 -2

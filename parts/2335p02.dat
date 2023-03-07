@@ -2,7 +2,7 @@
 0 Name: 2335p02.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -16,8 +16,9 @@
 0 !HISTORY 2008-07-07 [nielsk] Made BFC compliant (2005-11-10)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2335s01.dat
-0 
+0
 3 12 2 2 12 2 36 12 2 2 46
 3 12 2 38 14 2 38 48 2 4 48
 4 16 2 36 12 2 38 14 2 4 48 2 2 46

@@ -2,18 +2,20 @@
 0 Name: 3622p0a.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3622pb101, Rebrickable 3622pr0044, Brickowl 564960, Unikitty, Set 70833, Set 70822
+0 !KEYWORDS Bricklink 3622pb101, Brickowl 564960, Rebrickable 3622pr0044
+0 !KEYWORDS Set 70822, Set 70833, Unikitty
 
 0 !HISTORY 2022-06-07 [Holly-Wood] Changed color, added keywords
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
 
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3622s01.dat
 
-0 // White 
+0 // White
 4 15 -23.55 16.6 -10 -22.7 16.1 -10 -22.3989 15.6989 -10 -23.0391 14.9688 -10
 3 15 -22.3989 15.6989 -10 -22.7 16.1 -10 -22.1929 15.8795 -10
 4 15 -26.2034 14.8569 -10 -23.5785 14.1615 -10 -24.008 13.2907 -10 -26.4224 14.4129 -10

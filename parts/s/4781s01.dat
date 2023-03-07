@@ -2,11 +2,12 @@
 0 Name: s\4781s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 4 16 4.4999 -46 7.7941 4.7499 -36 8.2271 2.8545 -36 9.0121 2.6125 -46 8.5758
 4 16 2.1649 -53.6168 8.08 1.941 -64 7.2443 3.7499 -64 6.495 4.4999 -46 7.7941

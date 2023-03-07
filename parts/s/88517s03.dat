@@ -2,13 +2,14 @@
 0 Name: s\88517s03.dat
 0 Author: Ronald Vallenduuk [Duq]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 0 !HISTORY 2022-01-07 [MagFors] Removed unnecessary edgelines in the axlehole
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 4 16 -14 7.25 70 -14 9 50 -14 -9 50 -14 -7.25 70
 2 24 -14 -9 50 -14 -7.25 70

@@ -2,13 +2,14 @@
 0 Name: s14a.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 4000014-1, Set 4000014-2, Inside Tour, Train
+0 !KEYWORDS Inside Tour, set 4000014-1, set 4000014-2, Train
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Body
 

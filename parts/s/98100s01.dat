@@ -2,7 +2,7 @@
 0 Name: s\98100s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 0 !HISTORY 2021-12-31 [MagFors] Reshaped axlehole, reworked stud cutouts
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 3.375 0 1 0 0 0 -1 0 0 0 -1 axl5end.dat
 1 16 0 3.375 0 1 0 0 0 1 0 0 0 1 axlehol2.dat
@@ -385,7 +386,6 @@
 5 24 -7.7038 24 15.5434 -7.7038 20 15.5434 -8.3288 24 15.6677 -5.7574 24 14.2426
 5 24 5.7574 24 14.2426 5.7574 20 14.2426 5.0864 24 13.2386 7.7038 24 15.5434
 5 24 7.7038 24 15.5434 7.7038 20 15.5434 8.3288 24 15.6677 5.7574 24 14.2426
-
 
 1 16 0 16 0 20 0 0 0 1 0 0 0 20 4-4edge.dat
 1 16 0 16 0 2 0 0 0 -1 0 0 0 -2 4-4ring9.dat

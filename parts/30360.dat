@@ -2,7 +2,7 @@
 0 Name: 30360.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2019-10-22 [GeraldLasser] Subfiled for common geometry with 93168, reworked End with Studs
 0 !HISTORY 2020-12-13 [cwdee] Deleted empty comment
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30360s01.dat
 

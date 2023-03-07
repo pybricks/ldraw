@@ -2,11 +2,12 @@
 0 Name: s\57520ps1.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 4 16 -15.7063 -9 -6.5059 -18.7512 -8.0258 -8.5727 -17.8856 -8.026 -10.3264 -14.722 -9 -8.5
 4 16 -22.5169 -6.6 -13.0002 -20.601 -7.1899 -11.894 -21.1633 -7.1199 -11.3466 -23.545 -6.4923 -11.826

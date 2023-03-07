@@ -2,11 +2,12 @@
 0 Name: s\2490p41s02.dat
 0 Author: Alexandre Bourdais [x-or]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 3 16 -2.315 -15.868 -3.211 -1.93 -15.6 -2.49 -2.555 -16.756 -2.843
 3 16 0 -18.28 24 -0.559 -18.924 16.9 0 -15.682 16.9

@@ -2,23 +2,24 @@
 0 Name: 30255.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
 
+
 1 16 0 24 -20 0 0 1 0 1 0 -1 0 0 stug-4x4.dat
 1 16 0 24 60 0 0 1 0 1 0 -1 0 0 stug-4x4.dat
 1 16 -10 24 130 0 0 1 0 1 0 -1 0 0 stug-3x3.dat
-1 16 30 24 150 0 0 1 0 1 0 -1 0 0 STUD.DAT
-1 16 30 24 130 0 0 1 0 1 0 -1 0 0 STUD.DAT
-1 16 30 24 110 0 0 1 0 1 0 -1 0 0 STUD.DAT
+1 16 30 24 150 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 30 24 130 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 30 24 110 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 50 0 190 0 0 1 0 1 0 -1 0 0 stug-3x3.dat
 1 16 -50 0 190 0 0 1 0 1 0 -1 0 0 stug-3x3.dat
 1 16 0 0 180 0 0 1 0 1 0 -1 0 0 stug-2x2.dat
-1 16 10 0 210 0 0 1 0 1 0 -1 0 0 STUD.DAT
-1 16 -10 0 210 0 0 1 0 1 0 -1 0 0 STUD.DAT
+1 16 10 0 210 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 -10 0 210 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 -60 0 140 0 0 1 0 1 0 -1 0 0 stug-2x2.dat
 1 16 -60 0 100 0 0 1 0 1 0 -1 0 0 stug-2x2.dat
 1 16 -60 0 60 0 0 1 0 1 0 -1 0 0 stug-2x2.dat
@@ -31,14 +32,14 @@
 1 16 60 0 20 0 0 1 0 1 0 -1 0 0 stug-2x2.dat
 1 16 60 0 -20 0 0 1 0 1 0 -1 0 0 stug-2x2.dat
 1 16 60 0 -60 0 0 1 0 1 0 -1 0 0 stug-2x2.dat
-1 16 30 0 -70 0 0 1 0 1 0 -1 0 0 STUD.DAT
-1 16 10 0 -70 0 0 1 0 1 0 -1 0 0 STUD.DAT
-1 16 -10 0 -70 0 0 1 0 1 0 -1 0 0 STUD.DAT
-1 16 -30 0 -70 0 0 1 0 1 0 -1 0 0 STUD.DAT
+1 16 30 0 -70 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 10 0 -70 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 -10 0 -70 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 -30 0 -70 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 30 0 -110 0 0 1 0 1 0 -1 0 0 stug-3x3.dat
 1 16 -30 0 -110 0 0 1 0 1 0 -1 0 0 stug-3x3.dat
-1 16 -50 0 -150 0 0 1 0 1 0 -1 0 0 STUD.DAT
-1 16 50 0 -150 0 0 1 0 1 0 -1 0 0 STUD.DAT
+1 16 -50 0 -150 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 50 0 -150 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 -20 0 -160 0 0 1 0 1 0 -1 0 0 stug-2x2.dat
 1 16 20 0 -160 0 0 1 0 1 0 -1 0 0 stug-2x2.dat
 1 16 0 0 -200 0 0 1 0 1 0 -1 0 0 stug-2x2.dat

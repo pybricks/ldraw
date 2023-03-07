@@ -2,13 +2,14 @@
 0 Name: s\2507p01a.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Subpart UPDATE 2003-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
 0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 4 16 -14 -4 -74 14 -4 -74 20 -4 -76 -20 -4 -76
 4 16 20 -4 -76 14 -4 -74 33.6877 -4 -16 40 -4 -16

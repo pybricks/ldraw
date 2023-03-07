@@ -2,13 +2,14 @@
 0 Name: s\30460s01.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-11-06 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2011-11-07 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 4 16 10.75 4.532 -2.112 10.75 1.246 -9.166 10.75 -0.381 -8.15 10.75 -4.971 0.535
 3 16 10.75 -4.971 0.535 10.75 -5.182 -5.116 10.75 -5.557 -4.917

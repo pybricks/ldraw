@@ -2,16 +2,16 @@
 0 Name: s\973pw2a.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
+
 0 // Gold
 
-
-1 16 11.64 30.14 -10 1.117 0 0 0 0 -0.512 0 1 0  4-4disc.dat
+1 16 11.64 30.14 -10 1.117 0 0 0 0 -0.512 0 1 0 4-4disc.dat
 4 16 -11.06 0 -10 -11.48 0.85 -10 -11.11 0.88 -10 -10.65 0 -10
 4 16 -11.48 0.85 -10 -12.02 2.22 -10 -11.62 2.25 -10 -11.11 0.88 -10
 4 16 -12.02 2.22 -10 -12.344 3.683 -10 -11.88 3.71 -10 -11.62 2.25 -10

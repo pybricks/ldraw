@@ -2,11 +2,11 @@
 0 Name: 30552.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS click-hinge, Life on Mars, Studio, Technic, Star Wars
+0 !KEYWORDS click-hinge, Life on Mars, Star Wars, Studio, Technic
 
 0 !HISTORY 2003-07-02 [technog] created new subpart, added BFC
 0 !HISTORY 2003-11-13 [fwcain] disintegrated obsolete subfile...
@@ -21,6 +21,7 @@
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 0 !HISTORY 2021-12-30 [MagFors] Reshaped axlehole, made ccw
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 clh3.dat
 1 16 0 0 0 8.316 0 -3.444 -3.444 0 -8.315 0 1 0 3-8edge.dat

@@ -2,7 +2,7 @@
 0 Name: 4742.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2010-03-20 [Philo] BFCed, Complete rewrite
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 0 26.889 0 11 0 0 0 -26.8889 0 0 0 11 48\4-4con2.dat
 1 16 0 34.222 0 3 0 0 0 -7.33333 0 0 0 3 48\4-4con11.dat

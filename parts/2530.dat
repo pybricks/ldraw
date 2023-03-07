@@ -2,13 +2,13 @@
 0 Name: 2530.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS jungle, adventurers, pirate, wild west, western
-0 !KEYWORDS machete, saber, weapon, cavalry,
+0 !KEYWORDS Adventurers, cavalry, Jungle, machete, Pirate, saber, Weapon
+0 !KEYWORDS western, wild west
 
 0 !CMDLINE -c8
 
@@ -17,6 +17,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2014-11-21 [Holly-Wood] Primitive substitution, added missing edges and cond. lines, BFCed
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 0 // grip
 

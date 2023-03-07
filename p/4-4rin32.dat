@@ -2,11 +2,12 @@
 0 Name: 4-4rin32.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Primitive UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 4 16 32 0 0 33 0 0 30.4887 0 12.6291 29.5648 0 12.2464
 4 16 29.5648 0 12.2464 30.4887 0 12.6291 23.3343 0 23.3343 22.6272 0 22.6272
@@ -26,5 +27,4 @@
 4 16 29.5648 0 -12.2464 30.4887 0 -12.6291 33 0 0 32 0 0
 
 0 // end of file
-
 

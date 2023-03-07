@@ -2,13 +2,14 @@
 0 Name: s\99243s02.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-02-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-02-18 [Wesley] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 2 24 17.654 31.251 29.426 13.984 27.716 26.02
 2 24 12.687 -12.98 27.613 13.766 -15.521 30.824

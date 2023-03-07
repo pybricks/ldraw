@@ -2,15 +2,16 @@
 0 Name: 25269p06.dat
 0 Author: Bertrand Lequy [Berth]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 21138, Set 40465, Set 70912, Set 41134
-0 !KEYWORDS Bricklink 25269pb002, Rebrickable 25269pr0002
+0 !KEYWORDS Bricklink 25269pb002, Rebrickable 25269pr0002, Set 21138, Set 40465
+0 !KEYWORDS Set 41134, Set 70912
 
 0 !HISTORY 2022-03-01 [MagFors] Made pattern subfiles
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\25269s01.dat
 1 16 -10 0 10 0 0 .5 0 1 0 -.5 0 0 1-4rin39.dat

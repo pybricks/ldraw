@@ -2,18 +2,19 @@
 0 Name: 30346.dat
 0 Author: Jude Parrill [theJudeAbides]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Rock Raiders
+0 !KEYWORDS rock raiders
 
-0 !HISTORY 2002-03-28 [Xanthra47]     Original Part Shape
+0 !HISTORY 2002-03-28 [Xanthra47] Original Part Shape
 0 !HISTORY 2013-09-02 [theJudeAbides] Moved to separate file, fixed, BFCed
-0 !HISTORY 2018-02-07 [Steffen]       moved button to separate file, replaced stud
+0 !HISTORY 2018-02-07 [Steffen] moved button to separate file, replaced stud
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 0 !HISTORY 2022-01-16 [OrionP] Update description
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 0 // TODO: Fix battery-box/inner-area to be more accurate.
 
@@ -176,7 +177,7 @@
 4 16 0 0 -124 -7 3 -124 -4 6 -124 0 6 -124
 1 16 0 10 -124 1 0 0 0 0 -1 0 1 0 stud2a.dat
 1 16 0 10 -124 6 0 0 0 0 -6 0 1 0 4-4edge.dat
-1 47 0 10 -125 0 0 4 4 0 0 0 -4 0 4-8sphe.DAT
+1 47 0 10 -125 0 0 4 4 0 0 0 -4 0 4-8sphe.dat
 0 BFC INVERTNEXT
 1 16 -10 40 -124 0 0 6 6 0 0 0 24 0 4-4cylo.dat
 1 16 -10 40 -124 0 0 8 8 0 0 0 24 0 4-4cylo.dat
@@ -285,7 +286,7 @@
 4 16 25 22 -52 25.304 20.469 -51.392 32.696 20.469 -36.608 33 22 -36
 1 16 29 22 -43 0 0 4 0 1 0 -1 0 8 rect.dat
 1 16 29 22 -96 0 0 4 4 0 0 0 44 0 4-4cyli.dat
-1 16 29 22 -96 0 0 4 4 0 0 0 -4 0 4-8sphe.DAT
+1 16 29 22 -96 0 0 4 4 0 0 0 -4 0 4-8sphe.dat
 
 0 // Front Area - Antenna Supports
 1 16 29 22 -58 -4 0 0 0 0 4 0 1 0 4-4edge.dat

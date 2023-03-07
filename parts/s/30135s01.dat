@@ -2,13 +2,14 @@
 0 Name: s\30135s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2008-12-20 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2008-12-20 {LEGO Universe Team} Original part shape
 0 !HISTORY 2009-01-08 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 3 16 14.83 0.93 2.64 14.94 0.6 -0.36 15.21 1.92 0.86
 2 24 14.83 0.93 2.64 14.94 0.6 -0.36

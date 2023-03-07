@@ -2,13 +2,14 @@
 0 Name: 98138p8d.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 60227, Set 60228, Set 60229, Bricklink 98138pb108
+0 !KEYWORDS Bricklink 98138pb108, Set 60227, Set 60228, Set 60229
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s02.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 4-4ring9.dat

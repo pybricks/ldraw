@@ -1,29 +1,29 @@
-0 Minifig Head with Black Straight Eyebrows, Large Medium Blue Eyes, Big Smile with Teeth / Scowl with Teeth 2-Sided Pattern 
+0 Minifig Head with Black Straight Eyebrows, Large Medium Blue Eyes, Big Smile with Teeth / Scowl with Teeth 2-Sided Pattern
 0 Name: 3626cpng.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Ninjago, Zane, Bricklink 3626cpb1894
+0 !KEYWORDS Bricklink 3626cpb1894, Ninjago, Zane
 
 0 !CMDLINE -c14
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
 1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
 1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t08o6250.dat
-1 16 0 4 0 -8 0 0 0 -6.4 0  0 0 -8 t08o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 -8 t08o6250.dat
 1 16 0 4 0 9.19239 0 9.19239 0 13 0 -9.19239 0 9.19239 1-4cyli.dat
 1 16 0 4 0 -9.19239 0 -9.19239 0 13 0 9.19239 0 -9.19239 1-4cyli.dat
 1 16 0 17 0 -3.06147 0 -7.39104 0 6.4 0 -7.39104 0 3.06147 t04o6250.dat
 1 16 0 17 0 -7.39104 0 3.06147 0 6.4 0 3.06147 0 7.39104 t04o6250.dat
 1 16 0 17 0 3.06147 0 7.39104 0 6.4 0 7.39104 0 -3.06147 t04o6250.dat
 1 16 0 17 0 7.39104 0 -3.06147 0 6.4 0 -3.06147 0 -7.39104 t08o6250.dat
-
 
 4 15 -3.53 8.45 -12.298 -3.3 7.896 -12.344 -3.53 7.85 -12.298 -3.76 7.896 -12.252
 4 73 -3.53 9.05 -12.298 -4.655 9.536 -12.074 -4.391 9.931 -12.127 -3.996 10.195 -12.205
@@ -395,7 +395,6 @@
 5 24 4.8298 2.46906 -11.6591 0 2.46906 -12.6191 4.9751 4 -12.0107 4.4142 1.17192 -10.6578
 5 24 4.8298 2.46906 -11.6591 4.9751 4 -12.0107 0 2.46906 -12.6191 8.9231 2.46906 -8.9231
 5 24 4.9751 4 -12.0107 0 4 -13 4.9752 5.65696 -12.0104 4.8298 2.46906 -11.6591
-
 
 0 // Back Face
 4 15 -3.53 7.85 12.298 -3.3 7.896 12.344 -3.53 8.45 12.298 -3.76 7.896 12.252

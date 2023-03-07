@@ -1,15 +1,17 @@
-0 Hinge Wedge  1 x  3 Locking with 2 Fingers, 2 Studs and Clip 
+0 Hinge Wedge  1 x  3 Locking with 2 Fingers, 2 Studs and Clip
 0 Name: 41529.dat
 0 Author: Gene Welborn [dtaax]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP part rotates around the click hinge at 20 10 0
 
 0 BFC CERTIFY CCW
+
 0 !KEYWORDS Alpha Team
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 0 // start main stud
 
@@ -19,7 +21,7 @@
 1 16 0 20 0 4 0 0 0 1 0 0 0 4 4-4disc.dat
 1 16 0 20 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 0 BFC INVERTNEXT
-1 16 0 0 0 1 0 0 0 -4 0 0 0 -1 STUD3A.DAT
+1 16 0 0 0 1 0 0 0 -4 0 0 0 -1 stud3a.dat
 1 16 0 0 0 6 0 0 0 9 0 0 0 -6 4-4cyli.dat
 1 16 0 11 0 6 0 0 0 9 0 0 0 -6 4-4cyli.dat
 0 BFC INVERTNEXT

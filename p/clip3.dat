@@ -2,19 +2,20 @@
 0 Name: clip3.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Primitive UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2002-08-31 [izanette] Modified with WINDZ for BFC compliance
-0 !HISTORY 2003-07-02 [cwdee]    Fixed gaps and used ring primitive
-0 !HISTORY 2003-12-19 [PTadmin]  Official Update 2003-03
-0 !HISTORY 2007-06-24 [PTadmin]  Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin]  Official Update 2008-01
+0 !HISTORY 2003-07-02 [cwdee] Fixed gaps and used ring primitive
+0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [mkennedy] Rearanged quads, used more primitives (2006-10-11)
-0 !HISTORY 2009-05-02 [PTadmin]  Official Update 2009-01
-0 !HISTORY 2013-02-04 [MagFors]  Closed some gaps
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2013-02-04 [MagFors] Closed some gaps
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 5.85 -2.765 -4 0 0 0 1 -0.15 0 0 1.235 rect.dat
 1 16 0 -1.85 -2.765 -4 0 0 0 -1 0.15 0 0 1.235 rect.dat

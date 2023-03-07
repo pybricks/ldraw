@@ -2,13 +2,14 @@
 0 Name: 2869.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 0 !HISTORY 2014-10-19 [MMR1988] Changed the LEGO logo
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 16 0 0 0 -240 0 0 0 -40 0 0 0 120 box4.dat
 
@@ -194,7 +195,6 @@
 1 16 -169.6477 -16.5 -95 0 6.1477 0 0 0 17.5 2 0 0 box4-2p.dat
 1 16 -182.3523 -16.5 -95 0 -6.1477 0 0 0 17.5 2 0 0 box4-2p.dat
 
-
 1 16 169.7057 -16.5 -97.2916 -0.058 1 0 0 0 17.5 0.2916 0 0 rect2p.dat
 1 16 176 -34 -95 6.2362 0 -2.5831 0 35 0 -2.5831 0 -6.2362 3-8cylo.dat
 1 16 169.7057 -16.5 -92.7084 0.058 1 0 0 0 17.5 0.2916 0 0 rect2p.dat
@@ -249,7 +249,6 @@
 4 16 -135 -34 -27.5701 -135 -0.0684 -27.5701 -135 27.9317 -11.4043 -135 0 -11.4043
 4 16 -135 0 13.0957 -135 27.9317 13.0957 -135 -0.0684 29.2615 -135 -34 29.2615
 4 16 -135 -34 29.2615 -135 -34 -27.5701 -135 0 -11.4043 -135 0 13.0957
-
 
 0 // circuit plate holder
 

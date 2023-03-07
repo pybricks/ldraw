@@ -2,11 +2,12 @@
 0 Name: 58135.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\58135s01.dat
 1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\58135s01.dat
@@ -56,4 +57,4 @@
 1 16 0 -4.5 -82 -8 0 0 0 0 4.5 0 -1 0 rect.dat
 1 16 0 -8 -89 10 0 0 0 0 -1 0 1 0 rect3.dat
 4 16 -10 -9 -89 10 -9 -89 8 -9 -82 -8 -9 -82
-0 
+0

@@ -2,7 +2,7 @@
 0 Name: s\53983s05.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2018-02-07 [arezey] Complete rewrite
 0 !HISTORY 2019-06-11 [GeraldLasser] Cleand some Vertices
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 16 25.1023 93.6909 9 25.8801 96.5908 9 13.0532 99.1505 9 12.661 96.1702 9
 4 16 48.5018 84 9 50 86.6 9 38.2686 92.3906 9 37.1181 89.6141 9

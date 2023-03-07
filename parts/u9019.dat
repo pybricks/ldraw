@@ -2,28 +2,29 @@
 0 Name: u9019.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Electric
 
-0 !HISTORY 2002-11-30 [PTadmin]  Official Update 2002-05
-0 !HISTORY 2007-09-10 [PTadmin]  Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin]  Official Update 2008-01
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant (2004-05-09)
 0 !HISTORY 2008-07-08 [WilliamH] Removed screw and added screw hole (2006-07-15)
-0 !HISTORY 2009-10-22 [Steffen]  Used plug34.dat primitive
-0 !HISTORY 2010-05-26 [PTadmin]  Renamed from s/766s01.dat
-0 !HISTORY 2011-07-13 [Steffen]  Added needs-work note, retitled
-0 !HISTORY 2011-12-22 [Steffen]  Relocated plug hole 0.5 LDU towards rear to match change in 766a.dat, 766b.dat
-0 !HISTORY 2020-03-07 [Cheenzo]  Added missing condlines
+0 !HISTORY 2009-10-22 [Steffen] Used plug34.dat primitive
+0 !HISTORY 2010-05-26 [PTadmin] Renamed from s/766s01.dat
+0 !HISTORY 2011-07-13 [Steffen] Added needs-work note, retitled
+0 !HISTORY 2011-12-22 [Steffen] Relocated plug hole 0.5 LDU towards rear to match change in 766a.dat, 766b.dat
+0 !HISTORY 2020-03-07 [Cheenzo] Added missing condlines
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
+
 0 // Needs work: Despite their titles and current implementation suggest that,
-0 //             it is unclear if parts u9018.dat, u9019.dat, u9134.dat, u9146.dat
-0 //             are really distinct. We need to investigate geometry more for these and,
-0 //             if necessary, unify some of them.
+0 // it is unclear if parts u9018.dat, u9019.dat, u9134.dat, u9146.dat
+0 // are really distinct. We need to investigate geometry more for these and,
+0 // if necessary, unify some of them.
 
 1 16 0 0 -22 1 0 0 0 1 0 0 0 1 plug34.dat
 1 16 0 0 -22 0.5 0 0 0 0 0.5 0 1 0 4-4ring7.dat

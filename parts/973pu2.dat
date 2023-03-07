@@ -2,16 +2,17 @@
 0 Name: 973pu2.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10277, Set 75936, Set 75932, Bricklink 973pb3096, Crocodile Locomotive
-0 !KEYWORDS Jurassic Park, Alan Grant
+0 !KEYWORDS Alan Grant, Bricklink 973pb3096, Crocodile Locomotive, Jurassic Park
+0 !KEYWORDS Set 10277, Set 75932, Set 75936
 
 0 !CMDLINE -c73
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Neck
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat

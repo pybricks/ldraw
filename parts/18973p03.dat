@@ -2,16 +2,16 @@
 0 Name: 18973p03.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Speed Champions, R18
-0 !KEYWORDS Bricklink 18973pb03, Set 75872
+0 !KEYWORDS Bricklink 18973pb03, R18, Set 75872, Speed Champions
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 0 !HISTORY 2022-06-17 [Sirio] Fixed color of roof (from 80 to 71); added keywords
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 0 // Subpart
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18973s01.dat
@@ -1458,7 +1458,7 @@
 3 71 0 .615 -20 18 .0615 -11 -18 .0615 -11
 3 71 15.308 1.536 -34.239 14.7618 4.277867 -47.6449 15.4064 4.260715 -47.4569
 3 71 15.308 1.536 -34.239 15.4064 4.260715 -47.4569 16.09 4.21027 -47.1276
-0 // Neutral  faces
+0 // Neutral faces
 3 16 5.22 6.528 -59.828 5.22 6.493903 -59.65783 0 6.528 -60
 3 16 10.352 6.528 -59.318 10.352 6.425415 -58.81126 6.5263 6.502757 -59.5722
 3 16 10.352 6.528 -59.318 6.5263 6.502757 -59.5722 5.22 6.528 -59.828

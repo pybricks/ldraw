@@ -2,11 +2,12 @@
 0 Name: s\2586p4ns01.dat
 0 Author: Yann Bouzon [Zaghor]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 16 0 -15.98954 -8 -1.26072 -17.6705 -8 -3.23156 -16.2693 -8 -3.6771 -12.52256 -8
 4 16 -3.23156 -16.2693 -8 -1.26072 -17.6705 -8 -2.52144 -20.50712 -8 -3.78216 -19.66664 -8

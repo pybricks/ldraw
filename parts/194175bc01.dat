@@ -2,14 +2,15 @@
 0 Name: 194175bc01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 4005, Tug boat
-0 !KEYWORDS Bricklink 4005stk01, Rebrickable 194175, Brickowl 946320
+0 !KEYWORDS Bricklink 4005stk01, Brickowl 946320, Rebrickable 194175, Set 4005
+0 !KEYWORDS Tug boat
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 4 16 71.8435 10.9226 8.188 76 11 -13.0658 76 -11 -10.5677 72.2585 -11.0845 8.256
 4 16 76 -11 -49 76 -11 -10.5677 76 11 -13.0658 76 11 -49

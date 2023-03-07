@@ -2,12 +2,14 @@
 0 Name: 49059.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
 0 !KEYWORDS picture frame
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
 
 1 16 256 0 196 4 0 0 0 1 0 0 0 4 1-4disc.dat
 1 16 256 0 196 4 0 0 0 1 0 0 0 4 1-4edge.dat
@@ -97,25 +99,25 @@
 2 24 -176 4 120 176 4 120
 
 1 16 220 0 160 1 0 0 0 1 0 0 0 1 stug4.dat
-1 16 220 0  80 1 0 0 0 1 0 0 0 1 stug4.dat
-1 16 220 0   0 1 0 0 0 1 0 0 0 1 stug4.dat
+1 16 220 0 80 1 0 0 0 1 0 0 0 1 stug4.dat
+1 16 220 0 0 1 0 0 0 1 0 0 0 1 stug4.dat
 1 16 220 0 -80 1 0 0 0 1 0 0 0 1 stug4.dat
 1 16 220 0 -160 1 0 0 0 1 0 0 0 1 stug4.dat
 1 16 140 0 160 1 0 0 0 1 0 0 0 1 stug4.dat
 1 16 140 0 -160 1 0 0 0 1 0 0 0 1 stug4.dat
-1 16  60 0 160 1 0 0 0 1 0 0 0 1 stug4.dat
-1 16  60 0 -160 1 0 0 0 1 0 0 0 1 stug4.dat
-1 16   0 0 -180 1 0 0 0 1 0 0 0 1 stug2.dat
-1 16   0 0 -140 1 0 0 0 1 0 0 0 1 stug2.dat
-1 16   0 0 140 1 0 0 0 1 0 0 0 1 stug2.dat
-1 16   0 0 180 1 0 0 0 1 0 0 0 1 stug2.dat
-1 16  -60 0 160 1 0 0 0 1 0 0 0 1 stug4.dat
-1 16  -60 0 -160 1 0 0 0 1 0 0 0 1 stug4.dat
+1 16 60 0 160 1 0 0 0 1 0 0 0 1 stug4.dat
+1 16 60 0 -160 1 0 0 0 1 0 0 0 1 stug4.dat
+1 16 0 0 -180 1 0 0 0 1 0 0 0 1 stug2.dat
+1 16 0 0 -140 1 0 0 0 1 0 0 0 1 stug2.dat
+1 16 0 0 140 1 0 0 0 1 0 0 0 1 stug2.dat
+1 16 0 0 180 1 0 0 0 1 0 0 0 1 stug2.dat
+1 16 -60 0 160 1 0 0 0 1 0 0 0 1 stug4.dat
+1 16 -60 0 -160 1 0 0 0 1 0 0 0 1 stug4.dat
 1 16 -140 0 160 1 0 0 0 1 0 0 0 1 stug4.dat
 1 16 -140 0 -160 1 0 0 0 1 0 0 0 1 stug4.dat
 1 16 -220 0 160 1 0 0 0 1 0 0 0 1 stug4.dat
-1 16 -220 0  80 1 0 0 0 1 0 0 0 1 stug4.dat
-1 16 -220 0   0 1 0 0 0 1 0 0 0 1 stug4.dat
+1 16 -220 0 80 1 0 0 0 1 0 0 0 1 stug4.dat
+1 16 -220 0 0 1 0 0 0 1 0 0 0 1 stug4.dat
 1 16 -220 0 -80 1 0 0 0 1 0 0 0 1 stug4.dat
 1 16 -220 0 -160 1 0 0 0 1 0 0 0 1 stug4.dat
 0

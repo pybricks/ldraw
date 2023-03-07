@@ -2,11 +2,12 @@
 0 Name: 30118p6v.dat
 0 Author: Nils Schmidt [BlackBrick89]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30118s01.dat
 3 16 -20 -21.4655 49.8132 -20 -26.9742 57.4642 -25.7565 -24.1704 53.57

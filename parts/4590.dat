@@ -2,7 +2,7 @@
 0 Name: 4590.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2020-06-04 [Sirio] Reshaped and updated the use of primitives: removed ringr.dat or ringrr.dat, introduced use of boxes and 3-8cylo.dat, merged some triangles to quads, reduced overalpping surfaces
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Primitives
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
@@ -107,7 +108,7 @@
 0 // Edges
 2 24 -23.6213 8 .8787 -19 8 -2.94
 2 24 -19 8 -2.94 -19 4 -2.94
-2 24 -19 4 -2.94 -23.6213 4 .8787 
+2 24 -19 4 -2.94 -23.6213 4 .8787
 0 // Conditional lines
 5 24 -23.6213 8 .8787 -23.6213 4 .8787 -24.2717 8 1.8519 -19 8 -2.94
 0 // Right side
@@ -129,6 +130,6 @@
 0 // Edges
 2 24 23.6213 8 .8787 19 8 -2.94
 2 24 19 8 -2.94 19 4 -2.94
-2 24 19 4 -2.94 23.6213 4 .8787 
+2 24 19 4 -2.94 23.6213 4 .8787
 0 // Conditional lines
 5 24 23.6213 8 .8787 23.6213 4 .8787 24.2717 8 1.8519 19 8 -2.94

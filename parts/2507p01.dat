@@ -2,10 +2,12 @@
 0 Name: 2507p01.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS Model Team, 5600, 5599
+
+0 !KEYWORDS 5599, 5600, Model Team
+
 0 !CMDLINE -c33
 
 0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
@@ -14,6 +16,7 @@
 0 !HISTORY 2013-02-23 [MagFors] Changed colour 383 to 80 (printed silver)
 0 !HISTORY 2013-02-23 [MagFors] inlined pattern, used subfile
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2507s01.dat
 

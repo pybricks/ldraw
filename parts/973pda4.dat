@@ -2,13 +2,14 @@
 0 Name: 973pda4.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS The Lego Movie 2, Bricklink 973pb3438
+0 !KEYWORDS Bricklink 973pb3438, The LEGO Movie 2
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
@@ -796,6 +797,4 @@
 3 16 -17.4333 31.9056 10 -16.9444 31.9444 10 -19 32 10
 4 16 6 31.7 10 9.2222 31.7222 10 19 32 10 4.6111 31.7778 10
 3 16 8.4811 1.9922 10 7.8333 2.5867 10 6 2.1667 10
-
-
 

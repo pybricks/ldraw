@@ -2,11 +2,12 @@
 0 Name: s\13971s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 4 16 10.0812 4.3136 9.888 10.4486 1.5216 10 19.8376 1.3316 8.81 19.3182 3.7274 8.74
 3 16 8.851 5.1101 10 10.4486 1.5216 10 10.0812 4.3136 9.888

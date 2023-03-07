@@ -1,17 +1,18 @@
 0 Minifig Cup with Black "C:\" Pattern
 0 Name: 3899p01.dat
-0 Author: Gerald Lasser [GeraldLasser]	
+0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Town, mug, coffee, cocoa, tea, drink, utensil, cookware
-0 !KEYWORDS Bricklink 3899pb001, Set 8831
-0 !KEYWORDS Collectible Minifigures, Series 7, Computer Programmer
+0 !KEYWORDS Bricklink 3899pb001, cocoa, Coffee, Collectible Minifigures
+0 !KEYWORDS Computer Programmer, Cookware, drink, mug, Series 7, Set 8831, tea
+0 !KEYWORDS town, utensil
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3899s01.dat
 

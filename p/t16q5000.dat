@@ -2,17 +2,18 @@
 0 Name: t16q5000.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Primitive UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
+
 0 // Major Radius: 2
 0 // Tube(Minor) Radius: 1
 0 // Segments(Sweep): 1/16 = 0.0625
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.5000 0 0  0 0 0.5000  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.5000 0 0 0 0 0.5000 0 1 0 4-4edge.dat
 
 4 16 1 0.5 0 0.9239 0.5 0.3827 1.1007 0.462 0.4559 1.1914 0.462 0
 4 16 1.1914 0.462 0 1.1007 0.462 0.4559 1.2505 0.3536 0.518 1.3536 0.3536 0

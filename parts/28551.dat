@@ -2,7 +2,7 @@
 0 Name: 28551.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2019-07-22 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 3 16 5.6568 -6.25 5.6568 3.0616 -6.25 7.3912 9.686 -5.263 8.823
 3 16 6.918 -5.263 11.146 9.686 -5.263 8.823 3.0616 -6.25 7.3912

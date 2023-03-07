@@ -2,7 +2,7 @@
 0 Name: s\30173s01.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Subpart UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 0 !HISTORY 2019-02-14 [Sirio] Subpart completely redrawned
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 0 // Primitives
 1 16 -1.625 -96 10.375 0 3.25 0 -2 0 0 0 0 2 5-16cylo.dat

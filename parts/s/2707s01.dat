@@ -2,11 +2,12 @@
 0 Name: s\2707s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 1 16 0 -2.5 0 0 0 1.8 0 -2.5 0 1.8 0 0 2-4con4.dat
 1 16 0 -0.5 0 0 0 0.5 0 -2 0 0.5 0 0 1-4con18.dat
@@ -200,5 +201,4 @@
 5 24 0 -30 -16 0 -25 -19 1 -25 -18.801 -1 -30 -15.801
 5 24 1 -25 -18.801 1 -30 -15.801 0 -30 -16 3 -24 -15.403
 5 24 1 -25 -18.801 3 -24 -15.403 1 -30 -15.801 1 -24 -18.801
-
 

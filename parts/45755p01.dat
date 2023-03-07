@@ -2,15 +2,16 @@
 0 Name: 45755p01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Bricklink 45755pb01, Brickset 49391
-0 !KEYWORDS Watermelon Dude, The LEGO Movie 2, Collectible Minifigures
+0 !KEYWORDS Bricklink 45755pb01, Brickset 49391, Collectible Minifigures
+0 !KEYWORDS The LEGO Movie 2, Watermelon Dude
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 -6 0 1 0 0 0 -1.5 0 0 0 1 stud4.dat
 
@@ -33,7 +34,6 @@
 5 24 0 -16 -16.5 0 -11 -16.5 -10.0505 -15.3413 -16.171 10.0505 -15.3413 -16.171
 5 24 0 -16 -16.5 0 -16 16.5 10.0505 -15.3413 16.171 -10.0505 -15.3413 16.171
 5 24 0 -16 16.5 0 -11 16.5 -10.0505 -15.3413 16.171 10.0505 -15.3413 16.171
-
 
 4 0 11.77 25.35 -16.38023 10.47 25.2 -16.40283 9.61374 25.51193 -16.41765 12.72 26.25 -16.36359
 4 0 13.06 27.69 -16.35745 12.72 26.25 -16.36359 9.61374 25.51193 -16.41765 12.83 29.25 -16.3612

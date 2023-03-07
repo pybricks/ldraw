@@ -2,16 +2,18 @@
 0 Name: 4483.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP To position on motorcycle:
 0 !HELP 1 16 0 -11 -76.25 1 0 0 0 0.924 0.383 0 -0.383 0.924 4483.dat
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Vehicle
 
 0 !HISTORY 2009-12-26 [MagFors] BFC'ed and changed origin
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 0 // shape
 
@@ -27,7 +29,7 @@
 2 24 5 11 0 5 5 0
 2 24 5 11 0 12 11 0
 2 24 -5 11 0 -12 11 0
-0  //
+0 //
 1 16 12 -41 -4 8 0 0 0 0 -8 0 1 0 1-4edge.dat
 1 16 12 3 -4 0 0 8 8 0 0 0 1 0 1-4edge.dat
 1 16 -12 3 -4 -8 0 0 0 0 8 0 1 0 1-4edge.dat

@@ -2,13 +2,14 @@
 0 Name: u9313.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !CATEGORY Brick
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 0 // Connection structure guessed from assembled part
 
@@ -92,12 +93,12 @@
 
 2 24 79 16 -96 81 16 -96
 2 24 79 12 -96 81 12 -96
-4 16 79 12 -96 81 12 -96 81 16 -96 79 16 -96 
+4 16 79 12 -96 81 12 -96 81 16 -96 79 16 -96
 2 24 -79 16 -96 -81 16 -96
 2 24 -79 12 -96 -81 12 -96
 4 16 -79 16 -96 -81 16 -96 -81 12 -96 -79 12 -96
 
-2 24 182 4 96 182 4 81 
+2 24 182 4 96 182 4 81
 2 24 182 4 79 182 4 61
 2 24 182 4 59 182 4 1
 2 24 182 4 -1 182 4 -79
@@ -305,7 +306,7 @@
 4 16 -81 16 -79 -79 16 -79 -79 16 -1 -81 16 -1
 4 16 -81 16 -96 -79 16 -96 -79 16 -81 -81 16 -81
 
-0 BFC INVERTNEXT 
+0 BFC INVERTNEXT
 1 16 160 4 -92 4 0 0 0 8 0 0 0 4 4-4cylo.dat
 1 16 160 12 -92 6 0 0 0 1 0 0 0 6 2-4edge.dat
 2 24 154 12 -92 154 12 -96
@@ -322,7 +323,7 @@
 2 24 166 4 -92 166 4 -96
 2 24 154 4 -96 154 12 -96
 2 24 166 4 -96 166 12 -96
-0 BFC INVERTNEXT 
+0 BFC INVERTNEXT
 1 16 0 4 -92 4 0 0 0 8 0 0 0 4 4-4cylo.dat
 1 16 0 12 -92 6 0 0 0 1 0 0 0 6 2-4edge.dat
 2 24 -6 12 -92 -6 12 -96
@@ -339,7 +340,7 @@
 2 24 6 4 -92 6 4 -96
 2 24 -6 4 -96 -6 12 -96
 2 24 6 4 -96 6 12 -96
-0 BFC INVERTNEXT 
+0 BFC INVERTNEXT
 1 16 -160 4 -92 4 0 0 0 8 0 0 0 4 4-4cylo.dat
 1 16 -160 12 -92 6 0 0 0 1 0 0 0 6 2-4edge.dat
 2 24 -166 12 -92 -166 12 -96

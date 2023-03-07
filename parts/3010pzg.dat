@@ -2,13 +2,14 @@
 0 Name: 3010pzg.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 41497, Brickheadz, Venom
+0 !KEYWORDS Brickheadz, Set 41497, Venom
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 4 15 -40 24 -10 -20.851 18.085 -10 -21.031 15.12 -10 -40 19.749 -10

@@ -2,17 +2,18 @@
 0 Name: 003437a.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Train, set 181
+0 !KEYWORDS set 181, Train
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 0 !HISTORY 2016-07-01 [cwdee] Updated description
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 0 !HISTORY 2019-08-10 [anathema] Corrected colour of backing box and replaced with box5-12 primitive
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 4 15 -14.1 -0.25 -16.7 -10.7 -0.25 -16.7 -10.7 -0.25 -0.2 -14.1 -0.25 -6.2
 4 0 -14.1 -0.25 -6.2 -17.4 -0.25 -6.2 -17.4 -0.25 -16.7 -14.1 -0.25 -16.7

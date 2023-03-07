@@ -2,11 +2,12 @@
 0 Name: 48\1-4rin82.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG 48_Primitive UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 4 16 82 0 0 83 0 0 82.2862 0 10.8315 81.2948 0 10.701
 4 16 81.2948 0 10.701 82.2862 0 10.8315 80.1697 0 21.4804 79.2038 0 21.2216
@@ -22,5 +23,4 @@
 4 16 10.701 0 81.2948 10.8315 0 82.2862 0 0 83 0 0 82
 
 0 // end of file
-
 

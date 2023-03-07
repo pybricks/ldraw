@@ -2,14 +2,15 @@
 0 Name: 3626bpc6a.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS CMF Series 6, collectable, collectible, roman, soldier
-0 !KEYWORDS BrickLink 3626bpb0682
+0 !KEYWORDS BrickLink 3626bpb0682, CMF Series 6, Collectable, Collectible, roman
+0 !KEYWORDS soldier
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs04.dat

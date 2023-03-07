@@ -2,15 +2,16 @@
 0 Name: 98138p1d.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS DOTS, Set 41913, Mega Pack, Best Friends Forever
-0 !KEYWORDS Bricklink 98138pb147
+0 !KEYWORDS Best Friends Forever, Bricklink 98138pb147, Dots, Mega Pack
+0 !KEYWORDS Set 41913
 
 0 !HISTORY 2021-06-14 [RainbowDolphin] Subfiled patterns for colour variants
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138p1ds01.dat
 1 3 0 0 0 1 0 0 0 1 0 0 0 1 s\98138p1ds02.dat

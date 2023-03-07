@@ -2,20 +2,21 @@
 0 Name: 3040p58.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, Space, TIE Interceptor, computer, controls, crosshairs
-0 !KEYWORDS Insectoids
+0 !KEYWORDS computer, controls, crosshairs, Insectoids, Space, Star Wars
+0 !KEYWORDS TIE Interceptor
 
 0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
-0 !HISTORY 2004-03-11 [cwdee]   Corrected title spelling
+0 !HISTORY 2004-03-11 [cwdee] Corrected title spelling
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2013-04-22 [MagFors] Color corrections, pattern rewrite
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3040s01.dat
 1 16 7 2.121 -12.121 2 0 0 0 1.4142 1.4142 0 1.4142 -1.4142 4-4ndis.dat

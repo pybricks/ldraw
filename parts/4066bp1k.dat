@@ -2,14 +2,15 @@
 0 Name: 4066bp1k.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Bucket, Girls, bricklink 4066pb016, Set 2552
+0 !KEYWORDS bricklink 4066pb016, Bucket, Girls, Set 2552
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 4 2 -24.5 12 -20 -27.5 11 -20 -27.75 13 -20 -22.25 13 -20

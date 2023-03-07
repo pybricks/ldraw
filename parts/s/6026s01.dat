@@ -2,13 +2,14 @@
 0 Name: s\6026s01.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 0 !HISTORY 2011-03-13 [MagFors] Changed some edge lines to conditional lines
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 16 16 19.56 -62.64 4.95 19.7 -62.79 6.47 17.21 -59.93 16 17.21 -59.93
 4 16 16 17.21 -59.93 6.47 17.21 -59.93 6.47 16.03 -56.02 16 16.03 -56.02

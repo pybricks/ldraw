@@ -2,11 +2,12 @@
 0 Name: u1125.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 1 8 0 0 0 -21 0 -8 0 -10 0 0 box4-4a.dat
 
@@ -38,7 +39,6 @@
 1 16 30 4 6 0 0 0.5 -0.5 0 0 0 -1 0 4-4ring7.dat
 1 16 30 4 6 0 0 -4 4 0 0 0 -1 0 2-4ndis.dat
 
-
 1 16 22 4 -10 0 0 4 4 0 0 0 4 0 2-4cyli.dat
 1 16 22 4 -10 0 0 4 4 0 0 0 1 0 2-4disc.dat
 1 16 22 4 -10 0 0 4 4 0 0 0 1 0 2-4edge.dat
@@ -51,7 +51,6 @@
 1 16 30 4 -6 0 0 -4 4 0 0 0 1 0 2-4ndis.dat
 
 1 16 30 4 -6 0 0 4 4 0 0 0 12 0 2-4cyli.dat
-
 
 1 16 30 4 6 0 0 4 4 0 0 0 1 0 2-4edge.dat
 1 16 30 4 -6 0 0 4 4 0 0 0 1 0 2-4edge.dat

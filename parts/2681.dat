@@ -1,12 +1,12 @@
-0 Support  6 x  6 x 10 Stanchion 
+0 Support  6 x  6 x 10 Stanchion
 0 Name: 2681.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS monorail, girder, stand, space, leg
+0 !KEYWORDS girder, leg, Monorail, Space, stand
 
 0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
 0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
@@ -15,6 +15,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-05-05 [BlackBrick89] BFCed and restructured
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 2 24 -20 240 -12 -20 236 -12
 1 16 -40 236 -40 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -48,7 +49,7 @@
 1 16 0 4 -6 12 0 0 0 1 0 0 0 4 recte3.dat
 1 16 0 4 6 12 0 0 0 1 0 0 0 -4 recte3.dat
 1 16 -14 4 0 0 0 -2 0 1 0 -10 0 0 recte3.dat
-1 16 14 4 0 0 0 2 0 1 0 -10 0 0 recte3.dat 
+1 16 14 4 0 0 0 2 0 1 0 -10 0 0 recte3.dat
 4 16 60 240 -60 56 240 -56 56 240 56 60 240 60
 2 24 -30 232 20 -16 4 10
 2 24 -16 4 -10 -30 232 -20

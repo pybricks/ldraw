@@ -2,7 +2,7 @@
 0 Name: s\2431pt2a.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Use in conjunction with s\2431pt2b.dat & s\2431pt2c.dat
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 0 !HISTORY 2021-02-25 [Sirio] Removed overlapping
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 0 // Primitives
 1 16 -254 0 0 24 0 0 0 1 0 0 0 32 4-4disc.dat
@@ -77,10 +78,10 @@
 3 4 -155 0 -15 -116 0 -45 -116 0 -15
 3 4 -155 0 -15 -116 0 -15 -116 0 15
 0 // Green faces
-3 2 55.426 0 -62.6272 42.9725 0 -44 38 0 -44 
-3 2 55.426 0 -62.6272 47.5675 0 -42.478 42.9725 0 -44 
+3 2 55.426 0 -62.6272 42.9725 0 -44 38 0 -44
+3 2 55.426 0 -62.6272 47.5675 0 -42.478 42.9725 0 -44
 3 2 55.426 0 -62.6272 50.5 0 -41.32 47.5675 0 -42.478
-3 2 55.426 0 -62.6272 53.22 0 -39.868 50.5 0 -41.32 
+3 2 55.426 0 -62.6272 53.22 0 -39.868 50.5 0 -41.32
 3 2 55.426 0 -62.6272 55.4264 0 -38.276 53.22 0 -39.868
 3 2 196 0 37 167 0 37 167 0 25
 4 2 167 0 25 166 0 13 166 0 -15 196 0 37

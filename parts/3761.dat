@@ -2,7 +2,7 @@
 0 Name: 3761.dat
 0 Author: Arne Hackstein
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2015-03-17 [Holly-Wood] Remeasured and rebuild from scratch
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 8 0 60 0 0 0 1 0 0 0 10 recte4.dat
 4 16 -56 8 -6 -60 8 -10 -60 8 10 -56 8 6

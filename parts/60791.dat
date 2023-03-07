@@ -2,14 +2,16 @@
 0 Name: 60791.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part Alias UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Belville, stable
+
+0 !KEYWORDS Belville, Stable
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2013-12-14 [cwdee] Add = prefix
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Alias of 30110
 

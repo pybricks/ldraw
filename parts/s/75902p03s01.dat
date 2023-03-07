@@ -2,11 +2,12 @@
 0 Name: s\75902p03s01.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 3 0 7.4926 -1.602 12.9771 5.45 -1.7979 12.35 5.9 -1.8372 11.8
 3 0 5.45 -1.7979 12.35 5.15 -2.0074 10.75 5.9 -1.8372 11.8

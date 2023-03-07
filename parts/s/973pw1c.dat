@@ -2,14 +2,14 @@
 0 Name: s\973pw1c.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
-0 // Gold
 
+0 // Gold
 
 4 16 -10.65 0 -10 -11.06 0 -10 -11.48 0.85 -10 -11.11 0.88 -10
 4 16 -11.11 0.88 -10 -11.48 0.85 -10 -12.02 2.22 -10 -11.62 2.25 -10

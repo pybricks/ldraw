@@ -2,7 +2,7 @@
 0 Name: 838.dat
 0 Author: Arne Hackstein
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2015-01-27 [Philo] BFCed with Windz, small improvements
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
 
+
 1 16 -34 89.75 -36 1.5 0 0 0 1 0 0 0 1.5 4-4edge.dat
 1 16 -34 89.75 -36 1.5 0 0 0 -1 0 0 0 1.5 4-4disc.dat
 1 16 -34 87.75 -36 0 0 1.5 0 -1 0 1.5 0 0 2-4edge.dat
@@ -22,7 +23,6 @@
 1 16 -34 2.25 -36 1.5 0 0 0 1 0 0 0 1.5 4-4edge.dat
 1 16 -34 2.25 -36 1.5 0 0 0 1 0 0 0 1.5 4-4disc.dat
 1 16 -34 2.25 -36 1.5 0 0 0 2 0 0 0 1.5 4-4cyli.dat
-
 
 1 16 26 43 -34.5 2 0 0 0 0 -2 0 1 0 1-4edge.dat
 1 16 26 43 -34.5 2 0 0 0 0 -2 0 -1 0 1-4ndis.dat

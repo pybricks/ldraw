@@ -2,11 +2,12 @@
 0 Name: s\10312s03.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 16 0 -71.484 -7.83 0 -72 0 -25.62 -70.7347 0 -25.62 -70.22958158 -7.66487835
 4 16 0 -71.484 -7.83 -25.62 -70.22958158 -7.66487835 -25.62 -68.73184673 -15.20054036 0 -69.954 -15.528

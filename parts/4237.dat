@@ -2,14 +2,16 @@
 0 Name: 4237.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS box, case, canister, tin, bin, Fabuland, Belville
+
+0 !KEYWORDS Belville, Bin, Box, Canister, Case, Fabuland, Tin
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2021-06-23 [PTadmin] Renamed from u516
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 8 0 40 0 0 0 1 0 0 0 60 recte4.dat
 4 16 -40 8 60 -36 8 56 -36 8 -56 -40 8 -60

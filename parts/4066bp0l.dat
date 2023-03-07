@@ -2,15 +2,16 @@
 0 Name: 4066bp0l.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Service station, House, BrickLink 4066pb241
-0 !KEYWORDS Set 2644, Set 2648, Set 1045, Set 9152, Set 9977, Set 9157
+0 !KEYWORDS BrickLink 4066pb241, house, Service station, Set 1045, Set 2644
+0 !KEYWORDS Set 2648, Set 9152, Set 9157, Set 9977
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 4 16 4.5 38.25 -20 3 38.25 -20 2 39 -20 5.5 39 -20

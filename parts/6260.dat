@@ -2,7 +2,7 @@
 0 Name: 6260.dat
 0 Author: Dennis Osborn
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2020-03-10 [Sirio] Updated the use of primitives: removed 1-4ccyli.dat, simplyfied hips and axis of legs, added missing lines
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // NECK PEG
 
@@ -50,7 +51,7 @@
 1 16 -6 44.8 0 0 -8 0 0 0 4 -4 0 0 4-4cylo.dat
 
 1 16 6 44.8 0 0 -1 0 0 0 6.1 -6.1 0 0 2-4disc.dat
-1 16 -6  44.8 0 0 1 0 0 0 6.1 6.1 0 0 2-4disc.dat
+1 16 -6 44.8 0 0 1 0 0 0 6.1 6.1 0 0 2-4disc.dat
 
 1 16 3 44.8 0 0 3 0 0 0 6.1 6.1 0 0 2-4cylc.dat
 1 16 -3 44.8 0 0 -3 0 0 0 6.1 -6.1 0 0 2-4cylc.dat

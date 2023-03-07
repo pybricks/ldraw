@@ -2,18 +2,19 @@
 0 Name: 2454aps5.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS Star Wars, Boba Fett, Slave 1, Set 7144
-0 !KEYWORDS Bespin, Cloud City, suspended animation, deep freeze, cold sleep
+0 !KEYWORDS Bespin, Boba Fett, Cloud City, cold sleep, deep freeze, Set 7144
+0 !KEYWORDS Slave 1, Star Wars, suspended animation
+
 0 !CMDLINE -c0
 
 0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
 0 !HISTORY 2007-05-10 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [nielsk]  Made BFC compliant (2006-01-09)
+0 !HISTORY 2008-07-07 [nielsk] Made BFC compliant (2006-01-09)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2013-05-12 [MagFors] Changed colour 383 to 80 (printed silver)
 0 !HISTORY 2013-05-28 [MagFors] Complete rewrite
@@ -21,7 +22,8 @@
 0 !HISTORY 2020-09-04 [PTadmin] Renamed from 2454ps5
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2454as01.DAT
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2454as01.dat
 4 16 -20 0 -10 20 0 -10 9.1712 4.4353 -10 1.9 5.15 -10
 4 16 14.0633 18.59 -10 20 16 -10 20 28 -10 13.9304 19.0277 -10
 4 16 10.7827 25.0293 -10 11 23.5 -10 20 28 -10 10.7805 25.3048 -10
@@ -2244,5 +2246,4 @@
 4 16 -13.2507 47.7038 -10 -14.1093 47.5107 -10 -13.58 46.93 -10 -12.8872 47.2054 -10
 3 16 -14.1093 47.5107 -10 -13.2507 47.7038 -10 -13.6033 48.1874 -10
 4 80 13.698 45.0608 -10 12.92 44.84 -10 15.4503 44.8512 -10 14.55 45.09 -10
-
 

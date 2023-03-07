@@ -2,15 +2,16 @@
 0 Name: 820670a.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 8094, 9752, 9753, Technic, Control centre
-0 !KEYWORDS Bricklink 8094stk01, 9752stk01, 9753stk01
-0 !KEYWORDS Rebrickable 820670, Brickowl 746963
+0 !KEYWORDS 9752, 9752stk01, 9753, 9753stk01, Bricklink 8094stk01
+0 !KEYWORDS Brickowl 746963, Control centre, Rebrickable 820670, Set 8094
+0 !KEYWORDS Technic
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 -0.25 0 19 0 0 0 0.25 0 0 0 19 box5-12.dat
 4 15 -8 -0.25 1 -19 -0.25 1 -19 -0.25 -1 -8 -0.25 -1

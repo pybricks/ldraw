@@ -2,17 +2,18 @@
 0 Name: 973psj.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, Jango Fett, bounty hunter, Slave I, Slave One
-0 !KEYWORDS Episode Two, Attack of the Clones, clone trooper template
-0 !KEYWORDS Mandalorian battle armor, Kamino, Geonosis
-0 !KEYWORDS silver, chrome, plate armor, blast plates
+0 !KEYWORDS Attack of the Clones, blast plates, bounty hunter, chrome
+0 !KEYWORDS clone trooper template, Episode Two, Geonosis, Jango Fett, Kamino
+0 !KEYWORDS Mandalorian battle armor, plate armor, silver, Slave I, Slave One
+0 !KEYWORDS Star Wars
+
 0 !CMDLINE -c8
 
-0 !HISTORY 2004-10-04 [fwcain]  Adjusted insignia; added Keywords; BFC-ed
+0 !HISTORY 2004-10-04 [fwcain] Adjusted insignia; added Keywords; BFC-ed
 0 !HISTORY 2005-01-10 [fwcain] Inlined "dithered color" DAT code...
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 0 !HISTORY 2012-04-08 [BlackBrick89] Colour cleanup
@@ -20,6 +21,7 @@
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 0 !HISTORY 2020-11-14 [cwdee] Correct description
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat

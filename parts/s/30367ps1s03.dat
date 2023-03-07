@@ -2,11 +2,12 @@
 0 Name: s\30367ps1s03.dat
 0 Author: Daniel Goerner [TK-949]
 0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 3 16 10.808 0.98 4.476 10.2 0.613 0.57 10.46 0.688 0.68
 3 16 10.808 0.98 4.476 10.72 0.757 0.68 10.97 0.818 0.58

@@ -2,7 +2,7 @@
 0 Name: 1-4ring6.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Primitive UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 0 !HISTORY 2014-12-25 [MMR1988] Fixed a rounding issue
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 4 16 7 0 0 6.4673 0 2.6789 5.5434 0 2.2962 6 0 0
 4 16 6.4673 0 2.6789 4.9497 0 4.9497 4.2426 0 4.2426 5.5434 0 2.2962

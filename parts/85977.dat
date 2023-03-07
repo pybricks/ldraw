@@ -2,11 +2,12 @@
 0 Name: 85977.dat
 0 Author: Ronald Vallenduuk [Duq]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Sleepers
 1 16 -160 120 0 1 0 0 0 1 0 0 0 1 s\85977s02.dat
@@ -828,7 +829,6 @@
 2 24 140 8 -23 140 4 -23
 2 24 140 4 -37 140 8 -37
 2 24 140 8 -37 140 8 -23
-
 
 0 // Rails
 0 // Base side

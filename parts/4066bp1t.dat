@@ -2,15 +2,16 @@
 0 Name: 4066bp1t.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Zoo, Kitchen, Vegetable, Grocery, bricklink 4066pb069
-0 !KEYWORDS Set 2667, Set 2699, Set 2942, Set 9133, Set 9173, Set 9190
+0 !KEYWORDS bricklink 4066pb069, Grocery, Kitchen, Set 2667, Set 2699, Set 2942
+0 !KEYWORDS Set 9133, Set 9173, Set 9190, Vegetable, Zoo
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 4 27 5.25 6.75 -20 3.5 6.25 -20 2.25 6.75 -20 1.5 8 -20

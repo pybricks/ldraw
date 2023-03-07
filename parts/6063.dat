@@ -2,7 +2,7 @@
 0 Name: 6063.dat
 0 Author: Luis E. Fernandez [lfernand]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2008-07-07 [mkennedy] Used rib45t, optimized with boxes, rects, anmd stug2 (2006-07-13)
 0 !HISTORY 2008-07-08 [WilliamH] Re-write - prior to original author affirming the CA (2006-90-16)
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6063s01.dat
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\6063s01.dat

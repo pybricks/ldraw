@@ -2,15 +2,17 @@
 0 Name: 41862.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Star Wars, Racers, grill, grilles, vent, exhaust
+
+0 !KEYWORDS exhaust, grill, grilles, Racers, Star Wars, Vent
 
 0 !HISTORY 2003-11-09 [OrionP] Fixed a gap, BFC'd
 0 !HISTORY 2003-11-10 [fwcain] added keywords...
 0 !HISTORY 2006-10-04 [WilliamH] moved more elements into sub-part, used stug2
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\41862s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\41862s01.dat

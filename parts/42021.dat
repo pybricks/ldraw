@@ -2,13 +2,15 @@
 0 Name: 42021.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS curved, rounded, slope, "Star Wars", "Alpha Team", windscreen, canopy
+
+0 !KEYWORDS Alpha Team, canopy, curved, rounded, slope, Star Wars, windscreen
 
 0 !HISTORY 2011-02-21 [MagFors] BFCed with WINDZ, updated header, added cond-lines from subpart
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\42021s01.dat
 0 //

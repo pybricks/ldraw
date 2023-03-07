@@ -2,19 +2,20 @@
 0 Name: 973p4w.dat
 0 Author: Lee Gaiteri [LummoxJR]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS castle, villager, civilian, maid
+0 !KEYWORDS Castle, civilian, maid, Villager
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 -19 32 10 19 32 10 19 29 10 -19 29 10
 4 16 -19 29 10 19 29 10 14.345 2 10 -14.345 2 10
 4 16 12 0 10 -12 0 10 -14.345 2 10 14.345 2 10
-1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.DAT
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 
 0 // hips
 4 0 -17.16 21.86 -10 -17.07 21.7 -10 -16.89 21.8 -10 -14.59 26.84 -10

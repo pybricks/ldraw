@@ -2,15 +2,17 @@
 0 Name: 4740p03.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 4740pb011, Set 71228, Set 70172, Set 76073, Set 70349, Set 70170
+0 !KEYWORDS Bricklink 4740pb011, Set 70170, Set 70172, Set 70349, Set 71228
+0 !KEYWORDS Set 76073
 
 0 !CMDLINE -c52
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4740s01.dat
 

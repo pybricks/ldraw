@@ -2,16 +2,17 @@
 0 Name: 3068bpa0.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !KEYWORDS Adventurers
 
 0 !HISTORY 2011-10-15 [MagFors] Corrected errors
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
-0 // Needs work, many colinear vertices
 
+0 // Needs work, many colinear vertices
 
 4 2 -12.8715 0 -15.091 -12.856 0 -14.579 -12.655 0 -6.6828 -12.976 0 -14.6756
 3 2 -11.887 0 -12.877 -11.6702 0 -12.9097 -11.832 0 -12.7665

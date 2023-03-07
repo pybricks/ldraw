@@ -2,21 +2,22 @@
 0 Name: 2444.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2003-06-08 [jriley]  BFC compliant
+0 !HISTORY 2003-06-08 [jriley] BFC compliant
 0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
 0 !HISTORY 2007-05-12 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-09-12 [cwdee]   Reworked
+0 !HISTORY 2013-09-12 [cwdee] Reworked
 0 !HISTORY 2013-09-12 [MMR1988] Removed t-junctions, used more prims
-0 !HISTORY 2013-09-13 [arezey]  Simplified underside
+0 !HISTORY 2013-09-13 [arezey] Simplified underside
 0 !HISTORY 2013-09-14 [MMR1988] Reduced diameter of outer cylinder
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 0 !HISTORY 2016-09-22 [MagFors] Made space for pin
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 8 0 0 0 -20 0 -8 0 20 0 0 box4-1.dat
 0 BFC INVERTNEXT

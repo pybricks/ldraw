@@ -2,11 +2,12 @@
 0 Name: s\3626bp4ds01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 4 0 13 0 0 0 13 0 0 0 -13 1-16cyli.dat
 1 16 0 4 0 7.39104 0 3.06147 0 -6.4 0 -3.06147 0 7.39104 t16o6250.dat
@@ -146,7 +147,6 @@
 4 16 0 1.172 -11.5354 4.414 1.172 -10.658 3.794 0.305 -9.1606 0 0.305 -9.9148
 4 4 4.83 2.469 -11.6589 4.414 1.172 -10.658 0 1.172 -11.5354 0 2.469 -12.6191
 4 4 0 4 -13 4.975 4 -12.0106 4.83 2.469 -11.6589 0 2.469 -12.6191
-
 
 5 24 0 17 -13 0 4 -13 -4.9751 17 -12.0107 4.9751 17 -12.0107
 5 24 0 0 -8 0 0.3046 -9.9136 -3.0616 0 -7.3912 3.0616 0 -7.3912

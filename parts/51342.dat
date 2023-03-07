@@ -2,19 +2,20 @@
 0 Name: 51342.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Position of fang X = 89.675, Y = -70, Z = 6.75
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Harry Potter, Hungarian Horntail, Castle
+0 !KEYWORDS Castle, Harry Potter, Hungarian Horntail
 
 0 !HISTORY 2011-11-05 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2011-11-06 [angmarec]  File preparation for LDraw Parts Tracker
+0 !HISTORY 2011-11-06 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-01-04 [mikeheide] Added one quad and deleted one edgeline. Added needs work statement.
-0 !HISTORY 2014-02-09 [MagFors]   Made part symmetrical, subfiled
+0 !HISTORY 2014-02-09 [MagFors] Made part symmetrical, subfiled
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 1 16 10 -10 0 0 1 0 0 0 -1 -1 0 0 connhol3.dat
 1 16 10 10 0 0 1 0 0 0 -1 -1 0 0 connhol3.dat

@@ -2,13 +2,14 @@
 0 Name: s\40242s03.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2007-08-25 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
 0 !HISTORY 2008-04-10 [Holly-Wood] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 2 24 80 144 -10 80 144 10
 2 24 0 144 10 80 144 10
@@ -71,7 +72,7 @@
 4 16 76 144 -6 80 144 -10 80 144 10 76 144 6
 4 16 76 144 6 80 144 10 0 144 10 0 144 6
 0 BFC INVERTNEXT
-1 16 38 144 0 0 0 38 0 -4 0 -6 0 0 box4-4A.dat
+1 16 38 144 0 0 0 38 0 -4 0 -6 0 0 box4-4a.dat
 1 16 20 136 0.625 0 0 -20 0 1 0 9.375 0 0 rect1.dat
 1 16 40 95 0.625 0 1 0 0 0 -41 9.375 0 0 rect1.dat
 3 16 5.22 8.3 0 8.75 9 0 8.75 6.2 0

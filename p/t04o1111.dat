@@ -2,17 +2,18 @@
 0 Name: t04o1111.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Primitive UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
+
 0 // Major Radius: 9
 0 // Tube(Minor) Radius: 1
 0 // Segments(Sweep): 4/16 = 0.25
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.1111 0 0  0 0 0.1111  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.1111 0 0 0 0 0.1111 0 1 0 4-4edge.dat
 
 4 16 1 0.1111 0 0.9239 0.1111 0.3827 0.9632 0.1027 0.399 1.0425 0.1027 0
 4 16 1.0425 0.1027 0 0.9632 0.1027 0.399 0.9965 0.0786 0.4128 1.0786 0.0786 0

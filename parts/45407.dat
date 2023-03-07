@@ -2,7 +2,7 @@
 0 Name: 45407.dat
 0 Author: Niels Karsdorp [nielsk]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 
 0 !HISTORY 2009-02-01 [mikeheide] corrected underside
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 0 // Inner hole
 
@@ -83,10 +84,10 @@
 1 16 -40 30 0 0 1 0 0 0 -10 40 0 0 rect3.dat
 1 16 -50 40 0 10 0 0 0 1 0 0 0 40 rect.dat
 1 16 -60 44 0 0 1 0 0 0 4 40 0 0 rect3.dat
-1 16 -50 40 -30 0 0 1 0 1 0 -1 0 0 STUD.DAT
-1 16 -50 40 -10 0 0 1 0 1 0 -1 0 0 STUD.DAT
-1 16 -50 40 10 0 0 1 0 1 0 -1 0 0 STUD.DAT
-1 16 -50 40 30 0 0 1 0 1 0 -1 0 0 STUD.DAT
+1 16 -50 40 -30 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 -50 40 -10 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 -50 40 10 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 -50 40 30 0 0 1 0 1 0 -1 0 0 stud.dat
 0 //Right
 3 16 40 0 40 40 20 20 40 20 40
 3 16 35 0 20 40 20 20 40 0 40
@@ -108,10 +109,10 @@
 1 16 40 30 0 0 -1 0 0 0 -10 40 0 0 rect3.dat
 1 16 50 40 0 10 0 0 0 1 0 0 0 40 rect.dat
 1 16 60 44 0 0 -1 0 0 0 4 40 0 0 rect3.dat
-1 16 50 40 -30 0 0 1 0 1 0 -1 0 0 STUD.DAT
-1 16 50 40 -10 0 0 1 0 1 0 -1 0 0 STUD.DAT
-1 16 50 40 10 0 0 1 0 1 0 -1 0 0 STUD.DAT
-1 16 50 40 30 0 0 1 0 1 0 -1 0 0 STUD.DAT
+1 16 50 40 -30 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 50 40 -10 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 50 40 10 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 50 40 30 0 0 1 0 1 0 -1 0 0 stud.dat
 0 //Front
 1 16 -20 34 -40 1 0 0 0 0 1 0 1 0 peghole.dat
 1 16 0 34 -40 1 0 0 0 0 1 0 1 0 peghole.dat
@@ -198,19 +199,19 @@
 1 16 -20 28 0 8 0 0 0 16 0 0 0 8 4-4cyli.dat
 1 16 -20 28 0 6 0 0 0 -1 0 0 0 6 4-4edge.dat
 1 16 -20 28 0 8 0 0 0 -1 0 0 0 8 4-4edge.dat
-1 16 -20 44 0 1 0 0 0 -1 0 0 0 1 STUD4A.dat
+1 16 -20 44 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
 0 BFC INVERTNEXT
 1 16 0 28 0 6 0 0 0 16 0 0 0 6 4-4cyli.dat
 1 16 0 28 0 8 0 0 0 16 0 0 0 8 4-4cyli.dat
 1 16 0 28 0 6 0 0 0 -1 0 0 0 6 4-4edge.dat
 1 16 0 28 0 8 0 0 0 -1 0 0 0 8 4-4edge.dat
-1 16 0 44 0 1 0 0 0 -1 0 0 0 1 STUD4A.dat
+1 16 0 44 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
 0 BFC INVERTNEXT
 1 16 20 28 0 6 0 0 0 16 0 0 0 6 4-4cyli.dat
 1 16 20 28 0 8 0 0 0 16 0 0 0 8 4-4cyli.dat
 1 16 20 28 0 6 0 0 0 -1 0 0 0 6 4-4edge.dat
 1 16 20 28 0 8 0 0 0 -1 0 0 0 8 4-4edge.dat
-1 16 20 44 0 1 0 0 0 -1 0 0 0 1 STUD4A.dat
+1 16 20 44 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
 0 //Inner bottom front
 1 16 0 46 -36 0 0 40 2 0 0 0 -1 0 rect1.dat
 1 16 -10 35 -36 0 0 2 -7 0 0 0 -1 0 rect1.dat

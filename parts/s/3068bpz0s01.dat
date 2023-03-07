@@ -2,11 +2,12 @@
 0 Name: s\3068bpz0s01.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 4 0 -18.75 0 12.03 -18.75 0 10.49 -17.86 0 11.13 -15.1 0 13.41
 4 0 -18.75 0 -18.75 -17.33 0 -18.75 -16.57 0 -17.82 -15.07 0 -15.08

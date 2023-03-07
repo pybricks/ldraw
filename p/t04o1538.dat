@@ -2,7 +2,7 @@
 0 Name: t04o1538.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Primitive UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,11 +14,12 @@
 0 !HISTORY 2013-11-10 [cwdee] Corrected description spacing
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
+
 0 // Major Radius: 13
 0 // Tube(Minor) Radius: 2
 0 // Segments(Sweep): 4/16 = 0.25
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.1538 0 0  0 0 0.1538  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.1538 0 0 0 0 0.1538 0 1 0 4-4edge.dat
 
 4 16 1 0.1538 0 0.9239 0.1538 0.3827 0.9783 0.1421 0.4052 1.0589 0.1421 0
 4 16 1.0589 0.1421 0 0.9783 0.1421 0.4052 1.0244 0.1088 0.4243 1.1088 0.1088 0

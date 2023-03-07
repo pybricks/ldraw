@@ -2,17 +2,18 @@
 0 Name: 25376.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Neckwear
-0 !KEYWORDS Set 10270, Set 80104, Set 60235-11, Set 75964-16, Set 60200
-0 !KEYWORDS Set coltlnm-6, Set 70620, Set 60203, Set 10263
+0 !KEYWORDS Set 10263, Set 10270, Set 60200, Set 60203, Set 60235-11, Set 70620
+0 !KEYWORDS Set 75964-16, Set 80104, Set coltlnm-6
 
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2020-01-20 [UR] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 0 // Main
 

@@ -2,7 +2,7 @@
 0 Name: 973p46.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-10-04 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 4 14 -5.5 0 -10 -5 4 -10 5 4 -10 5.5 0 -10
 4 14 -5 4 -10 -3 8 -10 3 8 -10 5 4 -10

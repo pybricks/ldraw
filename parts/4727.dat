@@ -2,7 +2,7 @@
 0 Name: 4727.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2014-12-28 [Philo] BFCed, minor improvements
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 5 24 8 0 20 8 8 20 0 0 10 18 0 20
 5 24 -8 0 20 -8 8 20 0 0 10 -18 0 20

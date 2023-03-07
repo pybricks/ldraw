@@ -2,11 +2,12 @@
 0 Name: s\68881s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\68881s03.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\68881s03.dat
@@ -19,8 +20,7 @@
 1 16 0 -24 2 40 0 0 0 -1 0 0 0 2 rect.dat
 1 16 0 -24 18 40 0 0 0 -1 0 0 0 2 rect.dat
 
-1 16 0 -36 10 1 0 0  0 -3 0 0 0 1 stud3.dat
-
+1 16 0 -36 10 1 0 0 0 -3 0 0 0 1 stud3.dat
 
 5 24 0 -38.6754 20.21 0 -34.7241 40.0743 -5.2307 -34.7241 39.7314 5.2307 -34.7241 39.7314
 5 24 0 -34.7241 40.0743 0 -29.5896 55.2 -.7654 -29.5209 55.3522 .7654 -29.5209 55.3522

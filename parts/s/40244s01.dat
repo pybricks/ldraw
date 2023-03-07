@@ -2,13 +2,14 @@
 0 Name: s\40244s01.dat
 0 Author: Brent Jackson [bjackson]
 0 !LDRAW_ORG Subpart UPDATE 2004-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 3 16 3.827 0 9.239 2 0 9.602 2 0 2
 3 16 7.071 0 7.071 3.827 0 9.239 2 0 2

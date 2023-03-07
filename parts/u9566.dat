@@ -1,14 +1,15 @@
-0 ~Screw  22 x  6 Raised Countersunk Slotted 
+0 ~Screw  22 x  6 Raised Countersunk Slotted
 0 Name: u9566.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
 
-0 // For 593c01.dat - Electric  4.5V Battery Box  7 x 11 x  3 Type 2 (Complete)
+
+0 // For 593c01.dat - Electric 4.5V Battery Box 7 x 11 x 3 Type 2 (Complete)
 0 // Nomenclature: Screw length_(LDu) x thread_diameter_(LDu) {head type} {slot type}
 
 1 16 0 2 0 6 0 0 0 -1 0 0 0 6 4-4edge.dat

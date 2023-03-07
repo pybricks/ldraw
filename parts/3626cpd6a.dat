@@ -1,16 +1,17 @@
-0 Minifig Head Female with Magenta Eye Mask, Dark Red Lips, Grin with Teeth / Neutral 2-Sided Pattern  
+0 Minifig Head Female with Magenta Eye Mask, Dark Red Lips, Grin with Teeth / Neutral 2-Sided Pattern
 0 Name: 3626cpd6a.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Lego Batman Movie, Pink Power Batgirl, Bricklink 3626cpb1718
+0 !KEYWORDS Bricklink 3626cpb1718, Lego Batman Movie, Pink Power Batgirl
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 0 !HISTORY 2019-07-30 [cwdee] Update description
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 12.0104 0 4.9749 0 13 0 -4.9749 0 12.0104 1-8cyli.dat
@@ -43,7 +44,6 @@
 4 16 0 .305 9.914 0 0 8 3.0616 0 7.3912 3.794 .305 9.159
 4 16 3.794 .305 9.159 3.0616 0 7.3912 5.6568 0 5.6568 7.01 .305 7.01
 4 16 7.01 .305 7.01 5.6568 0 5.6568 7.3911 0 3.0615 9.159 .305 3.794
-
 
 0 // Face Pattern Front
 4 26 -9.192 4 -9.192 -10.097 4 -7.839 -10.29 4.53 -7.55 -10.54 5.65 -7.176
@@ -960,8 +960,6 @@
 4 16 0 19.828 11.535 4.414 19.828 10.658 3.794 20.695 9.159 0 20.695 9.914
 4 16 4.975 17 12.011 9.192 17 9.192 8.923 18.531 8.923 4.83 18.531 11.659
 4 16 4.414 19.828 10.658 4.83 18.531 11.659 8.923 18.531 8.923 8.157 19.828 8.157
-
-
 
 0 // Cond Lines
 0 // FACE Front Lines 3-8

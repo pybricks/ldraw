@@ -2,13 +2,14 @@
 0 Name: s\11435s02.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Subpart UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2021-05-09 [Holly-Wood] Smoothed surface, fixed rounding errors, added surface at neck, changed origin
 0 !HISTORY 2021-07-03 [MagFors] Made pattern subfiles
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 3 16 15.9177 21.912 95.979 6.6798 22.111 97.809 5.8057 15.307 83.244
 3 16 15.9177 21.912 95.979 5.8057 15.307 83.244 12.9098 15.216 81.472

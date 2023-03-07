@@ -2,7 +2,7 @@
 0 Name: s\4209s01.dat
 0 Author: Niels Karsdorp [nielsk]
 0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2009-10-19 [anathema] rewrote pattern
 0 !HISTORY 2012-01-18 [Steffen] hard-coded red flame after discussion, making file more usable
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 4 14 80 0 -107 81 0 -104 76 0 -100 71 0 -107
 4 14 62 0 -104 71 0 -107 76 0 -100 73 0 -96

@@ -2,12 +2,14 @@
 0 Name: u568.dat
 0 Author: Jeremie Guillaume [JnO]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Set 690-1, Bricklink x568
+
+0 !KEYWORDS Bricklink x568, Set 690-1
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 -140 0 0 1 0 0 0 1 0 0 0 1 stug-8x8.dat
 1 16 -50 0 0 1 0 0 0 1 0 0 0 1 stug-8x1.dat

@@ -2,12 +2,14 @@
 0 Name: s\15427s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2015-12-29 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 4 16 10.813 1.311 3.935 12.283 4.507 4.471 12.873 4.507 2.27 11.332 1.311 1.998
 4 16 9.965 1.311 5.753 11.32 4.507 6.536 12.283 4.507 4.471 10.813 1.311 3.935

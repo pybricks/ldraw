@@ -2,14 +2,14 @@
 0 Name: 98138p8f.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Dragon Dance, Set 80102
-0 !KEYWORDS Bricklink 98138pb098
+0 !KEYWORDS Bricklink 98138pb098, Dragon Dance, set 80102
 
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s02.dat
 1 16 0 0 0 0.5 0 0 0 1 0 0 0 .5 4-4rin19.dat

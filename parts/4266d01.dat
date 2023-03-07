@@ -2,13 +2,14 @@
 0 Name: 4266d01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Shortcut UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 1682, Space shuttle, Rocket, Tank, Bricklink 4266pb03
+0 !KEYWORDS Bricklink 4266pb03, Rocket, Set 1682, Space Shuttle, Tank
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 4266.dat
 1 16 0 -38 0 -1 0 0 0 1 0 0 0 -1 163345ac01.dat

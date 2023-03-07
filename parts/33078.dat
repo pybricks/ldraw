@@ -2,15 +2,17 @@
 0 Name: 33078.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Sausage arc radius = 34 ldu, origin 0 0 -34
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Hot Dog, Frankfurter, Wiener
+0 !KEYWORDS Frankfurter, Hot Dog, Wiener
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 20.698 0 -7.027 -0.97402 1.26937 0 0 0 -1.6 -1.26937 -0.97402 0 r04o1500.dat
 1 16 20.698 0 -7.027 0 1.26937 0.97402 -1.6 0 0 0 -0.97402 1.26937 r04o1500.dat

@@ -2,15 +2,15 @@
 0 Name: 50018g.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-
 0 !KEYWORDS Minifig Accessory Pack #11
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // Handle Bar - Blade Holder Common Parts
 
@@ -334,7 +334,7 @@
 1 16 0 0 0 1 0 0 0 .5 -.86603 0 -.86603 -.5 s\50018gs01.dat
 1 16 0 0 0 1 0 0 0 .86603 -.5 0 -.5 -.86603 s\50018gs01.dat
 
-0 // Intersection Lines Cover Side 
+0 // Intersection Lines Cover Side
 2 24 -1.8744 2.0822 -7.7707 -1.933 3.0953 -7.614
 2 24 -1.933 3.0953 -7.614 -1.936 3.1505 -7.6055
 2 24 -1.993 4.1532 -7.4504 -1.936 3.1505 -7.6055

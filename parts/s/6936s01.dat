@@ -2,13 +2,14 @@
 0 Name: s\6936s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 0 !HISTORY 2018-01-29 [Philo] Used more primitives
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 2 24 5.1737 0 -2.143 5.241 0 -1.8
 2 24 5.241 0 -1.8 9.6 0 -2.4

@@ -2,11 +2,12 @@
 0 Name: s\90508p01a.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 4 16 0 0 0 3.4443 0.6849 0 3.4443 1.4319 3.4443 0 0.6849 3.4443
 4 16 6.0537 2.6483 0.9547 5.7194 2.7115 2.1936 3.4443 1.4319 3.4443 3.4443 0.6849 0

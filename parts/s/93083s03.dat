@@ -2,13 +2,14 @@
 0 Name: s\93083s03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-06 {LEGO/Unity Microgame} Original part shape
 0 !HISTORY 2020-12-10 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 3 16 0 -31.277 37.317 0 -33.145 42.392 -2.307 -33.05 43.022
 3 16 -2.307 -33.05 43.022 -2.136 -30.376 38.309 0 -31.277 37.317

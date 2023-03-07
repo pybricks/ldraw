@@ -2,7 +2,7 @@
 0 Name: 44658.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -16,6 +16,7 @@
 0 !HISTORY 2016-04-14 [PTadmin] Renamed from 37.dat
 0 !HISTORY 2016-04-15 [Holly-Wood] Fixed gap, BFCed, primitive substitution, added cond. lines, fixed edge color
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 2 24 -3.048 2 0 -2.922 2 -0.539
 2 24 2.392 2 1.757 1.757 2 2.392

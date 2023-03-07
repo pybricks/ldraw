@@ -2,7 +2,7 @@
 0 Name: duplopin.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Primitive UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2010-04-24 [mikeheide] Fixed intersection problems
 0 !HISTORY 2013-01-13 [MMR1988] added two edges, rectified, removed overlapping quads, changed code order
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // pin
 

@@ -2,16 +2,17 @@
 0 Name: 33322.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS diadem, bride, Belville, Friends, Disney Princess
+0 !KEYWORDS Belville, bride, diadem, Disney Princess, Friends
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-10-05 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 16 0 6.5 0 1.875 0 0 0 -6.5 0 0 0 1.875 4-4cylc.dat
 4 16 -1.105 -17.524 -3.354 0 -17.524 -2.896 0 -16.419 -3.354 -0.781 -16.419 -3.677

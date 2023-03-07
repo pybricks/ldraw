@@ -2,7 +2,7 @@
 0 Name: bushloc3.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Primitive UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -16,6 +16,7 @@
 0 !HISTORY 2018-10-09 [MagFors] Increased precision
 0 !HISTORY 2018-11-01 [mkennedy] used box2 primitive
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 2 24 6 0 0 5.7717 0 -1.1481
 2 24 5.5434 0 -2.2962 5.6022 0 -2.0004

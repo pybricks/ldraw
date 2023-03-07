@@ -2,13 +2,14 @@
 0 Name: s\24196s03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2018-05-08 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 3 16 23.152 31.374 -59.248 24.893 44.348 -54.946 27.467 27.978 -42.702
 3 16 27.467 27.978 -42.702 24.893 44.348 -54.946 32.238 43.4 -31.712

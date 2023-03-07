@@ -2,10 +2,11 @@
 0 Name: 6267.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2002-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS window, windshield, divers, clear, slope, 12x4x2, model team
+
+0 !KEYWORDS 12x4x2, clear, Divers, Model Team, slope, Window, windshield
 
 0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
 0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
@@ -14,6 +15,7 @@
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 2 24 -120 96 20 -100 96 20
 2 24 -100 96 20 -100 96 0
@@ -33,7 +35,7 @@
 2 24 116 96 16 116 96 -10
 1 16 110 96 -10 6 0 0 0 1 0 0 0 -6 1-4edge.dat
 2 24 110 96 -16 -110 96 -16
-1 16 -110 96 -10 -6 0 0 0 1 0 0 0  -6 1-4edge.dat
+1 16 -110 96 -10 -6 0 0 0 1 0 0 0 -6 1-4edge.dat
 2 24 -116 96 -10 -116 96 16
 2 24 -116 92 16 -104 92 16
 2 24 -104 92 16 -104 92 -4
@@ -146,7 +148,7 @@
 1 16 110 88 -10 6 0 0 0 1 0 0 0 -6 1-4disc.dat
 4 16 100 88 0 100 88 20 116 88 20 116 88 -10
 4 16 120 96 20 120 0 20 116 4 20 116 88 20
-4 16 116 4 20 120 0 20 -120 0 20 -116 4 20 
+4 16 116 4 20 120 0 20 -120 0 20 -116 4 20
 4 16 -116 4 20 -120 0 20 -120 96 20 -116 88 20
 4 16 -116 88 20 -116 88 -10 -116 4 10 -116 4 20
 0 BFC INVERTNEXT

@@ -2,13 +2,14 @@
 0 Name: 4533401f.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 10188, Star Wars
+0 !KEYWORDS Set 10188, Star Wars
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 -0.25 0 36.25 0 0 0 0.25 0 0 0 25 box5-12.dat
 4 15 0.1 -0.25 25 -34 -0.25 25 0.1 -0.25 0 34 -0.25 0

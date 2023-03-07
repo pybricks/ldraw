@@ -2,13 +2,13 @@
 0 Name: 973ph2.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Harry Potter, Hogwarts School of Witchcraft and Wizardry
-0 !KEYWORDS Slytherin House, Salazar Slytherin, Snake, Green and Silver
-0 !KEYWORDS Draco Malfoy, Vincent Crabbe, Gregory Goyle, Tom Riddle
+0 !KEYWORDS Draco Malfoy, Green and Silver, Gregory Goyle, Harry Potter
+0 !KEYWORDS Hogwarts School of Witchcraft and Wizardry, Salazar Slytherin
+0 !KEYWORDS Slytherin House, Snake, Tom Riddle, Vincent Crabbe
 
 0 !CMDLINE -c7
 
@@ -17,13 +17,14 @@
 0 !HISTORY 2013-12-03 [MagFors] Corrected overlapping quads
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
+
 0 // Torso
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
 4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
 4 16 -19 32 10 -19 29 10 19 29 10 19 32 10
-1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.DAT
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
 0 // Pattern
 0 // Shirt and Sweater details
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973ph0a.dat

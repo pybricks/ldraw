@@ -2,15 +2,16 @@
 0 Name: 3069bpcg.dat
 0 Author: Bertrand Lequy [Berth]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 70358, Set 70357, Set 70324, Nexo
-0 !KEYWORDS Bricklink 3069bpb0442, Rebrickable 3069bpr0169
+0 !KEYWORDS Bricklink 3069bpb0442, Nexo, Rebrickable 3069bpr0169, Set 70324
+0 !KEYWORDS set 70357, Set 70358
 
 0 !HISTORY 2022-03-02 [MagFors] Resized pattern and corrected colours
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 4 0 -15.92 0 8.66 -18.26 0 6.27 -17.55 0 5.99 -15.56 0 8.03

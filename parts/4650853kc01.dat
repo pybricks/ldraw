@@ -2,12 +2,14 @@
 0 Name: 4650853kc01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 3063, Flying club
+0 !KEYWORDS Flying Club, Set 3063
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 3 323 13.1 4.5992 -.0953 13 4.2369 1.0487 8.4 4.569 0
 3 15 -5 4.418 .4767 -7.8 4.4482 .3813 -8.4 4.569 0

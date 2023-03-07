@@ -2,15 +2,15 @@
 0 Name: 3626bp69.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS face, smile, smiley, messy
-0 !KEYWORDS brown eyebrows, arched eyebrows, radio, microphone
-0 !KEYWORDS earphone, headphones, communications, astronaut, cosmonaut, pilot
-0 !KEYWORDS Space, Space Police 2, Space Police II, SP2, Exploriens, Unitron
-0 !KEYWORDS Launch Command, Space Port, Star Wars, Studios, Aquanauts
+0 !KEYWORDS Aquanauts, arched eyebrows, astronaut, brown eyebrows
+0 !KEYWORDS communications, cosmonaut, earphone, Exploriens, face, headphones
+0 !KEYWORDS Launch Command, messy, microphone, pilot, radio, smile, smiley, SP2
+0 !KEYWORDS Space, Space Police 2, Space Police II, space port, Star Wars
+0 !KEYWORDS Studios, Unitron
 
 0 !CMDLINE -c14
 
@@ -19,6 +19,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-10-22 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs04.dat
@@ -34,7 +35,6 @@
 5 24 4.9751 4 -12.01037 4.9752 17 -12.0104 9.192 4 -9.192 0 4 -13
 5 24 9.192 4 -9.192 9.192 17 -9.192 12.0107 4 -4.9751 4.9751 4 -12.01037
 5 24 12.0107 4 -4.9751 12.0107 17 -4.9751 13 4 0 9.192 4 -9.192
-
 
 0 // hair
 4 6 -9.19215 4 -9.19215 -12.0107 4 -4.9751 -12.01 6 -4.975 -9.192 5.25 -9.192

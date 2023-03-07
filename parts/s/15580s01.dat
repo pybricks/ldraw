@@ -2,13 +2,14 @@
 0 Name: s\15580s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-12 {LEGO/Unity Microgame} Original part shape
 0 !HISTORY 2021-01-24 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 2 24 19.8 26.598 -48.536 20.657 25.972 -48.4784
 2 24 20.657 25.972 -48.4784 21.247 33.1624 -58.5485
@@ -172,7 +173,6 @@
 1 16 20 4 14 1.5 0 0 0 91 0 0 0 -2 box4-1.dat
 1 16 34 4 0 0 0 -2 0 91 0 1.5 0 0 box4-1.dat
 1 16 36 59 -40 0 -4 0 0 0 36 -1.5 0 0 box4-4a.dat
-
 
 4 16 36 4 -16 36 4 16 36 96 16 36 72 -96
 4 16 40 96 -100 36 96 -96 36 96 16 40 96 20

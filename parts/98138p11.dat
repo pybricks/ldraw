@@ -2,13 +2,15 @@
 0 Name: 98138p11.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 80012, Monkie Kid, Monkey King, Warrior Mech, Bricklink 98138pb146
+0 !KEYWORDS Bricklink 98138pb146, Monkey King, Monkie Kid, Set 80012
+0 !KEYWORDS Warrior Mech
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s01.dat
 1 16 0 0 0 9 0 0 0 1 0 0 0 9 4-4ering.dat

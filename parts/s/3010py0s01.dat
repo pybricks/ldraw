@@ -2,11 +2,12 @@
 0 Name: s\3010py0s01.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 82 0 .5 -10 0 4.75 -10 4.5 4.75 -10 6.25 .5 -10
 4 82 4.25 5.5 -10 0 5.5 -10 0 14.25 -10 .75 14.25 -10

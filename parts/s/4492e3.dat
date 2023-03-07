@@ -2,7 +2,7 @@
 0 Name: s\4492e3.dat
 0 Author: Sascha Broich
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2014-12-07 [MagFors] Made BFC compliant
 0 !HISTORY 2014-12-10 [MagFors] Recreated cond-lines
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 0 // black of eye
 3 16 7.438 -47.75 -34.5 7.433 -47.8071 -34.7871 7.361 -45.6902 -34.9568

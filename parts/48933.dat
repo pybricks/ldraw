@@ -2,13 +2,14 @@
 0 Name: 48933.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !HISTORY 2007-08-25 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
 0 !HISTORY 2008-03-03 [Holly-Wood] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 2 24 20 0 -10 40 20 -10
 2 24 -20 0 -10 -40 20 -10

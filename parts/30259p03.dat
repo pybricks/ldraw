@@ -2,11 +2,12 @@
 0 Name: 30259p03.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 4 16 19.582 15.276 -9 19.776 16 -9 -19.776 16 -9 -19.582 15.276 -9
 4 16 -21.174 12.52 -9 -21.898 12.326 -9 -2.121 -21.927 -9 -1.591 -21.397 -9

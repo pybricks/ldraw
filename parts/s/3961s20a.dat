@@ -1,12 +1,13 @@
-0 ~Dish  8 x  8 Inverted With #10 Wedge Pattern 
+0 ~Dish  8 x  8 Inverted With #10 Wedge Pattern
 0 Name: s\3961s20a.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 0 4.5 12.778 70.5 1 0 0 0.023 1 0.35 0 0 1 2-4ring3.dat
 1 0 4.5 11.203 66 -1 0 0 -0.023 1 -0.35 0 0 -1 2-4ring3.dat

@@ -2,13 +2,14 @@
 0 Name: s\003238s6.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 0 !HISTORY 2020-10-30 [MMR1988] Removed T-junctions, reduced mesh
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 15 -0.6 0 -3.4 -14 0 1 -9 0 -4 -0.6 0 -4.6
 3 15 -0.6 0 -4.6 -5 0 -18 0 0 -13

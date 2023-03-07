@@ -1,14 +1,16 @@
-0 Minifig Head with Red Eyes with White Pupils and Missing Teeth Pattern 
+0 Minifig Head with Red Eyes with White Pupils and Missing Teeth Pattern
 0 Name: 3626bpc15.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Collectible Minifigures, CMF, Series 1, Zombie, Set 8683, Bricklink 3626bpb0436
+0 !KEYWORDS Bricklink 3626bpb0436, CMF, Collectible Minifigures, series 1
+0 !KEYWORDS Set 8683, zombie
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 4 0 12.0104 0 4.9749 0 13 0 -4.9749 0 12.0104 5-8cyli.dat

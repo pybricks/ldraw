@@ -2,11 +2,12 @@
 0 Name: s\29117bs01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 16 0 18.4 -4.1 0 18.4 -1.6 2.9 18.07 -1.6 2.43 18.11 -4.1
 3 16 0.1775 17.1664 -4.0887 0.4007 16.3489 -1.5993 0 17.2677 -4.09

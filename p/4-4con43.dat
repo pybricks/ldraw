@@ -2,11 +2,12 @@
 0 Name: 4-4con43.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Primitive UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 4 16 43 1 0 39.7277 1 16.4561 40.6516 0 16.8388 44 0 0
 4 16 39.7277 1 16.4561 30.4053 1 30.4053 31.1124 0 31.1124 40.6516 0 16.8388

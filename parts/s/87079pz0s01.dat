@@ -2,11 +2,12 @@
 0 Name: s\87079pz0s01.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 0 -33.5 0 -13 -0.5 0 0 0 1 0 0 0 -0.5 1-4ring2.dat
 1 0 -33.5 0 -13 -0.5 0 0 0 1 0 0 0 -0.5 1-4ring1.dat

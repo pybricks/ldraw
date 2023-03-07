@@ -2,15 +2,16 @@
 0 Name: 3961ps0.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Round, Set 4488, BrickLink 3961px1
+0 !KEYWORDS BrickLink 3961px1, Round, Set 4488
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 0 !HISTORY 2020-07-07 [ejboer] Moved stud group to main file
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\3961s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat

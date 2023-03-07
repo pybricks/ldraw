@@ -1,12 +1,15 @@
 0 Tyre 81.6 x 15 Motorcycle
-0 Name: 2902.dat            
+0 Name: 2902.dat
 0 Author: Damien Duquennoy
 0 !LDRAW_ORG Part UPDATE 2000-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+0 BFC NOCERTIFY
 
 0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
 0 !HISTORY 2007-05-20 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 1 16 0 0 0 0 -.006981 .999976 0 .999976 .006981 -1 0 0 s\2902s01.dat
 1 16 0 0 0 0 -.265556 .964095 0 .964095 .265556 -1 0 0 s\2902s01.dat

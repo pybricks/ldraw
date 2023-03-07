@@ -2,7 +2,7 @@
 0 Name: logo5.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Primitive UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2014-01-02 [Steffen] converted to primitive
 0 !HISTORY 2015-03-04 [MagFors] increased the decimals to four
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 2 24 2.01 0 -4.6875 2.1162 0 -4.6664
 2 24 2.1162 0 -4.6664 2.2062 0 -4.6062

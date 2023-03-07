@@ -2,15 +2,17 @@
 0 Name: 48729a.dat
 0 Author: Andreas Weissenburg [grubaluk]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !KEYWORDS Claw hand, Mechanical
 
 0 !HISTORY 2007-11-02 [mikeheide] added missing edges
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 0 !HISTORY 2016-06-27 [PTadmin] Renamed from 48729
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 6.4 0 4 0 0 0 22.6 0 0 0 4 4-4cyli.dat
 1 16 0 29 0 4 0 0 0 2 0 0 0 4 4-8sphe.dat

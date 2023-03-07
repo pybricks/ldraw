@@ -2,11 +2,12 @@
 0 Name: s\32533p00s05.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 16 17.5 -14.111 30.31 13.3945 -14.1115 32.3365 14 -13.0857 28.248 15.6667 -13.0071 27.1359
 3 16 13.3945 -14.1115 32.3365 12.0908 -13.0858 29.1904 14 -13.0857 28.248

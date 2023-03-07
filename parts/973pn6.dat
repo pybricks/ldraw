@@ -2,19 +2,20 @@
 0 Name: 973pn6.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Castle, throwing star, Japan, Japanese, honor, ki, assassin, spy
-0 !KEYWORDS master of disguise, ninjitsu, dagger, scale mail, robe
+0 !KEYWORDS assassin, Castle, dagger, honor, Japan, japanese, ki
+0 !KEYWORDS master of disguise, ninjitsu, Robe, scale mail, spy, throwing star
 
 0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
 0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-01-24 [MagFors] Modified with WINDZ for BFC compliance, inlined pattern subfile
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10

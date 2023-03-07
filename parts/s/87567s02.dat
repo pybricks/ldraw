@@ -2,11 +2,12 @@
 0 Name: s\87567s02.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 4 16 0 -7.431 -38.1533 0.44 -7.431 -38.1533 0.546 -8.592 -38.976 0 -8.592 -38.976
 3 16 1.223 -11.7014 -40.6479 0 -11.8487 -40.7217 1.053 -10.5511 -40.4235

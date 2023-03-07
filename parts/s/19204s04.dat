@@ -2,11 +2,12 @@
 0 Name: s\19204s04.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 16 -2.071 25.407 27.508 -3.323 25.966 27.213 -3.529 24.855 26.64 -2.541 23.505 26.486
 3 16 -3.345 21.908 25.479 -2.541 23.505 26.486 -3.842 23.911 25.635

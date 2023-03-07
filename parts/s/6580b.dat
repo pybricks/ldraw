@@ -1,8 +1,8 @@
 0 ~Wheel Rim 23 x 22 Offroad - Centre Subpart
 0 Name: s\6580b.dat
-0 Author: Jeff Boen
+0 Author: Jeff Boen [onyx]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 0 !HISTORY 2022-01-16 [MagFors] Reshaped axlehole
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 1 0 0 0 20 0 -.86603 0 -.5 -.5 0 .86603 axlehol6.dat
 3 16 21 -6.1885 1.3587 21 -5.9489 -.7831 21 -4.7603 3.6527

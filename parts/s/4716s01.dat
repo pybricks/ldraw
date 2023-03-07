@@ -2,7 +2,7 @@
 0 Name: s\4716s01.dat
 0 Author: Remco Braak [remco1974]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 0 !HISTORY 2019-03-02 [MagFors] Removed inner surfaces, subfiled end surface
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 3 16 0 7 -4 -2.6788 6.4672 -3.5 -4.8601 11.7333 -1.5
 3 16 -4.8601 11.7333 -1.5 0 12.7 -2 0 7 -4

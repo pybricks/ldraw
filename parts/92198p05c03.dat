@@ -2,12 +2,14 @@
 0 Name: 92198p05c03.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Shortcut Physical_Colour UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS set 3188, set 3189, set 30101, set 30108, set 11902
+
+0 !KEYWORDS set 11902, set 30101, set 30108, Set 3188, Set 3189
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 27 0 0 0 1 0 0 0 1 0 0 0 1 92251p01c01.dat
 1 78 0 -64 0 1 0 0 0 1 0 0 0 1 92241p05c01.dat

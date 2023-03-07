@@ -2,11 +2,12 @@
 0 Name: u9190c02.dat
 0 Author: Johann Eisner [technicbasics]
 0 !LDRAW_ORG Shortcut UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 72 48 -7 174.7 0 0 1 0 1 0 -1 0 0 58124c01.dat
 1 16 0 -20.243 -5.843 0 0 1 -.77937 2.52364 0 -.62656 -3.13912 0 u9190.dat

@@ -1,8 +1,8 @@
 0 Technic Beam  3 x  3 x  0.5 Liftarm Bent 90
 0 Name: 32056.dat
-0 Author: Lutz Uhlmann
+0 Author: Lutz Uhlmann [El-Lutzo]
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,15 +14,16 @@
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant; use npeghole.dat primitive; use ring8 and ring3; add optional lines (2004-05-13)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
+
 1 16 10 -5 0 0 0 -1 0 3 0 1 0 0 npeghole.dat
 1 16 10 5 0 0 0 -1 0 -3 0 1 0 0 npeghole.dat
 1 16 0 -5 0 -9 0 0 0 1 0 0 0 -9 1-4edge.dat
-1 16 0 -5 0 -3 0 0 0 1 0 0 0 -3 2-4Ring2.dat
-1 16 0 5 0 3 0 0 0 -1 0 0 0 -3 2-4Ring2.dat
-1 16 40 -5 0 0 0 3 0 1 0 -3 0 0 2-4Ring2.dat
-1 16 40 5 0 0 0 3 0 -1 0 3 0 0 2-4Ring2.dat
-1 16 0 -5 40 3 0 0 0 1 0 0 0 3 2-4Ring2.dat
-1 16 0 5 40 -3 0 0 0 -1 0 0 0 3 2-4Ring2.dat
+1 16 0 -5 0 -3 0 0 0 1 0 0 0 -3 2-4ring2.dat
+1 16 0 5 0 3 0 0 0 -1 0 0 0 -3 2-4ring2.dat
+1 16 40 -5 0 0 0 3 0 1 0 -3 0 0 2-4ring2.dat
+1 16 40 5 0 0 0 3 0 -1 0 3 0 0 2-4ring2.dat
+1 16 0 -5 40 3 0 0 0 1 0 0 0 3 2-4ring2.dat
+1 16 0 5 40 -3 0 0 0 -1 0 0 0 3 2-4ring2.dat
 1 16 0 5 0 -9 0 0 0 1 0 0 0 -9 1-4edge.dat
 1 16 0 -5 0 -9 0 0 0 10 0 0 0 -9 1-4cyli.dat
 1 16 0 -5 0 1 0 0 0 10 0 0 0 1 axlehol4.dat

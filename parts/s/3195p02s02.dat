@@ -2,11 +2,12 @@
 0 Name: s\3195p02s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 4 16 0 60.8481 33.7586 0 56 67 0 56 1 0 60.9683 25.58
 4 1 0 62.1604 5.5315 0 60.9683 9.0408 0 60.9683 3.4405 0 62.1604 3.4405

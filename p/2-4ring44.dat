@@ -2,11 +2,12 @@
 0 Name: 2-4ring44.dat
 0 Author: Kevin Roach [KROACH]
 0 !LDRAW_ORG Primitive UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 4 16 45 0 0 41.5755 0 17.2215 40.6516 0 16.8388 44 0 0
 4 16 41.5755 0 17.2215 31.8195 0 31.8195 31.1124 0 31.1124 40.6516 0 16.8388

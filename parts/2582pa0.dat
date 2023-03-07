@@ -2,15 +2,16 @@
 0 Name: 2582pa0.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Aquazone, Aquanauts
+0 !KEYWORDS Aquanauts, Aquazone
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2582s01.dat 
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2582s01.dat
 0 // Front
 4 16 -.758 25.817 -30 -.758 31.583 -30 .758 31.583 -30 .758 25.817 -30
 4 16 -.758 51.017 -30 -.758 56.783 -30 .758 56.783 -30 .758 51.017 -30

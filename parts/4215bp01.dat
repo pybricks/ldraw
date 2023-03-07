@@ -2,13 +2,14 @@
 0 Name: 4215bp01.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Set 10268
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 16 -40 0 10 40 0 10 39.27 27.9425 10 -39.27 27.9425 10
 4 16 -40 0 10 -39.27 27.9425 10 -39.27 44.0575 10 -40 72 10

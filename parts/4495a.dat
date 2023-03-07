@@ -2,11 +2,12 @@
 0 Name: 4495a.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS swallowtail, pennant, banner, ensign, jack, pendant, pennon, standard, streamer
+0 !KEYWORDS banner, ensign, jack, Pendant, pennant, pennon, standard, streamer
+0 !KEYWORDS swallowtail
 
 0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
 0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
@@ -19,10 +20,11 @@
 0 !HISTORY 2012-01-17 [Philo] Renamed from 4495 and retitled to distinguish the two variants
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
+
 0 // Hoist end
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
-1 16 0 20 0 1 0 0 0 -1 0 0 0 1 STUD4A.dat
+1 16 0 20 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
 1 16 0 20 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 1 16 0 20 0 2 0 0 0 -1 0 0 0 -2 4-4ring2.dat
 1 16 0 20 0 4 0 0 0 1 0 0 0 4 4-4edge.dat

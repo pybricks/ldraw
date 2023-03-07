@@ -2,14 +2,15 @@
 0 Name: 194535b.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 1590-2, Road service, Netherlands, Flag
-0 !KEYWORDS Bricklink 1590.2stk01, Rebrickable 194535, Brickowl 599539
+0 !KEYWORDS Bricklink 1590.2stk01, Brickowl 599539, Flag, Netherlands
+0 !KEYWORDS Rebrickable 194535, Road service, Set 1590-2
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 -0.25 0 30 0 0 0 0.25 0 0 0 24 box5-12.dat
 3 0 -23.87 -0.25 -3.86 -28.21 -0.25 -4.8 -24.21 -0.25 -4.8

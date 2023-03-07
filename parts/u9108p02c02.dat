@@ -2,14 +2,15 @@
 0 Name: u9108p02c02.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Shortcut Physical_Colour UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Set 137
-0 !KEYWORDS Charlie Cat, Charlie le chat, Gato Minino
-0 !KEYWORDS Charly Kater, Tony il gatto
+
+0 !KEYWORDS Charlie Cat, Charlie le chat, Charly Kater, Gato Minino, Set 137
+0 !KEYWORDS Tony il gatto
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 0 // needs work: head color not yet confirmed to be correct: should it be color 191 or 366 or 462 or a new one?
 

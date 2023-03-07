@@ -2,10 +2,11 @@
 0 Name: 41879a.dat
 0 Author: Mark Kennedy [mkennedy]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Stubbies, child
+
+0 !KEYWORDS child, Stubbies
 
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
@@ -15,6 +16,7 @@
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 0 !HISTORY 2018-08-03 [MagFors] used hipstud primitive
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\41879s01.dat
 1 16 10 0 0 1 0 0 0 1 0 0 0 1 hipstud.dat

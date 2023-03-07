@@ -2,18 +2,19 @@
 0 Name: 30161pa1.dat
 0 Author: George Barnes [glbarnes]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Adventurers, Freestyle, car roof-hinge, fold-down, flip-down
-0 !KEYWORDS wipers, dirty, cracked, bullet-hole, panel
+0 !KEYWORDS Adventurers, bullet-hole, car roof-hinge, cracked, dirty, flip-down
+0 !KEYWORDS fold-down, Freestyle, Panel, wipers
 
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2013-03-06 [MMR1988] removed t-junctions, triangles/quad optimization
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30161s01.dat
 
@@ -166,6 +167,5 @@
 4 16 -33.9 -17.5 -2 -32.1 -17.9 -2 -33 -19.3 -2 -33.9 -18.9 -2
 4 16 -32 -19.2 -2 -32.6 -19.3 -2 -33 -19.3 -2 -32.1 -17.9 -2
 4 16 -32.1 -17.9 -2 -31.7 -18.1 -2 -31.7 -18.4 -2 -32 -19.2 -2
-
 
 4 16 -40 -4 -2 40 -4 -2 40 -6 -2 -40 -6 -2

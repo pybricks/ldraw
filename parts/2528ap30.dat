@@ -2,19 +2,20 @@
 0 Name: 2528ap30.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS bi-corner, bicorn, bicorner, 2-corner, cap, chapeau bras
-0 !KEYWORDS chapeau-bras, fore and aft hat, cocked hat, Pirates, pirate
-0 !KEYWORDS Brickbeard, plume, feather, captain
-0 !KEYWORDS Bricklink 2528pb03, set 6242, set 6243, set 6253, set 31109
+0 !KEYWORDS 2-corner, bi-corner, bicorn, bicorner, Brickbeard
+0 !KEYWORDS Bricklink 2528pb03, Cap, captain, chapeau bras, chapeau-bras
+0 !KEYWORDS cocked hat, Feather, fore and aft hat, Pirate, Pirates, plume
+0 !KEYWORDS set 31109, Set 6242, set 6243, Set 6253
 
 0 !HISTORY 2011-12-29 [MagFors] Original design as 2528p30
 0 !HISTORY 2021-04-21 [MagFors] Adapted to corrected geometry
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2528as01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\2528as03.dat

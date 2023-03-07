@@ -2,15 +2,16 @@
 0 Name: 61800.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bionicle, Tail, Fin
+0 !KEYWORDS bionicle, fin, Tail
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2015-03-26 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 3 16 5.536 -9.252 20 6.064 -7.916 17.042 7.526 -5.377 20
 3 16 7.526 -5.377 17.055 7.526 -5.377 20 6.064 -7.916 17.042

@@ -2,7 +2,7 @@
 0 Name: 92083.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2019-01-25 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 -5 0 1 0 0 0 -1.25 0 0 0 1 stud4.dat
 1 16 0 -5 0 8.66667 0 0 0 -1 0 0 0 8.66667 4-4disc.dat
@@ -372,7 +373,6 @@
 2 24 16.101 33.644 10.312 14.457 34.326 10.311
 2 24 14.457 34.326 10.311 12.635 34.161 10.313
 2 24 14.686 26.956 -8.753 15.06 28.744 -10.237
-
 
 3 16 4.134 -10.471 1.604 4.06 -10.436 2.414 -0.572 -11.308 1.098
 3 16 -0.572 -11.308 1.098 4.06 -10.436 2.414 -0.278 -11.16 2.196

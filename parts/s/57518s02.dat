@@ -2,13 +2,14 @@
 0 Name: s\57518s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2021-02-06 [GeraldLasser] Subparted from 57518s01 by Philo
 0 !HISTORY 2022-03-14 [MagFors] Closed gaps and added condlines
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // Clip
 3 16 8 -9 -37 14 -9 -37 14 -10 -37

@@ -2,13 +2,12 @@
 0 Name: s\6115204ds02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Sticker
-
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 4 16 -8 0 13.856 -9.55 0 11.6 -3.35 0 6.9 -6.123 0 14.782
 4 16 -4.141 0 15.455 -6.123 0 14.782 -3.35 0 6.9 -2.1 0 10

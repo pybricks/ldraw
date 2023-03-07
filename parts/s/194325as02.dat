@@ -2,7 +2,7 @@
 0 Name: s\194325as02.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2017-08-20 [MagFors] Use cylinder primitive with conditional lines
 0 !HISTORY 2020-10-09 [Holly-Wood] Change winding to CCW, streamlined pattern, used unificator
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 4 -95 -.25 -7.359 -95 -.25 0 -100 -.25 0 -96.14 -.25 -7.13
 4 4 -99.52 -.25 -3.75 -98.17 -.25 -5.78 -96.14 -.25 -7.13 -100 -.25 -1.36

@@ -2,11 +2,12 @@
 0 Name: s\98570s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 16 2.375 -4.625 -17.35 0 1 0 -2.125 0 0 0 0 2.45 rect2p.dat
 4 16 18.496 -1.658 -10 18.496 -1.658 -11.25 18.177 -1.629 -17.25 18.177 -1.629 -10

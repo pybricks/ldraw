@@ -2,11 +2,11 @@
 0 Name: 3069bp02.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS reel to reel, video, cassette, town, space, VHS
+0 !KEYWORDS cassette, reel to reel, Space, town, VHS, video
 
 0 !HISTORY 2001-12-27 [sbliss] changed Reel inlays to white, converted to grooved base
 0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
@@ -18,6 +18,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, fixed overlapping surfaces and reduced number of T-junctions
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 0 // Central faces

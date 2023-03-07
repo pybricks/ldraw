@@ -2,11 +2,12 @@
 0 Name: s\48452s01.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 50 0 20 0 -1 0 0 0 1 -1 0 0 peghole.dat
 1 16 50 0 0 0 -1 0 0 0 1 -1 0 0 peghole.dat
@@ -35,9 +36,9 @@
 1 16 50 0 20 0 -1 0 0 0 1 1 0 0 4-4ring8.dat
 1 16 50 0 0 0 -1 0 0 0 1 1 0 0 4-4ring8.dat
 1 16 50 0 -20 0 -1 0 0 0 1 1 0 0 4-4ring8.dat
-1 16 30 0 -20 0 1 0 0 0 1 -1 0 0 2-4RING8.DAT
-1 16 30 0 0 0 1 0 0 0 1 -1 0 0 2-4RING8.DAT
-1 16 30 0 20 0 1 0 0 0 1 -1 0 0 2-4RING8.DAT
+1 16 30 0 -20 0 1 0 0 0 1 -1 0 0 2-4ring8.dat
+1 16 30 0 0 0 1 0 0 0 1 -1 0 0 2-4ring8.dat
+1 16 30 0 20 0 1 0 0 0 1 -1 0 0 2-4ring8.dat
 1 16 32 0 20 0 1 0 0 0 2 -2 0 0 2-4ring3.dat
 1 16 32 0 0 0 1 0 0 0 2 -2 0 0 2-4ring3.dat
 1 16 32 0 -20 0 1 0 0 0 2 -2 0 0 2-4ring3.dat

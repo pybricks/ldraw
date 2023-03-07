@@ -2,12 +2,13 @@
 0 Name: s\2541s09.dat
 0 Author: William Howard [WilliamH]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-27 [BlackBrick89] Minor cleanup (header and data)
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 16 1.035 0 -1 2 0 -1 2 -0.383 -0.924 0.959 -0.383 -0.924
 4 16 0.959 -0.383 -0.924 2 -0.383 -0.924 2 -0.707 -0.707 0.734 -0.707 -0.707

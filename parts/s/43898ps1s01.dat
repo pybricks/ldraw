@@ -2,12 +2,13 @@
 0 Name: s\43898ps1s01.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-05-31 [GeraldLasser] Adapted for 48 Segment Primitives
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 // Main-color stripes
 4 25 -12 0.61 0 -11.8968 0.61 -1.566 -7.43584 0.15254 -0.97895 -7.5 0.1525 0

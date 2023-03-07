@@ -2,11 +2,12 @@
 0 Name: s\6142622us07.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 0 // Primitives
 
@@ -23,7 +24,7 @@
 4 16 8 0 39.054 8 0 -39.054 -8 0 -39.054 -8 0 39.054
 4 16 8 0 -39.054 6.5 0 -40.554 -6.5 0 -40.554 -8 0 -39.054
 0 // Lateral face
-3 16 -6.5 0 40.554 -6.5 -.25 40.554 .875 -.25 40.554 
+3 16 -6.5 0 40.554 -6.5 -.25 40.554 .875 -.25 40.554
 4 16 -6.5 0 40.554 .875 -.25 40.554 1.75 -.25 40.554 6.5 0 40.554
 3 16 6.5 0 40.554 1.75 -.25 40.554 6.5 -.25 40.554
 3 16 -8 0 39.054 -8 -.25 35.9494 -8 -.25 39.054

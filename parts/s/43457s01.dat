@@ -2,11 +2,12 @@
 0 Name: s\43457s01.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 2 24 -78 38 0 -78 38 -108
 4 16 -78 38 -60 -78 38 0 -78 41 0 -78 41 -60

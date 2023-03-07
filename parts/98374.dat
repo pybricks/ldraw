@@ -2,7 +2,7 @@
 0 Name: 98374.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,12 +14,13 @@
 0 !HISTORY 2014-06-22 [cwdee] Add missing CATEGORY
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
+
 1 16 0 0 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 0 0 10 0 0 0 -1 0 0 0 10 4-4disc.dat
 1 16 0 -26.5 0 13 0 0 0 -1 0 0 0 13 4-4edge.dat
 1 16 0 -26.5 0 11 0 0 0 -1 0 0 0 11 4-4edge.dat
-1 16  0 -26.5 0  1 0 0  0 1 0  0 0 1 4-4rin11.dat
-1 16  0 -26.5 0  1 0 0  0 1 0  0 0 1 4-4rin12.dat
+1 16 0 -26.5 0 1 0 0 0 1 0 0 0 1 4-4rin11.dat
+1 16 0 -26.5 0 1 0 0 0 1 0 0 0 1 4-4rin12.dat
 0 BFC INVERTNEXT
 1 16 0 -26.5 0 11 0 0 0 21.5 0 0 0 11 4-4cyli.dat
 1 16 0 -20.5 0 13 0 0 0 -1 0 0 0 13 4-4edge.dat

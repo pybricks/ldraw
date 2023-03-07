@@ -2,11 +2,12 @@
 0 Name: s\3010pz1s01.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 0 -17.999 15.7 0 -17.948 15.874 0 -16.79 15.444 0 -18.023 15.518 0
 4 0 -17.874 16.036 0 -17.778 16.186 0 -16.79 15.444 0 -17.948 15.874 0

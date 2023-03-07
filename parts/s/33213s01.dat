@@ -2,11 +2,12 @@
 0 Name: s\33213s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 0 // Bottom
 
@@ -269,7 +270,7 @@
 2 24 32.042 66.5 -42.080087 34.1843 70.8401 -41.022635
 2 24 35 73.246415 -40.62 34.1843 70.8401 -41.022635
 
-0 // Vertical 
+0 // Vertical
 2 24 37 85 -42.88436 37 175 -42.88436
 2 24 37 175 -39.284575 37 85 -39.284575
 

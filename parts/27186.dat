@@ -2,7 +2,7 @@
 0 Name: 27186.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2021-11-09 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 -5 0 -1 0 0 0 -1.25 0 0 0 1 stud4o.dat
 1 16 0 0 0 0 0 -2 0 -1 0 -2 0 0 3-8ring4.dat
@@ -2607,7 +2608,7 @@
 5 24 -.239 -9.637 7.318 1.031 -8.777 6.399 4.622 -8.146 6.769 .244 -8.515 6.24
 5 24 -12.407 -2.186 -1.169 -11.733 -3.517 -1.798 -11.978 -3.636 2.75 -12.353 -1.265 -3.661
 5 24 -11.733 -3.517 -1.798 -9.973 -5.516 -2.603 -11.388 -5.035 2.448 -11.637 -2.425 -4.854
-5 24 13.355 -1.877 3.445 11.773 -4.229 3.929 12.037 -3.907 -.172 12.351 -2.944 6.074 
+5 24 13.355 -1.877 3.445 11.773 -4.229 3.929 12.037 -3.907 -.172 12.351 -2.944 6.074
 2 24 10.666 -3.462 9.283 10.9255 -2.674 9.6315
 5 24 10.9255 -2.674 9.6315 12.677 -1.379 8.739 10.588 -2.691 12.125 11.788 -2.047 8.226
 

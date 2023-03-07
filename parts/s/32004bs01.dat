@@ -2,11 +2,12 @@
 0 Name: s\32004bs01.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 3 16 17.626 -26.708 20 15 -25.981 20 16 -27.713 20
 3 16 16.85 -24.821 20 15 -25.981 20 17.626 -26.708 20

@@ -2,7 +2,7 @@
 0 Name: 30388.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Part UPDATE 2005-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -16,6 +16,7 @@
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 1 16 50 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 30 0 0 1 0 0 0 1 0 0 0 1 stud.dat
@@ -47,8 +48,8 @@
 4 16 56 24 -6 56 4 -6 -56 4 -6 -56 24 -6
 4 16 -56 24 6 -56 4 6 56 4 6 56 24 6
 1 16 -56.5 23 0 0 0 -0.5 0 -1 0 6 0 0 rect3.dat
-3 16 -56 23 6 -56 24 6 -57 23 6  
-3 16 -56 23 -6 -57 23 -6 -56 24 -6  
+3 16 -56 23 6 -56 24 6 -57 23 6
+3 16 -56 23 -6 -57 23 -6 -56 24 -6
 1 16 56.5 23 0 0 0 0.5 0 -1 0 6 0 0 rect3.dat
 3 16 57 23 6 56 24 6 56 23 6
 3 16 56 24 -6 57 23 -6 56 23 -6

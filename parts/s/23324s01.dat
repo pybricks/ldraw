@@ -1,15 +1,16 @@
-0 ~Electric Motor Unit  6 x 18 x  4 Bottom - Front/Back 
+0 ~Electric Motor Unit  6 x 18 x  4 Bottom - Front/Back
 0 Name: s\23324s01.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2006-08-21 [mikeheide] BFCd, delete one double line, fixed bowtie quad.
 0 !HISTORY 2019-08-27 [cwdee] Fixed BFC errors filled gaps
-0 !HISTORY 2022-03-09 [Holly-Wood] Added edges and conds, primitive substitution, fixed T-Junk, 
+0 !HISTORY 2022-03-09 [Holly-Wood] Added edges and conds, primitive substitution, fixed T-Junk,
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 2 24 41 -40 -60 73 -74 -60
 2 24 73 -74 -60 80 -74 -60
@@ -225,7 +226,6 @@
 2 24 122.785 .001 -40 169 0 -40
 
 2 24 117.215 .001 -40 84 0 -40
-
 
 1 16 110 -14 -60 0 0 -1 -1 0 0 0 14 0 npeghole.dat
 1 16 130 -14 -60 0 0 -1 -1 0 0 0 14 0 npeghole.dat

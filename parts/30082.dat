@@ -2,12 +2,11 @@
 0 Name: 30082.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS claw, hand, bendy-arm, submarine, robot, divers
-0 !KEYWORDS outback, grab
+0 !KEYWORDS bendy-arm, Claw, Divers, grab, hand, outback, Robot, submarine
 
 0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
 0 !HISTORY 2007-10-12 [PTadmin] Header formatted for Contributor Agreement
@@ -16,6 +15,7 @@
 0 !HISTORY 2016-07-13 [Holly-Wood] BFCed, fixed scaled flat primitives, fixed non-coplanar quads, deleted identical lines, closed gaps, eliminated primitives, regenerated conds.
 0 !HISTORY 2017-04-05 [MagFors] Corrected the size of the ball, used sub-file and primitives
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 0 10 0 0 1.14286 -1.14286 0 0 0 -1.14286 0 s\30395s01.dat
 1 16 0 0 10 0 0 -1.14286 -1.14286 0 0 0 -1.14286 0 s\30395s01.dat

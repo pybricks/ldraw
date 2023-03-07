@@ -2,12 +2,13 @@
 0 Name: s\94318s02.dat
 0 Author: Frank Engel [lostcontinent]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2020-05-17 [Holly-Wood] Changed winding to CCW, changed origin, streamlined 
+0 !HISTORY 2020-05-17 [Holly-Wood] Changed winding to CCW, changed origin, streamlined
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Outer layer
 

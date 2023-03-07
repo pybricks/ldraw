@@ -2,14 +2,15 @@
 0 Name: s\30370ps1b.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-0 !HISTORY 2012-06-01 [TK-949]  Partial Rewrite
+0 !HISTORY 2012-06-01 [TK-949] Partial Rewrite
 0 !HISTORY 2013-11-18 [MagFors] Closed a gap and removed free floating triangles
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 3 14 6.7 -3.396 -11 6.661 -3.408 -11.015 6.661 -3.39 -11.031
 3 16 10.977 -6.268 -3.663 11.617 -5.65 -4.018 11.64 -5.817 -3.59

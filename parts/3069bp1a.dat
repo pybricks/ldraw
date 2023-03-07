@@ -2,13 +2,15 @@
 0 Name: 3069bp1a.dat
 0 Author: Tim Lampmann [L4mpi]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Grand, Central, Station, High, Speed, Locomotive, Bricklink 3069bpb029
+0 !KEYWORDS Bricklink 3069bpb029, Central, Grand, High, locomotive, Speed
+0 !KEYWORDS Station
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bp1as01.dat

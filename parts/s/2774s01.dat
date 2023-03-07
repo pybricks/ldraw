@@ -1,12 +1,13 @@
-0 ~Monorail Track Stop/Go Switch Bottom 
+0 ~Monorail Track Stop/Go Switch Bottom
 0 Name: s\2774s01.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 2 24 10 -3.5 2.5 141 -3.5 2.5
 2 24 10 19.5 2.5 40 19.5 2.5

@@ -2,13 +2,14 @@
 0 Name: 30603.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
-1 16 0 15.618 0 1 0 0 0 -2.0955 0 0 0 1 STUD4A.dat
+
+1 16 0 15.618 0 1 0 0 0 -2.0955 0 0 0 1 stud4a.dat
 0 BFC INVERTNEXT
 1 16 0 15.618 0 6 0 0 0 -0.53 0 0 0 6 4-4cyli.dat
 0 BFC INVERTNEXT

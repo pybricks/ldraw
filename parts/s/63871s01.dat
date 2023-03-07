@@ -2,14 +2,13 @@
 0 Name: s\63871s01.dat
 0 Author: Rolf Osterthun [Rolf]
 0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Slope
-
 0 !HISTORY 2013-01-16 [MMR1988] Using of more prims, subparted for easier patterning
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 // Bottom Studs
 
@@ -55,7 +54,6 @@
 4 16 36 4 16 36 96 16 36 96 -96 36 73.45 -96
 3 16 -36 4 16 -36 4 -18.125 -36 73.45 -96
 3 16 36 73.45 -96 36 4 -18.125 36 4 16
-
 
 2 24 -32 24.846 -41.5 -32 22.171 -38.5
 2 24 32 24.846 -41.5 32 22.171 -38.5

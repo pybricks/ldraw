@@ -2,11 +2,12 @@
 0 Name: s\95342s02.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 16 2.634 -38.707 -15.707 2.613 -38.383 -15.924 2.648 -38.106 -15.979 3.153 -38.266 -14.655
 3 16 2.885 -39 -15 3.153 -38.266 -14.655 3.022 -38.941 -14.702

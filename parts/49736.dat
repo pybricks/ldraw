@@ -2,13 +2,14 @@
 0 Name: 49736.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Distance between sections: 60 to 66 ldu
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 -48 0 20 0 0 0 1 0 0 0 20 recte4.dat
 1 16 0 0 20 0 0 39 39 0 0 0 -44 0 48\4-4cyli.dat

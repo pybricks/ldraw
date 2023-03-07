@@ -2,15 +2,16 @@
 0 Name: 3298p69.dat
 0 Author: Carsten Schmitz [Deckard]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
 0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-03-18 [MagFors] BFC'd, used subfiles 
+0 !HISTORY 2013-03-18 [MagFors] BFC'd, used subfiles
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3298s01.dat
 1 16 0 10 -30 0.105 0 0 0 1 -0.045 0 0 0.09 s\3068p69a.dat

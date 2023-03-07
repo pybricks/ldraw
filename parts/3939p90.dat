@@ -2,11 +2,11 @@
 0 Name: 3939p90.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS beta-1 command base, planet, moon
+0 !KEYWORDS beta-1 command base, Moon, planet
 
 0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
 0 !HISTORY 2002-08-19 [Holly-Wood] refined pattern, added missing craters
@@ -18,6 +18,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2013-08-10 [Steffen] replaced gold color by 82
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 4 16 60 0 -10 60 20 -50 26.4 15.7525 -41.505 26.4 4.2475 -18.495
 4 16 -60 20 -50 -26.4 15.7525 -41.505 26.4 15.7525 -41.505 60 20 -50

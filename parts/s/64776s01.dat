@@ -2,16 +2,15 @@
 0 Name: s\64776s01.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 
+
 0 // Created with CATIA V5.
 0 // Converted with stl2dat to DAT file and finished with MLCad.
-
-
 
 2 24 -6.686 6.15 6.15 -6.364 6.364 6.364
 2 24 -6.947 4.947 4.947 -7.018 5.553 5.553

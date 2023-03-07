@@ -1,17 +1,18 @@
 0 Minifig Cup with White Octan Logo Pattern
 0 Name: 3899p04.dat
-0 Author: Gerald Lasser [GeraldLasser]	
+0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Town, mug, coffee, cocoa, tea, drink, utensil, cookware
-0 !KEYWORDS Bricklink 3899pb004, Set 71004
-0 !KEYWORDS Collectible Minifigures, The LEGO Movie, President Business
+0 !KEYWORDS Bricklink 3899pb004, cocoa, Coffee, Collectible Minifigures
+0 !KEYWORDS Cookware, drink, mug, President Business, set 71004, tea
+0 !KEYWORDS The LEGO Movie, town, utensil
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3899s01.dat
 

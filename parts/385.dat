@@ -2,12 +2,13 @@
 0 Name: 385.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2009-05-06 [Eldar] reduced file size, quads replaced by rects
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 -410 0 410 1 0 0 0 1 0 0 0 1 stug9.dat
 1 16 -410 0 -410 1 0 0 0 1 0 0 0 1 stug9.dat
@@ -125,19 +126,19 @@
 1 16 -496 4 496 -4 0 0 0 -1 0 0 0 4 1-4disc.dat
 1 16 496 4 -496 4 0 0 0 -1 0 0 0 -4 1-4disc.dat
 1 16 -496 4 -496 -4 0 0 0 -1 0 0 0 -4 1-4disc.dat
-1 16 496 4 496 4 0 0 0 1 0 0 0 4 1-4edge.DAT
-1 16 -496 4 496 -4 0 0 0 1 0 0 0 4 1-4edge.DAT
-1 16 496 4 -496 4 0 0 0 1 0 0 0 -4 1-4edge.DAT
-1 16 -496 4 -496 -4 0 0 0 1 0 0 0 -4 1-4edge.DAT
+1 16 496 4 496 4 0 0 0 1 0 0 0 4 1-4edge.dat
+1 16 -496 4 496 -4 0 0 0 1 0 0 0 4 1-4edge.dat
+1 16 496 4 -496 4 0 0 0 1 0 0 0 -4 1-4edge.dat
+1 16 -496 4 -496 -4 0 0 0 1 0 0 0 -4 1-4edge.dat
 0 // Sides
 1 16 -500 2 0 0 1 0 -2 0 0 0 0 -496 rect1.dat
 1 16 0 2 500 0 0 -496 -2 0 0 0 -1 0 rect1.dat
 1 16 500 2 0 0 -1 0 -2 0 0 0 0 496 rect1.dat
 1 16 0 2 -500 0 0 496 -2 0 0 0 1 0 rect1.dat
-1 16 496 0 496 4 0 0 0 4 0 0 0 4 1-4cyli.DAT
-1 16 -496 0 496 -4 0 0 0 4 0 0 0 4 1-4cyli.DAT
-1 16 496 0 -496 4 0 0 0 4 0 0 0 -4 1-4cyli.DAT
-1 16 -496 0 -496 -4 0 0 0 4 0 0 0 -4 1-4cyli.DAT
+1 16 496 0 496 4 0 0 0 4 0 0 0 4 1-4cyli.dat
+1 16 -496 0 496 -4 0 0 0 4 0 0 0 4 1-4cyli.dat
+1 16 496 0 -496 4 0 0 0 4 0 0 0 -4 1-4cyli.dat
+1 16 -496 0 -496 -4 0 0 0 4 0 0 0 -4 1-4cyli.dat
 0 // Top
 4 16 -500 0 -496 -500 0 496 -496 0 496 -496 0 -496
 4 16 -496 0 -500 -496 0 500 496 0 500 496 0 -500
@@ -146,8 +147,8 @@
 1 16 -496 0 496 -4 0 0 0 1 0 0 0 4 1-4disc.dat
 1 16 496 0 -496 4 0 0 0 1 0 0 0 -4 1-4disc.dat
 1 16 -496 0 -496 -4 0 0 0 1 0 0 0 -4 1-4disc.dat
-1 16 496 0 496 4 0 0 0 1 0 0 0 4 1-4edge.DAT
-1 16 -496 0 496 -4 0 0 0 1 0 0 0 4 1-4edge.DAT
-1 16 496 0 -496 4 0 0 0 1 0 0 0 -4 1-4edge.DAT
-1 16 -496 0 -496 -4 0 0 0 1 0 0 0 -4 1-4edge.DAT
+1 16 496 0 496 4 0 0 0 1 0 0 0 4 1-4edge.dat
+1 16 -496 0 496 -4 0 0 0 1 0 0 0 4 1-4edge.dat
+1 16 496 0 -496 4 0 0 0 1 0 0 0 -4 1-4edge.dat
+1 16 -496 0 -496 -4 0 0 0 1 0 0 0 -4 1-4edge.dat
 0 //

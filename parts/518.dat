@@ -2,13 +2,13 @@
 0 Name: 518.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS artillery, pirate, Pirates, man-o-war
-0 !KEYWORDS Imperials, Wild West, cavalry, Castle, Ninja
+0 !KEYWORDS artillery, Castle, cavalry, Imperials, man-o-war, Ninja, Pirate
+0 !KEYWORDS Pirates, wild west
 
 0 !HISTORY 2001-11-23 [pneaster] corrected BFC use of primitive files.
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
@@ -17,6 +17,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2020-06-04 [Sirio] Reworked and inverted BFC
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // Main body
 0 // Primitives
@@ -100,7 +101,7 @@
 2 24 -2.2687 5.477 60.3234 -.3708 5.7524 60.7824
 2 24 -.3708 5.7524 60.7824 0 5.8124 60.8442
 0 // Conditional lines
-5 24 4 0 69  3.6956 -1.5308 69 6 0 60 4 0 80
+5 24 4 0 69 3.6956 -1.5308 69 6 0 60 4 0 80
 5 24 3.6956 -1.5308 69 2.8284 -2.8284 69 5.5434 -2.2962 60 3.6956 -1.5308 80
 5 24 2.8284 -2.8284 69 1.5308 -3.6956 69 2.8284 -2.8284 80 4.2426 -4.2426 60
 5 24 1.5308 -3.6956 69 0 -4 69 1.5308 -3.6956 80 2.2962 -5.5434 60

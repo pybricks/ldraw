@@ -2,7 +2,7 @@
 0 Name: 2678.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Side plates position:
 0 !HELP 1 16 640 130.838 -40 0.93144 0 0.363895 0.363895 0 -0.93144 0 1 0 3710.dat
@@ -13,6 +13,7 @@
 
 0 !HISTORY 2012-03-31 [bbroich] Secondary author
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 0 // Track
 
@@ -470,7 +471,7 @@
 2 24 300 31.294 -18 300 31.294 -6
 4 16 340 30.232 -2.5 340 38.732 -2.5 340 38.732 2.5 340 30.232 2.5
 2 24 340 38.732 -18 340 38.732 -6
-1 16 320 45 0 1 0 0 0 -1 0 0 0 -1 STUD4A.dat
+1 16 320 45 0 1 0 0 0 -1 0 0 0 -1 stud4a.dat
 1 16 320 45 0 8 0 0 0 -12 0 0 0 8 4-4cyli.dat
 1 16 320 33 0 7.39104 0 3.06147 0 -5 0 -3.06147 0 7.39104 1-8cyli.dat
 1 16 320 33 0 -7.39104 0 -3.06147 0 -8 0 3.06147 0 -7.39104 1-8cyli.dat

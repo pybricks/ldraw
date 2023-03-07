@@ -2,16 +2,17 @@
 0 Name: 32559.dat
 0 Author: Robert Sexton [rhsexton]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Toa, Lewa, set 8535, Bionicle, weapon
+0 !KEYWORDS bionicle, Lewa, set 8535, Toa, Weapon
 
 0 !HISTORY 2007-11-05 [mikeheide] added some egdelines at top of Axe
 0 !HISTORY 2010-01-23 [mikeheide] changed origin
 0 !HISTORY 2017-01-09 [Steffen] BFCed
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 0 // Needs Work: holes, missing edge lines
 

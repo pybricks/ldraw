@@ -2,15 +2,16 @@
 0 Name: 4066bp1p.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS House, Home, bricklink 4066pb056
-0 !KEYWORDS Set 2792, Set 2794, Set 2795, Set 2818, Set 9148, Set 9168, Set 9169, Set 9180
+0 !KEYWORDS bricklink 4066pb056, Home, house, Set 2792, Set 2794, Set 2795
+0 !KEYWORDS Set 2818, Set 9148, Set 9168, Set 9169, Set 9180
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 4 15 23 87 -20 -23 87 -20 -22 89 -20 22 89 -20

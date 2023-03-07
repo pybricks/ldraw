@@ -2,7 +2,7 @@
 0 Name: 197875bc01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP For use with 2372c01 Boat Hull
 0 !HELP See stickered hull 2372c01d01
@@ -12,6 +12,7 @@
 0 !KEYWORDS Set 4010
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 4 16 16.1538 0.4908 8 17.4861 0.5579 8 17.4861 0.8079 8 16.1538 0.7408 8
 4 16 17.4861 0.5579 8 19 0.6983 8 19 0.9483 8 17.4861 0.8079 8

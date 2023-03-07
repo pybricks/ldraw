@@ -2,11 +2,12 @@
 0 Name: 8\stud25.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG 8_Primitive UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 4 16 16.25 0 0 11.4904 0 11.4904 11.4904 -1 11.4904 16.25 -1 0
 4 16 11.4904 0 11.4904 0 0 16.25 0 -1 16.25 11.4904 -1 11.4904

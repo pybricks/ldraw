@@ -2,16 +2,17 @@
 0 Name: 2586p4j.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Set 7092, Bricklink 2586px14
+0 !KEYWORDS Bricklink 2586px14, Set 7092
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 0 !HISTORY 2022-01-15 [OrionP] Update description, add set keyword
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2586s01.dat
 1 272 0 -7.75 -8 1.12 0 0 0 1.12 0 0 0 1 s\3846p4ja.dat

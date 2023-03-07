@@ -2,7 +2,7 @@
 0 Name: 71076a.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2009-05-21 [PTadmin] Renamed from 71075. Part number really is 71076, but was mistakenly issued as 71075
 0 !HISTORY 2009-05-21 [arezey] Fixed BFC and ring and circle matrices
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 -24 0 24 0 0 24 0 24 0 -24 0 0 t04o4167.dat
 1 16 -24 0 24 0 0 24 0 -24 0 -24 0 0 t04o4167.dat

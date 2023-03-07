@@ -2,7 +2,7 @@
 0 Name: 98088p01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,10 +14,11 @@
 0 !HISTORY 2022-11-30 [OrionP] Fixed problem with HISTORY lines
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
 
-0 !TEXMAP START PLANAR  -7 0 61 225 0 61 -7 0 -60 98088p01.png
+
+0 !TEXMAP START PLANAR -7 0 61 225 0 61 -7 0 -60 98088p01.png
 0 !: 1 16 0 0 0 0.98902 0.14781 0 -0.14781 0.98902 0 0 0 1 s\98088s01.dat
 0 !: 1 16 0 0 0 0.98902 0.14781 0 -0.14781 0.98902 0 0 0 1 s\98088s02.dat
-0 !TEXMAP FALLBACK 
+0 !TEXMAP FALLBACK
 1 16 0 0 0 0.98902 0.14781 0 -0.14781 0.98902 0 0 0 1 s\98088s01.dat
 1 84 0 0 0 0.98902 0.14781 0 -0.14781 0.98902 0 0 0 1 s\98088s02.dat
-0 !TEXMAP END 
+0 !TEXMAP END

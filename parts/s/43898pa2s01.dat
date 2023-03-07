@@ -2,11 +2,12 @@
 0 Name: s\43898pa2s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 4 0 8.20147 0.50262 7.21084 8.51145 0.51664 7.0663 8.84181 0.54788 7.15482 9.03799 0.58173 7.43498
 4 0 8.20147 0.50262 7.21084 9.03799 0.58173 7.43498 9.00818 0.60235 7.7757 8.76634 0.60009 8.01755

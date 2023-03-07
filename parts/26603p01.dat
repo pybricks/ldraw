@@ -2,16 +2,17 @@
 0 Name: 26603p01.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10264, Set 21312
-0 !KEYWORDS CDDA, TLVA, ATA, LLA, LFA, MTA, CTA, CTM, TWA, FTA
+0 !KEYWORDS ATA, CDDA, CTA, CTM, FTA, LFA, LLA, MTA, Set 10264, Set 21312, TLVA
+0 !KEYWORDS TWA
 
 0 !CMDLINE -c0
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 0 // Main
 

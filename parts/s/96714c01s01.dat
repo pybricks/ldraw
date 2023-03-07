@@ -2,13 +2,12 @@
 0 Name: s\96714c01s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Canvas
-
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 4 16 63.7386 123.42 -24.071 83.5756 113.95 -21.614 67.9775 105.826 -20.37 49.1834 111.654 -22.146
 4 16 94.5582 128.286 -20.579 108.179 119.381 -18.712 98.9587 108.814 -19.657 83.5756 113.95 -21.614

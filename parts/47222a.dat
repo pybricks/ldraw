@@ -2,7 +2,7 @@
 0 Name: 47222a.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2015-10-17 [Philo] Used subpart
 0 !HISTORY 2018-01-29 [PTadmin] Renamed from 47222
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\47222s01.dat
 1 16 10 11 -30 0 13 0 0 0 4 4 0 0 4-4cylo.dat

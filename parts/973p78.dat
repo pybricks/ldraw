@@ -2,15 +2,17 @@
 0 Name: 973p78.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2004-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS Town, fireman, fire logo badge, zipper, two yellow pins, collar 
-0 !KEYWORDS red belt, yellow buckle
+
+0 !KEYWORDS collar, fire logo badge, fireman, red belt, town, two yellow pins
+0 !KEYWORDS yellow buckle, Zipper
 
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 0 Plain back
@@ -153,5 +155,5 @@
 3 16 18.483 26 -10 0.5 26 -10 8 20.3 -10
 4 16 0.5 26 -10 4.35 19.25 -10 7.1 19.7 -10 8 20.3 -10
 3 16 0.5 26 -10 3.3 18.7 -10 4.35 19.25 -10
-3 16 0.5 26 -10  2.75 18 -10 3.3 18.7 -10
+3 16 0.5 26 -10 2.75 18 -10 3.3 18.7 -10
 0

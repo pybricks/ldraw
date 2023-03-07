@@ -2,11 +2,12 @@
 0 Name: s\4327s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 -6.5 -11.2583 0 0 5.85637 -5.07176 -8.8791 0 2.92818 -15.3791 0 2-4cylc.dat
 1 16 0 -15.3791 -26.6374 0 0 5.85637 -5.07176 0.5 0 2.92818 0.86603 0 2-4chrd.dat

@@ -2,12 +2,13 @@
 0 Name: 72475.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-01 [GeraldLasser] Adapted from 4872.dat
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 16 30 96 6 30 96 10 40 96 10 36 96 6
 4 16 40 96 -12 36 96 -8 36 96 6 40 96 10

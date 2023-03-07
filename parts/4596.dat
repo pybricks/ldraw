@@ -2,9 +2,10 @@
 0 Name: 4596.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
 0 !CATEGORY Wing
 
 0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
@@ -14,9 +15,9 @@
 0 !HISTORY 2009-05-06 [Eldar] fixed two non-coplanarity quads, updated primitives
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 
+
 0 // One or more STUD references in this file have been purposely
 0 // capitalized to ensure that the stud is fully visible in LEdit.
-
 
 0 BFC INVERTNEXT
 1 16 0 8 0 16 0 0 0 -4 0 0 0 6 box5.dat
@@ -309,7 +310,7 @@
 0 BFC INVERTNEXT
 1 16 0 2 -62 4 0 0 0 0 4 0 -4 0 4-4cyli.dat
 1 16 0 2 -62 8 0 0 0 0 8 0 -4 0 4-4cyli.dat
-1 16 0 2 -66 1 0 0 0 0 1 0 1 0 STUD4A.dat
+1 16 0 2 -66 1 0 0 0 0 1 0 1 0 stud4a.dat
 0 //
 1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 -10 0 0 1 0 0 0 1 0 0 0 1 stud.dat

@@ -2,11 +2,12 @@
 0 Name: s\30224s01.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 2 24 8.391 -8.935 4.048 8.391 -9.56 3.881
 2 24 8.391 -10.02 3.423 8.391 -10.19 2.798

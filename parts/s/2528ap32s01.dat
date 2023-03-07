@@ -2,11 +2,12 @@
 0 Name: s\2528ap32s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 4 16 4.0114 -18.2215 -5.45 0 -18.749 -5.45 0 -17.70195 -6.10113 .66868 -16.72868 -6.65169
 4 16 4.0114 -18.2215 -5.45 0.66868 -16.72868 -6.65169 1.64195 -16.07836 -6.97651 2.50859 -15.88606 -7.02523

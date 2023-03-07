@@ -2,14 +2,14 @@
 0 Name: 64390.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Window should be placed at 50 -20.75 -5, i.e.
 0 !HELP 1 16 50 -20.75 -5 1 0 0 0 1 0 0 0 1 30046.dat
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Harry Potter, Castle
+0 !KEYWORDS Castle, Harry Potter
 
 0 !HISTORY 2011-10-26 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2011-10-26 [angmarec] File preparation for LDraw Parts Tracker
@@ -17,6 +17,7 @@
 0 !HISTORY 2020-09-15 [Cheenzo] removed duplicated surfaces and unnecessary vertices
 0 !HISTORY 2020-09-29 [Cheenzo] Complete rewrite using prims, added help, subfiled hinges
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 -6.875 1 0 0 0 1 0 0 0 1 s\64390s01.dat
 1 16 0 0 -3.125 1 0 0 0 1 0 0 0 -1 s\64390s01.dat

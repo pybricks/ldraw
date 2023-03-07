@@ -2,12 +2,13 @@
 0 Name: s\51266s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-07-15 [GeraldLasser] Derived from Philo's 57895
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 22.5 0 0 2 0 0 0 2 0 0 0 2 bump5000.dat
 1 16 -22.5 0 0 2 0 0 0 2 0 0 0 2 bump5000.dat

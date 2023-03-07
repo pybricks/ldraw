@@ -2,11 +2,12 @@
 0 Name: 84751.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 4 16 5 -0.7 -5 5 -0.7 5 -5 -0.7 5 -5 -0.7 -5
 1 16 7 -0.637 7 3 0 0 0.6364 4 0.6364 0 0 3 1-4cylo.dat

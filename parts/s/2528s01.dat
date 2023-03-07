@@ -2,20 +2,21 @@
 0 Name: s\2528s01.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
 0 !HISTORY 2007-08-28 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [Philo]   Modified with WINDZ for BFC compliance. Added some lines/condlines (2008-05-21)
+0 !HISTORY 2008-07-07 [Philo] Modified with WINDZ for BFC compliance. Added some lines/condlines (2008-05-21)
 0 !HISTORY 2011-10-16 [MagFors] Reworked top groove
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 0 !HISTORY 2018-01-27 [Steffen] fixed 2 syntax errors
 0 !HISTORY 2018-04-07 [MMR1988] Added missing condlines
 0 !HISTORY 2021-04-21 [MagFors] Obsoleted due to bad geometry
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 6 0 0 -0.196 1.99 0 -1.99 0.196 -2 0 0 2-4ring7.dat
 1 16 0 6 0 0 0.196 -1.99 0 -1.99 0.196 2 0 0 2-4ring7.dat

@@ -2,7 +2,7 @@
 0 Name: 3230a.dat
 0 Author: Manfred Moolhuysen
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-01-09 [Steffen] Modified with WINDZ for BFC compliance
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 4 16 -144.37 16 -24.22 -144.37 9 -24.22 -148.27 9 -4.60 -148.27 16 -4.60
 4 16 -145.93 9 -16.37 -145.93 1 -16.37 -146.71 1 -12.45 -146.71 9 -12.45

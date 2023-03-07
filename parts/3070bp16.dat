@@ -2,13 +2,14 @@
 0 Name: 3070bp16.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 41916, Dots, Bricklink 3070bpb149
+0 !KEYWORDS Bricklink 3070bpb149, Dots, Set 41916
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
 4 1 -5.6 0 2 -5.8 0 2.2 -6.1 0 2.1 -6.4 0 1.9

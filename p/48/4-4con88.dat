@@ -2,11 +2,12 @@
 0 Name: 48\4-4con88.dat
 0 Author: Tim Lampmann [L4mpi]
 0 !LDRAW_ORG 48_Primitive UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 4 16 88 1 0 87.2432 1 11.484 88.2346 0 11.6145 89 0 0
 4 16 87.2432 1 11.484 84.9992 1 22.7744 85.9651 0 23.0332 88.2346 0 11.6145

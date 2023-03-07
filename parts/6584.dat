@@ -2,7 +2,7 @@
 0 Name: 6584.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed, use more primitives and fix L3P error (2005-11-07)
 0 !HISTORY 2008-07-08 [guyvivan] Fixed size of two rectanglular holes (24x40) and underside size plate (36x76) (2006-01-07)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 220 4 40 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 200 4 40 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -46,15 +47,15 @@
 1 16 220 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 200 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 180 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
-1 16 160 4 0 1 0 0 0 -1 0 0 0 1 STUD4A.dat
-1 16 140 4 0 1 0 0 0 -1 0 0 0 1 STUD4A.dat
-1 16 120 4 0 1 0 0 0 -1 0 0 0 1 STUD4A.dat
+1 16 160 4 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
+1 16 140 4 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
+1 16 120 4 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
 1 16 100 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 -100 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
-1 16 -120 4 0 1 0 0 0 -1 0 0 0 1 STUD4A.dat
-1 16 -140 4 0 1 0 0 0 -1 0 0 0 1 STUD4A.dat
-1 16 -160 4 0 1 0 0 0 -1 0 0 0 1 STUD4A.dat
+1 16 -120 4 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
+1 16 -140 4 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
+1 16 -160 4 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
 1 16 -180 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 -200 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 -220 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat

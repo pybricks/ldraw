@@ -2,15 +2,16 @@
 0 Name: 2869c01.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
-0 BFC CERTIFY CCW
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP To place the controller turn it around y-axis in steps of 13.75 degrees
 0 !HELP then turn it 30 degrees around x-axis and
 0 !HELP move to x/y/z 120/58.757/-145.12129
 
+0 BFC CERTIFY CCW
+
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 7 0 0 0 1 0 0 0 1 0 0 0 1 2868.dat
 1 16 0 58.75 -145.1213 1 0 0 0 0.866 -0.5 0 0.5 0.866 2869.dat

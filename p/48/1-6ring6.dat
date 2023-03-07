@@ -2,11 +2,12 @@
 0 Name: 48\1-6ring6.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG 48_Primitive UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 16 7 0 0 6.9398 0 0.9135 5.9484 0 0.783 6 0 0
 4 16 6.9398 0 0.9135 6.7613 0 1.8116 5.7954 0 1.5528 5.9484 0 0.783

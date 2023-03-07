@@ -2,12 +2,14 @@
 0 Name: 30259p01.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Town, Space Port, Launch Command, Trains
-0 !KEYWORDS caution, warning, danger, hazard
-0 !KEYWORDS flame, flammable, combustion, combustible, explosion, explosive
+
+0 !KEYWORDS caution, combustible, combustion, danger, explosion, explosive
+0 !KEYWORDS Flame, flammable, hazard, Launch Command, space port, town, Trains
+0 !KEYWORDS warning
+
 0 !CMDLINE -c14
 
 0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
@@ -16,6 +18,7 @@
 0 !HISTORY 2008-07-07 [PTadmin] Renamed from 892p01 (2007-08-02)
 0 !HISTORY 2009-11-07 [Eldar] modifed to match re-worked subpart, BFC'ed
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30259s01.dat
 1 16 0 -19.81 -9 -0.53 0 0.53 -0.53 0 -0.53 0 1 0 1-4ring3.dat

@@ -2,11 +2,11 @@
 0 Name: 2623.dat
 0 Author: Jeff Stembel
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS wing, delta, wedge, bow
+0 !KEYWORDS bow, delta, wedge, Wing
 
 0 !HISTORY 2002-01-17 [pneaster] Corrected bow-tie & co-planar quads.
 0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
@@ -15,6 +15,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2016-08-23 [theJudeAbides] BFC'd, Fixed T-Junctions, Used more prims
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 0 // Bottom Surfaces
 0 // Quadrant 1

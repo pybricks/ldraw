@@ -2,13 +2,14 @@
 0 Name: 3068bpgc.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 3646, Kitchen, bricklink 3068pb24
+0 !KEYWORDS bricklink 3068pb24, Kitchen, set 3646
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 4 16 1.5 0 15.8 -9 0 15.8 -9 0 13.3 1.5 0 13.3

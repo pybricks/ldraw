@@ -2,13 +2,14 @@
 0 Name: 003605b.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 373, oil, platform, offshore, drilling, rig, company, tanker
+0 !KEYWORDS company, drilling, offshore, oil, platform, rig, set 373, tanker
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // Small box
 1 16 0 -.25 0 52.5 0 0 0 .25 0 0 0 11 box5-12.dat
@@ -19,7 +20,6 @@
 1 15 14.425 -.25 -3 1 0 0 0 1 0 0 0 1 logo-shell-e.dat
 4 4 29.175 -.25 9.5 29.175 -.25 -9.5 36.175 -.25 -9.5 36.175 -.25 9.5
 4 4 40.175 -.25 9.5 40.175 -.25 -9.5 47.175 -.25 -9.5 47.175 -.25 9.5
-
 
 0 // Background
 3 15 -52.5 -.25 11 -47.175 -.25 9.5 -22.475 -.25 9.5

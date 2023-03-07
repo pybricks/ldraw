@@ -2,7 +2,7 @@
 0 Name: 18986.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Head offset Y = -3
 
@@ -11,6 +11,7 @@
 0 !CATEGORY Minifig Neckwear
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 0 // Neck
 1 16 -10 -1.5 -3.5 0 1 0 1.5 0 0 0 0 -11.5 rect3.dat

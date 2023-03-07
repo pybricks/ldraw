@@ -2,13 +2,14 @@
 0 Name: s\41854s01.dat
 0 Author: John Riley [jriley]
 0 !LDRAW_ORG Subpart UPDATE 2003-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
 0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 1 16 0 4 0 -1 0 0 0 -1 0 0 0 -1 stud4.dat
 0 BFC INVERTNEXT
@@ -200,5 +201,4 @@
 4 16 24 -9.5373 -5.3095 24 -7.0668 -11.2738 24 0 -11.2738 24 0 -5.3095
 4 16 24 -7.0668 -11.2738 24 -4.6529 -16 24 0 -16 24 0 -11.2738
 0
-
 

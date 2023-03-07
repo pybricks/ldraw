@@ -2,16 +2,17 @@
 0 Name: 10177.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 970d15, set 9464, set 9466, set 9468
-0 !KEYWORDS Rodney Rathbone, Prostetic, Cybernetic, Robot
+0 !KEYWORDS Bricklink 970d15, Cybernetic, Prostetic, Robot, Rodney Rathbone
+0 !KEYWORDS set 9464, set 9466, set 9468
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2020-12-13 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 -2 0 0 0 -1 0 3 0 0 0 0 3 4-4ndis.dat
 0 BFC INVERTNEXT

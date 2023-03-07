@@ -2,12 +2,13 @@
 0 Name: s\3626bps4s01.dat
 0 Author: Daniel Goerner [TK-949]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-04-07 [MMR1988] Reworked mesh, fixed gaps
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 4 0 -3.06 10.608 -12.39152 -3.469 9.621 -12.31019 -3.878 10.608 -12.22886 -3.469 10.69 -12.31019
 4 0 -3.878 10.608 -12.22886 -3.469 9.621 -12.31019 -4.456 10.03 -12.11392 -4.225 10.377 -12.15986

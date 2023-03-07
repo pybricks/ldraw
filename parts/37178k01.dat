@@ -2,13 +2,14 @@
 0 Name: 37178k01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part Flexible_Section UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 0 // Handle and Intersection
 1 16 -8 4.25 34.25 0 -4 0 4 0 0 0 0 4 4-8sphe.dat
@@ -131,7 +132,7 @@
 4 16 -23 -4.5 -14.25 -23 -4.5 -12.25 -23 -3.5 -12.25 -23 0 -14.25
 4 16 -23 -3.5 12.25 -23 -4.5 12.25 -23 -4.5 14.25 -23 0 14.25
 1 16 0 -2.25 -13.25 23 0 0 0 -2.25 0 0 0 -1 box3-3.dat
-2 24 -23 0 14.25 -23 0 -14.25 
+2 24 -23 0 14.25 -23 0 -14.25
 0 BFC INVERTNEXT
 1 16 1 4 0 0 0 22 0 4 0 12.25 0 0 box2-5.dat
 1 16 0 -2.25 13.25 23 0 0 0 -2.25 0 0 0 1 box3-3.dat

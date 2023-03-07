@@ -2,7 +2,7 @@
 0 Name: 2540.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, introduced 4-4cylc.dat, substituted some quads with rects and boxes
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Primitives
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
@@ -73,5 +74,5 @@
 3 16 20 0 10 6 0 -10 12 0 -10
 3 16 20 0 10 12 0 -10 20 0 -10
 0 // Conditional lines
-5 24 -6 -.2962 -14.4566 -12 -.2962 -14.4566  -6 -2.2426 -15.7574 -6 0 -14.398
+5 24 -6 -.2962 -14.4566 -12 -.2962 -14.4566 -6 -2.2426 -15.7574 -6 0 -14.398
 5 24 6 -.2962 -14.4566 12 -.2962 -14.4566 6 -2.2426 -15.7574 6 0 -14.398

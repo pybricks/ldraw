@@ -2,15 +2,17 @@
 0 Name: 30375ps6.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, Episode 1, minifig-scale
-0 !KEYWORDS battle droid, security, set 7877
+0 !KEYWORDS battle droid, Episode 1, minifig-scale, security, set 7877
+0 !KEYWORDS Star Wars
+
 0 !CMDLINE -c320
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30375s01.dat
 1 19 0 0 0 1 0 0 0 1 0 0 0 1 s\30375s03.dat

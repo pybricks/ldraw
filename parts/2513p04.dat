@@ -2,7 +2,7 @@
 0 Name: 2513p04.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2013-02-28 [MagFors] Changed colour 4 to 25
 0 !HISTORY 2013-03-02 [MagFors] Removed t-junctions
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2513s01.dat
 1 16 0 16.547 -43.094 -6 0 0 0 2.9069 1.4534 0 1.4534 -2.9069 2-4ndis.dat

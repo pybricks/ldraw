@@ -2,13 +2,14 @@
 0 Name: 47511p01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Shortcut UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 9656, Early Simple Machines, Bricklink 47205pb014
+0 !KEYWORDS Bricklink 47205pb014, Early Simple Machines, Set 9656
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 73 0 0 0 1 0 0 0 1 0 0 0 1 47205.dat
 1 72 0 -37 6 1 0 0 0 1 0 0 0 1 47207.dat

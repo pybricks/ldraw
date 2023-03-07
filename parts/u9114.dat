@@ -2,12 +2,13 @@
 0 Name: u9114.dat
 0 Author: Sybrand Bonsma [Sybrand]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2014-08-24 [cwdee] Rewrite
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 0 // Rear box frame
 4 16 31 76 4 -31 76 4 -31 76 0 31 76 0
@@ -847,7 +848,7 @@
 4 16 -13.969 76.956 -2 -11.864 71.413 -2 -8.023 72.841 -2 -9.446 78.636 -2
 4 16 -9.446 78.636 -2 -8.023 72.841 -2 -4.046 73.708 -2 -4.763 79.656 -2
 4 16 -4.763 79.656 -2 -4.046 73.708 -2 0 74 -2 0 80 -2
-0 
+0
 4 16 4.763 0.344 -2 4.046 6.292 -2 0 6 -2 0 0 -2
 4 16 9.446 1.364 -2 8.023 7.159 -2 4.046 6.292 -2 4.763 0.344 -2
 4 16 13.969 3.044 -2 11.864 8.587 -2 8.023 7.159 -2 9.446 1.364 -2

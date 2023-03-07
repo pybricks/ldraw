@@ -2,12 +2,11 @@
 0 Name: 6251.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS set 5571, set 5871, set 7673
-0 !KEYWORDS pet, creature, mousetrap
+0 !KEYWORDS creature, mousetrap, pet, Set 5571, set 5871, set 7673
 
 0 !HISTORY 2004-04-20 [Holly-Wood] fixed stud, made BFC compliant, re-grouped, added keywords and category
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
@@ -17,6 +16,7 @@
 0 !HISTORY 2022-03-07 {LEGO Universe Team} Original part shape
 0 !HISTORY 2022-03-08 [Holly-Wood] Complete rewrite from LUT data
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 0 // Half without Patternable Area
 

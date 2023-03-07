@@ -2,15 +2,16 @@
 0 Name: 30350bp01.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10277, Crocodile, Bricklink 30350bpb110, Hinge
+0 !KEYWORDS Bricklink 30350bpb110, Crocodile, Hinge, Set 10277
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
-1 16 0 0 0  1 0 0  0 1 0  0 0 1 s\30350bs01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30350bs01.dat
 
 0 // Corner I
 1 0 8.4 0 5 -.65 0 0 0 1 0 0 0 1 1-4chrd.dat

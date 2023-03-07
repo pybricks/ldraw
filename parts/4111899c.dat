@@ -2,13 +2,14 @@
 0 Name: 4111899c.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 5542, Helicopter, Black Thunder
+0 !KEYWORDS Black Thunder, helicopter, Set 5542
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 18 0 0 0 -.25 0 0 0 18 4-4cylc3.dat
 

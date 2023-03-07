@@ -2,7 +2,7 @@
 0 Name: 2429.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -16,6 +16,7 @@
 0 !HISTORY 2020-06-04 [Sirio] updated the use of primitives
 0 !HISTORY 2020-10-22 [MagFors] Removed surface bleeding
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 -20 4 10 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 -20 0 10 1 0 0 0 1 0 0 0 1 stug-1x2.dat

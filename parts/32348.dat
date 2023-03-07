@@ -2,7 +2,7 @@
 0 Name: 32348.dat
 0 Author: Ishino Keiichiro
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2010-01-23 [MagFors] Corrected one beamhole and changed name to 53.13
 0 !HISTORY 2010-01-29 [MagFors] used more primitives
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 1 16 0 -10 0 9 0 0 0 1 0 0 0 -9 2-4edge.dat
 1 16 0 10 0 9 0 0 0 1 0 0 0 -9 2-4edge.dat
@@ -63,6 +64,6 @@
 1 16 40 -10 90 0.6 0 -0.8 0 20 0 -0.8 0 -0.6 npeghol4.dat
 1 16 0 -10 60 -9 0 0 0 -1 0 0 0 9 1-8edge.dat
 1 16 0 10 60 -9 0 0 0 -1 0 0 0 9 1-8edge.dat
-1 16 0 10 60 -9 0 0 0 -20 0 0 0 9 1-8CYLI.DAT
+1 16 0 10 60 -9 0 0 0 -20 0 0 0 9 1-8cyli.dat
 1 16 18.118 0 84.782 24.482 0.6 0 0 0 10 18.418 -0.8 0 rect2p.dat
 1 16 31.2 0 72.15 22.2 -0.6 0 0 0 -10 16.65 0.8 0 rect2p.dat

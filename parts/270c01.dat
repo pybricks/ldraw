@@ -2,7 +2,7 @@
 0 Name: 270c01.dat
 0 Author: Niels Karsdorp [nielsk]
 0 !LDRAW_ORG Shortcut UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 0 !HISTORY 2021-06-04 [Holly-Wood] Used corrected wheel shortcut
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 270.dat
 1 4 0 42 70 1 0 0 0 1 0 0 0 1 u9550c01.dat

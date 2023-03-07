@@ -2,17 +2,17 @@
 0 Name: 44375bp01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 44375bpb07, Big Ben, Set 10253
+0 !KEYWORDS Big Ben, Bricklink 44375bpb07, Set 10253
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\44375s01.dat
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 stug-2x2.dat
-
 
 0 BFC NOCLIP
 
@@ -28,7 +28,6 @@
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\44375bp01s01.dat
 1 16 0 0 0 0.5 0 -0.866025 0 1 0 0.866025 0 0.5 s\44375bp01s01.dat
 1 16 0 0 0 0.866025 0 -0.5 0 1 0 0.5 0 0.866025 s\44375bp01s01.dat
-
 
 4 0 38.95 2.86 1.8 39.2 2.897 1.75 39.4 2.931 2.1 39 2.871 2.1
 4 0 38.7 2.824 1.95 38.95 2.86 1.8 39 2.871 2.1 38.75 2.834 2.15

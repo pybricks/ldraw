@@ -2,7 +2,7 @@
 0 Name: s\11293s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2013-10-10 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-03-12 [MagFors] Adapted to fit bottom part 11295
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 3 16 20.248 67.604 -119.752 0 65.976 -119.738 10.498 60.1 -110.436
 3 16 10.498 60.1 -110.436 0 60.072 -110.622 6.688 51.875 -101.158

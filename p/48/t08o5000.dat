@@ -2,17 +2,18 @@
 0 Name: 48\t08o5000.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG 48_Primitive UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
 
+
 0 // Major Radius: 2
 0 // Tube(Minor) Radius: 1
 0 // Segments(Sweep): 6/48 = 0.125
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.5000 0 0  0 0 0.5000  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.5000 0 0 0 0 0.5000 0 1 0 4-4edge.dat
 
 4 16 1 0.5 0 0.9914 0.5 0.1305 1.0561 0.4957 0.139 1.0653 0.4957 0
 4 16 1.0653 0.4957 0 1.0561 0.4957 0.139 1.1197 0.483 0.1474 1.1294 0.483 0

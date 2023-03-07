@@ -2,14 +2,14 @@
 0 Name: 98138p1w.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS DOTS, Creativity Box
-0 !KEYWORDS Tired, Red Up, Angry
+0 !KEYWORDS Angry, Creativity Box, Dots, Red Up, Tired
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s01.dat
 1 226 0 0 0 9 0 0 0 1 0 0 0 9 4-4ering.dat
@@ -128,8 +128,6 @@
 3 226 -2.69 0 -4.26 -6.3639 0 -6.3639 -2.37 0 -4.74
 4 226 -6.3639 0 -6.3639 -2.69 0 -4.26 -2.86 0 -3.77 -8.3151 0 -3.4443
 3 226 -2.89 0 -3.37 -8.3151 0 -3.4443 -2.86 0 -3.77
-
-
 
 3 226 2 0 -1.5 1.86 0 -1.48 2.2 0 -1.7
 3 226 2 0 -1.5 2.2 0 -1.7 4.8 0 -1.5

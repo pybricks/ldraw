@@ -2,11 +2,12 @@
 0 Name: s\32090s01.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Subpart UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 1 16 -22.925 -3.84 -10 -0.5 0 1.325 2.52 0 0 0 1 0 rect2p.dat
 1 16 -21.6 -3.84 -7 0 -5.04 0.5 0 -1 -2.52 3 0 0 rect2a.dat

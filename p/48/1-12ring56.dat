@@ -2,11 +2,12 @@
 0 Name: 48\1-12ring56.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG 48_Primitive UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 16 57 0 0 56.5098 0 7.4385 55.5184 0 7.308 56 0 0
 4 16 56.5098 0 7.4385 55.0563 0 14.7516 54.0904 0 14.4928 55.5184 0 7.308

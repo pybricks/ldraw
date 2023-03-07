@@ -2,11 +2,12 @@
 0 Name: 48\4-4con75.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG 48_Primitive UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 4 16 75 1 0 74.355 1 9.7875 75.3464 0 9.918 76 0 0
 4 16 74.355 1 9.7875 72.4425 1 19.41 73.4084 0 19.6688 75.3464 0 9.918

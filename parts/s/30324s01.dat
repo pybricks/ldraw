@@ -2,7 +2,7 @@
 0 Name: s\30324s01.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,7 +12,8 @@
 0 !HISTORY 2017-07-13 [MagFors] bfc'd, closed gaps
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
 
-4 16 37 -5 -50 39 -5 -50 37.395 -12.15 -50 35.509 -11.538 -50 
+
+4 16 37 -5 -50 39 -5 -50 37.395 -12.15 -50 35.509 -11.538 -50
 2 24 37.395 -12.15 -50 39 -5 -50
 4 16 37.395 -12.15 -50 39 -5 -50 40 -5 -49 38.338 -12.457 -49
 5 24 40 -5 -49 38.338 -12.457 -49 39 -5 -50 45 -5 -41
@@ -140,5 +141,4 @@
 5 24 39 -5 -50 40 -5 -49 39 5 -50 37.395 -12.15 -50
 5 24 34.1674 11.1017 -44 44.952 14.606 -20 34.7724 9.3168 -44 33.6077 12.9013 -44
 5 24 44.952 14.606 -20 44.952 14.606 20 47 5 -20 40.9627 23.5808 -20
-
 

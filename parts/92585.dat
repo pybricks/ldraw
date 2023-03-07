@@ -2,7 +2,7 @@
 0 Name: 92585.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2015-03-14 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 4 16 -2.485 -9.787 -4.376 -3.598 -9.493 -9.998 3.598 -9.493 -9.998 2.485 -9.787 -4.376
 4 16 -3.598 -9.493 -9.998 -4.025 -8.238 -9.998 4.025 -8.238 -9.998 3.598 -9.493 -9.998

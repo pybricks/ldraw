@@ -2,11 +2,12 @@
 0 Name: 1-4ring79.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Primitive UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 4 16 80 0 0 73.912 0 30.616 72.9881 0 30.2333 79 0 0
 4 16 73.912 0 30.616 56.568 0 56.568 55.8609 0 55.8609 72.9881 0 30.2333

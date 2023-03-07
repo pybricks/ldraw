@@ -2,14 +2,15 @@
 0 Name: 3664p05.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Farm, set 045-1, set 2650-1, bricklink 3664pb08
+0 !KEYWORDS bricklink 3664pb08, Farm, set 045-1, set 2650-1
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3664s01.dat
 1 16 0 -24 -40 23 0 0 0 0 -23 0 1 0 4-4ering.dat

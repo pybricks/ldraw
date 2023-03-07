@@ -2,11 +2,12 @@
 0 Name: s\47391s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 16 21.2727 -8.8478 12.2815 23.0224 -13.7978 13.2916 26.1528 -13.7978 7.0081 24.1161 -8.8478 6.4623
 4 16 23.0224 -13.7978 13.2916 23.7685 -21.7512 13.7223 27.0581 -21.7512 7.2507 26.1528 -13.7978 7.0081

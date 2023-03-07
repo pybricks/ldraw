@@ -2,11 +2,12 @@
 0 Name: tooth8.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Primitive UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 0 5.43 0 0.7 0 0 0 -1 0 0 0 4.75 rect.dat
 1 16 1.1 4.415 0 -0.4 -1 0 1.015 0 0 0 0 4.75 rect2p.dat
@@ -28,4 +29,4 @@
 5 24 -1.5 2.1 4.75 -1.5 2.1 -4.75 -1.5 3.4 0 -1.35 0.232 0
 5 24 1.5 3.4 4.75 1.5 3.4 -4.75 1.5 2.1 0 0.7 5.43 0
 5 24 -1.5 3.4 4.75 -1.5 3.4 -4.75 -1.5 2.1 0 -0.7 5.43 0
-0 
+0

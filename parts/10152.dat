@@ -2,7 +2,7 @@
 0 Name: 10152.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2021-12-30 [MagFors] Reshaped axlehole
 0 !HISTORY 2022-01-17 [MMR1988] Changed 3-16ring2 reference to 3-16rin2
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 9 0 0 0 0 9 0 21 0 4-4cylo.dat
 1 16 0 0 60 9 0 0 0 0 9 0 -9 0 4-4cylo.dat

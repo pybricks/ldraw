@@ -2,11 +2,12 @@
 0 Name: 48\1-4con10.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG 48_Primitive UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 4 16 10 1 0 9.914 1 1.305 10.9054 0 1.4355 11 0 0
 4 16 9.914 1 1.305 9.659 1 2.588 10.6249 0 2.8468 10.9054 0 1.4355

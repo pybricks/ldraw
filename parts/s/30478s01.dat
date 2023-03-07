@@ -2,11 +2,12 @@
 0 Name: s\30478s01.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 3 16 0 -10.21 -82.883 0.896 -10.707 -83.049 0 -10.707 -83.049
 4 16 0 -9.713 -82.717 0.896 -9.713 -82.717 0.896 -10.707 -83.049 0 -10.21 -82.883

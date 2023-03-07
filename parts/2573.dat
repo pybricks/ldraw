@@ -2,11 +2,11 @@
 0 Name: 2573.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Hard-Plastic, Giant
+0 !KEYWORDS Giant, Hard-Plastic
 
 0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
 0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
@@ -15,6 +15,7 @@
 0 !HISTORY 2012-10-29 [spykidx] Fixed gaps, realigned studs, added some primitives, and BFC'd
 0 !HISTORY 2017-02-18 [MagFors] Closed gaps, added edge lines, standardized description
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 0 // Based on Steve Bliss' Space Wheel Medium
 0 // Hub

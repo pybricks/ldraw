@@ -2,12 +2,13 @@
 0 Name: 4129790b.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2007-11-02 [mikeheide] rotated and made origin in the middle to match standard
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 4 1 -54.25 -0.25 6.5 -55 -0.25 6.75 -56 -0.25 7 -54 -0.25 6
 4 1 -56 -0.25 -8 -55 -0.25 -7.75 -54.5 -0.25 -7.5 -54 -0.25 -7

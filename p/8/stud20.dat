@@ -2,12 +2,13 @@
 0 Name: 8\stud20.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG 8_Primitive UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 10.2 -5.5 -4.2 -1.8 -0.919145 0 0 0 5.5 -4.2 1 0 rect2p.dat
 1 16 4.2 -5.5 -10.2 -4.2 -39.6 0 0 0 5.5 -1.8 92.4 0 rect2p.dat

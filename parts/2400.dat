@@ -2,11 +2,11 @@
 0 Name: 2400.dat
 0 Author: Adam Howard [Whist]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Castle, dungeon, gate, keep, portal
+0 !KEYWORDS Castle, dungeon, Gate, keep, Portal
 
 0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
 0 !HISTORY 2007-12-24 [PTadmin] Replaced box38p references with box3u8p#
@@ -15,6 +15,7 @@
 0 !HISTORY 2017-07-18 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2017-07-18 [MagFors] Subfiled front surface
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 2 24 80 0 -1 0 1 0 0 0 0 1 stud2a.dat
 1 16 -2 24 80 0 1 0 1 0 0 0 0 -1 stud2a.dat

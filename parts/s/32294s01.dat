@@ -2,12 +2,13 @@
 0 Name: s\32294s01.dat
 0 Author: Marc Klein [marckl]
 0 !LDRAW_ORG Subpart UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2006-09-05 [WilliamH] Created sub-part from main file
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 1 16 0 10 -60 -6.36396 0 -6.36396 0 1 0 6.36396 0 -6.36396 1-8edge.dat
 1 16 0 20 -60 -6.36396 0 -6.36396 0 1 0 6.36396 0 -6.36396 1-8edge.dat

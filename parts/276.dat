@@ -2,7 +2,7 @@
 0 Name: 276.dat
 0 Author: Niels Karsdorp [nielsk]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -16,6 +16,7 @@
 0 !HISTORY 2011-02-12 [mikeheide] changed header like suggested by Steffen
 0 !HISTORY 2011-07-26 [MagFors] Added missing edge lines
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 0 // --Body
 1 16 0 4 0 35.5 0 0 0 -20 0 0 0 57.5 box4.dat

@@ -2,11 +2,12 @@
 0 Name: s\41890s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 3 16 1.7735 17.103 -9.168 1.9065 17.88 -6.946 3.5105 6.178 -6.204
 3 16 1.9065 17.88 -6.946 3.6385 7.459 -4.673 3.5105 6.178 -6.204

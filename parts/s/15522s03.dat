@@ -2,11 +2,12 @@
 0 Name: s\15522s03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 3 16 8.1224 -23.972 -12.2277 8.9401 -23.3349 -11.9886 8.8329 -24.5847 -11.5688
 3 16 6.808 -26.1928 -12.1692 5.0381 -26.3874 -12.2786 6.3136 -25.2982 -12.44

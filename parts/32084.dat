@@ -2,16 +2,17 @@
 0 Name: 32084.dat
 0 Author: Greg Teft [gregteft]
 0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-
-0 BFC CERTIFY CCW
-
-0 !KEYWORDS Star Wars, Windscreen, Slope, Train
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP To locate sticker centered on front face...
 0 !HELP 1 16 0 10 -60 1 0 0 0 .894427 -.447214 0 .447214 .894427 sticker.dat
 
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS slope, Star Wars, Train, windscreen
+
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 1 16 -50 0 40 0 0 -1 0 1 0 1 0 0 stug-1x4.dat
 1 16 50 0 40 0 0 -1 0 1 0 1 0 0 stug-1x4.dat

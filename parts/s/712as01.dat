@@ -2,7 +2,7 @@
 0 Name: s\712as01.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2015-12-08 [MMR1988] Used more prims, removed doubled edges
 0 !HISTORY 2015-12-13 [MagFors] Removed curved side
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 16 76 4 -36 -76 4 -36 -20 4 36 76 4 36
 3 16 -20 4 36 -76 4 -36 -76 4 -20

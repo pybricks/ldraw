@@ -2,11 +2,12 @@
 0 Name: s\71958s01.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Subpart UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 0 // Ribs underside missing, Edges needs to be curved
 
@@ -61,10 +62,10 @@
 1 16 0 8 173 0 -53 0 -8 0 0 0 0 -8 1-4cyli.dat
 4 16 -53 0 173 -53 0 -71 -74 0 -80 -74 0 210
 4 16 0 0 173 -53 0 173 -70 0 214 0 0 214
-0 
+0
 2 24 -37.047 0.207 -151.515 -35.199 0.609 -150.573
 2 24 -35.199 0.609 -150.573 -33.347 2.343 -146.511
 2 24 -33.347 2.343 -146.511 -32.725 4.938 -140.431
 2 24 -32.725 4.938 -140.431 -33.429 8 -133.257
-0 
+0
 

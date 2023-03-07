@@ -2,11 +2,12 @@
 0 Name: s\27956s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 3 16 .24 -32.592 -26.626 .621 -32.941 -26.998 0 -33.871 -25.834
 3 16 5.833575 0 5.833575 7.009 -8.33 4.709 7.622175 0 3.157275

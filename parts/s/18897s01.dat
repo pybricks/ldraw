@@ -2,11 +2,12 @@
 0 Name: s\18897s01.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 // Deformed stud at 20, 20
 0 // Primitives
@@ -294,6 +295,5 @@
 5 24 47.1353 18.3149 3.4442 48 18.3149 3.4442 48 19 0 48 16.364 6.364
 5 24 44.5986 16.364 6.364 48 16.364 6.364 48 18.3149 3.4442 48 13.4442 8.3149
 
-0 // 
-
+0 //
 

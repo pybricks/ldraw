@@ -2,15 +2,16 @@
 0 Name: 23816c01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Shortcut UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Lpf2, WeDo 2.0, Boost, Powered Up
+0 !KEYWORDS Boost, Lpf2, Powered Up, WeDo 2.0
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 0 !HISTORY 2019-04-17 [PTadmin] Renamed from 23816
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 23816a.dat
 1 256 0 0 -14 0 0 -1 -1 0 0 0 20 0 s\23816s01.dat

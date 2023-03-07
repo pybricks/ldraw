@@ -2,13 +2,14 @@
 0 Name: clh13.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Primitive UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP To use place 1 Ldu below top surface centered on stud location
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 -6.24 -6.794 0 0 -3.48 5.24 0 0 -.794 1 0 rect1.dat
 1 16 0 -6.24 6.794 0 0 3.48 5.24 0 0 .794 -1 0 rect1.dat

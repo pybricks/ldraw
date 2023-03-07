@@ -2,12 +2,13 @@
 0 Name: s\4511s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2021-09-13 [GeraldLasser] Extracted from Original file by James Jessiman
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 -124.375 0 -1.75 0 0 3.625 58 0 0 0 -.25 0 box2-5.dat
 1 16 -12.25 0 -1.5 0 0 3.5 -58 0 0 0 -.5 0 box3u2p.dat
@@ -128,7 +129,7 @@
 3 16 -128 -58 2 -128 -62 2.5 -128 -58 2.5
 4 16 -128 -62 2.5 -128 -58 2 -128 -58 -2 -128 -62 -2.5
 2 24 -128 -58 2.5 -128 -58 2
-2 24 -128 -58 -2 -128 -58 -2.5 
+2 24 -128 -58 -2 -128 -58 -2.5
 
 1 16 -64 60 0 64 0 0 0 0 2 0 -2.5 0 box2-5.dat
 3 16 -128 58 -2.5 -128 58 -2 -128 62 -2.5

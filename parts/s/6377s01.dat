@@ -2,14 +2,13 @@
 0 Name: s\6377s01.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Train
-
 0 !HISTORY 2013-01-10 [MMR1988] BFC'ed, add license, replace of quads by boxes and rects, rewrite some ares
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // half of big sleeper
 
@@ -50,7 +49,6 @@
 1 16 20 4 126 1.5 0 0 0 19 0 0 0 2 box4-1.dat
 1 16 60 12 126 1.5 0 0 0 11 0 0 0 2 box4-1.dat
 1 16 74 12 140 0 0 -2 0 11 0 1.5 0 0 box4-1.dat
-
 
 0 // stud on big sleeper
 
@@ -149,12 +147,10 @@
 1 16 20 0 -20 -1 0 0 0 1 0 0 0 -1 duplopin.dat
 1 16 -20 0 20 1 0 0 0 1 0 0 0 1 duplohol.dat
 
-
 1 16 60 12 6 1.5 0 0 0 11 0 0 0 2 box4-1.dat
 1 16 74 12 20 0 0 -2 0 11 0 1.5 0 0 box4-1.dat
 1 16 60 12 34 -1.5 0 0 0 11 0 0 0 -2 box4-1.dat
 1 16 45 12 20 0 0 3 0 11 0 -1.5 0 0 box4-1.dat
-
 
 1 16 35 4 20 0 0 -3 0 19 0 1.5 0 0 box4-1.dat
 
@@ -177,7 +173,6 @@
 2 24 -4.2983 23 21.5 -4 23 20
 2 24 -4 23 20 -4 23 18.5
 
-
 1 16 -60 12 6 -1.5 0 0 0 11 0 0 0 2 box4-1.dat
 1 16 -60 12 34 1.5 0 0 0 11 0 0 0 -2 box4-1.dat
 1 16 -74 12 20 0 0 2 0 11 0 1.5 0 0 box4-1.dat
@@ -189,7 +184,6 @@
 2 24 -35.7017 23 21.5 -36 23 20
 2 24 -35.7017 12 21.5 -36 12 20
 2 24 -36 23 20 -36 23 18.5
-
 
 0 // train track -x
 
@@ -220,7 +214,6 @@
 0 BFC INVERTNEXT
 1 16 -35.5 10.5 80 0 0 -1.5 0 -5.5 3 40 0 0 box2-7.dat
 
-
 0 // train tracks +x
 
 1 16 34 1 80 0 1 0 0 0 1 -40 0 0 recte3.dat
@@ -249,7 +242,6 @@
 
 0 BFC INVERTNEXT
 1 16 35.5 10.5 80 0 0 1.5 0 -5.5 3 -40 0 0 box2-7.dat
-
 
 0 // track ribs
 

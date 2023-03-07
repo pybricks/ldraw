@@ -2,12 +2,13 @@
 0 Name: 1-4con19.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Primitive UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-09-05 [Philo] Rebuilt with Primgen2
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 16 19 1 0 17.5541 1 7.2713 18.478 0 7.654 20 0 0
 4 16 17.5541 1 7.2713 13.4349 1 13.4349 14.142 0 14.142 18.478 0 7.654

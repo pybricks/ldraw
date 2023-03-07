@@ -2,14 +2,13 @@
 0 Name: 41881.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Canopy, Rounded, Slope
-0 !KEYWORDS Aquazone, Bionicle, Space Police, Star Wars
-0 !KEYWORDS Set 5974, Set 6209, Set 7153, Set 7775
-0 !KEYWORDS Set 8097, Set 8925, Set 8927
+0 !KEYWORDS Aquazone, bionicle, canopy, rounded, Set 5974, Set 6209, Set 7153
+0 !KEYWORDS Set 7775, Set 8097, Set 8925, Set 8927, slope, Space Police
+0 !KEYWORDS Star Wars
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 0 !HISTORY 2012-10-02 [Steffen] BFC rationalisation
@@ -17,6 +16,7 @@
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 0 !HISTORY 2021-10-23 [Sirio] Reworked and subparted for patternable area
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\41881s01.dat
 0 // Patternable area

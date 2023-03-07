@@ -2,17 +2,17 @@
 0 Name: 973p9j.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 10246, set 70806, set 45805, set 31079
-0 !KEYWORDS bricklink 973pb1608
-0 !KEYWORDS detective, lady in red, office 
+0 !KEYWORDS bricklink 973pb1608, detective, lady in red, office, set 10246
+0 !KEYWORDS set 31079, set 45805, set 70806
 
 0 !CMDLINE -c4
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 0 // Subfile
 

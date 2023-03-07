@@ -2,10 +2,11 @@
 0 Name: 3005pua.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS Ligature, æ
+
+0 !KEYWORDS æ, Ligature
 
 0 !HISTORY 2003-12-09 [Steffen] made use of existing subfile
 0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
@@ -13,6 +14,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2011-01-29 [Steffen] changed file encoding to UTF-8 without BOM, BFCed
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3005s01.dat
 4 1 6.85 8.75 -10 1.25 8.75 -10 -1.75 7.5 -10 6.85 7.5 -10

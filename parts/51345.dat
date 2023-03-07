@@ -2,14 +2,16 @@
 0 Name: 51345.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Merman, Brickbeard's Bounty, Fairytale, Historic 
+
+0 !KEYWORDS Brickbeard's Bounty, Fairytale, Historic, Merman
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2018-08-09 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\51345s01.dat
 4 16 17.664 10 -10.479 17.875 0 -9.927 -17.875 0 -9.927 -17.664 10 -10.479

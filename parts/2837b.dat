@@ -2,7 +2,7 @@
 0 Name: 2837b.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -16,6 +16,7 @@
 0 !HISTORY 2013-08-16 [Steffen] rectified, used stugs
 0 !HISTORY 2013-09-29 [MMR1988] Rewritten from the scratch
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // underside
 
@@ -152,10 +153,8 @@
 3 16 22 4 -46 34 4 -46 10 16 -46
 4 16 -22 4 -46 -20.5 2.5 -46 20.5 2.5 -46 22 4 -46
 
-
 1 16 34 25.25 0 0 1 0 0 0 -21.25 46 0 0 recte3.dat
 1 16 -34 25.25 0 0 1 0 0 0 -21.25 46 0 0 recte3.dat
-
 
 3 16 34 48 35 34 46.5 46 34 48 48
 4 16 34 46.5 46 34 48 35 34 48 25 34 4 46
@@ -176,8 +175,6 @@
 3 16 -34 4 -46 -34 48 -25 -34 48 -15
 4 16 -34 46.5 -46 -34 48 -35 -34 48 -25 -34 4 -46
 3 16 -34 48 -35 -34 46.5 -46 -34 48 -48
-
-
 
 0 // right side
 

@@ -2,10 +2,11 @@
 0 Name: 3039pc4.dat
 0 Author: Steve Demlow [demlow]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS train, 4.5v, 9v, town, model team, dials
+
+0 !KEYWORDS 4.5V, 9V, dials, Model Team, town, Train
 
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
@@ -13,6 +14,7 @@
 0 !HISTORY 2008-07-07 [Steffen] Un-mirrored the pattern of this part (2004-10-31)
 0 !HISTORY 2008-07-08 [guyvivan] Made BFC compliant (2004-11-28)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039s01.dat
 4 16 -13.126 3.99851 -13.9985 -15.1768 2.53347 -12.5335 -15.5849 2.82529 -12.8253 -13.536 4.29165 -14.2916

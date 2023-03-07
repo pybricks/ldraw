@@ -2,13 +2,14 @@
 0 Name: s\99013s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-10-16 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2012-10-16 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 4 16 -30.771 -581.988 3.73 -13.389 -535.106 3.74 -24.236 -531.085 3.113 -42.96 -577.469 2.937
 4 16 -30.771 -581.988 3.73 -14.531 -587.842 3.561 -1.669 -539.452 3.74 -13.389 -535.106 3.74

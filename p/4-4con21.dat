@@ -2,11 +2,12 @@
 0 Name: 4-4con21.dat
 0 Author: Niels Karsdorp [nielsk]
 0 !LDRAW_ORG Primitive UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
 
 4 16 21 1 0 19.4019 1 8.0367 20.3258 0 8.4194 22 0 0
 4 16 19.4019 1 8.0367 14.8491 1 14.8491 15.5562 0 15.5562 20.3258 0 8.4194
@@ -43,6 +44,5 @@
 5 24 14.8491 1 -14.8491 15.5562 0 -15.5562 8.0367 1 -19.4019 19.4019 1 -8.0367
 5 24 19.4019 1 -8.0367 20.3258 0 -8.4194 14.8491 1 -14.8491 21 1 0
 
-0 end of file 
-
+0 end of file
 

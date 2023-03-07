@@ -2,17 +2,18 @@
 0 Name: t02i4000.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Primitive UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 
+
 0 // Major Radius: 10
 0 // Tube(Minor) Radius: 4
 0 // Segments(Sweep): 8/16 = 0.5
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1  4-4edge.dat
-0 // 1 12  1 0 0  0.4000 0 0  0 0 0.4000  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.4000 0 0 0 0 0.4000 0 1 0 4-4edge.dat
 
 4 16 0.6 0 0 0.5543 0 0.2296 0.5825 0.1531 0.2413 0.6304 0.1531 0
 4 16 0.6304 0.1531 0 0.5825 0.1531 0.2413 0.6626 0.2828 0.2745 0.7172 0.2828 0

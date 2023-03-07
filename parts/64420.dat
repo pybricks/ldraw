@@ -2,15 +2,15 @@
 0 Name: 64420.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-02-06 [Steffen] Rotated to make orientation match other screws, renamed
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 
-0 // Nomenclature: Screw length_(LDu) x thread_diameter_(LDu) {head type} {slot type}
 
+0 // Nomenclature: Screw length_(LDu) x thread_diameter_(LDu) {head type} {slot type}
 
 1 16 0 42 0 0.487726 0 2.45196 0 -42 0 -2.45196 0 0.487726 4-4cylc.dat
 1 16 0 0 0 1.17054 0 5.88471 0 -1 0 -5.88471 0 1.17054 4-4disc.dat

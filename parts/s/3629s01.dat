@@ -2,12 +2,13 @@
 0 Name: s\3629s01.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2004-02-28 [Holly-Wood] separated part without front face into subpart; added cond. lines and missing edges; made BFC compliant
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 0 // Front face is:
 0 // 3 16 0 0 -14 -2 -14 -10 2 -14 -10

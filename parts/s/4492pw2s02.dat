@@ -1,12 +1,13 @@
-0 ~Animal Horse Head with Black/Red Tack and Feather Pattern - Right Side 
+0 ~Animal Horse Head with Black/Red Tack and Feather Pattern - Right Side
 0 Name: s\4492pw2s02.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Mane groove
 2 24 -8.975 -28.25 14 -9.75 -27 9
@@ -277,7 +278,6 @@
 3 4 -6.892 -52.921 -12.182 -6.952 -50.5 -11.95 -7.288 -51.515 -12.383
 3 4 -7.25 -56 -16 -6.547 -55.25 -15.625 -7.297 -55.247 -15.623
 3 4 -7.297 -55.247 -15.623 -6.547 -55.25 -15.625 -7.344 -54.5 -15.25
-
 
 0 // Red
 4 4 -8.385 -38.036 -44.988 -8.544 -35.57 -45.296 -8.685 -34.971 -47.064 -8.564 -37.237 -47.465

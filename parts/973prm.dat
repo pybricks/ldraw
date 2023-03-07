@@ -2,14 +2,15 @@
 0 Name: 973prm.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 973pb0418, Luke Skywalker, Star Wars, Set 10188, Set 8092, Set 7965
-0 !KEYWORDS Set 10179
+0 !KEYWORDS Bricklink 973pb0418, Luke Skywalker, Set 10179, Set 10188, Set 7965
+0 !KEYWORDS Set 8092, Star Wars
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10

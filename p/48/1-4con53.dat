@@ -2,11 +2,12 @@
 0 Name: 48\1-4con53.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG 48_Primitive UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 4 16 53 1 0 52.5442 1 6.9165 53.5356 0 7.047 54 0 0
 4 16 52.5442 1 6.9165 51.1927 1 13.7164 52.1586 0 13.9752 53.5356 0 7.047

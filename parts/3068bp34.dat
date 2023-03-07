@@ -2,15 +2,17 @@
 0 Name: 3068bp34.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3068bpb0929, Set 41428, Set 76060, Set 60272, Set 45813, Set 75930
-0 !KEYWORDS Set 31064, Set 40158, Set 21310, Set 31109, Set 21322, Set 43114, Set 40341
-0 !KEYWORDS Set 70413, Set 70411, Set 10403, Pirates, Treasure
+0 !KEYWORDS Bricklink 3068bpb0929, Pirates, Set 10403, set 21310, set 21322
+0 !KEYWORDS Set 31064, set 31109, Set 40158, Set 40341, Set 41428, Set 43114
+0 !KEYWORDS Set 45813, Set 60272, Set 70411, Set 70413, Set 75930, Set 76060
+0 !KEYWORDS treasure
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 

@@ -2,12 +2,12 @@
 0 Name: 4320.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Slope
+0 !KEYWORDS slope
 
 0 !HISTORY 2001-12-31 [PTadmin] Official Update 2001-03
 0 !HISTORY 2002-02-16 [cwdee] fixed small overlap when asembled with roof parts
@@ -20,6 +20,7 @@
 0 !HISTORY 2017-09-05 [PTadmin] renamed from 787
 0 !HISTORY 2017-12-23 [cwdee] Removed empty comments
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 -21.2 56 0 0 16 21.2 0 0 0 1 0 rect.dat
 1 16 0 -32.8 40 1 0 0 0 -8.2 0 0 0 1 stud4a.dat

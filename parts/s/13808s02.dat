@@ -2,11 +2,13 @@
 0 Name: s\13808s02.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !HISTORY 2014-02-02 [MagFors] Subfiled for correct colouring
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 3 16 0 -49.998 7.593 -1.283 -50.443 10.494 -1.596 -49.699 7.778
 3 16 0 -49.998 7.593 0 -50.613 10.37 -1.283 -50.443 10.494

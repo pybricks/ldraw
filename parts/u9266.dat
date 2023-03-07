@@ -2,11 +2,12 @@
 0 Name: u9266.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 0 -2.625 0 11.25 0 0 0 2.625 0 0 0 11.25 box2-5.dat
 1 16 0 -2.8048 -11.25 0 0 11.25 2.8048 0 0 0 1 0 rect2p.dat

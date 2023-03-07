@@ -2,13 +2,15 @@
 0 Name: 2431p07.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Town, Fun fair, Fairground, Set 40373, Set 60234, Bricklink 2431pb580
+0 !KEYWORDS Bricklink 2431pb580, Fairground, Fun fair, Set 40373, Set 60234
+0 !KEYWORDS town
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // Subfile
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat

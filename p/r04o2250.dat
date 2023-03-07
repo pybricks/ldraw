@@ -2,17 +2,18 @@
 0 Name: r04o2250.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Primitive UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
+
 0 // Major Radius: 4
 0 // Tube(Minor) Radius: 9
 0 // Segments(Sweep): 4/16 = 0.25
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 2.2500 0 0  0 0 2.2500  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 2.2500 0 0 0 0 2.2500 0 1 0 4-4edge.dat
 
 4 16 1 2.25 0 0.9239 2.25 0.3827 1.7194 2.0788 0.7122 1.8611 2.0788 0
 4 16 1.8611 2.0788 0 1.7194 2.0788 0.7122 2.3938 1.591 0.9916 2.591 1.591 0

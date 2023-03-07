@@ -2,14 +2,14 @@
 0 Name: 6142275f.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Speed Champions, Audi, e-tron, quattro, R18
-0 !KEYWORDS Set 75872
+0 !KEYWORDS Audi, e-tron, quattro, R18, Set 75872, Speed Champions
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 0 // Primitives
 1 16 -36.5 0 6.5 -1.5 0 0 0 -1 0 0 0 1.5 1-4chrd.dat
@@ -26,7 +26,7 @@
 1 0 36.5 -.25 -6.5 1.5 0 0 0 1 0 0 0 -1.5 1-4chrd.dat
 0 // Bottom faces
 4 16 36.5 0 8 38 0 6.5 -38 0 6.5 -36.5 0 8
-4 16  38 0 6.5 38 0 -6.5 -38 0 -6.5 -38 0 6.5
+4 16 38 0 6.5 38 0 -6.5 -38 0 -6.5 -38 0 6.5
 4 16 36.5 0 -8 -36.5 0 -8 -38 0 -6.5 38 0 -6.5
 0 // Lateral faces
 3 16 -36.5 0 8 -36.5 -.25 8 18.25 -.25 8
@@ -46,7 +46,7 @@
 3 0 38 -.25 6.5 14 -.25 0 15.6313 -.25 -1.5
 4 0 38 -.25 6.5 15.6313 -.25 -1.5 16.8725 -.25 -2.6 38 -.25 -2.6
 4 0 38 -.25 -6.5 38 -.25 -5.4 19.8725 -.25 -5.4 22.7 -.25 -8
-3 0 38 -.25 -6.5 22.7 -.25 -8 36.5 -.25 -8 
+3 0 38 -.25 -6.5 22.7 -.25 -8 36.5 -.25 -8
 0 // Grey faces
 4 71 16.8725 -.25 -2.6 15.6313 -.25 -1.5 -38 -.25 -1.5 -38 -.25 -2.6
 3 71 19.8725 -.25 -5.4 -38 -.25 -5.4 -38 -.25 -6.5

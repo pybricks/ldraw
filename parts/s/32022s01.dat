@@ -2,11 +2,12 @@
 0 Name: s\32022s01.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Subpart UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 4 16 -26.095 0 3.315 -25.84 0 3.91 -30 0 9.75 -26.265 0 3.06
 3 16 -30 0 9.75 -26.52 0 2.975 -26.265 0 3.06

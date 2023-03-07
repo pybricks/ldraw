@@ -2,7 +2,7 @@
 0 Name: 210.dat
 0 Author: Ildefonso Zanette [izanette]
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [nielsk] Made BFC compliant, Made use of stug primitives (2005-11-02)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
 
 1 16 140 0 80 1 0 0 0 1 0 0 0 1 stug8.dat
 1 16 140 0 -80 1 0 0 0 1 0 0 0 1 stug8.dat

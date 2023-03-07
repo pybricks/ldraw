@@ -2,12 +2,13 @@
 0 Name: s\58381s04.dat
 0 Author: Rolf Osterthun [Rolf]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-10-19 [Rolf] Separated from s\58381s01.dat
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 1 16 6 -3 0 0 1 0 -2 0 0 0 0 -2 1-4edge.dat
 1 16 6 3 0 0 1 0 2 0 0 0 0 -2 1-4edge.dat

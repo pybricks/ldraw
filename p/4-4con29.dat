@@ -2,11 +2,12 @@
 0 Name: 4-4con29.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Primitive UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
 
 4 16 29 1 0 26.7931 1 11.0983 27.717 0 11.481 30 0 0
 4 16 26.7931 1 11.0983 20.5059 1 20.5059 21.213 0 21.213 27.717 0 11.481
@@ -43,6 +44,5 @@
 5 24 20.5059 1 -20.5059 21.213 0 -21.213 11.0983 1 -26.7931 26.7931 1 -11.0983
 5 24 26.7931 1 -11.0983 27.717 0 -11.481 20.5059 1 -20.5059 29 1 0
 
-0 end of file 
-
+0 end of file
 

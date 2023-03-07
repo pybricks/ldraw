@@ -2,13 +2,14 @@
 0 Name: 6177949a.dat
 0 Author: Massimo Maso [Sirio]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 75878, Speed Champions, Bugatti, Chiron
+0 !KEYWORDS Bugatti, Chiron, Set 75878, Speed Champions
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // Primitives
 1 16 -16.5 0 7.7732 -1.5 0 0 0 -1 0 0 0 1.5 1-4chrd.dat
@@ -984,8 +985,6 @@
 3 80 10.35 -.25 -5.635 2.3 -.25 -4.6026 1.15 -.25 -4.6026
 3 80 0 -.25 -4.6026 10.35 -.25 -5.635 1.15 -.25 -4.6026
 0 // Black faces on the sides
-
-
 
 3 0 -11.2855 -.25 -2.2422 -11.5 -.25 -1.8027 -11.6257 -.25 -1.7507
 3 0 -12.1426 -.25 -1.1997 -11.6257 -.25 -1.7507 -11.6777 -.25 -1.625

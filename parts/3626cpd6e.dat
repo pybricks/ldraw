@@ -1,14 +1,15 @@
-0 Minifig Head with Large Black Open Mouth with Uvula and Red Tongue Pattern 
+0 Minifig Head with Large Black Open Mouth with Uvula and Red Tongue Pattern
 0 Name: 3626cpd6e.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Lego Batman Movie, Orca, Bricklink 3626cpb1719
+0 !KEYWORDS Bricklink 3626cpb1719, Lego Batman Movie, Orca
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 
@@ -276,7 +277,6 @@
 5 24 4.9751 4 -12.0107 4.9751 17 -12.0107 9.1923 4 -9.1923 0 4 -13
 5 24 9.1923 4 -9.1923 9.1923 17 -9.1923 12.0107 4 -4.9751 4.9751 4 -12.0107
 5 24 12.0107 4 -4.9751 12.0107 17 -4.9751 13 4 0 9.1923 4 -9.1923
-
 
 0 // CHIN Front Lines 3-8
 0 // CHIN Front Lines 1-16 Left

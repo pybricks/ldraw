@@ -2,7 +2,7 @@
 0 Name: 8\stud16.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG 8_Primitive UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
 0 !HISTORY 2022-12-01 [OrionP] Fixed error in header name
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 -4 0 4.24264 0 -4.24264 0 1 0 4.24264 0 4.24264 8\1-4edge.dat
 1 16 0 0 0 4.24264 0 -4.24264 0 1 0 4.24264 0 4.24264 8\1-4edge.dat

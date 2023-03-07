@@ -2,7 +2,7 @@
 0 Name: 6024.dat
 0 Author: Richard Finegold
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -10,8 +10,9 @@
 0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [tchang] Add BFC (2008-02-08)
-0 !HISTORY 2008-12-04 [mkennedy] moved surfaces and crescent studs to subparts, used stud groups 
+0 !HISTORY 2008-12-04 [mkennedy] moved surfaces and crescent studs to subparts, used stud groups
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30473s2.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6024s3.dat
@@ -49,13 +50,13 @@
 1 16 310 0 -130 1 0 0 0 1 0 0 0 1 stud.dat
 0
 1 16 316 0 316 4 0 0 0 1 0 0 0 4 1-4disc.dat
-4 16 -316 0 316 -316 0 320 316 0 320 316 0 316 
+4 16 -316 0 316 -316 0 320 316 0 320 316 0 316
 1 16 -316 0 316 -4 0 0 0 1 0 0 0 4 1-4disc.dat
-4 16 -316 0 -316 -320 0 -316 -320 0 316 -316 0 316 
+4 16 -316 0 -316 -320 0 -316 -320 0 316 -316 0 316
 1 16 -316 0 -316 -4 0 0 0 1 0 0 0 -4 1-4disc.dat
-4 16 316 0 -316 316 0 -320 -316 0 -320 -316 0 -316 
+4 16 316 0 -316 316 0 -320 -316 0 -320 -316 0 -316
 1 16 316 0 -316 4 0 0 0 1 0 0 0 -4 1-4disc.dat
-4 16 316 0 316 320 0 316 320 0 -316 316 0 -316 
+4 16 316 0 316 320 0 316 320 0 -316 316 0 -316
 0
 1 16 200 -72 240 1 0 0 0 1 0 0 0 1 stug4.dat
 1 16 260 -72 180 1 0 0 0 1 0 0 0 1 stug2.dat

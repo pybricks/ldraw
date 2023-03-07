@@ -2,14 +2,15 @@
 0 Name: 4066bp0q.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS House, Garage, Airport, Set 2648, bricklink 4066pb118
+0 !KEYWORDS Airport, bricklink 4066pb118, Garage, house, Set 2648
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 4 14 -15.5 7 -20 -26 7 -20 -29 18 -20 -12.5 18 -20

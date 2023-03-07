@@ -2,11 +2,12 @@
 0 Name: u9304.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9303s01.dat
 
@@ -89,7 +90,6 @@
 2 24 -2.1213 28.22979 -29.1213 -1.630034 28.22979 -29.44962
 2 24 -2.196391 27.96325 -29.00894 -2.1213 28.22979 -29.1213
 2 24 -1.261969 28.73117 -29.6956 -1.1481 29 -29.7717
-
 
 1 16 0 20 -27 0 0 3 0 1 -0.59655 -3 0 0 1-4edge.dat
 1 16 0 20 -27 0 0 -3 0 1 -0.59655 -3 0 0 1-4edge.dat

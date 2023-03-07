@@ -2,11 +2,12 @@
 0 Name: stud27a.dat
 0 Author: Tim Lampmann [L4mpi]
 0 !LDRAW_ORG Primitive UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 BFC INVERTNEXT
 1 16 0 0 0 0 0 11 0 -4 0 11 0 0 4-4cyli.dat

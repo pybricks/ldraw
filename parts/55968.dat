@@ -2,7 +2,7 @@
 0 Name: 55968.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Position in body: x=0, y=-40, z=-90..-78
 
@@ -15,8 +15,8 @@
 0 !HISTORY 2021-12-31 [MagFors] Reshaped axlehole
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
 
-0 // Needs Work: Back of button not properly detailed
 
+0 // Needs Work: Back of button not properly detailed
 
 1 16 0 0 0 7 0 0 0 1 0 0 0 7 4-4edge.dat
 1 16 0 0 0 1 0 0 0 10 0 0 0 1 axlehole.dat

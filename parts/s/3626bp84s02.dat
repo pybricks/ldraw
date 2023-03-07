@@ -2,11 +2,12 @@
 0 Name: s\3626bp84s02.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Subpart UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 4 16 -5.32 5.125 -11.78 -4.975 5.112 -12.011 -4.975 5.87 -12.011 -5.297 5.856 -11.796
 4 16 -5.672 5.198 -11.545 -5.32 5.125 -11.78 -5.297 5.856 -11.796 -5.622 5.896 -11.578

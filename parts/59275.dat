@@ -2,7 +2,7 @@
 0 Name: 59275.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -21,6 +21,7 @@
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 0 !HISTORY 2021-04-02 [cwdee] Obsoleted due to incorrect orientation
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 2 0 0 0 1 s\10190s01.dat
 1 16 0 0 0 1 0 0 0 2 0 0 0 -1 s\10190s01.dat

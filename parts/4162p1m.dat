@@ -2,13 +2,14 @@
 0 Name: 4162p1m.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 21054, BrickLink 4162pb222
+0 !KEYWORDS BrickLink 4162pb222, set 21054
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4162s01.dat
 4 15 -29.606 0 -4.094 -28.492 0 -4.094 -28.992 0 -2.493 -31.684 0 3.899

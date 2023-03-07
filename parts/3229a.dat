@@ -2,7 +2,7 @@
 0 Name: 3229a.dat
 0 Author: Manfred Moolhuysen
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-01-09 [Steffen] Modified with WINDZ for BFC compliance
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 4 16 -163.88 16 -26.14 -163.88 9 -26.14 -167.78 9 -6.52 -167.78 16 -6.52
 4 16 -165.44 9 -18.29 -165.44 1 -18.29 -166.22 1 -14.37 -166.22 9 -14.37

@@ -2,12 +2,13 @@
 0 Name: 3815pde.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
 0 !CMDLINE -c15
 
-0 !HISTORY 2009-09-16 [Philo]   Moved crotch to main part
+0 !HISTORY 2009-09-16 [Philo] Moved crotch to main part
 0 !HISTORY 2010-12-31 [Steffen] closed gap
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 0 !HISTORY 2013-03-18 [MagFors] Changed colour 383 to 80 (printed silver)
@@ -15,6 +16,7 @@
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 0 !HISTORY 2020-05-30 [cwdee] Obsoleted due to bad geometry
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3815s01.dat
 1 16 -2 12 0 0 4 0 -6.364 0 6.364 -6.364 0 -6.364 5-16cyli.dat

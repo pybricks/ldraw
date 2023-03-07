@@ -2,13 +2,14 @@
 0 Name: 6342869ac01.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10283, Discovery
+0 !KEYWORDS Discovery, Set 10283
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 4 383 -15 -75.0986 -9.8854 -15 -75.5237 -3.4334 15 -75.5237 -3.4334 15 -75.0986 -9.8854
 4 383 -15 -73.1669 -19.6041 -15 -75.0986 -9.8854 15 -75.0986 -9.8854 15 -73.1669 -19.6041

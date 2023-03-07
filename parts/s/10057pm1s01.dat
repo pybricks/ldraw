@@ -2,11 +2,12 @@
 0 Name: s\10057pm1s01.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 3 16 10.354 -54.464 -29.603 9.254 -51.486 -35.517 11.25 -51.009 -30.536
 3 0 1.29 -44.91 -39.1242 1.61 -44.46 -38.9877 1.63 -44.68 -38.9975

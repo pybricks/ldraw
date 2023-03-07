@@ -2,11 +2,12 @@
 0 Name: s\6179ps0s01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 80 -21.25 0 -21.5 .075 0 0 0 1 0 0 0 .075 s\777s07.dat
 1 16 -21.25 0 -21.5 .075 0 0 0 1 0 0 0 .075 s\777s09.dat

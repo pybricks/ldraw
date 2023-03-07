@@ -2,14 +2,15 @@
 0 Name: 43898pa2.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 7416, Set 7419, Adventurers, Orient Expedition
-0 !KEYWORDS Bricklink 43898px2
+0 !KEYWORDS Adventurers, Bricklink 43898px2, Orient Expedition, Set 7416
+0 !KEYWORDS set 7419
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43898s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43898s05.dat

@@ -2,15 +2,15 @@
 0 Name: s\821421cs02.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Subpart UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 
+
 0 // Thinner Lines
 0 // For multiple use in different colors
-
 
 0 // Red
 1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\821421cs03.dat

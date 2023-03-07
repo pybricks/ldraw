@@ -2,11 +2,12 @@
 0 Name: s\93247s02.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 16 4 3 0 3.6956 3 1.5308 3.6956 1.5 1.5308 4 0.75 0
 4 16 3.6956 3 1.5308 2.8284 3 2.8284 2.8284 2.25 2.8284 3.6956 1.5 1.5308

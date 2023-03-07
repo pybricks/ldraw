@@ -2,14 +2,16 @@
 0 Name: 3622p10.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3622pb082, unikitty!, CMF, collectible minifigures, series 1, set 41775
+0 !KEYWORDS Bricklink 3622pb082, CMF, Collectible Minifigures, series 1
+0 !KEYWORDS Set 41775, unikitty!
 
 0 !HISTORY 2021-11-01 [Holly-Wood] Changed color, added set reference, rounded mouth
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3622s01.dat
 1 0 3.77 14.2 -10 .7 0 0 0 0 -.7 0 1 0 1-4ndis.dat

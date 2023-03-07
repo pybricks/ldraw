@@ -2,15 +2,15 @@
 0 Name: 4346pw01.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS wild west, western, cowboys, sheriff, bank,
-0 !KEYWORDS treasure, cabinet, case, key, combination lock
-0 !KEYWORDS set 6755, set 6761, set 6764, set 6765, 6799
+0 !KEYWORDS 6799, Bank, cabinet, Case, combination lock, cowboys, key, set 6755
+0 !KEYWORDS set 6761, Set 6764, set 6765, sheriff, treasure, western, wild west
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 0 // Pattern
 0 // Black
@@ -1504,5 +1504,5 @@
 4 16 0 30.658 -30 -.878 37.65 -30 -.541 37.894 -30 4.626 38.097 -30
 3 16 -.541 37.894 -30 -.44 38.31 -30 4.626 38.097 -30
 
-0 // Subpart Container Box  2 x  2 x  2 Door with Slot
+0 // Subpart Container Box 2 x 2 x 2 Door with Slot
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4346s01.dat

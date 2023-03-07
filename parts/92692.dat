@@ -2,7 +2,7 @@
 0 Name: 92692.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Angle: 21.5 deg.
 0 !HELP Centre point of angled bars: x = +/-15.8244 ; y = 2 ; z = -37.589
@@ -10,6 +10,7 @@
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT

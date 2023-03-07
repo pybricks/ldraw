@@ -2,12 +2,14 @@
 0 Name: 6285381cc01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS set 75895, Porsche, 911, front, bumper
+
+0 !KEYWORDS 911, bumper, front, Porsche, set 75895
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 4 16 4.2 7.36 -8.27 8 7.36 -8.27 8 3.16 4.12 4.2 3.16 4.12
 4 16 -8 7.36 -8.27 -4.2 7.36 -8.27 -4.2 3.16 4.12 -8 3.16 4.12

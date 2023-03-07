@@ -2,11 +2,12 @@
 0 Name: 92241p17.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\92241s01.dat
 0 // Front
@@ -1299,4 +1300,4 @@
 4 16 -11 4 0 -10.9462 4.2313 1.3634 -10.8852 4.8331 1.1746 -10.875 5.1127 0.2298
 3 18 -10.69 6.76 0.57 -10.8852 4.8331 1.1746 -10.8604 4.6 1.8121
 3 16 -10.9462 4.2313 1.3634 -10.8604 4.6 1.8121 -10.8852 4.8331 1.1746
-5 24 9.13 13.09 -5.22 10.07 12.95 -2.62 9.37 18 -5.11 10.09 9.62 -2.24 
+5 24 9.13 13.09 -5.22 10.07 12.95 -2.62 9.37 18 -5.11 10.09 9.62 -2.24

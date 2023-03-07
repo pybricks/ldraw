@@ -2,11 +2,12 @@
 0 Name: s\2507pa1s01.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 4 1 40 24.617 -10.113 40 25.267 -13.382 40 27.2 -13.192 40 27.2 -9.859
 4 1 40 27.2 -9.859 40 27.2 -13.192 40 29.133 -13.382 40 29.783 -10.113

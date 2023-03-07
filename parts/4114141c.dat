@@ -2,13 +2,14 @@
 0 Name: 4114141c.dat
 0 Author: Merlijn Wissink [legolijntje]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS set 2879, set 5909, set 5948
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 4 0 42.3 -0.25 -34.5 44 -0.25 -34.5 44 -0.25 -33 8.9 -0.25 -3.2
 4 0 -5 -0.25 2.7 -4.1 -0.25 2.7 -4.1 -0.25 3.7 -5 -0.25 3.7

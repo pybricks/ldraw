@@ -2,11 +2,12 @@
 0 Name: s\3961pn0s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 4 15 -64.6716 12.4994 26.7878 -67.6148 12.5008 18.1173 -62.7852 10.7507 16.8232 -60.3938 10.7496 23.868
 4 15 -64.4439 10.7511 8.4842 -62.7852 10.7507 16.8232 -67.6148 12.5008 18.1173 -69.4011 12.5011 9.1368

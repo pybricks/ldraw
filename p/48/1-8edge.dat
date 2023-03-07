@@ -2,7 +2,7 @@
 0 Name: 48\1-8edge.dat
 0 Author: [PTadmin]
 0 !LDRAW_ORG 48_Primitive UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-01-17 [Steffen] added BFC CERTIFY statement
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 2 24 1 0 0 0.9914 0 0.1305
 2 24 0.9914 0 0.1305 0.9659 0 0.2588

@@ -2,13 +2,14 @@
 0 Name: 2440p67.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS Space, Ice Planet 2002, set 1704, set 6983
+0 !KEYWORDS Ice Planet 2002, set 1704, set 6983, Space
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2440s01.dat
 4 0 -12.497 -3 -2.156 -10.542 -3 -0.556 -8.459 -3 -0.556 -8.21 -3 -3.401

@@ -2,12 +2,13 @@
 0 Name: s\42443s01.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-10-30 [MagFors] Added edge lines, reworked top of inside cylinder.
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 3 16 13.056 21.649 7.04 9.104 22.702 9.104 6.72 21.278 13.117
 3 16 0 21.706 14.756 4.927 22.715 11.895 0 22.769 12.875

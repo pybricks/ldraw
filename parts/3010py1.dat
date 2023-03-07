@@ -2,13 +2,14 @@
 0 Name: 3010py1.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 41614, BrickLink 3010pb230, BrickHeadz, Blue, Jurassic World
+0 !KEYWORDS Blue, Brickheadz, BrickLink 3010pb230, Jurassic world, Set 41614
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 

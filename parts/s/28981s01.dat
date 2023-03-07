@@ -2,11 +2,12 @@
 0 Name: s\28981s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 4 16 71.9028 0 -1.3295 72.259 0 -0.2 95 0 -0.2 95 0 -3.5
 4 16 83.3 0 -7.337 71.9028 0 -1.3295 95 0 -3.5 85.7733 0 -7.829

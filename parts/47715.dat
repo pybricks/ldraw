@@ -2,7 +2,7 @@
 0 Name: 47715.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2011-08-23 [Brickaneer] Studs optimized (using new stud21a/22a)
 0 !HISTORY 2011-08-25 [cwdee] Rotated Axle Bush
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 4 16 4 64 10 16 64 6 -16 64 6 -4 64 10
 4 16 6 64 50 4 64 46 -4 64 46 -6 64 50

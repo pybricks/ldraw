@@ -2,7 +2,7 @@
 0 Name: 683.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -19,6 +19,7 @@
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 0 !HISTORY 2015-03-08 [Philo] Made shaft hole 2 ldu deeper
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 0 // Nomenclature: width_(mm) x rim_diameter_(mm) [optional qualifier]
 

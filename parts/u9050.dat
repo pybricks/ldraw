@@ -2,13 +2,14 @@
 0 Name: u9050.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !CATEGORY Brick
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 // Needs Work: Inside assumed
 
@@ -39,7 +40,7 @@
 4 16 -4 31.5 -7.5 -4 46 26 -4 40 26 -4 31.5 7.5
 4 16 -4 44 -26 -4 44 -34 -4 46 -34 -4 46 -26
 4 16 -4 40 -26 -4 46 -26 -4 46 26 -4 31.5 -7.5
-4 16 -4 40 -26 -4 31.5 -7.5 -4 30 -34 -4 40 -34 
+4 16 -4 40 -26 -4 31.5 -7.5 -4 30 -34 -4 40 -34
 3 16 -4 46 -58 -4 46 -34 -4 40 -34
 4 16 -4 30 -46 -4 46 -58 -4 40 -34 -4 30 -34
 4 16 -4 18 -46 -4 0 -58 -4 46 -58 -4 30 -46
@@ -62,7 +63,7 @@
 1 16 -10 -2 30 4 0 0 0 1 0 0 0 -4 5-16edge.dat
 1 16 -10 -2 30 4 0 0 0 4 0 0 0 4 5-16cyli.dat
 1 16 -10 -2 30 4 0 0 0 4 0 0 0 -4 5-16cyli.dat
-1 16 -10  2 30 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 -10 2 30 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 -10 -2 30 4 0 0 0 1 0 0 0 4 5-16chrd.dat
 1 16 -10 -2 30 4 0 0 0 1 0 0 0 -4 5-16chrd.dat
 3 16 -6 -2 30 -11.531 -2 26.304 -11.531 -2 33.696

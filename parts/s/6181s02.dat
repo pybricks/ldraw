@@ -2,13 +2,14 @@
 0 Name: s\6181s02.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Subpart UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-09 [tchang] Cleanup header
 0 !HISTORY 2014-12-18 [tchang] Add struts
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 0 // Exterior
 4 16 196 24 0 200 24 0 198.28 24 -26.1 194.314 24 -25.578

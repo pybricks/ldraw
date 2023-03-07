@@ -1,17 +1,17 @@
-0 ~Electric Train Track  9V Power Connector 
+0 ~Electric Train Track  9V Power Connector
 0 Name: 2913.dat
 0 Author: Ludo Soete [ludo]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2013-04-11 [MagFors] Changed colour 383 to 494 (real metal)
 0 !HISTORY 2013-04-11 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2013-04-14 [MagFors] Removed t-junctions, used box-primitives
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Bottom part & conductor plate
 0 // Part number found on the INNER SIDE of the BOTTOM PIECE.
@@ -115,7 +115,7 @@
 0 // highest standing pin (1)
 2 24 -18 24 3.87 -15 24 3.87
 2 24 -18 24 7.87 -15 24 7.87
-3 16 -18 24 3.87 -15 24 3.87 -18 19.5 3.87 
+3 16 -18 24 3.87 -15 24 3.87 -18 19.5 3.87
 4 16 -18 19.5 3.87 -15 24 3.87 -15 11.5 3.87 -16.5 11.5 3.87
 3 16 -18 19.5 7.87 -15 24 7.87 -18 24 7.87
 4 16 -16.5 11.5 7.87 -15 11.5 7.87 -15 24 7.87 -18 19.5 7.87

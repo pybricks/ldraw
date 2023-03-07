@@ -2,15 +2,16 @@
 0 Name: u9106p03c02.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Shortcut Physical_Colour UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Set 1516, Set 3645, Set 3659, Set 3674
-0 !KEYWORDS Set 3676, Set 3680, Set 3718
-0 !KEYWORDS Rabbit, Bonnie Bunny, Jeannot Lapin
-0 !KEYWORDS Bonnie Kaninchen, Tilly Konijn, Conny Konijn
+
+0 !KEYWORDS Bonnie Bunny, Bonnie Kaninchen, Conny Konijn, Jeannot Lapin, Rabbit
+0 !KEYWORDS Set 1516, Set 3645, Set 3659, set 3674, Set 3676, Set 3680, Set 3718
+0 !KEYWORDS Tilly Konijn
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 0 // needs work: head color not yet confirmed to be correct
 

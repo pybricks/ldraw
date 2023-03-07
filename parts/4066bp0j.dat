@@ -2,14 +2,16 @@
 0 Name: 4066bp0j.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Service station, Fuel, Garage, Set 2644, Set 2648, bricklink 4066pb042
+0 !KEYWORDS bricklink 4066pb042, Fuel, Garage, Service station, Set 2644
+0 !KEYWORDS Set 2648
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 4 15 -4.25 13.5 -20 -14.25 13.5 -20 -15.75 14 -20 -2.75 14 -20

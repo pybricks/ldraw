@@ -2,14 +2,15 @@
 0 Name: 47261a.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-0 !HISTORY 2017-07-03 [cwdee]   Use cylinder primitives with conditional lines
+0 !HISTORY 2017-07-03 [cwdee] Use cylinder primitives with conditional lines
 0 !HISTORY 2017-08-19 [MagFors] primitive substitution to reduce number of triangles
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 15 0 -.25 0 29 0 0 0 .25 0 0 0 29 4-4cyli.dat
 0 BFC INVERTNEXT

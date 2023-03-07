@@ -2,7 +2,7 @@
 0 Name: s\11301s01.dat
 0 Author: Kevin Roach [KROACH]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2015-10-08 [MagFors] Moved tubes for understuds from mainpart
 0 !HISTORY 2018-05-24 [MagFors] Redesign bottom studs, flat inside
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 4 16 37 27 -16 30 27 -4 30 27 -1 37 27 -1
 4 16 37 27 1 30 27 1 30 27 4 37 27 16
@@ -354,7 +355,6 @@
 3 16 78 0 11 75.801 4.971 11 75.801 0 11
 3 16 75.8011 0 9 75.8011 4.9712 9 78 0 9
 
-
 1 16 50 24 10 1 0 0 0 1 0 0 0 1 stud2a.dat
 1 16 50 24 10 1 0 0 0 8.5 0 0 0 1 stud2s2e.dat
 0 BFC INVERTNEXT
@@ -529,7 +529,6 @@
 2 24 27.787 40 1 29.239 37.827 1
 2 24 29.239 37.827 1 30 34 1
 2 24 27.787 42 1 27.787 40 1
-
 
 1 16 36.5 27 10 0 0 -.5 0 20.8 0 .75 0 0 box4-1.dat
 1 16 36.5 27 -10 0 0 -.5 0 20.8 0 .75 0 0 box4-1.dat

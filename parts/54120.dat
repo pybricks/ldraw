@@ -2,16 +2,17 @@
 0 Name: 54120.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Fitting 44772 wheel:
 0 !HELP 1 0 0 0 -3 1 0 0 0 1 0 0 0 1 54120.dat
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Technic, 94.8 x 44 R
+0 !KEYWORDS 94.8 x 44 R, Technic
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\54120s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\54120s01.dat

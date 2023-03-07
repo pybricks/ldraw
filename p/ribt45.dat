@@ -2,13 +2,14 @@
 0 Name: ribt45.dat
 0 Author: Mark Kennedy [mkennedy]
 0 !LDRAW_ORG Primitive UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2001-10-29 [jriley] Secondary author
 0 !HISTORY 2009-11-19 [mkennedy] replaced box3u8P with two box2-5, split quad, moved origin
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 -4.27 0 4.27 1 0 -1.45 0 4 0 1 0 1.45 box4-4a.dat
 1 16 0 2 0 0 0 5.74 2 0 0 0 1 5.74 rect1.dat

@@ -2,11 +2,12 @@
 0 Name: s\21849ps1s01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 4 0 -22.60465 -12.4 -47 -22.60465 -12.4 -47.6 -22.46512 -12.7 -47.5196 -22.36298 -12.9196 -47.3
 4 0 -22.60465 -12.4 -47 -22.36298 -12.9196 -47.3 -22.32558 -13 -47 -22.36298 -12.9196 -46.7

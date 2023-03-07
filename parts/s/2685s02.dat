@@ -2,7 +2,7 @@
 0 Name: s\2685s02.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2013-04-28 [MagFors] Modified for BFC compliance
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Front
 
@@ -30,7 +31,7 @@
 4 16 3.89 0 -2 1.945 1.945 -2 5.253 2 -2 6.085 1.011 -2
 4 16 6.085 1.011 -2 6.732 -0.111 -2 1.945 -1.945 -2 3.89 0 -2
 3 16 6.732 -0.111 -2 7.175 -1.327 -2 1.945 -1.945 -2
-4 16  1.945 -1.945 -2 7.175 -1.327 -2 7.5 -2.603 -2 0 -3.89 -2
+4 16 1.945 -1.945 -2 7.175 -1.327 -2 7.5 -2.603 -2 0 -3.89 -2
 4 16 7.5 -5 -2 0 -5 -2 0 -3.89 -2 7.5 -2.603 -2
 
 0 // Border

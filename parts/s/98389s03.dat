@@ -2,11 +2,12 @@
 0 Name: s\98389s03.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 -29.644 -10 -2 0 0 0 1 -.438 0 0 -2 1-4tang.dat
 1 16 0 -29.644 -10 -2 0 0 0 1 -.438 0 0 -2 1-4edge.dat
@@ -563,7 +564,6 @@
 3 16 -16.011 -19.742 .33 -14.807 -20.877 -.418 -14.802 -21.021 .26
 3 16 -13.254 -19.957 7.557 -12.717 -19.395 8.139 -12.857 -17.62 7.295
 3 16 -13.254 -19.957 7.557 -12.857 -17.62 7.295 -13.45 -18.566 5.805
-
 
 5 24 -11.667 -5.909 5.94 -9.95 -7.489 8.628 -12.077 -8.139 5.386 -10.986 -6.057 6.982
 5 24 -16.524 -11.516 -10.504 -15.055 -17.338 -7.587 -15.883 -13.404 -10.567 -16.58 -12.157 -8.881

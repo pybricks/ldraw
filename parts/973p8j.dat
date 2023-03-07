@@ -2,17 +2,17 @@
 0 Name: 973p8j.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS waiter, servant, steward, garcon, waitperson
-0 !KEYWORDS parisian restaurant, modular building, creator expert
-0 !KEYWORDS set 10243
+0 !KEYWORDS creator expert, garcon, modular building, parisian restaurant
+0 !KEYWORDS servant, set 10243, steward, Waiter, waitperson
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 0 !HISTORY 2022-05-28 [Plastikean] Changed white to yellow and light blue to white
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // Yellow
 4 14 2.76 1 -10 -1.6 1 -10 0.4 3.03 -10 1 3.37 -10

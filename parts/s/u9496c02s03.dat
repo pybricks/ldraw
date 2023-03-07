@@ -2,11 +2,12 @@
 0 Name: s\u9496c02s03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 4 16 -0.4771 -5.8105 3.3722 -0.2271 -5.8105 3.3722 -0.7671 -6.6779 0.0461 -1.0171 -6.6779 0.0461
 4 16 0.1238 -3.3861 5.7948 0.3738 -3.3861 5.7948 -0.2271 -5.8105 3.3722 -0.4771 -5.8105 3.3722

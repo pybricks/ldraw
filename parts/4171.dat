@@ -2,7 +2,7 @@
 0 Name: 4171.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2008-07-08 [Steffen] Fixed one matrix all zeros "error" (2003-07-12)
 0 !HISTORY 2008-07-09 [guyvivan] Use more primitives and fixed part name (2004-12-13)
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 0 0 -4 6 0 0 0 0 6 0 1 0 4-4edge.dat
 2 24 8 6 18 0 6 10

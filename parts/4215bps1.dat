@@ -2,15 +2,16 @@
 0 Name: 4215bps1.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, Set 7180, Bricklink 4215bpx2
+0 !KEYWORDS Bricklink 4215bpx2, Set 7180, Star Wars
 
 0 !CMDLINE -c47
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4215bs01.dat
 

@@ -2,13 +2,14 @@
 0 Name: logo.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Primitive UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2000-11-05 [pneaster] corrected "E"
-0 !HISTORY 2012-02-04 [Steffen]  rotated 90 degrees to match stud logo orientation, uploaded to PT
+0 !HISTORY 2012-02-04 [Steffen] rotated 90 degrees to match stud logo orientation, uploaded to PT
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // L
 2 24 -2 0 -4 2 0 -5

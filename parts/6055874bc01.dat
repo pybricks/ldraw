@@ -2,16 +2,18 @@
 0 Name: 6055874bc01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS set 10242, Mini Cooper MK VII
+
+0 !KEYWORDS Mini Cooper MK VII, set 10242
 
 0 !HISTORY 2015-05-22 [MMR1988] original pattern design
 0 !HISTORY 2015-05-29 [MagFors] formed to fit 6191.dat
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
 0 !HISTORY 2017-08-20 [MagFors] added conditional lines
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 0 // back
 3 16 -6.267 30.629 -10 6.267 30.629 -10 0 31.875 -10

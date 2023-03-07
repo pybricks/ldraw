@@ -2,16 +2,17 @@
 0 Name: 2817.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2003-06-08 [jriley]  BFC compliant
+0 !HISTORY 2003-06-08 [jriley] BFC compliant
 0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
 0 !HISTORY 2007-05-18 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2016-09-22 [MagFors] Made space for pin
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 2 24 -20 8 20 -20 8 10
 2 24 -20 8 10 -20 10 10

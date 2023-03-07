@@ -2,11 +2,12 @@
 0 Name: s\004659cs01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Subpart UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 0 0 -.25 0 23 0 0 0 1 0 0 0 23 48\4-4aring.dat
 4 0 2.21 -0.25 19.37 1.87 -0.25 19.41 1.75 -0.25 18.22 2.07 -0.25 18.18

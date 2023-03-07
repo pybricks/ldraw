@@ -2,7 +2,7 @@
 0 Name: 4748.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,7 +13,8 @@
 0 !HISTORY 2015-02-25 [MMR1988] BFCed, used more primitives
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
-1 16  0 0 0 1 0 0  0 1 0  0 0 1 3001.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3001.dat
 
 1 16 18 8 -30 0 2 0 0 0 4 10 0 0 box2-9.dat
 1 16 -18 8 -30 0 -2 0 0 0 4 10 0 0 box2-9.dat

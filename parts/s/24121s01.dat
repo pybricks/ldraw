@@ -2,11 +2,12 @@
 0 Name: s\24121s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 -177.955 0 3.994 0.02244 0.99975 0 0 0 1 0.99975 -0.02244 0 toothr.dat
 1 16 -177.597 0 11.974 0.06727 0.99773 0 0 0 1 0.99773 -0.06727 0 toothr.dat

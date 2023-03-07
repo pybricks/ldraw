@@ -2,16 +2,17 @@
 0 Name: 2981.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
 0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2017-01-08 [MagFors] Renamed from 880.dat, reduced recessed line
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 2 24 -36 24 -16 -26 24 -16
 2 24 -26 24 16 -36 24 16
@@ -63,7 +64,7 @@
 4 16 -40 0 -20 40 0 -20 -36 0 -4 -40 0 -4
 4 16 -36 0 -4 40 0 -20 40 0 20 -36 0 4
 4 16 -36 0 4 40 0 20 -40 0 20 -40 0 4
-0 // Brick  2 x  4
+0 // Brick 2 x 4
 2 24 40 0 -20 40 0 20
 2 24 40 23 -20 40 23 -15
 2 24 40 23 5 40 23 20

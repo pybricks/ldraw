@@ -1,8 +1,8 @@
-0 ~Electric  4.5V Battery Box Pole Reverser Type 1 
+0 ~Electric  4.5V Battery Box Pole Reverser Type 1
 0 Name: u9024.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 0 !HISTORY 2022-05-12 [Holly-Wood] Complete rewrite
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 40 10 0 -8 0 0 0 0 8 0 -1 0 4-4edge.dat
 1 16 50 30 0 -8 0 0 0 0 8 0 -1 0 4-4edge.dat
@@ -163,7 +164,6 @@
 4 494 -47.5 22 0 -32.5 22 0 -36 26 0 -40 26 0
 4 494 -32.5 38 0 -36 30 0 -36 26 0 -32.5 22 0
 3 494 -36 34 0 -36 30 0 -32.5 38 0
-
 
 0 // Side
 1 16 61.7 50.5 -4 4.3 0 0 0 0 4.3 0 4 0 1-4cylo.dat

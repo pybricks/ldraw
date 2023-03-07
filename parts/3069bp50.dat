@@ -2,7 +2,7 @@
 0 Name: 3069bp50.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2009-07-16 [PTadmin] Moved from 3069p30
 0 !HISTORY 2009-08-19 [anathema] Used more primitives
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 1 14 -15.5 0 5.5 1 0 0 0 1 0 0 0 1 4-4disc.dat

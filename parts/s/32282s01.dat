@@ -2,12 +2,13 @@
 0 Name: s\32282s01.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-05-18 [cwdee] Moved studs to main part
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 // Needs Work: locking clips not modelled
 
@@ -36,7 +37,7 @@
 3 16 40 -10 -54.507 40 -5.74 -53.859 40 -10 -51.011
 2 24 30 -10 -51.011 30 -10.607 -50.607
 2 24 40 -10 -51.011 40 -10.607 -50.607
-0 
+0
 4 16 30 -15 -25 30 0 -25 30 0 -20 30 -15 -20
 4 16 30 -42 -55 30 -15 -55 30 -15 -20 30 -42 -20
 2 24 0 -42 -20 30 -42 -20

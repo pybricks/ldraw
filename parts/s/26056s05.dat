@@ -2,13 +2,14 @@
 0 Name: s\26056s05.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
 
-0 //  Nose
+
+0 // Nose
 5 24 0 -1.884 -15.072 -4.232 -2.186 -14.479 0 -4.284 -16.586 -4.09087 -.42913 -12.17138
 5 24 -6.422 -2.347 -13.855 -4.232 -2.186 -14.479 -6.03 -1.38 -13.04979 -4.163 -4.618 -15.663
 5 24 -8.4204 -3.2015 -13.4669 -6.422 -2.347 -13.855 -4.163 -4.618 -15.663 -9.768 -2.404 -12.628

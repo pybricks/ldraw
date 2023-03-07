@@ -2,12 +2,11 @@
 0 Name: 3626bp62.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Space, Wild West
-0 !KEYWORDS Bricklink 3626bp62, Set 6898, Set 6764, Set 6762
+0 !KEYWORDS Bricklink 3626bp62, set 6762, Set 6764, Set 6898, Space, wild west
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
 0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
@@ -16,6 +15,7 @@
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 0 !HISTORY 2022-06-22 [Philo] Updated description, added keywords
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs04.dat
@@ -32,7 +32,6 @@
 5 24 4.975 4 -12.011 4.975 17 -12.01 9.192 4 -9.192 0 4 -13
 5 24 9.192 4 -9.192 9.192 17 -9.192 12.01 4 -4.975 4.975 4 -12.011
 5 24 12.01 4 -4.975 12.01 17 -4.975 13 4 0 9.192 4 -9.192
-
 
 0 // Black Borders and Grin
 1 0 -3.5 10 -12.304 1.226 1 0 0 0 1.25 -.2442 0 0 5-8chrd.dat

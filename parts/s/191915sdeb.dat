@@ -2,7 +2,7 @@
 0 Name: s\191915sdeb.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Subpart UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 0 !HISTORY 2021-05-15 [MagFors] Removed overlapping
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 -35 0 17 0 0 -11 0 1 0 11 0 0 48\1-8chrd.dat
 1 16 -35 0 17 -11 0 0 0 1 0 0 0 11 48\1-8chrd.dat

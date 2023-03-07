@@ -2,11 +2,11 @@
 0 Name: 47405.dat
 0 Author: William Howard [WilliamH]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS wing
+0 !KEYWORDS Wing
 
 0 !HISTORY 2004-12-11 [Steffen] Un-mirrored studs
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
@@ -14,6 +14,7 @@
 0 !HISTORY 2013-07-27 [theJudeAbides] Used more primitives, fixed T-Junctions and gaps
 0 !HISTORY 2013-08-09 [theJudeAbides] Added more underside detail, added missing cond-lines
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Front Part and Ribs
 
@@ -25,9 +26,9 @@
 1 16 0 4 -80 20 0 0 0 0 4 0 1 0 rect.dat
 2 24 20 8 -80 25.757 8 -74.243
 4 16 25.757 4 -74.243 20 0 -80 20 8 -80 25.757 8 -74.243
-1 16 22.05 6 -75.121 0 -1.41421 2.29244 2 0 0 0 1.41421 2.29244 BOX2-5.DAT
+1 16 22.05 6 -75.121 0 -1.41421 2.29244 2 0 0 0 1.41421 2.29244 box2-5.dat
 1 16 0 6 -76 18.343 0 0 0 0 -2 0 -1 0 rect2p.dat
-1 16 -22.05 6 -75.121 0 1.41421 -2.29244 -2 0 0 0 1.41421 2.29244 BOX2-5.DAT
+1 16 -22.05 6 -75.121 0 1.41421 -2.29244 -2 0 0 0 1.41421 2.29244 box2-5.dat
 1 16 -40 4 -60 0 0 1 0 1 0 -1 0 0 ribt45.dat
 1 16 40 4 -60 1 0 0 0 1 0 0 0 1 ribt45.dat
 
@@ -295,9 +296,9 @@
 2 24 -95.259 4 12.889 -87.694 4 1.54
 2 24 95.259 4 12.889 87.694 4 1.54
 0 BFC INVERTNEXT
-1 16 -114.27 8 68.6 1.72 0 1.73 0 -4 0 0.57 0 -5.2 BOX3U8P.DAT
+1 16 -114.27 8 68.6 1.72 0 1.73 0 -4 0 0.57 0 -5.2 box3u8p.dat
 0 BFC INVERTNEXT
-1 16 114.27 8 68.6 -1.72 0 -1.73 0 -4 0 0.57 0 -5.2 BOX3U8P.DAT
+1 16 114.27 8 68.6 -1.72 0 -1.73 0 -4 0 0.57 0 -5.2 box3u8p.dat
 4 16 -107.68 4 43 -111.9 4 55.7 -105.657 4 45.657 -107.4 4 43
 4 16 -111.89 4 55.68 -108.38 4 56.65 -104.87 4 46.17 -105.657 4 45.657
 4 16 107.68 4 43 107.4 4 43 105.657 4 45.657 111.9 4 55.7

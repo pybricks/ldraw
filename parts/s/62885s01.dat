@@ -2,13 +2,14 @@
 0 Name: s\62885s01.dat
 0 Author: Kevin Roach [KROACH]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-10-16 [KROACH] This is a mock-up. I don't have part as of yet.
 0 !HISTORY 2020-02-24 [MagFors] Removed not needed vertices
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 -5.25 -2.119 0 0 -13.25 0 -2.8813 0 0 0 0 6.9722 1-8cylo.dat
 1 16 -11.875 -2.07805 4.9301 -6.625 0 0 0 0 -2.07805 0 -1 0 rect.dat

@@ -2,13 +2,14 @@
 0 Name: 1-4con11.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Primitive UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2002-12-11 [cwdee] Made BFC compliant
 0 !HISTORY 2011-09-18 [Philo] Rebuilt CCW with Primgen2
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 4 16 11 1 0 10.1629 1 4.2097 11.0868 0 4.5924 12 0 0
 4 16 10.1629 1 4.2097 7.7781 1 7.7781 8.4852 0 8.4852 11.0868 0 4.5924

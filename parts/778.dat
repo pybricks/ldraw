@@ -2,7 +2,7 @@
 0 Name: 778.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-10-18 [tchang] Add BFC, stug primitive
 0 !HISTORY 2008-11-12 [mikeheide] corrected two lines by 1 LDU
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 2 24 -16 4 -136 16 4 -136
 2 24 16 4 -136 16 4 -36

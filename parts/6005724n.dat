@@ -2,14 +2,16 @@
 0 Name: 6005724n.dat
 0 Author: Christian Neumann [Wesley]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Lord of the Rings, LOTR, Mines of Moria, Set 9473
+
 0 !CMDLINE -c72
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 16 0 -0.25 0 18 0 0 0 0.25 0 0 0 59 box5-12.dat
 4 0 -8.73 -0.25 -0.72 -9.63 -0.25 -1.91 -8.03 -0.25 -2.02 -8.03 -0.25 0.19

@@ -2,10 +2,11 @@
 0 Name: 3245b.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS town jr., tall, basic, freestyle, 2-high, junior
+
+0 !KEYWORDS 2-high, basic, Freestyle, junior, tall, town jr.
 
 0 !HISTORY 2003-06-30 [Steffen] BFCed, extended part name
 0 !HISTORY 2004-10-15 [Steffen] removed duplicate lines
@@ -14,6 +15,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2020-06-26 [RainbowDolphin] Subfiled for Pattern
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Part without a face
 

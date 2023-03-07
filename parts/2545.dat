@@ -2,18 +2,19 @@
 0 Name: 2545.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS soldier, french foreign legion, pirates
+0 !KEYWORDS french foreign legion, Pirates, soldier
 
 0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
 0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-02-09 [HowardLande] Subparted for patterned versions.
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Subpart without decorative surfaces
 

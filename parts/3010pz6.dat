@@ -2,13 +2,14 @@
 0 Name: 3010pz6.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS BrickLink 3010pb204, Set 41592, Brickheadz, The Hulk
+0 !KEYWORDS Brickheadz, BrickLink 3010pb204, Set 41592, The Hulk
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
 4 0 -37.27 15.76 -10 -37.46 15.58 -10 -37.47 15.79 -10 -37.46 16.04 -10

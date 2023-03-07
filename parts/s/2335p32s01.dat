@@ -2,11 +2,12 @@
 0 Name: s\2335p32s01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 4 16 19.47 13.55 2 19.3323 13.1031 2 19 13.55 2 19.3323 13.9969 2
 4 16 19 14.182 2 19.3323 13.9969 2 19 13.55 2 18.6677 13.9969 2

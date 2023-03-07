@@ -2,12 +2,13 @@
 0 Name: s\6181s03.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Subpart UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-09 [tchang] Add condlines on base
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 0 // Border In
 4 16 80 40 80 78.631 40 59.116 81.666 39.391 58.716 83.062 39.391 80

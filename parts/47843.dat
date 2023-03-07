@@ -2,7 +2,7 @@
 0 Name: 47843.dat
 0 Author: Bob LeVan [kyphurious]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,9 +10,10 @@
 0 !HISTORY 2007-10-01 [kyphurious] Cleaned-up Headers, Prep for further work.
 0 !HISTORY 2007-10-01 [kyphurious] Primitive Replacement: Using Stud.dat, Stud3.dat & clh2.dat
 0 !HISTORY 2007-10-01 [kyphurious] Rotated part 180 deg around Y Axis, centered part on X & Z Axis, moved to 0 on Y
-0 !HISTORY 2012-04-06 [Steffen]    corrected origin and edge colors, used stugs
+0 !HISTORY 2012-04-06 [Steffen] corrected origin and edge colors, used stugs
 0 !HISTORY 2017-10-05 [Holly-Wood] Fixed edges, closed gaps, primitive substitution, adjusted thickness of walls, added cond. lines
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 2 24 -20 48 -160 -20 48 -176
 2 24 -36 48 -24 -36 48 -160
@@ -90,8 +91,6 @@
 2 24 40 36.42 -168.1 40 39.27 -173.4
 2 24 40 39.27 -173.4 40 40.7 -176
 2 24 40 0 -20 40 .02 -23.95
-
-
 
 2 24 -20 43.05 -176 -20 43.05 -164.8
 2 24 -20 40.8 -160 -20 43.05 -164.8

@@ -2,7 +2,7 @@
 0 Name: 3652.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2004-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -10,10 +10,11 @@
 0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-1 16 -10 -26 10 1 0 0 0 1 0 0 0 1 Stud2.dat
-1 16 10 -26 10 1 0 0 0 1 0 0 0 1 Stud2.dat
-1 16 -10 -26 -10 1 0 0 0 1 0 0 0 1 Stud2.dat
-1 16 10 -26 -10 1 0 0 0 1 0 0 0 1 Stud2.dat
+
+1 16 -10 -26 10 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 10 -26 10 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 -10 -26 -10 1 0 0 0 1 0 0 0 1 stud2.dat
+1 16 10 -26 -10 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 -18 -24 18 -2 2 0 0 0 -2 2 2 0 1-4edge.dat
 1 16 -18 -24 18 0 -2 0 0 0 -2 -2 0 0 1-4cyls2.dat
 1 16 -18 -24 18 0 36 0 -2 0 0 0 0 2 1-4cyli.dat

@@ -2,13 +2,14 @@
 0 Name: 30184.dat
 0 Author: Tim Lampmann [L4mpi]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Transport, Truck
+0 !KEYWORDS Transport, truck
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 4 16 20 48 300 -20 48 300 -20 48 100 20 48 100
 4 16 -20 48 300 -24 48 300 -24 48 100 -20 48 100
@@ -578,8 +579,6 @@
 2 24 -36 52 320 -36 64 320
 2 24 -36 52 80 -36 64 80
 
-
-
 1 16 0 0 0 0 0 -4 0 1 0 4 0 0 4-4ndis.dat
 0 BFC INVERTNEXT
 1 16 0 0 0 0 0 -4 0 6 0 4 0 0 4-4cylo.dat
@@ -853,8 +852,6 @@
 1 16 -20 52 96.5 0 0 -1 0 12 0 2.5 0 0 box3u8p.dat
 1 16 -20 52 86 0 0 -1 0 12 0 1 0 0 boxjcyl4.dat
 1 16 -20 52 83 0 0 -1 0 12 0 3 0 0 box3u8p.dat
-
-
 
 2 24 36 64 80 21 64 80
 2 24 19 64 80 1 64 80

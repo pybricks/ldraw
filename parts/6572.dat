@@ -2,7 +2,7 @@
 0 Name: 6572.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -10,13 +10,14 @@
 0 !HISTORY 2013-12-28 [MagFors] Primitive substitution
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 
+
 1 16 0 0 -40 0 0 -8 0 8 0 8 0 0 8-8sphe.dat
 1 16 0 0 -40 0 0 -4 4 0 0 0 -4 0 4-4cyl1sph2.dat
 1 16 0 0 -24 0 0 -4 4 0 0 0 -8 0 4-4cyli.dat
 1 16 0 0 -24 0 0 -4 4 0 0 0 1 0 4-4edge.dat
 1 16 0 0 -24 0 0 -4 -4 0 0 0 1 0 4-4ndis.dat
 1 16 0 0 -24 0 0 -4 -4 0 0 0 1 0 recte4.dat
-0 // Technic Beam  3 x  0.5 Liftarm
+0 // Technic Beam 3 x 0.5 Liftarm
 1 16 10 0 0 0 1 0 6 0 0 0 0 -6 2-4ndis.dat
 1 16 10 0 0 0 10 0 -1 0 0 0 0 1 axlehol4.dat
 1 16 10 0 10 0 10 0 -1 0 0 0 0 1 npeghol4.dat
@@ -34,7 +35,7 @@
 1 16 10 0 40 0 1 0 3 0 0 0 0 3 2-4ring2.dat
 1 16 20 0 40 0 -1 0 3 0 0 0 0 3 2-4ring2.dat
 1 16 20 0 20 0 -1 0 -1 0 0 0 0 1 4-4ring8.dat
-0 // Technic Beam  3 x  0.5 Liftarm
+0 // Technic Beam 3 x 0.5 Liftarm
 1 16 -10 0 0 0 -1 0 -6 0 0 0 0 -6 2-4ndis.dat
 1 16 -10 0 0 0 -10 0 1 0 0 0 0 1 axlehol4.dat
 1 16 -10 0 10 0 -10 0 1 0 0 0 0 1 npeghol4.dat

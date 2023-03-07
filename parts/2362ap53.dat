@@ -2,17 +2,19 @@
 0 Name: 2362ap53.dat
 0 Author: Carsten Schmitz [Deckard]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !KEYWORDS Space Police
 
-0 !HISTORY 2004-04-25 [cwdee]   Make use of subfile
+0 !HISTORY 2004-04-25 [cwdee] Make use of subfile
 0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
 0 !HISTORY 2007-05-08 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2013-02-24 [MagFors] Color correction, rewrite of pattern, inlined subfiles
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2362s01.dat
 1 16 10 0 0 1 0 0 0 1 0 0 0 1 stud.dat

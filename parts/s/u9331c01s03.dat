@@ -2,11 +2,12 @@
 0 Name: s\u9331c01s03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 4 16 137.5 4.542 -100.6 137.5 -20.404 -74.645 137 -20.765 -74.991 137 4.182 -100.947
 4 16 137.5 -16.655 67.059 137.5 -3.902 100.725 137 -4.369 100.902 137 -17.122 67.237

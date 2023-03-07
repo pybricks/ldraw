@@ -2,15 +2,16 @@
 0 Name: 4066bp0a.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Grocery, Supermarket, bricklink 4066pb182
-0 !KEYWORDS Set 2640, Set 1025, Set 1040, Set 9150, Set 9978
+0 !KEYWORDS bricklink 4066pb182, Grocery, Set 1025, Set 1040, Set 2640, Set 9150
+0 !KEYWORDS Set 9978, Supermarket
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 4 15 -13.75 16 -20 -15.25 16 -20 -16.75 17 -20 -14.5 17 -20

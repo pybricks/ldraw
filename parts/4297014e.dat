@@ -2,13 +2,14 @@
 0 Name: 4297014e.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Batman, Joker
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 1 2 -12 -0.25 22 1.5 0 0 0 1 0 0 0 1.5 4-4disc.dat
 4 288 -10.5 -0.25 23.5 -10.5 -0.25 20.5 -5.5 -0.25 20.5 -5.5 -0.25 23.5

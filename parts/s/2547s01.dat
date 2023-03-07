@@ -2,11 +2,12 @@
 0 Name: s\2547s01.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 3 16 0 -16.87 99.97 2 -16.87 103.47 3.46 -16.87 101.97
 3 16 0 -16.87 99.97 0 -16.87 103.97 2 -16.87 103.47

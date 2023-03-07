@@ -2,12 +2,13 @@
 0 Name: 54715.dat
 0 Author: Kevin Clague [kclague]
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2007-12-02 [Philo] Added bevels - Refined shape
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 0 // Needs work: Internal structure not modelled
 
@@ -198,7 +199,7 @@
 2 24 -20 -10 -127 -17 -10 -131
 3 16 -20 -10 -131 -17 -10 -131 -20 -10 -127
 4 16 -20 -10 -131 -20 -10 -101 -27 -10 -101 -27 -10 -131
-0 //  TOP RAMP TO GEARTRAIN
+0 // TOP RAMP TO GEARTRAIN
 4 16 0 -26.37 -116.37 -17 -26.37 -116.37 -17 -10 -131 0 -10 -131
 2 24 0 -10 -131 -27 -10 -131
 2 24 0 -10 -131 0 -26.37 -116.37

@@ -2,7 +2,7 @@
 0 Name: u9134.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,10 +14,11 @@
 0 !HISTORY 2012-05-03 [Steffen] relocated origin
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
+
 0 // Needs work: Despite their titles and current implementation suggest that,
-0 //             it is unclear if parts u9018.dat, u9019.dat, u9134.dat, u9146.dat
-0 //             are really distinct. We need to investigate geometry more for these and,
-0 //             if necessary, unify some of them.
+0 // it is unclear if parts u9018.dat, u9019.dat, u9134.dat, u9146.dat
+0 // are really distinct. We need to investigate geometry more for these and,
+0 // if necessary, unify some of them.
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 plug34.dat
 1 16 0 0 2 2.5 0 0 0 0 2.5 0 -1 0 4-4disc.dat

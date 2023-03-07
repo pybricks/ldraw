@@ -2,13 +2,14 @@
 0 Name: s\89917s01.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-10-27 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2011-11-18 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 4 16 1.496 -2 11.728 0 -2 11.705 0 -2 6 6 -2 6
 4 16 5.214 -2 11.68 1.496 -2 11.728 6 -2 6 10.468 -2 11.387

@@ -1,8 +1,8 @@
 0 Hinge Window Frame  1 x  4 x  3 with Octagonal Panel
 0 Name: 2443.dat
-0 Author: Leonardo Zide
+0 Author: Leonardo Zide [leozide]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [nielsk] BFC'd and used more primitives (2006-01-09)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 2 24 20 -4 -14 20 -24 -14
 2 24 -20 -24 -14 -20 -4 -14

@@ -2,14 +2,15 @@
 0 Name: 32276c01.dat
 0 Author: Marc Klein [marckl]
 0 !LDRAW_ORG Shortcut UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Mindstorms, Droid Developer Kit
+0 !KEYWORDS Droid Developer Kit, Mindstorms
 
 0 !HISTORY 2012-01-24 [cwdee] Compensated for adjusted origin of 32344
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 32276.dat
 1 8 0 0 0 1 0 0 0 1 0 0 0 1 32277.dat

@@ -2,12 +2,12 @@
 0 Name: 4360.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Space Laser-gun with Side Sight, Town, scope, scanner, tv camera
+0 !KEYWORDS scanner, scope, Space Laser-gun with Side Sight, town, tv camera
 0 !KEYWORDS video camera
 
 0 !HISTORY 1997-10-29 [PTadmin] Official Update 1997-16
@@ -17,10 +17,11 @@
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2008-07-07 [tchang]  Add BFC, modify some edges and faces (2008-03-27)
+0 !HISTORY 2008-07-07 [tchang] Add BFC, modify some edges and faces (2008-03-27)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 0 !HISTORY 2015-02-11 [MagFors] Redesign without peghole.dat
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 -40 8 0 0 1 0 1 0 0 0 0 -1 stud2.dat
 1 16 -30 8 -6 0 0 1 1 0 0 0 1 0 stud2.dat

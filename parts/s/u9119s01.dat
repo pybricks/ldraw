@@ -2,11 +2,12 @@
 0 Name: s\u9119s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 3 16 40.87 -56.68 0 43.09 -58.91 0.93 42.91 -57.4 0
 3 16 37.88 -55.44 0 39.15 -59.39 1.44 40.87 -56.68 0

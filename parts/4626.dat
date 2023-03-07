@@ -2,13 +2,13 @@
 0 Name: 4626.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Part UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Vehicle
-0 !KEYWORDS excavation, digger, town, heavy equipment, construction
-0 !KEYWORDS hinge, 2-finger
+0 !KEYWORDS 2-finger, Construction, digger, excavation, heavy equipment, Hinge
+0 !KEYWORDS town
 
 0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
 0 !HISTORY 2001-10-16 [pneaster] adjusted a few quads, rearranged quad winding, Added bfc
@@ -23,6 +23,7 @@
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2019-05-29 [Philo] Corrected wrong back stud spacing
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 1 16 -20 20 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 0 BFC INVERTNEXT

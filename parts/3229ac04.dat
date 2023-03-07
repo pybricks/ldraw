@@ -2,11 +2,12 @@
 0 Name: 3229ac04.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Shortcut UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 1 16 156.072 0 -15.372 0.980785 0 0.19509 0 1 0 -0.19509 0 0.980785 3229ac01.dat
 1 16 444.457 0 -134.824 0.83147 0 0.55557 0 1 0 -0.55557 0 0.83147 3229ac01.dat

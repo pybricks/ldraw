@@ -2,14 +2,16 @@
 0 Name: 93221p03.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS BrickLink 93221pb03, set 76161, set 75827, set 60153, set 41256, set 75810
+0 !KEYWORDS BrickLink 93221pb03, set 41256, Set 60153, Set 75810, set 75827
+0 !KEYWORDS set 76161
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93221s01.dat
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\93221s03.dat

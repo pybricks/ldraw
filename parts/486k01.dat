@@ -2,13 +2,14 @@
 0 Name: 486k01.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part Flexible_Section UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-05-19 [tchang] Made for LSynth
 0 !HISTORY 2011-07-18 [tchang] Upgrade shape
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 6.3 0 0 0 -1 0 0 0 6 rect2p.dat
 4 16 6.3 0 -6 6.3 -3 -7 -6.3 -3 -7 -6.3 0 -6

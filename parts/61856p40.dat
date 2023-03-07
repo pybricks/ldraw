@@ -2,12 +2,14 @@
 0 Name: 61856p40.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Minifig Accessory
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61856s01.dat
 4 80 -18.75 24.218 -12 -9.655 35 -12 -13.3645 29.8635 -12 -15.4893 27.5439 -12

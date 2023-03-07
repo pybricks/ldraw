@@ -2,11 +2,11 @@
 0 Name: 30078.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS fan, flower
+0 !KEYWORDS fan, Flower
 
 0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
 0 !HISTORY 2008-02-12 [Philo] Complete rewrite for LDraw Parts Tracker
@@ -14,6 +14,7 @@
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 0 !HISTORY 2021-03-17 [cwdee] Update description
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 24 0 3.69552 0 -1.53073 0 -1 0 1.53073 0 3.69552 1-8ring5.dat
 4 16 22.1732 24 9.1844 24 24 0 19.70172 24 1.5 18.478 24 7.654
@@ -129,7 +130,6 @@
 1 16 0 0 0 0 0 24 0 24 0 -24 0 0 4-4cylo.dat
 0 BFC INVERTNEXT
 1 16 0 22 0 0 0 6 0 -16 0 -6 0 0 4-4cyli.dat
-
 
 0 // petals
 1 16 11 5 -64 0 0 14 0 1 0 -14 0 0 5-16disc.dat

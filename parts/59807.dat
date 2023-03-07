@@ -2,11 +2,12 @@
 0 Name: 59807.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 peghole.dat
 1 16 0 -30 0 1 0 0 0 6 0 0 0 1 peghole.dat
@@ -90,8 +91,8 @@
 1 16 0 -30 40 2 0 0 0 1 0 0 0 2 4-4ring4.dat
 1 16 0 -20 40 -2 0 0 0 -1 0 0 0 2 4-4ring4.dat
 1 16 0 -30 40 10 0 0 0 10 0 0 0 10 2-4cyli.dat
-1 16 0 -30 40 10 0 0 0 10 0 0 0 10 2-4EDGE.DAT
-1 16 0 -20 40 10 0 0 0 10 0 0 0 10 2-4EDGE.DAT
+1 16 0 -30 40 10 0 0 0 10 0 0 0 10 2-4edge.dat
+1 16 0 -20 40 10 0 0 0 10 0 0 0 10 2-4edge.dat
 1 16 0 -30 40 -10 0 0 0 1 0 0 0 -10 2-4ndis.dat
 4 16 -7.0711 -20 32.9289 -6 -20 32.2132 -6 -20 10 -10 -20 10
 3 16 -9.2388 -20 36.1732 -7.0711 -20 32.9289 -10 -20 10
@@ -132,8 +133,8 @@
 1 16 0 -10 -260 2 0 0 0 1 0 0 0 2 4-4ring4.dat
 1 16 0 0 -260 -2 0 0 0 -1 0 0 0 2 4-4ring4.dat
 1 16 0 -10 -260 -10 0 0 0 10 0 0 0 -10 2-4cyli.dat
-1 16 0 -10 -260 -10 0 0 0 10 0 0 0 -10 2-4EDGE.DAT
-1 16 0 0 -260 -10 0 0 0 10 0 0 0 -10 2-4EDGE.DAT
+1 16 0 -10 -260 -10 0 0 0 10 0 0 0 -10 2-4edge.dat
+1 16 0 0 -260 -10 0 0 0 10 0 0 0 -10 2-4edge.dat
 1 16 0 -10 -260 10 0 0 0 1 0 0 0 10 2-4ndis.dat
 4 16 -10 0 -230 -6 0 -230 -6 0 -252.213 -7.0711 0 -252.929
 4 16 7.0711 0 -252.929 6 0 -252.213 6 0 -230 10 0 -230

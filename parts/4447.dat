@@ -2,7 +2,7 @@
 0 Name: 4447.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2009-02-08 [anathema] Added pivot holes; BFC'd; corrected stud type
 0 !HISTORY 2009-11-24 [cwdee] Corrected non-planar quads and related errors
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 20 68 -60 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 0 68 -60 1 0 0 0 -1 0 0 0 1 stud3.dat

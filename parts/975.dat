@@ -1,20 +1,21 @@
 0 ~Minifig Arm Right (Obsolete)
 0 Name: 975.dat
-0 Author: Leonardo Zide
+0 Author: Leonardo Zide [leozide]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
-0 !HISTORY 2000-09-04 [fwcain]  5-lines inserted (using Tore Eriksson's 5-lines in 976.dat); wrist-endcap added
+0 !HISTORY 2000-09-04 [fwcain] 5-lines inserted (using Tore Eriksson's 5-lines in 976.dat); wrist-endcap added
 0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-07-25 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2014-12-28 [Steffen] BFCed, updated moved-to references
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 -22.200 11.424 -0.935 1.596 -1.596 4.140 0.252 5.712 1.215 -5.712 -0.252 1.215 4-8sphe.dat
 1 16 -19.008 0 -0.431 -1.596 1.596 4.140 -0.252 -5.712 1.215 5.712 0.252 1.215 4-8sphe.dat

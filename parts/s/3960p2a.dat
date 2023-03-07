@@ -2,18 +2,19 @@
 0 Name: s\3960p2a.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
 0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
-0 !HISTORY 2015-01-22 [cwdee]   BFCed
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2015-01-22 [cwdee] BFCed
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 0 !HISTORY 2017-08-13 [MagFors] Added condlines
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 16 10 0 0 22 2 0 21.811 2 2.871 9.914 0 1.305
 4 16 9.914 0 1.305 21.811 2 2.871 21.25 2 5.694 9.659 0 2.588

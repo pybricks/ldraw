@@ -2,11 +2,12 @@
 0 Name: s\11435p01s05.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 3 0 10.3261 23.5042 -74.2807 10.5819 23.2122 -73.8383 10.5467 23.2209 -74.0022
 4 0 10.5467 23.2209 -74.0022 10.4798 23.2859 -74.1555 10.3998 23.3903 -74.2509 10.3261 23.5042 -74.2807

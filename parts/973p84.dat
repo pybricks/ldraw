@@ -2,7 +2,7 @@
 0 Name: 973p84.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,8 +10,9 @@
 0 !HISTORY 2018-01-26 [Steffen] removed emphasis lines
 0 !HISTORY 2018-03-09 [Steffen] replaced gold color by 82
 0 !HISTORY 2018-04-25 [MMR1988] Removed T-junctions, used train logo subpart
-0 !HISTORY 2019-01-20 [cwdee]   Correct BFC inverse back
+0 !HISTORY 2019-01-20 [cwdee] Correct BFC inverse back
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 

@@ -2,15 +2,16 @@
 0 Name: 3626bpw8.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS wild west, western, cowboys, bank, gold city junction
-0 !KEYWORDS banker, sheriff, bandit, bankster, accountant, bookkeeper, robbery, safe, money
-0 !KEYWORDS set 6765
+0 !KEYWORDS accountant, bandit, Bank, banker, bankster, bookkeeper, cowboys
+0 !KEYWORDS gold city junction, money, robbery, safe, set 6765, sheriff, western
+0 !KEYWORDS wild west
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // Pattern
 0 // Black
@@ -116,7 +117,7 @@
 4 0 -1.025 17.874 -12.579 0 17.95 -12.764 0 17 -13 -2.032 17.622 -12.441
 4 0 -2.986 17.232 -12.348 -2.032 17.622 -12.441 0 17 -13 -3.251 17 -12.353
 
-0 // Brown 
+0 // Brown
 4 6 -7.398 11.934 -10.391 -7.55 11.807 -10.29 -7.595 11.951 -10.26 -7.525 12.086 -10.306
 4 6 -7.398 11.934 -10.391 -7.525 12.086 -10.306 -7.381 12.131 -10.403 -7.246 12.061 -10.493
 4 6 -7.398 11.934 -10.391 -7.246 12.061 -10.493 -7.201 11.917 -10.523 -7.258 11.788 -10.485
@@ -178,7 +179,7 @@
 4 6 -9.454 17.965 -8.377 -9.415 18.162 -8.35 -9.331 18.104 -8.5 -9.319 17.965 -8.578
 4 6 -9.454 17.965 -8.377 -9.319 17.965 -8.578 -9.387 17.826 -8.539 -9.493 17.768 -8.405
 
-0 // Metallic Gold 
+0 // Metallic Gold
 4 82 5.238 8.496 -11.835 4.975 8.365 -12.011 4.975 8.739 -12.011 5.749 9.331 -11.493
 4 82 6.081 9.16 -11.272 5.238 8.496 -11.835 5.749 9.331 -11.493 6.27 9.981 -11.145
 4 82 6.662 9.914 -10.883 6.081 9.16 -11.272 6.27 9.981 -11.145 6.512 10.639 -10.983

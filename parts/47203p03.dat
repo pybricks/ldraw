@@ -2,16 +2,17 @@
 0 Name: 47203p03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
 
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\47203s01.dat
 
 0 !TEXMAP START PLANAR -22 -36.5 20 20 -36.5 21.5 -22 -8 20 47203p03.png
-0 !: 1 16 0 0 0 1 0 0 0 1 0 0 0 1  s\47203s02.dat
+0 !: 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\47203s02.dat
 0 !TEXMAP FALLBACK
 
 3 16 -18.5 -35.9135 -15.6195 -20.6965 -36.1965 -14.918 -20.4135 -34 -15.6195

@@ -2,12 +2,13 @@
 0 Name: clikitsstud.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Primitive UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2006-10-14 [WilliamH] Rewound to CCW, added missing conditional lines
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // Inner diameter 9LDu
 0 // Outer diameter over teeth 13LDu

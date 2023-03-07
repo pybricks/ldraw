@@ -2,13 +2,14 @@
 0 Name: 50303.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2007-08-25 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2007-08-25 {LEGO Universe Team} Original part shape
 0 !HISTORY 2008-04-06 [mikeheide] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 3 16 -36.16 8 17.3 -36.88 8 15.41 -38.38 8 16.04
 2 24 -36.88 8 15.41 -38.38 8 16.04
@@ -1460,34 +1461,34 @@
 4 16 -31.94 8 8.26 -31.76 8 10.39 -31.76 2.75 10.39 -31.94 2.75 8.26
 4 16 -48.021 8 11.93 -48.248 8 9.81 -48.248 2.75 9.81 -48.021 2.75 11.93
 0 //
-1 16 50 0 60 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 30 0 60 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 10 0 60 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -10 0 60 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -30 0 60 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -50 0 60 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 50 0 40 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 30 0 40 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 10 0 40 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -10 0 40 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -30 0 40 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -50 0 40 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 30 0 20 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 10 0 20 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -10 0 20 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -30 0 20 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 30 0 0 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 10 0 0 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -10 0 0 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -30 0 0 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 30 0 -20 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 10 0 -20 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -10 0 -20 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -30 0 -20 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 10 0 -40 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -10 0 -40 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 10 0 -60 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -10 0 -60 0 0 -1 0 1 0 1 0 0 STUD.DAT
+1 16 50 0 60 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 30 0 60 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 10 0 60 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -10 0 60 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -30 0 60 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -50 0 60 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 50 0 40 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 30 0 40 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 10 0 40 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -10 0 40 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -30 0 40 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -50 0 40 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 30 0 20 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 10 0 20 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -10 0 20 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -30 0 20 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 30 0 0 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 10 0 0 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -10 0 0 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -30 0 0 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 30 0 -20 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 10 0 -20 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -10 0 -20 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -30 0 -20 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 10 0 -40 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -10 0 -40 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 10 0 -60 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -10 0 -60 0 0 -1 0 1 0 1 0 0 stud.dat
 1 16 40 4 50 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 20 4 50 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 4 50 1 0 0 0 -1 0 0 0 1 stud4.dat

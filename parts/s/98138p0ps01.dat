@@ -1,12 +1,13 @@
-0 ~Tile  1 x  1 Round with Jewel Pattern 1/8 
+0 ~Tile  1 x  1 Round with Jewel Pattern 1/8
 0 Name: s\98138p0ps01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 19 -2 0 -7.1 -1.93 0 -7.27 -1.74 0 -7.2 -1.9 0 -6.9
 4 19 -1.7 0 -6.8 -1.9 0 -6.9 -1.74 0 -7.2 -1.65 0 -7.16

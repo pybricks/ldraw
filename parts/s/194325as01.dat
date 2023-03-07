@@ -2,13 +2,14 @@
 0 Name: s\194325as01.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-02-06 [MagFors] Adapted subfiles to new standard, removed overlaps
 0 !HISTORY 2020-10-09 [Holly-Wood] Change winding to CCW
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 -0.25 0 100 0 0 0 0.25 0 0 0 22.36 box4-12.dat
 

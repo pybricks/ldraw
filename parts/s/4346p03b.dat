@@ -2,12 +2,13 @@
 0 Name: s\4346p03b.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-02 [MagFors] Removed T-junctions
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 4 0 -12.42 0 9 -11.2 0 7.89 11.2 0 7.89 12.42 0 9
 4 0 0 0 -7.89 -12.42 0 -9 12.42 0 -9 10.05 0 -7.89

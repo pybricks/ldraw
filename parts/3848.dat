@@ -2,12 +2,13 @@
 0 Name: 3848.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2004-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Castle, weapon, polearm, poleaxe, axe, battleaxe
-0 !KEYWORDS medieval, infantry
+0 !KEYWORDS axe, battleaxe, Castle, infantry, medieval, polearm, poleaxe, Weapon
+
 0 !CMDLINE -c6
 
 0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
@@ -17,6 +18,7 @@
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 1 16 0 60 0 4 0 0 0 -1 0 0 0 4 4-4disc.dat
 1 16 0 60 0 4 0 0 0 1 0 0 0 4 4-4edge.dat

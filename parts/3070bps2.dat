@@ -2,13 +2,14 @@
 0 Name: 3070bps2.dat
 0 Author: Tim Gould [timgould]
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, Flash Speeder
+0 !KEYWORDS Flash Speeder, Star Wars
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
 4 16 -10 0 -10 10 0 -10 10 0 -7 -10 0 -7

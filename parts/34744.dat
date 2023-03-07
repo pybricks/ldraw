@@ -2,11 +2,12 @@
 0 Name: 34744.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 16 0 0 0 39 0 0 0 1 0 0 0 79 box4.dat
 1 16 0 1 0 40 0 0 0 23 0 0 0 80 box4.dat
@@ -81,7 +82,6 @@
 4 16 39 1 -79 -39 1 -79 -40 1 -80 40 1 -80
 4 16 39 1 79 39 1 -79 40 1 -80 40 1 80
 3 16 0 24 -79.7782 40 24 -80 -40 24 -80
-
 
 1 16 0 6 -72 5.5 0 0 0 1 0 0 0 5.5 4-4edge.dat
 0 BFC INVERTNEXT

@@ -2,14 +2,16 @@
 0 Name: 3626cp05.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3626cpb1214, Set 60155, Set 60191, Set 60194, Set 60196, Set 75874
-0 !KEYWORDS Set 10764, Set 60160, Set 71235, Set 70657, Set 70751, Set 21204
+0 !KEYWORDS Bricklink 3626cpb1214, Set 10764, Set 21204, Set 60155, Set 60160
+0 !KEYWORDS set 60191, Set 60194, Set 60196, Set 70657, Set 70751, set 71235
+0 !KEYWORDS Set 75874
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs01.dat
 1 16 0 4 0 13 0 0 0 13 0 0 0 -13 1-8cyli.dat

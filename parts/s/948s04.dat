@@ -2,11 +2,12 @@
 0 Name: s\948s04.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 -5 0 0 1 0 0 0 1 0 0 0 1 s\3228s01.dat
 4 16 -10 1 -2 -10 8 -2 10 9 -2 10 1 -2

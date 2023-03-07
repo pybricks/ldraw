@@ -2,11 +2,12 @@
 0 Name: s\32289s01.dat
 0 Author: Javier Orquera [kuramapika1]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 -60 82 -240 0 1 0 0 0 1 1 0 0 peghole.dat
 0 BFC INVERTNEXT
@@ -597,8 +598,8 @@
 4 16 -40 88 60 -40 76 60 -22 76 60 -26 88 60
 3 16 -26 93.04352 47.3912 -26 88 60 -26 96 60
 3 16 -26 93.04352 47.3912 -26 96 60 -26 96 32.6088
-1 16 -37 84 40  0 11 0 8 0 0 0 0 -8 3-16cylo.dat
-1 16 -37 84 40  0 11 0 8 0 0 0 0 8 3-16cylo.dat
+1 16 -37 84 40 0 11 0 8 0 0 0 0 -8 3-16cylo.dat
+1 16 -37 84 40 0 11 0 8 0 0 0 0 8 3-16cylo.dat
 4 16 -37 96 32.6088 -37 96 40 -37 92 40 -37 91.3912 36.9384
 3 16 -37 91.3912 36.9384 -37 89.6568 34.3432 -37 96 32.6088
 3 16 -37 89.6568 34.3432 -37 87.0616 32.6088 -37 96 32.6088

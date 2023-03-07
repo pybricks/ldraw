@@ -2,7 +2,7 @@
 0 Name: t1054.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,7 +10,8 @@
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
 
-1 16 2 4 0 0 -15 0 0 0 -3.5 6  0 0 box5-2p.dat
+
+1 16 2 4 0 0 -15 0 0 0 -3.5 6 0 0 box5-2p.dat
 1 16 3.5 4 -4.5 0 -1 1.5 3.5 0 0 0 0 1.5 rect3.dat
 1 16 5 4 0 0 -1 0 3.5 0 0 0 0 3 rect3.dat
 1 16 3.5 4 4.5 1.5 -1 0 0 0 3.5 -1.5 0 0 rect2p.dat

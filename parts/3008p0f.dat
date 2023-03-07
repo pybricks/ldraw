@@ -2,13 +2,14 @@
 0 Name: 3008p0f.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 10283, Discovery, Space Shuttle, Rebrickable 3008pr0043
+0 !KEYWORDS Discovery, Rebrickable 3008pr0043, Set 10283, Space Shuttle
 
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3008s01.dat
 

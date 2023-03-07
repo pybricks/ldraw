@@ -2,14 +2,15 @@
 0 Name: 13571.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS american native, wild west, western, weapon, indian, axe
+0 !KEYWORDS american native, axe, indian, Weapon, western, wild west
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 0 12.2 0 -4 0 0 0 1 0 0 0 -4 4-4edge.dat
 1 16 0 8.2 0 -3.5 0 0 0 -1 0 0 0 3.5 4-4edge.dat

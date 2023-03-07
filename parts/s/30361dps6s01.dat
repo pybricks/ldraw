@@ -2,12 +2,13 @@
 0 Name: s\30361dps6s01.dat
 0 Author: John Troxler [Gargan]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-11-18 [Holly-Wood] Added Conds, streamlined pattern, fixed rounding errors
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 4 16 -11.3 -8 -16.038 -11.7 -7.6 -15.771 -11.7 16.9 -15.771 -11.3 17.3 -16.038
 4 16 -14.14 17.3 -14.14 -11.3 17.3 -16.038 -11.7 16.9 -15.771 -14.14 16.9 -14.14

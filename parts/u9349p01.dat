@@ -2,12 +2,14 @@
 0 Name: u9349p01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Pirates, Armada, 24-point, windrose
+
+0 !KEYWORDS 24-point, Armada, Pirates, windrose
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 0 // This is lego designID 70925
 0 // It is unclear if it is an assembly or a printed part

@@ -2,13 +2,14 @@
 0 Name: 12939.dat
 0 Author: Jude Parrill [theJudeAbides]
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 0 !HISTORY 2015-11-26 [Philo] Made top thinner by 1.5 ldu
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 4 16 40 48 10 44 48 6 56 48 6 60 48 10
 4 16 40 48 -10 44 48 -6 44 48 6 40 48 10

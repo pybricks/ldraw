@@ -2,11 +2,13 @@
 0 Name: s\3817p8is02.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !HISTORY 2015-10-28 [MagFors] Pattern created by Christophe Mitillo
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 0 // outer side surface
 3 80 19.48 27.5 -10.4 19.38 25 -8 19.224 21.1 -10.4

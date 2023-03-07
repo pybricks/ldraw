@@ -2,7 +2,7 @@
 0 Name: 4714.dat
 0 Author: Jaco van der Molen [Jaco]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,12 +11,13 @@
 0 !HISTORY 1998-02-12 [PTadmin] Official Update 1998-02
 0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2013-08-29 [cwdee]   Updated category and description
+0 !HISTORY 2013-08-29 [cwdee] Updated category and description
 0 !HISTORY 2013-08-31 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2013-08-31 [MagFors] Reworked using more primitives
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 0 !HISTORY 2014-12-29 [C3POwen] Updated with subpart
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4714s01.dat
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stug4-1x4.dat

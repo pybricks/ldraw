@@ -2,7 +2,7 @@
 0 Name: 30258p01.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-07 [PTadmin] Renamed from 470p01 (2007-08-02)
 0 !HISTORY 2009-10-02 [Eldar] rework from scratch
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30258s01.dat
 4 16 20 20 -9 -1 18.75 -9 -18.25 18.75 -9 -20 20 -9

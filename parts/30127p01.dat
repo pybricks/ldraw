@@ -2,12 +2,12 @@
 0 Name: 30127p01.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS feather, bald eagle, Wild West, Western, indian
+0 !KEYWORDS bald eagle, Feather, indian, western, wild west
 
 0 !CMDLINE -C15
 
@@ -17,10 +17,11 @@
 0 !HISTORY 2008-07-07 [PTadmin] Renamed subfile
 0 !HISTORY 2009-05-01 [PTadmin] Moved from 471p01
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
-0 !HISTORY 2012-12-24 [cwdee]   Update category
+0 !HISTORY 2012-12-24 [cwdee] Update category
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 0 !HISTORY 2017-06-29 [MagFors] bfc'd
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 -4 0 -4.242641 0 -4.242641 0 8 0 4.242641 0 -4.242641 1-4cylo.dat
 1 16 0 -4 0 4.242641 0 4.242641 0 8 0 4.242641 0 -4.242641 1-4cylo.dat

@@ -2,7 +2,7 @@
 0 Name: 32109.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2017-08-13 [MagFors] bfc'd, made inside
 0 !HISTORY 2022-09-12 [MagFors] made corner half studs
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 44 0 1 0 0 0 -1 0 0 0 1 stug4-1x5.dat
 1 16 0 44 60 1 0 0 0 -1 0 0 0 1 stug4-5x5.dat

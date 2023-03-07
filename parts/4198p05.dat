@@ -2,14 +2,15 @@
 0 Name: 4198p05.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Basic set, Set 2052, Set 1500, bricklink 4198pb01
+0 !KEYWORDS Basic set, bricklink 4198pb01, Set 1500, Set 2052
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4198s01.dat
 4 0 -26.96 50.87 -40 -29.66 53.39 -40 -27.35 53.85 -40 -25 51 -40

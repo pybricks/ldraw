@@ -2,11 +2,12 @@
 0 Name: 48\1-12ring24.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG 48_Primitive UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 4 16 25 0 0 24.785 0 3.2625 23.7936 0 3.132 24 0 0
 4 16 24.785 0 3.2625 24.1475 0 6.47 23.1816 0 6.2112 23.7936 0 3.132

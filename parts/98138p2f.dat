@@ -1,15 +1,18 @@
-0 Tile 1 x 1 Round with Dark Torquoise "#" on Lavender Background Pattern
+0 Tile  1 x  1 Round with Dark Torquoise "#" on Lavender Background Pattern
 0 Name: 98138p2f.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-01
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS DOTS, Creativity Box
-0 !KEYWORDS Number Sign, Hashtag, Hash, Pound Sign, Octothorp Sign
+0 !KEYWORDS Dots, Hash, Hashtag, Number Sign, Octothorp Sign, Pound Sign
+0 !KEYWORDS Set Creativity Box
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+0 !HISTORY 2022-12-23 [Cheenzo] Added missing leading spaces in description
+0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
+
 
 0 // Based on 98138p1n.dat by Gerald Lasser [GeraldLasser]
 

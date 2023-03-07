@@ -2,13 +2,14 @@
 0 Name: 47296.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 0 !HISTORY 2022-01-06 [MagFors] Reshaped axleholes, renamed
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 -20 1 0 0 0 1 0 0 0 1 s\32174s01.dat
 1 16 0 0 -20 -1 0 0 0 1 0 0 0 1 s\32174s01.dat
@@ -52,7 +53,6 @@
 1 16 -10 0 0 0 1 0 9 0 0 0 0 9 1-8ndis.dat
 1 16 -10 0 0 0 1 0 -9 0 0 0 0 -9 1-8ndis.dat
 1 16 -10 0 0 0 1 0 -9 0 0 0 0 9 1-8ndis.dat
-
 
 2 24 8 6.3639 -6.3639 10 6.3639 -6.3639
 2 24 8 6.3639 -6.3639 8 3.442 -8.31025
@@ -290,7 +290,6 @@
 5 24 -10 3.4443 8.3151 -8 3.442 8.31025 -10 0 9 -10 6.3639 6.3639
 5 24 -10 -3.4443 8.3151 -8 -3.442 8.31025 -10 -6.3639 6.3639 -10 0 9
 5 24 -10 -6.3639 6.3639 -8 -6.3639 6.3639 -10 -3.4443 8.3151 -10 -12.72 0
-
 
 4 16 10 -9 -9 10 -9 -11 10 -6.3639 -11 10 -6.3639 -6.3639
 4 16 10 -6.3639 6.3639 10 -6.3639 11 10 -9 11 10 -9 9

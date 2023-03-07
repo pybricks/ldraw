@@ -2,12 +2,13 @@
 0 Name: s\609p01s1.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2009-01-25 [anathema] Removed edge-lines from pattern; added sides; removed POV code
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 4 16 309.336 0 20.275 307.348 0 40.4663 327.177 0 43.0736 329.293 0 21.583
 4 15 315 0 0 314.326 0 20.602 324.304 0 21.256 325 0 0

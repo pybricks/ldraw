@@ -2,12 +2,13 @@
 0 Name: 502.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2008-11-16 [anathema] Fixed various errors, BFC'd, added more detail
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 1 16 11 3 60 0 1 0 0 0 -7.5 -7.5 0 0 4-4disc.dat
 1 16 16 3 60 0 -1 0 0 0 -7.5 7.5 0 0 4-4disc.dat
@@ -77,10 +78,10 @@
 2 24 16 6.75 -53.659 16 8.303 -54.697
 1 16 11 3 0 0 -1 0 -5.3033 0 -5.3033 5.3033 0 -5.3033 1-4edge.dat
 1 16 11 3 0 0 -1 0 5.3033 0 5.3033 -5.3033 0 5.3033 1-4edge.dat
-1 16 11 3 -60 0 -1 0 -5.3033 0 -5.3033 5.3033 0 -5.3033 3-4edge.DAT
-1 16 16 3 -60 0 -1 0 -5.3033 0 -5.3033 5.3033 0 -5.3033 3-4edge.DAT
-1 16 16 3 60 0 -1 0 5.3033 0 5.3033 -5.3033 0 5.3033 3-4edge.DAT
-1 16 11 3 60 0 -1 0 5.3033 0 5.3033 -5.3033 0 5.3033 3-4edge.DAT
+1 16 11 3 -60 0 -1 0 -5.3033 0 -5.3033 5.3033 0 -5.3033 3-4edge.dat
+1 16 16 3 -60 0 -1 0 -5.3033 0 -5.3033 5.3033 0 -5.3033 3-4edge.dat
+1 16 16 3 60 0 -1 0 5.3033 0 5.3033 -5.3033 0 5.3033 3-4edge.dat
+1 16 11 3 60 0 -1 0 5.3033 0 5.3033 -5.3033 0 5.3033 3-4edge.dat
 1 16 16 3 0 0 -1 0 2.87013 0 -6.9291 6.9291 0 2.87013 1-8edge.dat
 1 16 16 3 0 0 -1 0 -2.87013 0 6.9291 -6.9291 0 -2.87013 1-8edge.dat
 4 16 16 -0.75 -54 16 2 -54 16 2 -6 16 -0.75 -6

@@ -2,13 +2,14 @@
 0 Name: s\85983s02.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2015-03-15 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 0 // rear fender
 3 16 13.939 14.891 -18.107 12.671 12.896 -20.197 13.686 16.614 -20.522

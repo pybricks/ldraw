@@ -2,7 +2,7 @@
 0 Name: 30355.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2008-07-08 [Steffen] Un-mirrored stud logos (2004-10-15)
 0 !HISTORY 2008-07-09 [guyvivan] Used stugN primitives (2005-12-31)
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30355s01.dat
 

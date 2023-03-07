@@ -2,16 +2,16 @@
 0 Name: 3626bpw9.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS wild west, western, cowboys, bank, gold city junction
-0 !KEYWORDS pirates, buccaneer, corsair, freebooter
-0 !KEYWORDS set 6232, set 6249, set 6250, set 6281, set 6289, set 6290, set 6296 
-0 !KEYWORDS set 6765
+0 !KEYWORDS Bank, buccaneer, corsair, cowboys, freebooter, gold city junction
+0 !KEYWORDS Pirates, set 6232, set 6249, set 6250, set 6281, set 6289, set 6290
+0 !KEYWORDS set 6296, set 6765, western, wild west
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 0 // Pattern
 0 // Black

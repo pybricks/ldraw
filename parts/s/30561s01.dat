@@ -2,13 +2,14 @@
 0 Name: s\30561s01.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-04-07 [GeraldLasser] Removed all the intersections with the head and the torso
 0 !HISTORY 2021-02-20 [Holly-Wood] Decolored, closed gaps, added conds, smoothed mesh
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 // Condlines for Cones in Main Files
 

@@ -2,16 +2,17 @@
 0 Name: 30407.dat
 0 Author: Tim Gould [timgould]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS pod, racer, podracer, fin, Star Wars
+0 !KEYWORDS fin, pod, podracer, Racer, Star Wars
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2013-12-28 [mikeheide] Added missing edgelines
 0 !HISTORY 2014-02-15 [MMR1988] Used subfile
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30407s01.dat
 
@@ -21,12 +22,12 @@
 0 BFC INVERTNEXT
 1 16 0 8 -57 6 0 0 0 -4 0 0 0 53 box4-4a.dat
 1 16 0 4 -110 -6 0 0 0 -1 0 0 0 -6 2-4chrd.dat
-1 16 0 2 -110 -10 0 0 0 6 0 0 0 -10 2-4cylo.DAT
+1 16 0 2 -110 -10 0 0 0 6 0 0 0 -10 2-4cylo.dat
 0 BFC INVERTNEXT
-1 16 0 4 -110 -6 0 0 0 4 0 0 0 -6 2-4cylo.DAT
+1 16 0 4 -110 -6 0 0 0 4 0 0 0 -6 2-4cylo.dat
 1 16 0 8 -110 -2 0 0 0 -1 0 0 0 -2 2-4ring3.dat
 1 16 0 8 -110 -2 0 0 0 -1 0 0 0 -2 2-4ring4.dat
-1 16 0 2 -110 -10 0 0 0 -1 0 0 0 -10 2-4ndis.DAT
+1 16 0 2 -110 -10 0 0 0 -1 0 0 0 -10 2-4ndis.dat
 
 4 16 -10 2 -160 -10 2 -120 0 2 -120 10 2 -160
 3 16 10 2 -160 0 2 -120 10 2 -120

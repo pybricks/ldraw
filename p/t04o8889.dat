@@ -2,7 +2,7 @@
 0 Name: t04o8889.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Primitive UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,11 +10,12 @@
 0 !HISTORY 2013-09-27 [MMR1988] Recreated to fix condlines
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 
+
 0 // Major Radius: 9
 0 // Tube(Minor) Radius: 8
 0 // Segments(Sweep): 4/16 = 0.25
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.8889 0 0  0 0 0.8889  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.8889 0 0 0 0 0.8889 0 1 0 4-4edge.dat
 
 4 16 1 0.8889 0 0.9239 0.8889 0.3827 1.2382 0.8212 0.5129 1.3402 0.8212 0
 4 16 1.3402 0.8212 0 1.2382 0.8212 0.5129 1.5046 0.6285 0.6232 1.6285 0.6285 0

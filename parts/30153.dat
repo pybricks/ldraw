@@ -2,17 +2,19 @@
 0 Name: 30153.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS treasure, jewel, castle, ninja, adventurers, egyptian, amazon, ruby
-0 !KEYWORDS crystal, gemstone, belville, sapphire, emerald, diamond, amethyst
+
+0 !KEYWORDS Adventurers, amazon, amethyst, Belville, Castle, crystal, diamond
+0 !KEYWORDS egyptian, emerald, gemstone, Jewel, Ninja, ruby, sapphire, treasure
 
 0 !HISTORY 2002-02-18 [PTadmin] Official Update 2002-01
 0 !HISTORY 2007-06-06 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2010-01-19 [Eldar] Add BFC
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 1 16 0 6 0 4 0 0 0 -6 0 0 0 4 4-4cyli.dat
 1 16 0 6 0 4 0 0 0 -1 0 0 0 4 4-4disc.dat

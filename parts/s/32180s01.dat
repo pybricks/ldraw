@@ -2,12 +2,13 @@
 0 Name: s\32180s01.dat
 0 Author: Ian Reid [Ian_Reid]
 0 !LDRAW_ORG Subpart UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-01-21 [Philo] Adapted to new rim shape, corrected tiny gaps
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 4 16 18.54 57.06 -30.25 24.4021 54.8091 -30.25 20.8453 46.8192 -37.75 15.8343 48.74 -37.75
 4 16 12.47 58.69 -30.25 18.54 57.06 -30.25 15.8343 48.74 -37.75 10.66 50.13 -37.75

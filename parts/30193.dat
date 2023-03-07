@@ -2,12 +2,13 @@
 0 Name: 30193.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Arctic, Orient Expedition, RES-Q, Polar, Mount Everest
-0 !KEYWORDS Town, Adventurers, mountaineering, mountain climbing, adze, pick
+0 !KEYWORDS Adventurers, adze, Arctic, Mount Everest, mountain climbing
+0 !KEYWORDS mountaineering, Orient Expedition, pick, Polar, RES-Q, town
 
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
@@ -15,6 +16,7 @@
 0 !HISTORY 2008-07-07 [PTadmin] Moved from 375 (2005-03-04)
 0 !HISTORY 2008-07-08 [mikeheide] Fixed errors, BFC'ed (2007-11-18)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 0 -36 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 -36 0 4 0 0 0 1 0 0 0 4 4-4disc.dat
@@ -139,23 +141,23 @@
 4 16 4 -44 -13 4 -40.5 -13 3 -40.5 -1.75 3 -43.75 -1.75
 0 BFC INVERTNEXT
 1 16 -2.5 -36 7.25 0 5 0 0 0 -2.25 -4.5 0 0 1-4cyli.dat
-1 16 -2.5 -36 7.25 0 1 0 0 0 -2.25 -4.5 0 0 1-4ndis.DAT
-1 16 -2.5 -36 7.25 0 1 0 0 0 -2.25 -4.5 0 0 1-4edge.DAT
-1 16 2.5 -36 7.25 0 1 0 0 0 -2.25 -4.5 0 0 1-4edge.DAT
+1 16 -2.5 -36 7.25 0 1 0 0 0 -2.25 -4.5 0 0 1-4ndis.dat
+1 16 -2.5 -36 7.25 0 1 0 0 0 -2.25 -4.5 0 0 1-4edge.dat
+1 16 2.5 -36 7.25 0 1 0 0 0 -2.25 -4.5 0 0 1-4edge.dat
 0 BFC INVERTNEXT
-1 16 2.5 -36 7.25 0 1 0 0 0 -2.25 -4.5 0 0 1-4ndis.DAT
+1 16 2.5 -36 7.25 0 1 0 0 0 -2.25 -4.5 0 0 1-4ndis.dat
 0 BFC INVERTNEXT
 1 16 -3 -37 -2.75 0 6 0 0 0 1 1 0 0 1-4cyli.dat
-1 16 -3 -37 -2.75 0 1 0 0 0 1 1 0 0 1-4ndis.DAT
-1 16 -3 -37 -2.75 0 1 0 0 0 1 1 0 0 1-4edge.DAT
+1 16 -3 -37 -2.75 0 1 0 0 0 1 1 0 0 1-4ndis.dat
+1 16 -3 -37 -2.75 0 1 0 0 0 1 1 0 0 1-4edge.dat
 0 BFC INVERTNEXT
-1 16 3 -37 -2.75 0 1 0 0 0 1 1 0 0 1-4ndis.DAT
-1 16 3 -37 -2.75 0 1 0 0 0 1 1 0 0 1-4edge.DAT
+1 16 3 -37 -2.75 0 1 0 0 0 1 1 0 0 1-4ndis.dat
+1 16 3 -37 -2.75 0 1 0 0 0 1 1 0 0 1-4edge.dat
 0 BFC INVERTNEXT
-1 16 4 -37 -13 -1 1 0 0 0 -3.5 11.25 0 0 1-4ndis.DAT
-1 16 4 -37 -13 -1 1 0 0 0 -3.5 11.25 0 0 1-4edge.DAT
-1 16 -4 -37 -13 1 1 0 0 0 -3.5 11.25 0 0 1-4ndis.DAT
-1 16 -4 -37 -13 1 1 0 0 0 -3.5 11.25 0 0 1-4edge.DAT
+1 16 4 -37 -13 -1 1 0 0 0 -3.5 11.25 0 0 1-4ndis.dat
+1 16 4 -37 -13 -1 1 0 0 0 -3.5 11.25 0 0 1-4edge.dat
+1 16 -4 -37 -13 1 1 0 0 0 -3.5 11.25 0 0 1-4ndis.dat
+1 16 -4 -37 -13 1 1 0 0 0 -3.5 11.25 0 0 1-4edge.dat
 0 BFC INVERTNEXT
 1 16 -4 -37 -13 1 6 0 0 0 -3.5 11.25 0 0 1-4cyli.dat
 0 BFC INVERTNEXT

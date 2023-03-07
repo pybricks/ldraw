@@ -2,13 +2,15 @@
 0 Name: 3245cpz3.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS BrickLink 3245cpb073, BrickHeadz, Set 41611, Marty McFly, Back to the Future
+0 !KEYWORDS Back To The Future, Brickheadz, BrickLink 3245cpb073, Marty McFly
+0 !KEYWORDS Set 41611
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3245cs01.dat
 
@@ -32,7 +34,7 @@
 4 19 9.375 0 -10 -9.375 0 -10 -4.14 3.15 -10 0 3.5 -10
 4 19 8.18 2.21 -10 9.375 0 -10 0 3.5 -10 4.14 3.15 -10
 
-0 // Buttons 
+0 // Buttons
 1 16 -6 14 -10 1.1 0 0 0 0 1.1 0 1 0 4-4disc.dat
 1 0 -6 14 -10 1.1 0 0 0 0 1.1 0 1 0 4-4ndis.dat
 4 0 -5.158 16.033 -10 -6 15.1 -10 -6.842 16.033 -10 -6 16.2 -10

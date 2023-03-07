@@ -2,7 +2,7 @@
 0 Name: s\30073s01.dat
 0 Author: Shimpei Ohsumi [Shimpei-Ohsumi]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2020-10-03 [UR] Position, Dimensions and Shape of the Door Handle.
 0 !HISTORY 2020-10-03 [UR] Inner Rounding Dimension of the Window, Optimized Primitives
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 6 105 102 0 1 0 -3 0 0 0 0 -3 1-4ndis.dat
 1 16 0 192 0 2 0 0 0 -1 0 0 0 2 4-4ring3.dat

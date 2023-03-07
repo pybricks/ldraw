@@ -2,11 +2,14 @@
 0 Name: 973phb.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Harry Potter, Severus Snape, Hogwarts, Slytherin, glow in the dark head
-0 !KEYWORDS Sorcerer's Stone, set 4705, set 4709, set 4733, bricklink 973px148
+
+0 !KEYWORDS bricklink 973px148, glow in the dark head, Harry Potter, Hogwarts
+0 !KEYWORDS set 4705, set 4709, set 4733, Severus Snape, Slytherin
+0 !KEYWORDS Sorcerer's Stone
+
 0 !CMDLINE -c0
 
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
@@ -16,6 +19,7 @@
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 0 !HISTORY 2020-10-02 [MagFors] subfiled part of the pattern
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 -12 0 10 12 0 10 14.345 2 10 -14.345 2 10

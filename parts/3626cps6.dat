@@ -2,13 +2,15 @@
 0 Name: 3626cps6.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3626cpb2651, Set 75280, Set 75283, Set 40558, Set 75286, Set 75342, Set 75309, Clone Trooper, Star Wars, Set 75340
+0 !KEYWORDS Bricklink 3626cpb2651, Clone Trooper, Set 40558, Set 75280
+0 !KEYWORDS Set 75283, Set 75286, Set 75309, Set 75340, Set 75342, Star Wars
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs01.dat
 1 16 0 4 0 13 0 0 0 13 0 0 0 -13 1-8cyli.dat

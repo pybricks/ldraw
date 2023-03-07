@@ -2,7 +2,7 @@
 0 Name: s\41862s01.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2006-10-04 [WilliamH] moved more elements into sub-part, added conditional lines
 0 !HISTORY 2011-01-05 [BlackBrick89] added edgelines, rectified
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 4 16 24 3 -10 24 -9.6 -10 33.8 -9.6 -10 31 2.8 -10
 3 16 31 2.8 -10 33.8 -9.6 -10 35.8 1 -10

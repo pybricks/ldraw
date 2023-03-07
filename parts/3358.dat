@@ -2,7 +2,7 @@
 0 Name: 3358.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2013-08-29 [cwdee] Updated category
 0 !HISTORY 2013-09-03 [MMR1988] BFC'ed, corrected inner dimensions
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 0 BFC INVERTNEXT
 1 16 0 4 0 6 0 0 0 36 0 0 0 6 4-4cylc.dat
@@ -85,7 +86,6 @@
 4 16 -3 36 34.4873 -3 40 50 -3 40 9.403449 -3 36 25.5147
 3 16 -3 36 37.5147 -3 40 50 -3 36 34.4873
 3 16 -3 36 46 -3 40 50 -3 36 37.5147
-
 
 4 16 3 4 22.4873 3 10 28.4873 3 8.4863 30 3 4 25.5147
 4 16 3 11.5137 30 3 20 38.4863 3 18.4853 40 3 10 31.5147

@@ -2,13 +2,14 @@
 0 Name: 3626cpbk.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Clark Kent, Superman, Batman The Movie, DC Super Heroes Unite
+0 !KEYWORDS Batman The Movie, Clark Kent, DC Super Heroes Unite, Superman
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 12.0104 0 4.9749 0 13 0 -4.9749 0 12.0104 5-8cyli.dat

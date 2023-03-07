@@ -2,15 +2,14 @@
 0 Name: s\97784s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-
-0 !CATEGORY Figure Accessory
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-08-01 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 4 16 0 -7.98 10.392 0 -13.48 10.392 -1.24 -13.48 8.751 -1.24 -7.98 8.751
 4 16 -1.24 -7.98 8.751 -1.24 -13.48 8.751 -2.33431 -13.48 7.94991 -2.33431 -7.98 7.94991

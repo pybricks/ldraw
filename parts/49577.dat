@@ -2,7 +2,7 @@
 0 Name: 49577.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Oblique bars angle: 22.5°
 
@@ -11,6 +11,7 @@
 0 !KEYWORDS Coral
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 20 30 -10 0 0 -1 -1 0 0 0 1 0 stud2a.dat
 0 BFC INVERTNEXT

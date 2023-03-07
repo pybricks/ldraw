@@ -2,11 +2,12 @@
 0 Name: s\973pbdg.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 4 80 9.891 5.367 -10 9.207 5.59 -10 9.852 6.857 -10 10.612 5.367 -10
 4 80 8.624 6.013 -10 8.201 6.596 -10 9.852 6.857 -10 9.207 5.59 -10

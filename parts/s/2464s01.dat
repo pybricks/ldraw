@@ -2,11 +2,12 @@
 0 Name: s\2464s01.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 2 24 10 0 -50 10 0 -30
 2 24 8 0 -48 8 0 -32
@@ -126,7 +127,7 @@
 1 16 0 24 -20 -4 0 0 0 13.7 0 0 0 4 4-4cyli.dat
 1 16 0 36.7 -20 0 0 6 0 3.5 0 -6 0 0 4-4cyls.dat
 1 16 0 24 -20 -6 0 0 0 12.7 0 0 0 6 4-4cyli.dat
-0 //  studcutout
+0 // studcutout
 2 24 0 45.7143 -14 2.2962 45.4534 -14.4566
 2 24 -2.2962 45.4534 -14.4566 0 45.7143 -14
 2 24 -3.2058 45.106 -15.0645 -2.2962 45.4534 -14.4566

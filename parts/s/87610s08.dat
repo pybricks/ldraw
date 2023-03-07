@@ -2,11 +2,12 @@
 0 Name: s\87610s08.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 4 16 0 -1.975 15.4544 3.7008 -1.975 14.9274 3.7785 1.5 15.4544 0 1.5 16
 4 16 7.3 1.5 13.856 3.7785 1.5 15.4544 3.7008 -1.975 14.9274 7.15 -1.975 13.3835

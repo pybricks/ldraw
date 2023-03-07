@@ -2,15 +2,16 @@
 0 Name: 3816bpaw.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Chima, Worriz, Bricklink 970c86pb06
+0 !KEYWORDS BrickLink 970c86pb06, Chima, Worriz
 
 0 !HISTORY 2014-12-23 [Philo] Original design as 3816paw
 0 !HISTORY 2020-06-23 [MagFors] Adapted to corrected geometry
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3817bs01.dat
 4 16 -19.23 20 -4 -19.23 20 -10 -1.5 20 -10 -1.5 20 -4
@@ -112,7 +113,6 @@
 4 16 -14.4 22.2 -10 -13.7 22.9 -10 -11.5 22.7 -10 -11 22.1 -10
 4 16 -14.4 22.2 -10 -11 22.1 -10 -10.4 21.6 -10 -14.9 21.8 -10
 3 16 -14.9 21.8 -10 -10.4 21.6 -10 -9.8 21.3 -10
-
 
 4 0 -3.3394 -2.6 -8.233 -3.2364 -3.349 -8.084 -3.5455 -3.349 -8.084 -3.7515 -2.8 -8.1932
 4 0 -3.8545 -1.9 -8.3722 -3.3394 -2.6 -8.233 -3.7515 -2.8 -8.1932 -4.1636 -2.3 -8.2926

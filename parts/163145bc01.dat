@@ -2,12 +2,14 @@
 0 Name: 163145bc01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Window, Arch, Set 6376, Restaurant, Breezeway Cafe
+0 !KEYWORDS Arch, Breezeway Cafe, Restaurant, Set 6376, Window
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 0 BFC NOCLIP
 4 15 59 -.25 0 59 -.0527 2.9935 -59 -.0527 2.9935 -59 -.25 0

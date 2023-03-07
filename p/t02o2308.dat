@@ -2,19 +2,20 @@
 0 Name: t02o2308.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Primitive UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2010-03-20 [tchang]  Generate with Primitive Generator
+0 !HISTORY 2010-03-20 [tchang] Generate with Primitive Generator
 0 !HISTORY 2013-11-12 [MagFors] Recreated to fix condlines
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // Major Radius: 13
 0 // Tube(Minor) Radius: 3
 0 // Segments(Sweep): 8/16 = 0.50
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.2308 0 0  0 0 0.2308  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.2308 0 0 0 0 0.2308 0 1 0 4-4edge.dat
 
 4 16 1 0.2308 0 0.9239 0.2308 0.3827 1.0055 0.2132 0.4165 1.0883 0.2132 0
 4 16 1.0883 0.2132 0 1.0055 0.2132 0.4165 1.0747 0.1632 0.4451 1.1632 0.1632 0

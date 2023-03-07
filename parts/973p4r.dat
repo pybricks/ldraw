@@ -2,22 +2,24 @@
 0 Name: 973p4r.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Castle, LEGOLAND Castle, Guard, Tournament
+0 !KEYWORDS Castle, guard, LEGOLAND Castle, tournament
+
 0 !CMDLINE -C4
 
 0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
-0 !HISTORY 2004-12-09 [cwdee]   Description change only
+0 !HISTORY 2004-12-09 [cwdee] Description change only
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-01-13 [Steffen] Modified with WINDZ for BFC compliance
 0 !HISTORY 2015-01-18 [MagFors] Removed a T-junction
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 -19 32 10 -19 29 10 19 29 10 19 32 10

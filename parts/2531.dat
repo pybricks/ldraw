@@ -2,15 +2,17 @@
 0 Name: 2531.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS gaff, gaff-hook, prosthetic, artificial hand, Pirates, pirate, sailor
-0 !KEYWORDS Aquazone, Aquasharks, Alpha Team, Ogel
+
+0 !KEYWORDS Alpha Team, Aquasharks, Aquazone, artificial hand, gaff, gaff-hook
+0 !KEYWORDS Ogel, Pirate, Pirates, prosthetic, sailor
 
 0 !HISTORY 2002-11-07 [BrickCaster] changed position/orientation for arm-compatibility with improved minifig hand (983.dat). Not tool-compatible because of different hand angle
 0 !HISTORY 2010-08-22 [Philo] BFCed with Windz, corrected gap at hook base, added a few condlines, moved origin at collar base
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 2.828 0 -14.828 0 1.414 1.414 2 0 0 0 -1.414 1.414 2-8sphe.dat
 1 16 2.828 0 -14.828 0 0.707 1.414 2 0 0 0 -0.707 1.414 2-4disc.dat

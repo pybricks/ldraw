@@ -2,11 +2,12 @@
 0 Name: s\45803s02.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 4 16 9 -10 0 10 -10 0 9.239 -10 3.827 8.315 -10 3.444
 4 16 8.315 -10 3.444 9.239 -10 3.827 7.071 -10 7.071 6.364 -10 6.364

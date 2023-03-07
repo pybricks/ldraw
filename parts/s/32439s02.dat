@@ -2,15 +2,15 @@
 0 Name: s\32439s02.dat
 0 Author: Marc Klein [marckl]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-17 [Philo] Added missing condlines
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 
-0 // Created with stl2dat conversion tool
 
+0 // Created with stl2dat conversion tool
 
 4 16 -60 -1 0 -60 -6.306 0 -60 -6.306 -5 -60 -1 -4.667
 2 24 -60 -6.306 0 -60 -1 0

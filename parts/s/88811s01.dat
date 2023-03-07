@@ -2,13 +2,14 @@
 0 Name: s\88811s01.dat
 0 Author: Rolf Osterthun [Rolf]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-10-13 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2011-10-14 [Rolf] File preparation for LDraw Parts Tracker
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 5 24 0 -17.125 16.625 0 -17.125 -2.875 0.598 -16.848 16.625 -0.598 -16.848 -2.875
 5 24 0 -16.25 -3.75 0 -16.833 -3.457 -0.594 -16.25 -3.476 0.598 -16.25 -3.473

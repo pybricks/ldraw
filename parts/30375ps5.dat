@@ -2,16 +2,17 @@
 0 Name: 30375ps5.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, minifig-scale
-0 !KEYWORDS Episode Two, battle droid commander, set 75019
-0 !KEYWORDS Clone Wars, rocket droid commander, set 8086
+0 !KEYWORDS battle droid commander, Clone Wars, Episode Two, minifig-scale
+0 !KEYWORDS rocket droid commander, set 75019, set 8086, Star Wars
+
 0 !CMDLINE -c484
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30375s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30375s03.dat

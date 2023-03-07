@@ -2,12 +2,13 @@
 0 Name: s\3069p0fs02.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-01-18 [smr] moved bedroll frame from from 3069bp0f to s\3069p0fs02.dat
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 4 16 11.9 0 9.4 20 0 10 -20 0 10 2.7 0 9.2
 4 16 11.9 0 9.4 2.7 0 9.2 7 0 8.9 11.2 0 9

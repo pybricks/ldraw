@@ -2,14 +2,15 @@
 0 Name: 4066bp1c.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS House, Bedroom, Set 2776, Set 2780, Set 1945, bricklink 4066pb074
+0 !KEYWORDS Bedroom, bricklink 4066pb074, house, Set 1945, Set 2776, Set 2780
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 4 1 -5 16 -20 -11.93 13.13 -20 -12.5 16 -20 -11.93 18.87 -20

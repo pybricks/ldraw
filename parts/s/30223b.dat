@@ -1,8 +1,8 @@
 0 ~Door  1 x  5 x  7.5 - Tooth subpart 2 (Obsolete)
 0 Name: s\30223b.dat
-0 Author: Dave Schuler
+0 Author: Dave Schuler [Schuler]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,5 +11,6 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2020-11-09 [MagFors] Obsoleted
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 empty.dat

@@ -1,22 +1,23 @@
-0 Minifig Torso Short with Ridged Extended Back with Orange Collar and Black Tie Pattern 
+0 Minifig Torso Short with Ridged Extended Back with Orange Collar and Black Tie Pattern
 0 Name: 98127pd7f.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS Armour, Ninjago, Flashback, Garmadon, Collectible
-0 !KEYWORDS BrickLink 98127pb01
+0 !KEYWORDS Armour, BrickLink 98127pb01, Collectible, Flashback, Garmadon
+0 !KEYWORDS Ninjago
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\98127s01.dat
 0 // Tie
 4 0 -3.5 6 -10 -2 2 -10 2 2 -10 3.5 6 -10
 4 0 -3 6.25 -10 -3.5 6 -10 3.5 6 -10 3 6.25 -10
 4 0 -1.5 7 -10 -3 6.25 -10 3 6.25 -10 1.5 7 -10
-4 0  -3.7 23 -10 -1.5 7 -10 1.5 7 -10 3.7 23 -10
+4 0 -3.7 23 -10 -1.5 7 -10 1.5 7 -10 3.7 23 -10
 0 // Collar edge
 4 0 12 2 -10 11.5 9 -10 11 9 -10 11.5 2 -10
 4 0 11.5 9 -10 12 16 -10 11.5 15.4 -10 11 9 -10

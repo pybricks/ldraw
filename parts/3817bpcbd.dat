@@ -2,16 +2,17 @@
 0 Name: 3817bpcbd.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Move down 12 units to align with hips
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS pig, animal, costume, piggy guy, CMF series 12, set 80102
+0 !KEYWORDS animal, CMF series 12, Costume, pig, piggy guy, set 80102
 
 0 !HISTORY 2020-08-25 [Holly-Wood] Added conds
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bs01.dat
 5 24 2 3.349 -8.084 18.659 3.349 -8.084 2 0 -8.75 2 6.187 -6.187

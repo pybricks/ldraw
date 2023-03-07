@@ -2,14 +2,15 @@
 0 Name: 61975.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Indiana, Jones, Indy
+0 !KEYWORDS Indiana, Indy, Jones
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 1 16 -18.55 -1.1 0 1 0 0 0 0 -1 0 1 0 s\61975s01.dat
 1 16 -18.55 -1.1 0 1 0 0 0 0 -1 0 -1 0 s\61975s01.dat

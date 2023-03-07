@@ -2,12 +2,12 @@
 0 Name: 2594.dat
 0 Author: Richard Baxter [rbaxter]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Castle, Knight, Fantasy Era, Knights, Clay Bot
+0 !KEYWORDS Castle, Clay Bot, Fantasy Era, knight, Knights
 
 0 !HISTORY 2005-01-28 [rbaxter] Original part created
 0 !HISTORY 2014-01-04 [mikeheide] with WINDZ for BFC compliance
@@ -15,6 +15,7 @@
 0 !HISTORY 2018-04-27 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2018-04-27 [MagFors] Replaced Richard Baxter's code with LDD data
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2594s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2594s01.dat

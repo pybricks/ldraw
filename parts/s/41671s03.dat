@@ -2,11 +2,12 @@
 0 Name: s\41671s03.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Subpart UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 3 16 10.185 -53.335 130.53 10.185 -55.825 126.72 22.335 -50.243 130.908
 3 16 10.185 -55.825 126.72 12.265 -58.221 121.777 22.345 -56.529 120.871

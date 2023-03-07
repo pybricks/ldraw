@@ -2,15 +2,16 @@
 0 Name: 004659g.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 590-1, Fire Station
+0 !KEYWORDS Fire Station, Set 590-1
 
 0 !HISTORY 2019-09-08 [anathema] Original pattern using TEXMAP
 0 !HISTORY 2021-03-09 [RainbowDolphin] Vectorized the pattern and used common subfile with 004452c
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 -0.25 0 19 0 0 0 0.25 0 0 0 11 box5-12.dat
 1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\004452cs01.dat

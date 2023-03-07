@@ -2,7 +2,7 @@
 0 Name: 6003.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-12-30 [mikeheide] BFC'ed and used some more primitives
 0 !HISTORY 2009-07-04 [Eldar] Fix a stud orientation
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 40 4 40 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 20 4 40 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -178,11 +179,11 @@
 5 24 10.61 0 -53.91 10.61 4 -53.91 -4.39 0 -58.46 24.45 0 -46.52
 5 24 -4.39 0 -58.46 -4.39 8 -58.46 -20 0 -60 10.61 0 -53.91
 5 24 -5.17 4 -54.54 -5.17 8 -54.54 -20 4 -56 9.08 4 -50.21
-1 16 50 0 50 0 0 -1 0 1 0 1 0 0 STUD.DAT
+1 16 50 0 50 0 0 -1 0 1 0 1 0 0 stud.dat
 1 16 -10 0 10 0 0 -1 0 1 0 1 0 0 stug5.dat
-1 16 50 0 30 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 50 0 10 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -10 0 -50 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -30 0 -50 0 0 -1 0 1 0 1 0 0 STUD.DAT
-1 16 -50 0 -50 0 0 -1 0 1 0 1 0 0 STUD.DAT
+1 16 50 0 30 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 50 0 10 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -10 0 -50 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -30 0 -50 0 0 -1 0 1 0 1 0 0 stud.dat
+1 16 -50 0 -50 0 0 -1 0 1 0 1 0 0 stud.dat
 0 //

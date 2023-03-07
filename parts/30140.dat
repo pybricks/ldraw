@@ -2,11 +2,11 @@
 0 Name: 30140.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS timber, wild west, pirates, ninja, adventurers
+0 !KEYWORDS Adventurers, Ninja, Pirates, timber, wild west
 
 0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
 0 !HISTORY 1999-07-05 [PTadmin] Official Update 1999-05
@@ -16,6 +16,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2014-12-26 [Philo] BFCed with Windz, minor improvements.
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 2 24 40 144 0 40 144 -17
 2 24 -40 144 -17 -40 144 0

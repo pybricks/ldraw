@@ -2,12 +2,13 @@
 0 Name: 164.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2007-11-10 [Jaco] Secondary author
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 // bottom of hull (back) can be improved
 
@@ -61,7 +62,7 @@
 1 16 0 64 -50 -4 0 0 0 1 0 0 0 4 4-4cyli.dat
 1 16 0 64 -50 -4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 65 -50 -4 0 0 0 1 0 0 0 4 4-4edge.dat
-1 16 0 65 -50 -4 0 0 0 3 0 0 0 4 4-4CON0.DAT
+1 16 0 65 -50 -4 0 0 0 3 0 0 0 4 4-4con0.dat
 1 16 0 64 -50 0 0 -20 0 -1 0 -6 0 0 rect.dat
 1 16 0 68 -42 0 0 -24 0 -1 0 -2 0 0 rect.dat
 1 16 0 68 -58 0 0 -24 0 -1 0 -2 0 0 rect.dat

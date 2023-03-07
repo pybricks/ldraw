@@ -2,13 +2,14 @@
 0 Name: u9512.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 
-1 16 0 -.1 0 31.44 0 0 0 .2 0 0 0 31.44 48\4-4cylo.dat 
+
+1 16 0 -.1 0 31.44 0 0 0 .2 0 0 0 31.44 48\4-4cylo.dat
 
 0 // Top Circuit
 4 0 1 -.1 -12.1 -1 -.1 -12.1 -.8 -.1 -11.9 .8 -.1 -11.9

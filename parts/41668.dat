@@ -2,15 +2,16 @@
 0 Name: 41668.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bionicle, Connector, Block
+0 !KEYWORDS bionicle, block, connector
 
 0 !HISTORY 2019-10-20 [MagFors] Moved peghole to subfile
 0 !HISTORY 2022-02-13 [MagFors] Corrected description
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\41668s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\41668s01.dat

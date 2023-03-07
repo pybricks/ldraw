@@ -2,13 +2,14 @@
 0 Name: s\46303s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2008-12-20 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2008-12-20 {LEGO Universe Team} Original part shape
 0 !HISTORY 2009-01-23 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 4 16 4.42 -5.24 10.43 3.85 -6.42 8.8 3.68 -3.58 8.35 4.42 -1.69 10.43
 2 24 4.42 -1.69 10.43 3.68 -3.58 8.35

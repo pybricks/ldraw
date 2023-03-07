@@ -2,10 +2,11 @@
 0 Name: 30157.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS pins, wheel, hub
+
+0 !KEYWORDS hub, pins, wheel
 
 0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
 0 !HISTORY 2007-06-06 [PTadmin] Replaced box3#8p references with box3u8p
@@ -13,6 +14,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [tchang] Add BFC, modify primitives, some edges, faces (2008-03-20)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 2 24 -36 4 16 -18 4 16
 2 24 -16 4 16 16 4 16

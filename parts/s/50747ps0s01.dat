@@ -2,10 +2,12 @@
 0 Name: s\50747ps0s01.dat
 0 Author: Daniel Goerner [TK-949]
 0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 4 25 -11.52 -75.299 -56.176 -11.372 -76.561 -56.107 -13.45 -77.76 -55.63 -11.631 -74.389 -56.225
 4 25 -15 -74.01 -55.63 -15.581 -74.165 -55.426 -15.77 -72.409 -55.441 -15.53 -70 -55.63

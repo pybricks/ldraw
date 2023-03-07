@@ -2,13 +2,14 @@
 0 Name: 11289.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2015-07-19 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 3 16 19.244 107.676 -70 19.288 89 -85.963 36.131 89 -70
 4 16 9.704 110 -70 7.919 107.702 -70 19.244 107.676 -70 20 110 -70

@@ -2,11 +2,12 @@
 0 Name: 753.dat
 0 Author: Niels Karsdorp [nielsk]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 20 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -171,7 +172,7 @@
 0 -- plate side faces
 4 16 -40 0 -20 -40 8 -20 -20 8 -20 -20 0 -20
 4 16 20 0 -20 20 8 -20 40 8 -20 40 0 -20
-4 16 -16 4 -20 -16 8 -20 16 8 -20 16 4 -20 
+4 16 -16 4 -20 -16 8 -20 16 8 -20 16 4 -20
 0 top flat faces
 1 16 0 0 -30 10 0 0 0 1 0 0 0 10 2-4ndis.dat
 4 16 -18.478 0 -27.654 -10 0 -30 -10 0 -20 -20 0 -20

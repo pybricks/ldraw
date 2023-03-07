@@ -2,13 +2,14 @@
 0 Name: 44865.dat
 0 Author: Bertrand Lequy [Berth]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Technic, peg, connector
+0 !KEYWORDS connector, peg, Technic
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 5 4 -5.5 0 0 1.5 0 20 0 -0.5 0 0 box3u6.dat
 1 16 5 14 -5 0 -0.75 0.75 10 0 0 0 0.75 0.75 box2-5.dat

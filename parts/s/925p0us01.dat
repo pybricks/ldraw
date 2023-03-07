@@ -2,11 +2,12 @@
 0 Name: s\925p0us01.dat
 0 Author: N. W. Perry [Plastikean]
 0 !LDRAW_ORG Subpart UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 4 16 -36.93 8.13 -10 -36 7.87 -10 -36.04 7.26 -10 -36.93 7.13 -10
 4 16 -34.34 5.04 -10 -35.31 5.37 -10 -34.96 6.23 -10 -34.11 5.87 -10

@@ -2,15 +2,16 @@
 0 Name: 004659h.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 590-1, Fire Station
+0 !KEYWORDS Fire Station, Set 590-1
 
 0 !HISTORY 2019-09-08 [anathema] Original pattern using TEXMAP
 0 !HISTORY 2021-03-10 [RainbowDolphin] Vectorized the pattern
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 -0.25 0 79 0 0 0 0.25 0 0 0 11 box5-12.dat
 4 15 -75.07 -.25 -6.39 -72.48 -.25 -4.03 -72.48 -.25 -.74 -75.07 -.25 6.4

@@ -2,7 +2,7 @@
 0 Name: 10128p02.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Arm sockets at x = +/-40, y = -126
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2013-12-07 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-10-10 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 28 0 0 0 1 0 0 0 1 0 0 0 1 s\10128s01.dat
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\10128s02.dat

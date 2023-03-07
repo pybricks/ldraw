@@ -2,16 +2,15 @@
 0 Name: 3626bpa1.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS Adventurers, bald chin, beard, beardless chin, bushy sideburns
+0 !KEYWORDS doctor, Dr. Kilroy, Dr. Lightning, eyeglasses, face, grey beard
+0 !KEYWORDS hairless chin, moustache, old man, Prof. Kilroy, professor
+0 !KEYWORDS sideburns, smile, spectacles, white beard
 
-0 !KEYWORDS face, smile, eyeglasses, spectacles, sideburns
-0 !KEYWORDS bushy sideburns, beard, white beard, grey beard, moustache
-0 !KEYWORDS beardless chin, hairless chin, bald chin
-0 !KEYWORDS Adventurers, Dr. Kilroy, Prof. Kilroy, doctor, professor, old man
-0 !KEYWORDS Dr. Lightning
 0 !CMDLINE -c14
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
@@ -19,6 +18,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-10-28 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs04.dat

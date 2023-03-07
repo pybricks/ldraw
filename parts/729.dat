@@ -2,9 +2,10 @@
 0 Name: 729.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2005-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
 0 !CMDLINE -c47
 
 0 !HISTORY 1998-03-23 [PTadmin] Official Update 1998-03
@@ -14,6 +15,7 @@
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-07-21 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 4 16 110 72 80 -110 72 80 -106 72 76 106 72 76
 4 16 -110 72 -80 110 72 -80 106 72 -76 -106 72 -76

@@ -2,15 +2,15 @@
 0 Name: 4162p0r.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS United Nations Headquarters, 1950, New York City, USA
-0 !KEYWORDS Architect, Oscar Niemeyer, Le Corbusier
-0 !KEYWORDS Set 21018
+0 !KEYWORDS 1950, Architect, Le Corbusier, New York City, Oscar Niemeyer
+0 !KEYWORDS Set 21018, United Nations Headquarters, USA
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Text produced by txt2dat, using "Arial" font
 0 // Scaled and Positioned with MLCad

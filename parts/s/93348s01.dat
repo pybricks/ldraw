@@ -2,7 +2,7 @@
 0 Name: s\93348s01.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Front Face is: 4 16 -20 20 -70 -40 0 -10 40 0 -10 20 20 -70
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2013-08-19 [PTadmin] Renamed from s/u9046s01
 0 !HISTORY 2013-08-21 [MMR1988] Fixed rounding errors and t-junctions, boxified, rectified.
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 30 14 -10 -1 0 0 0 0 10 0 4 0 box4-2p.dat
 1 16 -30 14 -10 -1 0 0 0 0 10 0 4 0 box4-2p.dat

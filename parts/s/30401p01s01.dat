@@ -2,11 +2,12 @@
 0 Name: s\30401p01s01.dat
 0 Author: Tim Lampmann [L4mpi]
 0 !LDRAW_ORG Subpart UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 4 16 -126 0 312.25 -133 0 312.25 -133 0 308.25 -126 0 308.25
 4 16 -126 0 303.75 -133 0 303.75 -133 0 299.75 -126 0 299.75

@@ -2,11 +2,12 @@
 0 Name: s\48492s01.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 2 24 -9.837 22.435 11.973 -9.641 22.435 -12.495
 2 24 -9.641 22.435 -12.495 -12.754 22.435 -12.495
@@ -216,7 +217,6 @@
 2 24 -14.24 30 -38.193 -14.24 30 -33.496
 2 24 -14.24 30 -33.496 -12.282 34.575 -31
 2 24 -13.99 22.85 -31.6 -12.346 27.37 -29.1
-
 
 0 // Outside
 4 16 -13.758 22.435 16.585 -9.837 22.435 11.973 -9.641 22.435 -12.495 -12.978 22.435 -5.108

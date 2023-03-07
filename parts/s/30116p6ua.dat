@@ -2,7 +2,7 @@
 0 Name: s\30116p6ua.dat
 0 Author: Nils Schmidt [BlackBrick89]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2017-08-11 [MagFors] removed some vertices
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 0 136.339 43.113 -217.185 136.583 42.865 -216.504 130.207 42.704 -219.873 129.333 42.913 -220.837
 4 0 136.156 42.455 -215.861 130.799 42.496 -219.075 136.583 42.865 -216.504 136.713 42.661 -215.986

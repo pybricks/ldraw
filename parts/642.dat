@@ -2,10 +2,12 @@
 0 Name: 642.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !KEYWORDS gear, pre-technic, Samsonite
+
 0 !CMDLINE -c14
 
 0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
@@ -14,6 +16,7 @@
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC Compliant and use more primitives (2005-01-03)
 0 !HISTORY 2008-07-08 [cwdee] Moved from 742.dat and rotated about Y (2005-01-04)
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 0 6 0 0 52 -52 0 0 0 -12 0 48\4-4cyli.dat
 1 16 0 0 6 0 0 52 -52 0 0 0 -1 0 48\4-4edge.dat
@@ -30,7 +33,7 @@
 1 16 0 0 -9 0 0 6 6 0 0 0 -1 0 4-4edge.dat
 0 BFC INVERTNEXT
 1 16 0 0 -9 0 0 6 6 0 0 0 3 0 4-4cyli.dat
-1 16 0 0 -6 0 0 1 1 0 0 0 -1 0 STUD4A.dat
+1 16 0 0 -6 0 0 1 1 0 0 0 -1 0 stud4a.dat
 1 16 0 0 -6 0 0 8 8 0 0 0 -1 0 4-4edge.dat
 1 16 10 10 -9 0 0 1 1 0 0 0 1 0 stud2a.dat
 1 16 10 -10 -9 0 0 1 -1 0 0 0 1 0 stud2a.dat

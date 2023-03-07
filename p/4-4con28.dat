@@ -2,11 +2,12 @@
 0 Name: 4-4con28.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Primitive UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 4 16 28 1 0 25.8692 1 10.7156 26.7931 0 11.0983 29 0 0
 4 16 25.8692 1 10.7156 19.7988 1 19.7988 20.5059 0 20.5059 26.7931 0 11.0983
@@ -43,5 +44,5 @@
 5 24 19.7988 1 -19.7988 20.5059 0 -20.5059 10.7156 1 -25.8692 25.8692 1 -10.7156
 5 24 25.8692 1 -10.7156 26.7931 0 -11.0983 19.7988 1 -19.7988 28 1 0
 
-0 end of file 
+0 end of file
 

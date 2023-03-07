@@ -2,14 +2,15 @@
 0 Name: 18603c02p07.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Shortcut UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 18603c79pb01, Dimensions, Toy Tag, NFC, Electronic, Powerpuff Girls
-0 !KEYWORDS Buttercup, set 71343
+0 !KEYWORDS Bricklink 18603c79pb01, Buttercup, Dimensions, Electronic, NFC
+0 !KEYWORDS Powerpuff Girls, set 71343, Toy Tag
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 8 0 1 0 0 0 1 0 0 0 1 18603.dat
 1 47 0 11 0 1 0 0 0 1 0 0 0 1 u9512.dat

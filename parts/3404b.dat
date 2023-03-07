@@ -2,7 +2,7 @@
 0 Name: 3404b.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2012-11-06 [MMR1988] removed overlapping quads, introduce stud groups
 0 !HISTORY 2012-12-08 [MMR1988] Partially recoding, adding missing faces.
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3404s04.dat
 
@@ -41,8 +42,6 @@
 5 24 10.353062 12 -38.635992 10.353062 0 -38.635992 15.308373 12 -36.95732 10 12 -38.7298
 5 24 -38.635992 12 10.353062 -38.635992 0 10.353062 -36.95732 12 15.308373 -38.7298 12 10
 5 24 -38.635992 12 -10.353062 -38.635992 0 -10.353062 -36.95732 12 -15.308373 -38.7298 12 -10
-
-
 
 0 // top face
 

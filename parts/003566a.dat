@@ -2,13 +2,14 @@
 0 Name: 003566a.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 372, cowboy, legoland
+0 !KEYWORDS cowboy, legoland, set 372
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // Small box
 1 16 0 -.25 0 59 0 0 0 .25 0 0 0 11 box5-12.dat

@@ -2,11 +2,12 @@
 0 Name: s\3003pd0s01.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 4 0 -19 7.666 -20 -18.6 7.266 -20 -18.6 1.4 -20 -19 1 -20
 4 0 -19 15.334 -20 -18.6 14.932 -20 -18.6 9.066 -20 -19 8.666 -20

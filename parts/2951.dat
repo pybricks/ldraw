@@ -2,7 +2,7 @@
 0 Name: 2951.dat
 0 Author: John Jensen
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,9 +12,8 @@
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed and add missing lines (2009-03-29)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 
+
 0 // inner back flat surface
-
-
 
 4 16 92 -59.11 -31.01 -92 -59.11 -31.01 -92 -40.31 -24.17 92 -40.31 -24.17
 4 16 -96 -59.11 -31.01 96 -59.11 -31.01 96 -66.63 -33.74 -96 -66.63 -33.74

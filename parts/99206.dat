@@ -2,11 +2,12 @@
 0 Name: 99206.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 // Underside Stud
 
@@ -14,7 +15,7 @@
 1 16 0 4 10 -7.391 0 3.0615 0 -1 0 -3.0615 0 -7.391 3-8edge.dat
 1 16 0 12 10 7.391 0 3.0615 0 -1 0 -3.0615 0 7.391 5-8edge.dat
 1 16 0 12 10 6 0 0 0 1 0 0 0 6 4-4edge.dat
-1 16 0 12 10 1 0 0 0 -1 0 0 0 1 STUD4A.dat
+1 16 0 12 10 1 0 0 0 -1 0 0 0 1 stud4a.dat
 0 // Underside box
 2 24 -6.76 12 6 -7.39 12 6.94
 2 24 6.76 12 6 7.39 12 6.94

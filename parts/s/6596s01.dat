@@ -2,11 +2,12 @@
 0 Name: s\6596s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 4 16 1.8 89.5 -17.348 -0.003 93.9783 -16.1683 5.6829 93.7542 -16.1683 7.0287 89.3078 -17.3442
 4 16 -0.8336 95.3914 -13.5218 -0.0044 93.4854 -15.3297 -1.6805 93.4066 -15.336 -2.4936 95.0014 -13.8136

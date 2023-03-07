@@ -2,7 +2,7 @@
 0 Name: 3433.dat
 0 Author: Arne Hackstein
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2015-01-11 [Steffen] BFCed
 0 !HISTORY 2016-06-05 [Holly-Wood] Fixed T-Junctions, closed overlaps and gaps, primitive substitution, created edges
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 0 // Bucket
 2 24 -16 -15 46 38 -15 46

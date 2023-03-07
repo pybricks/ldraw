@@ -2,14 +2,15 @@
 0 Name: 004283a.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 361-1, Cafe, Restaurant, Bakery
-0 !KEYWORDS Bricklink 361stk01, Rebrickable 004283, Brickowl 438234
+0 !KEYWORDS Bakery, Bricklink 361stk01, Brickowl 438234, Cafe
+0 !KEYWORDS Rebrickable 004283, Restaurant, Set 361-1
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 -0.25 0 39 0 0 0 0.25 0 0 0 23 box5-12.dat
 4 4 -3.7 -0.25 9.7 0 -0.25 10 0 -0.25 20 -5.6 -0.25 19.8

@@ -2,13 +2,14 @@
 0 Name: 6636p10.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 4756, Set 7417, Set 6584, Bricklink 6636px1
+0 !KEYWORDS Bricklink 6636px1, Set 4756, Set 6584, Set 7417
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6636s01.dat
 

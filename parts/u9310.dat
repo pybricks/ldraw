@@ -2,7 +2,7 @@
 0 Name: u9310.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 0 !HISTORY 2015-06-13 [cwdee] Adjust height of locator ribs
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 0 // Connection structure guessed from assembled part
 
@@ -40,7 +41,7 @@
 3 16 200 0 100 184 0 96 164 0 96
 3 16 200 0 100 164 0 96 156 0 96
 3 16 200 0 100 156 0 96 4 0 96
-4 16 200 0 100 4 0 96 -4 0 96 -200 0 100 
+4 16 200 0 100 4 0 96 -4 0 96 -200 0 100
 3 16 -184 0 96 -196 0 96 -200 0 100
 3 16 -164 0 96 -184 0 96 -200 0 100
 3 16 -156 0 96 -164 0 96 -200 0 100
@@ -349,7 +350,7 @@
 4 16 -179 4 80 -81 4 64 -156 4 88 -164 4 88
 4 16 -179 4 80 -164 4 88 -164 4 96 -179 4 96
 4 16 -81 4 64 -81 4 96 -156 4 96 -156 4 88
- 
+
 0 BFC INVERTNEXT
 1 16 0 12 80 79 0 0 0 -8 0 0 0 16 box4.dat
 0 BFC INVERTNEXT
@@ -398,7 +399,7 @@
 4 16 164 4 88 156 4 88 81 4 64 179 4 80
 4 16 179 4 96 164 4 96 164 4 88 179 4 80
 4 16 156 4 88 156 4 96 81 4 96 81 4 64
-0 // Lower surfaces of underside ribs 
+0 // Lower surfaces of underside ribs
 4 16 196 12 96 200 12 100 -200 12 100 -196 12 96
 4 16 -196 12 96 -200 12 100 -200 12 -100 -196 12 -96
 4 16 -196 12 -96 -200 12 -100 200 12 -100 196 12 -96

@@ -2,7 +2,7 @@
 0 Name: 3045.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2005-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,7 +13,8 @@
 0 !HISTORY 2007-06-09 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 
-1 16 10 20 -10 1 0 0 0 -1 0 0 0 1 STUD4A.dat
+
+1 16 10 20 -10 1 0 0 0 -1 0 0 0 1 stud4a.dat
 1 16 10 4 -10 -6 0 0 0 1 0 0 0 6 1-4edge.dat
 1 16 10 4 -10 -6 0 0 0 0.707 6 0 0.707 -6 3-8edge.dat
 1 16 10 4 -10 0 -0.707 6 0 0.707 6 6 0 0 3-8edge.dat

@@ -2,13 +2,14 @@
 0 Name: 195835b.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Fabuland, Set 3670
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 -6 -0.25 -25 -12 0 0 0 1 0 0 0 -12 1-4chrd.dat
 1 16 -14 -0.25 32 -4 0 0 0 1 0 0 0 4 1-4chrd.dat

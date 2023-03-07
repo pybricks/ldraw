@@ -2,17 +2,18 @@
 0 Name: 10048.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Lord of the Rings, Frodo, Sam, Merry, Pippin, Bilbo, Hobbit
+0 !KEYWORDS Bilbo, Frodo, Hobbit, Lord of the Rings, Merry, Pippin, Sam
 
 0 !HISTORY 2013-03-08 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2013-03-08 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-03-09 [Philo] Corrected wrong surfaces in LDD mesh
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 -5 0 1 0 0 0 -1.25 0 0 0 1 stud16.dat
 4 16 7.36 -5 5.131 8.615 -2.653 6.009 10.153 -2.653 2.712 8.673 -5 2.315

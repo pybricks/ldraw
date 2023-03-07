@@ -2,14 +2,16 @@
 0 Name: 40243.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !KEYWORDS Castle, Harry Potter, Step
 
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2011-02-18 [Philo] BFCed, added missing details
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 0 BFC INVERTNEXT
 1 16 0 4 0 9.65926 0 -2.58819 0 12 0 2.58819 0 9.65926 4-4cylo.dat

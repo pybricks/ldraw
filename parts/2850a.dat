@@ -1,8 +1,8 @@
 0 Technic Engine Cylinder Head with Side Slots
 0 Name: 2850a.dat
-0 Author: Jeff Boen
+0 Author: Jeff Boen [onyx]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -16,6 +16,7 @@
 0 !HISTORY 2015-02-23 [PTadmin] Renamed from 2850
 0 !HISTORY 2015-11-12 [MMR1988] Adapted to reworked subpart
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2850s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\2850s01.dat
@@ -127,7 +128,6 @@
 4 16 -27 33 2 -30 36 2 -20 36 2 -20 33 2
 3 16 -27 26 2 -28 26 2 -27 33 2
 4 16 -30 26 2 -30 36 2 -27 33 2 -28 26 2
-
 
 1 16 -25 36 9 5 0 0 0 -1 0 0 0 -7 rect3.dat
 1 16 25 36 9 5 0 0 0 -1 0 0 0 -7 rect3.dat

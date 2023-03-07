@@ -2,19 +2,20 @@
 0 Name: 4186.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 1998-01-12 [PTadmin] Official Update 1998-01
 0 !HISTORY 1998-07-15 [PTadmin] Official Update 1998-07
-0 !HISTORY 2002-03-17 [sbliss]  Corrected color 24 on linetype 1 to color 16.
+0 !HISTORY 2002-03-17 [sbliss] Corrected color 24 on linetype 1 to color 16.
 0 !HISTORY 2002-04-25 [PTadmin] Official Update 2002-02
 0 !HISTORY 2007-07-04 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2015-01-19 [Steffen] BFCed, used stugs
 0 !HISTORY 2015-02-17 [MagFors] used box and rect primitives
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 1 16 -320 0 320 1 0 0 0 1 0 0 0 1 stug-16x16.dat
 1 16 0 0 320 1 0 0 0 1 0 0 0 1 stug-16x16.dat

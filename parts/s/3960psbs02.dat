@@ -2,11 +2,12 @@
 0 Name: s\3960psbs02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 4 16 30.3329 4.3793 3.1881 31.0291 4.6342 3.2613 30.9481 4.611 3.5221 30.7734 4.5525 3.7321
 4 16 30.3329 4.3793 3.1881 30.7734 4.5525 3.7321 30.5317 4.4677 3.8593 30.2598 4.3694 3.8843

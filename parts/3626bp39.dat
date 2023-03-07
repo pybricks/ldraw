@@ -2,15 +2,15 @@
 0 Name: 3626bp39.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS face, smile, smiley, moustache, dimple, chin
-0 !KEYWORDS wild west, western, cavalry, fort, legoredo, lieutenant
-0 !KEYWORDS pirates, buccaneer, corsair, freebooter
-0 !KEYWORDS set 1747, set 1802, set 6204, set 6248, set 6281, set 6289, set 6290, set 6296
-0 !KEYWORDS set 6706, set 6716, set 6761, set 6762, set 6769
+0 !KEYWORDS buccaneer, cavalry, chin, corsair, dimple, face, fort, freebooter
+0 !KEYWORDS legoredo, lieutenant, moustache, Pirates, set 1747, set 1802
+0 !KEYWORDS set 6204, set 6248, set 6281, set 6289, set 6290, set 6296, set 6706
+0 !KEYWORDS set 6716, set 6761, set 6762, set 6769, smile, smiley, western
+0 !KEYWORDS wild west
 
 0 !CMDLINE -c14
 
@@ -19,6 +19,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-07-12 [Holly-Wood] Rewrote from scratch
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // Pattern
 0 // Black

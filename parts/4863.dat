@@ -2,7 +2,7 @@
 0 Name: 4863.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2008-07-07 [cwdee] Correct studs from stud2 to stud (2007-07-09)
 0 !HISTORY 2008-07-08 [Philo] BFCed (2007-11-01)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 20 44 0 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 0 44 0 1 0 0 0 -1 0 0 0 1 stud3.dat
@@ -196,4 +197,4 @@
 1 16 10 0 0 -1 0 0 0 1 0 0 0 -1 stud.dat
 1 16 -10 0 0 -1 0 0 0 1 0 0 0 -1 stud.dat
 1 16 -30 0 0 -1 0 0 0 1 0 0 0 -1 stud.dat
-0 
+0

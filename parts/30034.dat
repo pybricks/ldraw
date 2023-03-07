@@ -2,7 +2,7 @@
 0 Name: 30034.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-01-07 [Philo] BFCed with Windz, closed tiny gap, addes missing condlines
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 4 16 10 8 -10 6 8 -6 6 8 46 10 8 50
 4 16 10 8 50 6 8 46 -6 8 46 -10 8 50

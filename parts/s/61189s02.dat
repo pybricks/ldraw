@@ -2,16 +2,14 @@
 0 Name: s\61189s02.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
+
 0 // All lines and condlines included for any patterned front face [MagFors]
-
-
-
 
 0 // Main
 
@@ -304,7 +302,7 @@
 0 // Added Lines / Condlines
 5 24 2.07 -2.557 16.174 1.875 -5.33 14.722 -2.07 -2.557 16.174 3.868 -2.557 15.737
 5 24 1.875 -3.652 -15.771 0 -1.85 -16.557 -1.875 -3.652 -15.771 4.745 -1.923 -15.525
-5 24 0 -2.302 16.433 2.07 -2.557 16.174 1.069 -2.12 16.44 -2.07 -2.557 16.174 
+5 24 0 -2.302 16.433 2.07 -2.557 16.174 1.069 -2.12 16.44 -2.07 -2.557 16.174
 5 24 15.75 -0.526 1.856 13.759 -1.115 2.434 14.692 -1.311 1.525 15.385 0.205 2.538
 5 24 14.754 -1.311 -1.525 15.75 -0.526 -1.856 15.75 -1.095 -1.005 14.761 0.205 -2.819
 5 24 3.721 -1.088 15.364 3.001 -1.018 15.584 3.592 -2.557 15.002 3.783 0.205 15.581

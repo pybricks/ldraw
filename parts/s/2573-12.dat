@@ -2,7 +2,7 @@
 0 Name: s\2573-12.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Subpart UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2012-11-13 [spykidx] Fixed misaligned vertices and added missing line
 0 !HISTORY 2017-02-18 [MagFors] Closed gaps, added cond-lines, standardized description
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 2 24 -3.162 -94.242 -13.346 -9.486 -94.3391 -9.07
 2 24 -31.6213 -92.5869 -8.8575 -53.754 -90.435 -8.652

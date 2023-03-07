@@ -2,11 +2,12 @@
 0 Name: s\11244p04s02.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 3 16 -10.2634 -32.6961 8.8804 -9.1929 -33.3017 9.5423 -9.2068 -32.6866 10.2405
 3 16 -7.5856 -37.1817 10.3646 -7.9539 -37.8995 10.3604 -6.5764 -36.7019 10.8295

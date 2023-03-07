@@ -2,11 +2,12 @@
 0 Name: s\2552p02s05.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 4 15 -245.218 -53.818 0 -244.886 -51.971 0 -242.432 -54.878 0 -242.455 -56.31 0
 4 15 -245.1 -57.564 0 -245.281 -55.702 0 -242.197 -57.741 0 -244.698 -59.346 0

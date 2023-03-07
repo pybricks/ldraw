@@ -2,7 +2,7 @@
 0 Name: 42291.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 0 !HISTORY 2013-06-30 [PTadmin] Renamed from 30294
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 4 16 -14.31 4.65 -19.29 -17.24 3.42 -17.34 -17.27 8 -17.31 -14.24 8 -19.31
 3 16 17.29 8 -17.29 19.08 5.02 -14.77 17.05 4.33 -17.52

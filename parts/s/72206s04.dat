@@ -2,11 +2,12 @@
 0 Name: s\72206s04.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 -17.5 -6 0 0 -1 1 0 0 0 1 0 8\4-4edge.dat
 0 BFC INVERTNEXT
@@ -22,7 +23,6 @@
 0 BFC INVERTNEXT
 1 16 -5.1612 -10.2768 -6 0.4488 0 -0.89363 0.89363 0 0.4488 0 0.5 0 8\4-4con0.dat
 1 16 -5.1612 -10.2768 -6 0.4488 0 -0.89363 0.89363 0 0.4488 0 1 0 8\4-4ndis.dat
-
 
 3 16 -4.7164 -11.6192 -6 -2.1633 -13.464 -6 -4.1094 -13.0028 -6
 4 16 -2.6246 -15.4101 -6 -1 -16.5 -6 -1 -18.5 -6 -4.5707 -14.9489 -6

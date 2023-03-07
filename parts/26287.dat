@@ -2,11 +2,12 @@
 0 Name: 26287.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 0 BFC INVERTNEXT
 1 16 7.698 7.698 12.5684 -3.62345 0 2.36809 -0.88768 0 -4.23665 0 -25.1368 0 1-8cyli.dat

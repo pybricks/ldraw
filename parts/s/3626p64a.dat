@@ -2,7 +2,7 @@
 0 Name: s\3626p64a.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,9 @@
 0 !HISTORY 2007-08-31 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-11-04 [MagFors] Reused as half pattern subfile
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 0 BFC NOCLIP
 

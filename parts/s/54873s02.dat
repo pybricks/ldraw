@@ -2,11 +2,12 @@
 0 Name: s\54873s02.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 3 16 6.667 -27.692 -5.526 4.864 -27.067 -6.914 5.286 -24.021 -6.8
 3 16 5.286 -24.021 -6.8 7.196 -24.365 -5.171 6.667 -27.692 -5.526

@@ -2,11 +2,12 @@
 0 Name: s\18835s02.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 3 16 13.472 4.116 14.64 12.5191 5.9832 13.3264 10.6232 4.0575 14.9952
 3 16 13.472 4.116 14.64 13.568 3.621 11.9376 12.5191 5.9832 13.3264

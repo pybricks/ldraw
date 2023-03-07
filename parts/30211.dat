@@ -2,7 +2,7 @@
 0 Name: 30211.dat
 0 Author: Steve Bliss [sbliss]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2017-07-03 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2017-07-06 [MagFors] Closed gaps, removed overlapping surfaces
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // Foot
 1 16 6.535 12 -62.575 0 -1 -0.535 4 0 0 0 0 0.355 rect3.dat

@@ -2,7 +2,7 @@
 0 Name: 76764.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2016-11-19 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 3 16 1.607 -13.1597 -8.919 1.4696 -9.344 -9.3772 2.75 -13.159 -2.393
 3 16 2.75 -13.159 -2.393 1.4696 -9.344 -9.3772 2.75 -7.494 -2.393

@@ -2,12 +2,13 @@
 0 Name: clip15.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Primitive UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-03 [GeraldLasser] extracted from clip7 and closed gaps with 1-16chrd
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 4 0 -1.84776 0 -.76537 0 -1 0 -.76537 0 1.84776 5-8ring2.dat
 1 16 0 4 0 -.3536 0 -.3536 0 -1 0 -.3536 0 .3536 1-4rin12.dat

@@ -2,17 +2,17 @@
 0 Name: 87610ps4.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !CATEGORY Minifig Headwear
 
-0 !KEYWORDS Super Commando, Set 75022
-0 !KEYWORDS Bricklink 87610pb05
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 87610pb05, Set 75022, Super Commando
 
 0 !CMDLINE -c148
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87610s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87610s01.dat
@@ -21,7 +21,7 @@
 1 320 0 0 0 1 0 0 0 1 0 0 0 1 s\87610ps4s02.dat
 1 320 0 0 0 -1 0 0 0 1 0 0 0 1 s\87610ps4s02.dat
 
-0 // Visor and Face 
+0 // Visor and Face
 3 320 -2.751 14.0385 -18.5615 -3.89 7.89 -17.51305 -5.502 14.125 -17.773
 3 320 -7.32524 5.51481 -15.63793 -6.8262 6.183 -16.1811 -6.92815 5.6264 -16.0116
 3 320 -6.92815 5.6264 -16.0116 -6.8262 6.183 -16.1811 -6.48116 5.70199 -16.24015

@@ -2,18 +2,20 @@
 0 Name: 973p4g.dat
 0 Author: Matt Schild [mschild]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS breastplate, plate armour, plate mail, silver, gold, chrome
-0 !KEYWORDS warrior, shield-maiden, princess, Knights Kingdom, Joan of Arc
-0 !KEYWORDS Princess Storm, armor
+
+0 !KEYWORDS Armor, breastplate, chrome, gold, Joan of Arc, Knights Kingdom
+0 !KEYWORDS plate armour, plate mail, Princess, Princess Storm, shield-maiden
+0 !KEYWORDS silver, Warrior
 
 0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
 0 !HISTORY 2007-07-29 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-04-08 [BlackBrick89] Colour cleanup;BFCed;Inlined subfile
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10

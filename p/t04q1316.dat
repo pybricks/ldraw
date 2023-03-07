@@ -2,17 +2,18 @@
 0 Name: t04q1316.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Primitive UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
+
 0 // Major Radius: 38
 0 // Tube(Minor) Radius: 5
 0 // Segments(Sweep): 4/16 = 0.25
-0 // 1  9  0 0 0  1 0 0  0 1 0  0 0 1 4-4edge.dat
-0 // 1  12  1 0 0 0.1316 0 0  0 0 0.1316  0 1 0  4-4edge.dat
+0 // 1 9 0 0 0 1 0 0 0 1 0 0 0 1 4-4edge.dat
+0 // 1 12 1 0 0 0.1316 0 0 0 0 0.1316 0 1 0 4-4edge.dat
 
 4 16 1 0.1316 0 0.9239 0.1316 0.3827 0.9704 0.1216 0.402 1.0504 0.1216 0
 4 16 1.0504 0.1216 0 0.9704 0.1216 0.402 1.0099 0.093 0.4183 1.093 0.093 0

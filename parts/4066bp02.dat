@@ -2,14 +2,15 @@
 0 Name: 4066bp02.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Grocery, Farm, set 2623, set 2399, set 2426, BrickLink 4066pb050
+0 !KEYWORDS BrickLink 4066pb050, Farm, Grocery, set 2399, set 2426, set 2623
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 4 15 -12 45 -20 -14 45 -20 -16 46 -20 -10 46 -20

@@ -2,12 +2,13 @@
 0 Name: s\22587s01.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-08-07 [MMR1988] Removed T-junctions
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 3 15 -8.43 0 -1.225 -7.8 0 -1.05 -8.1 0 -0.35
 3 15 -4.62 0 -1.05 -3.9 0 -0.35 -5.58 0 -1.05

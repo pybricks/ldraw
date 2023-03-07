@@ -2,17 +2,17 @@
 0 Name: 420.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 369, set 556, set 373, set 565, set 640
-0 !KEYWORDS step, rung, fire fighter, legoland, coast guard, moon landing
-0 !KEYWORDS bricklink bb0018a
+0 !KEYWORDS bricklink bb0018a, coast guard, fire fighter, legoland, moon landing
+0 !KEYWORDS rung, set 369, set 373, set 556, set 565, set 640, Step
 
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 0 !HISTORY 2020-11-11 [Holly-Wood] Complete rewrite remeasuring the part
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 -18 120 0 0 0 -1 0 0 0 -2 rect3.dat
 1 16 0 -7.5 -16 0 0 120 -7.5 0 0 0 -4 0 box3u10p.dat
@@ -65,7 +65,7 @@
 1 16 -100 -5 0 0 0 -2.5 0 1 0 16 0 0 rect.dat
 0 BFC INVERTNEXT
 1 16 -120 -2.5 0 0 17.5 0 -2.5 0 0 0 0 -16 box3u5p.dat
- 
+
 4 16 104 0 -16 96 0 -16 96 0 16 104 0 16
 4 16 84 0 -16 76 0 -16 76 0 16 84 0 16
 4 16 64 0 16 64 0 -16 56 0 -16 56 0 16

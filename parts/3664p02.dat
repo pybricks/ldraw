@@ -2,15 +2,15 @@
 0 Name: 3664p02.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-
-0 !KEYWORDS Boat, set 534, set 086, BrickLink 3664pb03
+0 !KEYWORDS boat, BrickLink 3664pb03, set 086, set 534
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3664s01.dat
 1 16 0 -24 -40 40 0 0 0 0 -40 0 1 0 2-4ering.dat

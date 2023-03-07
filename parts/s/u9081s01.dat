@@ -2,11 +2,12 @@
 0 Name: s\u9081s01.dat
 0 Author: Ingolf Weisheit [stahlwollschaf]
 0 !LDRAW_ORG Subpart UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 0 // subpart for u9081.dat: one half of a 60deg segment (symmetrical to xy-plane and zy-plane, 60deg)
 0 // origin: center of wheel
@@ -14,7 +15,7 @@
 0 // groove on inner radius r=33.125
 
 0 BFC INVERTNEXT
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11140s03.dat 
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11140s03.dat
 
 0 // an outer torus with an elliptical cross-section R=33.125, ry=4, rz=8.75
 0 // major radius R=33.125 on xy-plane

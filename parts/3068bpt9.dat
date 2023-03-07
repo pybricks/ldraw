@@ -2,17 +2,17 @@
 0 Name: 3068bpt9.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-
 0 !CATEGORY Train
-0 !KEYWORDS Set 10277, Swiss, Crocodile, Bricklink 3068bpb1337
+0 !KEYWORDS Bricklink 3068bpb1337, Crocodile, Set 10277, Swiss
 
 0 !CMDLINE -c70
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 0 // Main
 

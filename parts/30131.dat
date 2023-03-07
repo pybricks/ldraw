@@ -2,7 +2,7 @@
 0 Name: 30131.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Coordinates of the five top mini studs starting clockwise
 0 !HELP from the lowest point of the top rim.
@@ -15,11 +15,11 @@
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Plant
-
-0 !KEYWORDS set 6718, set 6746, set 6748, set 6766, set 6763
-0 !KEYWORDS indians, western, wild west  
+0 !KEYWORDS indians, set 6718, set 6746, set 6748, set 6763, set 6766, western
+0 !KEYWORDS wild west
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 0 // Bottom
 
@@ -1730,7 +1730,6 @@
 3 16 -40.255 -32 6.052 -38.083 -70.66 6.288 -39.455 -32 7.815
 3 16 -38.244 -32 -8.117 -36.065 -70 -10.316 -37.373 -66 -8.303
 3 16 -42.072 -16 5.881 -39.455 -32 7.815 -41.047 -16 7.91
-
 
 3 16 -46.497 0 -24.356 -44.376 0 -25.649 -46.497 -1 -24.356
 4 16 -49.5 0 -21.245 -48.221 0 -23.127 -48.221 -3 -23.127 -49.5 -4 -21.245

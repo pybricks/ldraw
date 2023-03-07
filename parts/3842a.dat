@@ -2,13 +2,13 @@
 0 Name: 3842a.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS space, castle, town, astronaut, cosmonaut, knight, motocycle, rider
-0 !KEYWORDS set 375, 6075, 383, 6083
+0 !KEYWORDS 383, 6075, 6083, astronaut, Castle, cosmonaut, knight, motocycle
+0 !KEYWORDS rider, Set 375, Space, town
 
 0 !HISTORY 2003-05-03 [Holly-Wood] added conditional lines, made BFC compliant
 0 !HISTORY 2004-03-02 [PTadmin] Official Update 2004-01
@@ -19,6 +19,7 @@
 0 !HISTORY 2012-10-02 [Steffen] BFC rationalisation
 0 !HISTORY 2016-02-22 [Holly-Wood] Fixed pivot, fixed chin guard height, added cond. lines, subparted
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // Top Inside
 

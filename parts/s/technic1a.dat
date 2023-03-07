@@ -2,13 +2,14 @@
 0 Name: s\technic1a.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP to be used with technic1b.dat
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 16 -39 0 9.15 -39.35 0 8.64 -39.49 0 8.01 -39.17 0 7.46
 4 16 -38.82 0 7.14 -38.47 0 9.48 -39 0 9.15 -39.17 0 7.46

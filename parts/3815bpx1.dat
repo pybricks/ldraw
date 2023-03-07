@@ -2,14 +2,15 @@
 0 Name: 3815bpx1.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 970c00pb0417, Set 75916, Set 75919, Set 75915, Set 75917, Set 75918
-0 !KEYWORDS Set 71205, Jurassic World, ACU Trooper
+0 !KEYWORDS ACU Trooper, Bricklink 970c00pb0417, Jurassic world, Set 71205
+0 !KEYWORDS Set 75915, Set 75916, Set 75917, Set 75918, Set 75919
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3815bs01.dat
 1 16 -2 12 0 0 4 0 8.08395 0 -3.34848 -3.34848 0 -8.08395 5-16cyli.dat

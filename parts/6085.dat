@@ -2,19 +2,20 @@
 0 Name: 6085.dat
 0 Author: Bram Lambrecht
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS aquazone, aquanauts, aquaraiders, octagonal, base
+0 !KEYWORDS Aquanauts, aquaraiders, Aquazone, base, octagonal
 
 0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
 0 !HISTORY 2007-07-12 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland]  Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-01-30 [Steffen] BFCed
 0 !HISTORY 2015-02-05 [MagFors] Closed gaps, added some cond-lines
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+
 
 0 // exterior lines (right)
 2 24 40 8 10 40 8 -10

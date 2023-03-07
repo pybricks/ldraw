@@ -2,16 +2,16 @@
 0 Name: u977.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Arch
-
-0 !KEYWORDS Bricklink duphalfarch, Rebrickable dupupn0127
-0 !KEYWORDS Set 080-3, Set 081, Set 082, Set 522, Set 523, Set 524, Set 529, Set 1041-2
+0 !KEYWORDS Bricklink duphalfarch, Rebrickable dupupn0127, set 080-3, set 081
+0 !KEYWORDS set 082, Set 1041-2, Set 522, set 523, set 524, Set 529
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 20 0 0 40 0 0 0 1 0 0 0 40 rect2p.dat
 1 16 20 0 0 0 0 1 0 2.75 0 -1 0 0 stug7-2x2.dat

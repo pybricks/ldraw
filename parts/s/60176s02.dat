@@ -2,17 +2,18 @@
 0 Name: s\60176s02.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2008-06-16 [Philo]   Creation (s/62712s01.dat)
-0 !HISTORY 2008-11-01 [arezey]  Derived primitive
+0 !HISTORY 2008-06-16 [Philo] Creation (s/62712s01.dat)
+0 !HISTORY 2008-11-01 [arezey] Derived primitive
 0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape (m62712.dat)
-0 !HISTORY 2009-11-01 [arezey]  Utilized LEGO Universe team version for side cavities
+0 !HISTORY 2009-11-01 [arezey] Utilized LEGO Universe team version for side cavities
 0 !HISTORY 2018-02-12 [MagFors] Recreated using LDD 61054
 0 !HISTORY 2020-12-07 [MagFors] Corrected shape
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 -9 -10 10 0 0 0 1 0 0 0 10 1-4ndis.dat
 0 BFC INVERTNEXT

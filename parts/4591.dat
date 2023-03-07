@@ -2,20 +2,21 @@
 0 Name: 4591.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Space, rocket
+0 !KEYWORDS Rocket, Space
 
 0 !HISTORY 2004-03-25 [westrate] Added stud10, repositioned fins
-0 !HISTORY 2004-04-18 [OrionP]   BFC'd
-0 !HISTORY 2005-12-28 [PTadmin]  Official Update 2005-01
-0 !HISTORY 2007-07-08 [PTadmin]  Header formatted for Contributor Agreement
-0 !HISTORY 2008-07-01 [PTadmin]  Official Update 2008-01
-0 !HISTORY 2020-06-04 [Sirio]    Updated the use of primitives
-0 !HISTORY 2020-11-14 [MagFors]  Reworked outer surface
+0 !HISTORY 2004-04-18 [OrionP] BFC'd
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives
+0 !HISTORY 2020-11-14 [MagFors] Reworked outer surface
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 2 24 19.6026 48 2 18.48 48 7.65
 2 24 18.48 48 7.65 16 48 11.36

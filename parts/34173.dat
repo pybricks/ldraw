@@ -2,16 +2,17 @@
 0 Name: 34173.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Figure Accessory
-0 !KEYWORDS Kitchen, Cookware, Meal
+0 !KEYWORDS Cookware, Kitchen, Meal
 
 0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2018-10-29 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\97781s01.dat
 3 16 -2.209 -8.75 -2.767 -2.335 -10.905 -2.507 -2.587 -8.75 1.596

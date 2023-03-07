@@ -2,14 +2,15 @@
 0 Name: 777pt2.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-12-07 [cwdee]  Update reference to (R) subfile
+0 !HISTORY 2009-12-07 [cwdee] Update reference to (R) subfile
 0 !HISTORY 2014-01-28 [tchang] Update reference to (R) 777s07, add 777s09
 0 !HISTORY 2020-11-24 [Holly-Wood] Changed reference to updated pattern
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\777s02.dat
 

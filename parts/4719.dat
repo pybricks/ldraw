@@ -2,7 +2,7 @@
 0 Name: 4719.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP rear wheel at 0 30 0
 0 !HELP front wheel at 0 30 -86
@@ -22,6 +22,7 @@
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2016-10-26 [Philo] Plugged holes, removed bleed-through, added missing lines/condlines
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 2 24 4 4 10 4 4 -4
 2 24 4 4 -4 4 4.9 -7

@@ -2,15 +2,17 @@
 0 Name: 30536.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2002-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS Life on Mars, canopy, window, hinge locking double, curved
+
+0 !KEYWORDS canopy, curved, hinge locking double, Life on Mars, Window
 
 0 !HISTORY 2001-11-23 [pneaster] corrected BFC use of primitive files.
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-06-10 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 0 // begin x positive outside
 2 24 16 27.042 -159 16 28.359 -161
@@ -254,7 +256,7 @@
 0
 4 16 -20 -9 -10 20 -9 -10 20 -9 -30 -20 -9 -30
 0 texture starts here
-0 4 41  -20 0 60  20 0 60  20 0 40  -20 0 40
+0 4 41 -20 0 60 20 0 60 20 0 40 -20 0 40
 4 16 -20 -9 -30 20 -9 -30 20 -9 -35 -20 -9 -35
 4 16 -20 -9 -45 20 -9 -45 20 -9 -50 -20 -9 -50
 4 16 5 -9 -45 5 -9 -35 20 -9 -35 20 -9 -45
@@ -617,7 +619,7 @@
 2 24 -23.27 39 -160 -20 39 -170
 0
 0
-0 4 41  -20 3 60  -20 3 40  20 3 40  20 3 60
+0 4 41 -20 3 60 -20 3 40 20 3 40 20 3 60
 4 16 -20 -6 -30 -20 -6 -33 20 -6 -33 20 -6 -30
 4 16 -20 -6 -47 -20 -6 -50 20 -6 -50 20 -6 -47
 4 16 7 -6 -47 20 -6 -47 20 -6 -33 7 -6 -33

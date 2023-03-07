@@ -2,12 +2,13 @@
 0 Name: s\87570p02s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-06-19 [GeraldLasser] Extracted from Initial s01 File
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 3 15 2.623 -6.686 -20.769 1.563 -6.615 -20.262 2.625 -6.572 -20.758
 3 15 1.563 -6.615 -20.262 1.716 -6.009 -20.196 2.625 -6.572 -20.758

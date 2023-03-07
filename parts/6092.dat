@@ -2,17 +2,19 @@
 0 Name: 6092.dat
 0 Author: Bernd Broich [bbroich]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS Swimming Pool, Pharaoh, Tomb, Sphinx, Ogel
-0 !KEYWORDS Paradisa, Adventurer, Alpha Team, driveway
+
+0 !KEYWORDS Adventurer, Alpha Team, driveway, Ogel, Paradisa, Pharaoh, Sphinx
+0 !KEYWORDS Swimming Pool, tomb
 
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-07-12 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2022-03-30 [Holly-Wood] Used Subfiles
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 0 // Without Upper Surface
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6092s01.dat

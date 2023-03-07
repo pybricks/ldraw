@@ -2,13 +2,14 @@
 0 Name: s\30395s01.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-02-01 [arezey] Split into quarters
 0 !HISTORY 2012-11-18 [MagFors] adapted hole in sphere to new 1-8sphe design
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 2 -3.5 0 0 30 0 0 0 -2.5 2.5 0 0 1-4edge.dat
 0 BFC INVERTNEXT

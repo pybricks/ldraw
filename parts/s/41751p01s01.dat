@@ -2,7 +2,7 @@
 0 Name: s\41751p01s01.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2012-04-14 [MagFors] Changed colour 383 to 80 (printed silver)
 0 !HISTORY 2020-01-10 [Cheenzo] Removed invisible condlines, fixed flat subfiles scaled in Y direction, updated description
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 4 16 20 0 -17 20 0 20 0 0 20 0 0 -20
 3 16 0 0 -20 20 0 -20 20 0 -17

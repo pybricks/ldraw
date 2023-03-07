@@ -2,9 +2,9 @@
 0 Name: 11245.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
-0 !HELP Handle coordinates: Y=-38,  Z=4.5
+0 !HELP Handle coordinates: Y=-38, Z=4.5
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2017-03-13 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 -8 -38 4.5 0 16 0 4 0 0 0 0 4 4-4cylo.dat
 1 16 0 -5 0 1 0 0 0 -1.25 0 0 0 -1 stud4od.dat
@@ -112,7 +113,6 @@
 2 24 -1.068 -14.378 -12.624 -0.755 -13.629 -12.626
 2 24 -0.755 -15.127 -12.621 -1.068 -14.378 -12.624
 2 24 0 -15.438 -12.62 -0.755 -15.127 -12.621
-
 
 0 // Front Pocket
 3 16 0 -1.598 -11.078 0 0 -9.779 3.813 -1.597 -10.882

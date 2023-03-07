@@ -2,11 +2,12 @@
 0 Name: s\25386s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 3 16 10.512 -6.591 3.236 13.841 -6.872 2.803 10.798 -6.526 0
 3 16 10.798 -6.526 0 13.841 -6.872 2.803 13.961 -6.889 0

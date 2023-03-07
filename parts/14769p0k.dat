@@ -2,13 +2,14 @@
 0 Name: 14769p0k.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 11003, Set 45345, Spike Essential, Bricklink 14769pb264
+0 !KEYWORDS Bricklink 14769pb264, Set 11003, Set 45345, Spike Essential
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769s01.dat
 1 16 -7.9196 0 -7.9196 2.82843 0 2.82843 0 1 0 -2.82843 0 2.82843 4-4disc.dat

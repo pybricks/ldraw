@@ -2,7 +2,7 @@
 0 Name: 4217.dat
 0 Author: Christian M. Angele [cma_1971]
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2008-07-07 [cwdee] Correct studs from solid to hollow and add stud3 intersects, BFC'd and corrected L3P errors (2007-05-07)
 0 !HISTORY 2008-07-08 [tchang] Rebuild 2 missing inner edges (2008-02-15)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
 
 0 // stud3
 
@@ -134,7 +135,7 @@
 2 24 136 24 6 136 4 6
 2 24 -136 24 6 -136 4 6
 2 24 -136 24 -6 -136 4 -6
-0 
+0
 4 16 -115.6023 16 -2 115.6023 16 -2 115.6023 16 -6 -115.6023 16 -6
 2 24 -110 16 -6 110 16 -6
 2 24 110 16 -6 112.2962 16 -5.5434
@@ -295,4 +296,4 @@
 1 16 -90 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 -110 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 -130 0 0 1 0 0 0 1 0 0 0 1 stud2.dat
-0 
+0

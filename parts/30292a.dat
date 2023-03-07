@@ -2,7 +2,7 @@
 0 Name: 30292a.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -16,6 +16,7 @@
 0 !HISTORY 2016-01-08 [MagFors] Corrected length and description
 0 !HISTORY 2016-10-30 [PTadmin] Renamed from 30292
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 -24 0 4 0 0 0 48 0 0 0 4 4-4cylo.dat
 0 BFC INVERTNEXT

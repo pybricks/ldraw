@@ -2,15 +2,16 @@
 0 Name: 30249ps0.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, T-16, Skyhopper, BrickLink 30249px1, Set 4477
+0 !KEYWORDS BrickLink 30249px1, Set 4477, Skyhopper, Star Wars, T-16
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 0 !HISTORY 2021-01-16 [cwdee] Update description
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30249s01.dat
 0 // Pattern 1

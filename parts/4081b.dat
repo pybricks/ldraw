@@ -2,7 +2,7 @@
 0 Name: 4081b.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -16,6 +16,7 @@
 0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives
 0 !HISTORY 2021-10-30 [MagFors] Removed unwanted edges and surface bleeding
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 4 -10 -10 0 0 0 0 -4 0 20 0 box4-2p.dat
 0 BFC INVERTNEXT
@@ -46,7 +47,6 @@
 1 16 4 2 -20 0 -8 0 -8 0 0 0 0 -8 1-4cylo.dat
 1 16 4 2 -20 0 -8 0 0 0 8 -8 0 0 5-16cylo.dat
 1 16 4 2 -20 0 -8 0 -8 0 0 0 0 8 3-16cylo.dat
-
 
 1 16 0 8.6956 -15.8977 -4 0 0 0 -1 -.6956 0 0 1.0407 rect3.dat
 2 24 3 0 -12.398 -3 0 -12.398

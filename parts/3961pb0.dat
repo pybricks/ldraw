@@ -2,18 +2,19 @@
 0 Name: 3961pb0.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Guardians Of The Galaxy, Laser Drill Ship
-0 !KEYWORDS Set 76080, BrickLink 3961pb08, Marvel, Superheros
+0 !KEYWORDS BrickLink 3961pb08, Guardians of the Galaxy, Laser Drill Ship
+0 !KEYWORDS Marvel, Set 76080, Superheros
 
 0 !CMDLINE -c191
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 0 !HISTORY 2020-07-07 [ejboer] Moved stud group to main file
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\3961s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat

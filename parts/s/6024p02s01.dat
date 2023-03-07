@@ -2,11 +2,12 @@
 0 Name: s\6024p02s01.dat
 0 Author: Mikkel Bech Jensen [gaia]
 0 !LDRAW_ORG Subpart UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 3 2 295.25 -17.1 260 300 0 260 292.9 -15.2 260
 3 2 292.9 -15.2 260 300 0 260 289.8 -13.6 260

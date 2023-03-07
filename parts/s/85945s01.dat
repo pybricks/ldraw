@@ -2,11 +2,12 @@
 0 Name: s\85945s01.dat
 0 Author: Nils Schmidt [BlackBrick89]
 0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 3 16 -3.458 3.668 -13.238 -2.86 13.169 -13.317 -5.772 7.986 -12.347
 3 16 -6.5 33.5 -11.591 -8.086 24.524 -10.675 -5.33 12.25 -12.549

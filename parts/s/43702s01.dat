@@ -2,13 +2,14 @@
 0 Name: s\43702s01.dat
 0 Author: Santeri Piippo [arezey]
 0 !LDRAW_ORG Subpart UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2009-10-13 {The LEGO Universe Team} Original part shape
+0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2009-11-13 [arezey] File preparation for LDraw Parts Tracker
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 3 16 -9.243 -3.828 -14.59 -5.671 -3.124 -16.49 -7.474 -6.428 -14.72
 3 16 -5.671 -3.124 -16.49 -7.198 -0.624 -16.19 -5.092 -0.625 -16.99

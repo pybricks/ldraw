@@ -2,7 +2,7 @@
 0 Name: 15675.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Top accessory position: Y = -9.5, Z = 2.26
 0 !HELP Back top accessory position: Y = 16, Z = 23.6
@@ -16,6 +16,7 @@
 0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-08-01 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 1 16 0 -5.162 0 1 0 0 0 -1.2905 0 0 0 1 stud4od.dat
 2 24 1.587 -5.162 3.853 2.245 -5.162 2.266

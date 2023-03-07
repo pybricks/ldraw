@@ -2,14 +2,15 @@
 0 Name: s\13788s02.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-01-08 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-01-08 [angmarec] File preparation for LDraw Parts Tracker
-0 !HISTORY 2014-01-19 [MagFors]  Added more rope surface
+0 !HISTORY 2014-01-19 [MagFors] Added more rope surface
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 3 16 -13.674 2.379 -14.517 -15.595 3.752 -13.409 -13.245 3.21 -14.91
 3 16 -15.595 3.752 -13.409 -13.674 2.379 -14.517 -15.431 2.85 -13.418

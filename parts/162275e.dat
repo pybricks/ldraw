@@ -2,14 +2,15 @@
 0 Name: 162275e.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 5550, Model Team, Custom Rally Van, Truck, License plate
-0 !KEYWORDS Bricklink 5550stk01, Rebrickable 162275, Brickowl 321461
+0 !KEYWORDS Bricklink 5550stk01, Brickowl 321461, Custom Rally Van
+0 !KEYWORDS License plate, Model Team, Rebrickable 162275, Set 5550, truck
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 -0.25 0 29 0 0 0 0.25 0 0 0 13 box5-12.dat
 1 15 -18.4 -0.25 0 8 0 0 0 1 0 0 0 8 type-swiss721bt-bold-um.dat

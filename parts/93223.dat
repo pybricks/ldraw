@@ -2,16 +2,17 @@
 0 Name: 93223.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Neckwear
-0 !KEYWORDS Fisherman, Santa, King, Gnome
+0 !KEYWORDS fisherman, Gnome, King, Santa
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2017-08-04 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 4 16 -2.698 -2.739 -16.99 -1.436 0.678 -17.922 -0.63 -2.672 -16.223 -0.626 -6.586 -14.588
 3 16 -0.369 0.487 -17.099 -0.63 -2.672 -16.223 -1.436 0.678 -17.922

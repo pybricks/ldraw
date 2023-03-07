@@ -2,19 +2,19 @@
 0 Name: 3898.dat
 0 Author: Lee Gaiteri [LummoxJR]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
+
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS cap, hat, chef, cook
+0 !KEYWORDS Cap, chef, cook, hat
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 0 !HISTORY 2012-12-24 [cwdee] Update category
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
 
+
 0 // top button
-
-
 
 1 16 0 -14 0 2 0 0 0 1 0 0 0 2 4-4disc.dat
 1 16 0 -14 0 2 0 0 0 1 0 0 0 2 4-4edge.dat
@@ -33,11 +33,11 @@
 0 BFC INVERTNEXT
 1 16 0 -8 0 13 0 0 0 1 0 0 0 13 4-4disc.dat
 1 16 0 -8 0 13 0 0 0 1 0 0 0 13 4-4edge.dat
-0 // stud hole inside 
-1 16 0 -8 0 1 0 0 0 -2 0 0 0 1 STUD4A.dat
+0 // stud hole inside
+1 16 0 -8 0 1 0 0 0 -2 0 0 0 1 stud4a.dat
 1 16 0 -8 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
 1 16 0 -8 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
-0 
+0
 0 // conditionals joining subpart seams
 5 24 0 -14 -2 0 -15.414 -3.176 0.414 -15.316 -3.144 -0.414 -15.316 -3.144
 5 24 0 -15.414 -3.176 0 -16 -6 0.783 -15.861 -5.949 -0.783 -15.861 -5.949
@@ -111,7 +111,7 @@
 5 24 -12.728 -6 -12.728 -12.349 -4 -12.349 -10.958 -6 -14.28 -14.28 -6 -10.958
 5 24 -12.349 -4 -12.349 -11.314 -2.536 -11.314 -10.632 -4.069 -13.855 -13.855 -4.069 -10.632
 5 24 -11.314 -2.536 -11.314 -9.8994 -5 -9.8994 -9.74 -2.656 -12.694 -12.694 -2.656 -9.74
-0 
+0
 0 // quadrants of hat edge
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3898s01.dat
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\3898s01.dat

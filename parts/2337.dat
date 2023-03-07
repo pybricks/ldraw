@@ -2,7 +2,7 @@
 0 Name: 2337.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2013-03-12 [MMR1988] Rewritten, used more prisms, removed t-junctions, added bumps
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 4 16 40 4 -80 40 4 -76 40 -4 -4 40 -4 -80
 4 16 40 4 -76 40 44 -76 40 4 -4 40 -4 -4

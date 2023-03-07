@@ -2,11 +2,11 @@
 0 Name: 3937.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS tilt bearing, brick
+0 !KEYWORDS brick, tilt bearing
 
 0 !HISTORY 2003-06-08 [jriley] BFC compliant
 0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
@@ -16,6 +16,7 @@
 0 !HISTORY 2020-07-29 [mkennedy] Used more primitives, rearranged some quads, moved bulk to subpart
 0 !HISTORY 2022-02-27 [MagFors] Inlined subpart, added more details
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 0 BFC INVERTNEXT
 1 16 2 22 0 0 14 0 0 0 -2 6 0 0 box4-2p.dat

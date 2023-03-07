@@ -2,12 +2,13 @@
 0 Name: s\3298p53c.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-02-24 [MagFors] pattern for 3298p53, 2468p53 and 2468p54
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 4 80 -12.10798 0 0.61911 -12.3135 0 0.5779 -12.3135 0 -1.01194 -11.43146 0 -0.84971
 4 80 -11.9116 0 0.73647 -12.10798 0 0.61911 -11.43146 0 -0.84971 -10.65843 0 -0.38771

@@ -2,7 +2,7 @@
 0 Name: 2584.dat
 0 Author: Luis E. Fernandez [lfernand]
 0 !LDRAW_ORG Part UPDATE 2009-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [WilliamH] BFC'd (2006-09-17)
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+
 
 1 16 -16 -6 0 0 1 0 8 0 0 0 0 -8 4-4edge.dat
 1 16 -20 -6 0 0 1 0 8 0 0 0 0 -8 4-4edge.dat
@@ -25,7 +26,7 @@
 1 16 0 16 0 6 0 0 0 4 0 0 0 6 4-4cyli.dat
 1 16 0 16 0 6 0 0 0 4 0 0 0 6 4-4edge.dat
 1 16 0 16 0 6 0 0 0 4 0 0 0 6 4-4ndis.dat
-1 16 0 20 0 1 0 0 0 -1 0 0 0 1 STUD4A.dat
+1 16 0 20 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
 0 BFC INVERTNEXT
 1 16 0 20 0 16 0 0 0 4 0 0 0 16 box4.dat
 1 16 0 20 0 8 0 0 0 4 0 0 0 8 4-4edge.dat

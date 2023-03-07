@@ -2,15 +2,16 @@
 0 Name: 20308p03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Minecraft, Dog, Wolf, DesignID 67030, Bricklink 21098pb03
+0 !KEYWORDS Bricklink 21098pb03, DesignID 67030, Dog, Minecraft, Wolf
 
 0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2020-04-16 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20308s01.dat
 4 0 -9.9 0.5 -26 -5.2 1.1 -26 -5.2 -3.8 -26 -9.9 -3.2 -26

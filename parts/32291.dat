@@ -1,19 +1,20 @@
 0 Technic Cross Block 2 x 2 (Axle/Twin Pin)
 0 Name: 32291.dat
-0 Author: Guy Vivan [guyvivan] 
+0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2004-05-14 [guyvivan] Made BFC compliant, add missing lines & optional lines, used more primitives
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
 
+
 1 16 0 0 0 0 0 -1 0 1 0 1 0 0 bush0.dat
 1 16 -6.5 0 0 0 0.5 0 0 0 1 1 0 0 4-4con7.dat
-1 16 -7 0 0 0 0.5 0 0 0 1 1 0 0 4-4CON8.DAT
+1 16 -7 0 0 0 0.5 0 0 0 1 1 0 0 4-4con8.dat
 1 16 6.5 0 0 0 -0.5 0 0 0 1 -1 0 0 4-4con7.dat
-1 16 7 0 0 0 -0.5 0 0 0 1 -1 0 0 4-4CON8.DAT
+1 16 7 0 0 0 -0.5 0 0 0 1 -1 0 0 4-4con8.dat
 1 16 10 0 0 0 -1 0 3 0 0 0 0 3 4-4ring2.dat
 1 16 -10 0 0 0 1 0 3 0 0 0 0 3 4-4ring2.dat
 1 16 10 0 0 0 1 0 9 0 0 0 0 9 4-4edge.dat

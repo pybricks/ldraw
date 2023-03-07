@@ -2,11 +2,12 @@
 0 Name: u9548.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9548s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\u9548s01.dat
@@ -125,7 +126,7 @@
 4 16 25.6569 -45.6862 -114 25.6569 -45.6862 -126 24.6569 -46.6862 -133 24.6569 -46.6862 -107
 3 16 35.3431 -36 -133 34.3431 -37 -127 34.3431 -37 -126
 
-0 // Speaker Case 
+0 // Speaker Case
 1 16 8 -44 -121 -27 0 0 0 -1 0 0 0 27 48\1-3edge.dat
 0 BFC INVERTNEXT
 1 16 8 -44 -121 -27 0 0 0 5.7 0 0 0 27 48\5-12cyli.dat

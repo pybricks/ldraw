@@ -2,15 +2,16 @@
 0 Name: 87620.dat
 0 Author: Ronald Vallenduuk [Duq]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2010-07-05 [PTadmin]      Official Update 2010-02
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 0 !HISTORY 2016-03-08 [GeraldLasser] Corrected the size of the stud cut-out
-0 !HISTORY 2016-12-31 [PTadmin]      Official Update 2016-01
-0 !HISTORY 2018-01-27 [Steffen]      corrected 2 collinear quads
+0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+0 !HISTORY 2018-01-27 [Steffen] corrected 2 collinear quads
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 4 16 2.61594 24 -11.3841 5.61594 24 -14.3841 0 24 -20 -2 24 -16
 3 16 -4 24 -16 -2 24 -16 0 24 -20

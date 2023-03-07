@@ -2,16 +2,16 @@
 0 Name: 973p87.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS The Simpsons, Homer, Simpson
-0 !KEYWORDS Bricklink 973pb1618, Set 71006
+0 !KEYWORDS Bricklink 973pb1618, Homer, Set 71006, Simpson, The Simpsons
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
 0 !HISTORY 2022-06-22 [Philo] Updated description, added keywords
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10

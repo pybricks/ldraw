@@ -2,18 +2,19 @@
 0 Name: s\3822s01.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2002-12-31 [PTadmin] Official Update 2002-06
-0 !HISTORY 2003-01-28 [sbliss]  Moved stud to main files, BFC'ed, changed polygons to primitives
+0 !HISTORY 2003-01-28 [sbliss] Moved stud to main files, BFC'ed, changed polygons to primitives
 0 !HISTORY 2003-12-19 [PTadmin] Official Update 2003-03
 0 !HISTORY 2007-09-05 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2018-12-19 [Steffen] updated moved-to references
 0 !HISTORY 2018-12-21 [cwdee] Removed unnecessary INVERTNEXT
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 24 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 1 16 0 4 0 6 0 0 0 1 0 0 0 6 4-4edge.dat

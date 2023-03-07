@@ -2,15 +2,16 @@
 0 Name: 3004pt7.dat
 0 Author: Alexandre Bourdais [x-or]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS minecraft
+0 !KEYWORDS Minecraft
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 0 !HISTORY 2019-05-08 [cwdee] Renamed from 3004ptc1
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
 4 7 -19.5 23.5 -10 -14.28 23.5 -10 -14.28 21 -10 -17.14 21 -10

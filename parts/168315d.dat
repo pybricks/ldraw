@@ -2,7 +2,7 @@
 0 Name: 168315d.dat
 0 Author: Imre Papp [ampi]
 0 !LDRAW_ORG Part UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2012-01-08 [cwdee] Renamed from 168135d, add dimensions
 0 !HISTORY 2012-01-09 [MagFors] Closed small gaps
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 1 14 0 -0.25 0 38 0 0 0 0.25 0 0 0 8 box5-12.dat
 0 // sticker pattern

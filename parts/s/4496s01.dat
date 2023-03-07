@@ -2,13 +2,14 @@
 0 Name: s\4496s01.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Subpart UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-01-07 [MagFors] Added cond-lines around the part
 0 !HISTORY 2011-01-11 [Philo] Closed teeny gaps around tip sphere
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 1 16 9.4 -3.054 0 -0.75 0.866 0 -1.299 -0.5 0 0 0 1.5 4-8sphe.dat
 4 16 0 -2.5 0 1.749 -2.496 0 1.767 -2.322 0.88 0 -2.31 0.957

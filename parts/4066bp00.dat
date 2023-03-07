@@ -2,14 +2,15 @@
 0 Name: 4066bp00.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Nursery, Set 2615, bricklink 4066pb027
+0 !KEYWORDS bricklink 4066pb027, Nursery, Set 2615
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 4 15 -2 15 -20 -3.5 14.5 -20 -5 15 -20 -5.25 16 -20

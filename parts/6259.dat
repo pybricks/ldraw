@@ -1,8 +1,8 @@
-0 Cylinder  2 x  4 x  4 
+0 Cylinder  2 x  4 x  4
 0 Name: 6259.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC'ed and use more primitives (2005-11-20)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
 
 1 16 0 92 -20 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 96 0 6 0 0 0 1 0 0 0 -6 2-4edge.dat

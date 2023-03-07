@@ -2,7 +2,7 @@
 0 Name: s\32288s01.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Subpart UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2021-05-21 [kuramapika1] Fix T-Junction and primitives
 0 !HISTORY 2021-09-02 [MMR1988] Added missing conds. Removed one condline which was duplicated by a line.
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 4 16 30 34 60 40 24 60 40 73.963 60 30 66 60
 4 16 40 73.963 60 19.402 73.963 60 24 66 60 30 66 60

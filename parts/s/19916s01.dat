@@ -2,11 +2,12 @@
 0 Name: s\19916s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // Inside
 
@@ -715,7 +716,6 @@
 2 24 1.614 26.744 20.423 1.222 26.834 21.116
 2 24 1.222 26.834 21.116 1.222 9.813 17.033
 2 24 1.066 -3.133 15.199 1.222 .936 16.123
-
 
 5 24 12.011 0 4.784 15.776 12.516 -1.823 15.13 12.53 1.098 13 0 0
 5 24 4.975 0 11.549 0 7.5 13.5 0 0 12.5 5.166 7.5 12.473

@@ -2,13 +2,14 @@
 0 Name: 973p1l.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Bricklink 973pb2850, Set 40178, Store
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
@@ -326,7 +327,6 @@
 3 16 -14.345 2 -10 -14.0639 10.2369 -10 -14.0118 9.8614 -10
 3 16 -14.0639 10.2369 -10 -17.3 25.45 -10 -13.9045 12.9484 -10
 4 16 -17.6 26.6 -10 -17.3 25.45 -10 -14.0639 10.2369 -10 -14.345 2 -10
-
 
 0 // Back
 4 14 14.75 28.45 10 17.65 28 10 18 29.25 10 14.95 29.75 10

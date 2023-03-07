@@ -2,11 +2,12 @@
 0 Name: 16981k01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part Flexible_Section UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 3 16 -9.6558 -.9689 6.4003 -9.6558 2.0312 6.4003 -7.7488 2.1937 4.3297
 3 16 -7.7488 2.1937 4.3297 -7.7488 -.8063 4.6297 -9.6558 -.9689 6.4003

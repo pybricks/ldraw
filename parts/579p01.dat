@@ -2,7 +2,7 @@
 0 Name: 579p01.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -11,9 +11,10 @@
 0 !HISTORY 2004-07-09 [mikeheide] some minor changes and added pattern
 0 !HISTORY 2004-07-23 [mikeheide] BFC CW made
 0 !HISTORY 2007-09-20 [mikeheide] Fixed Bad vertex sequence, deleted identical lines
-0 !HISTORY 2012-04-09 [Steffen]   used subfile
-0 !HISTORY 2012-04-09 [MagFors]   removed t-junctions and overlapping surface
+0 !HISTORY 2012-04-09 [Steffen] used subfile
+0 !HISTORY 2012-04-09 [MagFors] removed t-junctions and overlapping surface
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\579s01.dat
 3 16 -15 8 -80 -22 19 -80 -40 0 -80

@@ -2,7 +2,7 @@
 0 Name: 4288.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2013-10-20 [Steffen] BFCed, used more primitives, added Needs Work
 0 !HISTORY 2018-12-29 [Philo] Closed gaps, improved axle hole and shape
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+
 
 1 16 0 0 0 1 0 0 0 0 1 0 -16.25 0 axlehol6.dat
 1 16 0 0 0 0 0 -1 1 0 0 0 -16.25 0 axlehol6.dat
@@ -78,7 +79,6 @@
 4 16 11.7554 9.3172 16.25 10.037 11.1472 16.25 7.071 7.071 16.25 13.7032 6.1011 16.25
 3 16 13.7032 6.1011 16.25 7.071 7.071 16.25 9.239 3.827 16.25
 3 16 13.7032 6.1011 16.25 9.239 3.827 16.25 10 0 16.25
-
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4288-15.dat
 1 16 0 0 0 0.91355 -0.40674 0 0.40674 0.91355 0 0 0 1 s\4288-15.dat

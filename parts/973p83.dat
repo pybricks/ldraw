@@ -1,12 +1,13 @@
-0 Minifig Torso with Suit and Red Tie with Train Logo Pattern 
+0 Minifig Torso with Suit and Red Tie with Train Logo Pattern
 0 Name: 973p83.dat
 0 Author: Thomas Burger [grapeape]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Railroad, Executive
+0 !KEYWORDS Executive, Railroad
+
 0 !CMDLINE -c14
 
 0 !HISTORY 2002-08-18 [PTadmin] Official Update 2002-04
@@ -15,6 +16,7 @@
 0 !HISTORY 2017-10-08 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2017-10-08 [MagFors] Used train logo subfile
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat

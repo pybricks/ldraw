@@ -2,12 +2,12 @@
 0 Name: 3626bpa7.dat
 0 Author: George Barnes [glbarnes]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS face, Adventurers, Baron von Barron, Mr. Hates, villain
-0 !KEYWORDS eyebrows, dueling scar
+0 !KEYWORDS Adventurers, Baron von Barron, dueling scar, eyebrows, face
+0 !KEYWORDS Mr. Hates, villain
 
 0 !CMDLINE -c14
 
@@ -19,6 +19,7 @@
 0 !HISTORY 2013-03-22 [MagFors] Changed colour 383 to 80 (printed silver)
 0 !HISTORY 2013-03-22 [MagFors] inlined silver subpart
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 // replacing s\3626bs01.dat
 

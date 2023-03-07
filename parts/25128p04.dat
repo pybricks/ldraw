@@ -2,14 +2,15 @@
 0 Name: 25128p04.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 25128pb008, Set 75318
-0 !KEYWORDS SW, Star Wars, The Child, Grogu, Baby Yoda
+0 !KEYWORDS Baby Yoda, Bricklink 25128pb008, Grogu, Set 75318, Star Wars, SW
+0 !KEYWORDS The Child
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\25128s01.dat
 1 378 0 0 0 1 0 0 0 1 0 0 0 1 s\25128s02.dat

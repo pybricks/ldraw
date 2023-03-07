@@ -2,15 +2,16 @@
 0 Name: 4072.dat
 0 Author: Imre Papp [ampi]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !KEYWORDS Fabuland
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
-0 // outer surfaces
 
+0 // outer surfaces
 
 2 24 0 75 2.5 -99 75 2.5
 2 24 -99 75 2.5 -99 -75 2.5
@@ -58,8 +59,8 @@
 4 16 -99 10 -2.5 -92 10 -2.5 -92 -2 -2.5 -99 -2 -2.5
 
 0 -- hole and deco
-1 16 0 0 0 1 0 0 0 1 0 0 0 1  s\4072s01.dat
-1 16 -96 0 0 -1 0 0 0 1 0 0 0 1  s\4072s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4072s01.dat
+1 16 -96 0 0 -1 0 0 0 1 0 0 0 1 s\4072s01.dat
 
 0 -- keyhole
 2 24 -92 -2 -6.5 -92 10 -6.5

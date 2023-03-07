@@ -1,15 +1,17 @@
-0 Die  6 Sided  2 x  2 x  2 with Rubber Frame 
+0 Die  6 Sided  2 x  2 x  2 with Rubber Frame
 0 Name: 64776.dat
 0 Author: Joerg Sommerer [Brickaneer]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Brick
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 0 !HISTORY 2020-06-18 [MagFors] Corrected description and changed category
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 -22 0 1 0 0 0 1 0 0 0 1 s\64776s02.dat
 1 16 0 22 0 1 0 0 0 -1 0 0 0 -1 s\64776s02.dat

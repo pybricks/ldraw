@@ -2,14 +2,14 @@
 0 Name: 6035a.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
 
-0 // real number is 6035, but it was used for the complete assembly
 
+0 // real number is 6035, but it was used for the complete assembly
 
 1 494 16.667 20 0 0 0 -.667 0 -4 0 -7 0 0 box.dat
 1 494 -16.667 20 0 0 0 -.667 0 -4 0 -7 0 0 box.dat

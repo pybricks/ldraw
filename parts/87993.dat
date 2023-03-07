@@ -2,18 +2,19 @@
 0 Name: 87993.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Grip-barrel angle = 18 degrees
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Space, Ray, Blaster, Weapon
+0 !KEYWORDS Blaster, Ray, Space, Weapon
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 0 !HISTORY 2019-03-03 [Philo] Subparted for variant, minor improvements
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87993s01.dat
 1 16 0 -20.293 -17.771 0 0 0.56154 0.53406 -0.61803 0 -0.17353 -1.90211 0 4-4con13.dat

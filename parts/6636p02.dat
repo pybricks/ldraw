@@ -2,14 +2,15 @@
 0 Name: 6636p02.dat
 0 Author: J.C. Tchang [tchang]
 0 !LDRAW_ORG Part UPDATE 2012-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Architecture, Set 21007, Rockefeller Center, New York City, USA
-0 !KEYWORDS Architect, Raymond M. Hood
+0 !KEYWORDS Architect, Architecture, New York City, Raymond M. Hood
+0 !KEYWORDS Rockefeller Center, Set 21007, USA
 
 0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+
 
 0 // Text produced by txt2dat, using "Arial" font
 0 // (R) extract from s\777s07.dat

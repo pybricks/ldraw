@@ -2,11 +2,12 @@
 0 Name: s\973pc44a.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Subpart UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 4 16 1.292 16.1 -10 1.577 16.1 -10 1.704 15.46 -10 1.292 15.302 -10
 4 16 1.866 14.716 -10 2.067 14.917 -10 2.61 14.554 -10 2.43 14.152 -10

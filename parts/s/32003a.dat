@@ -2,13 +2,14 @@
 0 Name: s\32003a.dat
 0 Author: Shimpei Ohsumi [Shimpei-Ohsumi]
 0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2006-09-02 [guyvivan] Made BFC'ed, add missing lines
 0 !HISTORY 2010-04-15 [Philo] Improved precision at subpart joining, added missing condlines
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+
 
 4 16 47.3224 20 -4.14018 47.3224 15 -4.14018 47.3224 15 4.14018 47.3224 20 4.14018
 2 24 47.3224 20 -4.14018 47.3224 20 4.14018

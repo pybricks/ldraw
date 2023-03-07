@@ -2,11 +2,12 @@
 0 Name: s\65417s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 3 16 12.9372 93.96 -345.311 12.1019 89.7036 -348.553 6.4773 89.8653 -365.628
 3 16 6.4773 89.8653 -365.628 6.4773 93.8653 -365.67 12.9372 93.96 -345.311

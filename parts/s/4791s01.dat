@@ -2,11 +2,12 @@
 0 Name: s\4791s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 3 16 0 -6.619 0 0 -6.63 0 -1.364 -6.575 0
 3 16 -4.813 -6.511 0 -3.047 -6.618 0 -3.341 -7.19 1.417

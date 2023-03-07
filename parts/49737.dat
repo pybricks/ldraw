@@ -2,13 +2,14 @@
 0 Name: 49737.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Bend radius: 110 ldu
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\49736s02.dat
 1 16 -31.9676 0 77.1746 0 -0.70711 -0.70711 1 0 0 0 -0.70711 0.70711 s\49736s01.dat

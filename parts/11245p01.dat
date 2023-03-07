@@ -2,15 +2,15 @@
 0 Name: 11245p01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Figure Accessory
-
-0 !KEYWORDS Stephanie, High school, Set 41005, Bricklink 11245pb01
+0 !KEYWORDS Bricklink 11245pb01, High school, Set 41005, Stephanie
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 -8 -38 4.5 0 16 0 4 0 0 0 0 4 4-4cylo.dat
 1 16 0 -5 0 1 0 0 0 -1.25 0 0 0 -1 stud4od.dat
@@ -110,7 +110,6 @@
 2 24 -1.068 -14.378 -12.624 -0.755 -13.629 -12.626
 2 24 -0.755 -15.127 -12.621 -1.068 -14.378 -12.624
 2 24 0 -15.438 -12.62 -0.755 -15.127 -12.621
-
 
 4 16 0 -1.598 -11.078 0 -1.2 -10.75447 1.4061 -0.58892 -10.18575 1.51394 -0.63408 -10.21694
 3 16 0 -1.598 -11.078 1.51394 -0.63408 -10.21694 1.39855 -1.59763 -11.00611

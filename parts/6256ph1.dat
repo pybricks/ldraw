@@ -2,15 +2,16 @@
 0 Name: 6256ph1.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Bricklink 6256pb06, Set 71022
-0 !KEYWORDS Harry Potter, Albus Dumbledore, Collectible Minifigures, Fantastic Beasts, Pensieve
+0 !KEYWORDS Albus Dumbledore, Bricklink 6256pb06, Collectible Minifigures
+0 !KEYWORDS Fantastic Beasts, Harry Potter, Pensieve, set 71022
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6256s01.dat
 0 BFC INVERTNEXT

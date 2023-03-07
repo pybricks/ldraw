@@ -2,14 +2,15 @@
 0 Name: 98389p01.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Friends, Oscar, Bricklink 98389pb01
-0 !KEYWORDS Set 3185, Set 3188, Set 40080, Set 41034, Set 850591
+0 !KEYWORDS Bricklink 98389pb01, Friends, Oscar, Set 3185, Set 3188, Set 40080
+0 !KEYWORDS set 41034, Set 850591
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 0 BFC INVERTNEXT
 1 70 0 -29.644 -10 2 0 0 0 11.375 0 0 0 2 4-4cyli.dat

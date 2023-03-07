@@ -2,14 +2,14 @@
 0 Name: 85984pc4.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 85984pb290, Set 10278
-0 !KEYWORDS Telephone, Vintage
+0 !KEYWORDS Bricklink 85984pb290, Set 10278, telephone, Vintage
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\85984s01.dat
 4 72 1.3183 -10.78 1.3 1.2179 -11.0394 1.7323 0 -11.4577 2.4296 1.2179 -10.5207 0.8677

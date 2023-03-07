@@ -2,11 +2,12 @@
 0 Name: s\2634s02.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 0 // sides
 
@@ -52,7 +53,6 @@
 4 16 73 5.5 -21.6818 73 5.5 10 73 40 10 73 6.5 -21.2273
 3 16 73 35.7 -7.9545 73 6.5 -21.2273 73 40 10
 3 16 73 40 -6 73 35.7 -7.9545 73 40 10
-
 
 1 16 -80 35.5 -7.9926 0 4 0 2.5 0 0 0 0 -2.5 3-16cylo.dat
 1 16 -80 35.5 2.5 0 4 0 0 0 2.5 2.5 0 0 1-4cylo.dat
@@ -278,7 +278,6 @@
 3 16 -72 5.5 -21.6818 -60 5.5 -10 -45.5 5.5 -21.6818
 4 16 -60 5.5 10 -60 5.5 -10 -72 5.5 -21.6818 -73 5.5 -21.6818
 3 16 -73 5.5 -21.6818 -73 5.5 10 -60 5.5 10
-
 
 0 // bottom
 

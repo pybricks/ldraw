@@ -2,7 +2,7 @@
 0 Name: 73092.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Shortcut Physical_Colour UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -14,5 +14,6 @@
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 0 !HISTORY 2019-09-09 [Steffen] obsoleted per decision not to include physical colour parts
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 2959c01.dat

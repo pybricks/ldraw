@@ -2,7 +2,7 @@
 0 Name: s\2865s02.dat
 0 Author: Ludo Soete [ludo]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-11-20 [MagFors] bfc'd
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 4 0 0 0 1 0 -1 0 -1 0 0 stug4-1x3.dat
 1 16 14 6 -40.5 2 0 0 0 0 -2 0 -1 0 rect.dat

@@ -2,11 +2,12 @@
 0 Name: 3815bp4f.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Part UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS Castle, Knights Kingdom, set 4817, armor, leggings, straps, archer, knight
+0 !KEYWORDS archer, Armor, Castle, knight, Knights Kingdom, leggings, set 4817
+0 !KEYWORDS straps
 
 0 !CMDLINE -c0
 
@@ -14,6 +15,7 @@
 0 !HISTORY 2020-05-30 [cwdee] Adapted to corrected geometry
 0 !HISTORY 2020-07-28 [cwdee] Reworked pattern
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3815bs01.dat
 1 16 -2 12 0 0 4 0 8.084 0 -3.3485 -3.3485 0 -8.084 5-16cyli.dat

@@ -2,7 +2,7 @@
 0 Name: 2864.dat
 0 Author: Ludo Soete [ludo]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,6 +11,7 @@
 0 !HISTORY 2013-05-13 [cwdee] Split conductor plate to separate part
 0 !HISTORY 2013-05-17 [MMR1988] Removed t-junctions, used more prims
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 // Bottom side
 

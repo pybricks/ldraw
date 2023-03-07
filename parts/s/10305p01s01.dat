@@ -2,15 +2,14 @@
 0 Name: s\10305p01s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-
-0 !CATEGORY Minifig Headwear
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2013-11-21 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 4 85 13.65 10.15 -8.1291 13.6874 8.6169 -8.2899 12.564 8.6 -10.172 12.129 10.701 -10.579
 4 85 13.4 12.05 -8.287 13.65 10.15 -8.1291 12.129 10.701 -10.579 12.4074 12.2863 -9.9024

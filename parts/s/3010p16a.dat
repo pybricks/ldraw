@@ -2,11 +2,12 @@
 0 Name: s\3010p16a.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Subpart UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 4 4 -31 20.5 -10 0 20.5 -10 0 18 -10 -31 18 -10
 4 4 28 20.5 -10 28 18 -10 0 18 -10 0 20.5 -10

@@ -2,13 +2,14 @@
 0 Name: 4697b.dat
 0 Author: Marc Klein [marckl]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2006-10-14 [WilliamH] Shortened arms, added conic ends
 0 !HISTORY 2009-10-11 [Philo] Drilled holes in the sphere
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 0 3.999 0 0 4 4 0 0 0 15 0 4-4cyli.dat
 1 16 0 0 -3.999 0 0 4 -4 0 0 0 -15 0 4-4cyli.dat

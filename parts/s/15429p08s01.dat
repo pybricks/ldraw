@@ -2,11 +2,12 @@
 0 Name: s\15429p08s01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 4 16 0 18.293 25.892 0 21.747 26.541 0 18.834 26.58 0 18.449 26.305
 4 16 0 -6.95 -3.55 0 -9.082 -2.542 0 -5.264 -6.434 0 -5.2 -4.9

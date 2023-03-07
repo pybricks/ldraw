@@ -2,7 +2,7 @@
 0 Name: s\41748s01.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Subpart UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-02-20 [Wesley] full rebuilt
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 2 24 30 24 20 -10 24 20
 2 24 26 24 16 -6 24 16
@@ -106,7 +107,7 @@
 2 24 -6 10 -60 -6 16 -80
 2 24 -6 16 -80 -6 20 -90.1314
 4 16 -6 24 16 -6 20 -90.1314 -6 20 -96 -6 24 -96
-4 16 -6 24 16 -6 10 -60 -6 16 -80  -6 20 -90.1314
+4 16 -6 24 16 -6 10 -60 -6 16 -80 -6 20 -90.1314
 4 16 -6 24 16 -6 4 -20 -6 6 -40 -6 10 -60
 3 16 -6 24 16 -6 4 16 -6 4 -20
 0 // outer right surface

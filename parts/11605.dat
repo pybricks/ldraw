@@ -2,17 +2,18 @@
 0 Name: 11605.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
-0 !HELP Rear accessory position: X = -0.74,  Y = 4.8 , Z = 22.2
+0 !HELP Rear accessory position: X = -0.74, Y = 4.8 , Z = 22.2
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Joanna, Elves, Emily Jones
+0 !KEYWORDS Elves, Emily Jones, Joanna
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2017-03-15 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 -5 0 1 0 0 0 -1.25 0 0 0 -1 stud4o.dat
 1 16 0 0 0 8 0 0 0 1 0 0 0 8 4-4edge.dat

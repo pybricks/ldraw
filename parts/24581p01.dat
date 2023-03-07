@@ -2,11 +2,12 @@
 0 Name: 24581p01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24581s01.dat
 5 24 -7.0711 -12.5 -7.0711 -7.0711 -3.5 -7.0711 -3.8269 -12.5 -9.2391 -14.1421 -12.5 0

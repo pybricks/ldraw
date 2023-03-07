@@ -2,13 +2,14 @@
 0 Name: s\62272s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2019-11-13 [cwdee] Update description
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 2 24 -15.73 -10 40 -15.73 -10 60
 2 24 -10 -15.73 40 -10 -15.73 60
@@ -187,4 +188,4 @@
 1 16 -12.614 -13.534 97.75 0 -0.354 0.552 0 -0.354 -0.368 57.75 0 0 box4-4a.dat
 1 16 -13.534 -12.615 97.75 0 -0.354 -0.368 0 -0.354 0.552 57.75 0 0 box4-4a.dat
 5 24 -13.52 -13.52 40 -13.52 -13.52 155.5 -12.416 -14.255 155.5 -14.255 -12.417 155.5
-0 
+0

@@ -2,11 +2,12 @@
 0 Name: s\61975s01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 4 16 14 0 1 14.346 -1.741 1 13.993 -1.476 7.019 13.7 0 7
 4 16 14.346 -1.741 1 15.333 -3.217 1 14.828 -2.728 7.073 13.993 -1.476 7.019

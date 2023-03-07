@@ -2,7 +2,7 @@
 0 Name: 3856.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,6 +14,7 @@
 0 !HISTORY 2009-02-08 [anathema] Added bumps
 0 !HISTORY 2009-02-22 [anathema] Rebuilt using new subparts
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+
 
 1 16 0 8 0 1 0 0 0 1 0 0 0 1 s\3856s01.dat
 1 16 0 12 0 1 0 0 0 1 0 0 0 1 s\3856s01.dat

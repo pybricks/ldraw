@@ -2,12 +2,14 @@
 0 Name: 53400.dat
 0 Author: Ronald Vallenduuk [Duq]
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
 0 !HELP The rotation point is at 0/0/-800
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 0 // -x end sleeper
 1 16 -156.073 0 -15.372 0.980785 0 -0.19509 0 1 0 0.19509 0 0.980785 s\53400s03.dat

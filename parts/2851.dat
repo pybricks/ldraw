@@ -2,12 +2,13 @@
 0 Name: 2851.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2010-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2006-09-16 [guyvivan] CA-Rewrite
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
+
 
 4 16 -11.088 3.064 -4.596 -11.088 -3.064 -4.596 -11.392 -3.064 -3.064 -11.392 3.064 -3.064
 4 16 11.088 -3.064 -4.596 11.088 3.064 -4.596 11.392 3.064 -3.064 11.392 -3.064 -3.064
@@ -56,7 +57,7 @@
 1 16 0 -16 0 4 0 0 0 1 0 0 0 4 4-4ring2.dat
 1 16 0 -16 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
 0 BFC INVERTNEXT
-1 16 0 -16 0 4 0 0 0 1 0 0 0 4 4-8SPHE.DAT
+1 16 0 -16 0 4 0 0 0 1 0 0 0 4 4-8sphe.dat
 0 BFC INVERTNEXT
 1 16 11.392 0 0 0 0.6 0 0 0 3.064 -3.064 0 0 1-4cyls.dat
 0 BFC INVERTNEXT

@@ -2,7 +2,7 @@
 0 Name: s\30378s01.dat
 0 Author: Nathan Wright
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-09-27 [MagFors] BFC'd, added cond-lines
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 4 0 0 0 -8 0 2.52571 0 -6.0976 6.0976 0 2.52571 5-8cylo.dat
 0 BFC INVERTNEXT

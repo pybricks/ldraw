@@ -2,14 +2,14 @@
 0 Name: 3836.dat
 0 Author: Imre Papp [ampi]
 0 !LDRAW_ORG Part UPDATE 2014-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP To place on Y=0 plane in working position : turn X: -25 then move Y: -76.528
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS tool, broom
+0 !KEYWORDS broom, tool
 
 0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
 0 !HISTORY 2007-10-12 [PTadmin] Header formatted for Contributor Agreement
@@ -18,6 +18,7 @@
 0 !HISTORY 2008-07-08 [fwcain] added CMDLINE meta-statement; fixed bristles (2003-09-22)
 0 !HISTORY 2013-06-26 [MMR1988] rewritten from the scratch, removed CMDLINE
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+
 
 0 // Broom
 

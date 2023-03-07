@@ -2,9 +2,10 @@
 0 Name: 4497.dat
 0 Author: John Van Zwieten [jvan]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Minifig Accessory
 
 0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
@@ -15,13 +16,14 @@
 0 !HISTORY 2020-10-24 [cwdee] Extend description
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 
+
 1 16 0 -46 -0.9986 2 0 0 0 0 -2 0 1 0 2-4edge.dat
 1 16 0 -46 0.9986 2 0 0 0 0 -2 0 1 0 2-4edge.dat
 1 16 0 -46 -0.9986 2 0 0 0 0 -2 0 1.9972 0 2-4cyli.dat
 1 16 0 -46 -0.9986 2 0 0 0 0 -2 0 -0.3143 0 2-4con0.dat
 1 16 0 -46 0.9986 2 0 0 0 0 -2 0 0.3143 0 2-4con0.dat
-2 24 0 -48 -0.9986 0 -46 -1.3129 
-2 24 0 -48 0.9986 0 -46 1.3129 
+2 24 0 -48 -0.9986 0 -46 -1.3129
+2 24 0 -48 0.9986 0 -46 1.3129
 0 //
 2 24 -7 -13 -1.25 -2 -46 -0.9986
 2 24 0 -6.0069 -2.5698 0 -46 -1.3129

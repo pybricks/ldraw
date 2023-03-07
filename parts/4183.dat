@@ -2,7 +2,7 @@
 0 Name: 4183.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2012-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2012-03-20 [timgould] Adapted from 4036
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+
 
 1 16 4 68 40 0 0 -2 0 -2 0 2 0 0 bump5000.dat
 1 16 4 68 20 0 0 -2 0 -2 0 2 0 0 bump5000.dat
@@ -81,7 +82,6 @@
 4 16 10 60 13 10 60 10 10 12 10 10 12 13
 4 16 10 11 46 10 11 14 10 8 14 10 8 46
 4 16 10 64 46 10 64 14 10 61 14 10 61 46
-
 
 0 // Bottom surface
 

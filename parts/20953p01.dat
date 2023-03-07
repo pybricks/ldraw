@@ -2,13 +2,14 @@
 0 Name: 20953p01.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 20953pb01, Set 75105, Set 75297, Set 75192, Star Wars
+0 !KEYWORDS Bricklink 20953pb01, Set 75105, Set 75192, Set 75297, Star Wars
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20953s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20953p01s01.dat
@@ -34,7 +35,6 @@
 1 25 0 34 0 0 0 -1 0 -1 0 -1 0 0 s\20953p01s02.dat
 1 25 0 34 0 0 0 1 0 -1 0 1 0 0 s\20953p01s02.dat
 1 25 0 34 0 0 0 1 0 -1 0 -1 0 0 s\20953p01s02.dat
-
 
 4 80 0 10.36 -18.8217 0 11.824 -19.318 1.45 11.824 -19.2225 1.2 10.45 -18.7732
 3 80 0 10.36 -18.8217 1.2 10.45 -18.7732 0.73 10.37 -18.777

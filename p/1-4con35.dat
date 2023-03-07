@@ -2,11 +2,12 @@
 0 Name: 1-4con35.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Primitive UPDATE 2019-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+
 
 4 16 35 1 0 32.3365 1 13.3945 33.2604 0 13.7772 36 0 0
 4 16 32.3365 1 13.3945 24.7485 1 24.7485 25.4556 0 25.4556 33.2604 0 13.7772

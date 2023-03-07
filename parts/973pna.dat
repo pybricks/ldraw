@@ -2,17 +2,17 @@
 0 Name: 973pna.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS ninjago, ninja, tarragon,
-0 !KEYWORDS sensei wu, teacher, grand, master, robe
-0 !KEYWORDS dual, white undershirt
+0 !KEYWORDS Dual, Grand, master, Ninja, Ninjago, Robe, Sensei Wu, tarragon
+0 !KEYWORDS teacher, white undershirt
 
 0 !CMDLINE -c0
 
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 0 // Pattern front
 0 // Dark bluish gray
@@ -1019,7 +1019,6 @@
 3 82 -2.5 25.16 10 -.45 26.88 10 -2.07 25.81 10
 3 82 7.62 11.38 10 8.17 11.815 10 7.63 12.6 10
 3 82 5.37 4.495 10 7.76 6.2 10 5.48 5.84 10
-
 
 0 // Main color
 3 16 7.13 6.67 10 7.89 7.41 10 7.28 7.09 10

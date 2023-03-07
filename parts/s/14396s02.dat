@@ -2,11 +2,12 @@
 0 Name: s\14396s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 0 // Bottom Neck Area
 
@@ -25,7 +26,6 @@
 2 24 -2.41425 -.1591 -5.464506 -4.2426 -.52249 -4.2426
 2 24 -5.073043 -.727543 -3 -4.7878 -.63085 -3.426812
 2 24 -4.2426 -.52249 -4.2426 -4.7878 -.63085 -3.426812
-
 
 4 16 -5.073043 -4.415243 -3 -5.225418 -3.256843 -2.772 -5.5434 -2.615848 -2.2962 -5.5434 -4.4 -2.2962
 4 16 -5.578239 -2.351944 -2.121 -5.771819 -1.731864 -1.1475 -5.5434 -4.4 -2.2962 -5.5434 -2.615848 -2.2962

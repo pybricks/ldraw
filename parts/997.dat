@@ -2,13 +2,14 @@
 0 Name: 997.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2007-11-10 [Jaco] Secondary author
 0 !HISTORY 2012-04-01 [MagFors] Closed gaps
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 4 16 20 80 70 16 80 -6 16 80 86 20 80 90
 4 16 20 80 90 16 80 86 -16 80 86 -20 80 90

@@ -2,12 +2,13 @@
 0 Name: clip14.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Primitive UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-11-03 [MagFors] Adapted to cyli-primitive
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 2 24 6.54 -4 0 -6.54 -4 0
 2 24 -6.54 4 0 6.54 4 0
@@ -52,7 +53,7 @@
 5 24 -5.005 4 -2.779 -5.005 -4 -2.779 -5.393 4 -4.365 -5.375 4 -1
 5 24 -5.375 4 -1 -5.375 -4 -1 -5.005 4 -2.779 -6.54 4 0
 5 24 -6.54 4 0 -6.54 -4 0 -5.375 4 -1 -8 4 0
-0 // 
+0 //
 
 0 BFC INVERTNEXT
 1 16 0 -4 -10 3.69552 0 1.53073 0 8 0 -1.53073 0 3.69552 1-4cylo.dat

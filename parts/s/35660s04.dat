@@ -2,13 +2,14 @@
 0 Name: s\35660s04.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-01 {Mecabricks} Original part shape
 0 !HISTORY 2019-12-01 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 3 16 9.4375 -6.925 -6.7875 7.5875 -7.935 -7.5775 9.5575 -5.0375 -8.4225
 3 16 7.5525 -6.27 -8.95 9.5575 -5.0375 -8.4225 7.5875 -7.935 -7.5775

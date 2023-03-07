@@ -2,11 +2,12 @@
 0 Name: s\3817bs03.dat
 0 Author: Nils Schmidt [BlackBrick89]
 0 !LDRAW_ORG Subpart UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 4 16 18.755 6.187 -6.187 2 6.187 -6.187 2 7.399 -4 18.804 7.399 -4
 4 16 18.659 3.349 -8.084 18.546 0 -8.75 2 0 -8.75 2 3.349 -8.084

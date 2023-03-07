@@ -2,16 +2,17 @@
 0 Name: 30084.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Star Wars, Divers, Aquazone
+0 !KEYWORDS Aquazone, Divers, Star Wars
 
 0 !HISTORY 2013-02-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2013-02-14 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-03-13 [MagFors] Removed unwanted folds in the mesh
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 0 -6 0 1 0 0 0 -1.5 0 0 0 -1 stud3.dat
 3 16 -5.055 -1.89 -28.375 -4.167 -0.529 -25.045 -4.327 -1.914 -28.416

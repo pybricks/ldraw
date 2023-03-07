@@ -2,7 +2,7 @@
 0 Name: 30074.dat
 0 Author: Shimpei Ohsumi [Shimpei-Ohsumi]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2020-10-03 [UR] Open Stud,Stud Orientation, T-Junctions
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30073s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 stud2.dat
@@ -24,6 +25,4 @@
 3 16 -10 126 102 -10 126 105 -10 192 110
 4 16 -10 192 110 -10 126 105 -10 11 105 -10 0 110
 3 16 -10 8 105 -10 0 110 -10 11 105
-
-
 

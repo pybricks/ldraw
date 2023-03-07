@@ -2,13 +2,14 @@
 0 Name: 164565d.dat
 0 Author: Zoltan Keri [kzoltan82]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Train, Restaurant, Set 4558, Metroliner
+0 !KEYWORDS Metroliner, Restaurant, Set 4558, Train
 
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
+
 
 1 16 0 -0.25 0 19 0 0 0 0.25 0 0 0 11 box5-12.dat
 3 16 2.979 -0.25 -8.199 19 -0.25 -11 3.257 -0.25 -8.012

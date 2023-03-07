@@ -2,17 +2,19 @@
 0 Name: 2558.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-0 !KEYWORDS pirate, pirates, ship, skull, Armada
+
+0 !KEYWORDS Armada, Pirate, Pirates, ship, skull
 
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2012-08-25 [cwdee]   Update description
+0 !HISTORY 2012-08-25 [cwdee] Update description
 0 !HISTORY 2012-09-02 [MagFors] Added cond-lines, reduced filesize by subfiling
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+
 
 1 16 0 116 -140 60 0 0 0 0 12 0 1 0 rect2p.dat
 4 16 60 128 -100 60 128 -140 -60 128 -140 -60 128 -100

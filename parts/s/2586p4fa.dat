@@ -2,7 +2,7 @@
 0 Name: s\2586p4fa.dat
 0 Author: Chris Dee [cwdee]
 0 !LDRAW_ORG Subpart UPDATE 2014-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -10,6 +10,7 @@
 0 !HISTORY 2013-02-28 [MagFors] Changed colour 383 to 80 (printed silver)
 0 !HISTORY 2013-02-28 [MagFors] removed emphasis lines
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
+
 
 0 // Red markings
 4 4 11 -14 -8 12 -14 -8 13 -17 -8 11.5 -15.5 -8

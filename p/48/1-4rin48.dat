@@ -2,11 +2,12 @@
 0 Name: 48\1-4rin48.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG 48_Primitive UPDATE 2010-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+
 
 4 16 48 0 0 49 0 0 48.5786 0 6.3945 47.5872 0 6.264
 4 16 47.5872 0 6.264 48.5786 0 6.3945 47.3291 0 12.6812 46.3632 0 12.4224
@@ -21,6 +22,5 @@
 4 16 12.4224 0 46.3632 12.6812 0 47.3291 6.3945 0 48.5786 6.264 0 47.5872
 4 16 6.264 0 47.5872 6.3945 0 48.5786 0 0 49 0 0 48
 
-0 end of file 
-
+0 end of file
 

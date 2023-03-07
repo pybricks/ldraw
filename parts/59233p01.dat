@@ -2,15 +2,16 @@
 0 Name: 59233p01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Flash, Force, Wave, Bricklink 59233pb01
-0 !KEYWORDS Set 10188, Set 2507, Set 5378, Set 70809, Set 76022
+0 !KEYWORDS Bricklink 59233pb01, Flash, Force, Set 10188, Set 2507, Set 5378
+0 !KEYWORDS Set 70809, Set 76022, Wave
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 52 0 0 0 1 0 0 0 1 0 0 0 1 s\59233s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\59233s02.dat

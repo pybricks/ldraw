@@ -2,14 +2,15 @@
 0 Name: 850c01-f1.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Shortcut UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 218, set 340, set 374, set 485, set 658, set 693
-0 !KEYWORDS step, rung, fire fighter, legoland
+0 !KEYWORDS fire fighter, legoland, rung, set 218, set 340, set 374, set 485
+0 !KEYWORDS set 658, set 693, Step
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 850.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 851a.dat

@@ -2,16 +2,17 @@
 0 Name: 4624296dc01.dat
 0 Author: Damien Roux [Darats]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Disney, Cars, Set 8206
+0 !KEYWORDS Cars, Disney, Set 8206
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-0 !HISTORY 2017-07-03 [cwdee]   Use cylinder primitives with conditional lines
+0 !HISTORY 2017-07-03 [cwdee] Use cylinder primitives with conditional lines
 0 !HISTORY 2017-08-19 [MagFors] added front surface conditional lines
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 0 -18.9624 -5 13.5208 0 0.980785 -0.19509 -1 0 0 0 0.19509 0.980785 1-4chrd.dat
 3 0 -18.9624 0 13.5208 -19.15749 -5 14.501585 -19.15749 5 14.501585

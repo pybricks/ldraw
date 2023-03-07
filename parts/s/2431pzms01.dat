@@ -2,11 +2,12 @@
 0 Name: s\2431pzms01.dat
 0 Author: Vincent Messenet [Cheenzo]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 4 0 39 0 9.5 38.5 0 9.5 38.5 0 -9.5 39 0 -9.5
 4 0 29.5 0 -9.5 33 0 -9.5 37 0 -8 35.5 0 -7

@@ -2,7 +2,7 @@
 0 Name: 1-4con6.dat
 0 Author: Franklin W. Cain [fwcain]
 0 !LDRAW_ORG Primitive UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -12,6 +12,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2022-07-03 [Philo] Regenerated with Primgen2 to fix tangent condlines
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 4 16 6 1 0 5.5434 1 2.2962 6.4673 0 2.6789 7 0 0
 4 16 5.5434 1 2.2962 4.2426 1 4.2426 4.9497 0 4.9497 6.4673 0 2.6789

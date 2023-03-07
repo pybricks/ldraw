@@ -2,7 +2,7 @@
 0 Name: 2871a.dat
 0 Author: Manfred Moolhuysen
 0 !LDRAW_ORG Part UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,11 +14,9 @@
 0 !HISTORY 2011-01-08 [technog] BFC'd, made use of more primitives, improved details
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
 
+
 0 // Acknowledgements to James Jessiman, for the sections that resemble 2878.dat
 0 // central section
-
-
-
 
 4 16 30 48 10 26 48 6 14 48 6 10 48 10
 4 16 10 48 10 14 48 6 14 48 -6 10 48 -10

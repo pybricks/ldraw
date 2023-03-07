@@ -2,14 +2,15 @@
 0 Name: 4066bp18.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Brick
-0 !KEYWORDS Police, Traffic, Set 2451, Set 2672, Set 9165, bricklink 4066pb072
+0 !KEYWORDS bricklink 4066pb072, police, Set 2451, Set 2672, Set 9165, Traffic
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
 1 0 0 37 -20 2 0 0 0 0 -2 0 1 0 48\4-4rin10.dat

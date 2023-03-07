@@ -2,13 +2,13 @@
 0 Name: 70864.dat
 0 Author: Paul Easter [pneaster]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Vehicle
-0 !KEYWORDS aquazone, aquanauts, hydronauts, wild west, plate
-0 !KEYWORDS blacktron, space, suspension, train
+0 !KEYWORDS Aquanauts, Aquazone, Blacktron, Hydronauts, plate, Space, suspension
+0 !KEYWORDS Train, wild west
 
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
 0 !HISTORY 2007-07-09 [PTadmin] Header formatted for Contributor Agreement
@@ -16,6 +16,7 @@
 0 !HISTORY 2010-07-05 [PTadmin] Renamed from 517
 0 !HISTORY 2013-03-22 [mikeheide] shifted origin y=-1
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 // Created with spring2dat H=28 R=7 D=10 S=0.64 T=2 B=2
 

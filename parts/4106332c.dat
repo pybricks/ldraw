@@ -2,19 +2,19 @@
 0 Name: 4106332c.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS Western, Cavalry, Soldiers, Indians, General, Wild West
-0 !KEYWORDS fort, fortification, fortress, camp, blockhouse, legoredo
-0 !KEYWORDS set 6762, set 6769
+0 !KEYWORDS blockhouse, camp, cavalry, fort, fortification, fortress, General
+0 !KEYWORDS indians, legoredo, set 6762, set 6769, Soldiers, western, wild west
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2015-05-25 [Holly-Wood] Fixed concave quad, T-junctions, comment, gaps
 0 !HISTORY 2016-11-08 [Holly-Wood] Added keywords, changed color of thin box in accordance with the changed sticker specs
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // Blue Border
 

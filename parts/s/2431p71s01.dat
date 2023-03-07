@@ -2,11 +2,12 @@
 0 Name: s\2431p71s01.dat
 0 Author: Bertrand Lequy [Berth]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 4 71 0 0 2.8 -1.836 0 3.561 -1.988 0 2.8 -1.836 0 2.039
 4 71 0 0 2.8 -1.836 0 2.039 -1.405 0 1.395 -0.761 0 0.964

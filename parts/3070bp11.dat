@@ -2,13 +2,14 @@
 0 Name: 3070bp11.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Set 41901, Dots, Funky Animals, Bricklink 3070bpb142
+0 !KEYWORDS Bricklink 3070bpb142, Dots, Funky Animals, Set 41901
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 15 0 0 -5 -1.5 0 0 0 1 0 0 0 -1.5 2-4ndis.dat
 1 5 0 0 -5 -1.5 0 0 0 1 0 0 0 -1.5 2-4chrd.dat

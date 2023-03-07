@@ -2,11 +2,12 @@
 0 Name: s\3960px3s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Subpart UPDATE 2019-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+
 
 4 16 -5.22 8 39.656 -5.11663 7.68077 38.86464 0 7.68 39.2 0 8 40
 4 16 -5.22 8 39.656 -10.352 8 38.636 -10.14571 7.68046 37.86429 -5.11663 7.68077 38.86464

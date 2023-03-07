@@ -2,17 +2,18 @@
 0 Name: 89509.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS renewable energy, set 9688, turbine, rotor, fan
+0 !KEYWORDS fan, Renewable Energy, rotor, Set 9688, Turbine
 
 0 !HISTORY 2011-11-10 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2011-11-10 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
 0 !HISTORY 2021-03-17 [cwdee] Update description
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+
 
 4 16 -31.8 -257 -4.8 -32.59 -257.12 -4.34 -32.11 -256.08 -4.08 -31.54 -256.42 -4.65
 3 16 -31.43 -255.77 -3.65 -31.54 -256.42 -4.65 -32.11 -256.08 -4.08

@@ -2,7 +2,7 @@
 0 Name: 6007.dat
 0 Author: Marc Klein [marckl]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,8 +11,8 @@
 0 !HISTORY 2010-04-03 [Philo] More small fixes
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 
-0 // Created with stl2dat conversion tool
 
+0 // Created with stl2dat conversion tool
 
 1 16 -32.671 32 183 0 65.3 0 0 0 2 2 0 0 2-4cyli.dat
 1 16 -32.671 32 183 0 1 0 0 0 2 2 0 0 2-4edge.dat

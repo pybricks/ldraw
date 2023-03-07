@@ -2,11 +2,12 @@
 0 Name: s\93219s01.dat
 0 Author: Ulrich Röder [UR]
 0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+
 
 0 // Main
 3 16 3.866 -.074 -14.211 3.05 .819 -22.632 5.262 1.408 -21.762

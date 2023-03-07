@@ -2,11 +2,11 @@
 0 Name: 3626bp01.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
 0 !LDRAW_ORG Part UPDATE 2022-05
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 3626bp01, set 7720, set 1066, set 1589
+0 !KEYWORDS Bricklink 3626bp01, set 1066, Set 1589, set 7720
 
 0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
 0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
@@ -23,6 +23,7 @@
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
 0 !HISTORY 2022-07-30 [MagFors] Update description, used backside subfile
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626ap01s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626ap01s01.dat

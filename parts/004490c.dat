@@ -2,13 +2,14 @@
 0 Name: 004490c.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2019-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS set 365, western, wild west, cowboy, stagecoach, express service
+0 !KEYWORDS cowboy, express service, set 365, stagecoach, western, wild west
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+
 
 0 // font STENCIL STD
 
@@ -186,7 +187,6 @@
 3 15 -30.112 -.25 -13.444 -28.508 -.25 -15.8 -29.854 -.25 -13.064
 4 15 -28.508 -.25 -12.355 -29.67 -.25 -12.67 -29.854 -.25 -13.064 -28.508 -.25 -15.8
 3 15 -29.67 -.25 -12.67 -28.508 -.25 -12.355 -29.6 -.25 -12.355
-
 
 0 // X
 1 15 -22.256 -.25 -3.346 0 0 .552 0 1 0 .546 0 0 1-4chrd.dat

@@ -2,14 +2,16 @@
 0 Name: 92081.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 0 !CATEGORY Minifig Headwear
 
 0 !HISTORY 2013-11-11 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2013-11-11 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 3 16 -3.015 -7.723 -5.145 -3.965 -4.298 -10.509 -1.546 -7.77 -5.857
 3 16 -1.546 -7.77 -5.857 -3.965 -4.298 -10.509 -3.103 -4.283 -10.935

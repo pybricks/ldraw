@@ -2,11 +2,12 @@
 0 Name: s\4521664as01.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Subpart UPDATE 2022-04
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
 
 4 71 -8.6088 0 11.2192 -7.8566 0 11.7582 -8.4997 0 12.7207 -9.3134 0 12.1375
 4 71 -9.3241 0 10.6321 -8.6088 0 11.2192 -9.3134 0 12.1375 -10.0873 0 11.5024

@@ -2,7 +2,7 @@
 0 Name: 55707b.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Angle of handle/housing is 26.8136
 
@@ -11,6 +11,7 @@
 0 !CATEGORY Minifig Accessory
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 1 16 0 21.563 -0.167 0 0 4 0 -1 0 4 0 0 4-4disc.dat
 1 16 0 21.563 -0.167 0 0 -4 0 1 0 4 0 0 4-4edge.dat

@@ -2,13 +2,14 @@
 0 Name: 11090.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-09-26 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2012-09-26 [Philo] Complete rebuild for LDraw Parts Tracker
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 1 16 -2.1 30 0 6.33731 0 6.33731 0 -20 0 -6.25 0 6.25 1-4cylo.dat
 1 16 2.1 30 0 -6.33731 0 -6.33731 0 -20 0 -6.25 0 6.25 1-4cylo.dat

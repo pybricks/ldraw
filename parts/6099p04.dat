@@ -2,16 +2,18 @@
 0 Name: 6099p04.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2010-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS air base, airfield, air harbor, airstrip, aviation field
-0 !KEYWORDS field, flight deck, flight strip, flying field, deck
-0 !KEYWORDS landing strip, port, takeoff strip, heliport, helipad
-0 !KEYWORDS classic space, galaxy explorer
+
+0 !KEYWORDS air base, air harbor, airfield, airstrip, aviation field
+0 !KEYWORDS Classic Space, deck, Field, flight deck, flight strip, flying field
+0 !KEYWORDS Galaxy Explorer, helipad, heliport, landing strip, port
+0 !KEYWORDS takeoff strip
 
 0 !HISTORY 2008-06-28 [anathema] Used subfile
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6099s01.dat
 0 // Yellow

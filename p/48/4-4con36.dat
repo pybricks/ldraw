@@ -2,11 +2,12 @@
 0 Name: 48\4-4con36.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG 48_Primitive UPDATE 2011-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+
 
 4 16 36 1 0 35.6904 1 4.698 36.6818 0 4.8285 37 0 0
 4 16 35.6904 1 4.698 34.7724 1 9.3168 35.7383 0 9.5756 36.6818 0 4.8285
@@ -104,5 +105,4 @@
 5 24 33.2604 1 -13.7772 34.1843 0 -14.1599 31.176 1 -18 34.7724 1 -9.3168
 5 24 34.7724 1 -9.3168 35.7383 0 -9.5756 33.2604 1 -13.7772 35.6904 1 -4.698
 5 24 35.6904 1 -4.698 36.6818 0 -4.8285 34.7724 1 -9.3168 36 1 0
-
 

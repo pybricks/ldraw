@@ -2,11 +2,12 @@
 0 Name: s\92743s02.dat
 0 Author: Stan Isachenko [angmarec]
 0 !LDRAW_ORG Subpart UPDATE 2020-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+
 
 3 16 6.368 -34.548 -10.774 6.939 -35.36 -10.597 6.107 -34.616 -10.42
 3 16 6.368 -34.548 -10.774 7.097 -35.144 -10.838 6.939 -35.36 -10.597

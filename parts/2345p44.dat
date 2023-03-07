@@ -2,12 +2,12 @@
 0 Name: 2345p44.dat
 0 Author: Jonathan Wilson [jonwil]
 0 !LDRAW_ORG Part UPDATE 2009-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
-0 !HISTORY 1999-04-01 {Leonardo Zide} redone
+0 !HISTORY 1999-04-01 [leozide] redone
 0 !HISTORY 1999-05-17 [PTadmin] Official Update 1999-03
 0 !HISTORY 2000-08-01 {Manfred Moolhuysen} fixes to resolve L3P error messages
 0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
@@ -17,6 +17,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [cwdee] Insert edge lines removed from subpart (2005-08-22)
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2345s01.dat
 2 24 30 24 10 30 120 10

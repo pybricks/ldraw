@@ -2,14 +2,16 @@
 0 Name: 30288.dat
 0 Author: Tony Hafner [hafhead]
 0 !LDRAW_ORG Part UPDATE 2003-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
-0 !KEYWORDS Arctic, Alpha Team, Porthole, slope
+
+0 !KEYWORDS Alpha Team, Arctic, porthole, slope
 
 0 !HISTORY 2003-08-01 [PTadmin] Official Update 2003-02
 0 !HISTORY 2007-06-07 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
 
 3 16 -60 36 -50 -38 44 -50 -40 44 -50
 3 16 -60 36 -50 -40 44 -50 -40 46 -50

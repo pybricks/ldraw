@@ -2,13 +2,14 @@
 0 Name: 2533.dat
 0 Author: Andy Westrate [westrate]
 0 !LDRAW_ORG Part UPDATE 2011-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2009-11-16 [westrate] File preparation for LDraw Parts Tracker
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+
 
 3 16 2.82 -1.63 -7.5 8.66 -5 -7.5 1.63 -2.81 -7.5
 3 16 -1.62 -2.81 -7.5 -8.66 -5 -7.5 -2.81 -1.63 -7.5

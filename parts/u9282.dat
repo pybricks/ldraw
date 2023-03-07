@@ -2,11 +2,12 @@
 0 Name: u9282.dat
 0 Author: Max Martin Richter [MMR1988]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 0 BFC INVERTNEXT
 1 16 -10.25 12.25 -17 3.75 0 0 0 0 1.25 0 1 0 box4.dat
@@ -80,7 +81,6 @@
 0 BFC INVERTNEXT
 1 16 10 2 -16.5 0 0 4 0 3 0 0.5 0 0 box3u2p.dat
 
-
 4 16 17 3 -4.25 17 3 -16 14 3 -16 0 3 -4.25
 4 16 6 3 -16 0 3 -5.25 0 3 -4.25 14 3 -16
 3 16 6 3 -16 3 3 -16 3 3 -15
@@ -103,7 +103,6 @@
 4 16 -17 2 -17 -14 2 -16 -10.5 2 -5 -11.5 2 -4.75
 3 16 -17 2 -17 -11.5 2 -4.75 -17 2 0.25
 4 16 -11.5 2 -4.75 -10.5 2 -4.75 -10.5 2 0.25 -17 2 0.25
-
 
 1 16 -10 2.5 -16 -4 0 0 0 0 0.5 0 1 0 rect2p.dat
 1 16 10 2.5 -16 -4 0 0 0 0 0.5 0 1 0 rect2p.dat
@@ -132,7 +131,6 @@
 2 24 -17 3 -16 -17 3 0.25
 2 24 -17 2 0.25 -17 2 -17
 2 24 -17 2 0.25 -17 3 0.25
-
 
 0 BFC INVERTNEXT
 1 16 -11.5 4.625 -2.25 0 1 0 0 0 -0.625 0.625 0 0 2-4cylo.dat

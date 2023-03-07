@@ -2,11 +2,11 @@
 0 Name: 2997.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Technic Super Car 8880, 4 wheel steering, 81.6x34 ZR
+0 !KEYWORDS 4 wheel steering, 81.6x34 ZR, Technic Super Car 8880
 
 0 !CMDLINE -c256
 
@@ -15,6 +15,7 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-12-20 [Philo] BFCed, increased precision, rotated 5° to match rim.
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 0 0 0 0.99619 0.08716 0 -0.08716 0.99619 0 0 0 1 s\2997a.dat
 1 16 0 0 0 0.96593 0.25882 0 -0.25882 0.96593 0 0 0 1 s\2997a.dat

@@ -2,13 +2,14 @@
 0 Name: 41667.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2022-03
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 0 !HISTORY 2022-04-18 [MagFors] Reworked axlehole, removed surface bleeding
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
+
 
 1 16 39.392 -6.946 0 .17365 .98481 0 .98481 -.17365 0 0 0 -1 toothb12.dat
 1 16 37.587 -13.681 0 .34202 .93969 0 .93969 -.34202 0 0 0 -1 toothb12.dat

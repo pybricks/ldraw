@@ -2,18 +2,17 @@
 0 Name: 2359p04.dat
 0 Author: Willy Tschager [Holly-Wood]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
-0 !KEYWORDS bandit, bandido, desperado, gangster, gunman,
-0 !KEYWORDS outlaw, plunderer, robber, villain,
-0 !KEYWORDS wild west, spaghetti western, cowboy, pistol, revolver, rifle,
-0 !KEYWORDS doc holliday, tombstone, billy the kid
-0 !KEYWORDS united states, army, cavalry, secret hide-out, mine
-0 !KEYWORDS set 6761
+0 !KEYWORDS army, bandido, bandit, billy the kid, cavalry, cowboy, desperado
+0 !KEYWORDS doc holliday, gangster, gunman, mine, outlaw, Pistol, plunderer
+0 !KEYWORDS revolver, rifle, robber, secret hide-out, set 6761
+0 !KEYWORDS spaghetti western, tombstone, United States, villain, wild west
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // Subpart
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2359s01.dat

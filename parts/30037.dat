@@ -1,8 +1,8 @@
-0 Wing  9 x 12 -  6 x  2.333 Down 
+0 Wing  9 x 12 -  6 x  2.333 Down
 0 Name: 30037.dat
 0 Author: Luis E. Fernandez [lfernand]
 0 !LDRAW_ORG Part UPDATE 2015-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -16,12 +16,13 @@
 0 !HISTORY 2015-05-03 [BlackBrick89] BFCed and restructured
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
 
+
 0 // Studs
 0 // Upper Plate 2 x 12
 1 16 0 0 10 0 0 1 0 1 0 -1 0 0 stug-12x1.dat
 1 16 0 0 -10 0 0 1 0 1 0 -1 0 0 stug-12x1.dat
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stug4-1x11.dat
-0 // Bottom Plate  1 x 4 + 1 x 6
+0 // Bottom Plate 1 x 4 + 1 x 6
 1 16 0 48 -150 0 0 1 0 1 0 -1 0 0 stug-6x1.dat
 1 16 0 48 -130 0 0 1 0 1 0 -1 0 0 stug-4x1.dat
 1 16 0 52 -140 1 0 0 0 -1 0 0 0 1 stug4-1x3.dat
@@ -36,7 +37,7 @@
 4 16 -116 8 -16 116 8 -16 120 8 -20 -120 8 -20
 4 16 116 8 -16 116 8 16 120 8 20 120 8 -20
 4 16 120 8 20 116 8 16 -116 8 16 -120 8 20
-0 // Bottom Plate  1 x 4 + 1 x 6
+0 // Bottom Plate 1 x 4 + 1 x 6
 1 16 0 54 -124 0 0 -36 2 0 0 0 1 0 rect.dat
 1 16 -36 54 -134 0 -1 0 0 0 2 -10 0 0 rect.dat
 1 16 36 54 -134 0 1 0 0 0 2 10 0 0 rect.dat

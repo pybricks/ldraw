@@ -1,8 +1,8 @@
 0 ~Wheel Rim 23 x 22 Offroad - 1/4 Subpart
 0 Name: s\6580a.dat
-0 Author: Jeff Boen
+0 Author: Jeff Boen [onyx]
 0 !LDRAW_ORG Subpart UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -13,6 +13,7 @@
 0 !HISTORY 2017-01-03 [Steffen] BFCed
 0 !HISTORY 2017-02-14 [MagFors] Closed gaps, added cond-lines, removed center
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 0 // Faces (Quads and Triangles)
 
@@ -537,7 +538,6 @@
 2 24 13 -6.1321 -18.8817 6.8 -6.1323 -18.8737
 2 24 6.8 -13.1978 -14.9122 13 -13.1978 -14.9122
 
-
 0 // added to close the cavities
 4 16 -7 -4.45 -19.5 -7 0 -20 -3.0119 -3.3423 -17.7571 -5.9621 -5.6171 -18.8793
 3 16 -3.0119 -3.3423 -17.7571 -7 0 -20 1.4675 -1.6698 -15.85
@@ -594,7 +594,6 @@
 4 16 -5.9621 -13.5414 -14.3042 6.8 -13.5295 -14.2396 6.8 -13.6951 -11.7084 -3.0119 -13.707 -11.7731
 3 16 -5.9621 -13.5414 -14.3042 -7 -14.6625 -13.6038 6.8 -13.1978 -14.9122
 3 16 -5.9621 -13.5414 -14.3042 6.8 -13.1978 -14.9122 6.8 -13.5295 -14.2396
-
 
 0 // Added lines/Condlines
 5 24 -19 -19.5 -4.45 -11.7 -19.5 -4.45 -19 -20 0 -19 -18.02 -8.68
