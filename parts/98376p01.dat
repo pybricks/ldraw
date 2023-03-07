@@ -1,0 +1,32 @@
+0 Minifig Hips Genie with Red Belt Pattern
+0 Name: 98376p01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2022-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 71012, Bricklink 98376pb02
+0 !KEYWORDS CMF, Collectable, Disney, Alladin
+
+0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2018-08-15 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98376s01.dat
+0 // belt
+4 4 16.89 5.463 -9.467 17.616 5.463 -8.642 17.605 0 -9 16.885 0 -9.8
+3 4 -16.885 0 -9.8 -16.726 5.463 -9.609 16.885 0 -9.8
+3 4 -16.726 5.463 -9.609 16.89 5.463 -9.467 16.885 0 -9.8
+3 4 -17.644 5.463 -7.809 -16.726 5.463 -9.609 -17.605 0 -9
+3 4 -16.726 5.463 -9.609 -16.885 0 -9.8 -17.605 0 -9
+4 4 -17.617 5.463 8.263 -17.644 5.463 -7.809 -17.605 0 -9 -17.605 0 9
+3 4 -16.821 5.463 9.554 -17.617 5.463 8.263 -17.605 0 9
+3 4 -16.821 5.463 9.554 -17.605 0 9 -16.901 0 9.8
+3 4 -16.901 0 9.8 16.901 0 9.8 17.051 5.463 9.753
+3 4 17.051 5.463 9.753 -16.821 5.463 9.554 -16.901 0 9.8
+3 4 17.051 5.463 9.753 17.596 0 9.219 17.619 5.463 8.67
+3 4 17.596 0 9.219 17.051 5.463 9.753 16.901 0 9.8
+4 4 17.616 5.463 -8.642 17.619 5.463 8.67 17.596 0 9.219 17.605 0 -9
+0 // front surface
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98376s02.dat

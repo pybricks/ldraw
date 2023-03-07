@@ -1,12 +1,14 @@
-0 Roadsign Clip-on  2.2 x  2.667 Triangular w/ Road Works Pattern
+0 Roadsign Clip-on  2.2 x  2.667 Triangular with Road Works Pattern
 0 Name: 30259p05.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2022-04
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2022-05-09 [OrionP] Updated Description
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30259s01.dat
 0 //
@@ -148,4 +150,4 @@
 4 16 0.9 -2.2 -9 0.475 -1.175 -9 0.665 0.535 -9 0.95 1.58 -9
 4 16 1.7 -4.8 -9 0.9 -2.2 -9 0.95 1.58 -9 2.4 -5.2 -9
 3 16 2.4 -5.2 -9 0.95 1.58 -9 2.8 -5.2 -9
-0 //
+

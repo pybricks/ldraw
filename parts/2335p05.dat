@@ -1,14 +1,16 @@
-0 Flag  2 x  2 Square with Skull and Crossbones Pattern
+0 Flag  2 x  2 with Skull and Crossbones Pattern
 0 Name: 2335p05.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LDRAW_ORG Part UPDATE 2022-04
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS  Jolly Roger, Pirate
+0 !KEYWORDS Set 6242, Bricklink 2335pb030, Jolly Roger, Pirate
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2022-05-09 [OrionP] Updated Description
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2335s01.dat
 

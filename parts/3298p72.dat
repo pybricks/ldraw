@@ -1,12 +1,16 @@
-0 Slope Brick 33  3 x  2 with Red "2" over Two Green Stripes Patt.
+0 Slope Brick 33  3 x  2 with Red "2" over Two Green Stripes Pattern
 0 Name: 3298p72.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LDRAW_ORG Part UPDATE 2022-04
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
+0 !KEYWORDS Bricklink 3298pb011, Set 6335, Set 6467, Set 9730, Set 4176, Set 5398
+
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
+0 !HISTORY 2022-06-22 [Philo] Updated description, added keywords
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3298s01.dat
 0 // Black border

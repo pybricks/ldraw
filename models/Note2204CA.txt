@@ -1,0 +1,409 @@
+ldraw.org Parts Update 2022-04
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Tue Jul 19 03:44:42 2022 by the Parts Tracker.
+
+Release statistics:
+   Total files: 786
+   New files: 631
+   New parts: 391
+   New subparts: 204
+   New primitives: 20
+   New lo-res primitives: 1
+   New hi-res primitives: 15
+
+New 3-digit part numbers assigned:
+   448.dat Container Storage Box 24 x 40
+
+Moved Parts
+   3660.DAT                   ~Moved to 3660a
+   3660P01.DAT                ~Moved to 3660bp01
+   3660P02.DAT                ~Moved to 3660bp02
+   3660P03.DAT                ~Moved to 3660bp03
+   3660S01.DAT                ~Moved to s\3660as01
+   464S01.DAT                 ~Moved to s\42022s01
+   S10.DAT                    ~Moved to 820671a
+
+Renamed Parts
+   10049P01.DAT               Minifig Shield Broad w/ Spiked Bottom, Cutout Corner, Hand Pat.
+   changed to    Minifig Shield Broad with Spiked Bottom, Cutout Corner with White Handprint Pattern
+
+   11459P01.DAT               Minifig Plunger with Medium Nougat Handle
+   changed to    Minifig Plunger with Medium Nougat Handle Pattern
+
+   13548.DAT                  Slope Brick 45  2 x  2 Double Convex with Cant
+   changed to    Slope Brick 45  2 x  2 Double Convex with 45 Corner
+
+   13808P01.DAT               Minifig Saxophone with Black Mouthpiece
+   changed to    Minifig Saxophone with Black Mouthpiece Pattern
+
+   15068P03.DAT               Slope Brick Curved  2 x  2 x  0.667 with Arctic 2014 Logo (White on Dark Blue)
+   changed to    Slope Brick Curved  2 x  2 x  0.667 with Arctic 2014 Logo (White on Dark Blue) Pattern
+
+   15068P06.DAT               Slope Brick Curved  2 x  2 with Dark Blue Stripe Pattern
+   changed to    Slope Brick Curved  2 x  2 x  0.667 with Dark Blue Stripe Pattern
+
+   15068P07.DAT               Slope Brick Curved  2 x  2 with White Racing Stripes Pattern
+   changed to    Slope Brick Curved  2 x  2 x  0.667 with White Racing Stripes Pattern
+
+   15068PZ0.DAT               Slope Brick Curved  2 x  2 with SW Storm Trooper Breathing Mask Pattern
+   changed to    Slope Brick Curved  2 x  2 x  0.667 with SW Storm Trooper Breathing Mask Pattern
+
+   16178P01.DAT               Minifig Construction Helmet with Dark Brown Hair Ponytail
+   changed to    Minifig Construction Helmet with Dark Brown Hair Ponytail Pattern
+
+   20695P01.DAT               Minifig Headdress Pumpkin Carved with Green Stalk
+   changed to    Minifig Headdress Pumpkin Carved with Green Stalk Pattern
+
+   2335P05.DAT                Flag  2 x  2 Square with Skull and Crossbones Pattern
+   changed to    Flag  2 x  2 with Skull and Crossbones Pattern
+
+   2335P31.DAT                Flag  2 x  2 Square with Crossed Cannons over Red Stripes, Black Outline Pattern
+   changed to    Flag  2 x  2 with Crossed Cannons over Red Stripes, Black Outline Pattern
+
+   2335P32.DAT                Flag  2 x  2 Square with Crossed Cannons and Crown over Red Stripes Pattern
+   changed to    Flag  2 x  2 with Crossed Cannons and Crown over Red Stripes Pattern
+
+   2335P45.DAT                Flag  2 x  2 Square with Lion Gold on Blue Shield Pattern
+   changed to    Flag  2 x  2 with Lion Gold on Blue Shield Pattern
+
+   2340D01.DAT                Tail  4 x  1 x  3 with Stickers with Blue and White "JAMSTEC" Logo
+   changed to    Tail  4 x  1 x  3 with Blue and White "JAMSTEC" Logo Stickers
+
+   2431PW0.DAT                Tile  1 x  4 with "Keep Out" Sign
+   changed to    Tile  1 x  4 with "Keep Out" Sign Pattern
+
+   2437.DAT                   Windscreen  3 x  4 x  1 & 1/3
+   changed to    Windscreen  3 x  4 x  1.333
+
+   2440P01.DAT                Hinge  6 x  3 Radar with Yellow  4 and Red/Yellow Stripes Patt.
+   changed to    Hinge  6 x  3 Radar with Yellow "4" and Red/Yellow Stripes Pattern
+
+   2507.DAT                   Windscreen 10 x  4 x  2 & 1/3 Canopy
+   changed to    Windscreen 10 x  4 x  2.333 Canopy
+
+   2536C01.DAT                _Plant Tree Palm  6 Seg. Brown w/ Large Leaves Green (Complete)
+   changed to    ~_Plant Tree Palm with 7-Segmented Trunk Brown and Large Leaves Green (Obsolete)
+
+   2582.DAT                   Hinge Panel  2 x  4 x  3 & 1/3 
+   changed to    Hinge Panel  2 x  4 x  3.333 
+
+   25893.DAT                  Plate  1 x  1 Round with Horizontal Handle Below
+   changed to    ~Plate  1 x  1 Round with Horizontal Handle Below (Obsolete)
+
+   2698P04.DAT                Technic Action Figure Torso with Snowflake Logo and Red Stripes
+   changed to    Technic Action Figure Torso with Snowflake Logo and Red Stripes Pattern
+
+   2698P05.DAT                Technic Action Figure Torso with Jacket with Four Pockets
+   changed to    Technic Action Figure Torso with Jacket with Four Pockets Pattern
+
+   28974.DAT                  Bracket  1 x  1 -  1 x  1 Thick with Stud Hole
+   changed to    ~Bracket  1 x  1 -  1 x  1 Thick with Stud Hole (Obsolete)
+
+   3001D01.DAT                Brick  2 x  4 with Sticker  1.1 x  3.6 with Black/Red/Blue Badge and "POLICE" Right
+   changed to    Brick  2 x  4 with Black/Red/Blue Badge and "POLICE" Right Sticker
+
+   3001D02.DAT                Brick  2 x  4 with Sticker  1.1 x  3.6 with Black/Red/Blue Badge and "POLICE" Left
+   changed to    Brick  2 x  4 with Black/Red/Blue Badge and "POLICE" Left Sticker
+
+   30259D01.DAT               Roadsign Clip-on  2 x  2.667 Triangular w/ Sticker Traffic Light
+   changed to    Roadsign Clip-on  2.2 x  2.667 Triangular with Traffic Light Sticker 
+
+   30259P04.DAT               Roadsign Clip-on  2.2 x  2.667 Triangular w/ Traffic Light Patt.
+   changed to    Roadsign Clip-on  2.2 x  2.667 Triangular with Traffic Light Pattern
+
+   30259P05.DAT               Roadsign Clip-on  2.2 x  2.667 Triangular w/ Road Works Pattern
+   changed to    Roadsign Clip-on  2.2 x  2.667 Triangular with Road Works Pattern
+
+   30259P06.DAT               Roadsign Clip-on  2.2 x  2.667 Triangular w/ Narrow Road Pattern
+   changed to    Roadsign Clip-on  2.2 x  2.667 Triangular with Narrow Road Pattern
+
+   3039P75.DAT                Slope Brick 45  2 x  2 with Red/White "5" and White Stripe Patt
+   changed to    Slope Brick 45  2 x  2 with Red/White "5" and White Stripe Pattern
+
+   3069BP85.DAT               Tile 1 x 2 with LCI-HLC Boarding Pass Pattern
+   changed to    Tile  1 x  2 with LCI-HLC Boarding Pass Pattern
+
+   32558.DAT                  Technic Bionicle Weapon Flame  2 x 12
+   changed to    Constraction Flame  2 x 12 
+
+   3298P72.DAT                Slope Brick 33  3 x  2 with Red "2" over Two Green Stripes Patt.
+   changed to    Slope Brick 33  3 x  2 with Red "2" over Two Green Stripes Pattern
+
+   3351AP10.DAT               Roadsign Triangular Type 1 with Road Works, 2 Piles Type 1 Patt.
+   changed to    Roadsign Triangular Type 1 with Road Works with 2 Piles (Thick Worker) Pattern
+
+   3351AP11.DAT               Roadsign Triangular Type 1 with Road Works, 2 Piles Type 2 Patt.
+   changed to    Roadsign Triangular Type 1 with Road Works with 2 Piles (Thin Worker) Pattern
+
+   35459.DAT                  Plate  1 x  3 Inverted with Bar Hole
+   changed to    Tile  1 x  3 Inverted with Bar Hole
+
+   3626BP62.DAT               Minifig Head with Ice Planet Messy White Hair
+   changed to    Minifig Head with Ice Planet Messy White Hair Pattern
+
+   3626BP81.DAT               Minifig Head Lefty Mouth and Stubble Pattern
+   changed to    Minifig Head with Lefty Mouth and Stubble Pattern
+
+   3626BP87.DAT               Minifig Head Glasses, Thin Brown Eyebrows, Smile Pattern (Hollow Stud with Pierced Base)
+   changed to    Minifig Head with Glasses, Thin Brown Eyebrows, Smile Pattern (Hollow Stud)
+
+   3626BP88.DAT               Minifig Head Grin, Brown Beard, White Pupils Pattern (Hollow Stud with Pierced Base)
+   changed to    Minifig Head with Grin, Brown Beard, White Pupils Pattern (Hollow Stud)
+
+   3626BP8B.DAT               Minifig Head Brown Eyebrows, Freckles, Open Smile Pattern (Hollow Stud with Pierced Base)
+   changed to    Minifig Head with Brown Eyebrows, Freckles, Open Smile Pattern (Hollow Stud)
+
+   3626BPAO.DAT               Minifig Head w/ Big Eyes, Curved Eyebrows, Orange Mouth Pattern
+   changed to    Minifig Head with Big Eyes, Curved Eyebrows, Orange Mouth Pattern
+
+   3626BPC21.DAT              Minifig Head with Thick Black Moustache and Eyebrows, Grin with Teeth
+   changed to    Minifig Head with Thick Black Moustache and Eyebrows, Grin with Teeth Pattern
+
+   3626CP87.DAT               Minifig Head Glasses, Thin Brown Eyebrows, Smile Pattern (Hollow Stud)
+   changed to    Minifig Head with Glasses, Thin Brown Eyebrows, Smile Pattern (Closed Hollow Stud)
+
+   3626CP88.DAT               Minifig Head Grin, Brown Beard, White Pupils Pattern (Hollow Stud)
+   changed to    Minifig Head with Grin, Brown Beard, White Pupils Pattern (Closed Hollow Stud)
+
+   3626CP8B.DAT               Minifig Head Brown Eyebrows, Freckles, Open Smile Pattern (Hollow Stud)
+   changed to    Minifig Head with Brown Eyebrows, Freckles, Open Smile Pattern (Hollow Stud)
+
+   3626CP8J.DAT               Minifig Head Open Smile with Teeth / Eyebrows, Scared 2-Sided Pattern
+   changed to    Minifig Head with Open Smile with Teeth / Eyebrows, Scared 2-Sided Pattern
+
+   3626CP8S.DAT               Minifig Head Black Eyebrows, Freckles, Smile / Worried 2-Sided Pattern
+   changed to    Minifig Head with Black Eyebrows, Freckles, Smile / Worried 2-Sided Pattern
+
+   3626CP8T.DAT               Minifig Head White Bushy Eyebrows, Goatee, Wrinkles, Smile / Open Mouth Scared 2-Sided Pattern
+   changed to    Minifig Head with White Bushy Eyebrows, Goatee, Wrinkles, Smile / Open Mouth Scared 2-Sided Pattern
+
+   3626CP8W.DAT               Minifig Head Black Eyebrows, White Pupils, Scared / Lopside Smile 2-Sided Pattern
+   changed to    Minifig Head with Black Eyebrows, White Pupils, Scared / Lopside Smile 2-Sided Pattern
+
+   3626CPD63.DAT              Minifig Head Bright Pink Headband with White Squinted Batman Eyes Pattern 
+   changed to    Minifig Head with Bright Pink Headband with White Squinted Batman Eyes Pattern 
+
+   3626CPD64.DAT              Minifig Head Reddish Brown Headband with Squinted Batman Eyes, Sad Mouth Pattern 
+   changed to    Minifig Head with Reddish Brown Headband with Squinted Batman Eyes, Sad Mouth Pattern 
+
+   3626CPD85.DAT              Minifig Head Black Headband with White Batman Eyes, Broad Smile Showing Teeth Pattern 
+   changed to    Minifig Head with Black Headband with White Batman Eyes, Broad Smile Showing Teeth Pattern 
+
+   3626CPD8K.DAT              Minifig Head Black Eye Mask with White Eye Holes and Dark Brown Cheek Lines Pattern
+   changed to    Minifig Head with Black Eye Mask with White Eye Holes and Dark Brown Cheek Lines Pattern
+
+   3626CPS0.DAT               Minifig Head SW Jawa, Yellow Eyes with Orange Rim Pattern
+   changed to    Minifig Head with SW Jawa, Yellow Eyes with Orange Rim Pattern
+
+   3846P4L.DAT                Minifig Shield Triangular w/ Gold Lion on Red/White Quart. Patt.
+   changed to    Minifig Shield Triangular with Gold Lion on Red/White Quarters Pattern
+
+   3960PV1.DAT                Dish  4 x  4 Inverted with Viking DkRed Yellow Rune Shield Pat.
+   changed to    Dish  4 x  4 Inverted with Viking Dark Red and Yellow Rune Shield Pattern
+
+   42918P01.DAT               Slope Brick Curved  8 x  2 with Blue Stripe on Top Surface 
+   changed to    Slope Brick Curved  8 x  2 with Dark Blue Stripe on Top Surface Pattern
+
+   4346P01.DAT                Container Box  2 x  2 x  2 Door with Fire Logo Red/Orange/Yellow
+   changed to    Container Box  2 x  2 x  2 Door with Fire Logo Red/Orange/Yellow Pattern
+
+   4346P02.DAT                Container Box  2 x  2 x  2 Door with Fire Logo Yellow/Orange/Red
+   changed to    Container Box  2 x  2 x  2 Door with Fire Logo Yellow/Orange/Red Pattern
+
+   4735.DAT                   Brick  1 x  1 x   2/3 Round with Bar and Clip Vertical
+   changed to    Brick  1 x  1 x  0.667 Round with Bar and Clip Vertical
+
+   476.DAT                    Bar 12L with Hollow Studs, Towball, and Slit
+   changed to    Bar 12L with Hollow Studs, Towball and Slit
+
+   4858P01.DAT                Wedge  4 x  4 with Blacktron I Logo
+   changed to    Wedge  4 x  4 with Blacktron I Logo Pattern
+
+   4864BP71.DAT               Panel  1 x  2 x  2 with Phone in White Circle and Lines Patt.
+   changed to    Panel  1 x  2 x  2 with Phone in White Circle and Lines Pattern
+
+   4867P14.DAT                Wedge  4 x  4 with Tail Plane with Cargo and Green/Blue Stripes Pattern
+   changed to    Tail Plane with Cargo and Green/Blue Stripes Pattern
+
+   50747PS0.DAT               Windscreen  6 x  6 x  3 Dome Hinge Locking with SW Gunship Patt.
+   changed to    Windscreen  6 x  6 x  3 Dome Hinge Locking with SW Republic Attack Gunship Pattern
+
+   50955P01.DAT               Wedge 10 x  3 x  1 Double Rounded Left with Red Stripe
+   changed to    Wedge 10 x  3 x  1 Double Rounded Left with Red Stripe Pattern
+
+   50956P01.DAT               Wedge 10 x  3 x  1 Double Rounded Right with Red Stripe
+   changed to    Wedge 10 x  3 x  1 Double Rounded Right with Red Stripe Pattern
+
+   54200D01.DAT               Slope Brick 31  1 x  1 with Sticker  1.1 x  0.9 with Twin Exhaust Pipes Right
+   changed to    Slope Brick 31  1 x  1 x 0.667 with Twin Exhaust Pipes Right Sticker
+
+   54200D02.DAT               Slope Brick 31  1 x  1 with Sticker  1.1 x  0.9 with Twin Exhaust Pipes Left
+   changed to    Slope Brick 31  1 x  1 x 0.667 with Twin Exhaust Pipes Left Sticker
+
+   54200D03.DAT               Slope Brick 31  1 x  1 with White Rounded Corners Sticker 
+   changed to    Slope Brick 31  1 x  1 x 0.667 with White Rounded Corners Sticker 
+
+   54200DY0.DAT               Slope Brick 31  1 x  1 with Dark Gray Exhaust Pipe on Black and Yellow Background Right Sticker 
+   changed to    Slope Brick 31  1 x  1 x 0.667 with Dark Gray Exhaust Pipe on Black and Yellow Background Right Sticker 
+
+   54200DY1.DAT               Slope Brick 31  1 x  1 with Dark Gray Exhaust Pipe on Black and Yellow Background Left Sticker 
+   changed to    Slope Brick 31  1 x  1 x 0.667 with Dark Gray Exhaust Pipe on Black and Yellow Background Left Sticker 
+
+   54200DY2.DAT               Slope Brick 31  1 x  1 with Black Headlamp on Yellow Background Right Sticker 
+   changed to    Slope Brick 31  1 x  1 x 0.667 with Black Headlamp on Yellow Background Right Sticker 
+
+   54200DY3.DAT               Slope Brick 31  1 x  1 with Black Headlamp on Yellow Background Left Sticker 
+   changed to    Slope Brick 31  1 x  1 x 0.667 with Black Headlamp on Yellow Background Left Sticker 
+
+   56890.DAT                  Tyre 12/ 57 x 10 Balloon
+   changed to    Tyre 12/ 61 x 11 Balloon
+
+   57028A.DAT                 Technic Competition Arrow with Hollow Rubber Black Tip
+   changed to    ~Technic Competition Arrow with Hollow Rubber Black Tip (Obsolete)
+
+   57028B.DAT                 Technic Competition Arrow with Hollow Rubber Lime Tip
+   changed to    ~Technic Competition Arrow with Hollow Rubber Lime Tip (Obsolete)
+
+   57028C.DAT                 Technic Competition Arrow with Hollow Rubber Grey Tip
+   changed to    ~Technic Competition Arrow with Hollow Rubber Grey Tip (Obsolete)
+
+   57028D.DAT                 Technic Competition Arrow with Hollow Rubber Yellow Tip
+   changed to    ~Technic Competition Arrow with Hollow Rubber Yellow Tip (Obsolete)
+
+   57518.DAT                  Technic Chain Tread 38
+   changed to    Technic Chain Tread 5 Wide
+
+   57518C01.DAT               Technic Chain Tread 38 with Red Rubber Foot
+   changed to    Technic Chain Tread 5 Wide with Red Rubber Foot
+
+   57901P01.DAT               Minifig Head Nautolan, Black Eyes & Mouth, Brown Tentacle Bands
+   changed to    Minifig Head Nautolan with Black Eyes & Mouth and Brown Tentacle Bands Pattern
+
+   6082P01.DAT                Panel  4 x 10 x  6 Rock Rectangular with Blended DkGreen Base
+   changed to    Panel  4 x 10 x  6 Rock Rectangular with Blended Dark Green Base Pattern
+
+   64424.DAT                  ~Train Buffer Beam for Sealed Magnet
+   changed to    ~Train Buffer Beam with Open Buffer Bottom and Long Cylinder for Sealed Magnet (Type 1)
+
+   64424C01.DAT               Train Buffer Beam for Sealed Magnet with Screw
+   changed to    ~Train Buffer Beam with Open Buffer Bottom and Long Cylinder for Sealed Magnet with Screw (Type 1)
+
+   64452P02.DAT               Animal Cow with Black Spots and Black Head with White Blaze 
+   changed to    Animal Cow with Black Spots and Black Head with White Blaze Pattern
+
+   75902P04.DAT               Minifig Shield Round Bowed with Mercedes-Benz Logo
+   changed to    Minifig Shield Round Bowed with Mercedes-Benz Logo Pattern
+
+   88323.DAT                  Technic Chain Tread 38 Reinforced
+   changed to    Technic Chain Tread 5 Wide Reinforced
+
+   88323C01.DAT               Technic Chain Tread 38 Reinforced with Single Black Rubber Foot Right
+   changed to    Technic Chain Tread 5 Wide Reinforced with Single Black Rubber Foot Right
+
+   88323C02.DAT               Technic Chain Tread 38 Reinforced with Single Black Rubber Foot Left
+   changed to    Technic Chain Tread 5 Wide Reinforced with Single Black Rubber Foot Left
+
+   88323C03.DAT               Technic Chain Tread 38 Reinforced with 2 Black Rubber Feet
+   changed to    Technic Chain Tread 5 Wide Reinforced with 2 Black Rubber Feet
+
+   88323C04.DAT               Technic Chain Tread 38 Reinforced with Single Orange Rubber Foot Right
+   changed to    Technic Chain Tread 5 Wide Reinforced with Single Orange Rubber Foot Right
+
+   88323C05.DAT               Technic Chain Tread 38 Reinforced with Single Orange Rubber Foot Left
+   changed to    Technic Chain Tread 5 Wide Reinforced with Single Orange Rubber Foot Left
+
+   88323C06.DAT               Technic Chain Tread 38 Reinforced with 2 Orange Rubber Feet
+   changed to    Technic Chain Tread 5 Wide Reinforced with 2 Orange Rubber Feet
+
+   973P57.DAT                 Minifig Torso with Insectoids with Silver Logo on Black Panels
+   changed to    Minifig Torso with Insectoids with Silver Logo on Black Panels Pattern
+
+   973P59.DAT                 Minifig Torso with Insectoids with Silver X on Green Verniers
+   changed to    Minifig Torso with Insectoids with Silver X on Green Verniers Pattern
+
+   973P6K.DAT                 Minifig Torso with Insectoids with Green Circuitry & Silver Hose on Sides
+   changed to    Minifig Torso with Insectoids with Green Circuitry & Silver Hose on Sides Pattern
+
+   973P7J.DAT                 Minifig Torso with Hooded Sweatshirt/Blue Pocket/Drawstring Patt
+   changed to    Minifig Torso with Hooded Sweatshirt with Blue Pocket and Drawstring Pattern
+
+   973P87.DAT                 Minifig Torso with Shirt, Pink/Salmon Tie and ID Badge
+   changed to    Minifig Torso with Shirt, Pink/Salmon Tie and ID Badge Pattern
+
+   973P88.DAT                 Minifig Torso with Dress, White Apron and Red Beads Necklace
+   changed to    Minifig Torso with Dress, White Apron and Red Beads Necklace Pattern
+
+   973PRI.DAT                 Minifig Torso SW Jawa with Dark Brown Pouches and Black and Tan Straps
+   changed to    Minifig Torso SW Jawa with Dark Brown Pouches and Black and Tan Straps Pattern
+
+   973PWF.DAT                 Minifig Torso with White/Red Armour and White Belt
+   changed to    Minifig Torso with White/Red Armour and White Belt Pattern
+
+   98138PB7.DAT               Tile  1 x  1 Round with Black Circle and Bright Green Green Lantern Logo
+   changed to    Tile  1 x  1 Round with Black Circle and Bright Green Green Lantern Logo Pattern
+
+   98384P01.DAT               Minifig Head Robot with Blue Eyes and Red/Yellow Teeth Display
+   changed to    Minifig Head Robot with Blue Eyes and Red/Yellow Teeth Display Pattern
+
+   25126S01.DAT               ~Minifig Baby Body without Hands and Torso Front
+   changed to    ~Obsolete
+
+   25126S02.DAT               ~Minifig Baby Body Hand
+   changed to    ~Obsolete
+
+   25126S03.DAT               ~Minifig Baby Body Half
+   changed to    ~Obsolete
+
+   56890S01.DAT               ~Tyre 12/ 57 x 10 Balloon - Quarter
+   changed to    ~Tyre 12/ 61 x 11 Balloon - Tread Section
+
+   57028S02.DAT               ~Technic Competition Arrow with Rubber End, 1/4 End
+   changed to    ~Technic Competition Arrow with Rubber End, 1/4 End (Obsolete)
+
+   57518S01.DAT               ~Technic Chain Tread 38
+   changed to    ~Technic Chain Tread 5 Wide
+
+   73839A.DAT                 ~Axle Thread
+   changed to    ~Technic Axle Threaded Segment
+
+   93589S01.DAT               ~Slope Brick Curved Tapered  4 x  2 on Plate  1 x  4
+   changed to    ~Slope Brick Curved Tapered  4 x  2 on Plate  1 x  4 without Pattern Surfaces
+
+Other Fixed Parts
+   CLIP7.DAT                  Clip for Round Arm  4 LDU
+   2341.DAT                   Slope Brick 45  3 x  1 Inverted Double without Inner Stopper Rings
+   2566.DAT                   Plant Tree Palm Top
+   3004P13.DAT                Brick  1 x  2 with Telephone Pattern
+   30219.DAT                  Bar 16L with Hollow Studs, Towball and Slit
+   30259.DAT                  Roadsign Clip-on  2.2 x  2.667 Triangular
+   3068BP09.DAT               Tile  2 x  2 with Transport Text on Crate Pattern
+   3068BP11.DAT               Tile  2 x  2 with Launch Command Logo Pattern
+   3705C01.DAT                Technic Axle  4 Threaded
+   3737C01.DAT                Technic Axle 10 Threaded
+   4066BP0M.DAT               Duplo Brick  1 x  2 x  2 with Three Books, "123", "ABC" and "4" Pattern
+   4150P03.DAT                Tile  2 x  2 Round with Clock Pattern
+   42022.DAT                  Slope Brick Curved  6 x  1
+   54200.DAT                  Slope Brick 31  1 x  1 x  0.667
+   54200PC1.DAT               Slope Brick 31  1 x  1 x  0.667 with 1 Yellow and 8 White Squares Pattern
+   54200PY0.DAT               Slope Brick 31  1 x  1 x  0.667 with 30 Silver Dots Pattern
+   564C01.DAT                 Electric Motor  4 x 12 x  3.333 Type 1  4.5V
+   60483.DAT                  Technic Beam  2 Liftarm
+   73090B.DAT                 Brick  2 x  6 x  2 Weight with Plate Bottom
+   87613.DAT                  Plane Front  6 x 10 x  4
+   93589.DAT                  Slope Brick Curved Tapered  4 x  2 on Plate  1 x  4
+   973P1Q.DAT                 Minifig Torso with Launch Command Logo and Equipment Pattern
+   973P8J.DAT                 Minifig Torso with Town Vest with Pockets and Striped Tie Pattern
+   973PT2.DAT                 Minifig Torso with Octan Logo Pattern
+   15068S01.DAT               ~Slope Brick Curved  2 x  2 x  0.667 without Top Surface
+   15625S01.DAT               ~Slope Brick Curved  5 x  8 x  0.667 without Top Surface
+   26559S01.DAT               ~Train Track Roller Coaster Ramp  4 x 16 x  6 S-Shape Lower Rail
+   26561S01.DAT               ~Train Track Roller Coaster Ramp  4 x  8 x  6 Straight Rail
+   30259S01.DAT               ~Roadsign Clip-on  2.2 x  2.667 Triangular without Front Face
+   3044BS01.DAT               ~Slope Brick 45  2 x  1 Double Without Front Faces
+   4865P01B.DAT               ~Pattern Train Logo - Background
+   4865P01C.DAT               ~Pattern Train Logo - Foreground
+   87613S01.DAT               ~Plane Front  6 x 10 x  4 - Half

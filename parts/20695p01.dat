@@ -1,7 +1,7 @@
-0 Minifig Headdress Pumpkin Carved with Green Stalk
+0 Minifig Headdress Pumpkin Carved with Green Stalk Pattern
 0 Name: 20695p01.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Shortcut UPDATE 2020-01
+0 !LDRAW_ORG Part UPDATE 2022-04
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -14,6 +14,8 @@
 0 !HISTORY 2017-07-04 [ejboer] File preparation for LDraw Parts Tracker
 0 !HISTORY 2018-07-28 [MagFors] Separated into parts
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+0 !HISTORY 2022-06-22 [Philo] Updated description
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 20693.dat
 1  2 0 0 0 1 0 0 0 1 0 0 0 1 20694.dat

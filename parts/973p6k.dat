@@ -1,14 +1,16 @@
-0 Minifig Torso with Insectoids with Green Circuitry & Silver Hose on Sides
+0 Minifig Torso with Insectoids with Green Circuitry & Silver Hose on Sides Pattern
 0 Name: 973p6k.dat
 0 Author: Mikkel Bech Jensen [gaia]
-0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LDRAW_ORG Part UPDATE 2022-04
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Space, Set 6977
+0 !KEYWORDS Space, Set 6977, Bricklink 973pb0200
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+0 !HISTORY 2022-06-22 [Philo] Updated description, added keywords
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
 0 // Subfile
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat

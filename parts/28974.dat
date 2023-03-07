@@ -1,14 +1,16 @@
-0 Bracket  1 x  1 -  1 x  1 Thick with Stud Hole
+0 ~Bracket  1 x  1 -  1 x  1 Thick with Stud Hole (Obsolete)
 0 Name: 28974.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2019-02
+0 !LDRAW_ORG Part UPDATE 2022-04
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS minifig neckwear
+0 !KEYWORDS Minifig Neckwear
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+0 !HISTORY 2022-01-17 [OrionP] Made obsolete. Replace with 28974a.dat
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
 1 16 0 10 -14 0 0 1 1 0 0 0 1 0 stud2.dat
 

@@ -1,0 +1,14 @@
+0 Hi-Res Cylinder 0.375
+0 Name: 48\3-8cylo.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG 48_Primitive UPDATE 2022-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-05-21 [MagFors] Used all primitives
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 48\3-8cyli.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 48\3-8edge.dat
+1 16 0 1 0 1 0 0 0 1 0 0 0 1 48\3-8edge.dat

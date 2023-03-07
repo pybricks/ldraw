@@ -1,7 +1,7 @@
-0 Wedge  4 x  4 with Tail Plane with Cargo and Green/Blue Stripes Pattern
+0 Tail Plane with Cargo and Green/Blue Stripes Pattern
 0 Name: 4867p14.dat
 0 Author: Tim Lampmann [L4mpi]
-0 !LDRAW_ORG Part UPDATE 2022-02
+0 !LDRAW_ORG Part UPDATE 2022-04
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Bricklink 4867pb02, Set 6330
 
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
+0 !HISTORY 2022-05-09 [OrionP] Updated Description
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4867s01.dat
 

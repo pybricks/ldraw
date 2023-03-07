@@ -1,0 +1,44 @@
+0 | Rotacaster Holonomic Wheel Hub with Axlehole
+0 Name: t1043.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Technic
+0 !KEYWORDS Omniwheel
+
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
+1 16 0 0 0 18 0 0 0 0 18 0 -31 0 4-4cylo.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 12 0 0 0 0 12 0 -25 0 4-4cylo.dat
+1 16 0 0 -35 12 0 0 0 0 12 0 4 0 4-4cyli.dat
+1 16 0 0 -35 12 0 0 0 0 12 0 2 0 4-4edge.dat
+1 16 0 0 -34 1 0 0 0 0 1 0 9 0 axlehole.dat
+1 16 0 0 -25 1 0 0 0 0 1 0 1 0 axlehol2.dat
+1 16 0 0 -35 7 0 0 0 0 7 0 1 0 4-4edge.dat
+1 16 0 0 -34 6 0 0 0 0 6 0 1 0 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 0 -35 1 0 0 0 0 1 0 1 0 4-4con6.dat
+1 16 0 0 -35 1 0 0 0 0 1 0 1 0 4-4ring7.dat
+1 16 0 0 -35 4 0 0 0 0 4 0 1 0 4-4ring2.dat
+1 16 0 0 -25 -6 0 0 0 0 6 0 -1 0 4-4ring1.dat
+1 16 0 0 0 -6 0 0 0 0 6 0 -1 0 4-4ring2.dat
+0 BFC INVERTNEXT
+1 16 0 0 -31 13.5 0 0 0 0 -13.5 0 13.5 0 t02i1111.dat
+0 BFC INVERTNEXT
+1 16 0 0 -31 13.5 0 0 0 0 -13.5 0 13.5 0 t02o1111.dat
+0 BFC INVERTNEXT
+1 16 0 0 -31 -13.5 0 0 0 0 13.5 0 13.5 0 t02i1111.dat
+0 BFC INVERTNEXT
+1 16 0 0 -31 -13.5 0 0 0 0 13.5 0 13.5 0 t02o1111.dat
+1 16 0 0 -31 16.5 0 0 0 0 -16.5 0 -16.5 0 t04i0909.dat
+1 16 0 0 -31 16.5 0 0 0 0 -16.5 0 -16.5 0 t04o0909.dat
+1 16 0 0 -31 0 0 -16.5 -16.5 0 0 0 -16.5 0 t04i0909.dat
+1 16 0 0 -31 0 0 -16.5 -16.5 0 0 0 -16.5 0 t04o0909.dat
+1 16 0 0 -31 -16.5 0 0 0 0 16.5 0 -16.5 0 t04i0909.dat
+1 16 0 0 -31 -16.5 0 0 0 0 16.5 0 -16.5 0 t04o0909.dat
+1 16 0 0 -31 0 0 16.5 16.5 0 0 0 -16.5 0 t04i0909.dat
+1 16 0 0 -31 0 0 16.5 16.5 0 0 0 -16.5 0 t04o0909.dat

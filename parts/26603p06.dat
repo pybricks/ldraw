@@ -1,0 +1,40 @@
+0 Tile  2 x  3 with 150 Dark Bluish Grey Squares Pattern
+0 Name: 26603p06.dat
+0 Author: N. W. Perry [Plastikean]
+0 !LDRAW_ORG Part UPDATE 2022-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 21057, Singapore
+0 !KEYWORDS Bricklink 26603pb209, Rebrickable 26603pr0066
+
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\26603s01.dat
+
+1 16 24 0 16 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 12 0 16 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 0 0 16 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 -12 0 16 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 -24 0 16 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 24 0 8 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 12 0 8 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 0 0 8 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 -12 0 8 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 -24 0 8 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 24 0 0 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 12 0 0 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 -12 0 0 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 -24 0 0 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 24 0 -8 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 12 0 -8 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 0 0 -8 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 -12 0 -8 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 -24 0 -8 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 24 0 -16 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 12 0 -16 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 0 0 -16 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 -12 0 -16 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat
+1 16 -24 0 -16 1 0 0 0 1 0 0 0 1 s\26603p06s01.dat

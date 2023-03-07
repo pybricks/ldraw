@@ -1,7 +1,7 @@
-0 ~Slope Brick Curved Tapered  4 x  2 on Plate  1 x  4
+0 ~Slope Brick Curved Tapered  4 x  2 on Plate  1 x  4 without Pattern Surfaces
 0 Name: s\93589s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
+0 !LDRAW_ORG Subpart UPDATE 2022-04
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !HISTORY 2013-10-05 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2013-10-05 [MagFors] File preparation for LDraw Parts Tracker
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+0 !HISTORY 2018-02-28 [Sirio] Modification for front pattern
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
 1 16 20 26.75 -30 1 0 0 0 -1.3125 0 0 0 1 stud3.dat
 1 16 -20 26.75 -30 1 0 0 0 -1.3125 0 0 0 1 stud3.dat
@@ -51,8 +53,10 @@
 1 16 -10 2.75 22 1.625 0 0 0 5.25 0 0 0 2 box4-1.dat
 1 16 30 24 -30 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 -30 24 -30 0 0 1 0 1 0 -1 0 0 stud.dat
-1 16 27.2555 28 -30 0 0 12.7445 -4 0 0 0 -10 0 box2-5.dat
-1 16 -27.2555 28 -30 0 0 -12.7445 4 0 0 0 -10 0 box2-5.dat
+1 16 -40 28 -30 0 1 0 -4 0 0 0 0 10 rect.dat
+1 16 40 28 -30 0 -1 0 4 0 0 0 0 10 rect.dat
+1 16 -27.2555 28 -40 0 0 12.7445 4 0 0 0 1 0 recte3.dat
+1 16 27.2555 28 -40 0 0 -12.7445 -4 0 0 0 1 0 recte3.dat
 1 16 0 23.1305 -38.5145 1.625 0 0 0 8.8695 0 0 0 2.2645 box2-7.dat
 2 24 19.702 8 20 15.925 8 20
 2 24 -15.925 8 20 -19.702 8 20
@@ -71,7 +75,6 @@
 3 16 13.335 24 -20 17.13 24 -20 40 32 -20
 3 16 -40 32 -20 -17.13 24 -20 -13.335 24 -20
 4 16 -40 32 -20 -13.335 24 -20 13.335 24 -20 40 32 -20
-
 0 // unedited, but used Rectifier
 1 16 0 4 40 20 0 0 0 0 4 0 -1 0 rect.dat
 4 16 17.738 4.619 -13.698 17.13 24 -20 18.779 24 0 18.523 2.997 -3.839

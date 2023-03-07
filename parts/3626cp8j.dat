@@ -1,17 +1,18 @@
-0 Minifig Head Open Smile with Teeth / Eyebrows, Scared 2-Sided Pattern
+0 Minifig Head with Open Smile with Teeth / Eyebrows, Scared 2-Sided Pattern
 0 Name: 3626cp8j.dat
 0 Author: John Troxler [Gargan]
-0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LDRAW_ORG Part UPDATE 2022-04
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Emmet, The Lego Movie, BrickLink 3626cpb1089
+0 !KEYWORDS Emmet, The Lego Movie, BrickLink 3626cpb1089, set 30280, set 70803, set 70810
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+0 !HISTORY 2022-07-11 [MagFors] Update description, added keywords
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
 0 // Head without front or back face
-
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
 1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat

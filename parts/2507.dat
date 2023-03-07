@@ -1,7 +1,7 @@
-0 Windscreen 10 x  4 x  2 & 1/3 Canopy
+0 Windscreen 10 x  4 x  2.333 Canopy
 0 Name: 2507.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LDRAW_ORG Part UPDATE 2022-04
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,6 +12,8 @@
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-05-14 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2022-05-09 [OrionP] Updated Description
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2507s01.dat
 

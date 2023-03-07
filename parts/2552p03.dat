@@ -1,0 +1,15 @@
+0 Baseplate 32 x 32 Raised with Ramp and Pit with Water and Dark Grey Stones Pattern
+0 Name: 2552p03.dat
+0 Author: Alex Taylor [anathema]
+0 !LDRAW_ORG Part UPDATE 2022-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 6276, set 6277, Bricklink 2552px3, Rebrickable 2552pr0005
+
+0 !HISTORY 2021-10-27 [MMR1988] Adapted to the merged subfiles
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2552p04s01.dat
+1 8 0 0 0 1 0 0 0 1 0 0 0 1 s\2552p04s02.dat

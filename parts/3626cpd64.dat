@@ -1,14 +1,16 @@
-0 Minifig Head Reddish Brown Headband with Squinted Batman Eyes, Sad Mouth Pattern 
+0 Minifig Head with Reddish Brown Headband with Squinted Batman Eyes, Sad Mouth Pattern 
 0 Name: 3626cpd64.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LDRAW_ORG Part UPDATE 2022-04
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Lego Batman Movie, Cave Batman, Bricklink 3626cpb1710
+0 !KEYWORDS Lego Batman Movie, Cave Batman, Bricklink 3626cpb1710, set 71017
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+0 !HISTORY 2022-07-11 [MagFors] Update description, added keywords
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 12.0104 0 4.9749 0 13 0 -4.9749 0 12.0104 5-8cyli.dat

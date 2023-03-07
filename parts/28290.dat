@@ -1,0 +1,15 @@
+0 =Tyre 12/ 61 x 11 Balloon
+0 Name: 28290.dat
+0 Author: Santeri Piippo [arezey]
+0 !LDRAW_ORG Part Alias UPDATE 2022-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 24 x 12 R, rim 6014a, rim 6014b, rim 30190
+
+0 !HISTORY 2020-03-07 [MagFors] Moved data from Arezey to 56890
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
+0 // Alias of part 56890
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 56890.dat

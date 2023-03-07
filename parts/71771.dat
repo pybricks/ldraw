@@ -1,0 +1,21 @@
+0 Slope Brick Curved  5 x  8 x  0.667 without Studs
+0 Name: 71771.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2022-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\71771s01.dat
+
+0 // Top
+4 16 80 11 -90 80 6 -70 -80 6 -70 -80 11 -90
+4 16 80 6 -70 80 2.5 -50 -80 2.5 -50 -80 6 -70
+4 16 80 2.5 -50 80 .5 -30 -80 .5 -30 -80 2.5 -50
+4 16 80 .5 -30 80 0 -10 -80 0 -10 -80 .5 -30
+5 24 80 6 -70 -80 6 -70 80 11 -90 80 2.5 -50
+5 24 80 2.5 -50 -80 2.5 -50 80 6 -70 80 .5 -30
+5 24 80 .5 -30 -80 .5 -30 80 2.5 -50 80 0 -10
+5 24 40 0 -10 -40 0 -10 40 .5 -30 40 0 10

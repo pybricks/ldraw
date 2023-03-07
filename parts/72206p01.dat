@@ -1,0 +1,16 @@
+0 Wheel 11 x 24 with Integral Rubber Black Tyre
+0 Name: 72206p01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2022-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 24 x 12, Speed Champions, Racing, cheater slicks
+0 !KEYWORDS Wheel Rim 20 x 11 with Drilled Disc Brake
+0 !KEYWORDS Tyre 11/ 18 x 20 Smooth with Racing Tread
+
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\72206s01.dat
+1 256 0 0 0 1 0 0 0 1 0 0 0 1 s\72206s02.dat

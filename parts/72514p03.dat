@@ -1,0 +1,17 @@
+0 Belville Crown Small with Chrome Pink Pattern
+0 Name: 72514p03.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2022-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !CATEGORY Figure Accessory
+
+0 !KEYWORDS set 7580, set 7582, set 5832, set 5843
+
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\72514s01.dat
+1 63 0 0 0 1 0 0 0 1 0 0 0 1 s\72514s02.dat
+1 63 0 0 0 -1 0 0 0 1 0 0 0 1 s\72514s02.dat

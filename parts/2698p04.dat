@@ -1,12 +1,16 @@
-0 Technic Action Figure Torso with Snowflake Logo and Red Stripes
+0 Technic Action Figure Torso with Snowflake Logo and Red Stripes Pattern
 0 Name: 2698p04.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LDRAW_ORG Part UPDATE 2022-04
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS Set 8620, Set 8660
+
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2022-06-22 [Philo] Updated description, added keywords
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2698s01.dat
 1 16 -15 -46 0 0 -4 0 8.48528 0 -8.48528 -8.48528 0 -8.48528 3-8cyli.dat

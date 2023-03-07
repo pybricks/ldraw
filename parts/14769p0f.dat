@@ -1,0 +1,18 @@
+0 Tile  2 x  2 Round with Round Underside Stud with Clock Pattern
+0 Name: 14769p0f.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Part UPDATE 2022-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 10255, Watch, Timepiece, Timekeeper, Bricklink 14769pb001
+
+0 !HISTORY 2020-03-26 [OrionP] Pattern by tchang
+0 !HISTORY 2020-07-16 [MagFors] used pattern subfile
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769s01.dat
+1 16 0 0 0 2 0 0 0 1 0 0 0 2 4-4ring9.dat
+1 16 0 0 0 1.5 0 0 0 1 0 0 0 1.5 4-4rin11.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4150p03s01.dat

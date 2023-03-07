@@ -1,0 +1,17 @@
+0 Tail Plane with Box and Arrows and Globe Pattern
+0 Name: 4867p13.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2022-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Cargo, Airplane, Freighter, set 6375, bricklink 4867pb04, Wedge
+
+0 !HISTORY 2020-08-26 [RainbowDolphin] created based on 821421a by Ulrich Röder [UR]
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4867s01.dat
+
+1 16 2 0 0 1 0 0 0 1 0 0 0 1 s\4867p13s01.dat
+1 16 -2 0 0 -1 0 0 0 1 0 0 0 1 s\4867p13s01.dat

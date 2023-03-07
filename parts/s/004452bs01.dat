@@ -1,0 +1,16 @@
+0 ~Sticker  1.1 x  1.9 with Number "1" - Type Face
+0 Name: s\004452bs01.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Subpart UPDATE 2022-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
+3 16 -5.28 -.25 5.99 -5.57 -.25 5.99 -5.57 -.25 3.38
+4 16 -3.18 -.25 6.18 -5.28 -.25 5.99 -5.57 -.25 3.38 -1.12 -.25 3.38
+3 16 -1.73 -.25 6.75 -3.18 -.25 6.18 -1.12 -.25 3.38
+4 16 -1.12 -.25 3.38 -1.12 -.25 -9.37 2.56 -.25 -9.37 2.56 -.25 9.27
+4 16 2.56 -.25 9.27 -.42 -.25 9.27 -.85 -.25 7.76 -1.12 -.25 3.38
+3 16 -.85 -.25 7.76 -1.73 -.25 6.75 -1.12 -.25 3.38

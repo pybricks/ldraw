@@ -1,14 +1,16 @@
-0 Minifig Torso with Insectoids with Silver Logo on Black Panels
+0 Minifig Torso with Insectoids with Silver Logo on Black Panels Pattern
 0 Name: 973p57.dat
 0 Author: Mikkel Bech Jensen [gaia]
-0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LDRAW_ORG Part UPDATE 2022-04
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Space, Set 6903, Set 6919
+0 !KEYWORDS Space, Set 6903, Set 6919, Bricklink 973pb0082
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
+0 !HISTORY 2022-06-22 [Philo] Updated description, added keywords
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
 0 // Subfile
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat

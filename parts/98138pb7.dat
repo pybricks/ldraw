@@ -1,7 +1,7 @@
-0 Tile  1 x  1 Round with Black Circle and Bright Green Green Lantern Logo
+0 Tile  1 x  1 Round with Black Circle and Bright Green Green Lantern Logo Pattern
 0 Name: 98138pb7.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LDRAW_ORG Part UPDATE 2022-04
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Bricklink 98138pb115
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+0 !HISTORY 2022-06-22 [Philo] Updated description
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s02.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 4-4ring9.dat

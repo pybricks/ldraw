@@ -1,0 +1,26 @@
+ldraw.org Parts Update 2022-04
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Physical Colour Parts Library
+---------------------------------------------------------------------------
+
+Notes created Tue Jul 19 03:44:42 2022 by the Parts Tracker.
+
+Release statistics:
+   Total files: 2
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   No parts were moved.
+
+Renamed Parts
+   73485.DAT                  _Technic Axle 10 Threaded Black
+   changed to    ~_Technic Axle 10 Threaded Black (Obsolete)
+
+   73839.DAT                  _Technic Axle  4 Threaded Black
+   changed to    ~_Technic Axle  4 Threaded Black (Obsolete)
+
+Other Fixed Parts
+   No other parts were fixed.

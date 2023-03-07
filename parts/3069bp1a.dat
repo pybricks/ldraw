@@ -1,0 +1,21 @@
+0 Tile  1 x  2 with Train Logo and "0928" Ticket Pattern
+0 Name: 3069bp1a.dat
+0 Author: Tim Lampmann [L4mpi]
+0 !LDRAW_ORG Part UPDATE 2022-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Grand, Central, Station, High, Speed, Locomotive, Bricklink 3069bpb029
+
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bp1as01.dat
+
+4 16 -20 0 10 -19 0 8 19 0 8 20 0 10
+4 16 20 0 10 19 0 8 19 0 -8 20 0 -10
+4 16 -19 0 8 -20 0 10 -20 0 -10 -19 0 -8
+4 16 15.8 0 -8 -13.7 0 -8 -20 0 -10 20 0 -10
+3 16 15.8 0 -8 20 0 -10 19 0 -8
+3 16 -19 0 -8 -20 0 -10 -13.7 0 -8

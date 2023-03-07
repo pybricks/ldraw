@@ -1,0 +1,23 @@
+0 Animal Serpent Basilisk Body Segment with Scales Pattern
+0 Name: 43936p01.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2022-04
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS snake, harry potter, chamber of secrets, set 4730, bricklink 43936px1 
+
+0 !HISTORY 2015-11-03 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2021-12-12 [Holly-Wood] File preparation for LDraw Parts Tracker
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+
+0 // Subfile without patternable surface
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43936s01.dat
+
+0 // Patternable surface
+0 // Left
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43936p01s01.dat
+
+0 // Right
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\43936p01s01.dat

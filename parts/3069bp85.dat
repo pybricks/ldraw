@@ -1,7 +1,7 @@
-0 Tile 1 x 2 with LCI-HLC Boarding Pass Pattern
+0 Tile  1 x  2 with LCI-HLC Boarding Pass Pattern
 0 Name: 3069bp85.dat
 0 Author: Bertrand Lequy [Berth]
-0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LDRAW_ORG Part UPDATE 2022-04
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Set 60261, Bricklink 3069bpb807, Heart Lake City, LEGO City International
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+0 !HISTORY 2022-05-09 [OrionP] Updated Description
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 4 0 -6.6 0 -3.19 -6.6 0 -1.89 -9.9 0 -1.89 -9.9 0 -3.19

@@ -1,7 +1,7 @@
-0 Slope Brick Curved  2 x  2 with SW Storm Trooper Breathing Mask Pattern
+0 Slope Brick Curved  2 x  2 x  0.667 with SW Storm Trooper Breathing Mask Pattern
 0 Name: 15068pz0.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2019-02
+0 !LDRAW_ORG Part UPDATE 2022-04
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !KEYWORDS Bricklink 15068pb146, Set 41620, Brickheadz, Stormtrooper
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+0 !HISTORY 2022-05-09 [OrionP] Updated Description
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15068s01.dat
 
