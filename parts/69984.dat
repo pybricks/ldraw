@@ -1,0 +1,22 @@
+0 Plate  6 x  6 Hexagonal with Six Spokes and Clips (Solid Studs)
+0 Name: 69984.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2022-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\64566s02.dat
+
+1 16 0 0 -30 0 0 1 0 1 0 -1 0 0 stug-1x2.dat
+1 16 17.321 0 -10 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 34.641 0 -20 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 17.321 0 10 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 34.641 0 20 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 0 0 30 0 0 1 0 1 0 -1 0 0 stug-1x2.dat
+1 16 -17.321 0 10 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 -34.641 0 20 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 -17.321 0 -10 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 -34.641 0 -20 0 0 1 0 1 0 -1 0 0 stud.dat

@@ -1,0 +1,18 @@
+0 Sticker  0.9 x  2.5 with Red and Green "Octan" Logo with Black Border
+0 Name: 821430c.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2022-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 4537
+
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
+1 16 0 -.25 0 25 0 0 0 .25 0 0 0 9 box5-12.dat
+1 16 0 -.25 0 0.75 0 0 0 1 0 0 0 0.75 logo-octantext.dat
+4 16 25 -.25 9 24.75 -.25 6.75 24.75 -.25 -6.75 25 -.25 -9
+4 16 25 -.25 -9 24.75 -.25 -6.75 -24.75 -.25 -6.75 -25 -.25 -9
+4 16 -25 -.25 -9 -24.75 -.25 -6.75 -24.75 -.25 6.75 -25 -.25 9
+4 16 -25 -.25 9 -24.75 -.25 6.75 24.75 -.25 6.75 25 -.25 9

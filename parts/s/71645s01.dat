@@ -1,0 +1,19 @@
+0 ~Button for RCX Module
+0 Name: s\71645s01.dat
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Subpart UPDATE 2022-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2017-11-23 [MagFors] bfc'd
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
+1 16 0 0 5 10 0 0 0 8 0 0 0 1 2-4cylo.dat
+1 16 0 0 5 10 0 0 0 1 0 0 0 1 2-4chrd.dat
+1 16 0 0 -5 -10 0 0 0 8 0 0 0 -1 2-4cylo.dat
+1 16 0 0 -5 10 0 0 0 1 0 0 0 -1 2-4chrd.dat
+1 16 0 8 0 0 0 10 0 -8 0 5 0 0 box3u4p.dat

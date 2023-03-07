@@ -1,0 +1,16 @@
+0 Sticker  2.3 x  2.3 Round with Clock Hands 10:06:32
+0 Name: 004659c.dat
+0 Author: Alex Taylor [anathema]
+0 !LDRAW_ORG Part UPDATE 2022-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 374-1, Set 590-1, Fire station
+
+0 !HISTORY 2019-08-04 [anathema] Original pattern using TEXMAP
+0 !HISTORY 2021-03-09 [RainbowDolphin] Vectorized the pattern
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
+1 16 0 0 0 23 0 0 0 -0.25 0 0 0 23 48\4-4cylc3.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\004659cs01.dat

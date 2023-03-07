@@ -1,0 +1,27 @@
+0 Electric  4.5V Battery Box  7 x 11 x  3 Type 2 (Complete)
+0 Name: 593c01.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LDRAW_ORG Shortcut UPDATE 2022-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 116-2, set 102, set 371-2, set 113-2
+0 !KEYWORDS Bricklink bb0045c01, Rebrickable 468c01, Brickowl 537045
+
+0 !HISTORY 2004-10-23 [mikeheide] Secondary author
+0 !HISTORY 2009-02-08 [mikeheide] made lid main-color
+0 !HISTORY 2010-06-08 [mikeheide] Adjusted for changed references
+0 !HISTORY 2022-05-12 [Holly-Wood] Adjusted after correcting the single components, changed color to lever and pole reverser
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
+0 // Bottom
+1 7 0 64 0 1 0 0 0 1 0 0 0 1 593.dat
+0 // Lid
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9023.dat
+0 // Pole reverser
+1 1 0 4 -87.8 1 0 0 0 1 0 0 0 1 u9024.dat
+0 // Lever
+1 178 0 34 -96.5 1 0 0 0 1 0 0 0 1 563.dat
+0 // Screw
+1 494 0 68 36 1 0 0 0 -1 0 0 0 1 u9566.dat

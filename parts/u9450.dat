@@ -1,0 +1,32 @@
+0 ~Electric Mindstorms RCX 2.0 Module
+0 Name: u9450.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Shortcut UPDATE 2022-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 32374p02c01.dat
+0 // Curcuit board
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 22702.dat
+0 // Battery box
+1 2 0 40 0 1 0 0 0 1 0 0 0 1 32116.dat
+0 // IR Glass
+1 32 0 0 0 1 0 0 0 1 0 0 0 1 32110.dat
+0 // vision blocker, behind the IR glass
+4 0 62 14 -114 62 14 -95 -62 14 -95 -62 14 -114
+4 0 62 14 -114 -62 14 -114 -62 40 -114 62 40 -114
+0 // Rubber Buttons
+0 // green/grey
+1 67 -58 12 -9 1 0 0 0 1 0 0 0 1 71645p02.dat
+0 // red/black
+1 67 58 12 -9 1 0 0 0 1 0 0 0 1 71645p01.dat
+0 // Ports
+1 0 -40 8 40 0 0 1 0 1 0 -1 0 0 6554c01.dat
+1 0 0 8 40 0 0 1 0 1 0 -1 0 0 6554c01.dat
+1 0 40 8 40 0 0 1 0 1 0 -1 0 0 6554c01.dat
+1 8 -40 8 -60 0 0 1 0 1 0 -1 0 0 6554c01.dat
+1 8 0 8 -60 0 0 1 0 1 0 -1 0 0 6554c01.dat
+1 8 40 8 -60 0 0 1 0 1 0 -1 0 0 6554c01.dat

@@ -1,0 +1,26 @@
+0 ~Electric Mindstorms RCX Module - LCD Screen Protector 
+0 Name: 32108.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2022-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
+1 16 0 0 13 40 0 0 0 1 0 0 0 4 2-4chrd.dat
+1 16 0 0 -13 40 0 0 0 1 0 0 0 -4 2-4chrd.dat
+4 16 40 0 13 -40 0 13 -40 0 -13 40 0 -13
+
+1 16 0 0 13 40 0 0 0 4 0 0 0 4 2-4cylo.dat
+1 16 0 0 -13 40 0 0 0 4 0 0 0 -4 2-4cylo.dat
+1 16 0 4 13 40 0 0 0 1 0 0 0 4 2-4ndis.dat
+1 16 0 4 -13 40 0 0 0 1 0 0 0 -4 2-4ndis.dat
+4 16 -42 6 -19 -42 6 19 42 6 19 42 6 -19
+1 16 40 2 0 0 -1 0 0 0 2 -13 0 0 rect.dat
+1 16 -40 2 0 0 1 0 0 0 2 13 0 0 rect.dat
+1 16 0 4 0 42 0 0 0 2 0 0 0 19 box4.dat
+4 16 42 4 19 40 4 17 40 4 -17 42 4 -19
+4 16 42 4 -19 40 4 -17 -40 4 -17 -42 4 -19
+4 16 -42 4 -19 -40 4 -17 -40 4 17 -42 4 19
+4 16 -42 4 19 -40 4 17 40 4 17 42 4 19

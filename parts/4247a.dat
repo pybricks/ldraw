@@ -1,0 +1,24 @@
+0 Duplo Door  1 x  4 x  3 with Arched Top with Large Window
+0 Name: 4247a.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Part UPDATE 2022-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Door
+
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2020-11-19 [Philo] Corrected geometry
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4247as01.dat
+
+3 16 -13.5 9 -2.5 -17.2038 8.5434 -2.5 -9.5 37 -2.5
+3 16 -31.1031 10.4996 -2.5 -48.1553 11.6216 -2.5 -5.5 58 -2.5
+3 16 -82.8447 11.6216 -2.5 -125.5 58 -2.5 -65.5 12 -2.5
+3 16 -99.8969 10.4996 -2.5 -125.5 58 -2.5 -82.8447 11.6216 -2.5
+4 16 -9.5 37 -2.5 -17.2038 8.5434 -2.5 -31.1031 10.4996 -2.5 -5.5 58 -2.5
+4 16 -113.7962 8.5434 -2.5 -117.5 9 -2.5 -125.5 58 -2.5 -99.8969 10.4996 -2.5
+4 16 -117.5 9 -2.5 -133.5 -47 -2.5 -133.5 50 -2.5 -125.5 58 -2.5
+4 16 -48.1553 11.6216 -2.5 -65.5 12 -2.5 -125.5 58 -2.5 -5.5 58 -2.5

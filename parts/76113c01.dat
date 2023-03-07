@@ -1,0 +1,39 @@
+0 ~Electric Mindstorms RCX 1.0 Module
+0 Name: 76113c01.dat
+0 Author: John Van Zwieten [jvan]
+0 !LDRAW_ORG Shortcut UPDATE 2022-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 1999-03-26 [PTadmin] Official Update 1999-02
+0 !HISTORY 2007-07-23 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2017-01-04 [MagFors] Made BFC
+0 !HISTORY 2022-07-18 [MagFors] Split into parts
+0 !HISTORY 2022-09-11 [OrionP] Moved from 883.dat
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 76113.dat
+0 // Curcuit board
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 71748.dat
+0 // Battery box
+1 2 0 40 0 1 0 0 0 1 0 0 0 1 32116.dat
+0 // IR Glass
+1 32 0 0 0 1 0 0 0 1 0 0 0 1 32110.dat
+0 // vision blocker, behind the IR glass
+4 0 62 14 -114 62 14 -95 -62 14 -95 -62 14 -114
+4 0 62 14 -114 -62 14 -114 -62 40 -114 62 40 -114
+0 // Rubber Buttons
+0 // green/grey
+1 67 -58 12 -9 1 0 0 0 1 0 0 0 1 71645p02.dat
+0 // red/black
+1 67 58 12 -9 1 0 0 0 1 0 0 0 1 71645p01.dat
+0 // Ports
+1 0 -40 8 40 0 0 1 0 1 0 -1 0 0 6554c01.dat
+1 0 0 8 40 0 0 1 0 1 0 -1 0 0 6554c01.dat
+1 0 40 8 40 0 0 1 0 1 0 -1 0 0 6554c01.dat
+1 8 -40 8 -60 0 0 1 0 1 0 -1 0 0 6554c01.dat
+1 8 0 8 -60 0 0 1 0 1 0 -1 0 0 6554c01.dat
+1 8 40 8 -60 0 0 1 0 1 0 -1 0 0 6554c01.dat

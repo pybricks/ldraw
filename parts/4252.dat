@@ -1,0 +1,23 @@
+0 ~Duplo Door Frame  2 x  4 x  3 with Flat Rim Back Panel
+0 Name: 4252.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Door
+
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
+1 16 0 0 0 77 0 0 0 0 63 0 -4 0 box4.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 55 0 0 0 0 48 0 -4 0 box4.dat
+4 16 -77 -63 -4 -55 -48 -4 55 -48 -4 77 -63 -4
+4 16 77 -63 -4 55 -48 -4 55 48 -4 77 63 -4
+4 16 -77 63 -4 77 63 -4 55 48 -4 -55 48 -4
+4 16 -77 -63 -4 -77 63 -4 -55 48 -4 -55 -48 -4
+4 16 55 -48 0 -55 -48 0 -77 -63 0 77 -63 0
+4 16 55 48 0 55 -48 0 77 -63 0 77 63 0
+4 16 55 48 0 77 63 0 -77 63 0 -55 48 0
+4 16 -55 48 0 -77 63 0 -77 -63 0 -55 -48 0

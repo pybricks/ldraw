@@ -1,0 +1,18 @@
+0 Boat Top  8 x 10 with Blue Globe, Yellow Box and Curved Arrows and "ATLANTIC" Stickers on Both Sides
+0 Name: 2623d02.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Shortcut UPDATE 2022-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 6542, Ship, Harbour, Seaport, Bricklink 2623pb02
+
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2623.dat
+1 16 90 -3.5 40 .31601 -.91473 .25181 .00085 -.26514 -.9642 .94876 .30491 -.083 820673g.dat
+1 16 -90 -3.5 40 .31601 .91473 -.25181 .00085 -.26514 -.9642 -.94876 .30491 -.083 820673g.dat
+1 16 0 -3.5 -70 1 0 0 0 -.65618 -.75461 0 .75461 -.65618 820673j.dat
+1 16 36 -3.5 -52 .66422 -.64718 .37414 .00034 -.50023 -.86589 .74754 .57527 -.33204 820673i.dat
+1 16 -36 -3.5 -52 .66422 .64718 -.37414 .00034 -.50023 -.86589 -.74754 .57527 -.33204 820673h.dat

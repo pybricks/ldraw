@@ -1,0 +1,22 @@
+0 Sticker  0.7 x  1.7 with Red NASA Worm Logo
+0 Name: 163345f.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2022-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 1682, Space shuttle, Launch pad
+0 !KEYWORDS Bricklink 1682stk01, Rebrickable 163345, Brickowl 849575
+
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
+1 16 0 -0.25 0 17 0 0 0 0.25 0 0 0 7 box5-12.dat
+0 BFC NOCLIP
+1 4 0 -0.25 0 0.4 0 0 0 1 0 0 0 0.4 logo-nasa.dat
+0 BFC CLIP
+1 16 0 -0.25 0 0.4 0 0 0 1 0 0 0 0.4 logo-nasa-bg.dat
+4 16 17 -0.25 7 -17 -0.25 7 -16 -0.25 4.8 16 -0.25 4.8
+4 16 17 -0.25 -7 17 -0.25 7 16 -0.25 4.8 16 -0.25 -4.8
+4 16 -17 -0.25 -7 17 -0.25 -7 16 -0.25 -4.8 -16 -0.25 -4.8
+4 16 -17 -0.25 7 -17 -0.25 -7 -16 -0.25 -4.8 -16 -0.25 4.8

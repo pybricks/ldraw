@@ -1,0 +1,31 @@
+0 ~Duplo Door Frame  2 x  4 x  3 with Raised Door Outline Back Plate
+0 Name: u9525.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Door
+
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
+4 16 -55 108 0 -76 122 0 76 122 0 55 108 0
+4 16 55 14 0 76 0 0 -76 0 0 -55 14 0
+4 16 55 108 0 76 122 0 76 0 0 55 14 0
+4 16 -55 14 0 -76 0 0 -76 122 0 -55 108 0
+4 16 55 108 4 76 122 4 -76 122 4 -55 108 4
+4 16 -55 14 4 -76 0 4 76 0 4 55 14 4
+1 16 0 61 4 76 0 0 0 0 61 0 -4 0 box4.dat
+0 BFC INVERTNEXT
+1 16 0 61 4 55 0 0 0 0 47 0 -4 0 box4.dat
+4 16 -55 108 4 -76 122 4 -76 0 4 -55 14 4
+4 16 55 14 4 76 0 4 76 122 4 55 108 4
+1 16 73.5 105.5 9 2.5 0 0 0 0 2.5 0 -5 0 4-4cylc.dat
+1 16 -73.5 105.5 9 2.5 0 0 0 0 2.5 0 -5 0 4-4cylc.dat
+1 16 -57.5 119.5 9 2.5 0 0 0 0 2.5 0 -5 0 4-4cylc.dat
+1 16 57.5 119.5 9 2.5 0 0 0 0 2.5 0 -5 0 4-4cylc.dat
+1 16 57.5 2.5 9 2.5 0 0 0 0 2.5 0 -5 0 4-4cylc.dat
+1 16 -57.5 2.5 9 2.5 0 0 0 0 2.5 0 -5 0 4-4cylc.dat
+1 16 -73.5 16.5 9 2.5 0 0 0 0 2.5 0 -5 0 4-4cylc.dat
+1 16 73.5 16.5 9 2.5 0 0 0 0 2.5 0 -5 0 4-4cylc.dat

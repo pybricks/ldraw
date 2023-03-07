@@ -1,0 +1,29 @@
+0 Bar Handle Attachment with Open Side
+0 Name: phandle1.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Primitive UPDATE 2022-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
+1 16 0 -.149 5.5735 3 0 0 0 1 .149 0 0 .0295 rect3.dat
+1 16 -3 2 0 0 6 0 -6 0 0 0 0 6 3-16cylo.dat
+1 16 -3 2 0 0 6 0 -6 0 0 0 0 -6 2-4cylo.dat
+1 16 -3 2 0 0 1 0 6 0 0 0 0 -6 2-4chrd.dat
+1 16 -3 2 0 0 6 0 -6 0 0 0 0 6 3-16chrd.dat
+
+1 16 3 2 0 0 -1 0 4 0 0 0 0 4 1-4ndis.dat
+1 16 3 2 0 0 -1 0 0 0 -4 4 0 0 1-16tang.dat
+1 16 3 2 0 0 -1 0 2 0 0 0 0 -2 2-4ring2.dat
+1 16 3 2 0 0 -1 0 -2 0 0 0 0 2 3-16rin2.dat
+1 16 0 8 5 0 0 3 0 -1 0 5 0 0 rect2p.dat
+1 16 0 0 7.8015 0 0 3 0 1 0 -2.1985 0 0 rect2p.dat
+4 16 -3 8 10 -3 8 0 -3 0 5.603 -3 0 10
+4 16 3 8 10 3 0 10 3 2 4 3 6 4
+4 16 3 8 10 3 6 4 3 6 0 3 8 0
+5 24 -3 -.298 5.544 3 -.298 5.544 3 0 5.603 3 -2.2426 4.2426
+4 16 -3 -.298 5.544 -3 0 5.603 -3 8 0 -3 -4 0
+4 16 3 0 5.603 3 -.298 5.544 3 .4692 3.6956 3 1.2044 4
+4 16 3 1.2044 4 3 2 4 3 0 10 3 0 5.603

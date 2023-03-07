@@ -1,0 +1,15 @@
+0 Boat Section Middle  6 x  8 x  3.333 with Light Grey Deck with Fire Logo Stickers on Both Sides
+0 Name: 185c01d03.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Shortcut UPDATE 2022-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 4025, Fire boat
+
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 185c01.dat
+1 16 76 12 0 0 -1 0 0 0 -1 1 0 0 194305e.dat
+1 16 -76 12 0 0 1 0 0 0 -1 -1 0 0 194305e.dat

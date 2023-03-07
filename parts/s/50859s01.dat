@@ -1,7 +1,7 @@
 0 ~Bike  2 Wheel Motorcycle Frame  2 x  6 x  3 - Half
-0 Name: 50859s01.dat
+0 Name: s\50859s01.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Subpart UPDATE 2015-01
+0 !LDRAW_ORG Subpart UPDATE 2022-06
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,6 +10,8 @@
 0 !HISTORY 2009-05-12 [westrate] File preparation for LDraw Parts Tracker
 0 !HISTORY 2015-03-09 [MagFors]  Removed pin
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2022-12-01 [OrionP] Fixed error in header name
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
 
 4 16 12.5 -13 8.93 10 -13 8.93 10.5 -15.7 8.34 12.5 -15.7 8.34
 4 16 10.5 -15.7 8.34 10 -13 8.93 10 -17.87 7.86 10.5 -17.65 7.91

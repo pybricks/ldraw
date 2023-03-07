@@ -1,0 +1,22 @@
+0 Minifig Head with Reddish Brown Eyebrows, White Pupils and Dark Orange Dimple Pattern
+0 Name: 3626cps1.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2022-06
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3626cpb0408, Star Wars, Luke Skywalker, Set 10212
+
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs01.dat
+1 16 0 4 0 13 0 0 0 13 0 0 0 -13 1-8cyli.dat
+1 16 0 4 0 -13 0 0 0 13 0 0 0 -13 1-8cyli.dat
+1 16 0 4 0 0 0 -8 0 -6.4 0 -8 0 0 t04o6250.dat
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cps1s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626cps1s01.dat

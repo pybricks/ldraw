@@ -1,0 +1,187 @@
+ldraw.org Parts Update 2022-06
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Wed Dec 21 01:07:53 2022 by the Parts Tracker.
+
+Release statistics:
+   Total files: 523
+   New files: 434
+   New parts: 333
+   New subparts: 91
+   New primitives: 7
+   New lo-res primitives: 1
+   New hi-res primitives: 2
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   6551.DAT                   ~Moved to 6551c01
+   6640.DAT                   ~Moved to 6640b
+   883.DAT                    ~Moved to 76113c01
+   25931-12.DAT               ~Moved to s\2593s01
+   25931-8H.DAT               ~Moved to s\2593s02
+   2739BS01.DAT               ~Moved to 32005s01
+   3818P01S01.DAT             ~Moved to s\16000s01
+   3818P01S02.DAT             ~Moved to s\16000s02
+   466AS01.DAT                ~Moved to s\33009s01
+   466BS01.DAT                ~Moved to s\33009s02
+   466CS01.DAT                ~Moved to s\33009s03
+   556S01.DAT                 ~Moved to s\4330s01
+   556S02.DAT                 ~Moved to s\4330s02
+   62809S01.DAT               ~Moved to s\40359bs01
+   691S01.DAT                 ~Moved to s\3996s01
+   78S01.DAT                  ~Moved to s\71944s01
+   90462S01.DAT               ~Moved to s\90462as01
+   U9521.DAT                  ~Moved to 92550
+   U9523.DAT                  ~Moved to 4146
+   U9524.DAT                  ~Moved to 4147
+
+Renamed Parts
+   STUD9.DAT                  Stud Open with Small Hole
+   changed to    Stud Open with Small Holes
+
+   11203.DAT                  Plate  2 x  2 Inverted with Groove
+   changed to    Tile  2 x  2 Inverted
+
+   169675A.DAT                Sticker  1.1 x  1.5 with Global Container Cargo Logo
+   changed to    Sticker  1.1 x  1.5 with Blue Globe, Yellow Box and Curved Arrows
+
+   169675B.DAT                Sticker  2.5 x  3.3 with Global Container Cargo Logo
+   changed to    Sticker  2.5 x  3.3 with Blue Globe, Yellow Box and Curved Arrows
+
+   18973P03.DAT               Windscreen  6 x  4 x  1.333 Curved with "Audi e-tron quattro" and Light Bluish Grey Roof Pattern (Needs work)
+   changed to    Windscreen  6 x  4 x  1.333 Curved with "Audi e-tron quattro" and Light Bluish Grey Roof Pattern
+
+   190595A.DAT                Sticker  1.9 x  3.8 with Yellow Box and Arrows
+   changed to    =Sticker  1.9 x  3.8 with Yellow Box and Arrows
+
+   2332.DAT                   Duplo Door Frame  2 x  4 x  3 with Raised Door Outline
+   changed to    ~Duplo Door Frame  2 x  4 x  3 with Raised Door Outline (Obsolete)
+
+   30007.DAT                  Panel  1 x  4 x  3 with Hollow Studs
+   changed to    =Panel  1 x  4 x  3 with Hollow Studs
+
+   30360.DAT                  Cylinder  3 x  6 x  2 2/3 Horizontal
+   changed to    Cylinder  3 x  6 x  2.667 Horizontal with Hollow Studs
+
+   3068BP5C.DAT               Tile 2 x 2 with Dark Green Screen with "REC", Classic Space Minifigure, Red, Bright Green and Yellow Lights and Line Pattern
+   changed to    Tile  2 x  2 with Dark Green Screen with "REC", Classic Space Minifigure, Red, Bright Green and Yellow Lights and Line Pattern
+
+   32109.DAT                  Electric Mindstorms RCX  8 x 12 Bottom Cover (needs work)
+   changed to    ~Electric Mindstorms RCX  8 x 12 Bottom Cover
+
+   3626BP84.DAT               Minifig Head with Smile, Black Eyebrows and White Pupils Pattern
+   changed to    Minifig Head with Smile, Black Eyebrows and White Pupils Pattern (Blocked Hollow Stud)
+
+   3626BP85.DAT               Minifig Head with Smile, Brown Eyebrows and White Pupils Pattern
+   changed to    Minifig Head with Smile, Brown Eyebrows and White Pupils Pattern (Blocked Hollow Stud)
+
+   3626CP87.DAT               Minifig Head with Glasses, Thin Brown Eyebrows, Smile Pattern (Closed Hollow Stud)
+   changed to    Minifig Head with Glasses, Thin Brown Eyebrows, Smile Pattern (Hollow Stud)
+
+   3626CP88.DAT               Minifig Head with Grin, Brown Beard, White Pupils Pattern (Closed Hollow Stud)
+   changed to    Minifig Head with Grin, Brown Beard, White Pupils Pattern (Hollow Stud)
+
+   4150C07.DAT                Tile  2 x  2 Round with Lifepreserver Sticker (Shortcut)
+   changed to    ~Tile  2 x  2 Round with Lifepreserver Sticker (Shortcut) (Obsolete)
+
+   4215AD06.DAT               Panel  1 x  4 x  3 with Solid Studs and Global Cargo Sticker
+   changed to    Panel  1 x  4 x  3 with Solid Studs and Blue Globe, Yellow Box and Curved Arrows Sticker
+
+   4511.DAT                   Door  6.5 x  5 Sliding with Vertical Lines
+   changed to    Door  6.5 x  5 Sliding with Corrugated Surface
+
+   4864AP07.DAT               Panel  1 x  2 x  2 with Blue Globe and Yellow Box and Curved Arrows Pattern
+   changed to    Panel  1 x  2 x  2 with Blue Globe, Yellow Box and Curved Arrows Pattern
+
+   4867P13.DAT                Tail Plane with Box and Arrows and Globe Pattern
+   changed to    Tail Plane with Blue Globe, Yellow Box and Curved Arrows Pattern
+
+   6091.DAT                   Brick  2 x  1 x  1 & 1/3 with Curved Top
+   changed to    Brick  2 x  1 x  1.333 with Curved Top
+
+   64566.DAT                  Plate  6 x  6 Hexagonal with Six Spokes and Clips
+   changed to    Plate  6 x  6 Hexagonal with Six Spokes and Clips (Hollow Studs)
+
+   6965.DAT                   Scala Table  7 x  7 x  1 & 1/3
+   changed to    Scala Table  7 x  7 x  1.333
+
+   73603.DAT                  Turntable  4 x  4 (Complete)
+   changed to    =Turntable  4 x  4 (Complete)
+
+   81294.DAT                  Roadsign Triangular with Dangerous Uncontrolled Intersection Sign
+   changed to    ~Roadsign Triangular with Dangerous Uncontrolled Intersection Sign Pattern (Obsolete)
+
+   820673J.DAT                Sticker  1.4 x  1.9 with Global Container Cargo Logo
+   changed to    Sticker  1.4 x  1.9 with Blue Globe, Yellow Box and Curved Arrows
+
+   821421A.DAT                Sticker  3.4 x  3.8 with Global Container Cargo
+   changed to    Sticker  3.4 x  3.8 with Blue Globe, Yellow Box and Curved Arrows
+
+   884.DAT                    Electric Mindstorms RCX (Complete Assembly Shortcut)
+   changed to    ~Electric Mindstorms RCX (Complete Assembly Shortcut) (Obsolete)
+
+   92241P01.DAT               Figure Friends Girl Torso with White Halter Top, Pink Stars Pattern
+   changed to    Figure Friends Girl Torso with White Halter Top, Magenta and Dark Pink Stars Pattern
+
+   94722.DAT                  Figure Friends Accessories Award Ribbon with Number 2
+   changed to    Figure Friends Award Ribbon with Number Two
+
+   LIGHT.DAT                  Pov-RAY Light Source
+   changed to    ~Light Source
+
+   11203S01.DAT               ~Tile  2 x  2 Inverted with Groove without Face
+   changed to    ~Tile  2 x  2 Inverted without Face
+
+   169675AS01.DAT             ~Yellow Carton and Arrow Ribbon around Blue Globe
+   changed to    ~Blue Globe, Yellow Box and Curved Arrows
+
+   4867P13S01.DAT             ~Tail Plane with Box and Arrows and Globe Pattern - Side
+   changed to    ~Tail Plane with Blue Globe, Yellow Box and Curved Arrows Pattern - Side
+
+   61068S01.DAT               ~Slope Brick Curved  2 x  4 without Top Surface
+   changed to    ~Slope Brick Curved  2 x  4 without Top Patternable Surface
+
+   883-1.DAT                  ~Button for RCX Module
+   changed to    ~Button for RCX Module (Obsolete)
+
+   92262S01.DAT               ~Door  1 x  3 x  2 Left with Hollow Hinge - Main Part
+   changed to    ~Door  1 x  3 x  2 Left with Hollow Hinge - Main Part with Patternable Area
+
+Other Fixed Parts
+   STUD16.DAT                 Stud Tube Open Split (Fast-Draw)
+   004159E.DAT                Sticker  2.4 x  3 with United States Flag
+   004159H.DAT                Sticker  2.4 x  3 with United States Flag (Mirrored)
+   13359P01.DAT               Duplo Train Crossing Gate Crossbar with Red Stripes Pattern
+   17454.DAT                  Windscreen  2 x  6 x  2 Vertical Frame
+   2598PS1.DAT                Windscreen 10 x 10 x  4 Octagonal Canopy with TIE Pattern
+   26047.DAT                  Plate  1 x  1 Round with Horizontal Handle on Side
+   3011PT2.DAT                Duplo Brick  2 x  4 with Green "POLICE" Pattern
+   30179.DAT                  Door  1 x  4 x  6 Frame Type 1
+   34103.DAT                  Plate  1 x  3 with  2 Studs Offset
+   36069AP01.DAT              Sheet Plastic 15 x 28 Trapezoid Sail with Technic Racing Yacht Pattern
+   36069BP01.DAT              Sheet Plastic 13 x 26 Triangular Sail with Technic Racing Yacht Pattern
+   4145P01C01.DAT             Duplo Brick  1 x  4 x  3 with Black and Yellow Clock Face Pattern and Red Articulated Hands
+   572A.DAT                   ~String End Stud
+   61068.DAT                  Slope Brick Curved  2 x  4 without Underside Studs
+   61068P01.DAT               Slope Brick Curved  2 x  4 with 2 Gold Stripes Pattern
+   6251.DAT                   Animal Cat Crouching
+   88930.DAT                  Slope Brick Curved  2 x  4 with Underside Studs
+   88930P01.DAT               Slope Brick Curved  2 x  4 with 2 Gold Stripes Pattern
+   98088P01.DAT               Animal Wing Left Pteranodon with Marbled Medium Nougat Edge Pattern
+   98088P02.DAT               Animal Wing Left Pteranodon with Marbled Dark Bluish Grey Edge Pattern
+   98088P03.DAT               Animal Wing Left Pteranodon with Marbled Olive Green Edge Pattern
+   98088P04.DAT               Animal Wing Left Pteranodon with Marbled Sand Green Edge Pattern
+   13359S01.DAT               ~Duplo Train Crossing Gate Crossbar Half
+   13786S01.DAT               ~Animal Cat Standing Looking Forward without Patterned Surfaces
+   2684S01.DAT                ~Monorail Motor - Brass Metal Twelve Tooth Gear (Obsolete)
+   2775S01.DAT                ~Pin/Screw for Electric Plug (Type 4) Twin Extra-Wide (Obsolete)
+   50859S01.DAT               ~Bike  2 Wheel Motorcycle Frame  2 x  6 x  3 - Half
+   64566S01.DAT               ~Plate  6 x  6 Hexagonal with Six Spokes and Clips - 1/12
+   765S01.DAT                 ~Pin/Screw for Electric Plug (Type 4) Single (Obsolete)
+   U9023.DAT                  ~Electric  4.5V Battery Box  7 x 11 x  3 Type 2 Lid
+   U9024.DAT                  ~Electric  4.5V Battery Box Pole Reverser Type 1 
