@@ -1,0 +1,22 @@
+0 Animal Eagle Body (Complete)
+0 Name: 11467.dat
+0 Author: Christian Neumann [Wesley]
+0 !LDRAW_ORG Shortcut UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !HELP base at y = 72
+0 !HELP  left clip centers at  30 2 -10 and  30 2 10
+0 !HELP right clip centers at -30 2 -10 and -30 2 10
+0 !HELP  left wing connects at  30 2 -10
+0 !HELP right wing connects at -30 2 -10
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 79017, set 79007, set 10237, hobbit, the lord of the rings, gwaihir
+
+0 !HISTORY 2021-05-07 [Holly-Wood] Added keywords
+0 !HISTORY 2021-07-03 [MagFors] Made pattern subfiles
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 11435.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 98085.dat

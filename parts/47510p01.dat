@@ -1,0 +1,20 @@
+0 Figure Duplo Child Girl with Green Legs, Medium Blue Top with Flowers and Black Hair Pattern
+0 Name: 47510p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Shortcut UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 9656, Early Simple Machines, Bricklink 47205pb001
+
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 2 0 0 0 1 0 0 0 1 0 0 0 1 47205.dat
+1 72 0 -37 6 1 0 0 0 1 0 0 0 1 47207.dat
+1 2 0 -37 6 1 0 0 0 1 0 0 0 1 47204.dat
+1 73 0 -37 6 1 0 0 0 1 0 0 0 1 47203p02.dat
+1 73 0 -64 6.5 1 0 0 0 1 0 0 0 1 47198p01.dat
+1 73 0 -64 6.5 -1 0 0 0 1 0 0 0 -1 47198p01.dat
+1 92 0 -79 8 1 0 0 0 1 0 0 0 1 47206p02.dat
+1 0 0 -79 8 1 0 0 0 1 0 0 0 1 47200.dat

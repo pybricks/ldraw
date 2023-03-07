@@ -1,0 +1,25 @@
+0 Sticker  1.1 x  1.3 with Yellow Hammer on Black Background
+0 Name: 195985c.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 6373, Motorcycle shop, Repair
+0 !KEYWORDS Bricklink 6373stk01, Rebrickable 195985, Brickowl 426334
+
+0 !HISTORY 2021-09-26 [RainbowDolphin] Created based on 3010p03 by Chris Dee [cwdee]
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 -0.25 0 13 0 0 0 0.25 0 0 0 11 box5-12.dat
+4 0 10.6 -0.25 1.8 2.3 -0.25 -2 2.3 -0.25 -8.1 13 -0.25 -11
+4 14 2 -0.25 6.5 -8.6 -0.25 6.5 -8.6 -0.25 -2 -2.3 -0.25 -2
+4 14 -2.3 -0.25 -8.1 2.3 -0.25 -8.1 2.3 -0.25 -2 -2.3 -0.25 -2
+4 14 2.3 -0.25 -2 10.6 -0.25 1.8 2 -0.25 6.5 -2.3 -0.25 -2
+4 0 2 -.25 6.5 13 -.25 11 -13 -.25 11 -8.6 -.25 6.5
+4 0 -8.6 -.25 -2 -8.6 -.25 6.5 -13 -.25 11 -13 -.25 -11
+4 0 -2.3 -.25 -2 -8.6 -.25 -2 -13 -.25 -11 -2.3 -.25 -8.1
+4 0 2.3 -.25 -8.1 -2.3 -.25 -8.1 -13 -.25 -11 13 -.25 -11
+3 0 13 -.25 11 10.6 -.25 1.8 13 -.25 -11
+3 0 13 -.25 11 2 -.25 6.5 10.6 -.25 1.8

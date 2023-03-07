@@ -1,0 +1,37 @@
+0 Minifig Torso Crocodile Skin with Dark Red Scar and Blue Round Jewel (Chi) Belt Pattern
+0 Name: 973paz.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Chima, Crug
+0 !KEYWORDS Bricklink 973pb1375
+
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+0 // Neck mark
+1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+0 // front
+0 !TEXMAP START PLANAR -18.5 .5 -10 18.5 .5 -10 -18.5 31.5 -10 973paza.png
+0 !: 4 16 -19 32 -10 19 32 -10 19 29 -10 -19 29 -10
+0 !: 4 16 14.345 2 -10 -14.345 2 -10 -19 29 -10 19 29 -10
+0 !: 4 16 12 0 -10 -12 0 -10 -14.345 2 -10 14.345 2 -10
+0 !TEXMAP FALLBACK
+4 16 -19 32 -10 19 32 -10 19 29 -10 -19 29 -10
+4 16 14.345 2 -10 -14.345 2 -10 -19 29 -10 19 29 -10
+4 16 12 0 -10 -12 0 -10 -14.345 2 -10 14.345 2 -10
+0 !TEXMAP END
+
+0 // back
+0 !TEXMAP START PLANAR 18.5 .5 10 -18.5 .5 10 18.5 31.5 10 973pazb.png
+0 !: 4 16 -19 29 10 19 29 10 19 32 10 -19 32 10
+0 !: 4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
+0 !: 4 16 14.345 2 10 -14.345 2 10 -12 0 10 12 0 10
+0 !TEXMAP FALLBACK
+4 16 -19 29 10 19 29 10 19 32 10 -19 32 10
+4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
+4 16 14.345 2 10 -14.345 2 10 -12 0 10 12 0 10
+0 !TEXMAP END

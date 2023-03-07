@@ -1,0 +1,17 @@
+0 Minifig Baby Body with Light Nougat Hands Pattern
+0 Name: 25128p03.dat
+0 Author: Manfred Schaefer [Lego-Manfred]
+0 !LDRAW_ORG Part UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Toddler
+0 !KEYWORDS Set 10761, Bricklink 25128pb003
+
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\25128s01.dat
+1 78 0 0 0 1 0 0 0 1 0 0 0 1 s\25128s02.dat
+1 78 0 0 0 -1 0 0 0 1 0 0 0 1 s\25128s02.dat
+4 16 9.884 -12.532 -7.892 7.909 -24 -6.471 -7.909 -24 -6.471 -9.884 -12.532 -7.892

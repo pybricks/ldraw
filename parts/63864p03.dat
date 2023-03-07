@@ -1,0 +1,24 @@
+0 Tile  1 x  3 with Black and Metallic Dark Grey Truck Grille Frame Pattern
+0 Name: 63864p03.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 42078, BrickLink 63864pb066
+
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\63864s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\63864p03s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\63864p03s01.dat
+3 16 -10.25 0 -9.5 0 0 -10 10.25 0 -9.5
+4 87 5 0 -4.75 -5 0 -4.75 -10.25 0 -9.5 10.25 0 -9.5
+4 0 4.5 0 -3 -4.5 0 -3 -5 0 -4.75 5 0 -4.75
+4 16 -4.883 0 -2.924 -4.5 0 -3 4.5 0 -3 4.883 0 -2.924
+4 16 -4.883 0 -2.924 4.883 0 -2.924 5.207 0 -2.707 -5.207 0 -2.707
+4 16 -5.424 0 -2.383 -5.207 0 -2.707 5.207 0 -2.707 5.424 0 -2.383
+4 16 -5.424 0 -2.383 5.424 0 -2.383 10 0 6.75 -10 0 6.75
+4 0 -13.25 0 7.25 -10 0 6.75 10 0 6.75 13.25 0 7.25
+4 16 -30 0 10 -13.25 0 7.25 13.25 0 7.25 30 0 10

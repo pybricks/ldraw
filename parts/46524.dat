@@ -1,0 +1,15 @@
+0 Electric Light & Sound Brick  2 x  6 with Silver Button and Black Base
+0 Name: 46524.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Shortcut UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 40930.dat
+1 179 0 0 0 1 0 0 0 1 0 0 0 1 41852.dat
+1 0 0 24 0 1 0 0 0 1 0 0 0 1 40931.dat
+1 0 33 17 0 1 0 0 0 -1 0 0 0 -1 u9013.dat
+1 0 -33 17 0 1 0 0 0 -1 0 0 0 -1 u9013.dat

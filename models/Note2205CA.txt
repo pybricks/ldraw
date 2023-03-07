@@ -1,0 +1,151 @@
+ldraw.org Parts Update 2022-05
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+---------------------------------------------------------------------------
+
+Notes created Fri Sep 16 01:26:38 2022 by the Parts Tracker.
+
+Release statistics:
+   Total files: 634
+   New files: 559
+   New parts: 393
+   New subparts: 123
+   New primitives: 33
+   New hi-res primitives: 3
+   New part texture images: 7
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   25126.DAT                  ~Moved to 25128
+   25126P01.DAT               ~Moved to 25128p01
+   25126P01C01.DAT            ~Moved to 25128p01c01
+   25126P02.DAT               ~Moved to 25128p02
+   32342C01.DAT               ~Moved to 22011
+   32531.DAT                  ~Moved to 32531a
+   3443.DAT                   ~Moved to x941
+   44301.DAT                  ~Moved to 44301a
+   44567.DAT                  ~Moved to 44567a
+   4739.DAT                   ~Moved to 4739a
+   758C01.DAT                 ~Moved to 30527c02
+   S8.DAT                     ~Moved to 191936e
+
+Renamed Parts
+   CONFRIC3.DAT               Technic Friction Pin 2.0 with Base Collar and Rectangular Center Hole
+   changed to    Technic Friction Pin 2.0 with Base Collar and Rectangular Centre Hole
+
+   CONNECT7.DAT               Technic Pin 1.0 with Base Collar, Rectangular Center Hole and Thin Base Ribs
+   changed to    Technic Pin 1.0 with Base Collar, Rectangular Centre Hole and Thin Base Ribs
+
+   15100.DAT                  Technic Pin with Friction with Perpendicular Pin Hole
+   changed to    Technic Pin with Friction with Perpendicular Pin Hole Type 1
+
+   2979.DAT                   ~Electric Temperature Sensor Top
+   changed to    ~Electric Temperature Sensor Top (Obsolete)
+
+   2980.DAT                   ~Electric Temperature Sensor Bottom
+   changed to    ~Electric Brick  2 x  3 Sensor Temperature - Bottom
+
+   2980C01.DAT                Electric Temperature Sensor (Complete)
+   changed to    ~Electric Temperature Sensor (Complete) (Obsolete)
+
+   32138.DAT                  Technic Pin 3L Double with Axlehole
+   changed to    Technic Pin  3L Double with Axlehole
+
+   32273.DAT                  ~Technic Turntable  5 x  5 Base
+   changed to    Technic Turntable  5 x  5 Base
+
+   32274.DAT                  ~Technic Turntable  5 x  5 Top
+   changed to    Technic Turntable  5 x  5 Top
+
+   35700P01.DAT               Container  2 x  2 x  1 Crate with Metallic Blue Ribbon Wrapping on Four Sides Pattern
+   changed to    Container  2 x  2 x  1 Crate with Metallic Light Blue Ribbon Wrapping on Four Sides Pattern
+
+   3626B.DAT                  Minifig Head with Hollow Stud
+   changed to    Minifig Head with Blocked Hollow Stud
+
+   3626BP01.DAT               Minifig Head with Standard Grin Pattern (Hollow Stud with Pierced Base)
+   changed to    Minifig Head with Standard Grin Pattern (Blocked Hollow Stud)
+
+   3626BP89.DAT               Minifig Head Female with Red Lips Annoyed / Smiling 2-Sided Pattern (Hollow Stud with Pierced Base)
+   changed to    Minifig Head Female with Red Lips Annoyed / Smiling 2-Sided Pattern (Blocked Hollow Stud)
+
+   3626BP8A.DAT               Minifig Head Female with Peach Lips, Smile, Brown Eyebrows Pattern (Hollow Stud with Pierced Base)
+   changed to    Minifig Head Female with Peach Lips, Smile, Brown Eyebrows Pattern (Blocked Hollow Stud)
+
+   3626BP8C.DAT               Minifig Head Peach Lips, Smile, Black Eyebrows Pattern (Hollow Stud with Pierced Base)
+   changed to    Minifig Head Female with Peach Lips, Smile, Black Eyebrows Pattern (Blocked Hollow Stud)
+
+   3626C.DAT                  Minifig Head with Closed Hollow Stud
+   changed to    Minifig Head with Hollow Stud
+
+   40344.DAT                  =Technic Brick  4 x  6 with Open Center  2 x  4
+   changed to    =Technic Brick  4 x  6 with Open Centre  2 x  4 with Cross Underside Studs
+
+   41881.DAT                  Windscreen 12 x  6 x  6 Curved
+   changed to    Windscreen 12 x  6 x  6 Curved with Pin Holes
+
+   757.DAT                    ~Hose Flexible 12L Top  1 x  1 x  2/3 with Stud
+   changed to    ~Hose Flexible 12L End  1 x  1 x  0.667 with Stud
+
+   826P01.DAT                 Door  1 x  3 x  4 Right with Window & Lower Red Cross Pattern
+   changed to    ~Door  1 x  3 x  4 Right with Window & Lower Red Cross Pattern (Obsolete)
+
+   826P02.DAT                 Door  1 x  3 x  4 Right with Window & Upper Red Cross Pattern
+   changed to    ~Door  1 x  3 x  4 Right with Window & Upper Red Cross Pattern (Obsolete)
+
+   87082.DAT                  Technic Pin Long with Pin Hole
+   changed to    Technic Pin Long with Pin Hole Type 1
+
+   92851.DAT                  Wheel Minifig Bicycle with Integral Black Tyre
+   changed to    Wheel Minifig Bicycle with Integral Rubber Black Tyre
+
+   2336P90A.DAT               ~Space Nose with Classic Space Logo Pattern - Gold
+   changed to    ~Wedge  2 x  3 with Brick  2 x  4 with Classic Space Pattern - Gold (Obsolete)
+
+   U8013.DAT                  Mursten Door  1 x  2 x  4 with 8 Panes
+   changed to    ~Mursten Door  1 x  2 x  4 with 8 Panes (Obsolete)
+
+   U8014.DAT                  Mursten Door  1 x  2 x  4 with Handle
+   changed to    ~Mursten Door  1 x  2 x  4 with Handle (Obsolete)
+
+Other Fixed Parts
+   1-4CON6.DAT                Cone  6 x 0.25
+   CLH1.DAT                   Click Lock Hinge Single Finger for Bricks
+   CLH6.DAT                   Click Lock Hinge Single Finger for Plate Ends
+   10152.DAT                  Electric Power Functions Servo Motor Axle Hub
+   10172.DAT                  Minifig Trophy Cup  2.4L
+   18671.DAT                  Bracket  3 x  2 x  1.333
+   192885C.DAT                Sticker  1.1 x  1.9 with 4 Black Spots over Black Rectangle
+   20460PD87.DAT              Minifig Leg Left with White Lower Leg and Green Sandals Pattern
+   20460PD92.DAT              Minifig Leg Left with Ruffles, Black Lower Leg and White Feet Pattern
+   21019PD92.DAT              Minifig Hips and Legs with Ruffles, Black Lower Leg and White Feet Pattern
+   2400.DAT                   Door  1 x  5 x 10 with 1/4 Circle Top
+   2431P12.DAT                Tile  1 x  4 with Radar Pattern
+   3003.DAT                   Brick  2 x  2
+   3004.DAT                   Brick  1 x  2
+   3005.DAT                   Brick  1 x  1
+   3024.DAT                   Plate  1 x  1
+   3038.DAT                   Slope Brick 45  2 x  3
+   3041.DAT                   Slope Brick 45  2 x  4 Double
+   3068A.DAT                  Tile  2 x  2 without Groove
+   32523P01.DAT               Technic Beam  3 with "40 1977 - 2017" Text and 24 Tooth Gear Pattern
+   3623PT1.DAT                Plate  1 x  3 with "PORSCHE" First Half Pattern
+   3623PT2.DAT                Plate  1 x  3 with "PORSCHE" Second Half Pattern
+   3899.DAT                   Minifig Cup
+   4215B.DAT                  Panel  1 x  4 x  3 with Hollow Studs
+   47973.DAT                  Technic Connector  3 x  1 x  3 with Two Pins and Click Hinge
+   57783.DAT                  Windscreen  3 x  4 x  1.333
+   59233.DAT                  Minifig Lightning
+   6256.DAT                   Minifig Dinner Plate
+   973P6F.DAT                 Minifig Torso with Astro Pattern
+   15535P01S01.DAT            ~Tile  2 x  2 Round with Hole with Disc with Ring Pattern - Half
+   191915SDEB.DAT             ~German Railways Logo Background
+   20460S01.DAT               ~Minifig Leg Left Dual Mould Upper Half
+   20460S02.DAT               ~Minifig Leg Left Dual Mould Lower Half
+   20460S03.DAT               ~Minifig Leg Left Dual Mould Lower Half without Front and Side
+   20460S04.DAT               ~Minifig Leg Left Dual Mould Upper Half without Front and Side
+   32273S01.DAT               ~Technic Turntable  5 x  5 Connectors
+   57783S02.DAT               ~Windscreen  3 x  4 x  1.333 Front

@@ -1,19 +1,23 @@
 0 Minifig Leg Left with White Lower Leg and Green Sandals Pattern
 0 Name: 20460pd87.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LDRAW_ORG Part UPDATE 2022-05
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !HISTORY 2021-08-05 [MagFors] Added one surface from s02
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20460s01.dat
 1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\20460s03.dat
 
+4 15 1.5 20 -4 1.5 20 -10 19.23 20 -10 19.23 20 -4
 4 15 19.5 28 -10 19.5 28 10 19.23 20 -4 19.23 20 -10
 4 15 1.5 12.4 -4 1.5 20 -4 19.23 20 -4 18.9731 12.4 -4
 4 15 19.5 28 10 18.9685 12.3998 9.3036 18.9731 12.4 -4 19.23 20 -4
+
 4 0 14.83 22.13 -10 18.43 21.97 -10 18.4 21.4 -10 15.11 21.55 -10
 4 0 14.83 22.13 -10 15.11 21.55 -10 10.89 21.58 -10 10.66 22.21 -10
 4 0 10.66 22.21 -10 10.89 21.58 -10 9.56 21.6 -10 9.7 22.24 -10

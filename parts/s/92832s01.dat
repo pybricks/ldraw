@@ -1,0 +1,31 @@
+0 ~Windscreen  6 x  7 x  2.667 without Patternable Surfaces 
+0 Name: s\92832s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Subpart UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\92832s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\92832s02.dat
+
+0 // Joining Faces
+0 // Back
+3 16 0 -64 130 20 -48 130 -20 -48 130
+1 16 0 -48 112 20 0 0 0 -1 0 0 0 2 rect.dat
+1 16 0 -52.1118 114 0 0 -20 -4.1118 0 0 0 -1 0 rect2p.dat
+3 16 0 -60 114 20 -56.2236 114 -20 -56.2236 114
+1 16 0 -48 128 20 0 0 0 -1 0 0 0 2 rect.dat
+1 16 0 -52.1118 126 0 0 -20 -4.1118 0 0 0 1 0 rect2p.dat
+3 16 0 -60 126 -20 -56.2236 126 20 -56.2236 126
+3 16 0 -60 110 -20 -48 110 20 -48 110
+
+0 // Front
+1 16 0 -24 -8 20 0 0 0 -1 0 0 0 2 rect.dat
+1 16 0 -24 8 20 0 0 0 -1 0 0 0 2 rect.dat
+3 16 0 -44 10 20 -24 10 -20 -24 10
+3 16 20 -24 6 0 -42.3639 6.025 -20 -24 6
+3 16 -20 -24 -6.025 0 -37.5998 -6 20 -24 -6.025
+3 16 20 -24 -10 0 -40 -10 -20 -24 -10

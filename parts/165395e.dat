@@ -1,0 +1,16 @@
+0 =Sticker  0.5 x  1.8 with Octan Logo without Border on Transparent Background
+0 Name: 165395e.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part Alias UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 6551, Raceway, Oil, Fuel, Gas
+0 !KEYWORDS Bricklink 6551stk01, Rebrickable 165395, Brickowl 930700
+
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+0 // Alias of 165495c, but used as a formed sticker applied on 3941 cylindrical face in actual set
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 165495c.dat

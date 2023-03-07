@@ -1,0 +1,23 @@
+0 Electric Technic Motor 4.5V  6 x 17 x  5 with Light Grey Base Type 2
+0 Name: 32288c02.dat
+0 Author: Javier Orquera [kuramapika1]
+0 !LDRAW_ORG Part UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 32288.dat
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 32289b.dat
+1 7 0 0 40 1 0 0 0 1 0 0 0 1 32290.dat
+1 7 0 2 -80 1 0 0 0 1 0 0 0 1 913.dat
+1 79 0 80.5 60 1 0 0 0 1 0 0 0 -1 u9510.dat
+1 79 0 82 0 1 0 0 0 1 0 0 0 1 u9511.dat
+1 7 0 80.5 39 1 0 0 0 1 0 0 0 -1 u9518.dat
+1 7 0 92 47 1 0 0 0 1 0 0 0 1 u9519.dat
+1 0 -4 90 -48 -1 0 0 0 1 0 0 0 1 916.dat
+1 494 11.5 94 47 0.8 0 0 0 -0.8 0 0 0 0.8 u9013.dat
+1 494 -11.5 94 47 0.8 0 0 0 -0.8 0 0 0 0.8 u9013.dat
+1 494 50 86 -274 0.8 0 0 0 -0.8 0 0 0 0.8 u9013.dat
+1 494 -50 86 -274 0.8 0 0 0 -0.8 0 0 0 0.8 u9013.dat

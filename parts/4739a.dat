@@ -1,0 +1,49 @@
+0 Container Treasure Chest with Slots Lid
+0 Name: 4739a.dat
+0 Author: James Jessiman
+0 !LDRAW_ORG Part UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 1999-02-01 [PTadmin] Official Update 1999-01
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
+0 !HISTORY 2017-01-03 [Steffen] BFCed
+0 !HISTORY 2017-02-01 [MagFors] Created recessed surfaces
+0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+0 !HISTORY 2021-04-28 [Philo] Renamed from 4739 and subparted for variant
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4739s01.dat
+
+2 24 34 6.21 12 34 6.929 13.071
+1 16 34 14 6 0 -1 0 0 0 -10 10 0 0 1-8edge.dat
+2 24 -34 6.21 12 -34 6.929 13.071
+1 16 -34 14 6 0 -1 0 0 0 -10 10 0 0 1-8edge.dat
+2 24 -34 6.21 12 -36 6.21 12
+2 24 34 6.21 12 36 6.21 12
+1 16 0 18 20 0 0 36 -2 0 0 0 -1 0 rect2p.dat
+1 16 0 19 16 -34 0 0 0 0 5 0 1 0 rect3.dat
+1 16 -35 15.105 14 1 0 0 0 0 8.895 0 -2 0 box2-7.dat
+1 16 35 15.105 14 1 0 0 0 0 8.895 0 -2 0 box2-7.dat
+1 16 36 20 16 0 -1 0 4 0 0 0 0 4 1-4chrd.dat
+3 16 36 24 12 36 24 16 36 16 12
+4 16 36 16 12 36 24 16 36 20 20 36 16 20
+4 16 34 24 12 34 6.21 12 34 14 16 34 24 16
+4 16 34 6.21 12 34 6.929 13.071 34 10.173 15.239 34 14 16
+4 16 -34 24 12 -34 24 16 -34 14 16 -34 6.21 12
+4 16 -34 14 16 -34 10.173 15.239 -34 6.929 13.071 -34 6.21 12
+1 16 -36 20 16 0 1 0 4 0 0 0 0 4 1-4chrd.dat
+3 16 -36 24 12 -36 16 12 -36 24 16
+4 16 -36 16 12 -36 16 20 -36 20 20 -36 24 16
+1 16 36 20 16 0 -72 0 4 0 0 0 0 4 1-4cylo.dat
+1 16 38 20 16 0 -2 0 2 0 0 0 0 2 4-4cylc.dat
+1 16 -38 20 16 0 2 0 2 0 0 0 0 2 4-4cylc.dat
+2 24 36 4 6 36 4.761 9.827
+2 24 36 4.761 9.827 36 6.21 12
+2 24 -36 4 6 -36 4.761 9.827
+2 24 -36 4.761 9.827 -36 6.21 12
+4 16 36 16 12 36 16 -16 36 14 -16 36 14 12
+4 16 -36 16 12 -36 14 12 -36 14 -16 -36 16 -16

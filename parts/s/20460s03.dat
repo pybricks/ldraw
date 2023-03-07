@@ -1,15 +1,16 @@
 0 ~Minifig Leg Left Dual Mould Lower Half without Front and Side
 0 Name: s\20460s03.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2019-03
+0 !LDRAW_ORG Subpart UPDATE 2022-05
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-09-04 [cwdee] Added missing condline
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !HISTORY 2021-08-05 [MagFors] Moved one surface to s02
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
 
-4 16 1.5 20 -4 1.5 20 -10 19.23 20 -10 19.23 20 -4
 1 16 10 18 6 0 0 6 6 0 0 0 1 0 4-4ndis.dat
 1 16 10 18 6 0 0 6 6 0 0 0 1 0 4-4edge.dat
 1 16 10.365 20 -7 8.865 0 0 0 1 0 0 0 3 recte4.dat

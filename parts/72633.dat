@@ -1,0 +1,19 @@
+0 Electric Brick  2 x  3 Sensor Temperature
+0 Name: 72633.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Shortcut UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Dacta, 9V, Mindstorm, RCX
+
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2979a.dat
+1 8 0 16 0 1 0 0 0 1 0 0 0 1 2980.dat
+0 // cable
+1 256 -24 14.5 0 0 -2 0 -1 0 0 0 0 1 993.dat
+1 256 -26 14.5 1.3858 0 1 0 -0.574 0 -1.3858 -1.3858 0 0.574 7-8chrd.dat
+1 256 -26 14.5 -1.3858 0 1 0 0.574 0 1.3858 1.3858 0 -0.574 7-8chrd.dat
+1 0 -24 14 0 0 1 0 -2 0 0 0 0 4.5 rect.dat

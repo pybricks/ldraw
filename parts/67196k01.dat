@@ -1,0 +1,16 @@
+0 Bracelet 25L with 14 x  1 Studs Segment with Stud
+0 Name: 67196k01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part Flexible_Section UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sheet Plastic
+0 !KEYWORDS Wrist, Band, Strap, DOTS
+
+0 !HISTORY 2022-05-03 [GeraldLasser] Derieved from Philos 66821k01.dat
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 0 2.25 -6 14 0 0 0 0 2.25 0 12 0 box4o8a.dat

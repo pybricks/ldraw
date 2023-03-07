@@ -1,0 +1,33 @@
+0 ~Minifig Dinner Plate without Patternable Surfaces
+0 Name: s\6256s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Subpart UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2021-04-04 [GeraldLasser] Subfiled, Original Code by Andy Westrate [westrate]
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 3 0 1 0 0 0 -1.25 0 0 0 1 stud4.dat
+
+1 16 0 3 0 18.538 0 0 0 -1 0 0 0 18.538 4-4disc.dat
+1 16 0 3 0 18.538 0 0 0 -1 0 0 0 18.538 4-4edge.dat
+
+1 16 0 -7 0 26 0 0 0 26 0 0 0 26 t04i1538.dat
+1 16 0 -7 0 26 0 0 0 26 0 0 0 -26 t04i1538.dat
+1 16 0 -7 0 -26 0 0 0 26 0 0 0 26 t04i1538.dat
+1 16 0 -7 0 -26 0 0 0 26 0 0 0 -26 t04i1538.dat
+
+1 16 0 -7 0 26 0 0 0 26 0 0 0 26 t04o1538.dat
+1 16 0 -7 0 26 0 0 0 26 0 0 0 -26 t04o1538.dat
+1 16 0 -7 0 -26 0 0 0 26 0 0 0 26 t04o1538.dat
+1 16 0 -7 0 -26 0 0 0 26 0 0 0 -26 t04o1538.dat
+
+1 16 0 -7 0 26 0 0 0 -26 0 0 0 26 t04o1538.dat
+1 16 0 -7 0 26 0 0 0 -26 0 0 0 -26 t04o1538.dat
+1 16 0 -7 0 -26 0 0 0 -26 0 0 0 26 t04o1538.dat
+1 16 0 -7 0 -26 0 0 0 -26 0 0 0 -26 t04o1538.dat
+
+1 16 0 -4.1724 0 4.6345 0 0 0 7.1724 0 0 0 4.6345 4-4con4.dat
+1 16 0 -4.1724 0 23.1725 0 0 0 -1 0 0 0 23.1725 4-4edge.dat

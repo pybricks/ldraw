@@ -1,0 +1,25 @@
+0 Technic Windscreen  4 x  5 x  7 with Blended Clear Streaks Pattern
+0 Name: 41671p01.dat
+0 Author: Santeri Piippo [arezey]
+0 !LDRAW_ORG Part UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bionicle, Bohrok, Tahnok, Gahlok, Lehvak, Kohrak, Pahrak, Nuhvok
+
+0 !HISTORY 2013-06-10 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2014-05-20 [arezey] File preparation for LDraw Parts Tracker
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 -20 0 0 -1 0 0 0 -1 1 0 0 connhole.dat
+1 16 0 0 0 0 -1 0 0 0 -1 1 0 0 beamhole.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\41671s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\41671s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\41671s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\41671s02.dat
+0 BFC NOCLIP
+1 47 0 0 0 1 0 0 0 1 0 0 0 1 s\41671s03.dat
+1 47 0 0 0 -1 0 0 0 1 0 0 0 1 s\41671s03.dat
+1 47 0 0 0 1 0 0 0 1 0 0 0 1 s\41671s04.dat
+1 47 0 0 0 -1 0 0 0 1 0 0 0 1 s\41671s04.dat

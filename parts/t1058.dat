@@ -1,0 +1,35 @@
+0 ~| Circuit Cubes Geared Motor Shaft
+0 Name: t1058.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 0 0 10 0 0 0 0 10 0 -4 0 4-4cylc.dat
+1 16 0 0 -4 1 0 0 0 0 1 0 -20 0 axlehol8.dat
+1 16 0 0 -24 1 0 0 0 0 1 0 1 0 axleend.dat
+1 16 0 0 -24 1 0 0 0 0 1 0 1 0 axlehol2.dat
+1 16 0 0 -24 1 0 0 0 0 1 0 1 0 axlehol9.dat
+1 16 0 0 -4 1 0 0 0 0 1 0 1 0 axlehol2.dat
+1 16 0 0 -4 1 0 0 0 0 1 0 1 0 axlehol9.dat
+1 16 0 0 -4 1 0 0 0 0 1 0 1 0 axleho10.dat
+1 16 0 0 -4 6 0 0 0 0 6 0 1 0 4-4ndis.dat
+1 16 0 0 -4 6 0 0 0 0 6 0 20 0 4-4ering.dat
+1 16 0 0 -4 7.07107 0 7.07107 -7.07107 0 7.07107 0 1 0 1-4chrd.dat
+4 16 7.071 7.071 -4 7.071 -7.071 -4 6 -6 -4 6 6 -4
+1 16 0 0 -4 7.07107 0 -7.07107 7.07107 0 7.07107 0 1 0 1-4chrd.dat
+4 16 -7.071 7.071 -4 7.071 7.071 -4 6 6 -4 -6 6 -4
+1 16 0 0 -4 -7.07107 0 -7.07107 7.07107 0 -7.07107 0 1 0 1-4chrd.dat
+4 16 -7.071 -7.071 -4 -7.071 7.071 -4 -6 6 -4 -6 -6 -4
+1 16 0 0 -4 -7.07107 0 7.07107 -7.07107 0 -7.07107 0 1 0 1-4chrd.dat
+4 16 7.071 -7.071 -4 -7.071 -7.071 -4 -6 -6 -4 6 -6 -4
+
+1 494 0 0 -12 2.8 0 0 0 0 2.8 0 14 0 4-4cylc.dat
+1 494 0 0 0 2.8 0 0 0 0 2.8 0 1 0 4-4edge.dat
+1 494 0 0 2 3.5 0 0 0 0 3.5 0 2.5 0 4-4cylc.dat
+1 494 0 0 4.5 3.5 0 0 0 0 3.5 0 -1 0 4-4disc.dat

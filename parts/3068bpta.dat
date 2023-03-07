@@ -1,0 +1,15 @@
+0 Tile  2 x  2 with Black "Lamborghini" Pattern
+0 Name: 3068bpta.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Part UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Lamborghini, Sian, set 42115, Bricklink 3068bpb1341
+
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+1 16 0 0 -14.666 1.33333 0 0 0 1 0 0 0 1.33333 s\logolambt02.dat
+4 16 -20 0 -9.334 20 0 -9.334 20 0 20 -20 0 20

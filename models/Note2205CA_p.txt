@@ -1,0 +1,29 @@
+ldraw.org Parts Update 2022-05
+---------------------------------------------------------------------------
+
+Redistributable Parts Library - Physical Colour Parts Library
+---------------------------------------------------------------------------
+
+Notes created Fri Sep 16 01:26:38 2022 by the Parts Tracker.
+
+Release statistics:
+   Total files: 3
+
+New 3-digit part numbers assigned:
+   No new 3-digit part numbers were used in this release.
+
+Moved Parts
+   No parts were moved.
+
+Renamed Parts
+   4183043.DAT                _Hinge Plate  1 x  2 Locking w/ Single Finger on End Vert. Black
+   changed to    ~_Hinge Plate  1 x  2 Locking with Groove with Single Finger on End Vertical [Black] (Obsolete)   
+
+   4210883.DAT                _Hinge Plate  1 x  2 Locking with Single Finger Vertical [72]
+   changed to    ~_Hinge Plate  1 x  2 Locking with Groove with Single Finger on End Vertical [72] (Obsolete)
+
+   4211814.DAT                _Hinge Plate  1 x  2 Locking with 1 Finger On Side Vertical [71]
+   changed to    ~_Hinge Plate  1 x  2 Locking with Groove with Single Finger On Side Vertical [71] (Obsolete)
+
+Other Fixed Parts
+   No other parts were fixed.

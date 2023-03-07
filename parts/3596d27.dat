@@ -1,0 +1,18 @@
+0 Flag on Flagpole Type 5 with Legoland Hotel Sticker
+0 Name: 3596d27.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Shortcut UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 6390, Bricklink 3596pb21, Main street
+0 !KEYWORDS Bricklink 6390stk01, Rebrickable 192385, Brickowl 807025
+
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3596.dat
+0 // Sticker Front
+1 16 2 -132 34 0 -1 0 0 0 -1 1 0 0 192385b.dat
+0 // Sticker Back
+1 16 -2 -132 34 0 1 0 0 0 -1 -1 0 0 192385c.dat

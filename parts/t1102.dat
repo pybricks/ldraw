@@ -1,0 +1,22 @@
+0 ~| Circuit Cubes High Speed Motor Cover
+0 Name: t1102.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\t1102s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\t1102s01.dat
+3 16 -20.5 -29.5 -26.5 0 -24 -26.5 20.5 -29.5 -26.5
+1 16 0 -24 23.5 -20.5 0 0 0 0 2.5 0 1 0 rect2p.dat
+1 16 0 -29.5 0 -20.5 0 0 0 1 0 0 0 -26.5 rect2p.dat
+1 16 0 -21.5 25 0 0 20.5 0 -1 0 1.5 0 0 rect1.dat
+4 16 20.5 -21.5 26.5 -20.5 -21.5 26.5 -20.5 -26.5 26.5 20.5 -26.5 26.5
+4 16 20.5 -29.5 26.5 20.5 -26.5 26.5 -20.5 -26.5 26.5 -20.5 -29.5 26.5
+1 16 0 -26.5 0 0 0 -20.5 0 -1 0 -23.5 0 0 rect1.dat
+3 16 20.5 -26.5 -23.5 0 -24 -23.5 -20.5 -26.5 -23.5

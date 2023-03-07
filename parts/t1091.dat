@@ -1,0 +1,27 @@
+0 ~| Circuit Cubes Momentary Switch Button
+0 Name: t1091.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+0 BFC INVERTNEXT
+1 16 0 -10 0 11 0 0 0 10 0 0 0 11 4-4cylc.dat
+1 16 0 0 0 16.5 0 0 0 -4 0 0 0 16.5 4-4cylo.dat
+1 16 0 0 0 5.5 0 0 0 -1 0 0 0 5.5 4-4ring2.dat
+1 16 0 -4 0 2.0625 0 0 0 1 0 0 0 2.0625 4-4ring7.dat
+1 16 0 -4 0 14.4375 0 0 0 -7.5 0 0 0 14.4375 4-4cyli.dat
+1 16 0 -4 0 14.4375 0 0 0 -1 0 0 0 14.4375 4-4edge.dat
+1 16 0 -11.5 0 11.55 0 0 0 -10 0 0 0 11.55 t01o2500.dat
+1 16 0 -14 0 11.55 0 0 0 1 0 0 0 11.55 4-4disc.dat
+1 16 6 -10 0 1 0 0 0 15 0 0 0 2.5 box5.dat
+1 16 -6 -10 0 1 0 0 0 15 0 0 0 2.5 box5.dat
+1 16 0 -10 -6 0 0 4.5 0 15 0 -1 0 0 box5.dat
+1 16 -4 2.5 -4 0 8 0 -0.5 0 2 -1 0 -1 tri4.dat
+1 16 0 -10 6 0 0 -4.5 0 15 0 1 0 0 box5.dat
+1 16 4 2.5 4 0 -8 0 -0.5 0 2 1 0 1 tri4.dat

@@ -1,0 +1,14 @@
+0 Brick  1 x  6 without Centre Studs with Black Thick "TAXI" Pattern
+0 Name: 3067aptg.dat
+0 Author: Tore Eriksson [Tore_Eriksson]
+0 !LDRAW_ORG Part UPDATE 2022-05
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+0 !KEYWORDS BrickLink crssprt02pb58
+
+0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
+
+1 16  0 0 0  1 0 0  0 1 0  0 0 1  s\3067s02.dat
+1 16  0 0 0  1 0 0  0 1 0  0 0 1  s\3009ptgs01.dat
