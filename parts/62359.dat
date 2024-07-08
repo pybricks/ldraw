@@ -1,0 +1,41 @@
+0 Wheel Cover  7 Spoke for Wheel 14 x 18
+0 Name: 62359.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Part UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP For Wheel 55982
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2014-10-16 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2014-10-16 [UR] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
+
+
+0 // Main
+1 16 0 0 0 1 0 0 0 0 1 0 -10 0 axlehole.dat
+1 16 0 0 0 1 0 0 0 0 1 0 -1 0 axlehol2.dat
+1 16 0 0 -10 1 0 0 0 0 1 0 -1 0 axlehol2.dat
+1 16 0 0 0 10 0 0 0 0 10 0 -1 0 4-4edge.dat
+1 16 0 0 -13.75 10 0 0 0 0 10 0 -1 0 4-4edge.dat
+1 16 0 0 -13.75 10 0 0 0 0 10 0 1 0 4-4disc.dat
+1 16 0 0 -10 6 0 0 0 0 6 0 -1 0 4-4disc.dat
+1 16 0 0 0 10 0 0 0 0 10 0 -13.75 0 4-4cyli.dat
+1 16 0 0 0 2 0 0 0 0 2 0 -1 0 4-4ring3.dat
+1 16 0 0 0 2 0 0 0 0 2 0 -1 0 4-4ring4.dat
+0 // Hub
+1 16 0 0 -15.75 1 0 0 0 0 1 0 1 0 4-4ring4.dat
+1 16 0 0 -15.75 .5 0 0 0 0 .5 0 1 0 4-4rin10.dat
+1 16 0 0 -14.75 4 0 0 0 0 4 0 1 0 4-4disc.dat
+0 BFC INVERTNEXT
+1 16 0 0 -14.75 4 0 0 0 0 4 0 -1 0 4-4cylo.dat
+1 16 0 0 -13.75 5.5 0 0 0 0 5.5 0 -2 0 4-4cylo.dat
+0 // Spokes
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\62359s01.dat
+1 16 0 0 0 -.62349 -.781831 0 -.781831 .62349 0 0 0 1 s\62359s01.dat
+1 16 0 0 0 .222521 -.974928 0 -.974928 -.222521 0 0 0 1 s\62359s01.dat
+1 16 0 0 0 .900969 -.433884 0 -.433884 -.900969 0 0 0 1 s\62359s01.dat
+1 16 0 0 0 .900969 .433884 0 .433884 -.900969 0 0 0 1 s\62359s01.dat
+1 16 0 0 0 .222521 .974928 0 .974928 -.222521 0 0 0 1 s\62359s01.dat
+1 16 0 0 0 -.62349 .781831 0 .781831 .62349 0 0 0 1 s\62359s01.dat

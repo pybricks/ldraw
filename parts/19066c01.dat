@@ -1,0 +1,20 @@
+0 Electric Power Functions 2.0 Hub
+0 Name: 19066c01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Shortcut UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS WeDo 2.0
+
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 19066.dat
+1 16 0 23 0 1 0 0 0 1 0 0 0 1 19065.dat
+1 47 0 1 -38 1 0 0 0 1 0 0 0 1 19070.dat
+1 2 0 1 -38 1 0 0 0 1 0 0 0 1 19068.dat
+1 79 0 3 -38 1 0 0 0 1 0 0 0 1 22994.dat
+1 71 -20 11 80 -1 0 0 0 1 0 0 0 -1 23807.dat
+1 71 20 11 80 -1 0 0 0 1 0 0 0 -1 23807.dat

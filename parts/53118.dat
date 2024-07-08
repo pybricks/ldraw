@@ -1,0 +1,22 @@
+0 Minifig Video Game Controller
+0 Name: 53118.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\53118s01.dat
+
+4 16 -10 0 -9 -5.1826 0 6.5 -15.0815 0 6.1049 -18.6 0 -12.5
+4 16 15.0815 0 6.1049 5.1826 0 6.5 10 0 -9 18.6 0 -12.5
+3 16 -5.1826 0 6.5 -10 0 -9 -4 0 -9
+3 16 4 0 -9 10 0 -9 5.1826 0 6.5
+4 16 4 0 -9 5.1826 0 6.5 -5.1826 0 6.5 -4 0 -9
+4 16 -6.111 0 7.8892 -10 0 9.5 -15.0815 0 6.1049 -5.1826 0 6.5
+4 16 10 0 9.5 6.111 0 7.8891 5.1826 0 6.5 15.0815 0 6.1049

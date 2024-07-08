@@ -1,13 +1,15 @@
-0 Boat Mast  2 x  2 x 16 Top without Bottom Nubs
+0 ~Boat Mast  2 x  2 x 16 Top without Bottom Nubs (Obsolete)
 0 Name: 2538a.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LDRAW_ORG Part UPDATE 2023-04
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-10-16 [MagFors] Derived from Andy Westrate's original design
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+0 !HISTORY 2022-10-08 [Philo] Obsoleted for bad geometry (arms too long). Use 2538c instead.
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
 
 
 1 16 0 0 0 -1.4142 0 -1.4142 0 -212 0 1.4142 0 -1.4142 1-4con6.dat

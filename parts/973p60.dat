@@ -1,10 +1,15 @@
-0 Minifig Torso with Shell Logo Pattern
+0 Minifig Torso with Shell Logo 1971 Pattern
 0 Name: 973p60.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2023-04
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973p60, BrickOwl 137938-92, Set 1468, Set 1470, Set 6371
+0 !KEYWORDS Set 6378, Set 6394, set 6395, set 6610, Set 6695, Set 7735, Set 7813
+
+0 !CMDLINE -c15
 
 0 !HISTORY 1999-04-01 [leozide] Secondary author
 0 !HISTORY 1999-04-16 [sbliss] Updated 973-4t.dat to s\973s01.dat; added back surface
@@ -18,6 +23,8 @@
 0 !HISTORY 2015-01-13 [Steffen] BFCed, removed emphasis lines
 0 !HISTORY 2015-01-18 [MagFors] Used pattern subfile
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2023-06-30 [Cheenzo] Made use of logo prims, added keywords, updated description
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
@@ -25,8 +32,8 @@
 4 16 19 29 10 -19 29 10 -14.345 2 10 14.345 2 10
 4 16 12 0 10 14.345 2 10 -14.345 2 10 -12 0 10
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
-
-1 16 0 13.3 -10 0.8 0 0 0 0.8 0 0 0 1 s\3004s60.dat
+1 16 0 13.3 -10 .8 0 0 0 0 -.8 0 1 0 logo-shell-1971.dat
+1 16 0 13.3 -10 .8 0 0 0 0 -.8 0 1 0 logo-shell-1971-outerbox.dat
 4 16 -19 29 -10 -9.2 21.7 -10 -9.2 15.2152 -10 -14.345 2 -10
 4 16 9.2 15.2152 -10 9.2 21.7 -10 19 29 -10 14.345 2 -10
 4 16 -14.345 2 -10 -9.2 15.2152 -10 -9.2 4.9 -10 -12 0 -10

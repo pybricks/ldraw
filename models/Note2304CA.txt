@@ -1,0 +1,117 @@
+ldraw.org Parts Update 2023-04
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Fri, 25 Aug 2023 01:30:48 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 577
+   New files: 512
+   New Parts: 259
+   New Subparts: 220
+   New Primitives: 19
+   New 48 Segment Primitives: 9
+   New Part TEXMAP Images: 5
+
+Moved Parts
+   577b.dat                   ~Moved to 64567a
+   577bc01.dat                ~Moved to 64567ac01
+   577bc02.dat                ~Moved to 64567ac02
+   577bc03.dat                ~Moved to 64567ac03
+   6014.dat                   ~Moved to 6014a
+   u334.dat                   ~Moved to 72892
+   3023pb0.dat                ~Moved To 3023bpb0
+
+Renamed Parts
+   2538a.dat                  Boat Mast  2 x  2 x 16 Top without Bottom Nubs
+   changed to    ~Boat Mast  2 x  2 x 16 Top without Bottom Nubs (Obsolete)
+   2538b.dat                  Boat Mast  2 x  2 x 16 Top with Bottom Nubs
+   changed to    ~Boat Mast  2 x  2 x 16 Top with Bottom Nubs (Obsolete)
+   32577.dat                  Technic Bionicle Torso  1 x  5 x  2 with  3 Pins and  6 Pegholes
+   changed to    Constraction Torso  5 x  3 with  3 Pins and  6 Pegholes
+   55615.dat                  Technic Pin Connector Perpendicular  3 x  3 Bent 90 with 4 Pins
+   changed to    Technic Pin Connector Perpendicular  3 x  3 Bent 90 with 4 Pins, Slots Along Beam
+   6156.dat                   Panel  1 x  4 x  3 with Glass
+   changed to    Panel  1 x  4 x  3 with Fixed Transparent Light Blue Glass
+   98285.dat                  Hinge Plate  2 x  4.5 Base with Technic Pin Hole
+   changed to    Hinge Plate  2 x  4.5 Base with Technic Pin Hole and  3 Holes
+   98286.dat                  Hinge Plate  2 x  4.5 Top with Technic Pin Hole
+   changed to    Hinge Plate  2 x  4.5 Top with Technic Pin Hole and  3 Holes
+   s\32577s01.dat             ~Technic Bionicle Body Segment Subpart
+   changed to    ~Constraction Torso  5 x  3 with  3 Pins and  6 Pegholes - One Quarter
+   s\6142617ls01.dat          ~Sticker  0.5 x  1.8 with White Disc and Stripe on Black Background Right - Common Part
+   changed to    ~Sticker  0.5 x  1.8 with Fog Light and Silver Stripe on Black Background Left - Common Part
+   s\6142617ls02.dat          ~Sticker  0.5 x  1.8 with White Disc and Stripe on Black Background Right - Headlamp
+   changed to    ~Sticker  0.5 x  1.8 with Fog Light and Silver Stripe on Black Background Left - Fog Light
+   u9010.dat                  ~Technic Axle Flexible 26 Axle - 4L End
+   changed to    ~Technic Axle Flexible 26 Axle - 4.8L End
+   92251p02c01.dat            Figure Friends Hips and Legs with Cropped Trousers with Dark Pink Flower, Medium Nougat Legs and Bright Pink Sandals Pattern
+   changed to    Figure Friends Hips and Legs with Cropped Trousers with Medium Lavender Flower, Medium Nougat Legs and Bright Pink Sandals Pattern
+   92251p02.dat               Figure Friends Legs with Cropped Trousers with Dark Pink Flower, Medium Nougat Legs and Bright Pink Sandals Pattern
+   changed to    Figure Friends Legs with Cropped Trousers with Medium Lavender Flower, Medium Nougat Legs and Bright Pink Sandals Pattern
+   s\u454p01s01.dat           ~Signpost Slanted Cantilever with Suspended Sign with Shell Logo Pattern - Side
+   changed to    ~Signpost Slanted Cantilever with Suspended Sign with Shell Logo 1971 Pattern - Side
+   973p60.dat                 Minifig Torso with Shell Logo Pattern
+   changed to    Minifig Torso with Shell Logo 1971 Pattern
+   3068bp60.dat               Tile  2 x  2 with Shell Logo Pattern
+   changed to    Tile  2 x  2 with Shell Logo 1971 Pattern
+   004416a.dat                Sticker  1.3 x  5.9 with "Shell" and Shell Logo - Logo Left
+   changed to    Sticker  1.3 x  5.9 with "Shell" and Shell Logo 1971 - Logo Left
+   004416b.dat                Sticker  1.3 x  5.9 with "Shell" and Shell Logo - Logo Right
+   changed to    Sticker  1.3 x  5.9 with "Shell" and Shell Logo 1971 - Logo Right
+   004462d.dat                Sticker  2.1 x  9.9 with "Shell" and Shell Logos
+   changed to    Sticker  2.1 x  9.9 with "Shell" and Shell Logos 1971
+   004695a.dat                Sticker  1.0 x  1.5 with Shell Logo
+   changed to    Sticker  1.0 x  1.5 with Shell Logo 1971
+   004695b.dat                Sticker  1.9 x  1.9 with Shell Logo
+   changed to    Sticker  1.9 x  1.9 with Shell Logo 1971
+   190605a.dat                Sticker  1.0 x  1.8 with Shell Logo White Background
+   changed to    Sticker  1.0 x  1.8 with Shell Logo 1971 on White Background
+   196945y.dat                Sticker  1.1 x  3.9 with "Shell" and Shell Logo - Logo Left
+   changed to    Sticker  1.1 x  3.9 with "Shell" and Shell Logo 1971 - Logo Left
+   196945z.dat                Sticker  1.1 x  3.9 with "Shell" and Shell Logo - Logo Right
+   changed to    Sticker  1.1 x  3.9 with "Shell" and Shell Logo 1971 - Logo Right
+   3821p60.dat                Door  1 x  3 x  1 Right with Shell Logo Pattern
+   changed to    Door  1 x  3 x  1 Right with Shell Logo 1971 Pattern
+   3822p60.dat                Door  1 x  3 x  1 Left with Shell Logo Pattern
+   changed to    Door  1 x  3 x  1 Left with Shell Logo 1971 Pattern
+   6009254d.dat               Sticker  0.8 x  0.8 with Logo Shell 1971 and "V-Power" on White Background
+   changed to    Sticker  0.8 x  0.8 with Logo Shell 1971 and Red "V-Power" on White Background
+   s\3004s60.dat              ~Pattern Shell Logo 1971
+   changed to    ~Obsolete file
+   6022692d.dat               Sticker Trapezoidal with Movie Screen
+   changed to    Sticker  4.0 x  8.3 Trapezoidal with Movie Screen
+   6022692c.dat               Sticker  6.3 x  3.3 with Brick Separator Movie Poster
+   changed to    Sticker  6.3 x  3.3 with The Brick Separator Movie Poster
+
+Other Fixed Parts
+   11955.dat                  Technic Gear  8 Tooth Reinforced Sliding
+   15458.dat                  Technic Panel  3 x 11
+   3068bpt0.dat               Tile  2 x  2 with Red/Green "Octan" Text and Logo Pattern
+   3068bpt1.dat               Tile  2 x  2 with "P" on Blue Background Pattern
+   6192.dat                   Brick  2 x  4 with Curved Top
+   64782.dat                  Technic Panel  5 x 11
+   973p8z.dat                 Minifig Torso with T-Shirt, Blue Dungarees and Tools Pattern
+   u9364.dat                  ~Electric Powered Up Medium Angular Motor Front Top
+   s\191915snla.dat           ~Netherlands Railways Logo Foreground
+   s\191915snlb.dat           ~Netherlands Railways Logo Background
+   s\2723s01.dat              ~Technic Disc  3 x  3 with Axlehole without Top Surface
+   s\46227s01.dat             ~Technic Gear 24 Tooth Double Bevel - 1/4 segment
+   s\4744s01.dat              ~Brick  2 x  4 x  2 with Curved Top without Front and Back Face
+   s\93273s01.dat             ~Slope Brick Curved  4 x  1 Double without Top Surface
+   s\u9364s01.dat             ~Electric Powered Up Medium Angular Motor Front Top Half
+   4624.dat                   Wheel Rim  6.4 x  8
+   1-8tric.dat                Tri-Cylinder Intersection 0.125
+   3004pt2.dat                Brick  1 x  2 with Shell Logo 1971 Small Pattern
+   3004pt3.dat                Brick  1 x  2 with Shell Logo 1971 Large Pattern
+   003605c.dat                Sticker  2.2 x  1.9 with Shell Logo 1971
+   003605d.dat                Sticker  1.3 x  1.3 with Shell Logo 1971
+   004318b.dat                Sticker  1.1 x  1.25 with Shell Logo 1971
+   004462e.dat                Sticker  1.1 x  1.1 with Shell Logo 1971
+   004695c.dat                Sticker Minifig Torso with Shell Logo 1971
+   190245b.dat                Sticker  0.7 x  0.9 with Shell Logo 1971
+   s\u9365s02.dat             ~Electric Powered Up Angular Motor Side Cavities
+   6022692b.dat               Sticker  6.3 x  3.3 with Mystery of the Monorail Movie Poster
+   6022692a.dat               Sticker  6.3 x  3.3 with Forever Sorting Movie Poster

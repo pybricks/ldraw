@@ -1,0 +1,28 @@
+0 ~Minifig Cup Take Out for Dome Lid without Outer Surface
+0 Name: s\20398s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Subpart UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2016-03-18 [GeraldLasser] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
+
+
+1 16 0 -5 0 1 0 0 0 -1.25 0 0 0 1 stud4a.dat
+1 16 0 -21 0 9 0 0 0 1 0 0 0 9 4-4edge.dat
+1 16 0 -16 0 6 0 0 0 -1 0 0 0 6 4-4disc.dat
+0 BFC INVERTNEXT
+1 16 0 -16 0 6 0 0 0 11 0 0 0 6 4-4cyli.dat
+1 16 0 -16 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 -21 0 1 0 0 0 1 0 0 0 1 4-4ring8.dat
+1 16 0 -21 0 1 0 0 0 1 0 0 0 1 4-4ring7.dat
+0 BFC INVERTNEXT
+1 16 0 -18 0 7 0 0 0 -3 0 0 0 7 4-4cylc.dat
+0 // Straw
+1 16 0 -37 0 2 0 0 0 5 0 0 0 2 4-4cylc.dat
+1 16 0 -32 0 2 0 0 0 5 0 0 0 2 4-4cylo.dat
+1 16 0 -18 0 1 0 0 0 -9 0 0 0 1 4-4con2.dat
+1 16 0 -18 0 3 0 0 0 -9 0 0 0 3 4-4edge.dat

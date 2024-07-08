@@ -1,0 +1,24 @@
+0 Technic Disc  3 x  3 with Axlehole with Black and Dark Bluish Grey Circles and Silver Spokes Pattern
+0 Name: 2723p03.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 2958pb095, set 10248, Vespa 125
+
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2723s01.dat
+1 16 0 3 0 7 0 0 0 1 0 0 0 7 4-4ndis.dat
+1 16 0 3 0 30 0 0 0 1 0 0 0 30 48\4-4aring.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2723p03s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\2723p03s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2723p03s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\2723p03s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\2723p03s01.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\2723p03s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\2723p03s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\2723p03s01.dat

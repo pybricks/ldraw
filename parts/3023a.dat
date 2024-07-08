@@ -1,0 +1,30 @@
+0 Plate  1 x  2 with Flat Pin
+0 Name: 3023a.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Part UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3023old
+
+0 !HISTORY 2022-08-03 [Blechtaler] made from 3023s01 and 3660bs01
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
+
+
+0 // Primitves
+0 BFC INVERTNEXT
+1 16 0 8 0 16 0 0 0 -4 0 0 0 6 box5.dat
+1 16 0 8 0 20 0 0 0 -8 0 0 0 10 box5.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+0 // Faces
+4 16 20 8 10 16 8 6 -16 8 6 -20 8 10
+4 16 -20 8 10 -16 8 6 -16 8 -6 -20 8 -10
+4 16 -20 8 -10 -16 8 -6 16 8 -6 20 8 -10
+4 16 20 8 -10 16 8 -6 16 8 6 20 8 10
+0 // Bottom Flat Pin
+1 16 -2.5 8 0 0 0 -1.5 0 -1 0 -1.5 0 0 2-4chrd.dat
+1 16 2.5 8 0 0 0 1.5 0 -1 0 1.5 0 0 2-4chrd.dat
+1 16 0 4 0 2.5 0 0 0 4 0 0 0 -1.5 box3u8p.dat
+1 16 -2.5 8 0 0 0 -1.5 0 -4 0 -1.5 0 0 2-4cylo.dat
+1 16 2.5 8 0 0 0 1.5 0 -4 0 -1.5 0 0 2-4cylo.dat

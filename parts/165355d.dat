@@ -1,0 +1,24 @@
+0 Sticker  1.9 x  1.9 with Octan Logo and "Octan" underneath on Transparent Background
+0 Name: 165355d.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2023-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS  Bricklink 6594stk01,  Brickowl 253587,  Rebrickable 165355,  tanker
+0 !KEYWORDS  trailer,  truck, Set 6594
+
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
+
+
+1 16 0 -0.25 0 19 0 0 0 0.25 0 0 0 19 box5-12.dat
+0 BFC NOCLIP
+1 16 0 -0.25 0 1 0 0 0 1 0 0 0 1 s\3068bpt0s01.dat
+0 BFC CLIP
+4 16 15.75 -0.25 16.35 19 -0.25 19 -19 -0.25 19 -15.75 -0.25 16.35
+4 16 19 -0.25 19 15.75 -0.25 16.35 15.75 -0.25 -6.75 17.15 -0.25 -9.35
+4 16 19 -0.25 -19 19 -0.25 19 17.15 -0.25 -9.35 17.15 -0.25 -17.75
+4 16 19 -0.25 -19 17.15 -0.25 -17.75 -17.15 -0.25 -17.75 -19 -0.25 -19
+4 16 -19 -0.25 -19 -17.15 -0.25 -17.75 -17.15 -0.25 -9.35 -19 -0.25 19
+4 16 -19 -0.25 19 -17.15 -0.25 -9.35 -15.75 -0.25 -6.75 -15.75 -0.25 16.35
