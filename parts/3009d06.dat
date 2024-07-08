@@ -1,0 +1,15 @@
+0 Brick  1 x  6 with Black "Bus Station" Sticker
+0 Name: 3009d06.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Shortcut UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 3009pb068, bus station, Set 379-1, Transport
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3009.dat
+1 16 0 12 -10 1 0 0 0 0 -1 0 1 0 190295a.dat

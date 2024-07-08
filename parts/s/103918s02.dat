@@ -1,0 +1,23 @@
+0 ~Windscreen  4 x  4 x  2 with Integral Glass - Frame
+0 Name: s\103918s02.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-08-23 {LEGO Instructions App} Original part shape
+0 !HISTORY 2023-10-07 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\103918s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\103918s04.dat
+4 16 20 -8 -37.5 20 -8 -40 -20 -8 -40 -20 -8 -37.5
+3 16 -20 -8 -40 20 -8 -40 0 -24 -40
+3 16 0 -22.068 -37.5 20 -8 -37.5 -20 -8 -37.5
+2 24 20 -8 -40 -20 -8 -40
+5 24 0 -24 -40 0 -35.975 -.142 2.5 -25.449 -34.738 -2.5 -25.449 -34.738
+5 24 0 -45.508 40 0 -33.5 .279 -2.5 -43.834 34.725 2.5 -43.834 34.725
+5 24 0 -22.068 -37.5 0 -33.5 .279 -2.597 -22.777 -34.738 2.597 -22.777 -34.738
+5 24 0 -35.975 -.142 0 -48 40 -2.5 -46.448 34.725 2.5 -46.448 34.725
+2 24 20 -8 -37.5 -20 -8 -37.5

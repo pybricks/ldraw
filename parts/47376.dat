@@ -1,7 +1,7 @@
 0 Brick 12 x 12 Corner Round with Support Pins
 0 Name: 47376.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LDRAW_ORG Part UPDATE 2024-05
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,45 +9,37 @@
 0 !KEYWORDS basebrick, Belville
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+0 !HISTORY 2022-03-24 [GeraldLasser] Corrected Bottom, Added Axleholes
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6162s01.dat
 
-1 16 100 0 100 1 0 0 0 1 0 0 0 1 stug2-2x2.dat
-0 BFC INVERTNEXT
-1 16 100 -4 100 8 0 0 0 8 0 0 0 8 t04i5000.dat
-0 BFC INVERTNEXT
-1 16 100 -4 100 0 0 8 0 8 0 -8 0 0 t04i5000.dat
-0 BFC INVERTNEXT
-1 16 100 -4 100 -8 0 0 0 8 0 0 0 -8 t04i5000.dat
-0 BFC INVERTNEXT
-1 16 100 -4 100 0 0 -8 0 8 0 8 0 0 t04i5000.dat
-1 16 100 -16 100 4 0 0 0 1 0 0 0 4 4-4edge.dat
-1 16 100 -16 100 4 0 0 0 12 0 0 0 4 4-4cyli.dat
-1 16 100 -16 100 4 0 0 0 1 0 0 0 4 4-4disc.dat
+1 16 -100 0 100 -1 0 0 0 1 0 0 0 1 s\52040s02.dat
+1 16 100 0 100 0 0 1 0 1 0 1 0 0 s\52040s02.dat
+1 16 -100 0 -100 0 0 -1 0 1 0 -1 0 0 s\52040s02.dat
 
-1 16 -100 0 100 1 0 0 0 1 0 0 0 1 stug2-2x2.dat
-0 BFC INVERTNEXT
-1 16 -100 -4 100 8 0 0 0 8 0 0 0 8 t04i5000.dat
-0 BFC INVERTNEXT
-1 16 -100 -4 100 0 0 8 0 8 0 -8 0 0 t04i5000.dat
-0 BFC INVERTNEXT
-1 16 -100 -4 100 -8 0 0 0 8 0 0 0 -8 t04i5000.dat
-0 BFC INVERTNEXT
-1 16 -100 -4 100 0 0 -8 0 8 0 8 0 0 t04i5000.dat
-1 16 -100 -16 100 4 0 0 0 1 0 0 0 4 4-4edge.dat
-1 16 -100 -16 100 4 0 0 0 12 0 0 0 4 4-4cyli.dat
-1 16 -100 -16 100 4 0 0 0 1 0 0 0 4 4-4disc.dat
+1 16 -100 4 -100 0 0 -1 0 1 0 1 0 0 axl3hol2.dat
+1 16 -100 4 -100 0 0 -1 0 1 0 1 0 0 axl3hol9.dat
+1 16 -100 4 -100 0 0 -1 0 14 0 1 0 0 axl3hol8.dat
+1 16 -100 18 -100 0 0 -1 0 -1 0 1 0 0 axl3ho10.dat
+1 16 -100 18 -100 0 0 -1 0 -1 0 1 0 0 axl3hol9.dat
+1 16 -100 18 -100 0 0 -1 0 -1 0 1 0 0 axl3hol2.dat
 
-1 16 -100 0 -100 1 0 0 0 1 0 0 0 1 stug2-2x2.dat
-0 BFC INVERTNEXT
-1 16 -100 -4 -100 8 0 0 0 8 0 0 0 8 t04i5000.dat
-0 BFC INVERTNEXT
-1 16 -100 -4 -100 0 0 8 0 8 0 -8 0 0 t04i5000.dat
-0 BFC INVERTNEXT
-1 16 -100 -4 -100 -8 0 0 0 8 0 0 0 -8 t04i5000.dat
-0 BFC INVERTNEXT
-1 16 -100 -4 -100 0 0 -8 0 8 0 8 0 0 t04i5000.dat
-1 16 -100 -16 -100 4 0 0 0 1 0 0 0 4 4-4edge.dat
-1 16 -100 -16 -100 4 0 0 0 12 0 0 0 4 4-4cyli.dat
-1 16 -100 -16 -100 4 0 0 0 1 0 0 0 4 4-4disc.dat
+1 16 -100 4 100 0 0 -1 0 1 0 1 0 0 axl3hol2.dat
+1 16 -100 4 100 0 0 -1 0 1 0 1 0 0 axl3hol9.dat
+1 16 -100 4 100 0 0 -1 0 14 0 1 0 0 axl3hol8.dat
+1 16 -100 18 100 0 0 -1 0 -1 0 1 0 0 axl3ho10.dat
+1 16 -100 18 100 0 0 -1 0 -1 0 1 0 0 axl3hol9.dat
+1 16 -100 18 100 0 0 -1 0 -1 0 1 0 0 axl3hol2.dat
+
+1 16 100 4 100 0 0 -1 0 1 0 1 0 0 axl3hol2.dat
+1 16 100 4 100 0 0 -1 0 1 0 1 0 0 axl3hol9.dat
+1 16 100 4 100 0 0 -1 0 14 0 1 0 0 axl3hol8.dat
+1 16 100 18 100 0 0 -1 0 -1 0 1 0 0 axl3ho10.dat
+1 16 100 18 100 0 0 -1 0 -1 0 1 0 0 axl3hol9.dat
+1 16 100 18 100 0 0 -1 0 -1 0 1 0 0 axl3hol2.dat
+
+1 16 100 0 100 1 0 0 0 1 0 0 0 1 s\47117s01.dat
+1 16 -100 0 100 1 0 0 0 1 0 0 0 1 s\47117s01.dat
+1 16 -100 0 -100 1 0 0 0 1 0 0 0 1 s\47117s01.dat

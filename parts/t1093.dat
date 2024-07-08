@@ -1,0 +1,32 @@
+0 ~| Circuit Cubes Plug  2 Points
+0 Name: t1093.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+
+1 16 0 0 0 6.5 0 0 0 35 0 0 0 3 box4.dat
+0 BFC INVERTNEXT
+1 16 3.15 35 0 1 0 0 0 -16 0 0 0 1 box5.dat
+0 BFC INVERTNEXT
+1 16 -3.15 35 0 1 0 0 0 -16 0 0 0 1 box5.dat
+0 BFC INVERTNEXT
+1 16 3.15 0 0 2 0 0 0 18 0 0 0 2 box5.dat
+0 BFC INVERTNEXT
+1 16 -3.15 0 0 2 0 0 0 18 0 0 0 2 box5.dat
+4 16 -1.15 0 2 -1.15 0 -2 1.15 0 -2 1.15 0 2
+4 16 -6.5 0 -3 6.5 0 -3 5.15 0 -2 -5.15 0 -2
+4 16 -5.15 0 2 -6.5 0 3 -6.5 0 -3 -5.15 0 -2
+4 16 -6.5 0 3 -5.15 0 2 5.15 0 2 6.5 0 3
+4 16 5.15 0 2 5.15 0 -2 6.5 0 -3 6.5 0 3
+4 16 2.15 35 1 2.15 35 -1 -2.15 35 -1 -2.15 35 1
+4 16 6.5 35 -3 4.15 35 -1 4.15 35 1 6.5 35 3
+4 16 -4.15 35 -1 -6.5 35 -3 -6.5 35 3 -4.15 35 1
+4 16 -6.5 35 -3 -4.15 35 -1 4.15 35 -1 6.5 35 -3
+4 16 -6.5 35 3 6.5 35 3 4.15 35 1 -4.15 35 1

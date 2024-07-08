@@ -1,12 +1,14 @@
 0 ~Brick 12 x 12 Corner Round without Corner Studs
 0 Name: s\6162s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Subpart UPDATE 2018-02
+0 !LDRAW_ORG Subpart UPDATE 2024-05
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+0 !HISTORY 2022-03-24 [GeraldLasser] Removed Corner Stud4s for the correction of 47376
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 3 16 -116 4 116 -80 4 80 -80 4 -116
@@ -42,13 +44,11 @@
 1 16 90 0 30 1 0 0 0 1 0 0 0 1 stug-5x1.dat
 1 16 110 0 60 1 0 0 0 1 0 0 0 1 stug-2x1.dat
 
-1 16 -100 4 100 -1 0 0 0 -5 0 0 0 1 stud4.dat
 1 16 -101.9 4 80 14.1 0 0 0 19 0 0 0 1 box3u2p.dat
 1 16 -80 0 80 -1 0 0 0 1 0 0 0 1 s\6161s02.dat
 1 16 -40 0 80 -1 0 0 0 1 0 0 0 1 s\6161s02.dat
 1 16 0 0 80 -1 0 0 0 1 0 0 0 1 s\6161s02.dat
 1 16 40 0 80 -1 0 0 0 1 0 0 0 1 s\6161s02.dat
-1 16 100 4 100 0 0 1 0 -5 0 1 0 0 stud4.dat
 1 16 80 4 101.9 0 0 1 0 19 0 -14.1 0 0 box3u2p.dat
 1 16 80 4 80 -1 0 0 0 -5 0 0 0 -1 stud4.dat
 1 16 101.9 4 80 14.1 0 0 0 19 0 0 0 -1 box3u2p.dat
@@ -129,7 +129,6 @@
 2 24 41 23 -74.035699 39.3248 23 -75.5064
 2 24 39.3248 23 -75.5064 39 23 -75.723131
 
-1 16 -100 4 -100 0 0 -1 0 -5 0 -1 0 0 stud4.dat
 1 16 -80 4 -101.9 0 0 -1 0 19 0 14.1 0 0 box3u2p.dat
 1 16 -60 4 -100 0 0 -1 0 -5 0 -1 0 0 stud4.dat
 1 16 -40 4 -99.8 0 0 -1 0 19 0 12 0 0 box3u6.dat

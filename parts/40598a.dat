@@ -1,0 +1,29 @@
+0 Minifig Weapon Disc Projectile
+0 Name: 40598a.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS fan, Minifig Accessory Pack #10, propellor, ventilation
+0 !KEYWORDS Venting Disc
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\40598as01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\40598as01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\40598as01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\40598as01.dat
+
+0 BFC INVERTNEXT
+1 16 0 0 0 16 0 0 0 .5 0 0 0 -16 48\4-4cyli.dat
+
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4o.dat
+1 16 0 0 0 8 0 0 0 8 0 0 0 8 4-4cylo.dat
+
+0 BFC INVERTNEXT
+1 16 0 .5 0 4 0 0 0 -.5 0 0 0 4 4-4cylc.dat
+1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4ring1.dat

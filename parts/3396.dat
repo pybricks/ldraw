@@ -1,0 +1,17 @@
+0 Tile  2 x  2 with Two  1 x  1 Curved Cutouts
+0 Name: 3396.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-10-28 [MagFors] Adapted to normal resolution
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3396s01.dat
+
+1 16 20 0 20 -20 0 0 0 1 0 0 0 -20 1-4ndis.dat
+1 16 -20 0 -20 20 0 0 0 1 0 0 0 20 1-4ndis.dat
+4 16 0 0 -20 20 0 -20 20 0 0 0 0 0
+4 16 -20 0 0 0 0 0 0 0 20 -20 0 20

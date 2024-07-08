@@ -1,0 +1,20 @@
+0 ~Figure Troll Body Left
+0 Name: 60637.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\60637s01.dat
+0 // eye surface
+3 16 9.663 51.482 -49.66 13.974 48.71 -45.13 8.348 30.545 -50.107
+3 16 13.974 48.71 -45.13 18.419 49.952 -41.054 8.348 30.545 -50.107
+3 16 12.3 24.997 -46.018 8.348 30.545 -50.107 18.419 49.952 -41.054
+3 16 8.348 30.545 -50.107 4.614 35.025 -53.099 9.663 51.482 -49.66
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\60637s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\60637s03.dat

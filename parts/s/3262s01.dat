@@ -1,0 +1,30 @@
+0 ~Cylinder  2 x  2 with Dome Top with Axle Hole and Vented Stud
+0 Name: s\3262s01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+
+1 16 0 4 0 2 0 0 0 -1 0 0 0 -2 4-4ring2.dat
+1 16 0 16 0 8 0 0 0 3 0 0 0 8 4-4cyli.dat
+1 16 0 0 0 1 0 0 0 1.3333 0 0 0 1 filstud2.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 0 0 2 0 0 0 1 0 0 0 2 4-4ring3.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 0 19 0 1 0 0 0 -1.25 0 0 0 1 stud4a.dat
+1 16 0 19 0 1 0 0 0 1 0 0 0 1 axl3hol3.dat
+1 16 0 19 0 1 0 0 0 1 0 0 0 1 axl3hol9.dat
+1 16 0 19 0 1 0 0 0 -1 0 0 0 1 axl3ho10.dat
+1 16 0 4 0 1 0 0 0 15 0 0 0 1 axl3hol8.dat
+1 16 0 4 0 1 0 0 0 1 0 0 0 1 axl3hol2.dat
+1 16 0 4 0 1 0 0 0 1 0 0 0 1 axl3hol9.dat
+1 16 0 4 0 1 0 0 0 1 0 0 0 1 axl3ho10.dat
+1 16 0 19 0 6 0 0 0 -1 0 0 0 6 4-4ering.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3262s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3262s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3262s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3262s02.dat

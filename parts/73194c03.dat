@@ -1,13 +1,16 @@
-0 Door  1 x  4 x  5 Right with Trans Black Glass
+0 Door  1 x  4 x  5 Right with Trans Brown Glass
 0 Name: 73194c03.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Shortcut UPDATE 2019-03
+0 !LDRAW_ORG Shortcut UPDATE 2024-05
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !KEYWORDS Bricklink 73435c03, Brickowl 699860, Rebrickable 73194c03, set 10027
 
+0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !HISTORY 2024-05-29 [MagFors] Update description, added keywords
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 1 16 0 114 0 -1 0 0 0 -1 0 0 0 1 4343.dat
 1 40 0 0 0 1 0 0 0 1 0 0 0 1 4344.dat

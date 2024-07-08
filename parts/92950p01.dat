@@ -1,0 +1,17 @@
+0 Arch  1 x  6 Raised with Metallic Silver Curved Stripe Pattern
+0 Name: 92950p01.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 92950pb01, BrickOwl 1030014, Rebrickable 92950pr0001
+0 !KEYWORDS Set 10321
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\92950s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\92950p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\92950p01s01.dat
+3 16 -60 0 -10 0 2.75 -10 60 0 -10

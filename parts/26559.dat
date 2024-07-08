@@ -1,12 +1,14 @@
 0 Train Track Roller Coaster Ramp  4 x 16 x  6 S-Shape Lower
 0 Name: 26559.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LDRAW_ORG Part UPDATE 2024-05
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !HISTORY 2023-02-26 [Philo] Adjusted sleepers position/spacing against BIs data.
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 1 16 300 144 0 1 0 0 0 1 0 0 0 1 stug-2x1.dat
@@ -26,11 +28,11 @@
 1 16 10 1.5218 0 0 -1 0 -1.5218 0 0 0 0 -21 rect1.dat
 4 16 -10 0 22.5 -10 0 -22.5 10 0 -21 10 0 21
 1 16 300 144 0 -1 0 0 0 1 0 0 0 -1 s\34738s01.dat
-1 16 136 87.1 0 1 0 0 0 1 0 0 0 1 s\34738s03.dat
-1 16 189 112.4 0 1 0 0 0 1 0 0 0 1 s\34738s03.dat
-1 16 83 53.7 0 1 0 0 0 1 0 0 0 1 s\34738s03.dat
-1 16 35 16.7 0 1 0 0 0 1 0 0 0 1 s\34738s03.dat
-1 16 246.2 130.3 0 1 0 0 0 1 0 0 0 1 s\34738s03.dat
+1 16 138.4 88.4 0 1 0 0 0 1 0 0 0 1 s\34738s03.dat
+1 16 192.7 113.9 0 1 0 0 0 1 0 0 0 1 s\34738s03.dat
+1 16 87.3 56.9 0 1 0 0 0 1 0 0 0 1 s\34738s03.dat
+1 16 39.5 20.5 0 1 0 0 0 1 0 0 0 1 s\34738s03.dat
+1 16 250.2 131.1 0 1 0 0 0 1 0 0 0 1 s\34738s03.dat
 5 24 290 141.76 -22.5 310 128.469 -26.304 310 141.76 -22.5 290 133.4124 -24.721
 5 24 285.5 142 27.1 310 134 29.394 287.8779 133.1758 29.394 310 142 27.1
 5 24 310 128.469 26.304 290 141.76 22.5 310 141.76 22.5 290 133.4124 24.721

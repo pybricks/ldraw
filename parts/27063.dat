@@ -1,0 +1,20 @@
+0 Animal Bird Parrot with Large Beak
+0 Name: 27063.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2021-03-19 {LEGO/Unity Microgame} Original part shape
+0 !HISTORY 2022-01-18 [ejboer] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\27063s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\27063s01.dat
+0 BFC INVERTNEXT
+1 16 0 -4 0 6 0 0 0 4 0 0 0 6 4-4cylo.dat
+0 BFC INVERTNEXT
+1 16 0 -32 0 4 0 0 0 28 0 0 0 4 4-4cylc.dat
+1 16 0 -4 0 2 0 0 0 -1 0 0 0 2 4-4ring2.dat

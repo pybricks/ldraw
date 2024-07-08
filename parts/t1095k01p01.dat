@@ -1,0 +1,16 @@
+0 | Circuit Cubes Plug  2 Points with Cable Stub with Yellow and Medium Lilac Wires Pattern
+0 Name: t1095k01p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part Flexible_Section UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 t1093.dat
+1 85 0 0 0 1 0 0 0 1 0 0 0 1 s\t1094k01s01.dat
+1 14 0 0 0 -1 0 0 0 1 0 0 0 -1 s\t1094k01s01.dat

@@ -1,0 +1,24 @@
+0 Animal Goat with Black Eyes and Tan Horns Pattern
+0 Name: 95341p03.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 5170, Bricklink 95341pb03, Brickowl 529867, Rebrickable 95341pr0002
+0 !KEYWORDS set 10332
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\95341s00.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\95341p01s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\95341p01s02.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\95341s03.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\95341s04.dat
+
+1 19 0 0 0 1 0 0 0 1 0 0 0 1 s\95341s05.dat
+1 19 0 0 0 -1 0 0 0 1 0 0 0 1 s\95341s05.dat

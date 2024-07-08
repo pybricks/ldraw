@@ -1,0 +1,36 @@
+0 Support  2 x  2 x  2 Round with Blind Hole and Bottom Stud Holders
+0 Name: 3940c.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Space Stand
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3940s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3940s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3940s02.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\3940s02.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\3940s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3940s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3940s02.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\3940s02.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\3940s02.dat
+
+0 BFC INVERTNEXT
+1 16 0 7.5 0 4 0 0 0 -7.5 0 0 0 4 4-4cylc.dat
+0 BFC INVERTNEXT
+1 16 0 10.5 0 4 0 0 0 17.5 0 0 0 4 4-4cylc.dat
+
+1 16 5.25 44 14 2.9 0 0 0 3.8 0 2 0 2 tri3a1.dat
+1 16 -5.25 44 14 -2.9 0 0 0 3.8 0 2 0 2 tri3a1.dat
+1 16 14 44 -5.25 2 0 2 0 3.8 0 -2.9 0 0 tri3a1.dat
+1 16 14 44 5.25 2 0 2 0 3.8 0 2.9 0 0 tri3a1.dat
+1 16 -5.25 44 -14 -2.9 0 0 0 3.8 0 -2 0 -2 tri3a1.dat
+1 16 5.25 44 -14 2.9 0 0 0 3.8 0 -2 0 -2 tri3a1.dat
+1 16 -14 44 5.25 -2 0 -2 0 3.8 0 2.9 0 0 tri3a1.dat
+1 16 -14 44 -5.25 -2 0 -2 0 3.8 0 -2.9 0 0 tri3a1.dat

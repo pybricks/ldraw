@@ -1,0 +1,43 @@
+0 Support  2 x  2 x  2 Round with Open Hole and Stud Holders
+0 Name: 3940b.dat
+0 Author: James Jessiman
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Space Stand
+
+0 !HISTORY 2007-06-30 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant; changed edges/polygons to primitives; added missing surfaces (2004-11-16)
+0 !HISTORY 2008-07-08 [sbliss] Restored essentially unmodified codelines (2004-11-16)
+0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
+0 !HISTORY 2013-08-29 [cwdee] Updated description
+0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+0 !HISTORY 2022-07-24 [ejboer] Subfiled for variants, extended description
+0 !HISTORY 2022-12-31 [MagFors] Used prism primitives
+0 !HISTORY 2024-05-02 [MagFors] Moved 3940 to 3940b
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3940s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3940s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3940s02.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\3940s02.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\3940s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3940s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3940s02.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\3940s02.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\3940s02.dat
+
+0 BFC INVERTNEXT
+1 16 0 0 0 4 0 0 0 28 0 0 0 4 4-4cylo.dat
+
+1 16 5.25 44 14 2.9 0 0 0 3.8 0 2 0 2 tri3a1.dat
+1 16 -5.25 44 14 -2.9 0 0 0 3.8 0 2 0 2 tri3a1.dat
+1 16 14 44 -5.25 2 0 2 0 3.8 0 -2.9 0 0 tri3a1.dat
+1 16 14 44 5.25 2 0 2 0 3.8 0 2.9 0 0 tri3a1.dat
+1 16 -5.25 44 -14 -2.9 0 0 0 3.8 0 -2 0 -2 tri3a1.dat
+1 16 5.25 44 -14 2.9 0 0 0 3.8 0 -2 0 -2 tri3a1.dat
+1 16 -14 44 5.25 -2 0 -2 0 3.8 0 2.9 0 0 tri3a1.dat
+1 16 -14 44 -5.25 -2 0 -2 0 3.8 0 -2.9 0 0 tri3a1.dat

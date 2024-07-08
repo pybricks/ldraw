@@ -1,0 +1,17 @@
+0 Technic Gear 24 Tooth with Clutch on Both Sides
+0 Name: 2471.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-08-19 {LEGO Instructions App} Original part shape
+0 !HISTORY 2023-08-20 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+1 16 0 0 0 -1 0 0 0 0 -1 0 -1 0 connhole.dat
+1 16 0 0 10 -9 0 0 0 0 9 0 -8 0 4-4cylo.dat
+1 16 0 0 -2 -9 0 0 0 0 9 0 -8 0 4-4cylo.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2471s02.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\2471s02.dat

@@ -1,0 +1,31 @@
+0 Technic Pin with Friction and Towball on  1L Bar
+0 Name: 80477.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-10-07 {LEGO Instructions App} Original part shape
+0 !HISTORY 2022-10-07 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+
+1 16 2 0 0 0 -2 0 0 0 8 8 0 0 4-4cylc.dat
+1 16 0 0 0 0 1 0 0 0 8 8 0 0 4-4disc.dat
+1 16 18 0 0 0 1 0 -1 0 0 0 0 1 confricrib1.dat
+1 16 18 0 0 0 1 0 1 0 0 0 0 1 confricrib1.dat
+1 16 18 0 0 0 1 0 1 0 0 0 0 -1 confricrib1.dat
+1 16 18 0 0 0 1 0 -1 0 0 0 0 -1 confricrib1.dat
+1 16 2 0 0 0 -1 0 -1 0 0 0 0 1 confricrib2.dat
+1 16 20 0 0 0 -1 0 0 0 -1 1 0 0 connectcollar5.dat
+1 16 20 0 0 0 -1 0 0 0 1 1 0 0 connectcollar5.dat
+1 16 13 0 0 0 -11 0 0 0 -6 -6 0 0 4-4cyli.dat
+1 16 2 0 0 0 -1 0 0 0 -6 -6 0 0 4-4edge.dat
+1 16 0 0 0 0 -1 0 0 0 4 4 0 0 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 2 0 0 0 11 0 0 0 4 4 0 0 4-4cyli.dat
+1 16 2 0 0 0 1 0 0 0 4 4 0 0 4-4edge.dat
+1 16 -22 0 0 0 22 0 0 0 4 4 0 0 4-4cyli.dat
+1 16 -30 0 0 0 -4 0 0 0 4 -4 0 0 4-4cyl1sph2.dat
+1 16 -30 0 0 0 0 8 0 8 0 -8 0 0 8-8sphe.dat

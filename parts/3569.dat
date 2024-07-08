@@ -1,0 +1,60 @@
+0 Cone  4 x  4 x  3 on Brick  2 x  2 Round
+0 Name: 3569.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-09-26 {LEGO Instructions App} Original part shape
+0 !HISTORY 2023-10-16 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat
+1 16 0 0 0 30 0 0 0 1 0 0 0 30 48\4-4edge.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4ering.dat
+1 16 0 0 0 30 0 0 0 1 0 0 0 30 48\1-4chrd.dat
+1 16 0 0 0 0 0 30 0 1 0 -30 0 0 48\1-4chrd.dat
+1 16 0 0 0 -30 0 0 0 1 0 0 0 -30 48\1-4chrd.dat
+1 16 0 0 0 0 0 -30 0 1 0 30 0 0 48\1-4chrd.dat
+3 16 0 0 30 6 0 6 30 0 0
+3 16 30 0 0 6 0 6 6 0 -6
+3 16 30 0 0 6 0 -6 0 0 -30
+3 16 0 0 -30 6 0 -6 -6 0 -6
+3 16 0 0 -30 -6 0 -6 -30 0 0
+3 16 -30 0 0 -6 0 -6 -6 0 6
+3 16 -30 0 0 -6 0 6 0 0 30
+3 16 0 0 30 -6 0 6 6 0 6
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 axl3ho10.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 axl3hol9.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 axl3hol2.dat
+1 16 0 0 0 1 0 0 0 20 0 0 0 1 axl3hol8.dat
+1 16 0 20 0 1 0 0 0 1 0 0 0 1 axl3hol9.dat
+1 16 0 20 0 1 0 0 0 -1 0 0 0 1 axl3ho10.dat
+1 16 0 20 0 6 0 0 0 -1 0 0 0 6 4-4ering.dat
+1 16 0 20 0 1 0 0 0 1 0 0 0 1 axl3hol3.dat
+1 16 0 20 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
+1 16 0 3.75 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+1 16 0 20 0 8 0 0 0 -16.25 0 0 0 8 4-4cyli.dat
+1 16 0 68 0 40 0 0 0 1 0 0 0 40 48\4-4edge.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3569s02.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\3569s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3569s02.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\3569s02.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3569s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3569s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\3569s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\3569s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3569s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3569s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\3569s01.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\3569s01.dat
+
+0 // Outside
+1 16 0 68 0 10 0 0 0 -68 0 0 0 10 48\1-4con3.dat
+1 16 0 68 0 0 0 10 0 -68 0 -10 0 0 48\1-4con3.dat
+1 16 0 68 0 -10 0 0 0 -68 0 0 0 -10 48\1-4con3.dat
+1 16 0 68 0 0 0 -10 0 -68 0 10 0 0 48\1-4con3.dat

@@ -1,0 +1,17 @@
+0 Plate  2 x  4 with Reinforced Flatened Pins
+0 Name: 40687.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS dual moulded, hub, wheel
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\40687s01.dat
+0 // different plastic
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\40687s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\40687s02.dat

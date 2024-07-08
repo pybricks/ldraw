@@ -1,13 +1,14 @@
-0 Roadsign Clip-on  2.2 x  2.667 Triangular (Thick C-Clip)
+0 Roadsign Clip-on  2.2 x  2.667 Triangular (Thick C-Clip) (Obsolete)
 0 Name: 65676.dat
 0 Author: Vincent Messenet [Cheenzo]
-0 !LDRAW_ORG Part UPDATE 2022-04
+0 !LDRAW_ORG Part UPDATE 2024-05
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
-
+0 !HISTORY 2024-06-27 [Philo] Obsoleted for wrong clip position. Use 65676a instead
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65676s01.dat
 

@@ -1,0 +1,199 @@
+ldraw.org Parts Update 2024-05
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Sun, 30 Jun 2024 00:13:11 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 725
+   New files: 609
+   New Parts: 365
+   New Subparts: 210
+   New Primitives: 17
+   New 48 Segment Primitives: 14
+   New Part TEXMAP Images: 3
+
+Moved Parts
+   54696c01.dat               ~Moved to 54696p01c01
+   3940.dat                   ~Moved to 3940b
+
+Renamed Parts
+   30396.dat                  Hinge  1 x  2 Locking with Towball Socket
+   changed to    Hinge  1 x  2 Locking with  2 Fingers and Towball Socket,  9 Teeth
+   52040.dat                  Brick 12 x 12 with  3 Pin Holes on Sides & Axle Holes in Corners
+   changed to    Brick 12 x 12 with 3 Pin Holes on Sides & Axle Holes in Corners
+   6296256d.dat               Sticker  1.9 x  1.8 with Ignition Key, Switches and Ashtray
+   changed to    Sticker  1.9 x  1.8 with Ignition Key, Switches and Ashtray on Bright Light Yellow
+   6296256dc01.dat            Sticker  1.9 x  1.8 with Ignition Key, Switches and Ashtray (Formed)
+   changed to    Sticker  1.9 x  1.8 with Ignition Key, Switches and Ashtray on Bright Light Yellow (Formed)
+   6296256e.dat               Sticker  1.9 x  1.8 with "nuova 500" Emblem
+   changed to    Sticker  1.9 x  1.8 with "nuova 500" Emblem on Bright Light Yellow
+   6296256ec01.dat            Sticker  1.9 x  1.8 with "nuova 500" Emblem (Formed)
+   changed to    Sticker  1.9 x  1.8 with "nuova 500" Emblem on Bright Light Yellow (Formed)
+   6296256f.dat               Sticker  1.9 x  1.8 with 9 Air Outlet Gills
+   changed to    Sticker  1.9 x  1.8 with 9 Air Outlet Gills on Bright Light Yellow
+   6296256fc01.dat            Sticker  1.9 x  1.8 with 9 Air Outlet Gills (Formed)
+   changed to    Sticker  1.9 x  1.8 with 9 Air Outlet Gills on Bright Light Yellow (Formed)
+   s\52040s01.dat             ~Brick 12 x 12 - Side with  3 Pin Holes & Axle Hole in Corner
+   changed to    ~Brick 12 x 12 - Side with 3 Pin Holes
+   s\52040s02.dat             ~Brick 12 x 12 - Side Pin Hole
+   changed to    ~Understud  2 x  2 for Bricks with Axleholes or Support Pins on Corners
+   s\883-2.dat                ~Electric Ports for RCX Module
+   changed to    ~Electric Ports for RCX Module (Obsolete)
+   51719.dat                  Wheel Rim  6.4 x 11 with 5 Spokes and Silver Pattern
+   changed to    =Wheel Rim  6.4 x 11 with  5 Spokes with Metallic Silver Outline Pattern
+   6148.dat                   Plant Palm Leaf Small (Needs work)
+   changed to    Plant Palm Leaf Small
+   385.dat                    Baseplate 50 x 50 Road 3-way Curve
+   changed to    Baseplate 50 x 50 Road 3-way Curve (Obsolete)
+   30663.dat                  Car Steering Wheel 2D
+   changed to    Car Steering Wheel 2L
+   u9373.dat                  ~Electric Technic Motor Back with Centre Pin Hole
+   changed to    ~Electric Technic Motor Back with Centre Pin Hole (Obsolete)
+   u9376.dat                  ~Electric Technic Motor Back
+   changed to    ~Electric Technic Motor Back (Obsolete)
+   s\u9373s01.dat             ~Electric Technic Motor Back without Centre Pin Hole
+   changed to    ~Electric Technic Motor Back without Centre Pin Hole (Obsolete)
+   75904.dat                  Minifig Sledgehammer
+   changed to    Minifig Tool Sledgehammer
+   99206.dat                  Plate  2 x  2 x  0.667 with Two Studs On Side and Two Raised
+   changed to    Plate  2 x  2 x  0.667 with Two Studs On Side and Two Raised with Closed Understud
+   u9372c02.dat               Electric Technic Motor without Centre Pin Hole - Body Assembly
+   changed to    ~Electric Technic Motor without Centre Pin Hole - Body Assembly (Obsolete)
+   6216a.dat                  Electric Technic Motor  4.5V without Centre Pin Hole
+   changed to    ~Electric Technic Motor  4.5V without Centre Pin Hole (Obsolete)
+   11609.dat                  Plate  1 x  1 Round with Five-Pointed Star Top and Pin Hole Arm
+   changed to    Plate  1 x  1 Round with Five-Pointed Star Top and Pin Hole
+   16091.dat                  Car Steering Wheel 2D Reinforced
+   changed to    Car Steering Wheel 2L Reinforced
+   73194c03.dat               Door  1 x  4 x  5 Right with Trans Black Glass
+   changed to    Door  1 x  4 x  5 Right with Trans Brown Glass
+   45406c01.dat               Windscreen  4 x  6 x  4 Cab with Hinge with Trans Black Glass
+   changed to    Windscreen  4 x  6 x  4 Cab with Hinge with Trans Brown Glass
+   38547p01.dat               Animal Dragon Wing  9 x  6 with Handle Bars with Trans Black Trailing Edge Pattern
+   changed to    Animal Dragon Wing  9 x  6 with Handle Bars with Trans Brown Trailing Edge Pattern
+   47899c03.dat               Door  1 x  4 x  5 Left with Trans Black Glass
+   changed to    Door  1 x  4 x  5 Left with Trans Brown Glass
+   54092p01c01.dat            Plane Front  8 x 16 x  5 with Trans Black Windshield and Red Airline Bird Pattern
+   changed to    Plane Front  8 x 16 x  5 with Trans Brown Windshield and Red Airline Bird Pattern
+   54923c01.dat               Plane Front  8 x 16 x  5 with Trans Black Windshield
+   changed to    Plane Front  8 x 16 x  5 with Trans Brown Windshield
+   54092p02c01.dat            Plane Front  8 x 16 x  5 with Trans Black Windshield and Blue Airline Bird Pattern
+   changed to    Plane Front  8 x 16 x  5 with Trans Brown Windshield and Blue Airline Bird Pattern
+   55172.dat                  =Plane Front  8 x 16 x  5 with Trans Black Windshield and Blue Airline Bird Pattern
+   changed to    =Plane Front  8 x 16 x  5 with Trans Brown Windshield and Blue Airline Bird Pattern
+   55358.dat                  =Plane Front  8 X 16 X  5 with Trans Black Windshield and Red Airline Bird Pattern
+   changed to    =Plane Front  8 X 16 X  5 with Trans Brown Windshield and Red Airline Bird Pattern
+   62575p01.dat               Animal Ant with Marbled Trans Black Pattern
+   changed to    Animal Ant with Marbled Trans Brown Pattern
+   30178c02.dat               Door  1 x  4 x  6 with 3 Panes with TransBlack Glass
+   changed to    Door  1 x  4 x  6 with 3 Panes with Trans Brown Glass
+   4444p07.dat                Panel  2 x  5 x  6 with Red Scattered Bricks Pattern
+   changed to    Panel  2 x  5 x  6 Wall with Red Scattered Bricks Pattern
+   4444p06.dat                Panel  2 x  5 x  6 with Red Window Bricks Pattern
+   changed to    Panel  2 x  5 x  6 Wall with Red Window Bricks Pattern
+   973pwe.dat                 Minifig Torso with Necklace and Blue Squares Pattern
+   changed to    Minifig Torso with Buckskin Tunic, American Indian Necklace and Dark Turquoise Squares Pattern
+   30138.dat                  Minifig Headdress Indian Warbonnet
+   changed to    Minifig Headdress American Indian Warbonnet
+   30113.dat                  Minifig Headdress Indian Buffalo Horned
+   changed to    Minifig Headdress American Indian Buffalo Horned
+   30138p01.dat               Minifig Headdress Indian Warbonnet with Coloured Feathers Pattern
+   changed to    Minifig Headdress American Indian Warbonnet with Coloured Feathers Pattern
+   973pc11.dat                Minifig Torso with Necklace and Fringe Pattern
+   changed to    Minifig Torso with American Indian Necklace and Fringe Pattern
+   973pwb.dat                 Minifig Torso w/ White/Blue Triangles, Red/White Amulet Pattern
+   changed to    Minifig Torso with White/Blue Triangles, Red/White Amulet Pattern
+   973pwc.dat                 Minifig Torso w/ White/Blue Triangles, Blue/White Amulet Pattern
+   changed to    Minifig Torso with White/Blue Triangles, Blue/White Amulet Pattern
+   s\3626cp7cs01.dat          ~Minifig Head with Black Moustache Black and Eyebrows, Nougat Cheek Lines and Smile Half Pattern
+   changed to    ~Minifig Head with Black Moustache and Eyebrows, Nougat Cheek Lines and Smile Half Pattern
+   3626cp7c.dat               Minifig Head with Black Moustache Black and Eyebrows, Nougat Cheek Lines and Smile Pattern
+   changed to    Minifig Head with Black Moustache and Eyebrows, Nougat Cheek Lines and Smile Pattern
+   3626bpw3.dat               Minifig Head Female with Nose, Red Lips, and Large Eyes Pattern
+   changed to    Minifig Head Female with Nose, Red Lips and Large Eyes Pattern
+   logo-porsche-outline.dat   Logo Porsche - Outer box
+   changed to    ~Obsolete File
+   logoporsl02.dat            Logo White Porsche with Outer box
+   changed to    ~Obsolete File
+   4515d01.dat                Slope Brick 10  6 x  8 with Sticker Red and Blue "28" on Transparent Background
+   changed to    Slope Brick 10  6 x  8 with Red and Blue "28" on Transparent Background Sticker
+   s\65676s01.dat             ~Roadsign Clip-on  2.2 x  2.667 Triangular (Thick C-Clip) without Front Face
+   changed to    ~Roadsign Clip-on  2.2 x  2.667 Triangular (Thick C-Clip) without Front Face (Obsolete)
+   65676.dat                  Roadsign Clip-on  2.2 x  2.667 Triangular (Thick C-Clip)
+   changed to    Roadsign Clip-on  2.2 x  2.667 Triangular (Thick C-Clip) (Obsolete)
+   s\30259s01.dat             ~Roadsign Clip-on  2.2 x  2.667 Triangular without Front Face
+   changed to    ~Roadsign Clip-on  2.2 x  2.667 Triangular without Front Face (Obsolete)
+   30259d01.dat               Roadsign Clip-on  2.2 x  2.667 Triangular with Traffic Light Sticker
+   changed to    Roadsign Clip-on  2.2 x  2.667 Triangular with Traffic Light Sticker (Obsolete)
+   30259p06.dat               Roadsign Clip-on  2.2 x  2.667 Triangular with Narrow Road Pattern
+   changed to    Roadsign Clip-on  2.2 x  2.667 Triangular with Narrow Road Pattern (Obsolete)
+   30259p05.dat               Roadsign Clip-on  2.2 x  2.667 Triangular with Road Works Pattern
+   changed to    Roadsign Clip-on  2.2 x  2.667 Triangular with Road Works Pattern (Obsolete)
+   30259p01.dat               Roadsign Clip-on  2.2 x  2.667 Triangular with Fire Pattern
+   changed to    Roadsign Clip-on  2.2 x  2.667 Triangular with Fire Pattern (Obsolete)
+   30259p04.dat               Roadsign Clip-on  2.2 x  2.667 Triangular with Traffic Light Pattern
+   changed to    Roadsign Clip-on  2.2 x  2.667 Triangular with Traffic Light Pattern (Obsolete)
+   30259p03.dat               Roadsign Clip-on  2.2 x  2.667 Triangular with Bend Pattern
+   changed to    Roadsign Clip-on  2.2 x  2.667 Triangular with Bend Pattern (Obsolete)
+   30259p02.dat               Roadsign Clip-on  2.2 x  2.667 Triangular with Warning Pattern
+   changed to    Roadsign Clip-on  2.2 x  2.667 Triangular with Warning Pattern (Obsolete)
+   30259.dat                  Roadsign Clip-on  2.2 x  2.667 Triangular
+   changed to    Roadsign Clip-on  2.2 x  2.667 Triangular (Obsolete)
+
+Other Fixed Parts
+   2849.dat                   Electric 9V Battery Box  4 x 14 x  4 Buttons (Needs Work)
+   32606.dat                  Plant Flower with  7 Alternate Petals with Bar and Pin Hole
+   42003.dat                  Technic Cross Block 1 x 3 (Axle/Pin/Pin)
+   47376.dat                  Brick 12 x 12 Corner Round with Support Pins
+   6162.dat                   Brick 12 x 12 with 10 x 10 Corner Round
+   s\32606s01.dat             ~Plant Flower with  7 Alternate Petals Petal High Half
+   s\32606s02.dat             ~Plant Flower with  7 Alternate Petals Petal Low Half
+   s\6162s01.dat              ~Brick 12 x 12 Corner Round without Corner Studs
+   joint8socket1.dat          Joint-8 Socket with Friction
+   38317.dat                  Cone  4 x  2 x  3 Half
+   26559.dat                  Train Track Roller Coaster Ramp  4 x 16 x  6 S-Shape Lower
+   34738.dat                  Train Track Roller Coaster Ramp  4 x 16 x  3 S-Shape
+   26560.dat                  Train Track Roller Coaster Ramp  4 x 16 x  6 S-Shape Upper
+   3068bpm3.dat               Tile  2 x  2 with Groove with Dark Orange Pointed Ovals in Nougat and Olive Green Quarters Pattern
+   92950.dat                  Arch  1 x  6 Raised
+   3622p07.dat                Brick  1 x  3 with Cat Face, Wide Round Eyes and Open Mouth with Tongue Pattern
+   stud4s2.dat                Stud Tube Open 0.500 Sloped
+   filletp0s.dat              Fillet Plain 3 LDU Inter-Stud
+   filletp1s.dat              Fillet Plain 3 LDU to Side-Wall
+   filletp2s.dat              Fillet Plain 3 LDU to Corner-Walls
+   2-4cylj1x1e.dat            Cylinder 0.5 Junction with Edge Lines
+   2-4cylj1x1.dat             Cylinder 0.5 Junction
+   t04i1765.dat               Torus Inside  1 x 0.1765 x 0.25
+   t04o0833.dat               Torus Outside  1 x 0.0833 x 0.25
+   stud15.dat                 Stud Truncated Laterally Straight 40D for Round  2 x  2 Parts
+   stud21a.dat                Stud Tube Open Slot without Slot Base Edges
+   stud22a.dat                Stud Tube Open Split without Split Base Edges
+   clip16.dat                 Vertical Thick Clip for Flags
+   t04i1111.dat               Torus Inside  1 x 0.1111 x 0.25
+   8\stud7.dat                Stud Duplo Open (Fast-Draw)
+   peghole6.dat               Peg Hole End Extended
+   connect5.dat               Technic Pin 1.0 with Base Collar and Slots
+   32211.dat                  Znap Connector  3 x  3 - 4 Way
+   31110.dat                  Duplo Brick  2 x  2  x 2
+   3134.dat                   Brick  1 x  2 with Cable Cutout
+   4150c07.dat                ~Tile  2 x  2 Round with Lifepreserver Sticker (Shortcut) (Obsolete)
+   s\3622s01.dat              ~Brick  1 x  3 without Front Face
+   s\6636s01.dat              ~Tile  1 x  6 without Top Face
+   s\3008s01.dat              ~Brick  1 x  8 without Front Face
+   1-8cyls.dat                Cylinder Sloped 0.125
+   1-8cyls2.dat               Cylinder Sloped 0.125 Convex
+   30114.dat                  Minifig Hair Long with Headband
+   973pwd.dat                 Minifig Torso with Red on Bottom and Fringe Pattern
+   973pwf.dat                 Minifig Torso with White/Red Armour and White Belt Pattern
+   3626bpw5.dat               Minifig Head with Painted Triangles Pattern
+   3626bpw4.dat               Minifig Head with Orange Painted Face Pattern
+   3626bpw6.dat               Minifig Head with Red and Dark-Turquoise Painted Lines, Eyebrows, Pupils, Nose Pattern
+   3626bpw7.dat               Minifig Head with Light Turquoise and Orange Painted Face Pattern
+   3815bpw1.dat               Minifig Hips with Red/White Triangles Pattern
+   s\6148328ys04.dat          ~Sticker  1.9 x  3.8 with Black Air Vents and White "PORSCHE" on Red Background - Fifth Face
+   6148328i.dat               Sticker  1.8 x  3.8 with Red "STOP" with Arrow on Black Background
+   98138p81.dat               Tile  1 x  1 Round with VW Logo Pattern
+   6178096a.dat               Sticker  0.8 x  1.7 with Metallic Silver VW Logo

@@ -1,0 +1,20 @@
+0 ~Sticker  0.8 x  5.8 with Red "PORSCHE" on Black Background - Complementary faces
+0 Name: s\6148328ps02.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Subpart UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+
+0 // Faces
+3 16 -56.5 0 8 -58 0 6.5 -57.68 0 5.6
+4 16 -56.5 0 8 -57.68 0 5.6 57.68 0 5.6 56.5 0 8
+3 16 56.5 0 8 57.68 0 5.6 58 0 6.5
+4 16 -58 0 6.5 -58 0 -6.5 -57.68 0 -5.6 -57.68 0 5.6
+4 16 58 0 6.5 57.68 0 5.6 57.68 0 -5.6 58 0 -6.5
+3 16 -56.5 0 -8 -57.68 0 -5.6 -58 0 -6.5
+4 16 -56.5 0 -8 56.5 0 -8 57.68 0 -5.6 -57.68 0 -5.6
+3 16 56.5 0 -8 58 0 -6.5 57.68 0 -5.6

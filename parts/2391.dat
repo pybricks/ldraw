@@ -1,0 +1,18 @@
+0 Technic Beam  7 with Alternating Holes
+0 Name: 2391.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Flip-flop
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+
+1 16 0 0 60 1 0 0 0 1 0 0 0 1 s\71710s02.dat
+1 16 0 0 20 1 0 0 0 1 0 0 0 -1 s\71710s01.dat
+1 16 0 0 0 0 -1 0 -1 0 0 0 0 1 connhole.dat
+1 16 0 0 -20 1 0 0 0 1 0 0 0 1 s\71710s01.dat
+1 16 0 0 -60 1 0 0 0 1 0 0 0 -1 s\71710s02.dat

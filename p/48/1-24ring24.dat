@@ -1,0 +1,14 @@
+0 Hi-Res Ring 24 x 0.0417
+0 Name: 48\1-24ring24.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG 48_Primitive UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+
+4 16 25 0 0 24.785 0 3.2625 23.7936 0 3.132 24 0 0
+4 16 24.785 0 3.2625 24.1475 0 6.47 23.1816 0 6.2112 23.7936 0 3.132
+0 // Build by LDPartEditor (PrimGen 2.X)

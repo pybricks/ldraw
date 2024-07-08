@@ -1,0 +1,49 @@
+0 Brick 12 x 12 with 3 Pin Holes on Sides and Support Pins in Corners
+0 Name: 47976.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\52040s03.dat
+
+1 16 100 0 100 0 0 1 0 1 0 -1 0 0 s\47117s01.dat
+1 16 100 0 -100 0 0 1 0 1 0 -1 0 0 s\47117s01.dat
+1 16 -100 0 100 0 0 1 0 1 0 -1 0 0 s\47117s01.dat
+1 16 -100 0 -100 0 0 1 0 1 0 -1 0 0 s\47117s01.dat
+
+1 16 -100 4 -100 0 0 -1 0 1 0 1 0 0 axl2hol2.dat
+1 16 -100 4 -100 0 0 -1 0 1 0 1 0 0 axl2hol9.dat
+1 16 -100 4 -100 0 0 -1 0 14 0 1 0 0 axl2hol8.dat
+1 16 -100 18 -100 0 0 -1 0 -1 0 1 0 0 axl2ho10.dat
+1 16 -100 18 -100 0 0 -1 0 -1 0 1 0 0 axl2hol9.dat
+1 16 -100 18 -100 0 0 -1 0 -1 0 1 0 0 axl2hol2.dat
+1 16 -100 4 -100 0 0 -1 0 -1 0 1 0 0 axl2end.dat
+
+1 16 100 4 -100 0 0 -1 0 1 0 1 0 0 axl2hol2.dat
+1 16 100 4 -100 0 0 -1 0 1 0 1 0 0 axl2hol9.dat
+1 16 100 4 -100 0 0 -1 0 14 0 1 0 0 axl2hol8.dat
+1 16 100 18 -100 0 0 -1 0 -1 0 1 0 0 axl2ho10.dat
+1 16 100 18 -100 0 0 -1 0 -1 0 1 0 0 axl2hol9.dat
+1 16 100 18 -100 0 0 -1 0 -1 0 1 0 0 axl2hol2.dat
+1 16 100 4 -100 0 0 -1 0 -1 0 1 0 0 axl2end.dat
+
+1 16 -100 4 100 0 0 -1 0 1 0 1 0 0 axl2hol2.dat
+1 16 -100 4 100 0 0 -1 0 1 0 1 0 0 axl2hol9.dat
+1 16 -100 4 100 0 0 -1 0 14 0 1 0 0 axl2hol8.dat
+1 16 -100 18 100 0 0 -1 0 -1 0 1 0 0 axl2ho10.dat
+1 16 -100 18 100 0 0 -1 0 -1 0 1 0 0 axl2hol9.dat
+1 16 -100 18 100 0 0 -1 0 -1 0 1 0 0 axl2hol2.dat
+1 16 -100 4 100 0 0 -1 0 -1 0 1 0 0 axl2end.dat
+
+1 16 100 4 100 0 0 -1 0 1 0 1 0 0 axl2hol2.dat
+1 16 100 4 100 0 0 -1 0 1 0 1 0 0 axl2hol9.dat
+1 16 100 4 100 0 0 -1 0 14 0 1 0 0 axl2hol8.dat
+1 16 100 18 100 0 0 -1 0 -1 0 1 0 0 axl2ho10.dat
+1 16 100 18 100 0 0 -1 0 -1 0 1 0 0 axl2hol9.dat
+1 16 100 18 100 0 0 -1 0 -1 0 1 0 0 axl2hol2.dat
+1 16 100 4 100 0 0 -1 0 -1 0 1 0 0 axl2end.dat

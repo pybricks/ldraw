@@ -1,0 +1,32 @@
+0 Hose Reel  1 x  4 x  1.667 Holder with Two Pins
+0 Name: 30636.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP place drum at y= -26
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30636s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30636s01.dat
+
+1 16 20 0 0 0 0 -1 0 -1 0 -1 0 0 connect6.dat
+1 16 -20 0 0 0 0 -1 0 -1 0 -1 0 0 connect6.dat
+1 16 0 -2 0 0 0 40 0 2 0 10 0 0 box3u2p.dat
+
+1 16 0 -5 -2.5 20 0 0 0 1 0 0 0 7.5 rect2p.dat
+4 16 -40 0 -10 40 0 -10 20 -5 -10 -20 -5 -10
+4 16 -22 -7 5 -20 -5 5 20 -5 5 22 -7 5
+4 16 22 -7 5 17 -12 5 -17 -12 5 -22 -7 5
+4 16 -40 -2 10 40 -2 10 40 0 10 -40 0 10
+4 16 -40 -2 10 -37.4167 -7 10 37.4167 -7 10 40 -2 10
+4 16 37.4167 -7 10 -37.4167 -7 10 -17 -12 9.5 17 -12 9.5
+1 16 0 -12.5 9.45 0 0 17 -.5 1 0 -.05 0 0 rect2p.dat
+1 16 0 -13 7.2 0 0 -17 0 1 0 2.2 0 0 rect.dat
+1 16 0 -12.5 5 0 0 17 .5 0 0 0 1 0 rect2p.dat
+
+5 24 -37.4167 -7 10 37.4167 -7 10 34.3167 -13 9.4 40 -2 10

@@ -1,0 +1,22 @@
+0 Dish  4 x  4 Inverted with Notre Dame Window Pattern
+0 Name: 35394p00.dat
+0 Author: Marc Giraudet [Mad_Marc]
+0 !LDRAW_ORG Part UPDATE 2024-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 35394pb009, Rebrickable 35394pr9970, Set 21061
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\35394s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\35394p00s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\35394p00s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\35394p00s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\35394p00s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\35394p00s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\35394p00s01.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\35394p00s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\35394p00s01.dat

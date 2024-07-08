@@ -1,21 +1,22 @@
 0 Minifig Torso with White/Red Armour and White Belt Pattern
 0 Name: 973pwf.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2022-04
+0 !LDRAW_ORG Part UPDATE 2024-05
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 973px107, indian, medicine man, Native American, set 2845
-0 !KEYWORDS set 6718, set 6748, set 6763, set 6766, western, wild west
+0 !KEYWORDS American Indian, Bricklink 973px107c01, Brickowl 30677, medicine man
+0 !KEYWORDS Rebrickable 973c16h01pr0107, set 2845, set 6718, set 6748, set 6763
+0 !KEYWORDS set 6766, western, wild west
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
 0 !HISTORY 2022-06-22 [Philo] Updated description, added keywords
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
-
+0 !HISTORY 2024-06-11 [Holly-Wood] Added keywords
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 0 // Red
-
 4 4 -1.82 3.04 -10 -1.55 3.5 -10 -1.35 2.56 -10 -1.824 2.528 -10
 4 4 -1.35 2.56 -10 -1.55 3.5 -10 -0.87 3.92 -10 -0.69 2.2 -10
 4 4 0 2.1 -10 -0.69 2.2 -10 -0.87 3.92 -10 0 4.03 -10
