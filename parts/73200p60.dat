@@ -1,7 +1,7 @@
-0 Minifig Hips and Legs with Insectoids Silver and Copper Circuitry Pattern
+0 ~Minifig Hips and Legs with Insectoids Silver and Copper Circuitry Pattern (Obsolete)
 0 Name: 73200p60.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Shortcut UPDATE 2020-03
+0 !LDRAW_ORG Shortcut UPDATE 2023-03
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,6 +10,8 @@
 0 !KEYWORDS set 6965, Set 6969, Set 6977, Space
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
+0 !HISTORY 2023-03-28 [Holly-Wood] Obsoleted due to bad geometry
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
 
 
 1 8 0 0 0 1 0 0 0 1 0 0 0 1 3815b.dat

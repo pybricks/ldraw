@@ -1,18 +1,20 @@
-0 Minifig Leg Left with 'EMMET' Badge and Reflective Stripe Pattern
+0 ~Minifig Leg Left with 'EMMET' Badge and Reflective Stripe Pattern (Obsolete)
 0 Name: 3817bp8h.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Emmet
+0 !KEYWORDS Emmet, Set 70818
 
 0 !CMDLINE -c25
 
 0 !HISTORY 2015-10-27 [Christophe_Mitillo] Original pattern design
 0 !HISTORY 2020-06-13 [cwdee] Adapted to corrected geometry
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
+0 !HISTORY 2023-05-21 [Holly-Wood] Obsoleted due to bad geometry
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bs01.dat

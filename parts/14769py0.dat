@@ -1,0 +1,36 @@
+0 Tile  2 x  2 Round with Four Dark Grey Rings inside Black Disc Pattern
+0 Name: 14769py0.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 14769pb594, Pagani, Set 76915, Speed Champions, Utopia
+0 !KEYWORDS Exhaust Pipes
+
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+0 // Subparts
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769s01.dat
+1 16 -6.5 0 6.05 1 0 0 0 1 0 0 0 1 s\14769py0s01.dat
+1 16 6.5 0 6.05 1 0 0 0 1 0 0 0 1 s\14769py0s01.dat
+1 16 -6.5 0 -6.75 1 0 0 0 1 0 0 0 1 s\14769py0s01.dat
+1 16 6.5 0 -6.75 1 0 0 0 1 0 0 0 1 s\14769py0s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769py0s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\14769py0s02.dat
+0 // Primitives
+1 16 0 0 0 2 0 0 0 1 0 0 0 2 4-4ring9.dat
+1 16 0 0 0 .75 0 0 0 1 0 0 0 .75 4-4rin23.dat
+1 0 0 0 0 .25 0 0 0 1 0 0 0 .25 4-4ring68.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4-4rin16.dat
+1 0 0 0 0 16 0 0 0 1 0 0 0 16 4-4ering.dat
+0 // Complementary faces
+0 // Black faces
+3 0 0 0 16 -.4253 0 8.4419 .4253 0 8.4419
+4 0 -.5 0 6.05 .5 0 6.05 .4253 0 8.4419 -.4253 0 8.4419
+4 0 -.5 0 6.05 -.5 0 .5066 .5 0 .5066 .5 0 6.05
+4 0 -.5 0 -2.5074 .5 0 -2.5074 .5 0 .5066 -.5 0 .5066
+4 0 -.5 0 -2.5074 -.5 0 -6.75 .5 0 -6.75 .5 0 -2.5074
+3 0 0 0 -13 .5 0 -6.75 -.5 0 -6.75

@@ -1,0 +1,21 @@
+0 Minifig Armour Shoulder Pads with Top Spikes
+0 Name: 88295.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Neckwear
+
+0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2018-07-24 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\88295s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\88295s01.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 6 0 0 0 -3 0 0 0 6 4-4cylo.dat
+1 16 0 0 0 6 0 0 0 -1 0 0 0 6 4-4ndis.dat
+1 16 0 -3 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat

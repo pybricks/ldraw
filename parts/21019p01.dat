@@ -1,12 +1,16 @@
-0 Minifig Hips and Legs with Red Lower Leg Pattern
+0 ~Minifig Hips and Legs with Red Lower Leg Pattern (Obsolete)
 0 Name: 21019p01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Shortcut UPDATE 2019-03
+0 !LDRAW_ORG Shortcut UPDATE 2023-03
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS set 76046
+
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
+0 !HISTORY 2023-06-06 [MagFors] Obsoleted due to bad geometry
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815b.dat

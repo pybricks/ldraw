@@ -1,0 +1,31 @@
+0 Tile  1 x  1 with White Star Pattern
+0 Name: 3070bpx0.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Rebrickable 3070bpr0297, Set 21340, BrickOwl 125686
+
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
+
+1 15 -5 0 -5 5 0 0 0 1 0 0 0 5 1-4ndis.dat
+1 15 5 0 -5 -5 0 0 0 1 0 0 0 5 1-4ndis.dat
+1 15 -5 0 5 5 0 0 0 1 0 0 0 -5 1-4ndis.dat
+1 15 5 0 5 -5 0 0 0 1 0 0 0 -5 1-4ndis.dat
+1 16 -5 0 -5 5 0 0 0 1 0 0 0 5 1-4chrd.dat
+1 16 5 0 -5 -5 0 0 0 1 0 0 0 5 1-4chrd.dat
+1 16 -5 0 5 5 0 0 0 1 0 0 0 -5 1-4chrd.dat
+1 16 5 0 5 -5 0 0 0 1 0 0 0 -5 1-4chrd.dat
+3 16 -10 0 10 -5 0 0 0 0 5
+3 16 0 0 5 10 0 10 -10 0 10
+3 16 10 0 10 0 0 5 5 0 0
+3 16 10 0 10 5 0 0 10 0 -10
+3 16 10 0 -10 5 0 0 0 0 -5
+3 16 10 0 -10 0 0 -5 -10 0 -10
+3 16 -10 0 -10 0 0 -5 -5 0 0
+3 16 -10 0 -10 -5 0 0 -10 0 10

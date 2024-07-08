@@ -1,0 +1,21 @@
+0 Minifig Leg Right with Black Triangles on Foot Pattern
+0 Name: 3816cpcbd.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move down 12 units to align with hips
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 3816cpcbd.dat
+0 !HELP 1 16 0 28 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 970c00pb0340, Brickowl 435047, Chinese New Year, CMF
+0 !KEYWORDS Collectible Minifigures, Costume, pig, Rebrickable 970c43pr0711
+0 !KEYWORDS series 12, set 80102, animal
+
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 3817cpcbd.dat

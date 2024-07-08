@@ -1,0 +1,17 @@
+0 Windscreen  8 x  6 x  4 Canopy with Click Hinge Dual Fingers
+0 Name: 42602.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2019-01-04 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\42602s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\42602s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\42602s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\42602s03.dat

@@ -1,0 +1,18 @@
+0 Minifig Sword with Jagged Edges with Marbled White Pattern
+0 Name: 11439p01.dat
+0 Author: Javier Orquera [kuramapika1]
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Bricklink 11439pb01, Rebrickable 11439pat0003, Set 70501, Set 70505
+0 !KEYWORDS Set 70594, Set 70599, Set 70600, Set 70602, Set 70603, Set 70678
+0 !KEYWORDS Weapon
+
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\11439s03.dat
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\11439s04.dat

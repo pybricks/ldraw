@@ -1,0 +1,461 @@
+ldraw.org Parts Update 2023-03
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Sat, 24 Jun 2023 02:37:16 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 793
+   New files: 539
+   New Parts: 429
+   New Subparts: 97
+   New Primitives: 6
+   New 48 Segment Primitives: 1
+   New TEXMAP Images: 6
+
+Moved Parts
+   32532.dat                  ~Moved to 32532a
+   3023.dat                   ~Moved To 3023b
+
+Renamed Parts
+   32475.dat                  Constraction Foot  3 x  6 x  2.333 with Ball Socket
+   changed to    Constraction Foot  3 x  6 x  2.333 with Rounded Ball Socket
+   40345.dat                  =Technic Brick  6 x  8 with Open Center  4 x  6
+   changed to    =Technic Brick  6 x  8 with Open Centre  4 x  6 with Cross Underside Studs
+   52668.dat                  Technic Brick  6 x  8 with Open Center  4 x  6 Dual Pins on Ends
+   changed to    Technic Brick  6 x  8 with Open Centre  4 x  6 Dual Pins both Ends and One Long Side
+   5306.dat                   Electric Brick  2 x  2 x  2/3 with Wire End
+   changed to    ~Electric Brick  2 x  2 x  0.667 with Wire End (Obsolete)
+   73200-f2.dat               Minifig Hips and Legs, Sitting
+   changed to    ~Minifig Hips and Legs (Sitting) (Obsolete)
+   3816bp30.dat               Minifig Leg Right with Rags Pattern
+   changed to    ~Minifig Leg Right with Rags Pattern (Obsolete)
+   3817bp30.dat               Minifig Leg Left with Rags and Patch Pattern
+   changed to    ~Minifig Leg Left with Rags and Patch Pattern (Obsolete)
+   73200p30.dat               Minifig Hips and Legs with Rags and Patch Pattern
+   changed to    ~Minifig Hips and Legs with Rags and Patch Pattern (Obsolete)
+   3817bpw1.dat               Minifig Leg Left with Red/White Triangles Pattern
+   changed to    ~Minifig Leg Left with Red/White Triangles Pattern (Obsolete)
+   3817bpw2.dat               Minifig Leg Left with Blue/White Triangles, Fringe Pattern
+   changed to    ~Minifig Leg Left with Blue/White Triangles, Fringe Pattern (Obsolete)
+   3817bpw3.dat               Minifig Leg Left with Dark Turquoise/White Triangles, White Fringe Pattern
+   changed to    ~Minifig Leg Left with Dark Turquoise/White Triangles, White Fringe Pattern (Obsolete)
+   3816bpw2.dat               Minifig Leg Right with Blue/White Triangles, Fringe Pattern
+   changed to    ~Minifig Leg Right with Blue/White Triangles, Fringe Pattern (Obsolete)
+   3816bpw3.dat               Minifig Leg Right with Dark Turquoise/White Triangles, White Fringe Pattern
+   changed to    ~Minifig Leg Right with Dark Turquoise/White Triangles, White Fringe Pattern (Obsolete)
+   3816bpw1.dat               Minifig Leg Right with Red/White Triangles Pattern
+   changed to    ~Minifig Leg Right with Red/White Triangles Pattern (Obsolete)
+   73200pw3.dat               Minifig Hips and Legs with Dark Turquoise/White Triangles, White Fringe Pattern
+   changed to    ~Minifig Hips and Legs with Dark Turquoise/White Triangles, White Fringe Pattern (Obsolete)
+   73200pw2.dat               Minifig Hips and Legs with Blue/White Triangles, Fringe Pattern
+   changed to    ~Minifig Hips and Legs with Blue/White Triangles, Fringe Pattern (Obsolete)
+   73200pw1.dat               Minifig Hips and Legs with Red/White Triangles, Fringe Pattern
+   changed to    ~Minifig Hips and Legs with Red/White Triangles, Fringe Pattern (Obsolete)
+   3816bp3j.dat               Minifig Leg Right with Grass Skirt Pattern
+   changed to    ~Minifig Leg Right with Grass Skirt Pattern (Obsolete)
+   73200p3j.dat               Minifig Hips and Legs with Grass Skirt Pattern
+   changed to    ~Minifig Hips and Legs with Grass Skirt Pattern (Obsolete)
+   3817bp3j.dat               Minifig Leg Left with Grass Skirt Pattern
+   changed to    ~Minifig Leg Left with Grass Skirt Pattern (Obsolete)
+   3816bp40.dat               Minifig Leg Right with Pouch Pattern
+   changed to    ~Minifig Leg Right with Pouch Pattern (Obsolete)
+   73200p40.dat               Minifig Hips and Legs with Pouch and Amulet Pattern
+   changed to    ~Minifig Hips and Legs with Pouch and Amulet Pattern (Obsolete)
+   3817bp40.dat               Minifig Leg Left with Amulet Pattern
+   changed to    ~Minifig Leg Left with Amulet Pattern (Obsolete)
+   10679.dat                  Minifig Hips and Legs with Robotic Leg Right
+   changed to    ~Minifig Hips and Legs with Robotic Leg Right (Obsolete)
+   10177.dat                  Minifig Leg Right Robotic
+   changed to    ~Minifig Leg Right Robotic (Obsolete)
+   10679p01.dat               Minifig Hips and Legs with Flat Silver Robotic Leg Right
+   changed to    ~Minifig Hips and Legs with Flat Silver Robotic Leg Right Pattern (Obsolete)
+   73200p41.dat               Minifig Hips and Legs with Scale Mail Pattern
+   changed to    ~Minifig Hips and Legs with Scale Mail Pattern (Obsolete)
+   3816bp41.dat               Minifig Leg Right with Scale Mail Pattern
+   changed to    ~Minifig Leg Right with Scale Mail Pattern (Obsolete)
+   3817bp41.dat               Minifig Leg Left with Scale Mail Pattern
+   changed to    ~Minifig Leg Left with Scale Mail Pattern (Obsolete)
+   3816bp42.dat               Minifig Leg Right with Shirttails, Gold Band and Fleur de Lis Pattern
+   changed to    ~Minifig Leg Right with Shirttails, Gold Band and Fleur de Lis Pattern (Obsolete)
+   3817bp42.dat               Minifig Leg Left with Shirttails, Gold Band and Fleur de Lis Pattern
+   changed to    ~Minifig Leg Left with Shirttails, Gold Band and Fleur de Lis Pattern (Obsolete)
+   73200p42.dat               Minifig Hips and Legs with Shirttails, Gold Band and Fleur de Lis Pattern
+   changed to    ~Minifig Hips and Legs with Shirttails, Gold Band and Fleur de Lis Pattern (Obsolete)
+   73200p4f.dat               Minifig Hips and Legs with Leather Armour Pattern
+   changed to    ~Minifig Hips and Legs with Leather Armour Pattern (Obsolete)
+   3816bp4f.dat               Minifig Leg Right with Leather Straps and Red Diamonds Pattern
+   changed to    ~Minifig Leg Right with Leather Straps and Red Diamonds Pattern (Obsolete)
+   3817bp4f.dat               Minifig Leg Left with Leather Straps and Red Diamonds Pattern
+   changed to    ~Minifig Leg Left with Leather Straps and Red Diamonds Pattern (Obsolete)
+   3816bp60.dat               Minifig Leg Right with Insectoids Robot Pattern
+   changed to    ~Minifig Leg Right with Insectoids Robot Pattern (Obsolete)
+   3817bp60.dat               Minifig Leg Left with Insectoids Robot Pattern
+   changed to    ~Minifig Leg Left with Insectoids Robot Pattern (Obsolete)
+   73200p60.dat               Minifig Hips and Legs with Insectoids Silver and Copper Circuitry Pattern
+   changed to    ~Minifig Hips and Legs with Insectoids Silver and Copper Circuitry Pattern (Obsolete)
+   3816bp63.dat               Minifig Leg Right with Robot Pattern
+   changed to    ~Minifig Leg Right with Robot Pattern (Obsolete)
+   73200p63.dat               Minifig Hips and Legs with Robot Pattern
+   changed to    ~Minifig Hips and Legs with Robot Pattern (Obsolete)
+   3817bp63.dat               Minifig Leg Left with Robot Pattern
+   changed to    ~Minifig Leg Left with Robot Pattern (Obsolete)
+   3816bp6f.dat               Minifig Leg Right with Astro Pattern
+   changed to    ~Minifig Leg Right with Astro Pattern (Obsolete)
+   3816bp70.dat               Minifig Leg Right with Reflective Stripes and Black Pocket Outline Pattern
+   changed to    ~Minifig Leg Right with Reflective Stripes and Black Pocket Outline Pattern (Obsolete)
+   3816bp71.dat               Minifig Leg Right with Reflective Stripes and Tan Pocket Outline Pattern
+   changed to    ~Minifig Leg Right with Reflective Stripes and Tan Pocket Outline Pattern (Obsolete)
+   3817bp6f.dat               Minifig Leg Left with Astro Pattern
+   changed to    ~Minifig Leg Left with Astro Pattern (Obsolete)
+   3817bp70.dat               Minifig Leg Left with Reflective Stripes and Black Pocket Outline Pattern
+   changed to    ~Minifig Leg Left with Reflective Stripes and Black Pocket Outline Pattern (Obsolete)
+   3817bp71.dat               Minifig Leg Left with Reflective Stripes and Tan Pocket Outline Pattern
+   changed to    ~Minifig Leg Left with Reflective Stripes and Tan Pocket Outline Pattern (Obsolete)
+   73200p6f.dat               Minifig Hips and Legs with Astro Pattern
+   changed to    ~Minifig Hips and Legs with Astro Pattern (Obsolete)
+   73200p70.dat               Minifig Hips and Legs with Reflective Stripes and Black Pocket Outline Pattern
+   changed to    ~Minifig Hips and Legs with Reflective Stripes and Black Pocket Outline Pattern (Obsolete)
+   73200p71.dat               Minifig Hips and Legs with Reflective Stripes and Tan Pocket Outline Pattern
+   changed to    ~Minifig Hips and Legs with Reflective Stripes and Tan Pocket Outline Pattern (Obsolete)
+   3816bp6u.dat               Minifig Leg Right with Gold Circuitry and Orange Cable Pattern
+   changed to    ~Minifig Leg Right with Gold Circuitry and Orange Cable Pattern (Obsolete)
+   3817bp6u.dat               Minifig Leg Left with Gold Circuitry and Orange Cable Pattern
+   changed to    ~Minifig Leg Left with Gold Circuitry and Orange Cable Pattern (Obsolete)
+   73200p6u.dat               Minifig Hips and Legs with Orange Cable Pattern
+   changed to    ~Minifig Hips and Legs with Orange Cable Pattern (Obsolete)
+   73200p6g.dat               Minifig Hips and Legs with White and Gold Markings Pattern
+   changed to    ~Minifig Hips and Legs with White and Gold Markings Pattern (Obsolete)
+   3816bp6g.dat               Minifig Leg Right with White and Gold Markings Pattern
+   changed to    ~Minifig Leg Right with White and Gold Markings Pattern (Obsolete)
+   3816bp6v.dat               Minifig Leg Right with Silver Circuitry and Salmon Cable Pattern
+   changed to    ~Minifig Leg Right with Silver Circuitry and Salmon Cable Pattern (Obsolete)
+   3816bp6w.dat               Minifig Leg Right with Golden Circuit Pattern
+   changed to    ~Minifig Leg Right with Golden Circuit Pattern (Obsolete)
+   3817bp6v.dat               Minifig Leg Left with Silver Circuitry and Salmon Cable Pattern
+   changed to    ~Minifig Leg Left with Silver Circuitry and Salmon Cable Pattern (Obsolete)
+   3817bp6w.dat               Minifig Leg Left with Golden Circuit Pattern
+   changed to    ~Minifig Leg Left with Golden Circuit Pattern (Obsolete)
+   73200p6v.dat               Minifig Hips and Legs with Salmon Cable Pattern
+   changed to    ~Minifig Hips and Legs with Salmon Cable Pattern (Obsolete)
+   73200p6w.dat               Minifig Hips and Legs with Gold Circuitry Pattern
+   changed to    ~Minifig Hips and Legs with Gold Circuitry Pattern (Obsolete)
+   3816bpb8.dat               Minifig Leg Right with Dark Bluish Grey Robe Lines Pattern
+   changed to    Minifig Leg Right with Dark Bluish Grey Robe Lines Pattern (Obsolete)
+   3816bpx0.dat               Minifig Leg Right with Red Coattail Pattern
+   changed to    ~Minifig Leg Right with Red Coattail Pattern (Obsolete)
+   3816bpx2.dat               Minifig Leg Right with Pocket and Holster Pattern
+   changed to    ~Minifig Leg Right with Pocket and Holster Pattern (Obsolete)
+   3817bpx0.dat               Minifig Leg Left with Red Coattail Pattern
+   changed to    ~Minifig Leg Left with Red Coattail Pattern (Obsolete)
+   3817bpx2.dat               Minifig Leg Left with Pocket Pattern
+   changed to    ~Minifig Leg Left with Pocket Pattern (Obsolete)
+   73200px0.dat               Minifig Hips and Legs with Red Coattails Pattern
+   changed to    ~Minifig Hips and Legs with Red Coattails Pattern (Obsolete)
+   73200px2.dat               Minifig Hips and Legs with Belt, Copper Buckle, Pockets and Holster Pattern
+   changed to    ~Minifig Hips and Legs with Belt, Copper Buckle, Pockets and Holster Pattern (Obsolete)
+   3816bp89.dat               Minifig Leg Right with White Apron Pattern
+   changed to    ~Minifig Leg Right with White Apron Pattern (Obsolete)
+   3817bp89.dat               Minifig Leg Left with White Apron Pattern
+   changed to    ~Minifig Leg Left with White Apron Pattern (Obsolete)
+   73200p89.dat               Minifig Hips and Legs with White Apron Pattern
+   changed to    ~Minifig Hips and Legs with White Apron Pattern (Obsolete)
+   3816bp8h.dat               Minifig Leg Right with Reflective Stripe Pattern
+   changed to    ~Minifig Leg Right with Reflective Stripe Pattern (Obsolete)
+   3817bp8h.dat               Minifig Leg Left with 'EMMET' Badge and Reflective Stripe Pattern
+   changed to    ~Minifig Leg Left with 'EMMET' Badge and Reflective Stripe Pattern (Obsolete)
+   73200p8h.dat               Minifig Hips and Legs with Belt and Reflective Stripes and 'EMMET' Badge Pattern
+   changed to    ~Minifig Hips and Legs with Belt and Reflective Stripes and 'EMMET' Badge Pattern (Obsolete)
+   3816bpsk.dat               Minifig Leg Right with SW Stormtrooper Pattern
+   changed to    ~Minifig Leg Right with SW Stormtrooper Pattern (Obsolete)
+   3816bpu1.dat               Minifig Leg Right with Medium Azure and Magenta Stripes Pattern
+   changed to    ~Minifig Leg Right with Medium Azure and Magenta Stripes Pattern (Obsolete)
+   3817bpsk.dat               Minifig Leg Left with SW Stormtrooper Pattern
+   changed to    ~Minifig Leg Left with SW Stormtrooper Pattern (Obsolete)
+   73200psk.dat               Minifig Hips and Legs with SW Stormtrooper Pattern
+   changed to    ~Minifig Hips and Legs with SW Stormtrooper Pattern (Obsolete)
+   73200pu1.dat               Minifig Hips and Legs with Medium Azure and Magenta Stripes Pattern
+   changed to    ~Minifig Hips and Legs with Medium Azure and Magenta Stripes Pattern (Obsolete)
+   3816b.dat                  Minifig Leg Right
+   changed to    Minifig Leg Right (Obsolete)
+   3817b.dat                  Minifig Leg Left
+   changed to    Minifig Leg Left (Obsolete)
+   3816bp8i.dat               Minifig Leg Right with Reflective Stripe and Silver Triangles on Foot Pattern
+   changed to    ~Minifig Leg Right with Reflective Stripe and Silver Triangles on Foot Pattern (Obsolete)
+   3817bp8i.dat               Minifig Leg Left with 'EMMET' Badge, Reflective Stripe and Silver Triangles on Foot Pattern
+   changed to    ~Minifig Leg Left with 'EMMET' Badge, Reflective Stripe and Silver Triangles on Foot Pattern (Obsolete)
+   73200p8i.dat               Minifig Hips and Legs with Belt and Reflective Stripes, 'EMMET' Badge and Silver Triangles on Feet Pattern
+   changed to    ~Minifig Hips and Legs with Belt and Reflective Stripes, 'EMMET' Badge and Silver Triangles on Feet Pattern (Obsolete)
+   3816bpc6a.dat              Minifig Leg Right with Red Roman Tunic and Belt Pattern
+   changed to    ~Minifig Leg Right with Red Roman Tunic and Belt Pattern (Obsolete)
+   3816bpcbd.dat              Minifig Leg Right with Black Triangles on Foot Pattern
+   changed to    ~Minifig Leg Right with Black Triangles on Foot Pattern (Obsolete)
+   3816bps0.dat               Minifig Leg Right with SW White Leggings Pattern
+   changed to    ~Minifig Leg Right with SW White Leggings Pattern (Obsolete)
+   3816bps5.dat               Minifig Leg Right with SW Gunbelt Pattern
+   changed to    ~Minifig Leg Right with SW Gunbelt Pattern (Obsolete)
+   3817bpc6a.dat              Minifig Leg Left with Red Roman Tunic and Belt Pattern
+   changed to    ~Minifig Leg Left with Red Roman Tunic and Belt Pattern (Obsolete)
+   3817bpcbd.dat              Minifig Leg Left with Black Triangles on Foot Pattern
+   changed to    ~Minifig Leg Left with Black Triangles on Foot Pattern (Obsolete)
+   3817bps0.dat               Minifig Leg Left with SW White Leggings Pattern
+   changed to    ~Minifig Leg Left with SW White Leggings Pattern (Obsolete)
+   73200-f1.dat               Minifig Hips and Legs (Standing)
+   changed to    ~Minifig Hips and Legs (Standing) (Obsolete)
+   73200pc6a.dat              Minifig Hips and Legs with Red Roman Tunic and Belt Pattern
+   changed to    ~Minifig Hips and Legs with Red Roman Tunic and Belt Pattern (Obsolete)
+   73200pcbd.dat              Minifig Hips and Legs with Black Triangles on Foot Pattern
+   changed to    ~Minifig Hips and Legs with Black Triangles on Foot Pattern (Obsolete)
+   73200ps0.dat               Minifig Hips and Legs with SW White Leggings Pattern
+   changed to    ~Minifig Hips and Legs with SW White Leggings Pattern (Obsolete)
+   73200ps5.dat               Minifig Hips and Legs with SW Gunbelt Pattern
+   changed to    ~Minifig Hips and Legs with SW Gunbelt Pattern (Obsolete)
+   3816bpa2.dat               Minifig Leg Right with Green Kilt and Toes Pattern
+   changed to    ~Minifig Leg Right with Green Kilt and Toes Pattern (Obsolete)
+   73200pa2.dat               Minifig Hips and Legs with Green Kilt and Toes Pattern
+   changed to    ~Minifig Hips and Legs with Green Kilt and Toes Pattern (Obsolete)
+   3817bpa2.dat               Minifig Leg Left with Green Kilt and Toes Pattern
+   changed to    ~Minifig Leg Left with Green Kilt and Toes Pattern (Obsolete)
+   3816bpa3.dat               Minifig Leg Right with Buttoned Cargo Pocket Pattern
+   changed to    ~Minifig Leg Right with Buttoned Cargo Pocket Pattern (Obsolete)
+   3817bpa3.dat               Minifig Leg Left with Buttoned Cargo Pocket Pattern
+   changed to    ~Minifig Leg Left with Buttoned Cargo Pocket Pattern (Obsolete)
+   73200pa3.dat               Minifig Hips and Legs with Buttoned Cargo Pockets Pattern
+   changed to    ~Minifig Hips and Legs with Buttoned Cargo Pockets Pattern (Obsolete)
+   3816bpq0.dat               Minifig Leg Right with DarkBlue Loincloth Pattern
+   changed to    ~Minifig Leg Right with DarkBlue Loincloth Pattern (Obsolete)
+   3816bpq1.dat               Minifig Leg Right with DarkBlue and Gold Loincloth Pattern
+   changed to    ~Minifig Leg Right with DarkBlue and Gold Loincloth Pattern (Obsolete)
+   3817bpq0.dat               Minifig Leg Left with DarkBlue Loincloth Pattern
+   changed to    ~Minifig Leg Left with DarkBlue Loincloth Pattern (Obsolete)
+   3817bpq1.dat               Minifig Leg Left with DarkBlue and Gold Loincloth Pattern
+   changed to    ~Minifig Leg Left with DarkBlue and Gold Loincloth Pattern (Obsolete)
+   73200pq0.dat               Minifig Hips and Legs with DarkBlue Loincloth Pattern
+   changed to    ~Minifig Hips and Legs with DarkBlue Loincloth Pattern (Obsolete)
+   73200pq1.dat               Minifig Hips and Legs with DarkBlue and Decorated Gold Loincloth Pattern
+   changed to    ~Minifig Hips and Legs with DarkBlue and Decorated Gold Loincloth Pattern (Obsolete)
+   73200pq2.dat               Minifig Hips and Legs with DarkBlue and Gold Loincloth Pattern
+   changed to    ~Minifig Hips and Legs with DarkBlue and Gold Loincloth Pattern (Obsolete)
+   3816bpa9.dat               Minifig Leg Right with Holster and Belt Pattern
+   changed to    ~Minifig Leg Right with Holster and Belt Pattern (Obsolete)
+   3817bpa9.dat               Minifig Leg Left with Holster and Belt Pattern
+   changed to    ~Minifig Leg Left with Holster and Belt Pattern (Obsolete)
+   73200pa9.dat               Minifig Hips and Legs with Holster and Belt Pattern
+   changed to    ~Minifig Hips and Legs with Holster and Belt Pattern (Obsolete)
+   3816bpm0.dat               Minifig Leg Right with LOTR Leather Armour Pattern
+   changed to    ~Minifig Leg Right with LOTR Leather Armour Pattern (Obsolete)
+   3816bpm1.dat               Minifig Leg Right with LOTR Scale Armour Pattern
+   changed to    ~Minifig Leg Right with LOTR Scale Armour Pattern (Obsolete)
+   3816bpm2.dat               Minifig Leg Right with LOTR Coat and Shirttails Pattern
+   changed to    ~Minifig Leg Right with LOTR Coat and Shirttails Pattern (Obsolete)
+   3817bpm0.dat               Minifig Leg Left with LOTR Leather Armour Pattern
+   changed to    ~Minifig Leg Left with LOTR Leather Armour Pattern (Obsolete)
+   3817bpm1.dat               Minifig Leg Left with LOTR Scale Armour Pattern
+   changed to    ~Minifig Leg Left with LOTR Scale Armour Pattern (Obsolete)
+   3817bpm2.dat               Minifig Leg Left with LOTR Coat and Shirttails Pattern
+   changed to    ~Minifig Leg Left with LOTR Coat and Shirttails Pattern (Obsolete)
+   73200pm0.dat               Minifig Hips and Legs with LOTR Leather Armour Pattern
+   changed to    ~Minifig Hips and Legs with LOTR Leather Armour Pattern (Obsolete)
+   73200pm1.dat               Minifig Hips and Legs with LOTR Scale Armour Pattern
+   changed to    ~Minifig Hips and Legs with LOTR Scale Armour Pattern (Obsolete)
+   73200pm2.dat               Minifig Hips and Legs with LOTR Coat, Shirttails and Belt Pattern
+   changed to    ~Minifig Hips and Legs with LOTR Coat, Shirttails and Belt Pattern (Obsolete)
+   3817bpaw.dat               Minifig Leg Left with Dark Red Loincloth and White Claws Pattern
+   changed to    ~Minifig Leg Left with Dark Red Loincloth and White Claws Pattern (Obsolete)
+   73200paw.dat               Minifig Hips and Legs with Dark Grey Belt, Dark Red Loincloth, White Claws, Fur Tail Pattern
+   changed to    ~Minifig Hips and Legs with Dark Grey Belt, Dark Red Loincloth, White Claws, Fur Tail Pattern (Obsolete)
+   3816bpd6e.dat              Minifig Leg Right with Black Orca Pattern
+   changed to    ~Minifig Leg Right with Black Orca Pattern (Obsolete)
+   3816bpde.dat               Minifig Leg Right with Laboratory Smock Pattern
+   changed to    ~Minifig Leg Right with Laboratory Smock Pattern (Obsolete)
+   3816bph0.dat               Minifig Leg Right with Dark Blue Coattails Pattern
+   changed to    ~Minifig Leg Right with Dark Blue Coattails Pattern (Obsolete)
+   3817bpd6e.dat              Minifig Leg Left with Black Orca Pattern
+   changed to    ~Minifig Leg Left with Black Orca Pattern (Obsolete)
+   3817bpde.dat               Minifig Leg Left with Laboratory Smock Pattern
+   changed to    ~Minifig Leg Left with Laboratory Smock Pattern (Obsolete)
+   3817bph0.dat               Minifig Leg Left with Dark Blue Coattails Pattern
+   changed to    ~Minifig Leg Left with Dark Blue Coattails Pattern (Obsolete)
+   73200pd6e.dat              Minifig Hips and Legs with Black Orca Pattern
+   changed to    ~Minifig Hips and Legs with Black Orca Pattern (Obsolete)
+   73200pde.dat               Minifig Hips and Legs with Laboratory Smock Pattern
+   changed to    ~Minifig Hips and Legs with Laboratory Smock Pattern (Obsolete)
+   73200ph0.dat               Minifig Hips and Legs with Dark Blue Coattails and Dark Tan Vest Tails Pattern
+   changed to    ~Minifig Hips and Legs with Dark Blue Coattails and Dark Tan Vest Tails Pattern (Obsolete)
+   3816bpba.dat               Minifig Leg Right with  3 Black Diamonds Pattern
+   changed to    ~Minifig Leg Right with  3 Black Diamonds Pattern (Obsolete)
+   3817bpba.dat               Minifig Leg Left with  2 Red Diamonds Pattern
+   changed to    ~Minifig Leg Left with  2 Red Diamonds Pattern (Obsolete)
+   73200pba.dat               Minifig Hips and Legs with Harlequin Red/Black Pattern
+   changed to    ~Minifig Hips and Legs with Harlequin Red/Black Pattern (Obsolete)
+   3816bpbc.dat               Minifig Leg Right with Iron Man Armoured Suit Mark VII Pattern
+   changed to    ~Minifig Leg Right with Iron Man Armoured Suit Mark VII Pattern (Obsolete)
+   3816bpbe.dat               Minifig Leg Right with Iron Man Armoured Suit Mark XVII Pattern
+   changed to    ~Minifig Leg Right with Iron Man Armoured Suit Mark XVII Pattern (Obsolete)
+   3817bpbc.dat               Minifig Leg Left with Iron Man Armoured Suit Mark VII Pattern
+   changed to    ~Minifig Leg Left with Iron Man Armoured Suit Mark VII Pattern (Obsolete)
+   3817bpbe.dat               Minifig Leg Left with Iron Man Armoured Suit Mark XVII Pattern
+   changed to    ~Minifig Leg Left with Iron Man Armoured Suit Mark XVII Pattern (Obsolete)
+   73200pbc.dat               Minifig Hips and Legs with Iron Man Armoured Suit Mark VII Pattern
+   changed to    ~Minifig Hips and Legs with Iron Man Armoured Suit Mark VII Pattern (Obsolete)
+   73200pbe.dat               Minifig Hips and Legs with Iron Man Armoured Suit Mark XVII Pattern
+   changed to    ~Minifig Hips and Legs with Iron Man Armoured Suit Mark XVII Pattern (Obsolete)
+   3816bpbb.dat               Minifig Leg Right with Iron Man Armoured Suit Mark VI Pattern
+   changed to    ~Minifig Leg Right with Iron Man Armoured Suit Mark VI Pattern (Obsolete)
+   3817bpbb.dat               Minifig Leg Left with Iron Man Armoured Suit Mark VI Pattern
+   changed to    ~Minifig Leg Left with Iron Man Armoured Suit Mark VI Pattern (Obsolete)
+   73200pbb.dat               Minifig Hips and Legs with Iron Man Armoured Suit Mark VI Pattern
+   changed to    ~Minifig Hips and Legs with Iron Man Armoured Suit Mark VI Pattern (Obsolete)
+   3816bpbf.dat               Minifig Leg Right with Iron Man Armoured Suit Mark XLII Pattern
+   changed to    ~Minifig Leg Right with Iron Man Armoured Suit Mark XLII Pattern (Obsolete)
+   3817bpbf.dat               Minifig Leg Left with Iron Man Armoured Suit Mark XLII Pattern
+   changed to    ~Minifig Leg Left with Iron Man Armoured Suit Mark XLII Pattern (Obsolete)
+   3817bpc1.dat               Minifig Leg Left with Red Tied Sash Pattern
+   changed to    ~Minifig Leg Left with Red Tied Sash Pattern (Obsolete)
+   73200pbf.dat               Minifig Hips and Legs with Iron Man Armoured Suit Mark XLII Pattern
+   changed to    ~Minifig Hips and Legs with Iron Man Armoured Suit Mark XLII Pattern (Obsolete)
+   73200pc1.dat               Minifig Hips and Legs with Red Tied Sash Pattern
+   changed to    ~Minifig Hips and Legs with Red Tied Sash Pattern (Obsolete)
+   3816bpc4b.dat              Minifig Leg Right with Shorts with Black Line and Brick Logo Pattern
+   changed to    ~Minifig Leg Right with Shorts with Black Line and Brick Logo Pattern (Obsolete)
+   3816bpc67.dat              Minifig Leg Right with Clockwork Robot Pattern
+   changed to    ~Minifig Leg Right with Clockwork Robot Pattern (Obsolete)
+   3816bpc97.dat              Minifig Leg Right with Chicken Feet Pattern
+   changed to    ~Minifig Leg Right with Chicken Feet Pattern (Obsolete)
+   3817bpc4b.dat              Minifig Leg Left with Shorts with Black Line and Lion Crest Pattern
+   changed to    ~Minifig Leg Left with Shorts with Black Line and Lion Crest Pattern (Obsolete)
+   3817bpc67.dat              Minifig Leg Left with Clockwork Robot Pattern
+   changed to    ~Minifig Leg Left with Clockwork Robot Pattern (Obsolete)
+   3817bpc97.dat              Minifig Leg Left with Chicken Feet Pattern
+   changed to    ~Minifig Leg Left with Chicken Feet Pattern (Obsolete)
+   73200pc4b.dat              Minifig Hips and Legs with Shorts with Black Line and Lion Crest Pattern
+   changed to    ~Minifig Hips and Legs with Shorts with Black Line and Lion Crest Pattern (Obsolete)
+   73200pc67.dat              Minifig Hips and Legs with Clockwork Robot Pattern
+   changed to    ~Minifig Hips and Legs with Clockwork Robot Pattern (Obsolete)
+   73200pc97.dat              Minifig Hips and Legs with Chicken Feet Pattern
+   changed to    ~Minifig Hips and Legs with Chicken Feet Pattern (Obsolete)
+   3816bpc44.dat              Minifig Leg Right with Chainlink and  3 Safety Pins Pattern
+   changed to    ~Minifig Leg Right with Chainlink and  3 Safety Pins Pattern (Obsolete)
+   3817bpc44.dat              Minifig Leg Left with  2 Safety Pins Pattern
+   changed to    ~Minifig Leg Left with  2 Safety Pins Pattern (Obsolete)
+   73200pc44.dat              Minifig Hips and Legs with Studded Belt and Safety Pins Pattern
+   changed to    ~Minifig Hips and Legs with Studded Belt and Safety Pins Pattern (Obsolete)
+   20460.dat                  ~Minifig Leg Left Dual Mould
+   changed to    ~Minifig Leg Left Dual Mould (Obsolete)
+   20461.dat                  ~Minifig Leg Right Dual Mould
+   changed to    ~Minifig Leg Right Dual Mould (Obsolete)
+   21019.dat                  ~Minifig Hips and Legs Dual Mould with Uncoloured Lower Leg Pattern
+   changed to    ~Minifig Hips and Legs Dual Mould with Uncoloured Lower Leg Pattern (Obsolete)
+   84637.dat                  Minifig Hips and Legs with Wooden Leg Right
+   changed to    ~Minifig Hips and Legs with Wooden Leg Right (Obsolete)
+   84637c01.dat               Minifig Hips and Legs with Brown Wooden Leg Right
+   changed to    ~Minifig Hips and Legs with Brown Wooden Leg Right (Obsolete)
+   84637c02.dat               Minifig Hips and Legs with Reddish Brown Wooden Leg Right
+   changed to    ~Minifig Hips and Legs with Reddish Brown Wooden Leg Right (Obsolete)
+   84637c03.dat               Minifig Hips and Legs with Dark Brown Wooden Leg Right
+   changed to    ~Minifig Hips and Legs with Dark Brown Wooden Leg Right (Obsolete)
+   84637c04.dat               Minifig Hips and Legs with Medium Nougat Wooden Leg Right
+   changed to    ~Minifig Hips and Legs with Medium Nougat Wooden Leg Right (Obsolete)
+   84637c05.dat               Minifig Hips and Legs with Pearl Light Grey Wooden Leg Right
+   changed to    ~Minifig Hips and Legs with Pearl Light Grey Wooden Leg Right (Obsolete)
+   84637c06.dat               Minifig Hips and Legs with Pearl Dark Grey Wooden Leg Right
+   changed to    ~Minifig Hips and Legs with Pearl Dark Grey Wooden Leg Right (Obsolete)
+   84637c07.dat               Minifig Hips and Legs with Metallic Dark Grey Wooden Leg Right
+   changed to    ~Minifig Hips and Legs with Metallic Dark Grey Wooden Leg Right (Obsolete)
+   20460p00.dat               Minifig Leg Left with White Lower Leg Pattern
+   changed to    ~Minifig Leg Left with White Lower Leg Pattern (Obsolete)
+   20460p01.dat               Minifig Leg Left with Red Lower Leg Pattern
+   changed to    ~Minifig Leg Left with Red Lower Leg Pattern (Obsolete)
+   20460p02.dat               Minifig Leg Left with Blue Lower Leg Pattern
+   changed to    ~Minifig Leg Left with Blue Lower Leg Pattern (Obsolete)
+   20460p03.dat               Minifig Leg Left with Bright Light Orange Lower Leg Pattern
+   changed to    ~Minifig Leg Left with Bright Light Orange Lower Leg Pattern (Obsolete)
+   20460p04.dat               Minifig Leg Left with Yellow Lower Leg Pattern
+   changed to    ~Minifig Leg Left with Yellow Lower Leg Pattern (Obsolete)
+   20460p05.dat               Minifig Leg Left with Black Lower Leg Pattern
+   changed to    ~Minifig Leg Left with Black Lower Leg Pattern (Obsolete)
+   20460p06.dat               Minifig Leg Left with Dark Brown Lower Leg Pattern
+   changed to    ~Minifig Leg Left with Dark Brown Lower Leg Pattern (Obsolete)
+   20460p07.dat               Minifig Leg Left with Dark Red Lower Leg Pattern
+   changed to    ~Minifig Leg Left with Dark Red Lower Leg Pattern (Obsolete)
+   20460p08.dat               Minifig Leg Left with Dark Green Lower Leg Pattern
+   changed to    ~Minifig Leg Left with Dark Green Lower Leg Pattern (Obsolete)
+   20460p09.dat               Minifig Leg Left with Dark Blue Lower Leg Pattern
+   changed to    ~Minifig Leg Left with Dark Blue Lower Leg Pattern (Obsolete)
+   20461p00.dat               Minifig Leg Right with White Lower Leg Pattern
+   changed to    ~Minifig Leg Right with White Lower Leg Pattern (Obsolete)
+   20461p01.dat               Minifig Leg Right with Red Lower Leg Pattern
+   changed to    ~Minifig Leg Right with Red Lower Leg Pattern (Obsolete)
+   20461p02.dat               Minifig Leg Right with Blue Lower Leg Pattern
+   changed to    ~Minifig Leg Right with Blue Lower Leg Pattern (Obsolete)
+   20461p03.dat               Minifig Leg Right with Bright Light Orange Lower Leg Pattern
+   changed to    ~Minifig Leg Right with Bright Light Orange Lower Leg Pattern (Obsolete)
+   20461p04.dat               Minifig Leg Right with Yellow Lower Leg Pattern
+   changed to    ~Minifig Leg Right with Yellow Lower Leg Pattern (Obsolete)
+   20461p05.dat               Minifig Leg Right with Black Lower Leg Pattern
+   changed to    ~Minifig Leg Right with Black Lower Leg Pattern (Obsolete)
+   20461p06.dat               Minifig Leg Right with Dark Brown Lower Leg Pattern
+   changed to    ~Minifig Leg Right with Dark Brown Lower Leg Pattern (Obsolete)
+   20461p07.dat               Minifig Leg Right with Dark Red Lower Leg Pattern
+   changed to    ~Minifig Leg Right with Dark Red Lower Leg Pattern (Obsolete)
+   20461p08.dat               Minifig Leg Right with Dark Green Lower Leg Pattern
+   changed to    ~Minifig Leg Right with Dark Green Lower Leg Pattern (Obsolete)
+   20461p09.dat               Minifig Leg Right with Dark Blue Lower Leg Pattern
+   changed to    ~Minifig Leg Right with Dark Blue Lower Leg Pattern (Obsolete)
+   20460pckc.dat              Minifig Leg Left with Wetsuit, Coral and Dark Azure Trim Pattern
+   changed to    ~Minifig Leg Left with Wetsuit, Coral and Dark Azure Trim Pattern (Obsolete)
+   20460pd87.dat              Minifig Leg Left with White Lower Leg and Green Sandals Pattern
+   changed to    ~Minifig Leg Left with White Lower Leg and Green Sandals Pattern (Obsolete)
+   20460pd92.dat              Minifig Leg Left with Ruffles, Black Lower Leg and White Feet Pattern
+   changed to    ~Minifig Leg Left with Ruffles, Black Lower Leg and White Feet Pattern (Obsolete)
+   20460px0.dat               Minifig Leg Left with Light Nougat Lower Leg and Black Shoes Pattern
+   changed to    ~Minifig Leg Left with Light Nougat Lower Leg and Black Shoes Pattern (Obsolete)
+   20460px1.dat               Minifig Leg Left with Dark Red Lower Leg and Triangular Notch on Side Pattern
+   changed to    ~Minifig Leg Left with Dark Red Lower Leg and Triangular Notch on Side Pattern (Obsolete)
+   20461pckc.dat              Minifig Leg Right with Wetsuit, Coral and Dark Azure Trim Pattern
+   changed to    ~Minifig Leg Right with Wetsuit, Coral and Dark Azure Trim Pattern (Obsolete)
+   20461pd87.dat              Minifig Leg Right with White Lower Leg and Green Sandals Pattern
+   changed to    ~Minifig Leg Right with White Lower Leg and Green Sandals Pattern (Obsolete)
+   20461pd92.dat              Minifig Leg Right with Ruffles, Black Lower Leg and White Feet Pattern
+   changed to    ~Minifig Leg Right with Ruffles, Black Lower Leg and White Feet Pattern (Obsolete)
+   20461px0.dat               Minifig Leg Right with Light Nougat Lower Leg and Black Shoes Pattern
+   changed to    ~Minifig Leg Right with Light Nougat Lower Leg and Black Shoes Pattern (Obsolete)
+   20461px1.dat               Minifig Leg Right with Dark Red Lower Leg and Triangular Notch on Side Pattern
+   changed to    ~Minifig Leg Right with Dark Red Lower Leg and Triangular Notch on Side Pattern (Obsolete)
+   21019pckc.dat              Minifig Hips and Legs with Wetsuit, Coral and Dark Azure Trim Pattern
+   changed to    ~Minifig Hips and Legs with Wetsuit, Coral and Dark Azure Trim Pattern (Obsolete)
+   21019pd87.dat              Minifig Hips and Legs with White Lower Leg and Green Sandals Pattern
+   changed to    ~Minifig Hips and Legs with White Lower Leg and Green Sandals Pattern (Obsolete)
+   21019pd92.dat              Minifig Hips and Legs with Ruffles, Black Lower Leg and White Feet Pattern
+   changed to    ~Minifig Hips and Legs with Ruffles, Black Lower Leg and White Feet Pattern (Obsolete)
+   21019px0.dat               Minifig Hips and Legs with Light Nougat Lower Leg and Black Shoe Pattern
+   changed to    ~Minifig Hips and Legs with Light Nougat Lower Leg and Black Shoe Pattern (Obsolete)
+   21019px1.dat               Minifig Hips and Legs with Dark Red Lower Leg and Triangular Notch on Sides Pattern
+   changed to    ~Minifig Hips and Legs with Dark Red Lower Leg and Triangular Notch on Sides Pattern (Obsolete)
+   21019p00.dat               Minifig Hips and Legs with White Lower Leg Pattern
+   changed to    ~Minifig Hips and Legs with White Lower Leg Pattern (Obsolete)
+   21019p01.dat               Minifig Hips and Legs with Red Lower Leg Pattern
+   changed to    ~Minifig Hips and Legs with Red Lower Leg Pattern (Obsolete)
+   21019p02.dat               Minifig Hips and Legs with Blue Lower Leg Pattern
+   changed to    ~Minifig Hips and Legs with Blue Lower Leg Pattern (Obsolete)
+   21019p03.dat               Minifig Hips and Legs with Bright Light Orange Lower Leg Pattern
+   changed to    ~Minifig Hips and Legs with Bright Light Orange Lower Leg Pattern (Obsolete)
+   21019p04.dat               Minifig Hips and Legs with Yellow Lower Leg Pattern
+   changed to    ~Minifig Hips and Legs with Yellow Lower Leg Pattern (Obsolete)
+   21019p05.dat               Minifig Hips and Legs with Black Lower Leg Pattern
+   changed to    ~Minifig Hips and Legs with Black Lower Leg Pattern (Obsolete)
+   21019p06.dat               Minifig Hips and Legs with Dark Brown Lower Leg Pattern
+   changed to    ~Minifig Hips and Legs with Dark Brown Lower Leg Pattern (Obsolete)
+   21019p07.dat               Minifig Hips and Legs with Dark Red Lower Leg Pattern
+   changed to    ~Minifig Hips and Legs with Dark Red Lower Leg Pattern (Obsolete)
+   21019p08.dat               Minifig Hips and Legs with Dark Green Lower Leg Pattern
+   changed to    ~Minifig Hips and Legs with Dark Green Lower Leg Pattern (Obsolete)
+   21019p09.dat               Minifig Hips and Legs with Dark Blue Lower Leg Pattern
+   changed to    ~Minifig Hips and Legs with Dark Blue Lower Leg Pattern (Obsolete)
+
+Other Fixed Parts
+
+Minor Edits
+   2276 Part licenses changed

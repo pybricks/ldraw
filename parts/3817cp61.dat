@@ -1,0 +1,32 @@
+0 Minifig Leg Left with Insectoids Blue Circuitry Pattern
+0 Name: 3817cp61.dat
+0 Author: Mikkel Bech Jensen [gaia]
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move down 12 units to align with hips
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 3817cp61.dat
+0 !HELP 1 16 0 28 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 970c10pb01, Brickowl 655661, Captain Wizer, Captain Zec
+0 !KEYWORDS Rebrickable 970c08pr0001, set 3072, Set 6969, Zotaxian Alien
+
+0 !HISTORY 2020-06-21 [MagFors] Adapted to corrected geometry
+0 !HISTORY 2023-05-14 [MagFors] Adapted to c-version leg
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817cs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817cp61s01.dat
+1 80 0 0 0 1 0 0 0 1 0 0 0 1 s\3817cp61s02.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\3817cp61s03.dat
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 s\3817cp61s04.dat
+4 300 11.926 -2.737 -8.2057 11.856 -3.001 -8.1532 11.399 -2.737 -8.2057 11.856 -2.473 -8.2582
+4 300 11.663 -2.281 -8.2964 11.856 -2.473 -8.2582 11.399 -2.737 -8.2057 11.399 -2.21 -8.3105
+4 300 11.136 -2.281 -8.2964 11.399 -2.21 -8.3105 11.399 -2.737 -8.2057 10.943 -2.473 -8.2582
+4 300 10.872 -2.737 -8.2057 10.943 -2.473 -8.2582 11.399 -2.737 -8.2057 10.943 -3.001 -8.1532
+4 300 11.136 -3.193 -8.115 10.943 -3.001 -8.1532 11.399 -2.737 -8.2057 11.399 -3.264 -8.1009
+4 300 11.663 -3.193 -8.115 11.399 -3.264 -8.1009 11.399 -2.737 -8.2057 11.856 -3.001 -8.1532

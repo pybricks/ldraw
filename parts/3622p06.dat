@@ -1,0 +1,20 @@
+0 Brick  1 x  3 with Dog Face Wide Dark Orange Eyes, Medium Nougat Muzzle, Open Mouth Crooked Smile with 1 Tooth Pattern
+0 Name: 3622p06.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3622pb096, Unikitty, Set 41452
+
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3622s01.dat
+
+0 !TEXMAP START PLANAR -30 0 -10 30 0 -10 -30 24 -10 3622p06.png
+0 !: 4 16 30 0 -10 -30 0 -10 -30 24 -10 30 24 -10
+0 !TEXMAP FALLBACK
+4 16 30 0 -10 -30 0 -10 -30 24 -10 30 24 -10
+0 !TEXMAP END

@@ -1,0 +1,27 @@
+0 Minifig Leg Left with Red/White Triangles Pattern
+0 Name: 3817cpw1.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move down 12 units to align with hips
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 3817cpw1.dat
+0 !HELP 1 16 0 28 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 970c00pb0026, Brickowl 24471, indian, medicine man
+0 !KEYWORDS Rebrickable 970c26pr0025, set 2845, set 6718, set 6746, set 6748
+0 !KEYWORDS set 6763, set 6766, western, wild west, american native
+
+0 !CMDLINE -c17
+
+0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817cs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817cpw1s01.dat
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\3817cpw1s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817cpw1s03.dat

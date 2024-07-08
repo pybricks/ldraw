@@ -1,0 +1,23 @@
+0 Minifig Hips and Legs with Reflective Stripes and Black Pocket Outline Pattern
+0 Name: 73200bp70.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Shortcut UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bp70.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickowl 985018, Firebrigade, Rebrickable 970c38pr1598, set 30566
+0 !KEYWORDS set 60213, set 60214, set 60216, set 60318, set 60321, set 952104
+0 !KEYWORDS set 952301, Stuntz, Bricklink 970c00pb0901
+
+0 !HISTORY 2023-03-09 [Philo] Updated to "c" geometry
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815b.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cp70.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cp70.dat

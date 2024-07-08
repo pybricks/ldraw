@@ -1,0 +1,17 @@
+0 Sticker  1.1 x  1.9 with White Rectangle
+0 Name: 162275g.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 5550stk01, Brickowl 321461, Custom Rally Van, Model Team
+0 !KEYWORDS Rebrickable 162275, Set 5550, truck
+
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 -0.25 0 19 0 0 0 0.25 0 0 0 11 box5-12.dat
+0 BFC NOCLIP
+4 15 19 -0.25 11 -19 -0.25 11 -19 -0.25 -11 19 -0.25 -11

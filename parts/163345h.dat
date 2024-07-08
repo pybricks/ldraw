@@ -1,0 +1,33 @@
+0 Sticker Minifig Torso with United States Flag and NASA Worm Logo
+0 Name: 163345h.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS astronaut, Bricklink 1682stk01, Brickowl 849575, Rebrickable 163345
+0 !KEYWORDS Set 1682, Space Shuttle
+
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\004315s01.dat
+0 BFC NOCLIP
+1 16 -9.5 -.25 8 .1 0 0 0 1 0 0 0 .1 s\usflags01.dat
+1 4 0 -.25 -6 .3 0 0 0 1 0 0 0 .3 logo-nasa.dat
+0 BFC CLIP
+1 16 0 -.25 -6 .3 0 0 0 1 0 0 0 .3 logo-nasa-bg.dat
+4 16 9.5 -.25 8 8.5 -.25 15 -8.5 -.25 15 -9.5 -.25 8
+4 16 -9.5 -.25 8 -8.5 -.25 15 -10 -.25 14.75 -11.5 -.25 14
+4 16 -9.5 -.25 8 -11.5 -.25 14 -12 -.25 13 -12 -.25 -2.4
+3 16 -12 -.25 13 -18 -.25 -15 -12 -.25 -2.4
+3 16 -12 -.25 -2.4 -18 -.25 -15 -12 -.25 -9.6
+4 16 12 -.25 -9.6 -12 -.25 -9.6 -18 -.25 -15 18 -.25 -15
+3 16 12 -.25 -2.4 12 -.25 -9.6 18 -.25 -15
+4 16 12 -.25 -2.4 18 -.25 -15 12 -.25 13 9.5 -.25 8
+3 16 9.5 -.25 8 9.5 -.25 -2 12 -.25 -2.4
+4 16 -12 -.25 -2.4 12 -.25 -2.4 9.5 -.25 -2 -9.5 -.25 -2
+3 16 -9.5 -.25 8 -12 -.25 -2.4 -9.5 -.25 -2
+4 16 9.5 -.25 8 12 -.25 13 11.5 -.25 14 10 -.25 14.75
+3 16 8.5 -.25 15 9.5 -.25 8 10 -.25 14.75

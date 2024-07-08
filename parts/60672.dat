@@ -1,0 +1,17 @@
+0 Figure Troll Arm Right with Wrist Cuff
+0 Name: 60672.dat
+0 Author: Chris Dee [cwdee]
+0 !LDRAW_ORG Shortcut UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP To add the hand, use
+0 !HELP 1 16 -13.75 45 -46 1 0 0 0 1 0 0 0 1 60640.dat
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-03-11 [MagFors] Update description and Help info
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 60639.dat
+1 16 -13.75 45 -30 1 0 0 0 1 0 0 0 1 60643.dat

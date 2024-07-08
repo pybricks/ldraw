@@ -1,18 +1,20 @@
-0 Minifig Leg Left with LOTR Coat and Shirttails Pattern
+0 ~Minifig Leg Left with LOTR Coat and Shirttails Pattern (Obsolete)
 0 Name: 3817bpm2.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LDRAW_ORG Part UPDATE 2023-03
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Aragorn, Lord of the Rings
+0 !KEYWORDS Aragorn, Lord of the Rings, set 9472
 
 0 !CMDLINE -c28
 
 0 !HISTORY 2014-06-21 [Wesley] Original pattern design
 0 !HISTORY 2020-07-09 [cwdee] Adapted to corrected geometry
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
+0 !HISTORY 2023-05-27 [MagFors] Obsoleted due to bad geometry
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817bs01.dat

@@ -1,0 +1,34 @@
+0 Minifig Leg Left with Dark Red Lower Leg and Triangular Notch on Side Pattern
+0 Name: 20460bpx1.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move down 12 units to align with hips
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 20460b.dat
+0 !HELP 1 16 0 28 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 73130, Adventure Time, Bricklink 970c00pb0645, Brickowl 264191
+0 !KEYWORDS Marceline, Set 71285 Rebrickable 970c05pat10pr0001, 20926
+
+0 !HISTORY 2022-09-15 [ejboer] Original design
+0 !HISTORY 2023-06-06 [MagFors] Adapted to correct geometry
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20460bs01.dat
+1 320 0 0 0 1 0 0 0 1 0 0 0 1 s\20460bs03.dat
+0 // Toes
+4 320 19.25 28 -11.25 18.978 20 -11.25 1.25 20 -11.25 1.25 28 -11.25
+4 320 1.25 20 -5.75 1.25 20 -11.25 18.978 20 -11.25 18.978 20 -5.75
+0 // Side
+4 320 1.25 12.4 -5.75 1.25 20 -5.75 18.978 20 -5.75 18.72 12.4 -5.75
+
+4 320 19.25 28 8.75 18.978 20 -5.75 18.978 20 -11.25 19.25 28 -11.25
+3 16 18.72 12.4 -.75 18.809 15 1.5 18.72 12.4 3.75
+4 320 18.809 15 1.5 18.72 12.4 -.75 18.72 12.4 -5.75 18.978 20 -5.75
+4 320 18.72 12.4 8.75 18.809 15 1.5 18.978 20 -5.75 19.25 28 8.75
+3 320 18.72 12.4 3.75 18.809 15 1.5 18.72 12.4 8.75

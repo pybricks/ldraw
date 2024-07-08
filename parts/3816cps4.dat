@@ -1,0 +1,20 @@
+0 Minifig Leg Right with SW Clone Trooper Black, Light Bluish Gray Markings and Knee Pad Pattern
+0 Name: 3816cps4.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move down 12 units to align with hips
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 3816cps4.dat
+0 !HELP 1 16 0 28 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickowl 1312204, Rebrickable 970c27pr2143, Set 75337, Set 75340
+0 !KEYWORDS Set 75390, Star Wars, Set 40558, Bricklink 970c00pb1283
+
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 3817cps4.dat

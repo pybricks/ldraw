@@ -1,0 +1,28 @@
+0 ~Minifig Headdress Fireworks Rocket Costume Tip
+0 Name: s\35759s02.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Subpart UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 -24 0 1 0 0 0 -6 0 0 0 1 stud4od.dat
+1 16 0 0 0 8 0 0 0 -6 0 0 0 8 4-4cylo.dat
+1 16 0 -3.5 0 22.5 0 0 0 1 0 0 0 22.5 48\4-4edge.dat
+1 16 0 -3.5 0 22.5 0 0 0 -.5 0 0 0 22.5 48\4-4cylo.dat
+1 16 0 -34.7692 0 .75 0 0 0 -1.23077 0 0 0 .75 48\4-4con4.dat
+1 16 0 -28.6154 0 3.75 0 0 0 -6.15385 0 0 0 3.75 48\4-4con1.dat
+1 16 0 -16.3077 0 7.5 0 0 0 -12.30769 0 0 0 7.5 48\4-4con1.dat
+1 16 0 -4 0 7.5 0 0 0 -12.30769 0 0 0 7.5 48\4-4con2.dat
+1 16 0 -36 0 3 0 0 0 1 0 0 0 3 48\4-4edge.dat
+1 16 0 -36 0 3 0 0 0 1 0 0 0 3 48\4-4aring.dat
+0 BFC INVERTNEXT
+1 16 0 -36 0 2 0 0 0 12 0 0 0 2 4-4cylo.dat
+1 16 0 -36 0 1 0 0 0 1 0 0 0 1 4-4ring2.dat
+1 16 0 -24 0 2 0 0 0 -1 0 0 0 2 4-4ring1.dat
+1 16 0 -24 0 2 0 0 0 -1 0 0 0 2 4-4ring2.dat
+
+1 16 0 -3.5 0 2.8125 0 0 0 -1 0 0 0 2.8125 48\4-4ring7.dat

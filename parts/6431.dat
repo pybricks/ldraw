@@ -2,7 +2,7 @@
 0 Name: 6431.dat
 0 Author: Tim Lampmann [L4mpi]
 0 !LDRAW_ORG Part UPDATE 2020-01
-0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Place Door as 1 15 -139.5 85 -76 1 0 0 0 1 0 0 0 1 2205.dat
 0 !HELP Place Window as 1 15 139.5 85 -76 -1 0 0 0 1 0 0 0 1 2206.dat

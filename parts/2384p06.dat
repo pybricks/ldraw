@@ -1,0 +1,17 @@
+0 ~Electric Light & Sound Clip-On Plate  2 x  2 with Blue Circle and White Arrow Pattern
+0 Name: 2384p06.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 5030, Set 6481, Set 846, Bricklink 2384pb06, Brickowl 584431
+0 !KEYWORDS Rebrickable 2384pr0006, Construction
+
+0 !HISTORY 2022-02-19 [RainbowDolphin] Pattern copied from 3068bp05 by Tore Eriksson [Tore_Eriksson]
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2384s01.dat
+1 16 0 20 -12 -1 0 0 0 0 1 0 1 0 s\3068bp05s01.dat

@@ -1,0 +1,21 @@
+0 Minifig Hips and Legs with White Stripes Pattern
+0 Name: 73200bpy1.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Shortcut UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP 0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bpy1.dat
+0 !HELP 0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Scuderia, Set 75879, SF16-H, Speed Champions, sport, uniform
+0 !KEYWORDS Ferrari, Bricklink 970c00pb0646
+
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815bpy1.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cpy1.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cpy1.dat

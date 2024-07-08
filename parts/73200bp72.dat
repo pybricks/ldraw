@@ -1,0 +1,23 @@
+0 Minifig Hips and Legs with Map and Zippered Pocket Pattern
+0 Name: 73200bp72.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Shortcut UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bp72.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickowl 187241, pilot, police, Rebrickable 970c05pr0293, Set 30018
+0 !KEYWORDS Set 30222, Set 30346, Set 4209, Set 4429, Set 4439, Set 4440
+0 !KEYWORDS Set 4473, Set 60008, Set 60009, Set 60067, Set 60068, Set 60070
+0 !KEYWORDS Set 60093, Set 60130, set 60131, Bricklink 970c00pb0126
+
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815bp72.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cp72.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cp72.dat

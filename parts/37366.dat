@@ -1,0 +1,24 @@
+0 Minifig Leg Medium Left
+0 Name: 37366.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2023-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move down 12 units to align with hips
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-02-07 [MagFors] Corrected the foot position.
+0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\37366s01.dat
+0 // Rounded Front
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\37366s03.dat
+0 // Flat Front
+4 16 2 6.4793 -5.75 1.5 12 -5.75 18.9022 12 -5.75 18.6621 6.4793 -5.75
+3 16 1.5 6.4793 -5.75 1.5 12 -5.75 2 6.4793 -5.75
+0 // Foot Front
+4 16 19.25 20 -11.25 18.9022 12 -11.25 1.5 12 -11.25 1.5 20 -11.25
+0 // Foot Top
+4 16 1.5 12 -5.75 1.5 12 -11.25 18.9022 12 -11.25 18.9022 12 -5.75
