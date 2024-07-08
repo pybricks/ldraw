@@ -1,14 +1,15 @@
-0 ~Logo Lamborghini Text Background
+0 Logo Lamborghini Text Background
 0 Name: logo-lamborghini-text-bkgd.dat
 0 Author: Jens Brühl [jb70]
-0 !LDRAW_ORG Primitive UPDATE 2022-05
+0 !LDRAW_ORG Primitive UPDATE 2024-01
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2021-01-27 [jb70] splitted up into subfiles from s\logolambt01.dat by [Sirio]
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
-
+0 !HISTORY 2024-01-25 [MagFors] Update description
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
 
 0 // Background
 

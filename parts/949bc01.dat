@@ -1,0 +1,15 @@
+0 Train Track  4.5V Point Type 2 Tapered Right (Straight)
+0 Name: 949bc01.dat
+0 Author: Alex Taylor [anathema]
+0 !LDRAW_ORG Shortcut UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 949b.dat
+1 15 0 16 0 0 0 1 0 1 0 -1 0 0 953b.dat
+1 16 0 0 -36 1 0 0 0 1 0 0 0 1 951b.dat
+1 14 -177.847 -8 -112.754 0.951057 0 0.309017 0 1 0 -0.309017 0 0.951057 3062a.dat

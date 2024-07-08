@@ -1,0 +1,27 @@
+0 Sticker  1.8 x  1.8 with "Audi Sport" Logo on Black and White Background Right
+0 Name: 6142275c.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS e-tron, quattro, R18, Set 75872, Speed Champions
+
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
+
+
+0 // Subparts
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6142275cs01.dat
+1 16 4.9336 -.25 5.2663 1 0 0 0 1 0 0 0 1 s\6142275cs02.dat
+0 // Complementary faces
+3 4 18 -.25 9 15.16 -.25 6.6 15.8672 -.25 5.7465
+4 4 18 -.25 9 15.8672 -.25 5.7465 15.8672 -.25 3.9326 18 -.25 1.5
+3 4 -9 -.25 1.5 -6 -.25 3.9326 -6 -.25 4
+3 4 -6 -.25 6.6 -9 -.25 1.5 -6 -.25 4
+3 4 -9 -.25 1.5 -6 -.25 6.6 -5.25 -.25 9
+3 4 -5.25 -.25 9 -6 -.25 6.6 -4.7 -.25 6.6
+4 4 -5.25 -.25 9 -4.7 -.25 6.6 -2 -.25 6.6 11.9 -.25 9
+4 4 18 -.25 9 11.9 -.25 9 -2 -.25 6.6 15.16 -.25 6.6
+4 4 -9 -.25 1.5 8.15 -.25 1.5 -1.5928 -.25 3.9326 -6 -.25 3.9326
+4 4 18 -.25 1.5 15.8672 -.25 3.9326 -1.5928 -.25 3.9326 8.15 -.25 1.5

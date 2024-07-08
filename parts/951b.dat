@@ -1,0 +1,15 @@
+0 ~Train Track  4.5V Point Type 2 Right - Switch Rails
+0 Name: 951b.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\950as01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\950bs02.dat
+
+0 // Stud
+1 16 -177.847 16 -76.754 -.96593 0 -.25882 0 1 0 .25882 0 -.96593 stud.dat

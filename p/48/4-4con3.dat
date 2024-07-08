@@ -1,13 +1,14 @@
 0 Hi-Res Cone  3 x 1.0
 0 Name: 48\4-4con3.dat
-0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG 48_Primitive UPDATE 2010-02
-0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG 48_Primitive UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
+0 !HISTORY 2024-01-20 [Holly-Wood] Complete regeneration, original by bbroich
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
 
 4 16 3 1 0 2.9742 1 0.3915 3.9656 0 0.522 4 0 0
 4 16 2.9742 1 0.3915 2.8977 1 0.7764 3.8636 0 1.0352 3.9656 0 0.522
@@ -57,8 +58,7 @@
 4 16 2.7717 1 -1.1481 2.8977 1 -0.7764 3.8636 0 -1.0352 3.6956 0 -1.5308
 4 16 2.8977 1 -0.7764 2.9742 1 -0.3915 3.9656 0 -0.522 3.8636 0 -1.0352
 4 16 2.9742 1 -0.3915 3 1 0 4 0 0 3.9656 0 -0.522
-
-0 conditional lines
+0 // conditional lines
 5 24 3 1 0 4 0 0 2.9742 1 -0.3915 2.9742 1 0.3915
 5 24 2.9742 1 0.3915 3.9656 0 0.522 3 1 0 2.8977 1 0.7764
 5 24 2.8977 1 0.7764 3.8636 0 1.0352 2.9742 1 0.3915 2.7717 1 1.1481
@@ -107,6 +107,4 @@
 5 24 2.7717 1 -1.1481 3.6956 0 -1.5308 2.598 1 -1.5 2.8977 1 -0.7764
 5 24 2.8977 1 -0.7764 3.8636 0 -1.0352 2.7717 1 -1.1481 2.9742 1 -0.3915
 5 24 2.9742 1 -0.3915 3.9656 0 -0.522 2.8977 1 -0.7764 3 1 0
-
-0 end of file
-
+0 // Build by LDPartEditor (PrimGen 2.X)

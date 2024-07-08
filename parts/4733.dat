@@ -1,10 +1,12 @@
 0 Brick  1 x  1 with Studs on Four Sides
 0 Name: 4733.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2004-04
+0 !LDRAW_ORG Part UPDATE 2024-01
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !KEYWORDS Travis Brick
 
 0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
 0 !HISTORY 2003-06-08 [jriley] BFC compliant
@@ -13,52 +15,36 @@
 0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
 0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2023-04-08 [MagFors] Unmirrored stud primitives
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
 
+1 16 0 12 0 10 0 0 0 12 0 0 0 10 box0.dat
+1 16 0 14 0 6 0 0 0 10 0 0 0 6 box0.dat
 
-2 24 6 24 6 -6 24 6
-2 24 -6 24 6 -6 24 -6
-2 24 -6 24 -6 6 24 -6
-2 24 6 24 -6 6 24 6
-2 24 6 4 6 -6 4 6
-2 24 -6 4 6 -6 4 -6
-2 24 -6 4 -6 6 4 -6
-2 24 6 4 -6 6 4 6
-2 24 6 4 6 6 24 6
-2 24 -6 4 6 -6 24 6
-2 24 -6 4 -6 -6 24 -6
-2 24 6 4 -6 6 24 -6
-2 24 10 24 10 -10 24 10
-2 24 -10 24 10 -10 24 -10
-2 24 -10 24 -10 10 24 -10
-2 24 10 24 -10 10 24 10
-2 24 10 0 10 -10 0 10
-2 24 -10 0 10 -10 0 -10
-2 24 -10 0 -10 10 0 -10
-2 24 10 0 -10 10 0 10
-2 24 10 0 10 10 24 10
-2 24 -10 0 10 -10 24 10
-2 24 -10 0 -10 -10 24 -10
-2 24 10 0 -10 10 24 -10
 1 16 0 4 0 4 0 0 0 -1 0 0 0 4 4-4edge.dat
 1 16 6 10 0 0 -1 0 4 0 0 0 0 4 4-4edge.dat
 1 16 0 10 -6 4 0 0 0 0 4 0 -1 0 4-4edge.dat
 1 16 -6 10 0 0 1 0 4 0 0 0 0 4 4-4edge.dat
 1 16 0 10 6 4 0 0 0 0 4 0 1 0 4-4edge.dat
+
 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
 1 16 10 10 0 0 1 0 6 0 0 0 0 6 4-4edge.dat
 1 16 0 10 -10 6 0 0 0 0 6 0 1 0 4-4edge.dat
 1 16 -10 10 0 0 1 0 6 0 0 0 0 6 4-4edge.dat
 1 16 0 10 10 6 0 0 0 0 6 0 1 0 4-4edge.dat
+
 1 16 0 4 0 4 0 0 0 -1 0 0 0 4 4-4ndis.dat
 1 16 6 10 0 0 1 0 4 0 0 0 0 4 4-4ndis.dat
 1 16 0 10 -6 -4 0 0 0 0 4 0 -1 0 4-4ndis.dat
 1 16 -6 10 0 0 -1 0 4 0 0 0 0 -4 4-4ndis.dat
 1 16 0 10 6 4 0 0 0 0 4 0 1 0 4-4ndis.dat
+
 1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat
 1 16 10 10 0 0 -1 0 6 0 0 0 0 -6 4-4ndis.dat
 1 16 0 10 -10 6 0 0 0 0 6 0 1 0 4-4ndis.dat
 1 16 -10 10 0 0 1 0 6 0 0 0 0 6 4-4ndis.dat
 1 16 0 10 10 -6 0 0 0 0 6 0 -1 0 4-4ndis.dat
+
 0 BFC INVERTNEXT
 1 16 0 0 0 4 0 0 0 4 0 0 0 4 4-4cyli.dat
 0 BFC INVERTNEXT
@@ -69,6 +55,7 @@
 1 16 -10 10 0 0 4 0 4 0 0 0 0 4 4-4cyli.dat
 0 BFC INVERTNEXT
 1 16 0 10 10 4 0 0 0 0 4 0 -4 0 4-4cyli.dat
+
 4 16 10 24 10 6 24 6 -6 24 6 -10 24 10
 4 16 -10 24 10 -6 24 6 -6 24 -6 -10 24 -10
 4 16 -10 24 -10 -6 24 -6 6 24 -6 10 24 -10
@@ -113,9 +100,9 @@
 4 16 -10 24 -10 -10 0 -10 -10 4 -6 -10 16 -6
 4 16 -10 0 10 -10 4 6 -10 4 -6 -10 0 -10
 4 16 -10 0 10 -10 24 10 -10 16 6 -10 4 6
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
 1 16 10 10 0 0 -1 0 1 0 0 0 0 1 stud2a.dat
-1 16 0 10 -10 1 0 0 0 0 1 0 1 0 stud2a.dat
-1 16 -10 10 0 0 1 0 1 0 0 0 0 1 stud2a.dat
-1 16 0 10 10 1 0 0 0 0 1 0 -1 0 stud2a.dat
-0
+1 16 0 10 -10 0 0 1 1 0 0 0 1 0 stud2a.dat
+1 16 -10 10 0 0 1 0 1 0 0 0 0 -1 stud2a.dat
+1 16 0 10 10 0 0 -1 1 0 0 0 -1 0 stud2a.dat

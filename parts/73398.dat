@@ -1,0 +1,15 @@
+0 Wheel Rim 41 x 75 with  5 Spokes and  3 Pins #1 (Left)
+0 Name: 73398.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Part UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 75 x 41, Daytona, Ferrari, set 42143
+
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\73398s01.dat
+1 16 0 0 -10 1 0 0 0 0 -1 0 1 0 stud2.dat

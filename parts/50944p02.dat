@@ -1,0 +1,15 @@
+0 Wheel Rim  6.4 x 11 with  5 Spokes with Metallic Gold Outline Pattern
+0 Name: 50944p02.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 50944pb02, set 40193
+
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\50944s01.dat
+1 82 0 0 0 1 0 0 0 1 0 0 0 1 s\50944s02.dat

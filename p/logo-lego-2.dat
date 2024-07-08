@@ -1,7 +1,7 @@
-0 ~Logo Lego (since 1998)
+0 Logo Lego (since 1998)
 0 Name: logo-lego-2.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Primitive UPDATE 2022-01
+0 !LDRAW_ORG Primitive UPDATE 2024-01
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,7 +10,8 @@
 0 !HISTORY 2021-09-28 [PTadmin] Correct description 1988->1998
 0 !HISTORY 2021-10-03 [PTadmin] Renamed from s/logolegos02
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
-
+0 !HISTORY 2024-01-25 [MagFors] Update description
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
 
 4 0 -17.811 5.026 0 -16.57 4.873 0 -16.628 4.393 0 -17.881 4.361 0
 4 0 -17.881 4.361 0 -16.628 4.393 0 -16.538 3.349 0 -17.782 3.164 0

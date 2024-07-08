@@ -1,0 +1,58 @@
+0 Technic Rotation Joint Socket with Two Friction Pins
+0 Name: 80563.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-06-07 [GeraldLasser] Derieved from Part 44224 by Guy Vivan
+0 !HISTORY 2023-10-25 [MagFors] used new subfile
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\44224s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\44224s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\44224s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\44224s01.dat
+
+1 16 0 10 20 0 0 -1 0 -1 0 1 0 0 confric.dat
+1 16 0 10 20 8 0 0 0 1 0 0 0 8 4-4edge.dat
+1 16 0 10 20 4 0 0 0 1 0 0 0 4 4-4edge.dat
+
+1 16 0 10 -20 0 0 -1 0 -1 0 1 0 0 confric.dat
+1 16 0 10 -20 8 0 0 0 1 0 0 0 8 4-4edge.dat
+1 16 0 10 -20 4 0 0 0 1 0 0 0 4 4-4edge.dat
+
+1 16 0 0 0 21.2132 0 21.2132 0 10 0 21.2132 0 -21.2132 48\4-4cylo.dat
+1 16 0 0 0 1.41421 0 1.41421 0 1 0 1.41421 0 -1.41421 48\4-4rin13.dat
+1 16 0 0 0 1.41421 0 1.41421 0 1 0 1.41421 0 -1.41421 48\4-4rin14.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 18.3848 0 18.3848 0 6 0 18.3848 0 -18.3848 48\4-4cylo.dat
+1 16 0 -4 0 9 0 0 0 1 0 0 0 -9 48\4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 -4 0 1 0 0 0 1 0 0 0 -1 48\4-4con8.dat
+1 16 0 -4 0 1 0 0 0 1 0 0 0 -1 48\4-4ring9.dat
+1 16 0 -4 0 1 0 0 0 1 0 0 0 -1 48\4-4rin10.dat
+
+1 16 0 -4 0 0 0 11 0 1 0 -11 0 0 48\1-6edge.dat
+1 16 0 -4 0 0 0 -11 0 1 0 -11 0 0 48\1-6edge.dat
+1 16 0 -4 0 0 0 11 0 1 0 11 0 0 48\1-6edge.dat
+1 16 0 -4 0 0 0 -11 0 1 0 11 0 0 48\1-6edge.dat
+2 24 9.526 -4 5.5 10.02 -4 4.5
+2 24 -9.526 -4 5.5 -10.02 -4 4.5
+2 24 -9.526 -4 -5.5 -10.02 -4 -4.5
+2 24 9.526 -4 -5.5 10.02 -4 -4.5
+
+2 24 10.892 -4 1.5 11 -4 0
+2 24 -10.892 -4 1.5 -11 -4 0
+2 24 -10.892 -4 -1.5 -11 -4 0
+2 24 10.892 -4 -1.5 11 -4 0
+1 16 0 -4 0 11 0 0 0 10 0 0 0 -11 48\4-4cyli.dat
+1 16 0 6 0 11 0 0 0 1 0 0 0 -11 48\4-4edge.dat
+1 16 0 6 0 1 0 0 0 -1 0 0 0 -1 48\4-4ring8.dat
+0 BFC INVERTNEXT
+1 16 0 -3 0 8 0 0 0 9 0 0 0 -8 48\4-4cylo.dat
+0 BFC INVERTNEXT
+1 16 0 6 0 9 0 0 0 4 0 0 0 -9 48\4-4cylo.dat
+1 16 0 10 0 9 0 0 0 -1 0 0 0 -9 48\4-4ndis.dat
+1 16 0 6 0 11 0 0 0 1 0 0 0 -11 48\4-4ndis.dat

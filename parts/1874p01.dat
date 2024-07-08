@@ -1,0 +1,17 @@
+0 Windscreen  9 x  6 x  1.667 with Rear Window on Light Bluish Grey Roof Pattern
+0 Name: 1874p01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 007, Aston Martin, Bricklink 1874pb001, Brickowl 282349, DB5
+0 !KEYWORDS James Bond, Rebrickable 1874pr0001, set 76911
+
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1874s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1874p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\1874p01s01.dat

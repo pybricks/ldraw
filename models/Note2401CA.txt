@@ -1,0 +1,184 @@
+ldraw.org Parts Update 2024-01
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Mon, 29 Jan 2024 02:23:58 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 299
+   New files: 160
+   New Parts: 100
+   New Subparts: 50
+   New Primitives: 8
+   New 48 Segment Primitives: 2
+
+Moved Parts
+   60481.dat                  ~Moved to 60481a
+
+Renamed Parts
+   7-16ring1.dat              Ring  1 x 0.4375
+   changed to    ~Obsolete file
+   50944.dat                  Wheel Rim  6.4 x 11 with 5 Spokes
+   changed to    Wheel Rim  6.4 x 11 with  5 Spokes
+   s\950as01.dat              ~Train Track  4.5V Point Type 1 Left - Switch Rails without Stud
+   changed to    ~Train Track  4.5V Point Type 1 Left - Shared geometry
+   box2-7.dat                 Box with 2 Faces without 7 Edges
+   changed to    Box with  2 Faces without  7 Edges
+   box3u5p.dat                Box with 3 Faces without 5 Edges
+   changed to    Box with  3 Faces without  5 Edges
+   box4-4a.dat                Box with 4 Faces without 4 Adjacent Edges
+   changed to    Box with  4 Faces without  4 Adjacent Edges
+   box4-2p.dat                Box with 4 Faces without 2 Parallel Edges
+   changed to    Box with  4 Faces without  2 Parallel Edges
+   box5-4a.dat                Box with 5 Faces without 4 Adjacent Edges
+   changed to    Box with  5 Faces without  4 Adjacent Edges
+   box3u4p.dat                Box with 3 Faces without 4 Parallel Edges
+   changed to    Box with  3 Faces without  4 Parallel Edges
+   box4-7a.dat                Box with 4 Faces without 7 Adjacent Edges
+   changed to    Box with  4 Faces without  7 Adjacent Edges
+   box3u6.dat                 Box with 3 Faces without 6 Edges
+   changed to    Box with  3 Faces without  6 Edges
+   box2-9p.dat                Box with 2 Faces with 3 Parallel Edges
+   changed to    Box with  2 Faces with  3 Parallel Edges
+   box5-2p.dat                Box with 5 Faces without 2 Parallel Edges
+   changed to    Box with  5 Faces without  2 Parallel Edges
+   box4-3p.dat                Box with 4 Faces without 3 Parallel Edges
+   changed to    Box with  4 Faces without  3 Parallel Edges
+   box3-7a.dat                Box with 3 Adjacent Faces without 7 Adjacent Edges
+   changed to    Box with  3 Adjacent Faces without  7 Adjacent Edges
+   48\1-48cyli.dat            Hi-Res Cylinder 0.02083
+   changed to    Hi-Res Cylinder 0.0208
+   axleho10.dat               Technic Axle Hole Tooth Surface
+   changed to    Technic Axle Base Surface
+   axlehol8.dat               Technic Axle Hole Perimeter
+   changed to    Technic Axle Perimeter
+   axlehol9.dat               Technic Axle Hole Tooth Inner Edges
+   changed to    Technic Axle Inner Edges
+   logo-chevrolet-text.dat    ~Logo Chevrolet Text
+   changed to    Logo Chevrolet Text
+   logo-chevrolet-text-box.dat~Logo Chevrolet Text Outer Box
+   changed to    Logo Chevrolet Text Outer Box
+   logo-lamborghini-text.dat  ~Logo Lamborghini Text
+   changed to    Logo Lamborghini Text
+   logo-lamborghini-text-bkgd.dat~Logo Lamborghini Text Background
+   changed to    Logo Lamborghini Text Background
+   logo-lego-2.dat            ~Logo Lego (since 1998)
+   changed to    Logo Lego (since 1998)
+
+Other Fixed Parts
+   2540.dat                   Plate  1 x  2 with Handle
+   30236.dat                  Brick  1 x  2 with Handle
+   48336.dat                  Plate  1 x  2 with Handle Type 2
+   66961.dat                  Brick  2 x  2 x  0.667 with Handle on  4 Sides and  2 Studs on Top
+   86500.dat                  Dome  4 x  4 Smooth
+   973p1i.dat                 Minifig Torso with Exxon Logo Pattern
+   s\4181s00.dat              ~Train Door  1 x  4 x  5 Left without Front
+   clip1.dat                  Vertical Clip for Flags
+   3460.dat                   Plate  1 x  8
+   950a.dat                   ~Train Track  4.5V Point Type 1 Left - Switch Rails
+   s\952bs01.dat              ~Train Track  4.5V Point Type 2 Left - Sleeper Base
+   952a.dat                   ~Train Track  4.5V Point Type 1 Left - Sleeper
+   4733.dat                   Brick  1 x  1 with Studs on Four Sides
+   u8030.dat                  ~Mursten Glass with LEGO Logo for Window  1 x  6 x  4 Panorama
+   951a.dat                   ~Train Track  4.5V Point Type 1 Right - Switch Rails
+   48\1-4cyli.dat             Hi-Res Cylinder 0.25
+   48\1-4edge.dat             Hi-Res Circle 0.25
+   3-16ndis.dat               Disc Negative 0.1875
+   7-16cyli.dat               Cylinder 0.4375
+   4-4ring9.dat               Ring  9 x 1.0
+   1-4ring3.dat               Ring  3 x 0.25
+   connhol3.dat               Technic Connector Hole One-Sided
+   1-4ring4.dat               Ring  4 x 0.25
+   48\1-4ring4.dat            Hi-Res Ring  4 x 0.25
+   48\1-4ring3.dat            Hi-Res Ring  3 x 0.25
+   48\1-4ring5.dat            Hi-Res Ring  5 x 0.25
+   48\1-4ring1.dat            Hi-Res Ring  1 x 0.25
+   connhole.dat               Technic Connector Hole Long
+   48\1-4chrd.dat             Hi-Res Chord 0.25
+   2-4ring8.dat               Ring  8 x 0.5
+   48\1-8chrd.dat             Hi-Res Chord 0.125
+   4-4con2.dat                Cone  2 x 1.0
+   4-4con4.dat                Cone  4 x 1.0
+   48\1-12edge.dat            Hi-Res Circle 0.0833
+   48\1-12cyli.dat            Hi-Res Cylinder 0.0833
+   48\4-4disc.dat             Hi-Res Disc 1.0
+   1-4tang.dat                Disc Negative Tangent 0.25
+   48\1-16edge.dat            Hi-Res Circle 0.0625
+   48\1-12chrd.dat            Hi-Res Chord 0.0833
+   48\1-24edge.dat            Hi-Res Circle 0.0417
+   48\2-4cyli.dat             Hi-Res Cylinder 0.5
+   2-4ring9.dat               Ring  9 x 0.5
+   48\1-16cyli.dat            Hi-Res Cylinder 0.0625
+   48\1-4disc.dat             Hi-Res Disc 0.25
+   7-16chrd.dat               Chord 0.4375
+   stud8.dat                  Stud Duplo Tube
+   2-4ring5.dat               Ring  5 x 0.5
+   3-8ring2.dat               Ring  2 x 0.375
+   48\2-4ndis.dat             Hi-Res Disc Negative 0.5
+   beamhole.dat               Technic Beam Hole 1.0 with Adjacent Hole Negative
+   cylj4x8.dat                Cylinder Joint  4 to  8
+   stud7.dat                  Stud Duplo Open
+   4-4con9.dat                Cone  9 x 1.0
+   4-4con0.dat                Cone  0 x 1.0
+   2-4stud4.dat               Stud Tube Open 0.5
+   3-8disc.dat                Disc 0.375
+   2-4ring7.dat               Ring  7 x 0.5
+   1-8ring4.dat               Ring  4 x 0.125
+   3-4ring3.dat               Ring  3 x 0.75
+   7-8cyli.dat                Cylinder 0.875
+   4-4cylse.dat               Cylinder Sloped 1.0 with Edge
+   1-8cyls.dat                Cylinder Sloped 0.125
+   48\4-4ring8.dat            Hi-Res Ring  8 x 1.0
+   1-8ring2.dat               Ring  2 x 0.125
+   48\5-24cyli.dat            Hi-Res Cylinder 0.2083
+   1-4con0.dat                Cone  0 x 0.25
+   48\3-16edge.dat            Hi-Res Circle 0.1875
+   3-16disc.dat               Disc 0.1875
+   48\4-4ring6.dat            Hi-Res Ring  6 x 1.0
+   2-4con3.dat                Cone  3 x 0.5
+   stud4s.dat                 Stud Tube Open Sloped
+   1-4con1.dat                Cone  1 x 0.25
+   48\4-4con4.dat             Hi-Res Cone  4 x 1.0
+   1-8ring1.dat               Ring  1 x 0.125
+   axl2hol2.dat               Technic Axle Hole Reduced Side Edges
+   48\4-4ring2.dat            Hi-Res Ring  2 x 1.0
+   1-16disc.dat               Disc 0.0625
+   48\4-4ring5.dat            Hi-Res Ring  5 x 1.0
+   3-8ring4.dat               Ring  4 x 0.375
+   48\4-4con5.dat             Hi-Res Cone  5 x 1.0
+   2-4con2.dat                Cone  2 x 0.5
+   3-4ring1.dat               Ring  1 x 0.75
+   4-4con11.dat               Cone 11 x 1.0
+   stud4f4n.dat               Stud Tube Open with  4 Fillets Narrow
+   studel.dat                 Stud with Electric Contact
+   3-8ring8.dat               Ring  8 x 0.375
+   bush0.dat                  Technic Bush without Collars
+   stud2s.dat                 Stud Tube Open Sliced
+   48\3-16ndis.dat            Hi-Res Disc Negative 0.1875
+   48\3-4edge.dat             Hi-Res Circle 0.75
+   48\4-4con3.dat             Hi-Res Cone  3 x 1.0
+   axl2hol3.dat               Technic Axle Hole Reduced Tooth Outer Edges
+   48\2-4disc.dat             Hi-Res Disc 0.5
+   7-16disc.dat               Disc 0.4375
+   48\4-4con7.dat             Hi-Res Cone  7 x 1.0
+   3-4ring4.dat               Ring  4 x 0.75
+   48\4-4con12.dat            Hi-Res Cone 12 x 1.0
+   1-8con3.dat                Cone  3 x 0.125
+   stud4f4s.dat               Stud Tube Open with  4 Fillets Standard
+   11-16cyli.dat              Cylinder 0.6875
+   3-8ring7.dat               Ring  7 x 0.375
+   48\1-4tang.dat             Hi-Res Disc Negative Tangent 0.25
+   48\4-4con10.dat            Hi-Res Cone 10 x 1.0
+   11-16edge.dat              Circle 0.6875
+   stud4f2w.dat               Stud Tube Open with  2 Fillets Wide Opposite
+   48\1-4con4.dat             Hi-Res Cone  4 x 0.25
+   48\1-8ring5.dat            Hi-Res Ring  5 x 0.125
+   48\1-8tang.dat             Hi-Res Disc Negative Tangent 0.125
+   48\4-4con8.dat             Hi-Res Cone  8 x 1.0
+   3-4ring8.dat               Ring  8 x 0.75
+   3-8ring9.dat               Ring  9 x 0.375
+   48\1-4con3.dat             Hi-Res Cone  3 x 0.25
+   48\3-4cyli.dat             Hi-Res Cylinder 0.75
+   48\3-8cyli.dat             Hi-Res Cylinder 0.375

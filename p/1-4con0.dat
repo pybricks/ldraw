@@ -1,8 +1,8 @@
 0 Cone  0 x 0.25
 0 Name: 1-4con0.dat
-0 Author: Bernd Broich [bbroich]
-0 !LDRAW_ORG Primitive UPDATE 2012-01
-0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Primitive UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,14 +11,17 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-02-16 [Philo] Changed to CCW. Corrected tangent condlines control points
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+0 !HISTORY 2024-01-17 [Holly-Wood] Complete re-write, original by bbroich
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
 
+3 16 0 1 0 .9239 0 .3827 1 0 0
+3 16 0 1 0 .7072 0 .7072 .9239 0 .3827
+3 16 0 1 0 .3827 0 .9239 .7072 0 .7072
+3 16 0 1 0 0 0 1 .3827 0 .9239
 
-3 16 0 1 0 0.9239 0 0.3827 1 0 0
-3 16 0 1 0 0.7071 0 0.7071 0.9239 0 0.3827
-3 16 0 1 0 0.3827 0 0.9239 0.7071 0 0.7071
-3 16 0 1 0 0 0 1 0.3827 0 0.9239
-5 24 0 0 1 0 1 0 -0.3 0 1 0.3827 0 0.9239
-5 24 0.3827 0 0.9239 0 1 0 0 0 1 0.7071 0 0.7071
-5 24 0.7071 0 0.7071 0 1 0 0.3827 0 0.9239 0.9239 0 0.3827
-5 24 0.9239 0 0.3827 0 1 0 0.7071 0 0.7071 1 0 0
-5 24 1 0 0 0 1 0 0.9239 0 0.3827 1 0 -0.3
+0 // Conds
+5 24 0 0 1 0 1 0 .3827 0 .9239 -.3827 0 .9239
+5 24 0 1 0 1 0 0 .9239 0 -.3827 .9239 0 .3827
+5 24 0 1 0 .9239 0 .3827 1 0 0 .7072 0 .7072
+5 24 0 1 0 .7072 0 .7072 .9239 0 .3827 .3827 0 .9239
+5 24 0 1 0 .3827 0 .9239 .7072 0 .7072 0 0 1

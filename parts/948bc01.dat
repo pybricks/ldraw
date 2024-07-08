@@ -1,0 +1,16 @@
+0 Train Track  4.5V Point Type 2 Tapered Left (Straight)
+0 Name: 948bc01.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Shortcut UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CMDLINE -c1
+
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 948b.dat
+1 15 0 16 0 0 0 1 0 1 0 -1 0 0 952b.dat
+1 16 0 0 36 1 0 0 0 1 0 0 0 1 950b.dat
+1 14 -177.847 -8 112.754 0.965926 0 -0.258819 0 1 0 0.258819 0 0.965926 3062a.dat
