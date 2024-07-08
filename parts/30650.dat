@@ -1,0 +1,18 @@
+0 Panel  2 x  8 x  8 Chamfered Front
+0 Name: 30650.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Jack Stone
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30650s01.dat
+
+4 16 -60 6 -30 -80 5.7125 -18.5 -80 186.2875 -18.5 -60 186 -30
+4 16 -60 6 -30 -60 186 -30 60 186 -30 60 6 -30
+4 16 60 6 -30 60 186 -30 80 186.2875 -18.5 80 5.7125 -18.5

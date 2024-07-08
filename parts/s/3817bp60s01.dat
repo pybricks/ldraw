@@ -1,13 +1,15 @@
-0 ~Minifig Leg Left with Insectoids Robot Pattern (Needs Work)
+0 ~Minifig Leg Left with Insectoids Robot Pattern (Needs Work) (Obsolete)
 0 Name: s\3817bp60s01.dat
 0 Author: Mikkel Bech Jensen [gaia]
-0 !LDRAW_ORG Subpart UPDATE 2020-01
-0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-05-15 [Holly-Wood] Adjusted to new leg 3817b, used metallic copper
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+0 !HISTORY 2023-03-28 [Holly-Wood] Obsoleted due to bad geometry
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
 
 
 0 // (Needs Work) Metallic copper gradient on the thigh is missing

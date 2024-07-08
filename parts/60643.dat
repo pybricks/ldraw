@@ -1,0 +1,15 @@
+0 ~Figure Troll Wrist Cuff Right
+0 Name: 60643.dat
+0 Author: Andy Westrate [westrate]
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
+0 !HISTORY 2009-11-10 [westrate] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-03-11 [MagFors] Update description
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 61531.dat

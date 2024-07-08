@@ -1,0 +1,19 @@
+0 Minifig Baby Head Grogu
+0 Name: 73125.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 75292, Star Wars
+
+0 !HISTORY 2022-05-12 {LEGO Instructions App} Original part shape
+0 !HISTORY 2022-05-12 [fhareide] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\73125s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\73125s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\73125s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\73125s02.dat

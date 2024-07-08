@@ -1,0 +1,24 @@
+0 Plate  1 x  6 with Light Grey Trapezoid Pattern
+0 Name: 3666py0.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Pagani, Set 76915, Speed Champions, Utopia
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+0 // Subparts
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3666s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3666py0s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3666py0s01.dat
+0 // Front face
+0 // Light grey arc
+3 71 -37 7.5 -10 37 7.5 -10 0 2.8 -10
+0 // Neutral faces
+4 16 -29 .3436 -10 29 .3436 -10 60 0 -10 -60 0 -10
+3 16 -29 .3436 -10 0 .95 -10 29 .3436 -10
+4 16 -60 8 -10 60 8 -10 37 7.5 -10 -37 7.5 -10

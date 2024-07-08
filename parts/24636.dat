@@ -1,0 +1,46 @@
+0 Minifig Headdress with Widow's Peak and Two Large Curved Segmented Horns
+0 Name: 24636.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Collectible Minifigures, Disney Series 1, Helmet No. 95, Maleficent
+
+0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2020-11-09 [GeraldLasser] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud4o.dat
+0 BFC INVERTNEXT
+1 16 0 2 0 1 0 0 0 -1.2 0 0 0 1 4-4con12.dat
+0 BFC INVERTNEXT
+1 16 0 .8 0 2 0 0 0 -.8 0 0 0 2 4-4con5.dat
+
+1 16 0 0 0 2 0 0 0 -1 0 0 0 2 4-4ring4.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24636s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\24636s01.dat
+
+2 24 0 6.995 -14.36 0 7.443 -13.132
+2 24 0 17.379 13.943 0 12.147 15.244
+2 24 0 12.147 15.244 0 6.801 15.933
+2 24 0 6.801 15.933 0 4.017 16.112
+2 24 0 .7725 15.9245 0 -2.472 15.237
+2 24 0 4.017 16.112 0 .7725 15.9245
+2 24 0 -5.1535 13.3905 0 -7.275 11.104
+2 24 0 -2.472 15.237 0 -5.1535 13.3905
+2 24 0 -7.275 11.104 0 -8.576 4.633
+2 24 0 -7.4048 -4.5043 0 -5.801 -8.47
+2 24 0 -8.2285 -.5385 0 -7.4048 -4.5043
+2 24 0 -8.576 4.633 0 -8.2285 -.5385
+2 24 0 -2.479 -12.0505 0 1.163 -14.111
+2 24 0 -5.801 -8.47 0 -2.479 -12.0505
+2 24 0 1.163 -14.111 0 6.995 -14.36
+
+5 24 0 17.478 13 0 2 13 -4.9751 17.4764 12.0107 4.9751 17.4764 12.0107
+5 24 0 2 -13 0 7.443 -13.132 -3.517 5.38 -12.514 3.517 5.38 -12.514
+5 24 0 17.379 13.943 0 17.478 13 -.651 17.296 14.434 .651 17.296 14.434

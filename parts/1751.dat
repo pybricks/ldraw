@@ -1,0 +1,13 @@
+0 Tile  4 x  4
+0 Name: 1751.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1751s01.dat
+4 16 -40 0 -40 40 0 -40 40 0 40 -40 0 40

@@ -1,0 +1,18 @@
+0 Flag on Flagpole Type 5 with ANWB Logo Sticker
+0 Name: 3596d28.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Shortcut UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3596pb20, Netherlands, Road service, Set 1590-2
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3596.dat
+0 // Sticker Front
+1 16 2 -132 34 0 -1 0 0 0 -1 1 0 0 194535b.dat
+0 // Sticker Back
+1 16 -2 -132 34 0 1 0 0 0 -1 -1 0 0 194535b.dat

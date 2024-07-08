@@ -2,7 +2,7 @@
 0 Name: axlebeam.dat
 0 Author: Magnus Forsberg [MagFors]
 0 !LDRAW_ORG Primitive UPDATE 2018-02
-0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP to be used between a cylinder of 9 ldu radious and an axle primitive.
 0 !HELP 1 16 0 0 -10 9 0 0 0 0 -9 0 20 0 2-4cyli.dat

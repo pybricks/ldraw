@@ -1,0 +1,24 @@
+0 ~Tile  4 x  4 without Face
+0 Name: s\1751s01.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Subpart UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stug4-3x3.dat
+0 BFC INVERTNEXT
+1 16 0 8 0 36 0 0 0 -4 0 0 0 36 box5.dat
+4 16 39 8 39 36 8 36 -36 8 36 -39 8 39
+4 16 -39 8 39 -36 8 36 -36 8 -36 -39 8 -39
+4 16 -39 8 -39 -36 8 -36 36 8 -36 39 8 -39
+4 16 39 8 -39 36 8 -36 36 8 36 39 8 39
+1 16 0 8 0 39 0 0 0 -1 0 0 0 39 box4.dat
+4 16 40 7 40 39 7 39 -39 7 39 -40 7 40
+4 16 -40 7 40 -39 7 39 -39 7 -39 -40 7 -40
+4 16 -40 7 -40 -39 7 -39 39 7 -39 40 7 -40
+4 16 40 7 -40 39 7 -39 39 7 39 40 7 40
+1 16 0 7 0 40 0 0 0 -7 0 0 0 40 box4.dat

@@ -1,0 +1,16 @@
+0 Sticker  1.9 x  1.9 with White Wrench on Light Blue Background
+0 Name: 190155f.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 6378stk01, Brickowl 150076, Maintenance
+0 !KEYWORDS Rebrickable 190155, Service station, Set 6378
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+1 16 0 -0.25 0 19 0 0 0 0.25 0 0 0 19 box5-12.dat
+1 15 0 -0.25 0 1 0 0 0 1 0 0 0 1 s\3068bp23s01.dat

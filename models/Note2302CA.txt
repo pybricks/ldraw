@@ -1,0 +1,58 @@
+ldraw.org Parts Update 2023-02
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Mon, 17 Apr 2023 04:55:47 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 316
+   New files: 279
+   New Parts: 147
+   New Subparts: 123
+   New Primitives: 2
+   New 8 Segment Primitives: 1
+   New 48 Segment Primitives: 2
+   New TEXMAP Images: 4
+
+Moved Parts
+
+Renamed Parts
+   003238d.dat                Sticker Minifig Shield Triangular with Yellow Trefoils on Blue
+   changed to    Sticker Minifig Shield Triangular with Yellow Trefoils on Blue Background
+   003238m.dat                Sticker Minifig Shield Triangular with Yellow Trefoils on DkBlue
+   changed to    Sticker Minifig Shield Triangular with Yellow Trefoils on Dark Blue Background
+   003238q.dat                Sticker Minifig Vest with Yellow Trefoils on DkBlue Background
+   changed to    Sticker Minifig Vest with Yellow Trefoils on Dark Blue Background
+   15461.dat                  Technic Connector  3 x  1 x  2 with Two Pins and Peghole
+   changed to    Technic Connector  3 x  1 x  2 with Peghole and Two Pins (Inline Slits)
+   243c02.dat                 ~Train Wheels Spoked with Cylindrical Rim with Steel Axle 96 LDU
+   changed to    ~Train Wheels Spoked with Cylindrical Rim with Steel Axle 96 LDU (Obsolete)
+   2902.dat                   Tyre 81.6 x 15 Motorcycle
+   changed to    Tyre 17/ 70 x 62 Motorcycle Offroad
+   32324.dat                  Technic Brick  4 x  4 with Open Center  2 x  2
+   changed to    Technic Brick  4 x  4 with Open Centre  2 x  2
+   37312.dat                  Electric Spike Prime Force Sensor
+   changed to    Electric Powered Up Force Sensor
+   37312c01.dat               Electric Spike Prime Force Sensor with Coiled Cable
+   changed to    Electric Powered Up Force Sensor with Coiled Cable
+   41669.dat                  Technic Tooth  1 x  3 with Axlehole
+   changed to    Technic Tooth  1 x  3 with Axlehole with Rounded Bottom Cavity
+   61287.dat                  Minifig Helmet Bubble Half
+   changed to    Cylinder Hemisphere  2 x  2 with Cutout
+   90462bpq1.dat              Minifig Headdress Nemes with Darkblue Stripes Pattern
+   changed to    Minifig Headdress Nemes with Darkblue Stripes on Metallic Gold Pattern
+   u9328.dat                  Canvas Tepee Cover
+   changed to    ~Sheet Fabric Tepee Cover (Obsolete)
+   u9461c01.dat               Electric Spike Prime Force Sensor Body
+   changed to    Electric Powered Up Force Sensor Body
+   6342869ac01.dat            Sticker  0.8 x  5.6 Rectangle Chrome (Formed)
+   changed to    Sticker  5.6 x  1.5 Chrome (Formed)
+   12618.dat                  Minifig Armour Shoulder Pads with Six Spikes
+   changed to    Minifig Armour Shoulder Pads with  6 Spikes
+
+Other Fixed Parts
+
+Minor Edits
+   17752 Part licenses changed

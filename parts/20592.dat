@@ -1,0 +1,17 @@
+0 Minifig Hair Mid-Length Flipped Ends with Cat Ears
+0 Name: 20592.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+
+0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2022-05-01 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20592s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20592s02.dat

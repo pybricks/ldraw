@@ -1,0 +1,19 @@
+0 Minifig Kendo Mask with Metallic Gold Grille and Blue Trim Pattern
+0 Name: 98130p07.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 98130pb07, Jay, Ninjago, Set 853758
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98130s01.dat
+1 82 0 0 0 1 0 0 0 1 0 0 0 1 s\98130s02.dat
+1 82 0 0 0 -1 0 0 0 1 0 0 0 1 s\98130s02.dat
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 s\98130s03.dat
+1 1 0 0 0 -1 0 0 0 1 0 0 0 1 s\98130s03.dat

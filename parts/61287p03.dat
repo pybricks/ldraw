@@ -1,0 +1,20 @@
+0 Cylinder Hemisphere  2 x  2 with Cutout with Dark Brown Western Earth Map Pattern
+0 Name: 61287p03.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Globe, Set 21313, Set 70657, Set 92177, Bricklink 61287pb005
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+0 !TEXMAP START SPHERICAL 0 -20 0 -26 -20 0 0 -20 -26 180 175 61287p01db.png
+0 !: 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61287s02.dat
+0 !TEXMAP FALLBACK
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61287s02.dat
+0 !TEXMAP END
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61287s01.dat

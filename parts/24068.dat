@@ -1,0 +1,20 @@
+0 Minifig Hips and Skirt Wide with Side Hoops
+0 Name: 24068.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2018-08-06 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24068s01.dat
+4 16 31.332 8.235 -10 -31.309 8.235 -10 -34.818 16.738 -10 34.841 16.738 -10
+4 16 28.073 4.53 -10 23.429 1.983 -10 -23.406 1.983 -10 -28.05 4.53 -10
+4 16 -28.05 4.53 -10 -31.309 8.235 -10 31.332 8.235 -10 28.073 4.53 -10
+4 16 -38.048 31.645 -10 -40 40 -10 40 40 -10 38.071 31.645 -10
+4 16 34.841 16.738 -10 -34.818 16.738 -10 -38.048 31.645 -10 38.071 31.645 -10
+4 16 -23.406 1.983 -10 23.429 1.983 -10 18.197 0 -10 -18.174 0 -10

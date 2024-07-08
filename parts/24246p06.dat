@@ -1,0 +1,37 @@
+0 Tile  1 x  1 with Rounded End with Yellow Ferrari Horse Pattern
+0 Name: 24246p06.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Competizione, Set 76914, Speed Champions, 812
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+0 // Subparts
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24246s02.dat
+1 14 0 0 -.5 -1.2 0 0 0 1 0 0 0 -1.2 s\logoferraris02a.dat
+1 16 0 0 -.5 -1.2 0 0 0 1 0 0 0 -1.2 s\logoferraris02b.dat
+0 // Primitives
+1 16 0 0 0 -10 0 0 0 1 0 0 0 -10 1-8chrd.dat
+1 16 0 0 0 0 0 -10 0 1 0 -10 0 0 1-8chrd.dat
+1 16 0 0 0 0 0 10 0 1 0 -10 0 0 1-8chrd.dat
+1 16 0 0 0 10 0 0 0 1 0 0 0 -10 1-8chrd.dat
+0 // Faces
+4 16 -10 0 10 -4.8 0 6.25 0 0 6.25 10 0 10
+3 16 -10 0 10 -4.8 0 1.66 -4.8 0 6.25
+4 16 -10 0 10 -10 0 0 -4.8 0 -.5 -4.8 0 1.66
+3 16 -10 0 0 -4.8 0 -3.86 -4.8 0 -.5
+4 16 -10 0 0 -7.071 0 -7.071 -4.8 0 -7.25 -4.8 0 -3.86
+3 16 0 0 -10 -4.8 0 -7.25 -7.071 0 -7.071
+3 16 0 0 -10 0 0 -7.25 -4.8 0 -7.25
+3 16 0 0 -10 4.8 0 -7.25 0 0 -7.25
+3 16 0 0 -10 7.071 0 -7.071 4.8 0 -7.25
+4 16 10 0 0 4.8 0 -1.82 4.8 0 -7.25 7.071 0 -7.071
+3 16 10 0 0 4.8 0 -.5 4.8 0 -1.82
+3 16 10 0 0 4.8 0 1.9 4.8 0 -.5
+4 16 10 0 0 10 0 10 4.8 0 6.25 4.8 0 1.9
+3 16 10 0 10 0 0 6.25 4.8 0 6.25

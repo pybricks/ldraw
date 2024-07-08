@@ -1,0 +1,26 @@
+0 Minifig Leg Faun Left
+0 Name: 24083.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move down 12 units to align with hips
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2019-06-05 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-01-30 [MagFors] Repositioned the hoof
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24083s01.dat
+0 // hoof
+4 16 18.9916 22.8606 -9.889 18.771 19.1826 -6.642 1.1901 19.1747 -6.6401 1.1524 22.8605 -9.8881
+4 16 19.3 28 -11.25 18.9916 22.8606 -9.889 1.1524 22.8605 -9.8881 1.1 28 -11.25
+0 // leg
+4 16 18.4998 4.4507 -9.4 2 1.544 -9.385 1.18 1.544 -9.385 1.1852 4.4049 -9.4
+4 16 2 -.025 -9.351 2 1.544 -9.385 18.4998 4.4507 -9.4 18.3226 -.0243 -9.351
+4 16 18.6162 7.3899 -8.88 18.4998 4.4507 -9.4 1.1852 4.4049 -9.4 1.1907 7.3649 -8.895
+4 16 2 -6.1871 -6.1871 2 -3.3486 -8.0841 18.1908 -3.3519 -8.0841 18.0785 -6.1876 -6.1871
+4 16 2 -3.3486 -8.0841 2 -.025 -9.351 18.3226 -.0243 -9.351 18.1908 -3.3519 -8.0841

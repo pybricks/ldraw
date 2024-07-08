@@ -1,0 +1,17 @@
+0 Flag  2 x  2 with Flat Skull and Crossed Bones Pattern
+0 Name: 2335p33.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 2335pb212, Brickowl 214923, Jolly Roger, Pirates
+0 !KEYWORDS Rebrickable 11055pr9999, set 21322
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2335s01.dat
+1 16 2 0 0 1 0 0 0 1 0 0 0 1 s\2335p33s01.dat
+1 16 -2 0 0 -1 0 0 0 1 0 0 0 1 s\2335p33s01.dat

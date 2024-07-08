@@ -2,7 +2,7 @@
 0 Name: light.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2022-06
-0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP You can use this file to place light sources into your LDRAW scene.
 0 !HELP When you then later use this scene with a renderer,

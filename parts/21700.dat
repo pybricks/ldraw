@@ -1,0 +1,53 @@
+0 Minifig Tool Sonic Screwdriver
+0 Name: 21700.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Doctor Who
+
+0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2021-05-24 [ejboer] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
+
+1 16 0 18.5 0 3 0 0 0 -2.1 0 0 0 -3 4-4cylc.dat
+1 16 0 16.025 0 3 0 0 0 3 0 0 0 3 t01o1250.dat
+1 16 0 16.025 0 3 0 0 0 -3 0 0 0 -3 t01o1250.dat
+1 16 0 15.65 0 3 0 0 0 1 0 0 0 3 4-4edge.dat
+1 16 0 6.785 0 .4 0 0 0 -.5 0 0 0 -.4 4-4con9.dat
+1 16 0 6.785 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 0 5.975 0 3.6 0 0 0 .31 0 0 0 3.6 4-4cylc.dat
+1 16 0 5.7 0 .4 0 0 0 .275 0 0 0 .4 4-4con9.dat
+1 16 0 -5.7 0 4 0 0 0 11.4 0 0 0 4 4-4cylc.dat
+1 16 0 -5.7 0 .25 0 0 0 -.175 0 0 0 -.25 4-4con15.dat
+1 16 0 -5.875 0 3.75 0 0 0 1 0 0 0 3.75 4-4edge.dat
+1 16 0 -5.875 0 .15 0 0 0 -.275 0 0 0 -.15 4-4con24.dat
+1 16 0 -6.15 0 3.6 0 0 0 1 0 0 0 3.6 4-4edge.dat
+1 16 0 -6.5 0 .15 0 0 0 .35 0 0 0 .15 4-4con24.dat
+1 16 0 -6.5 0 .75 0 0 0 -1.335 0 0 0 -.75 4-4con4.dat
+1 16 0 -6.5 0 3.75 0 0 0 1 0 0 0 3.75 4-4edge.dat
+1 16 0 -7.835 0 3 0 0 0 1 0 0 0 3 4-4edge.dat
+1 16 0 -12.635 0 3 0 0 0 4.8 0 0 0 3 4-4cyli.dat
+1 16 0 -25.1 0 .325 0 0 0 1 0 0 0 .3251 4-4ring8.dat
+1 16 0 -25.1 0 2.925 0 0 0 1 0 0 0 2.925 4-4edge.dat
+
+0 // Handle
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\21700s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\21700s01.dat
+
+0 // Prongs
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\21700s02.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\21700s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\21700s02.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\21700s02.dat
+
+0 // Tip
+1 16 0 -25.9 0 2.6 0 0 0 0.8 0 0 0 2.6 4-4cylo.dat
+1 16 0 -25.9 0 .52 0 0 0 1 0 0 0 .52 4-4ring4.dat
+1 16 0 -25.9 0 2.08 0 0 0 1 0 0 0 2.08 4-4edge.dat
+1 16 0 -28.15 0 2.08 0 0 0 2.25 0 0 0 2.08 4-4cyli.dat
+1 16 0 -28.15 0 2.08 0 0 0 -2.08 0 0 0 -2.08 4-8sphe.dat

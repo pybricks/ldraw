@@ -2,7 +2,7 @@
 0 Name: joint8socket1.dat
 0 Author: Tim Gould [timgould]
 0 !LDRAW_ORG Primitive UPDATE 2017-01
-0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP it moves +/-35 degrees in the horizontal plane
 0 !HELP 1 4 0 0 0 0.819152 0 0.573576 0 -1 0 0.573576 0 -0.819152 joint-8-balla.dat
