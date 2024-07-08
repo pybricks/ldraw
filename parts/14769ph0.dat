@@ -1,0 +1,19 @@
+0 Tile  2 x  2 Round with Two White Squares within White Ring Pattern
+0 Name: 14769ph0.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickheadz, Bricklink 14769pb417, Brickowl 356560, Eye, Harry Potter
+0 !KEYWORDS Rebrickable 14769pr1187, Set 40495
+
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138pz0s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4-4ring9.dat
+1 16 0 0 0 5 0 0 0 1 0 0 0 5 4-4ring3.dat
+1 15 0 0 0 5 0 0 0 1 0 0 0 5 4-4ring2.dat

@@ -1,0 +1,35 @@
+0 Technic Ring 11
+0 Name: 77107.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Beam, circle, Round
+
+0 !HISTORY 2021-06-01 [Philo] Completed GeraldLasser draft
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
+
+1 16 50 0 -86.6025 0.5 0 0.86603 0 1 0 -0.86603 0 0.5 connhole.dat
+1 16 -50 0 -86.6025 -0.5 0 0.86603 0 1 0 -0.86603 0 -0.5 connhole.dat
+1 16 -50 0 86.6025 -0.5 0 -0.86603 0 1 0 0.86603 0 -0.5 connhole.dat
+1 16 50 0 86.6025 0.5 0 -0.86603 0 1 0 0.86603 0 0.5 connhole.dat
+1 16 100 -10 0 -1 0 0 0 20 0 0 0 -1 axlehol5.dat
+1 16 -100 -10 0 -1 0 0 0 20 0 0 0 -1 axlehol5.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\77107s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\77107s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\77107s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\77107s01.dat
+
+1 16 0 0 0 0.5 0 -0.86603 0 1 0 -0.86603 0 -0.5 s\77107s01.dat
+1 16 0 0 0 -0.5 0 0.86603 0 1 0 0.86603 0 0.5 s\77107s01.dat
+1 16 0 0 0 0.5 0 -0.86603 0 1 0 0.86603 0 0.5 s\77107s01.dat
+1 16 0 0 0 -0.5 0 0.86603 0 1 0 -0.86603 0 -0.5 s\77107s01.dat
+
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\77107s02.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\77107s02.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\77107s02.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\77107s02.dat

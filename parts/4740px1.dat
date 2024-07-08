@@ -1,0 +1,21 @@
+0 Dish  2 x  2 Inverted with Six Orange Petals Pattern
+0 Name: 4740px1.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 4740pb012, Brickowl 161182, Mystery Machine
+0 !KEYWORDS Rebrickable 4740pr0010, Scooby Doo, Set 75902
+
+0 !HISTORY 2024-04-12 [MagFors] used s01 subfile
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4740s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4740s02.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4740px1s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\4740px1s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4740px1s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\4740px1s01.dat

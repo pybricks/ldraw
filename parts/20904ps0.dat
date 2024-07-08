@@ -1,0 +1,26 @@
+0 Minifig Helmet SW Stormtrooper Episode  8 with Pointed Mouth Pattern
+0 Name: 20904ps0.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Part UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 20904pb05, Brickowl 555383, Rebrickable 20904pr0001
+0 !KEYWORDS Set 75166, Set 75190, Set 75225
+
+0 !CMDLINE -c15
+
+0 !HISTORY 2024-03-28 [Holly-Wood] Separated patternable area, fixed overlap with head, fixed concave quads, fixed conds, fixed lines
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
+0 // Main
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20904s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\20904s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20904ps0s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\20904ps0s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20904ps0s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20904ps0s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20904ps0s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\20904ps0s04.dat

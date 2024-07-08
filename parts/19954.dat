@@ -1,0 +1,13 @@
+0 =Hinge Plate  1 x  4 (Complete)
+0 Name: 19954.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Part Alias UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
+0 // Alias of 73983
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 73983.dat

@@ -1,13 +1,15 @@
 0 ~Minifig Helmet Star Wars Rebel Pilot - Rebel Logo Pattern
 0 Name: s\30370ps2s01.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Subpart UPDATE 2014-02
+0 !LDRAW_ORG Subpart UPDATE 2024-04
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2014-07-25 [smr] move Rebel Logo from s\30370ps2c.dat to s\30370ps2s01.dat
+0 !HISTORY 2014-07-25 [smr] moved Rebel Logo from s\30370ps2c.dat to s\30370ps2s01.dat
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
+0 !HISTORY 2018-01-27 [Steffen] fixed small syntax glitch
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
 
 
 4 16 11.55 -2.977 -7.942 9.9 -3.8 -8.52 9.884 -3.8 -8.535 9.881 -3.759 -8.585
@@ -46,7 +48,7 @@
 3 16 6.675 -3.865 -10.605 6.655 -3.2 -11.201 6.7 -3.85 -10.602
 3 16 7.15 -3.75 -10.399 6.7 -3.85 -10.602 6.655 -3.2 -11.201
 4 16 9.779 -2.261 -10.008 7.555 -3.8 -10.097 7.15 -3.75 -10.399 6.655 -3.2 -11.201
-4 16 7.555 -3.8 -10.097 9.779 -2.261 -10.008 8.95 -4.05 -8.945 7.75 -4.05 -9.748 //
+4 16 7.555 -3.8 -10.097 9.779 -2.261 -10.008 8.95 -4.05 -8.945 7.75 -4.05 -9.748
 3 16 9.45 -3.8 -8.836 8.95 -4.05 -8.945 9.779 -2.261 -10.008
 4 16 9.779 -2.261 -10.008 9.881 -3.759 -8.585 9.77 -3.8 -8.622 9.45 -3.8 -8.836
 3 16 7.75 -4.3 -9.521 7.75 -4.05 -9.748 8.95 -4.05 -8.945

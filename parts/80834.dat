@@ -1,0 +1,17 @@
+0 Minifig Hair with Nurse Hat with Long Back
+0 Name: 80834.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+
+0 !HISTORY 2022-05-05 {LEGO Instructions App} Original part shape
+0 !HISTORY 2022-05-05 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80834s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80834s02.dat

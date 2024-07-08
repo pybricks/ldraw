@@ -1,0 +1,19 @@
+0 Minifig Paint Brush with Full Orange Tip Pattern
+0 Name: 93552p05.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS BrickLink 93552pb05, Brickowl 733230, Rebrickable 93552pat0001
+0 !KEYWORDS Set 30583, Set 71741
+
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93552s01.dat
+1 25 0 0 0 1 0 0 0 1 0 0 0 1 s\93552s02.dat
+1 25 0 0 0 1 0 0 0 1 0 0 0 1 s\93552s03.dat
+1 16 0 -30 0 0.4 0 0 0 -5 0 0 0 0.4 4-4con9.dat

@@ -1,0 +1,21 @@
+0 ~| Hubelino Outer End
+0 Name: s\t43111s01.dat
+0 Author: Rolf Osterthun [Rolf]
+0 !LDRAW_ORG Subpart UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
+
+2 24 40 0 0 32 0 0
+2 24 -40 0 0 -32 0 0
+1 16 0 0 0 32 0 0 0 0 32 0 1 0 48\2-4edge.dat
+
+4 16 -32 0 0 -40 0 0 -40 48 0 -32 32 0
+4 16 40 48 0 40 0 0 32 0 0 32 32 0
+3 16 0 32 0 -40 48 0 40 48 0
+3 16 -40 48 0 0 32 0 -32 32 0
+3 16 0 32 0 40 48 0 32 32 0
+1 16 0 0 0 32 0 0 0 0 32 0 1 0 48\2-4ndis.dat

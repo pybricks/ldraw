@@ -1,7 +1,7 @@
 0 Duplo Brick  2 x  2 x  2 Curved Top with Yellow Vase and Three Flowers Pattern
 0 Name: 3664p04.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Part UPDATE 2020-01
+0 !LDRAW_ORG Part UPDATE 2024-04
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,10 +11,12 @@
 0 !KEYWORDS set 2650-1
 
 0 !HISTORY 2020-06-28 [PTadmin] Official Update 2020-01
+0 !HISTORY 2022-09-07 [RainbowDolphin] Made top semi-cylinder hi-res to comply with latest part regulations
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3664s01.dat
-1 16 0 -24 -40 40 0 0 0 0 -40 0 1 0 2-4ering.dat
+1 16 0 -24 -40 40 0 0 0 0 -40 0 1 0 48\2-4aring.dat
 
 4 16 11.3 11.3 -40 10.1 11.4 -40 10.9 15.6 -40 12.9 13.1 -40
 3 16 12.9 13.1 -40 10.9 15.6 -40 13.7 15.6 -40

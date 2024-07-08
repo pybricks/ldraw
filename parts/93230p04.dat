@@ -1,0 +1,19 @@
+0 Minifig Hair Swept Back with Light Nougat Pointed Ears Pattern
+0 Name: 93230p04.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Batman, Bricklink 93230pb04, CMF, Elf, Jayna
+0 !KEYWORDS Rebrickable 93230pr0004, set 71020, Wonder Twins, Zan
+
+0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2021-05-01 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93230s01.dat
+1 78 0 0 0 1 0 0 0 1 0 0 0 1 s\93230s02.dat

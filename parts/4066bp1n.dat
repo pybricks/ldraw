@@ -1,0 +1,19 @@
+0 Duplo Brick  1 x  2 x  2 with Light Grey Bucket of Water Pattern
+0 Name: 4066bp1n.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS bricklink 4066pb094, Brickowl 910653, Girls, Patty, Pony Stable
+0 !KEYWORDS Rebrickable 4066pr0021, Set 2553
+
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bs01.dat
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bp0xs01.dat
+1 13 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bp0xs02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4066bp0xs03.dat

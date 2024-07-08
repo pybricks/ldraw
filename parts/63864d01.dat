@@ -1,14 +1,17 @@
 0 Tile  1 x  3 with "HEMI" on Red/Black Stripe Sticker
 0 Name: 63864d01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Shortcut UPDATE 2019-02
+0 !LDRAW_ORG Shortcut UPDATE 2024-04
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Sticker Shortcut
 0 !KEYWORDS Charger, Dodge, R/T, set 75893
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
+0 !HISTORY 2024-05-27 [OrionP] Change category to Sticker Shortcut
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
 
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 63864.dat

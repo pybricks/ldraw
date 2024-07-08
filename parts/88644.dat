@@ -1,0 +1,17 @@
+0 Rock  4 x  4 x  1.667 Bottom with Crystals
+0 Name: 88644.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Boulder, Geode, octagonal
+
+0 !HISTORY 2022-03-09 {LEGO Instructions App} Original part shape
+0 !HISTORY 2022-03-11 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\88644s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\88644s02.dat

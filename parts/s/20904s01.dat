@@ -1,0 +1,23 @@
+0 ~Minifig Helmet SW Stormtrooper Ep.  7 - Half
+0 Name: s\20904s01.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Subpart UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-03-28 [Holly-Wood] Separated patternable area, fixed concave quads, fixed conds, fixed lines
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
+0 // Subs
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20904s00.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\20904s00.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20904s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\20904s02.dat
+
+0 // Studs
+1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
+1 16 0 -4 0 6 0 0 0 -1 0 0 0 6 4-4disc.dat
+1 16 0 -4 0 0 0 11 0 -1 0 -11 0 0 4-4edge.dat
+1 16 0 -4 0 .25 0 0 0 -1 0 0 0 .25 4-4rin32.dat
+1 16 0 -4 0 2.75 0 0 0 -1 0 0 0 2.75 4-4ring3.dat

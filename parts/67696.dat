@@ -1,0 +1,24 @@
+0 Brick  2 x  2 with Axlehole and Ball Socket Type 4 and Axlehole with Straight Closed Sides
+0 Name: 67696.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-04-04 {LEGO Instructions App} Original part shape
+0 !HISTORY 2022-04-04 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\62712s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\67696s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\67696s01.dat
+2 24 20 19.75 -20 20 19.75 20
+3 16 28.491 19.75 0 20 19.75 -20 20 19.75 20
+3 16 20.3 0.25 0.924 20.3 0.25 -0.924 28.491 0.25 0
+4 16 20.3 0.25 -10.239 20.3 0.25 10.239 20 0.25 20 20 0.25 -20
+5 24 26.977 10 0 28.391 15.875 0 28.938 15.894 3.658 28.938 15.894 -3.658
+5 24 28.391 15.875 0 28.491 19.75 0 29.038 19.75 3.55 29.038 19.75 -3.55
+5 24 28.391 4.125 0 26.977 10 0 28.938 4.106 -3.658 28.938 4.106 3.658
+5 24 28.491 0.25 0 28.391 4.125 0 28.938 4.106 -3.658 28.938 4.106 3.658

@@ -1,0 +1,75 @@
+ldraw.org Parts Update 2024-04
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Tue, 28 May 2024 02:57:13 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 1076
+   New files: 568
+   New Parts: 357
+   New Subparts: 185
+   New Primitives: 12
+   New 48 Segment Primitives: 13
+   New Part TEXMAP Images: 1
+
+Moved Parts
+   2429c01.dat                ~Moved to 73983
+   30157.dat                  ~Moved to 30157a
+
+Renamed Parts
+   19475-f1.dat               Technic Pneumatic Cylinder  1 x  5 with  2 Ports with Stepped Outlets (Retracted)
+   changed to    Technic Pneumatic Cylinder  1 x  1 x  5 with  2 Ports with Stepped Outlets (Retracted)
+   19475-f2.dat               Technic Pneumatic Cylinder  1 x  5 with  2 Ports with Stepped Outlets (Extended)
+   changed to    Technic Pneumatic Cylinder  1 x  1 x  5 with  2 Ports with Stepped Outlets (Extended)
+   19727p01.dat               Plate  1 x  2 with Cube with Minecraft Spider Pattern
+   changed to    Plate  1 x  2 with Cube with Minecraft Spider and Black Mouth Pattern
+   21709.dat                  =Excavator Bucket  6 x  3 with Click Hinge 2-Finger
+   changed to    ~Excavator Bucket  6 x  3 with Click Hinge 2-Finger (Obsolete)
+   30394.dat                  Excavator Bucket  6 x  3 with Click Hinge 2-Finger
+   changed to    Excavator Bucket  6 x  3 with Click Hinge 2-Finger with  9 Teeth
+   3240bc01.dat               Train Track 12V Slotted Straight (Complete)
+   changed to    Train Track 12V Slotted Straight with Conductive Centre Rail with Sockets (Complete)
+   3240bc02.dat               Train Track 12V Slotted Straight (Complete w/o End Sleepers)
+   changed to    Train Track 12V Slotted Straight with Conductive Centre Rail with Sockets (Complete without End Sleepers)
+   32474p01.dat               Technic Ball Joint with Axlehole Blind with Eye Pattern
+   changed to    Technic Ball Joint with Axlehole Blind with Black Eye with Pupil Top Left Pattern
+   37352.dat                  Brick  1 x  2 with Curved Top without Understud
+   changed to    Brick  1 x  2 with Curved Top
+   76019.dat                  Technic Gear 24 Tooth Clutch with DkGray Center
+   changed to    Technic Gear 24 Tooth Clutch with Dark Grey Centre
+   93552p01.dat               Minifig Paint Brush with Silver Ring and Green Tip Pattern
+   changed to    Minifig Paint Brush with Silver Ring and Half Green Tip Pattern
+   93552p02.dat               Minifig Paint Brush with Silver Ring and Medium Azure Tip Pattern
+   changed to    Minifig Paint Brush with Silver Ring and Half Medium Azure Tip Pattern
+   93552p03.dat               Minifig Paint Brush with Orange Tip Pattern
+   changed to    Minifig Paint Brush with Half Orange Tip Pattern
+   997c01.dat                 Boat Section Bow  6 x  8 x  3.333 with LtGray Deck
+   changed to    Boat Section Bow  6 x  8 x  3.333 with Light Grey Deck
+   s\24599s01.dat             ~Brick  5 x  5 x  1 Corner Round with Curved Top - Half
+   changed to    ~Brick  5 x  5 x  1 Corner Round with Curved Top - Half without Patternable Faces
+   s\30394s02.dat             ~Excavator Bucket  6 x  3 with Click Hinge 2-Finger - Finger
+   changed to    ~Excavator Bucket  6 x  3 with Click Hinge 2-Finger - Tooth
+   s\32474s01.dat             ~Technic Ball Joint with Axlehole Blind without Top
+   changed to    ~Technic Ball Joint with Axlehole Blind Interior
+   s\973pt2a.dat              ~Minifig Torso with "Octan" Logo Pattern - Wording
+   changed to    ~Minifig Torso with "Octan" Logo Pattern - Wording (Obsolete)
+   s\30350bs01.dat            ~Tile  2 x  3 with Clips Horizontal (Thick C-Clips) without Top
+   changed to    ~Tile  2 x  3 with Clips Horizontal (Thick C-Clips) without Top Surface
+   tooth16.dat                Single Tooth for Technic Gear 16 Tooth and 24 Tooth clutch
+   changed to    Single Tooth for Technic Gear 16 Tooth and 24 Tooth Clutch
+   973pf8.dat                 Minifig Torso with Tie Shirt and Black Crossbelt, Silver Rounded Buckle Pattern
+   changed to    Minifig Torso with T-Shirt and Black Crossbelt, Silver Rounded Buckle Pattern
+   s\50304s01.dat             ~Wing  3 x  8 Right
+   changed to    ~Wing  3 x  8 Pentagonal Right
+   50304.dat                  Wing  3 x  8 Right
+   changed to    Wing  3 x  8 Pentagonal Right
+   50305.dat                  Wing  3 x  8 Left
+   changed to    Wing  3 x  8 Pentagonal Left
+
+Other Fixed Parts
+
+Minor Edits
+   57 Part licenses changed

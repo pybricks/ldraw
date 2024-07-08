@@ -1,7 +1,7 @@
-0 Excavator Bucket  6 x  3 with Click Hinge 2-Finger
+0 Excavator Bucket  6 x  3 with Click Hinge 2-Finger with  9 Teeth
 0 Name: 30394.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2012-01
+0 !LDRAW_ORG Part UPDATE 2024-04
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,27 +9,10 @@
 0 !CATEGORY Vehicle
 
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+0 !HISTORY 2022-11-07 [Philo] Refined shape, changed subparting for variants
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
 
 
-1 16 0 30 -20 1 0 0 0 1 0 0 0 1 s\30394s01.dat
-1 16 0 30 -20 -1 0 0 0 1 0 0 0 1 s\30394s01.dat
-1 16 0 30 -66 -1 0 0 0 1 0 0 0 1 s\30394s02.dat
-1 16 -35.333 30 -66 -1 0 0 0 1 0 0 0 1 s\30394s02.dat
-1 16 -17.666 30 -66 -1 0 0 0 1 0 0 0 1 s\30394s02.dat
-1 16 35.333 30 -66 -1 0 0 0 1 0 0 0 1 s\30394s02.dat
-1 16 17.666 30 -66 -1 0 0 0 1 0 0 0 1 s\30394s02.dat
-1 16 -53 30 -66 -1 0 0 0 1 0 0 0 1 s\30394s02.dat
-1 16 53 30 -66 -1 0 0 0 1 0 0 0 1 s\30394s02.dat
-2 24 4 26 -63.778 13.666 26 -63.778
-2 24 -4 26 -63.778 -13.666 26 -63.778
-2 24 -21.666 26 -63.778 -31.333 26 -63.778
-2 24 21.666 26 -63.778 31.333 26 -63.778
-2 24 39.333 26 -63.778 49 26 -63.778
-2 24 -39.333 26 -63.778 -49 26 -63.778
-2 24 -39.333 30 -66 -49 30 -66
-2 24 4 30 -66 13.666 30 -66
-2 24 -4 30 -66 -13.666 30 -66
-2 24 -21.666 30 -66 -31.333 30 -66
-2 24 21.666 30 -66 31.333 30 -66
-2 24 39.333 30 -66 49 30 -66
-0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30394s00.dat
+1 16 0 0 -4 1 0 0 0 1 0 0 0 1 clh4.dat
+1 16 0 0 -4 -1 0 0 0 1 0 0 0 1 clh4.dat

@@ -1,15 +1,17 @@
-0 Minifig Torso with Tie Shirt and Black Crossbelt, Silver Rounded Buckle Pattern
+0 Minifig Torso with T-Shirt and Black Crossbelt, Silver Rounded Buckle Pattern
 0 Name: 973pf8.dat
 0 Author: Chris Böhnke [KnightOfTarenta]
-0 !LDRAW_ORG Part UPDATE 2024-02
+0 !LDRAW_ORG Part UPDATE 2024-04
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 973pb0093, Castle, Dark Forest, Forestman, Rob'N'Hood
-0 !KEYWORDS Set 6046, Set 6079, forestmen
+0 !KEYWORDS Bricklink 973pb0093, Castle, Dark Forest, Forestman, forestmen
+0 !KEYWORDS Rob'N'Hood, Set 6046, Set 6079
 
 0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
+0 !HISTORY 2024-04-29 [Holly-Wood] Sanded description
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
