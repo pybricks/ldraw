@@ -1,0 +1,35 @@
+0 Plate  1 x  4 Round Ends with  2 Open Studs on Ends
+0 Name: 77845.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
+
+1 16 -30 0 0 1 0 0 0 1 0 0 0 1 s\77850s01.dat
+1 16 30 0 0 -1 0 0 0 1 0 0 0 1 s\77850s01.dat
+
+0 // Bottom
+1 16 0 6 7 30 0 0 0 0 2 0 -1 0 box2-11.dat
+1 16 0 6 -7 -30 0 0 0 0 2 0 1 0 box2-11.dat
+2 24 30 4 -6 -30 4 -6
+2 24 -30 4 6 30 4 6
+
+4 16 26 4 -4 30 4 -6 -30 4 -6 -26 4 -4
+4 16 -26 4 4 26 4 4 26 4 0 -26 4 0
+4 16 -26 4 -4 -26 4 0 26 4 0 26 4 -4
+4 16 26 4 4 -26 4 4 -30 4 6 30 4 6
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stug3-1x3.dat
+
+1 16 0 4 8 30 0 0 0 0 -4 0 2 0 box3u10p.dat
+1 16 0 4 -8 -30 0 0 0 0 -4 0 -2 0 box3u10p.dat
+
+0 // Top
+4 16 -30 0 -8 30 0 -8 24 0 -6 -24 0 -6
+4 16 24 0 6 30 0 8 -30 0 8 -24 0 6
+4 16 -24 0 6 -24 0 0 24 0 0 24 0 6
+4 16 -24 0 0 -24 0 -6 24 0 -6 24 0 0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat

@@ -1,0 +1,42 @@
+0 Minifig Captains Hat with Black Visor and Red Braid Pattern
+0 Name: 12895p04.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 12895pb04, Brickowl 772219, Bus Uniform
+0 !KEYWORDS Rebrickable 12895pr0113, Set 75957, Stan Shunpike
+
+0 !HISTORY 2023-01-29 [MagFors] Further subfiling
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
+
+0 // Top and Inside
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12895s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12895s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12895s04.dat
+
+0 // Visor
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\12895s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12895s05.dat
+
+0 // Braid Front
+1 4 0 4.7401 .2271 15 0 0 0 -1.68388 -4.0842 0 .47649 -14.43327 2-4cyli.dat
+1 4 0 3.0562 .7035 15 0 0 0 -1.92444 -4.0842 0 .54456 -14.43327 2-4cyli.dat
+1 4 0 1.1317 1.2481 15 0 0 0 -1.92444 -4.0842 0 .54456 -14.43327 2-4cyli.dat
+
+0 // Braid Back
+1 0 0 4.7401 .2271 15 0 0 0 -1.68388 4.0842 0 .47649 14.43327 2-4cyli.dat
+1 0 0 3.0562 .7035 15 0 0 0 -1.92444 4.0842 0 .54456 14.43327 2-4cyli.dat
+1 0 0 1.1317 1.2481 15 0 0 0 -1.92444 4.0842 0 .54456 14.43327 2-4cyli.dat
+
+0 // Knobs
+1 16 15 1.9737 1.0099 0 0 -.3977 -1.92444 1 .54456 .54456 0 1.92444 2-4edge.dat
+1 16 15 1.9737 1.0099 0 0 -.3977 1.92444 1 -.54456 -.54456 0 -1.92444 2-4edge.dat
+1 4 16.215 1.9737 1.0099 0 -2 0 -1.92444 0 .54456 .54456 0 1.92444 4-4cylc.dat
+1 16 -15 1.9737 1.0099 0 0 .3977 -1.92444 1 .54456 .54456 0 1.92444 2-4edge.dat
+1 16 -15 1.9737 1.0099 0 0 .3977 1.92444 1 -.54456 -.54456 0 -1.92444 2-4edge.dat
+1 4 -16.215 1.9737 1.0099 0 2 0 -1.92444 0 .54456 .54456 0 1.92444 4-4cylc.dat

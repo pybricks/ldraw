@@ -1,0 +1,17 @@
+0 Slope Brick 65  2 x  2 x  2 with Centre Tube with Gold Skirt and Dark Red Trim Pattern
+0 Name: 3678bp41.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3678bpb021, Castle, queen, Set 10223, Set 7952
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
+
+4 16 20 44 -30 20 0 -10 -20 0 -10 -20 44 -30
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3678bs01.dat
+1 16 0 0 10 1 0 0 0 1 0 0 0 -1 s\3678bp41s01.dat
+1 16 0 0 10 -1 0 0 0 1 0 0 0 -1 s\3678bp41s01.dat

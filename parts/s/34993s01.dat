@@ -1,0 +1,21 @@
+0 ~Container Box Bygglek Height 12 Latch Hole
+0 Name: s\34993s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Subpart UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
+
+2 24 -15.5 4 0 -15.5 4 -10
+2 24 15.5 4 -10 15.5 4 0
+2 24 -15.5 -2 2 -15.5 -2 -10
+2 24 15.5 -2 -10 15.5 -2 2
+1 16 0 1 1 0 0 -15.5 -3 0 0 1 1 0 rect.dat
+4 16 -15.5 -2 2 -15.5 -2 -10 -15.5 4 -10 -15.5 4 0
+1 16 0 1 -10 0 0 15.5 -3 0 0 0 -1 0 rect.dat
+4 16 15.5 -2 -10 15.5 -2 2 15.5 4 0 15.5 4 -10
+1 16 25 -5 -6 0 4 0 3 0 3 0 0 -9 tri4.dat
+1 16 -25 -5 -6 0 -4 0 3 0 3 0 0 -9 tri4.dat

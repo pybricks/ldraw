@@ -1,0 +1,20 @@
+0 ~Sticker  1.9 x  3.8 with Black Air Vents and White "PORSCHE" on Red Background - Fifth Face
+0 Name: s\6148328ys04.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Subpart UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
+
+0 // Subpart
+1 4 0 -.25 3.2604 .585 0 0 0 1 0 0 0 .585 s\6148328ps01.dat
+0 // Logo primitive
+1 4 0 -.25 3.2604 .585 0 0 0 1 0 0 0 .585 logoporsl02.dat
+0 // Red faces
+4 4 -38 -.25 6.8499 -38 -.25 -.0145 -30.1275 -.25 .3354 -30.1275 -.25 6.1854
+4 4 -38 -.25 6.8499 -30.1275 -.25 6.1854 30.1275 -.25 6.1854 38 -.25 6.8499
+4 4 38 -.25 -.0145 38 -.25 6.8499 30.1275 -.25 6.1854 30.1275 -.25 .3354
+4 4 38 -.25 -.0145 30.1275 -.25 .3354 -30.1275 -.25 .3354 -38 -.25 -.0145

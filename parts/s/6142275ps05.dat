@@ -1,0 +1,20 @@
+0 ~Sticker  1.9 x  0.8 with Red Arrow and Black Triangle on White Background Left - Fifth Face
+0 Name: s\6142275ps05.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Subpart UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
+
+0 // Black face
+3 0 8 -.25 6.8484 5.7571 -.25 6.8484 8 -.25 2.3626
+0 // Red face
+4 4 -.95 -.25 6.8484 -.95 -.25 6.2022 .45 -.25 6.2022 .45 -.25 6.8484
+0 // White faces
+4 15 -8 -.25 -.0144 -.95 -.25 6.2022 -.95 -.25 6.8484 -8 -.25 6.8484
+4 15 -8 -.25 -.0144 8 -.25 -.0144 .45 -.25 6.2022 -.95 -.25 6.2022
+4 15 5.7571 -.25 6.8484 .45 -.25 6.2022 8 -.25 -.0144 8 -.25 2.3626
+3 15 5.7571 -.25 6.8484 .45 -.25 6.8484 .45 -.25 6.2022

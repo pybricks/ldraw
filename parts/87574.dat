@@ -1,0 +1,23 @@
+0 Electric Power Functions Train Motor
+0 Name: 87574.dat
+0 Author: Santeri Piippo [arezey]
+0 !LDRAW_ORG Shortcut UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 54756.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 89832.dat
+1 25 0 42 -60 0 0 -1 0 -1 0 -1 0 0 u9433.dat
+1 25 0 42 60 0 0 1 0 1 0 -1 0 0 u9433.dat
+1 83 -30 49.25 -90 1 0 0 0 -1 0 0 0 -1 u9434.dat
+1 83 30 49.25 -90 1 0 0 0 -1 0 0 0 -1 u9434.dat
+1 83 -30 49.25 90 1 0 0 0 -1 0 0 0 -1 u9434.dat
+1 83 30 49.25 90 1 0 0 0 -1 0 0 0 -1 u9434.dat
+1 83 -28 49.25 -40 1 0 0 0 -1 0 0 0 -1 u9434.dat
+1 83 28 49.25 40 1 0 0 0 -1 0 0 0 -1 u9434.dat
+1 256 0 5.5 53 0 0 -1 0.7071 4.2426 0 0.7071 -4.2426 0 s\58124s03.dat
+1 256 0 5.5 60 0 0 -1 1 0 0 0 -8 0 s\58124s03.dat

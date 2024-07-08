@@ -1,0 +1,18 @@
+0 ~Minifig Head Powerpuff Girls Face with Buttercup Pattern
+0 Name: 31512p03.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 41288
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\31512s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\31512p03s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\31512p03s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\31512s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\31512s04.dat

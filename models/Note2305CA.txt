@@ -1,0 +1,78 @@
+ldraw.org Parts Update 2023-05
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Tue, 31 Oct 2023 03:34:32 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 436
+   New files: 398
+   New Parts: 203
+   New Subparts: 181
+   New Primitives: 13
+   New 48 Segment Primitives: 1
+
+Moved Parts
+   3941d01.dat                ~Moved to 6143d01
+
+Renamed Parts
+   15459.dat                  Technic Suspension Arm  1 x  5
+   changed to    Technic Suspension Arm  1 x  5 Type 1
+   4125165i.dat               Sticker  0.8 x  3.7 with "1 3 5" and Black Stripes White Background
+   changed to    Sticker  0.9 x  3.9 with Red "1 3 5" and Black Stripes White Background
+   4125165j.dat               Sticker  0.8 x  3.7 with "R 2 4" and Black Stripes White Background
+   changed to    Sticker  0.9 x  3.9 with Red "R 2 4" and Black Stripes White Background
+   54087.dat                  Wheel Rim 20 x 30 with 6 Spokes and No Pegholes
+   changed to    Wheel Rim 20 x 30 with  6 Spokes and No Pegholes
+   56145.dat                  Wheel Rim 20 x 30 with 6 Spokes and External Ribs
+   changed to    Wheel Rim 20 x 30 with  6 Dual Spokes and External Ribs
+   6003.dat                   Plate  6 x  6 with Round Corner
+   changed to    Plate  6 x  6 with  4 x  4 Round Corner
+   s\54087s00.dat             ~Wheel Rim 20 x 30 - 1/24 Outer Surface
+   changed to    ~Wheel Rim 20 x 30 -  1/24 Outer Surface
+   s\54087s02.dat             ~Wheel Rim 20 x 30 - 1/12 Spoke
+   changed to    ~Wheel Rim 20 x 30 -  1/12 Bottom
+   s\54087s03.dat             ~Wheel Rim 20 x 30 - 1/12 Spoke with Notch
+   changed to    ~Wheel Rim 20 x 30 with 6 Spokes and No Pegholes - Single Spoke
+   s\56145s02.dat             ~Wheel Rim 20 x 30 with 6 Spokes Ext. Ribs - 1/12 Rim with Rib
+   changed to    ~Wheel Rim 20 x 30 with  6 Dual Spokes and External Ribs -  1/12 Rim with Rib
+   s\64179s01.dat             ~Technic Beam  7 x  5 with Open Center  5 x  3 Quarter
+   changed to    ~Technic Beam  7 x  5 with Open Centre  5 x  3 Quarter
+   6190.dat                   Bar  1 x  3
+   changed to    ~Bar  1 x  3 (Obsolete)
+   npeghol16.dat              Technic Peg Hole Corner 0.125
+   changed to    ~Technic Peg Hole Corner 0.125 (Obsolete)
+   npeghol17.dat              Technic Peg Hole Negative with Cut Corners
+   changed to    ~Technic Peg Hole Negative with Cut Corners (Obsolete)
+   npeghol15.dat              Technic Peg Hole Corner 0.25
+   changed to    ~Technic Peg Hole Corner 0.25 (Obsolete)
+   11187.dat                  =Minifig Snowshoe
+   changed to    ~Minifig Snowshoe (Obsolete)
+
+Other Fixed Parts
+   2443.dat                   Hinge Window Frame  1 x  4 x  3 with Octagonal Panel
+   33089.dat                  Scala Support  4 x  4 x  5.667
+   3688.dat                   Slope Brick 75  2 x  2 x  2 Quadruple Convex
+   3853.dat                   Window  1 x  4 x  3
+   68869.dat                  Tile  4 x  4 x  0.667 with Rounded Corners
+   87913.dat                  Ladder Holder  2 x  6
+   s\54087s09.dat             ~Wheel Rim 20 x 30 - Axle Mount
+   s\57515s01.dat             ~Technic Suspension Arm Ball Socket
+   npeghol18.dat              Technic Peg Hole Corner 0.125 Without Lower Faces
+   s\99550s01.dat             ~Electric Mindstorms EV3 Large Motor Casing Connector
+   s\39793s01.dat             ~Technic Connector Block  3 x  3 with  9 Perpendicular Holes Quarter
+   s\33299s01.dat             ~Technic Beam  3 x  0.5 Liftarm with Boss and Pin - Common Sections
+   s\41014s01.dat             ~Electric Control+ Motor Front Common Geometry
+   99773.dat                  Technic Beam  5 x  3 x  0.5 Liftarm Triangle Type 2
+   57515.dat                  Technic Suspension Arm  2 x  6
+   44374.dat                  Technic Rotor  3 Blade x 0.5 Liftarm
+   2905.dat                   Technic Beam  5 x  3 x  0.5 Liftarm Triangle
+   u9479.dat                  ~Electric Control+ L Motor Front
+   15469.dat                  Brick  2 x  2 Round with 4 Petals Base and Axle Hole
+   1-4chrd.dat                Chord 0.25
+   1-8chrd.dat                Chord 0.125
+
+Minor Edits
+   1 Part licenses changed

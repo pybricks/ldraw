@@ -1,0 +1,23 @@
+0 Animal Dragon Tail End with Faded Metallic Gold Pattern
+0 Name: 51874p03.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 51874pb03, Brickowl 789203, Castle, Fantasy Era
+0 !KEYWORDS Rebrickable 51874pat0003, Set 7048, Troll
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
+
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\51874p01s01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 -1 s\51874p01s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\51874p01s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 -1 s\51874p01s01.dat
+
+1 82 0 0 0 1 0 0 0 -1 0 0 0 1 s\51874p01s02.dat
+1 82 0 0 0 1 0 0 0 -1 0 0 0 -1 s\51874p01s02.dat
+1 82 0 0 0 -1 0 0 0 -1 0 0 0 1 s\51874p01s02.dat
+1 82 0 0 0 -1 0 0 0 -1 0 0 0 -1 s\51874p01s02.dat

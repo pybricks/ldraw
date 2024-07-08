@@ -1,0 +1,20 @@
+0 Ring  4 x  4 with  2 x  2 Hole and  4 Arrow Ends
+0 Name: 98341.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Figure Accessory
+0 !KEYWORDS Crown, Ninjago, spinner
+
+0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2019-09-30 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98341s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\98341s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\98341s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\98341s01.dat

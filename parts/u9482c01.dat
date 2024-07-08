@@ -1,0 +1,29 @@
+0 Electric Motor  4 x 12 x  3.333 Type 3  4.5V
+0 Name: u9482c01.dat
+0 Author: Alex Taylor [anathema]
+0 !LDRAW_ORG Shortcut UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Train
+
+0 !CMDLINE -c0
+
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9483.dat
+1 79 0 66 60 1 0 0 0 1 0 0 0 1 u9291.dat
+1 79 0 66 -60 1 0 0 0 1 0 0 0 1 u9291.dat
+1 79 0 66 -20 1 0 0 0 1 0 0 0 1 u9290.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9482.dat
+1 494 0 36 -116 -1 0 0 0 0 -1 0 -1 0 u9293.dat
+1 494 0 40 90 1 0 0 0 -1 0 0 0 -1 u9292.dat
+1 494 0 40 -90 1 0 0 0 -1 0 0 0 -1 u9292.dat
+
+1 494 -20 2 20 1.5 0 0 0 3 0 0 0 1.5 u9020.dat
+1 494 20 2 20 1.5 0 0 0 3 0 0 0 1.5 u9020.dat
+
+1 15 0 5 -25 1 0 0 0 1 0 0 0 1 u9480.dat

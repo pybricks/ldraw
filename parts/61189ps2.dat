@@ -1,0 +1,31 @@
+0 Minifig Helmet SW Clone Trooper Pilot Phase I Front Face with Yellow Markings and Black Visor Pattern
+0 Name: 61189ps2.dat
+0 Author: Ulrich Röder [UR]
+0 !LDRAW_ORG Part UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 61189pb15, Set 75021, Set 75076
+
+0 !CMDLINE -c15
+
+0 !HISTORY 2018-12-29 [MagFors] File 61189 preparation for LDraw Parts Tracker
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
+
+0 // Main
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61189s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\61189ps2s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\61189ps2s01.dat
+4 16 -1.6 -14.203 -6.251 1.6 -14.203 -6.251 1.875 -14.522 20.554 -1.875 -14.522 20.554
+3 16 1.875 -14.522 20.554 1.6 -14.203 -6.251 1.875 -14.206 -6.245
+3 16 -1.875 -14.206 -6.245 -1.6 -14.203 -6.251 -1.875 -14.522 20.554
+
+0 // Yellow
+4 14 1.6 -3.652 -15.771 -1.6 -3.652 -15.771 -1.6 -3.388 -15.886 0 -1.85 -16.557
+3 14 1.6 -3.652 -15.771 0 -1.85 -16.557 1.6 -3.388 -15.886
+4 14 -1.6 -7.57 -14.532 -1.6 -3.652 -15.771 1.6 -3.652 -15.771 1.6 -7.57 -14.532
+4 14 -1.6 -12.022 -10.726 -1.6 -7.57 -14.532 1.6 -7.57 -14.532 1.6 -12.022 -10.726
+4 14 -1.6 -14.203 -6.251 -1.6 -12.022 -10.726 1.6 -12.022 -10.726 1.6 -14.203 -6.251
