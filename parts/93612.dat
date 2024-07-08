@@ -1,7 +1,7 @@
 0 ~Minifig Skeleton Leg with Square Foot, Leg
 0 Name: 93612.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,7 +12,8 @@
 0 !HISTORY 2012-07-09 [tchang] Add missing line, corrected gaps
 0 !HISTORY 2016-01-19 [GeraldLasser] Closed hairline gaps and re-did clip-face
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 4 16 -3 22 0 -2.772 22 1.148 2.772 22 1.148 3 22 0
 4 16 2.202 22 2 2.772 22 1.148 -2.772 22 1.148 -2.202 22 2
@@ -198,11 +199,11 @@
 2 24 -4 5.5845 -4 4 5.5845 -4
 
 1 16 -4 0 0 0 1 0 -.76537 0 1.84776 1.84776 0 .76537 5-8ring2.dat
-1 16 -4 0 0 0 1 0 -.38268 0 .92388 .92388 0 .38268 3-16rin6.dat
-1 16 -4 0 0 0 1 0 .7071 0 -.70711 -.70711 0 -.7071 3-16rin6.dat
+1 16 -4 0 0 0 1 0 -.38268 0 .92388 .92388 0 .38268 3-16ring6.dat
+1 16 -4 0 0 0 1 0 .7071 0 -.70711 -.70711 0 -.7071 3-16ring6.dat
 1 16 4 0 0 0 -1 0 -.76537 0 1.84776 1.84776 0 .76537 5-8ring2.dat
-1 16 4 0 0 0 -1 0 -.38268 0 .92388 .92388 0 .38268 3-16rin6.dat
-1 16 4 0 0 0 -1 0 .7071 0 -.70711 -.70711 0 -.7071 3-16rin6.dat
+1 16 4 0 0 0 -1 0 -.38268 0 .92388 .92388 0 .38268 3-16ring6.dat
+1 16 4 0 0 0 -1 0 .7071 0 -.70711 -.70711 0 -.7071 3-16ring6.dat
 
 3 16 4 -3.649 -5.849 4 -2.679 -6.468 4 -2.29609512 -5.543211456
 4 16 4 -3.649 -5.849 4 -2.29609512 -5.543211456 4 -1.53073 -3.69552 4 -2.8 -3.7993442

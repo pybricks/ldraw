@@ -1,7 +1,7 @@
 0 ~Electric Powered Up 6 Port Hub Bottom
 0 Name: u9402.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2020-03
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,7 +11,8 @@
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 0 !HISTORY 2020-12-27 [PTadmin] Update description
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9402s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\u9402s01.dat
@@ -171,16 +172,16 @@
 2 24 32 10 90 20 10 90
 4 16 32 10 90 20 10 90 20 30 90 32 28 90
 4 16 48 28 90 32 28 90 20 30 90 50 30 90
-1 16 20 30 100 0 0 -1 0 -1 0 -1 0 0 3-16rin9.dat
-1 16 20 10 100 0 0 -2 0 1 0 -2 0 0 3-16rin4.dat
-1 16 20 10 100 0 0 -1 0 1 0 -1 0 0 3-16rin7.dat
+1 16 20 30 100 0 0 -1 0 -1 0 -1 0 0 3-16ring9.dat
+1 16 20 10 100 0 0 -2 0 1 0 -2 0 0 3-16ring4.dat
+1 16 20 10 100 0 0 -1 0 1 0 -1 0 0 3-16ring7.dat
 1 16 -20 10 100 0 0 10 0 20 0 -10 0 0 3-16cylo.dat
 2 24 -32 10 90 -20 10 90
 4 16 -20 30 90 -20 10 90 -32 10 90 -32 28 90
 4 16 -20 30 90 -32 28 90 -48 28 90 -50 30 90
-1 16 -20 30 100 0 0 1 0 -1 0 -1 0 0 3-16rin9.dat
-1 16 -20 10 100 0 0 2 0 1 0 -2 0 0 3-16rin4.dat
-1 16 -20 10 100 0 0 1 0 1 0 -1 0 0 3-16rin7.dat
+1 16 -20 30 100 0 0 1 0 -1 0 -1 0 0 3-16ring9.dat
+1 16 -20 10 100 0 0 2 0 1 0 -2 0 0 3-16ring4.dat
+1 16 -20 10 100 0 0 1 0 1 0 -1 0 0 3-16ring7.dat
 4 16 -11 30 109 11 30 109 11 30 100 -11 30 100
 4 16 -11 30 100 11 30 100 11.6849 30 96.5557 -11.6849 30 96.5557
 4 16 -10.761 30 96.173 -11.6849 30 96.5557 11.6849 30 96.5557 10.761 30 96.173

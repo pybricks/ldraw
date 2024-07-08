@@ -1,13 +1,14 @@
-0 Hi-Res Ring 65 x 0.25
+0 ~Hi-Res Ring 65 x 0.25 (Obsolete)
 0 Name: 48\1-4rin65.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG 48_Primitive UPDATE 2010-02
+0 !LDRAW_ORG 48_Primitive UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
+0 !HISTORY 2024-03-23 [OrionP] Obsolete, use 48\1-4ring65.dat
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 4 16 65 0 0 66 0 0 65.4324 0 8.613 64.441 0 8.4825
 4 16 64.441 0 8.4825 65.4324 0 8.613 63.7494 0 17.0808 62.7835 0 16.822

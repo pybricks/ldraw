@@ -1,13 +1,14 @@
 0 ~Wing  2 x  4 Left with Truncated Tip Without Studs
 0 Name: s\65429s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Subpart UPDATE 2020-02
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 4 16 12.136 8 36 18.5 8 40 18.5 8 37 16.83 8 33.66
 4 16 -16 8 -24 -20 8 -30 -20 8 40 -16 8 36
@@ -31,7 +32,7 @@
 0 BFC INVERTNEXT
 1 16 0 3 20 6 0 0 0 5 0 0 0 6 1-4cylo.dat
 1 16 0 3 20 0 0 8 0 5 0 8 0 0 3-16cylo.dat
-1 16 0 8 20 0 0 2 0 -1 0 2 0 0 3-16rin3.dat
+1 16 0 8 20 0 0 2 0 -1 0 2 0 0 3-16ring3.dat
 1 16 0 3 20 0 0 -1 0 -1.25 0 1 0 0 2-4stud4.dat
 
 0 BFC INVERTNEXT

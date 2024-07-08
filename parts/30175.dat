@@ -1,7 +1,7 @@
 0 Minifig Helmet Samurai
 0 Name: 30175.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Part UPDATE 2012-03
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP ref point for horn
@@ -21,7 +21,8 @@
 0 !HISTORY 2012-10-02 [Steffen] BFC rationalisation
 0 !HISTORY 2012-11-03 [MagFors] Added some missing cond-lines
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // inner stud
 1 16 0 -4 0 6 0 0 0 -1 0 0 0 6 4-4disc.dat
@@ -99,9 +100,9 @@
 2 24 13.5 10.5 -3.5 14.75 10.5 -3.5
 0 // "skirt" around bottom
 1 16 0 22 0 4 0 0 0 -1 0 0 0 4 1-4ring4.dat
-1 16 0 22 0 2 0 0 0 -1 0 0 0 2 1-4rin10.dat
+1 16 0 22 0 2 0 0 0 -1 0 0 0 2 1-4ring10.dat
 1 16 0 12 0 1.1 0 0 0 -4 0 0 0 1.1 1-4con15.dat
-1 16 0 12 0 1.6 0 0 0 -1 0 0 0 1.6 1-4rin10.dat
+1 16 0 12 0 1.6 0 0 0 -1 0 0 0 1.6 1-4ring10.dat
 1 16 0 17 0 3.375 0 0 0 -5 0 0 0 3.375 1-4con5.dat
 1 16 0 17 0 2.25 0 0 0 -1 0 0 0 2.25 1-4ring8.dat
 1 16 0 22 0 2.75 0 0 0 -5 0 0 0 2.75 1-4con7.dat
@@ -515,9 +516,9 @@
 2 24 -13.5 10.5 -3.5 -14.75 10.5 -3.5
 0 // "skirt" around bottom
 1 16 0 22 0 -4 0 0 0 -1 0 0 0 4 1-4ring4.dat
-1 16 0 22 0 -2 0 0 0 -1 0 0 0 2 1-4rin10.dat
+1 16 0 22 0 -2 0 0 0 -1 0 0 0 2 1-4ring10.dat
 1 16 0 12 0 -1.1 0 0 0 -4 0 0 0 1.1 1-4con15.dat
-1 16 0 12 0 -1.6 0 0 0 -1 0 0 0 1.6 1-4rin10.dat
+1 16 0 12 0 -1.6 0 0 0 -1 0 0 0 1.6 1-4ring10.dat
 1 16 0 17 0 -3.375 0 0 0 -5 0 0 0 3.375 1-4con5.dat
 1 16 0 17 0 -2.25 0 0 0 -1 0 0 0 2.25 1-4ring8.dat
 1 16 0 22 0 -2.75 0 0 0 -5 0 0 0 2.75 1-4con7.dat

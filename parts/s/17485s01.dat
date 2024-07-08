@@ -1,7 +1,7 @@
 0 ~Brick  2 x  2 Round with Pin Holes - 3/16 without Patterned Surface
 0 Name: s\17485s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Subpart UPDATE 2020-02
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,7 +9,8 @@
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
 0 !HISTORY 2019-10-13 [cwdee] Remove decorated surfaces
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // inside cavity
 
@@ -103,7 +104,7 @@
 5 24 6.123 24 -14.7825 6.123 3 -14.7825 6.3442 20 -14.6347 0.000114 3 -16.0004
 
 0 // peghole
-1 16 2 10 0 0 1 0 0.5 0 0 0 0 -0.5 2-4rin12.dat
+1 16 2 10 0 0 1 0 0.5 0 0 0 0 -0.5 2-4ring12.dat
 1 16 2 10 0 0 1 0 6.5 0 0 0 0 -6.5 3-8ndis.dat
 0 BFC INVERTNEXT
 1 16 2 10 0 0 16 0 6 0 0 0 0 -6 2-4cylo.dat

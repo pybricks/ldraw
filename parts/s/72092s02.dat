@@ -1,23 +1,24 @@
 0 ~Minifig Trophy Cup  5L - Half
 0 Name: s\72092s02.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Subpart UPDATE 2019-01
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 0 0 24 0 1 0 -24 0 0 2-4edge.dat
 1 16 0 0 0 0 0 24 0 -3 0 -24 0 0 2-4cyli.dat
 0 BFC INVERTNEXT
 1 16 0 0 0 0 0 20.25 0 -6.25 0 -20.25 0 0 2-4cylo.dat
 1 16 0 0 0 0 0 2.25 0 -1 0 -2.25 0 0 2-4ring9.dat
-1 16 0 0 0 0 0 1.5 0 -1 0 -1.5 0 0 2-4rin15.dat
+1 16 0 0 0 0 0 1.5 0 -1 0 -1.5 0 0 2-4ring15.dat
 0 BFC INVERTNEXT
 1 16 0 -7.5 0 0 0 5.5 0 -8.75 0 -5.5 0 0 2-4cylo.dat
-1 16 0 -7.5 0 0 0 0.5 0 -1 0 -0.5 0 0 2-4rin11.dat
+1 16 0 -7.5 0 0 0 0.5 0 -1 0 -0.5 0 0 2-4ring11.dat
 0 BFC INVERTNEXT
 1 16 0 -21.25 0 0 0 3 0 5 0 -3 0 0 2-4cylc.dat
 1 16 0 -16.25 0 0 0 3 0 -1 0 -3 0 0 2-4ring1.dat
@@ -26,7 +27,7 @@
 0 BFC INVERTNEXT
 1 16 0 -6.25 0 0 0 1 0 -0.25 0 -1 0 0 2-4con12.dat
 1 16 0 -6.25 0 0 0 6.5 0 -1 0 -6.5 0 0 2-4ring2.dat
-1 16 0 -6.25 0 0 0 1.5 0 -1 0 -1.5 0 0 2-4rin13.dat
+1 16 0 -6.25 0 0 0 1.5 0 -1 0 -1.5 0 0 2-4ring13.dat
 5 24 4.9751 -6.25 -12.0107 0 -6.25 -13 0 -6.5 -12 7.4626 -6.25 -18.016
 5 24 9.1923 -6.25 -9.1923 4.9751 -6.25 -12.0107 4.5924 -6.5 -11.0868 13.7885 -6.25 -13.7885
 5 24 12.0107 -6.25 -4.9751 9.1923 -6.25 -9.1923 8.4852 -6.5 -8.4852 18.016 -6.25 -7.4626

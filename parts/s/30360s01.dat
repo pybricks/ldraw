@@ -1,13 +1,14 @@
 0 ~Cylinder  3 x  6 x  2.667 Horizontal Common Geometry
 0 Name: s\30360s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Subpart UPDATE 2020-03
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30360s02.dat
 4 16 11.481 27.717 60 15 25.98 60 15 25.98 56 11.481 27.717 56
@@ -199,8 +200,8 @@
 2 24 -10 28.219 -60 -10 28.219 -20
 4 16 -11.481 27.717 -20 11.4805 27.7164 -20 10 28.219 -20 -10 28.219 -20
 
-1 16 0 0 -60 2 0 0 0 0 2 0 1 0 48\4-4rin13.dat
-1 16 0 0 -60 2 0 0 0 0 2 0 1 0 48\4-4rin14.dat
+1 16 0 0 -60 2 0 0 0 0 2 0 1 0 48\4-4ring13.dat
+1 16 0 0 -60 2 0 0 0 0 2 0 1 0 48\4-4ring14.dat
 
 1 16 0 -30 -30 1 0 0 0 1 0 0 0 1 stud2.dat
 1 16 0 -28.219 -30 0 0 10 0 -1.781 0 10 0 0 box3u2p.dat

@@ -1,0 +1,17 @@
+0 Hi-Res Ring  5 x 0.0833
+0 Name: 48\1-12ring5.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG 48_Primitive UPDATE 2024-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2024-02-20 [Holly-Wood] Complete regeneration, original by guyvivan
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
+
+4 16 6 0 0 5.9484 0 0.783 4.957 0 0.6525 5 0 0
+4 16 5.9484 0 0.783 5.7954 0 1.5528 4.8295 0 1.294 4.957 0 0.6525
+4 16 5.7954 0 1.5528 5.5434 0 2.2962 4.6195 0 1.9135 4.8295 0 1.294
+4 16 5.5434 0 2.2962 5.196 0 3 4.33 0 2.5 4.6195 0 1.9135
+0 // Build by LDPartEditor (PrimGen 2.X)

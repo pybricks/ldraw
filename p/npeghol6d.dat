@@ -1,8 +1,8 @@
 0 Technic Peg Hole Negative 0.25 without Extension
 0 Name: npeghol6d.dat
-0 Author: Kevin Roach [KROACH]
-0 !LDRAW_ORG Primitive UPDATE 2023-03
-0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LDRAW_ORG Primitive UPDATE 2024-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,7 +11,8 @@
 0 !HISTORY 2022-07-08 [SwampKryakwa] New primitive shape - corners of npegholes are now smoothed similar to the actual lego parts
 0 !HISTORY 2022-11-15 [Holly-Wood] Sanded part
 0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
-
+0 !HISTORY 2024-02-29 [OrionP] Update author to Max Murtazin
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 6.3639 .5 9.23394 0 1 0 0 0 .5 .76606 0 0 rect2p.dat
 4 16 5.09822 1 7.62975 6.3639 1 8.46788 6.3639 1 10 3.4443 1 8.3151

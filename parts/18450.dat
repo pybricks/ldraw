@@ -1,7 +1,7 @@
 0 Tyre 44/ 91 x 43 R
 0 Name: 18450.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,7 +11,8 @@
 0 !HISTORY 2014-10-16 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-10-17 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 BFC INVERTNEXT
 1 16 0 0 33 0 0 54 54 0 0 0 -4 0 48\4-4cylo.dat
@@ -29,7 +30,7 @@
 0 BFC INVERTNEXT
 1 16 0 0 41 0 0 93.0462 93.0462 0 0 0 -82 0 48\4-4cylo.dat
 1 16 0 0 37 0 0 56.5715 56.5715 0 0 0 1 0 48\4-4edge.dat
-1 16 0 0 29 0 0 4.15385 4.15385 0 0 0 -1 0 48\4-4rin12.dat
+1 16 0 0 29 0 0 4.15385 4.15385 0 0 0 -1 0 48\4-4ring12.dat
 1 16 0 0 24 0 0 8.3077 8.3077 0 0 0 1 0 48\4-4ring6.dat
 0 BFC INVERTNEXT
 1 16 0 0 29 0 0 -49.8462 49.8462 0 0 0 -5 0 48\4-4cylo.dat
@@ -48,7 +49,7 @@
 1 16 0 0 -55.5 0 0 75.4286 75.4286 0 0 0 -1 0 48\4-4edge.dat
 1 16 0 0 -48 0 0 77.5385 77.5385 0 0 0 -1 0 48\4-4edge.dat
 1 16 0 0 -37 0 0 56.5715 56.5715 0 0 0 -1 0 48\4-4edge.dat
-1 16 0 0 -29 0 0 4.15385 4.15385 0 0 0 1 0 48\4-4rin12.dat
+1 16 0 0 -29 0 0 4.15385 4.15385 0 0 0 1 0 48\4-4ring12.dat
 1 16 0 0 -24 0 0 8.3077 8.3077 0 0 0 -1 0 48\4-4ring6.dat
 0 BFC INVERTNEXT
 1 16 0 0 -29 0 0 -49.8462 49.8462 0 0 0 5 0 48\4-4cylo.dat

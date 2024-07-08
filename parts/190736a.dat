@@ -1,17 +1,18 @@
 0 Sticker  4.2 x  4.2 Round with Blue Snowflake Logo
 0 Name: 190736a.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Action Figure, Arctic, Rescue Base, set 8680, Technic
+0 !KEYWORDS Action Figure, Arctic, Rescue Base, Technic, set 8680
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
-
-1 16 0 -0.25 0 2.475 0 0 0 1 0 0 0 2.475 48\4-4rin16.dat
+1 16 0 -0.25 0 2.475 0 0 0 1 0 0 0 2.475 48\4-4ring16.dat
 1 16 0 -0.25 0 0 0 1.32 0 1 0 -1.32 0 0 s\4215as19.dat
 1 16 0 -0.25 0 1.143153 0 0.66 0 1 0 -0.66 0 1.143153 s\4215as19.dat
 1 16 0 -0.25 0 1.143153 0 -0.66 0 1 0 0.66 0 1.143153 s\4215as19.dat

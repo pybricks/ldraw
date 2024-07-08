@@ -1,7 +1,7 @@
 0 Tyre  4/ 80 x  8 Single Smooth Type 2
 0 Name: 59895.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,7 +10,8 @@
 0 !HISTORY 2011-06-02 [MagFors] Added details on one side, renamed to standardized nomenclature
 0 !HISTORY 2011-06-02 [MagFors] Optimized and rearranged primitives
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // Nomenclature: width_(mm)/profile_as_%age_of_width x rim_diameter_(mm)
 
@@ -35,11 +36,11 @@
 0 BFC INVERTNEXT
 1 16 0 0 5 0 0 15 15 0 0 0 0.5 0 4-4cylo.dat
 1 16 0 0 5 0 0 16 16 0 0 0 0.5 0 4-4cylo.dat
-1 16 0 0 5.5 0 0 1 1 0 0 0 -1 0 4-4rin15.dat
+1 16 0 0 5.5 0 0 1 1 0 0 0 -1 0 4-4ring15.dat
 0 BFC INVERTNEXT
 1 16 0 0 5 0 0 12 12 0 0 0 0.5 0 4-4cylo.dat
 1 16 0 0 5 0 0 13 13 0 0 0 0.5 0 4-4cylo.dat
-1 16 0 0 5.5 0 0 1 1 0 0 0 -1 0 4-4rin12.dat
+1 16 0 0 5.5 0 0 1 1 0 0 0 -1 0 4-4ring12.dat
 1 16 0 0 5 0 0 -5 5 0 0 0 -1 0 4-4ring2.dat
 1 16 0 0 5 0 0 -2.5 2.5 0 0 0 -1 0 4-4ring6.dat
 1 16 0 0 2.5 0 0 0.5 0.5 0 0 0 2.5 0 4-4con35.dat
@@ -82,7 +83,7 @@
 0 BFC INVERTNEXT
 1 16 0 0 -5 0 0 15 15 0 0 0 -0.5 0 4-4cylo.dat
 1 16 0 0 -5 0 0 16 16 0 0 0 -0.5 0 4-4cylo.dat
-1 16 0 0 -5.5 0 0 1 1 0 0 0 1 0 4-4rin15.dat
+1 16 0 0 -5.5 0 0 1 1 0 0 0 1 0 4-4ring15.dat
 0 //
 1 16 0 0 -5 0 0 12 12 0 0 0 -1 0 5-16edge.dat
 1 16 0 0 -5 0 0 13 13 0 0 0 -1 0 5-16edge.dat
@@ -93,7 +94,7 @@
 0 BFC INVERTNEXT
 1 16 0 0 -5 0 0 12 12 0 0 0 -0.5 0 5-16cyli.dat
 1 16 0 0 -5 0 0 13 13 0 0 0 -0.5 0 5-16cyli.dat
-1 16 0 0 -5.5 0 0 1 1 0 0 0 1 0 5-16ri12.dat
+1 16 0 0 -5.5 0 0 1 1 0 0 0 1 0 5-16ring12.dat
 1 16 0 0 -5 0 0 -12 -12 0 0 0 -1 0 3-8edge.dat
 1 16 0 0 -5 0 0 -13 -13 0 0 0 -1 0 3-8edge.dat
 1 16 0 0 -5.5 0 0 -12 -12 0 0 0 -1 0 3-8edge.dat
@@ -103,5 +104,5 @@
 0 BFC INVERTNEXT
 1 16 0 0 -5 0 0 -12 -12 0 0 0 -0.5 0 3-8cyli.dat
 1 16 0 0 -5 0 0 -13 -13 0 0 0 -0.5 0 3-8cyli.dat
-1 16 0 0 -5.5 0 0 -1 -1 0 0 0 1 0 3-8rin12.dat
+1 16 0 0 -5.5 0 0 -1 -1 0 0 0 1 0 3-8ring12.dat
 

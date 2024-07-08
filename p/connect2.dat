@@ -1,7 +1,7 @@
 0 Technic Pin 1.0 without Base Collar
 0 Name: connect2.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Primitive UPDATE 2005-01
+0 !LDRAW_ORG Primitive UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -13,7 +13,8 @@
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 2 24 5.801 -18 1 5.543 -18 2.296
 2 24 -5.543 -18 2.296 -5.801 -18 1
@@ -92,10 +93,10 @@
 1 16 0 -20 0 -3.69552 0 1.53073 0 8.5 0 -1.53073 0 -3.69552 3-8cyli.dat
 1 16 0 -20 0 1.84776 0 -0.765367 0 1 0 0.765367 0 1.84776 3-8ring2.dat
 1 16 0 -20 0 -1.84776 0 0.765367 0 1 0 -0.765367 0 -1.84776 3-8ring2.dat
-1 16 0 -18 0 0.46194 0 -0.191342 0 -1 0 0.191342 0 0.46194 3-8rin12.dat
-1 16 0 -18 0 -0.46194 0 0.191342 0 -1 0 -0.191342 0 -0.46194 3-8rin12.dat
-1 16 0 -20 0 0.46194 0 -0.191342 0 1 0 0.191342 0 0.46194 3-8rin12.dat
-1 16 0 -20 0 -0.46194 0 0.191342 0 1 0 -0.191342 0 -0.46194 3-8rin12.dat
+1 16 0 -18 0 0.46194 0 -0.191342 0 -1 0 0.191342 0 0.46194 3-8ring12.dat
+1 16 0 -18 0 -0.46194 0 0.191342 0 -1 0 -0.191342 0 -0.46194 3-8ring12.dat
+1 16 0 -20 0 0.46194 0 -0.191342 0 1 0 0.191342 0 0.46194 3-8ring12.dat
+1 16 0 -20 0 -0.46194 0 0.191342 0 1 0 -0.191342 0 -0.46194 3-8ring12.dat
 1 16 0 -18 0 5.54328 0 -2.2961 0 1 0 -2.2961 0 -5.54328 3-8edge.dat
 1 16 0 -18 0 -5.54328 0 2.2961 0 1 0 2.2961 0 5.54328 3-8edge.dat
 1 16 0 -18 0 -6.00522 0 2.48744 0 1 0 2.48744 0 6.00522 3-8edge.dat

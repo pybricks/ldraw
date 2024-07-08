@@ -1,14 +1,15 @@
 0 ~Technic Beam  7 Offset Liftarm with 24 Tooth Gears - Half
 0 Name: s\32311s01.dat
 0 Author: Robert Sexton [rhsexton]
-0 !LDRAW_ORG Subpart UPDATE 2010-03
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2005-12-23 [guyvivan] Made BFC'ed add missing lines and use tooth24.dat
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 -60 0 1 0 10 0 0 0 0 -10 2-4edge.dat
 1 16 -20 0 -60 0 1 0 10 0 0 0 0 -10 2-4edge.dat
@@ -1062,12 +1063,12 @@
 1 16 -10 -23.417 -46.48 0 0 -1.0526 -0.5 -0.866 0 -0.866 0.5 0 tooth24.dat
 1 16 -10 23.417 -46.48 0 0 -1.0526 -0.5 0.866 0 0.866 0.5 0 tooth24.dat
 1 16 -10 26.118 -53.002 0 0 -1.0526 -0.2588 0.9659 0 0.9659 0.2588 0 tooth24.dat
-1 16 -5 0 -60 0 -1 0 2.08 0 0 0 0 -2.08 48\2-4rin12.dat
-1 16 -5 0 -60 0 -1 0 -2.08 0 0 0 0 2.08 48\1-6rin12.dat
-1 16 -5 0 -60 0 -1 0 2.08 0 0 0 0 2.08 48\1-6rin12.dat
-1 16 -15 0 -60 0 1 0 2.08 0 0 0 0 -2.08 48\2-4rin12.dat
-1 16 -15 0 -60 0 1 0 -2.08 0 0 0 0 2.08 48\1-6rin12.dat
-1 16 -15 0 -60 0 1 0 2.08 0 0 0 0 2.08 48\1-6rin12.dat
+1 16 -5 0 -60 0 -1 0 2.08 0 0 0 0 -2.08 48\2-4ring12.dat
+1 16 -5 0 -60 0 -1 0 -2.08 0 0 0 0 2.08 48\1-6ring12.dat
+1 16 -5 0 -60 0 -1 0 2.08 0 0 0 0 2.08 48\1-6ring12.dat
+1 16 -15 0 -60 0 1 0 2.08 0 0 0 0 -2.08 48\2-4ring12.dat
+1 16 -15 0 -60 0 1 0 -2.08 0 0 0 0 2.08 48\1-6ring12.dat
+1 16 -15 0 -60 0 1 0 2.08 0 0 0 0 2.08 48\1-6ring12.dat
 1 16 -15 0 -60 0 1 0 17.6494 0 17.6494 17.6494 0 -17.6494 48\3-4edge.dat
 1 16 -5 0 -60 0 1 0 17.6494 0 17.6494 17.6494 0 -17.6494 48\3-4edge.dat
 1 16 -5 0 -60 0 1 0 9.55178 0 23.06 23.06 0 -9.55178 48\1-16edge.dat

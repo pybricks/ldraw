@@ -1,7 +1,7 @@
 0 Minifig Shield Ovoid with Silver Snake Pattern
 0 Name: 2586ph2.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -19,14 +19,15 @@
 0 !HISTORY 2013-02-28 [MagFors] Changed colour 383 to 80 (printed silver)
 0 !HISTORY 2013-03-02 [MagFors] Changed colour 258 to 288 (dark green)
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2586s01.dat
 1 80 0 0 0 1 0 0 0 1 0 0 0 1 s\2586ph2a.dat
 1 288 0 0 0 1 0 0 0 1 0 0 0 1 s\2586ph2b.dat
 1 16 0 -14.5 -8 2.429 0 0 0 0 -2.429 0 1 0 2-4ring7.dat
-1 16 0 -14.5 -8 1 0 0 0 0 -1 0 1 0 1-4rin19.dat
-1 16 0 -14.5 -8 0 0 -1 -1 0 0 0 1 0 1-4rin19.dat
+1 16 0 -14.5 -8 1 0 0 0 0 -1 0 1 0 1-4ring19.dat
+1 16 0 -14.5 -8 0 0 -1 -1 0 0 0 1 0 1-4ring19.dat
 1 16 0 31.5 -8 -1.06075 0 1.06075 1.06075 0 1.06075 0 1 0 1-4ring3.dat
 3 16 17 -14.5 -8 16.5 -11 -8 20 -14.5 -8
 4 16 19 -2.5 -8 20 -14.5 -8 16.5 -11 -8 15 2 -8

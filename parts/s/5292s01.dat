@@ -1,7 +1,7 @@
 0 ~Electric RC Race Buggy Motor - Half
 0 Name: s\5292s01.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2013-02
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,7 +9,8 @@
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 0 !HISTORY 2013-03-29 [MagFors] Changed colour 383 to 494 (real metal)
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 BFC INVERTNEXT
 1 16 0 -40 32 6 0 0 0 0 -6 0 16 0 4-4cyli.dat
@@ -567,13 +568,13 @@
 1 16 0 0 59.5 9 0 0 0 0 -9 0 1 0 2-4edge.dat
 1 16 -40 0 20.5 9 0 0 0 0 -9 0 1 0 2-4edge.dat
 1 16 -40 0 20.5 3 0 0 0 0 -3 0 1 0 2-4ring3.dat
-1 16 -40 0 20.5 1 0 0 0 0 -1 0 1 0 2-4rin12.dat
+1 16 -40 0 20.5 1 0 0 0 0 -1 0 1 0 2-4ring12.dat
 1 16 0 0 20.5 3 0 0 0 0 -3 0 1 0 2-4ring3.dat
-1 16 0 0 20.5 1 0 0 0 0 -1 0 1 0 2-4rin12.dat
+1 16 0 0 20.5 1 0 0 0 0 -1 0 1 0 2-4ring12.dat
 1 16 -40 0 59.5 -3 0 0 0 0 -3 0 -1 0 2-4ring3.dat
-1 16 -40 0 59.5 -1 0 0 0 0 -1 0 -1 0 2-4rin12.dat
+1 16 -40 0 59.5 -1 0 0 0 0 -1 0 -1 0 2-4ring12.dat
 1 16 0 0 59.5 -3 0 0 0 0 -3 0 -1 0 2-4ring3.dat
-1 16 0 0 59.5 -1 0 0 0 0 -1 0 -1 0 2-4rin12.dat
+1 16 0 0 59.5 -1 0 0 0 0 -1 0 -1 0 2-4ring12.dat
 1 16 -40 0 59.5 9 0 0 0 0 -9 0 1 0 2-4edge.dat
 1 16 -40 0 59.5 13 0 0 0 0 -13 0 1 0 2-4edge.dat
 1 16 -40 0 20.5 13 0 0 0 0 -13 0 1 0 2-4edge.dat
@@ -596,10 +597,10 @@
 1 16 -40 0 21.5 0 0 -19 -19 0 0 0 1 0 1-4edge.dat
 1 16 -40 0 21.5 0 0 -2 -2 0 0 0 1 0 1-4ring7.dat
 1 16 -40 0 21.5 0 0 -2 -2 0 0 0 1 0 1-4ring8.dat
-1 16 -40 0 21.5 0 0 -1 -1 0 0 0 1 0 1-4rin18.dat
-1 16 0 0 21.5 1 0 0 0 0 -1 0 1 0 1-4rin18.dat
-1 16 -40 0 58.5 -1 0 0 0 0 -1 0 -1 0 1-4rin18.dat
-1 16 0 0 58.5 0 0 1 -1 0 0 0 -1 0 1-4rin18.dat
+1 16 -40 0 21.5 0 0 -1 -1 0 0 0 1 0 1-4ring18.dat
+1 16 0 0 21.5 1 0 0 0 0 -1 0 1 0 1-4ring18.dat
+1 16 -40 0 58.5 -1 0 0 0 0 -1 0 -1 0 1-4ring18.dat
+1 16 0 0 58.5 0 0 1 -1 0 0 0 -1 0 1-4ring18.dat
 1 16 0 0 21.5 2 0 0 0 0 -2 0 1 0 1-4ring7.dat
 1 16 0 0 21.5 2 0 0 0 0 -2 0 1 0 1-4ring8.dat
 1 16 -40 0 58.5 -2 0 0 0 0 -2 0 -1 0 1-4ring7.dat
@@ -705,9 +706,9 @@
 2 24 3 -22.405 23 8.809 -21.252 23
 1 16 0 0 24 0 0 1 -1 0 0 0 -1 0 1-4con23.dat
 1 16 0 0 25 0 0 1 -1 0 0 0 -1 0 1-4con24.dat
-1 16 0 0 23 1 0 0 0 0 -1 0 1 0 1-4rin19.dat
-1 16 0 0 23 1.15 0 0 0 0 -1.15 0 1 0 1-4rin19.dat
-1 16 0 0 23 2 0 0 0 0 -2 0 1 0 1-4rin10.dat
+1 16 0 0 23 1 0 0 0 0 -1 0 1 0 1-4ring19.dat
+1 16 0 0 23 1.15 0 0 0 0 -1.15 0 1 0 1-4ring19.dat
+1 16 0 0 23 2 0 0 0 0 -2 0 1 0 1-4ring10.dat
 1 16 0 0 25 25 0 0 0 0 -25 0 1 0 3-16edge.dat
 2 24 3 -24.405 25 9.575 -23.1 25
 1 16 0 0 25 25 0 0 0 0 -25 0 1 0 1-4ndis.dat

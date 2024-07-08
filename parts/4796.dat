@@ -1,7 +1,7 @@
 0 ~Vehicle Chassis  8 x  6 with Tow-Hook
 0 Name: 4796.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -16,7 +16,8 @@
 0 !HISTORY 2013-08-29 [cwdee] Update category
 0 !HISTORY 2015-03-14 [Philo] Improved geometry
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 38 4 30 0 0 -2 0 4 0 2 0 0 box4-1.dat
 1 16 -38 4 30 0 0 2 0 4 0 2 0 0 box4-1.dat
@@ -124,10 +125,10 @@
 1 16 -27.5 10.5 -78 0 12.5 0 0 0 -2.5 2 0 0 box2-5.dat
 4 16 -40 0 -80 -44 8 -80 44 8 -80 40 0 -80
 1 16 0 11 -100 6 0 0 0 -1 0 0 0 -6 2-4ring1.dat
-1 16 0 11 -100 1 0 0 0 -1 0 0 0 -1 2-4rin12.dat
+1 16 0 11 -100 1 0 0 0 -1 0 0 0 -1 2-4ring12.dat
 1 16 0 6 -100 3 0 0 0 1 0 0 0 -3 2-4ring2.dat
 1 16 0 2 -100 3 0 0 0 1 0 0 0 -3 2-4ring3.dat
-1 16 0 2 -100 1 0 0 0 1 0 0 0 -1 2-4rin12.dat
+1 16 0 2 -100 1 0 0 0 1 0 0 0 -1 2-4ring12.dat
 2 24 2 0 80 2 11 80
 2 24 -2 0 80 -2 11 80
 2 24 2 11 80 10 11 80
@@ -164,14 +165,14 @@
 1 16 -44 4 -48 0 1 0 -20 0 0 0 0 24 1-4edge.dat
 1 16 58 4 48 0 1 0 -20 0 0 0 0 -24 1-4edge.dat
 1 16 -58 4 48 0 1 0 -20 0 0 0 0 -24 1-4edge.dat
-1 16 -58 4 48 0 1 0 -2 0 0 0 0 -2.4 1-4rin10.dat
-1 16 -58 4 48 0 1 0 -2 0 0 0 0 -2.3333 1-4rin11.dat
-1 16 58 4 48 0 -1 0 -2 0 0 0 0 -2.4 1-4rin10.dat
-1 16 58 4 48 0 -1 0 -2 0 0 0 0 -2.3333 1-4rin11.dat
-1 16 58 4 -48 0 -1 0 -2 0 0 0 0 2.4 1-4rin10.dat
-1 16 58 4 -48 0 -1 0 -2 0 0 0 0 2.3333 1-4rin11.dat
-1 16 -58 4 -48 0 1 0 -2 0 0 0 0 2.4 1-4rin10.dat
-1 16 -58 4 -48 0 1 0 -2 0 0 0 0 2.3333 1-4rin11.dat
+1 16 -58 4 48 0 1 0 -2 0 0 0 0 -2.4 1-4ring10.dat
+1 16 -58 4 48 0 1 0 -2 0 0 0 0 -2.3333 1-4ring11.dat
+1 16 58 4 48 0 -1 0 -2 0 0 0 0 -2.4 1-4ring10.dat
+1 16 58 4 48 0 -1 0 -2 0 0 0 0 -2.3333 1-4ring11.dat
+1 16 58 4 -48 0 -1 0 -2 0 0 0 0 2.4 1-4ring10.dat
+1 16 58 4 -48 0 -1 0 -2 0 0 0 0 2.3333 1-4ring11.dat
+1 16 -58 4 -48 0 1 0 -2 0 0 0 0 2.4 1-4ring10.dat
+1 16 -58 4 -48 0 1 0 -2 0 0 0 0 2.3333 1-4ring11.dat
 1 16 58 4 -48 0 1 0 -20 0 0 0 0 24 1-4edge.dat
 1 16 -58 4 -48 0 1 0 -20 0 0 0 0 24 1-4edge.dat
 1 16 40 4 48 0 1 0 -24 0 0 0 0 -28 1-4edge.dat

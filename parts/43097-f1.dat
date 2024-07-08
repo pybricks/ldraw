@@ -1,0 +1,16 @@
+0 Technic Linear Actuator  8 x  2 x  2 Type 2 (Contracted)
+0 Name: 43097-f1.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Shortcut UPDATE 2024-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Power Functions
+
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
+
+
+1 4 0 0 0 0 1 0 -1 0 0 0 0 1 47157.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9559c01.dat
+1 72 0 0 170 1 0 0 0 1 0 0 0 1 62274c01.dat

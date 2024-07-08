@@ -1,13 +1,14 @@
 0 ~Tile  3 x  3 Corner Round - Half
 0 Name: s\79393s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Subpart UPDATE 2022-06
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // Bottom
 4 16 43.7364 8 -4 43.6216 8 -5.742 40.6728 8 -5.3538 40.9597 8 -1
@@ -94,7 +95,7 @@
 4 16 51.394 8 -23.2562 53.5546 8 -24.5525 53.5546 7 -24.5525 51.394 4 -23.2562
 2 24 51.394 4 -23.2562 54.3987 4 -25.059
 
-1 16 40 8 -40 -1.41421 0 1.41421 0 -1 0 1.41421 0 1.41421 3-16rin3.dat
+1 16 40 8 -40 -1.41421 0 1.41421 0 -1 0 1.41421 0 1.41421 3-16ring3.dat
 4 16 45.6569 8 -34.3431 43.8584 8 -35.5006 42.2961 8 -34.4567 43.0615 8 -32.6088
 
 0 BFC INVERTNEXT

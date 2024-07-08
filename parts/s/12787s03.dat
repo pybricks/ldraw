@@ -1,7 +1,7 @@
 0 ~Technic Motor Pull Back  6 x  5 x  3 Common Shell
 0 Name: s\12787s03.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Subpart UPDATE 2014-02
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,12 +9,13 @@
 0 !HISTORY 2014-11-26 [tchang] Uncolored, BFC'ed 1 face, change 1 edgline position, used Unificator, Change orientation
 0 !HISTORY 2014-12-03 [tchang] Corrected DATHeader messages, Suppress some little gaps
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 30 0 0 0 -1 0 8 0 0 0 0 8 4-4edge.dat
 1 16 30 0 0 0 -1 0 9.1924 0 9.1924 -9.1924 0 9.1924 2-4edge.dat
 1 16 30 0 0 0 -1 0 4 0 0 0 0 4 4-4ring2.dat
-1 16 30 0 0 0 -1 0 1 0 0 0 0 1 4-4rin12.dat
+1 16 30 0 0 0 -1 0 1 0 0 0 0 1 4-4ring12.dat
 4 16 10 -14.437 8 27 -14.437 8 27 -11.314 11.314 10 -11.314 11.314
 2 24 27 -11.314 11.314 27 -14.437 8
 1 16 27 0 0 0 -27 0 14.7821 0 6.1229 -6.1229 0 14.7821 7-16cyli.dat

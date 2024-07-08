@@ -1,7 +1,7 @@
 0 | Circuit Cubes LED
 0 Name: t1052c01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Shortcut UPDATE 2022-05
+0 !LDRAW_ORG Shortcut UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,7 +9,8 @@
 0 !CATEGORY Electric
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // Cover
 
@@ -44,8 +45,8 @@
 
 0 // LED
 1 47 0 29.5 0 -10.16267 0 4.20952 0 -2 0 -4.20952 0 -10.16267 7-8cylo.dat
-1 47 0 27.5 0 -0.38268 0 0.92388 0 1 0 -0.92388 0 -0.38268 3-4rin10.dat
-1 47 0 27.5 0 -0.38268 0 -0.92388 0 1 0 -0.92388 0 0.38268 1-8rin10.dat
+1 47 0 27.5 0 -0.38268 0 0.92388 0 1 0 -0.92388 0 -0.38268 3-4ring10.dat
+1 47 0 27.5 0 -0.38268 0 -0.92388 0 1 0 -0.92388 0 0.38268 1-8ring10.dat
 1 47 0 27.5 0 10 0 0 0 -10 0 0 0 10 4-4cylo.dat
 1 47 0 17.5 0 10 0 0 0 5 0 0 0 10 bump5000.dat
 1 494 3 23.5 0 4 0 0 0 6 0 0 0 0.5 box.dat

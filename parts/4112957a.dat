@@ -1,7 +1,7 @@
 0 Sticker  1.0 x 11.8 with Pipe, Three Connectors and Lever Oriented Right
 0 Name: 4112957a.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,19 +9,20 @@
 0 !KEYWORDS set 2126
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 -0.25 0 118 0 0 0 0.25 0 0 0 10 box5-12.dat
 
 1 0 -82.5 -0.25 -5 -1 0 0 0 1 0 0 0 1 1-4ring4.dat
 1 8 -82.5 -0.25 -5 -1 0 0 0 1 0 0 0 1 1-4ring5.dat
-1 8 -82.5 -0.25 -5 -1 0 0 0 1 0 0 0 1 1-4rin10.dat
-1 0 -82.5 -0.25 -5 -1 0 0 0 1 0 0 0 1 1-4rin11.dat
+1 8 -82.5 -0.25 -5 -1 0 0 0 1 0 0 0 1 1-4ring10.dat
+1 0 -82.5 -0.25 -5 -1 0 0 0 1 0 0 0 1 1-4ring11.dat
 1 7 -82.5 -0.25 -5 -1 0 0 0 1 0 0 0 1 1-4ring9.dat
 1 15 -82.5 -0.25 -5 -1 0 0 0 1 0 0 0 1 1-4ring8.dat
 1 15 -82.5 -0.25 -5 -1 0 0 0 1 0 0 0 1 1-4ring7.dat
 1 7 -82.5 -0.25 -5 -1 0 0 0 1 0 0 0 1 1-4ring6.dat
-1 0 102.5 -0.25 -5 1 0 0 0 1 0 0 0 1 1-4rin11.dat
+1 0 102.5 -0.25 -5 1 0 0 0 1 0 0 0 1 1-4ring11.dat
 1 1 -82.5 -0.25 -5 -4 0 0 0 1 0 0 0 4 1-4disc.dat
 1 1 -82.5 -0.25 -5 -12 0 0 0 1 0 0 0 12 1-4ndis.dat
 1 1 -95.5 -0.25 -7 0 0 -2 0 1 0 2 0 0 2-4ndis.dat
@@ -46,7 +47,7 @@
 1 0 102.5 -0.25 -5 1 0 0 0 1 0 0 0 1 1-4ring4.dat
 1 8 102.5 -0.25 -5 1 0 0 0 1 0 0 0 1 1-4ring5.dat
 1 7 102.5 -0.25 -5 1 0 0 0 1 0 0 0 1 1-4ring6.dat
-1 8 102.5 -0.25 -5 1 0 0 0 1 0 0 0 1 1-4rin10.dat
+1 8 102.5 -0.25 -5 1 0 0 0 1 0 0 0 1 1-4ring10.dat
 1 15 102.5 -0.25 -5 1 0 0 0 1 0 0 0 1 1-4ring7.dat
 1 15 102.5 -0.25 -5 1 0 0 0 1 0 0 0 1 1-4ring8.dat
 1 7 102.5 -0.25 -5 1 0 0 0 1 0 0 0 1 1-4ring9.dat

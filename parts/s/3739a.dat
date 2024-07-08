@@ -1,8 +1,8 @@
 0 ~Wheel 24 x 43 Technic - 1/12 Wheel Rim
 0 Name: s\3739a.dat
 0 Author: Chris Moseley
-0 !LDRAW_ORG Subpart UPDATE 2012-03
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-02
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,7 +11,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-03 [anathema] Rebuilt using primitives; added various missing details; BFC'd; removed a floating line & triangle; changed to 1/12 segment
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 53.75 0 0 0 60 0 0 0 53.75 48\1-12cyli.dat
 0 BFC INVERTNEXT
@@ -28,10 +29,10 @@
 1 16 0 15 0 50 0 0 0 1 0 0 0 50 48\1-12edge.dat
 1 16 0 18 0 48 0 0 0 1 0 0 0 48 48\1-12edge.dat
 1 16 0 40 0 48 0 0 0 1 0 0 0 48 48\1-12edge.dat
-1 16 0 0 0 2.5 0 0 0 1 0 0 0 2.5 48\1-12ri20.dat
-1 16 0 0 0 1.25 0 0 0 1 0 0 0 1.25 48\1-12ri42.dat
-1 16 0 60 0 2.5 0 0 0 -1 0 0 0 2.5 48\1-12ri20.dat
-1 16 0 60 0 1.25 0 0 0 -1 0 0 0 1.25 48\1-12ri42.dat
+1 16 0 0 0 2.5 0 0 0 1 0 0 0 2.5 48\1-12ring20.dat
+1 16 0 0 0 1.25 0 0 0 1 0 0 0 1.25 48\1-12ring42.dat
+1 16 0 60 0 2.5 0 0 0 -1 0 0 0 2.5 48\1-12ring20.dat
+1 16 0 60 0 1.25 0 0 0 -1 0 0 0 1.25 48\1-12ring42.dat
 0 BFC INVERTNEXT
 1 16 0 15 0 1.93185 0 -0.517638 0 3 0 0.517638 0 1.93185 48\1-24co24.dat
 0 BFC INVERTNEXT
@@ -41,10 +42,10 @@
 1 16 0 18 0 25 0 0 0 32 0 0 0 25 48\1-12cyli.dat
 0 BFC INVERTNEXT
 1 16 0 10 0 21.25 0 0 0 40 0 0 0 21.25 48\1-12cyli.dat
-1 16 0 10 0 1.25 0 0 0 1 0 0 0 1.25 48\1-12ri17.dat
-1 16 0 10 0 2.5 0 0 0 1 0 0 0 2.5 48\1-12rin9.dat
-1 16 0 15 0 4.82963 0 -1.2941 0 1 0 1.2941 0 4.82963 48\1-24rin5.dat
-1 16 0 18 0 4.82963 0 -1.2941 0 -1 0 1.2941 0 4.82963 48\1-24rin5.dat
+1 16 0 10 0 1.25 0 0 0 1 0 0 0 1.25 48\1-12ring17.dat
+1 16 0 10 0 2.5 0 0 0 1 0 0 0 2.5 48\1-12ring9.dat
+1 16 0 15 0 4.82963 0 -1.2941 0 1 0 1.2941 0 4.82963 48\1-24ring5.dat
+1 16 0 18 0 4.82963 0 -1.2941 0 -1 0 1.2941 0 4.82963 48\1-24ring5.dat
 1 16 0 10 0 25 0 0 0 1 0 0 0 25 48\1-12edge.dat
 1 16 0 12 0 25 0 0 0 1 0 0 0 25 48\1-24edge.dat
 1 16 0 12 0 50 0 0 0 1 0 0 0 50 48\1-24edge.dat
@@ -53,8 +54,8 @@
 1 16 0 18 0 28.9778 0 -7.76457 0 1 0 7.76457 0 28.9778 48\1-24edge.dat
 1 16 0 15 0 28.9778 0 -7.76457 0 1 0 7.76457 0 28.9778 48\1-24edge.dat
 1 16 0 50 0 25 0 0 0 1 0 0 0 25 48\1-12edge.dat
-1 16 0 50 0 1.25 0 0 0 -1 0 0 0 1.25 48\1-12ri17.dat
-1 16 0 50 0 2.5 0 0 0 -1 0 0 0 2.5 48\1-12rin9.dat
+1 16 0 50 0 1.25 0 0 0 -1 0 0 0 1.25 48\1-12ring17.dat
+1 16 0 50 0 2.5 0 0 0 -1 0 0 0 2.5 48\1-12ring9.dat
 0 BFC INVERTNEXT
 1 16 40 2 0 6 0 0 0 16 0 0 0 6 2-4cyli.dat
 1 16 40 2 0 8 0 0 0 10 0 0 0 8 2-4cyli.dat

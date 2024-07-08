@@ -1,13 +1,13 @@
 0 Minifig Container D-Basket
 0 Name: 4523.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Neckwear
-0 !KEYWORDS backback, Bin, Bucket, manger, trough
+0 !KEYWORDS Bin, Bucket, backback, manger, trough
 
 0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
 0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
@@ -20,7 +20,8 @@
 0 !HISTORY 2015-01-22 [Steffen] BFCed
 0 !HISTORY 2015-01-24 [MagFors] Fixed dimensional issues
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 2 24 -13 28 10 13 28 10
 2 24 13 28 10 17 1 10
@@ -178,7 +179,7 @@
 4 16 -17 1 10 -20 1 10 -18.889 1 20 -17 1 20
 3 16 -20 1 10 -20 1 20 -18.889 1 20
 1 16 0 1 20 1.8889 0 0 0 -1 0 0 0 1.8889 2-4ring9.dat
-1 16 0 1 20 1.1111 0 0 0 -1 0 0 0 1.1111 2-4rin17.dat
+1 16 0 1 20 1.1111 0 0 0 -1 0 0 0 1.1111 2-4ring17.dat
 3 16 18.889 1 20 20 1 20 20 1 10
 4 16 17 1 20 18.889 1 20 20 1 10 17 1 10
 4 16 -17 1 10 -17 1 20 -13 28 20 -13 28 10

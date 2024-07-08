@@ -1,7 +1,7 @@
 0 Minifig Goblet
 0 Name: 2343.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2012-03
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -20,7 +20,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2012-12-03 [MMR1988] added the groove for fitting underside studs inside, removed keyword goblet
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 36 0 1 0 0 0 -1 0 0 0 1 stud4o.dat
 1 16 0 40 0 1 0 0 0 -1 0 0 0 1 4-4ring8.dat
@@ -49,7 +50,7 @@
 0 BFC INVERTNEXT
 1 16 0 5 0 -8 0 0 0 -5 0 0 0 8 4-4cylo.dat
 
-1 16 0 5 0 0.5 0 0 0 1 0 0 0 0.5 4-4rin15.dat
+1 16 0 5 0 0.5 0 0 0 1 0 0 0 0.5 4-4ring15.dat
 1 16 0 5 0 7.5 0 0 0 1 0 0 0 7.5 4-4edge.dat
 
 0 BFC INVERTNEXT

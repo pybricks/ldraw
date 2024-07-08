@@ -1,15 +1,16 @@
 0 Technic Peg Hole with Extended Perimeter (Two Sides) and Surface
 0 Name: npeghol13.dat
-0 Author: Joerg Sommerer [Brickaneer]
-0 !LDRAW_ORG Primitive UPDATE 2023-01
-0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LDRAW_ORG Primitive UPDATE 2024-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
 0 !HISTORY 2022-07-08 [SwampKryakwa] New primitive shape - corners of npegholes are now smoothed similar to the actual lego parts
 0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
-
+0 !HISTORY 2024-02-29 [OrionP] Update author to Max Murtazin
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 4 16 0 1 1 -3.4442 1 1.6851 -3.4442 1 -1.6851 0 1 -1
 4 16 -3.4442 1 -1.6851 -3.4442 1 1.6851 -6.36403 1 3.63583 -6.36405 1 -3.63585

@@ -1,7 +1,7 @@
 0 Brick  1 x  4 x  2 Bellshaped with Headlights
 0 Name: u609.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,7 +9,8 @@
 0 !KEYWORDS Car, Engine, Fabuland, Jalopy, Motor, Vehicle
 
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 stug-2x1.dat
 4 16 -16 0 10 16 0 10 24 8 10 -24 8 10
@@ -117,8 +118,8 @@
 1 16 30 20 2 0 0 -10 10 0 0 0 -8 0 1-4cylc.dat
 1 16 30 20 -6 0 0 -10 10 0 0 0 -1 0 1-4ndis.dat
 1 16 30 20 2 0 0 -10 10 0 0 0 1 0 1-4ndis.dat
-1 16 30 20 -10 -0.70711 0 0.70711 -0.70711 0 -0.70711 0 -1 0 2-4rin10.dat
-1 16 30 20 -15 0 0 1 -1 0 0 0 1 0 4-4rin10.dat
+1 16 30 20 -10 -0.70711 0 0.70711 -0.70711 0 -0.70711 0 -1 0 2-4ring10.dat
+1 16 30 20 -15 0 0 1 -1 0 0 0 1 0 4-4ring10.dat
 1 16 30 20 -15 0 0 2 2 0 0 0 1 0 4-4ring4.dat
 0 BFC INVERTNEXT
 1 16 30 20 -10 0 0 2 2 0 0 0 1 0 4-4con3.dat
@@ -209,8 +210,8 @@
 1 16 -30 20 2 0 0 10 10 0 0 0 -8 0 1-4cylc.dat
 1 16 -30 20 -6 0 0 10 10 0 0 0 -1 0 1-4ndis.dat
 1 16 -30 20 2 0 0 10 10 0 0 0 1 0 1-4ndis.dat
-1 16 -30 20 -10 0.70711 0 -0.70711 -0.70711 0 -0.70711 0 -1 0 2-4rin10.dat
-1 16 -30 20 -15 0 0 -1 -1 0 0 0 1 0 4-4rin10.dat
+1 16 -30 20 -10 0.70711 0 -0.70711 -0.70711 0 -0.70711 0 -1 0 2-4ring10.dat
+1 16 -30 20 -15 0 0 -1 -1 0 0 0 1 0 4-4ring10.dat
 1 16 -30 20 -15 0 0 -2 2 0 0 0 1 0 4-4ring4.dat
 0 BFC INVERTNEXT
 1 16 -30 20 -10 0 0 -2 2 0 0 0 1 0 4-4con3.dat

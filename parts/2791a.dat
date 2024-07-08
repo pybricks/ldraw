@@ -1,7 +1,7 @@
 0 Technic Steering Gear Holder
 0 Name: 2791a.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -13,7 +13,8 @@
 0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 0 !HISTORY 2017-01-03 [MagFors] Made BFC, removed overlapping surfaces, added missing edges
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 15 -18 0 1 0 0 0 1 0 0 0 10 rect.dat
 1 16 -15 -18 0 1 0 0 0 1 0 0 0 10 rect.dat
@@ -40,16 +41,16 @@
 1 16 16 0 0 0 2 0 13 0 0 0 0 13 4-4cylse.dat
 0 BFC INVERTNEXT
 1 16 16.3 0 0 0 1.7 0 11 0 0 0 0 11 4-4cylse.dat
-1 16 18 0 0 -0.154 -1 0 1 0 0 0 0 1 4-4rin12.dat
-1 16 18 0 0 -0.154 -1 0 1 0 0 0 0 1 4-4rin11.dat
+1 16 18 0 0 -0.154 -1 0 1 0 0 0 0 1 4-4ring12.dat
+1 16 18 0 0 -0.154 -1 0 1 0 0 0 0 1 4-4ring11.dat
 0 BFC INVERTNEXT
 1 16 14 0 0 0 2.3 0 11 0 0 0 0 11 4-4cyli.dat
 
 1 16 -16 0 0 0 -2 0 13 0 0 0 0 -13 4-4cylse.dat
 0 BFC INVERTNEXT
 1 16 -16.3 0 0 0 -1.7 0 11 0 0 0 0 -11 4-4cylse.dat
-1 16 -18 0 0 0.154 1 0 1 0 0 0 0 -1 4-4rin12.dat
-1 16 -18 0 0 0.154 1 0 1 0 0 0 0 -1 4-4rin11.dat
+1 16 -18 0 0 0.154 1 0 1 0 0 0 0 -1 4-4ring12.dat
+1 16 -18 0 0 0.154 1 0 1 0 0 0 0 -1 4-4ring11.dat
 0 BFC INVERTNEXT
 1 16 -14 0 0 0 -2.3 0 11 0 0 0 0 -11 4-4cyli.dat
 

@@ -1,14 +1,15 @@
 0 ~1/8 of 36 Tooth Double Bevel Gear Hub
 0 Name: s\32498s01.dat
 0 Author: Ross Crawford [rosco]
-0 !LDRAW_ORG Subpart UPDATE 2009-03
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2006-03-12 [technog] recreated part to correct size and detail
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 2 24 37 0 9 36.902 1.5 9
 2 24 29.5 0 9 29.207 1.5 9
@@ -49,7 +50,7 @@
 0 BFC INVERTNEXT
 1 16 0 0 1.5 37 0 0 0 0 37 0 8.5 0 48\1-4cyli.dat
 1 16 0 0 1.5 37 0 0 0 0 37 0 1 0 48\1-4edge.dat
-1 16 0 0 1.5 2.055 0 0 0 0 2.055 0 -1 0 48\1-4rin17.dat
+1 16 0 0 1.5 2.055 0 0 0 0 2.055 0 -1 0 48\1-4ring17.dat
 1 16 32.866 4.56 1.5 1.77 0 0 0 0 -1.77 0 -1 0 2-4ndis.dat
 1 16 32.866 4.56 1.5 1.77 0 0 0 0 -1.77 0 1 0 2-4edge.dat
 0 BFC INVERTNEXT
@@ -65,7 +66,7 @@
 1 16 0 20 0 12 0 0 0 0 12 0 1.5 0 1-4cyli.dat
 1 16 0 20 1.5 12 0 0 0 0 12 0 1 0 3-16edge.dat
 1 16 0 20 1.5 2 0 0 0 0 2 0 -1 0 1-4ring5.dat
-1 16 0 20 1.5 0.5 0 0 0 0 0.5 0 -1 0 1-4rin19.dat
+1 16 0 20 1.5 0.5 0 0 0 0 0.5 0 -1 0 1-4ring19.dat
 1 16 12 16.5 0.75 0 -1 0 0 0 -3.5 0.75 0 0 rect1.dat
 0 BFC INVERTNEXT
 1 16 13 13 0 -1 0 0 0 0 -1 0 1.5 0 1-4cyli.dat
@@ -76,7 +77,7 @@
 1 16 20 0 0 0 0 12 12 0 0 0 1.5 0 3-16cyli.dat
 1 16 20 0 1.5 0 0 12 12 0 0 0 1 0 3-16edge.dat
 1 16 20 0 1.5 0 0 2 2 0 0 0 -1 0 1-4ring5.dat
-1 16 20 0 1.5 0 0 0.5 0.5 0 0 0 -1 0 1-4rin19.dat
+1 16 20 0 1.5 0 0 0.5 0.5 0 0 0 -1 0 1-4ring19.dat
 1 16 31.087 4.546 0.75 0 -1 0.009 0 0 -0.046 0.75 0 0 rect1.dat
 1 16 33.054 1.5 5.25 3.847 0 0 0 -1 0 0 0 3.75 rect.dat
 1 16 20 0 1.5 0 0 9.5 9.5 0 0 0 8.5 0 1-4edge.dat

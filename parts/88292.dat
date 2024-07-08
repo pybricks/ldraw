@@ -1,7 +1,7 @@
 0 Arch  1 x  3 x  2
 0 Name: 88292.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,7 +9,8 @@
 0 !KEYWORDS Ogee, Ogee arch
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 BFC INVERTNEXT
 1 16 0 14 32 6 0 0 0 -10 0 0 0 -18 box2-7.dat
@@ -31,7 +32,7 @@
 1 16 0 24 0 0 0 1 0 1 0 -1 0 0 stud.dat
 1 16 10 44 26.199 0 1 0 0 0 -21.6478 -16.1991 0 0 3-16edge.dat
 1 16 6 44 26.199 0 1 0 0 0 -21.6478 -16.1991 0 0 3-16edge.dat
-1 16 6 44 26.199 0 1 0 0 0 -4.32957 -3.23982 0 0 3-16rin5.dat
+1 16 6 44 26.199 0 1 0 0 0 -4.32957 -3.23982 0 0 3-16ring5.dat
 0 BFC INVERTNEXT
 1 16 6 44 26.199 0 4 0 0 0 -21.6478 -16.1991 0 0 3-16cyli.dat
 4 16 10 48 10 6 48 10 6 44 10 10 44 10
@@ -57,7 +58,7 @@
 1 16 6 32 16.828 0 1 0 0 0 -5.65685 -6.82843 0 0 1-8edge.dat
 1 16 -10 44 26.199 0 -1 0 0 0 -21.6478 -16.1991 0 0 3-16edge.dat
 1 16 -6 44 26.199 0 -1 0 0 0 -21.6478 -16.1991 0 0 3-16edge.dat
-1 16 -6 44 26.199 0 -1 0 0 0 -4.32957 -3.23982 0 0 3-16rin5.dat
+1 16 -6 44 26.199 0 -1 0 0 0 -4.32957 -3.23982 0 0 3-16ring5.dat
 0 BFC INVERTNEXT
 1 16 -6 44 26.199 0 -4 0 0 0 -21.6478 -16.1991 0 0 3-16cyli.dat
 4 16 -10 44 10 -6 44 10 -6 48 10 -10 48 10

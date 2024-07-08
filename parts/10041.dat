@@ -1,7 +1,7 @@
 0 ~Motor Pull Back  8 x  4 x  0.667 - Bottom
 0 Name: 10041.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,7 +9,8 @@
 0 !CATEGORY Vehicle
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 30 4 20 1 0 0 0 -1 0 0 0 1 stud3.dat
 1 16 -30 4 20 1 0 0 0 -1 0 0 0 1 stud3.dat
@@ -238,7 +239,7 @@
 1 16 32 -3 60 0 -1 0 0 0 5 -5 0 0 2-4edge.dat
 1 16 32 -3 60 0 -1 0 0 0 1 -1 0 0 2-4ring5.dat
 1 16 32 -3 60 0 -1 0 0 0 2 -2 0 0 2-4ring3.dat
-1 16 32 -3 60 0 -1 0 0 0 0.5 -0.5 0 0 2-4rin16.dat
+1 16 32 -3 60 0 -1 0 0 0 0.5 -0.5 0 0 2-4ring16.dat
 
 4 16 31.25 -3 68.5 31.25 0.25295 67.8531 31.25 4.8531 68.827 31.25 -3 68.827
 3 16 31.25 4.8531 68.827 31.25 0.25295 67.8531 31.25 3.0104 66.0104
@@ -263,7 +264,7 @@
 1 16 -32 -3 60 0 1 0 0 0 5 5 0 0 2-4edge.dat
 1 16 -32 -3 60 0 1 0 0 0 1 1 0 0 2-4ring5.dat
 1 16 -32 -3 60 0 1 0 0 0 2 2 0 0 2-4ring3.dat
-1 16 -32 -3 60 0 1 0 0 0 0.5 0.5 0 0 2-4rin16.dat
+1 16 -32 -3 60 0 1 0 0 0 0.5 0.5 0 0 2-4ring16.dat
 
 0 // Added lines/Condlines
 2 24 28.9 0 46.503 28.9 0 40

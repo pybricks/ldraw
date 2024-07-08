@@ -1,14 +1,15 @@
 0 ~Technic Steering Arm Large Common Geometry
 0 Name: s\6540s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2022-02
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-03-08 [Philo] Subparted from technog 6540b
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 BFC INVERTNEXT
 1 16 0 0 -2 0 0 18 18 0 0 0 10 0 4-4cylo.dat
@@ -83,7 +84,7 @@
 4 16 52 -2 0 46 -2 8 21.6 -2 8 21.6 -2 0
 1 16 0 0 -4 0 0 5 5 0 0 0 1 0 4-4ring4.dat
 1 16 0 0 0 0 0 3.125 3.125 0 0 0 -1 0 4-4ring7.dat
-1 16 0 0 12 0 0 2 2 0 0 0 -1 0 4-4rin10.dat
+1 16 0 0 12 0 0 2 2 0 0 0 -1 0 4-4ring10.dat
 1 16 0 0 8 0 0 2 2 0 0 0 -1 0 4-4ring9.dat
 0 BFC INVERTNEXT
 1 16 0 0 -4 0 0 2 2 0 0 0 2 0 4-4con9.dat

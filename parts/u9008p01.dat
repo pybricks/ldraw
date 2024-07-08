@@ -1,19 +1,20 @@
 0 Roadsign Round with Round Base with No Waiting Left Pattern
 0 Name: u9008p01.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2010-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9007s02.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9008s01.dat
 0 //
 1 4 0 -64 -2.6 3.48 0 0 0 0 -3.48 0 1 0 4-4ring4.dat
-1 4 0 -64 -2.6 0.6 0 0 0 0 -0.6 0 1 0 4-4rin29.dat
+1 4 0 -64 -2.6 0.6 0 0 0 0 -0.6 0 1 0 4-4ring29.dat
 4 4 -9.843 -73.843 -2.6 9.843 -54.157 -2.6 10.795 -55.581 -2.6 -8.419 -74.795 -2.6
 4 4 -10.795 -72.419 -2.6 8.419 -53.205 -2.6 9.843 -54.157 -2.6 -9.843 -73.843 -2.6
 0 //

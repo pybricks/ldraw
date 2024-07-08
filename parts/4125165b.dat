@@ -1,7 +1,7 @@
 0 Sticker  1.9 x  1.9 Round Tachometer
 0 Name: 4125165b.dat
 0 Author: Johann Eisner [technicbasics]
-0 !LDRAW_ORG Part UPDATE 2017-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,11 +9,12 @@
 0 !KEYWORDS Set 8448
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 0 0 19 0 -0.25 0 19 0 0 48\4-4cylc3.dat
-1 0 0 -.25 0 1 0 0 0 1 0 0 0 1 48\4-4rin18.dat
-1 0 0 -.25 0 1 0 0 0 1 0 0 0 1 48\4-4rin17.dat
+1 0 0 -.25 0 1 0 0 0 1 0 0 0 1 48\4-4ring18.dat
+1 0 0 -.25 0 1 0 0 0 1 0 0 0 1 48\4-4ring17.dat
 4 0 .72 -.25 16.484 -.72 -.25 16.484 -.567 -.25 12.988 .567 -.25 12.988
 4 0 4.962 -.25 15.736 3.571 -.25 16.109 3.247 -.25 14.644 4.511 -.25 14.306
 4 0 14.636 -.25 7.619 13.916 -.25 8.865 10.964 -.25 6.985 11.531 -.25 6.003

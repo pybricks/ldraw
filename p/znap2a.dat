@@ -1,0 +1,31 @@
+0 Znap Peghole Spacer - Half, One-Sided Flange
+0 Name: znap2a.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Primitive UPDATE 2024-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-02-12 [GeraldLasser] Derieved from znap2 and znap4
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
+
+1 16 0 -10 -10 1 0 0 0 8 0 0 0 1 npeghol7.dat
+1 16 0 10 -10 1 0 0 0 -8 0 0 0 1 npeghol7.dat
+
+0 BFC INVERTNEXT
+1 16 0 -10 -15 0 0 -6.3639 0 8 0 5 0 0 box3u8p.dat
+0 BFC INVERTNEXT
+1 16 0 10 -15 0 0 -6.3639 0 -8 0 5 0 0 box3u8p.dat
+
+1 16 0 -10 0 -9 0 0 0 1 0 0 0 -9 1-8ndis.dat
+4 16 -10 -10 -20 -9 -10 -9 -9 -10 0 -10 -10 -4.1421
+3 16 -10 -10 0 -10 -10 -4.1421 -9 -10 0
+4 16 -10 -10 -20 -6.3639 -10 -20 -6.3639 -10 -10 -9 -10 -9
+3 16 -9 -10 -9 -6.3639 -10 -10 -6.3639 -10 -8.4679
+3 16 -9 -10 -9 -6.3639 -10 -8.4679 -6.3639 -10 -6.3639
+1 16 0 10 0 -9 0 0 0 -1 0 0 0 -9 1-8ndis.dat
+4 16 -10 10 -20 -10 10 -4.1421 -9 10 0 -9 10 -9
+3 16 -10 10 -4.1421 -10 10 0 -9 10 0
+4 16 -6.3639 10 -10 -6.3639 10 -20 -10 10 -20 -9 10 -9
+3 16 -6.3639 10 -10 -9 10 -9 -6.3639 10 -8.4679
+3 16 -9 10 -9 -6.3639 10 -6.3639 -6.3639 10 -8.4679

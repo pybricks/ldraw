@@ -1,7 +1,7 @@
 0 Technic Projectile Launcher Six-Shooter Trigger
 0 Name: 18587.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Part UPDATE 2022-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,7 +9,8 @@
 0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2017-12-16 [Sirio] File preparation for LDraw Parts Tracker
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // Inner tube with axlehole
 0 // Primitives
@@ -74,10 +75,10 @@
 1 16 0 0 -20 2 0 0 0 0 -2 0 1 0 4-4ring3.dat
 1 16 0 0 -20 2 0 0 0 0 -2 0 1 0 4-4ring4.dat
 1 16 0 0 -20 -10.1627 0 4.20952 4.20952 0 10.1627 0 5 0 7-8cyli.dat
-1 16 0 0 -20 -0.92388 0 0.382683 0.382683 0 0.92388 0 1 0 3-8rin10.dat
-1 16 0 0 -20 .92388 0 .382683 .382683 0 -.92388 0 1 0 2-4rin10.dat
-1 16 0 0 -15 -0.707107 0 0.707107 0.707107 0 0.707107 0 1 0 1-4rin11.dat
-1 16 0 0 -15 0.707107 0 0.707107 0.707107 0 -0.707107 0 1 0 2-4rin11.dat
+1 16 0 0 -20 -0.92388 0 0.382683 0.382683 0 0.92388 0 1 0 3-8ring10.dat
+1 16 0 0 -20 .92388 0 .382683 .382683 0 -.92388 0 1 0 2-4ring10.dat
+1 16 0 0 -15 -0.707107 0 0.707107 0.707107 0 0.707107 0 1 0 1-4ring11.dat
+1 16 0 0 -15 0.707107 0 0.707107 0.707107 0 -0.707107 0 1 0 2-4ring11.dat
 1 16 0 0 -15 -1.41421 0 1.41421 1.41421 0 1.41421 0 1 0 1-4ring6.dat
 1 16 0 0 -15 1.41421 0 1.41421 1.41421 0 -1.41421 0 1 0 2-4ring6.dat
 1 16 0 0 -15 -0.765365 0 1.84775 1.84775 0 0.765365 0 1 0 2-4ring7.dat
@@ -222,8 +223,8 @@
 1 16 0 0 12.5 -8.5 0 0 0 0 8.5 0 5 0 1-4cyli.dat
 1 16 0 0 12.5 8.5 0 0 0 0 -8.5 0 5 0 1-4cyli.dat
 1 16 0 0 17.5 -1 0 0 0 0 1 0 1 0 1-4ring9.dat
-1 16 0 0 17.5 -0.5 0 0 0 0 0.5 0 1 0 1-4rin17.dat
-1 16 0 0 17.5 0.5 0 0 0 0 -0.5 0 1 0 1-4rin17.dat
+1 16 0 0 17.5 -0.5 0 0 0 0 0.5 0 1 0 1-4ring17.dat
+1 16 0 0 17.5 0.5 0 0 0 0 -0.5 0 1 0 1-4ring17.dat
 1 16 0 0 17.5 1 0 0 0 0 -1 0 1 0 1-4ring9.dat
 1 16 0 0 17.5 -10 0 0 0 0 10 0 2.5 0 1-4cyli.dat
 1 16 0 0 17.5 10 0 0 0 0 -10 0 2.5 0 1-4cyli.dat

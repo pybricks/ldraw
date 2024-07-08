@@ -1,20 +1,21 @@
 0 ~Turntable  4 x  4 Top
 0 Name: s\3404s04.dat
 0 Author: Max Martin Richter [MMR1988]
-0 !LDRAW_ORG Subpart UPDATE 2014-02
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 BFC INVERTNEXT
 1 16 0 3 0 37.8 0 0 0 9 0 0 0 37.8 48\4-4cylo.dat
 
 1 16 0 3 0 37.8 0 0 0 -1 0 0 0 37.8 48\4-4aring.dat
-1 16 0 3 0 1.8 0 0 0 -1 0 0 0 1.8 4-4rin20.dat
-1 16 0 3 0 3 0 0 0 -1 0 0 0 3 4-4rin11.dat
+1 16 0 3 0 1.8 0 0 0 -1 0 0 0 1.8 4-4ring20.dat
+1 16 0 3 0 3 0 0 0 -1 0 0 0 3 4-4ring11.dat
 1 16 0 3 0 8.25 0 0 0 -1 0 0 0 8.25 4-4ring3.dat
 1 16 0 3 0 24.75 0 0 0 1 0 0 0 24.75 4-4edge.dat
 
@@ -23,7 +24,7 @@
 1 16 0 3 0 -22.866 0 9.4714 0 5 0 -9.4714 0 -22.866 1-8cylo.dat
 1 16 0 3 0 -9.4714 0 -22.866 0 5 0 22.866 0 -9.4714 1-8cylo.dat
 
-1 16 0 8 0 0.75 0 0 0 -1 0 0 0 0.75 4-4rin32.dat
+1 16 0 8 0 0.75 0 0 0 -1 0 0 0 0.75 4-4ring32.dat
 1 16 0 8 0 3 0 0 0 -1 0 0 0 3 4-4ring7.dat
 
 0 BFC INVERTNEXT
@@ -35,7 +36,7 @@
 0 BFC INVERTNEXT
 1 16 0 3 0 -8.0364 0 -19.4015 0 5 0 19.4015 0 -8.0364 1-8cylo.dat
 
-1 16 0 3 0 1 0 0 0 -1 0 0 0 1 4-4rin20.dat
+1 16 0 3 0 1 0 0 0 -1 0 0 0 1 4-4ring20.dat
 1 16 0 3 0 5 0 0 0 -1 0 0 0 5 4-4ring3.dat
 
 1 16 0 3 0 15 0 0 0 9 0 0 0 15 4-4cylo.dat
@@ -50,13 +51,13 @@
 
 1 16 0 3 0 10 0 0 0 9 0 0 0 10 4-4cylo.dat
 
-1 16 0 12 0 0.625 0 0 0 -1 0 0 0 0.625 4-4rin15.dat
+1 16 0 12 0 0.625 0 0 0 -1 0 0 0 0.625 4-4ring15.dat
 1 16 0 12 0 3.125 0 0 0 -1 0 0 0 3.125 4-4ring2.dat
 
 0 BFC INVERTNEXT
 1 16 0 3 0 6.25 0 0 0 9 0 0 0 6.25 4-4cylo.dat
 
-1 16 0 3 0 0.25 0 0 0 -1 0 0 0 0.25 4-4rin24.dat
+1 16 0 3 0 0.25 0 0 0 -1 0 0 0 0.25 4-4ring24.dat
 1 16 0 3 0 2 0 0 0 -1 0 0 0 2 4-4ring2.dat
 
 0 BFC INVERTNEXT

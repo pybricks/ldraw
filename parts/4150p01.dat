@@ -1,7 +1,7 @@
 0 Tile  2 x  2 Round with Grille Pattern
 0 Name: 4150p01.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2005-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -11,7 +11,8 @@
 0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
 0 !HISTORY 2007-07-01 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4150s01.dat
 4 16 -11.25 0 13.75 -6.8886 0 16.6302 -5.8335 0 16.9 -5.8335 0 13.75
@@ -87,13 +88,13 @@
 3 16 17.5 0 2.9165 18 0 0 17.5 0 -2.9165
 4 0 16.9 0 -5.8335 13.75 0 -5.8335 13.75 0 -2.9165 17.5 0 -2.9165
 4 16 16.6302 0 -6.8886 13.75 0 -11.25 13.75 0 -5.8335 16.9 0 -5.8335
-1 0 0 0 0 1 0 0 0 1 0 0 0 1 1-4rin18.dat
-1 0 0 0 0 0 0 1 0 1 0 -1 0 0 1-4rin18.dat
-1 0 0 0 0 -1 0 0 0 1 0 0 0 -1 1-4rin18.dat
-1 0 0 0 0 0 0 -1 0 1 0 1 0 0 1-4rin18.dat
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 1-4rin19.dat
-1 16 0 0 0 0 0 1 0 1 0 -1 0 0 1-4rin19.dat
-1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 1-4rin19.dat
-1 16 0 0 0 0 0 -1 0 1 0 1 0 0 1-4rin19.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 1-4ring18.dat
+1 0 0 0 0 0 0 1 0 1 0 -1 0 0 1-4ring18.dat
+1 0 0 0 0 -1 0 0 0 1 0 0 0 -1 1-4ring18.dat
+1 0 0 0 0 0 0 -1 0 1 0 1 0 0 1-4ring18.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 1-4ring19.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 1-4ring19.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 1-4ring19.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 1-4ring19.dat
 0
 

@@ -1,0 +1,17 @@
+0 Duplo Car Base  2 x  6 with Wheels with Fake Bolts
+0 Name: 10715.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Shortcut UPDATE 2024-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Vehicle
+
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2312.dat
+1 16 -40 38 80 0 0 1 0 1 0 -1 0 0 2313b.dat
+1 16 -40 38 -80 0 0 1 0 1 0 -1 0 0 2313b.dat
+1 16 40 38 -80 0 0 -1 0 1 0 1 0 0 2313b.dat
+1 16 40 38 80 0 0 -1 0 1 0 1 0 0 2313b.dat

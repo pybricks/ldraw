@@ -1,14 +1,15 @@
 0 Baseplate 32 x 32 Road 9-Stud Driveway with White Lines Pattern
 0 Name: 4478p02.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-04-09 [mikeheide] Moved portions from subfile
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4478s01.dat
 4 16 -142 0 320 -316 0 320 -316 0 -320 -142 0 -320
@@ -25,10 +26,10 @@
 4 16 136 0 -320 316 0 -320 145 0 -295 136 0 -295
 4 16 316 0 320 276 0 320 276 0 -142 316 0 -111
 1 16 146 0 -295 -10 0 0 0 1 0 0 0 10 1-8disc.dat
-1 15 146 0 -295 -2 0 0 0 1 0 0 0 2 1-8rin10.dat
+1 15 146 0 -295 -2 0 0 0 1 0 0 0 2 1-8ring10.dat
 1 16 146 0 -295 -22 0 0 0 1 0 0 0 22 1-8ndis.dat
 1 15 146 0 -295 -10 0 0 0 1 0 0 0 10 1-8ring1.dat
-1 15 112 0 -52 2 0 0 0 1 0 0 0 -2 1-8rin10.dat
+1 15 112 0 -52 2 0 0 0 1 0 0 0 -2 1-8ring10.dat
 1 16 112 0 -52 22 0 0 0 1 0 0 0 -22 1-8ndis.dat
 1 15 112 0 -52 10 0 0 0 1 0 0 0 -10 1-8ring1.dat
 4 15 122 0 -52 134 0 -52 134 0 320 122 0 320
@@ -37,7 +38,7 @@
 3 16 254 0 -142 134 0 -142 261 0 -149
 4 16 122 0 -272 134 0 -142 134 0 -74 128 0 -67
 4 15 264 0 -142 276 0 -142 276 0 320 264 0 320
-1 15 254 0 -142 2 0 0 0 1 0 0 0 -2 1-8rin10.dat
+1 15 254 0 -142 2 0 0 0 1 0 0 0 -2 1-8ring10.dat
 1 15 254 0 -142 10 0 0 0 1 0 0 0 -10 1-8ring1.dat
 1 16 254 0 -142 10 0 0 0 1 0 0 0 -10 1-8disc.dat
 1 16 112 0 -52 10 0 0 0 1 0 0 0 -10 1-8disc.dat

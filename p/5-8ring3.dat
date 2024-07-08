@@ -1,13 +1,14 @@
 0 Ring  3 x 0.625
 0 Name: 5-8ring3.dat
-0 Author: Kevin Roach [KROACH]
-0 !LDRAW_ORG Primitive UPDATE 2014-02
-0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Primitive UPDATE 2024-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
+0 !HISTORY 2024-01-29 [Holly-Wood] Complete regeneration, original by KROACH
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 4 16 4 0 0 3.6956 0 1.5308 2.7717 0 1.1481 3 0 0
 4 16 3.6956 0 1.5308 2.8284 0 2.8284 2.1213 0 2.1213 2.7717 0 1.1481
@@ -19,4 +20,4 @@
 4 16 -3.6956 0 1.5308 -4 0 0 -3 0 0 -2.7717 0 1.1481
 4 16 -4 0 0 -3.6956 0 -1.5308 -2.7717 0 -1.1481 -3 0 0
 4 16 -3.6956 0 -1.5308 -2.8284 0 -2.8284 -2.1213 0 -2.1213 -2.7717 0 -1.1481
-0 // Build by Primitive Generator 2
+0 // Build by LDPartEditor (PrimGen 2.X)

@@ -1,18 +1,19 @@
 0 ~Train Wheel Large Central Axle and Pinhole
 0 Name: s\85489s01.dat
 0 Author: Donald Sutter [technog]
-0 !LDRAW_ORG Subpart UPDATE 2011-01
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 -0.001 -0.001 -10 1 0 0 0 0 -1 0 20 0 axlehol4.dat
 1 16 0 0 10 3 0 0 0 0 3 0 -1 0 2-4ring2.dat
-1 16 0 0 10 3 0 0 0 0 -3 0 -1 0 3-16rin2.dat
-1 16 0 0 10 -3 0 0 0 0 -3 0 -1 0 3-16rin2.dat
+1 16 0 0 10 3 0 0 0 0 -3 0 -1 0 3-16ring2.dat
+1 16 0 0 10 -3 0 0 0 0 -3 0 -1 0 3-16ring2.dat
 1 16 0 0 -10 3 0 0 0 0 3 0 1 0 4-4ring2.dat
 1 16 0 0 -10 3.444 0 8.315 -8.315 0 3.444 0 1 0 7-8cyli.dat
 1 16 0 0 0 -9 0 0 0 0 9 0 10 0 2-4cyli.dat

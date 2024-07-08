@@ -1,8 +1,8 @@
 0 Technic Peg Hole 0.5 / Axle Hole Negative with Top Surface Extension
 0 Name: npeghol5.dat
-0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Primitive UPDATE 2023-01
-0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LDRAW_ORG Primitive UPDATE 2024-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -14,7 +14,8 @@
 0 !HISTORY 2022-07-08 [SwampKryakwa] New primitive shape - corners of npegholes are now smoothed similar to the actual lego parts
 0 !HISTORY 2022-11-15 [Holly-Wood] Sanded part
 0 !HISTORY 2023-03-05 [OrionP] Official Update 2023-01
-
+0 !HISTORY 2024-02-29 [OrionP] Update author to Max Murtazin
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // for insert between cylinder and axlehol4.dat or axlehol5.dat
 

@@ -1,7 +1,7 @@
 0 Fabuland Merry-Go-Round Platform
 0 Name: 4874.dat
 0 Author: Chris Dee [cwdee]
-0 !LDRAW_ORG Part UPDATE 2014-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -10,7 +10,8 @@
 0 !KEYWORDS Roundabout
 
 0 !HISTORY 2014-12-23 [PTadmin] Official Update 2014-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 10 0 10 1 0 0 0 1 0 0 0 1 stud10.dat
 1 16 10 0 -10 1 0 0 0 1 0 0 0 -1 stud10.dat
@@ -35,9 +36,9 @@
 0 BFC INVERTNEXT
 1 16 0 52 0 45 0 0 0 4 0 0 0 45 4-4cyli.dat
 1 16 0 56 0 45 0 0 0 1 0 0 0 45 4-4edge.dat
-1 16 0 56 0 1 0 0 0 -1 0 0 0 1 4-4rin45.dat
-1 16 0 56 0 2 0 0 0 -1 0 0 0 2 4-4rin23.dat
-1 16 0 56 0 1 0 0 0 -1 0 0 0 1 4-4rin48.dat
+1 16 0 56 0 1 0 0 0 -1 0 0 0 1 4-4ring45.dat
+1 16 0 56 0 2 0 0 0 -1 0 0 0 2 4-4ring23.dat
+1 16 0 56 0 1 0 0 0 -1 0 0 0 1 4-4ring48.dat
 1 16 0 56 0 49 0 0 0 1 0 0 0 49 4-4edge.dat
 1 16 0 52 0 49 0 0 0 4 0 0 0 49 4-4cyli.dat
 1 16 0 52 0 49 0 0 0 1 0 0 0 49 4-4edge.dat

@@ -1,13 +1,14 @@
 0 ~Figure Duplo Arm Child Hand and Connector
 0 Name: s\47198s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2022-02
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 5 0 0 0 1 0 7.33333 0 0 0 0 -7.33333 5-8edge.dat
 1 16 5 0 0 0 1 0 7.33333 0 0 0 0 -7.33333 5-8disc.dat
@@ -30,7 +31,7 @@
 1 16 12 0 0 0 -7 0 7.33333 0 0 0 0 7.33333 4-4cyli.dat
 1 16 12 0 0 0 -1 0 7.33333 0 0 0 0 7.33333 4-4disc.dat
 1 16 12 0 0 0 -1 0 7.33333 0 0 0 0 7.33333 4-4edge.dat
-1 16 49 20 9 3.25 0 0 0 0 -3.25 0 -1 0 5-16rin2.dat
+1 16 49 20 9 3.25 0 0 0 0 -3.25 0 -1 0 5-16ring2.dat
 1 16 49 20 9 1.21875 0 0 0 0 -1.21875 0 -1 0 5-16ring8.dat
 1 16 49 20 7 -3.25 0 0 0 0 3.25 0 -1 0 1-8ring2.dat
 1 16 49 20 7 -1.21875 0 0 0 0 1.21875 0 -1 0 1-8ring8.dat
@@ -59,7 +60,7 @@
 5 24 42.5 20 7 39.25 20 7 39.992 23.7313 7 42.9947 17.5125 7.68
 5 24 44.8023 9.866 9 45.2687 10.992 9 41.244 12.244 8.34 49 10.25 9
 5 24 45.2687 10.992 9 41.244 12.244 8.34 44.4039 15.4039 8.34 44.8023 9.866 9
-1 16 49 20 -9 3.25 0 0 0 0 -3.25 0 1 0 5-16rin2.dat
+1 16 49 20 -9 3.25 0 0 0 0 -3.25 0 1 0 5-16ring2.dat
 1 16 49 20 -9 1.21875 0 0 0 0 -1.21875 0 1 0 5-16ring8.dat
 1 16 49 20 -7 -3.25 0 0 0 0 3.25 0 1 0 1-8ring2.dat
 1 16 49 20 -7 -1.21875 0 0 0 0 1.21875 0 1 0 1-8ring8.dat

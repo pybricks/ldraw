@@ -1,14 +1,14 @@
 0 Minifig Cannon  2 x  8 Non-Shooting
 0 Name: 518.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS artillery, Castle, cavalry, Imperials, man-o-war, Ninja, Pirate
-0 !KEYWORDS Pirates, wild west
+0 !KEYWORDS Castle, Imperials, Ninja, Pirate, Pirates, artillery, cavalry
+0 !KEYWORDS man-o-war, wild west
 
 0 !HISTORY 2001-11-23 [pneaster] corrected BFC use of primitive files.
 0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
@@ -17,7 +17,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2020-06-04 [Sirio] Reworked and inverted BFC
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // Main body
 0 // Primitives
@@ -27,7 +28,7 @@
 1 16 0 0 46 -16 0 0 0 0 16 0 16 0 4-8sphe.dat
 1 16 0 0 46 0 0 4 4 0 0 0 -112 0 4-4con3.dat
 1 16 0 0 -66 -12 0 0 0 0 12 0 1 0 4-4edge.dat
-1 16 0 0 -66 1 0 0 0 0 1 0 -1 0 4-4rin12.dat
+1 16 0 0 -66 1 0 0 0 0 1 0 -1 0 4-4ring12.dat
 1 16 0 0 -68 13 0 0 0 0 -13 0 13 0 t04o1538.dat
 1 16 0 0 -68 -13 0 0 0 0 -13 0 13 0 t04o1538.dat
 1 16 0 0 -68 -13 0 0 0 0 13 0 13 0 t04o1538.dat
@@ -36,7 +37,7 @@
 1 16 0 0 -68 -13 0 0 0 0 -13 0 -13 0 t04o1538.dat
 1 16 0 0 -68 -13 0 0 0 0 13 0 -13 0 t04o1538.dat
 1 16 0 0 -68 13 0 0 0 0 13 0 -13 0 t04o1538.dat
-1 16 0 0 -70 0 0 1 1 0 0 0 1 0 4-4rin12.dat
+1 16 0 0 -70 0 0 1 1 0 0 0 1 0 4-4ring12.dat
 1 16 0 0 -70 0 0 2 2 0 0 0 1 0 4-4ring5.dat
 1 16 0 0 -70 10 0 0 0 0 10 0 1 0 4-4edge.dat
 0 BFC INVERTNEXT

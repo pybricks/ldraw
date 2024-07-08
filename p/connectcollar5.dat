@@ -1,13 +1,14 @@
 0 Technic Pin Collar Half with Round Hole and Short Slit
 0 Name: connectcollar5.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Primitive UPDATE 2022-05
+0 !LDRAW_ORG Primitive UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 0 0 -4 0 1 0 4 0 0 3-16edge.dat
 0 BFC INVERTNEXT
@@ -32,7 +33,7 @@
 1 16 0 0 0 4.5962 0 -4.59619 0 2 0 4.59619 0 4.5962 1-4cylo.dat
 1 16 0 2 0 5.54328 0 -2.2961 0 5 0 2.2961 0 5.54328 3-8cyli.dat
 1 16 0 2 0 -5.54328 0 2.2961 0 1 0 2.2961 0 5.54328 3-8edge.dat
-1 16 0 2 0 0.35355 0 -0.35355 0 -1 0 0.35355 0 0.35355 1-4rin12.dat
+1 16 0 2 0 0.35355 0 -0.35355 0 -1 0 0.35355 0 0.35355 1-4ring12.dat
 2 24 5.801 0 1 5.5 0 2.9
 2 24 4.5962 0 4.5962 5.5 0 2.9
 4 16 5.5 2 2.9 5.5 0 2.9 5.801 0 1 5.8011 2 1.0001

@@ -1,13 +1,14 @@
 0 Train Speed Regulator  9V - Dial
 0 Name: 2870.dat
 0 Author: Max Martin Richter [MMR1988]
-0 !LDRAW_ORG Part UPDATE 2013-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2870s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2870s01.dat
@@ -28,12 +29,12 @@
 1 16 0 -41.25 -32 1.5 0 0 0 1 0 0 0 -1.5 2-4ndis.dat
 
 1 16 0 -34 0 87.5 0 0 0 -7.25 0 0 0 87.5 48\4-4cylo.dat
-1 16 0 -41.25 0 2.5 0 0 0 1 0 0 0 2.5 48\4-4rin34.dat
+1 16 0 -41.25 0 2.5 0 0 0 1 0 0 0 2.5 48\4-4ring34.dat
 
-1 16 0 -6.5 0 3.25 0 0 0 -1 0 0 0 3.25 48\4-4rin27.dat
+1 16 0 -6.5 0 3.25 0 0 0 -1 0 0 0 3.25 48\4-4ring27.dat
 0 BFC INVERTNEXT
 1 16 0 -6.5 0 87.75 0 0 0 -22.5 0 0 0 87.75 48\4-4cylo.dat
-1 16 0 -29 0 5.5 0 0 0 -1 0 0 0 5.5 48\4-4rin15.dat
+1 16 0 -29 0 5.5 0 0 0 -1 0 0 0 5.5 48\4-4ring15.dat
 1 16 0 -29 0 82.5 0 0 0 1 0 0 0 82.5 48\4-4edge.dat
 
 1 16 0 -36.5 0 8.75 0 0 0 41.875 0 0 0 8.75 4-4cylo.dat

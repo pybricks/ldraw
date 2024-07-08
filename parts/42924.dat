@@ -1,13 +1,14 @@
 0 Technic Pin Long with Friction Type 2
 0 Name: 42924.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2022-05
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-09-15 [PTadmin] Official Update 2022-05
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 30 0 0 0 -1 0 0 0 -1 1 0 0 connectcollar3.dat
 1 16 30 0 0 0 -1 0 0 0 1 1 0 0 connectcollar3.dat
@@ -35,17 +36,17 @@
 1 16 10 0 0 0 -1 0 0.70711 0 -0.70711 -0.70711 0 -0.70711 confricrib4.dat
 
 1 16 -12 0 0 0 4 0 0 0 8 8 0 0 3-16cylo.dat
-1 16 -12 0 0 0 1 0 0 0 2 2 0 0 3-16rin3.dat
+1 16 -12 0 0 0 1 0 0 0 2 2 0 0 3-16ring3.dat
 1 16 -12 0 0 0 4 0 0 0 8 -8 0 0 3-16cylo.dat
-1 16 -12 0 0 0 1 0 0 0 2 -2 0 0 3-16rin3.dat
+1 16 -12 0 0 0 1 0 0 0 2 -2 0 0 3-16ring3.dat
 1 16 -12 0 0 0 4 0 0 0 -8 8 0 0 3-16cylo.dat
-1 16 -12 0 0 0 1 0 0 0 -2 2 0 0 3-16rin3.dat
+1 16 -12 0 0 0 1 0 0 0 -2 2 0 0 3-16ring3.dat
 1 16 -12 0 0 0 4 0 0 0 -8 -8 0 0 3-16cylo.dat
-1 16 -12 0 0 0 1 0 0 0 -2 -2 0 0 3-16rin3.dat
-1 16 -8 0 0 0 -1 0 0 0 2 2 0 0 3-16rin3.dat
-1 16 -8 0 0 0 -1 0 0 0 2 -2 0 0 3-16rin3.dat
-1 16 -8 0 0 0 -1 0 0 0 -2 2 0 0 3-16rin3.dat
-1 16 -8 0 0 0 -1 0 0 0 -2 -2 0 0 3-16rin3.dat
+1 16 -12 0 0 0 1 0 0 0 -2 -2 0 0 3-16ring3.dat
+1 16 -8 0 0 0 -1 0 0 0 2 2 0 0 3-16ring3.dat
+1 16 -8 0 0 0 -1 0 0 0 2 -2 0 0 3-16ring3.dat
+1 16 -8 0 0 0 -1 0 0 0 -2 2 0 0 3-16ring3.dat
+1 16 -8 0 0 0 -1 0 0 0 -2 -2 0 0 3-16ring3.dat
 4 16 -12 5.5434 -2.2962 -12 5.5434 2.2962 -12 7.3912 3.0616 -12 7.3912 -3.0616
 1 16 -10 7.3912 0 0 0 2 0 -1 0 3.0616 0 0 rect.dat
 4 16 -12 -7.3912 3.0616 -12 -5.5434 2.2962 -12 -5.5434 -2.2962 -12 -7.3912 -3.0616

@@ -1,7 +1,7 @@
 0 ~Technic Suspension Arm Ball Socket
 0 Name: s\57515s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2023-05
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -12,6 +12,8 @@
 0 !HISTORY 2022-10-14 [Cheenzo] Removed unnecessary surfaces and added missing edges
 0 !HISTORY 2023-10-08 [MagFors] Closed thin gaps
 0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // Adapted from Don Sutter 32195
 1 16 0 .5 -7 0 0 4 6.5 0 0 0 1 0 rect.dat
@@ -140,8 +142,8 @@
 1 16 0 7 -20 -8 0 0 0 -1 0 0 0 8 2-4edge.dat
 4 16 -4 7 -7 -10 7 -5.412 10 7 -5.412 4 7 -7
 1 16 0 7 -20 2 0 0 0 -1 -.8 0 0 -2 2-4ring4.dat
-1 16 0 7 -20 0 0 2 0 -1 0 2 0 0 1-16rin4.dat
-1 16 0 7 -20 0 0 -2 0 -1 0 2 0 0 1-16rin4.dat
+1 16 0 7 -20 0 0 2 0 -1 0 2 0 0 1-16ring4.dat
+1 16 0 7 -20 0 0 -2 0 -1 0 2 0 0 1-16ring4.dat
 1 16 0 7 -20 -8 0 0 0 -1 0 0 0 8 3-16tndis.dat
 1 16 0 7 -20 8 0 0 0 -1 0 0 0 8 3-16tndis.dat
 3 16 6 7 -12.24 8 7 -12.6088 3.0616 7 -12.6088

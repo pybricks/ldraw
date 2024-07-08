@@ -1,13 +1,14 @@
 0 Brick  2 x  2 x  1.333 with Curved Corner Top
 0 Name: 67810.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 -10 12 -10 1 0 0 0 -1 0 0 0 1 1-4stud4.dat
 1 16 -3 14 -10 1 0 0 0 0 2 0 -1 0 recte3.dat
@@ -93,8 +94,8 @@
 1 16 -10 20 -10 -18.47759 0 7.65367 0 8 0 -7.65367 0 -18.47759 1-8cyli.dat
 1 16 -10 20 -10 -20 0 0 0 12 0 0 0 -20 1-16cyli.dat
 1 16 -10 20 -10 0 0 -20 0 12 0 -20 0 0 1-16cyli.dat
-1 16 -10 32 -10 -4 0 0 0 -1 0 0 0 -4 1-16rin4.dat
-1 16 -10 32 -10 0 0 -4 0 -1 0 -4 0 0 1-16rin4.dat
+1 16 -10 32 -10 -4 0 0 0 -1 0 0 0 -4 1-16ring4.dat
+1 16 -10 32 -10 0 0 -4 0 -1 0 -4 0 0 1-16ring4.dat
 1 16 -10 28 -10 -3.69552 0 1.53073 0 -1 0 -1.53073 0 -3.69552 1-8ring4.dat
 1 16 -10 32 -10 -20 0 0 0 1 0 0 0 -20 1-16edge.dat
 1 16 -10 32 -10 -16 0 0 0 1 0 0 0 -16 1-16edge.dat

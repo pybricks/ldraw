@@ -1,14 +1,15 @@
 0 Wheel  6 x 14 Spoked with Stub Axles
 0 Name: 50862.dat
 0 Author: Tim Gould [timgould]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-02-11 [Philo] Reworked spokes
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 BFC INVERTNEXT
 1 16 0 0 2 0 0 3.5 3.5 0 0 0 8 0 4-4cylc.dat
@@ -27,8 +28,8 @@
 0 BFC INVERTNEXT
 1 16 0 0 2.5 0 0 16 16 0 0 0 5 0 4-4cyli.dat
 1 16 0 0 -2.5 0 0 17 17 0 0 0 5 0 4-4cyli.dat
-1 16 0 0 -2.5 0 0 1 1 0 0 0 -1 0 4-4rin17.dat
-1 16 0 0 2.5 0 0 -1 1 0 0 0 1 0 4-4rin17.dat
+1 16 0 0 -2.5 0 0 1 1 0 0 0 -1 0 4-4ring17.dat
+1 16 0 0 2.5 0 0 -1 1 0 0 0 1 0 4-4ring17.dat
 1 16 0 0 -2.5 0 0 17 17 0 0 0 5 0 4-4edge.dat
 1 16 0 0 2.5 0 0 17 17 0 0 0 5 0 4-4edge.dat
 1 16 0 0 -2.5 0 0 18 18 0 0 0 5 0 4-4edge.dat

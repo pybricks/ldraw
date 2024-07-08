@@ -1,14 +1,20 @@
-0 ~Obsolete file
+0 Ring  1 x 0.4375
 0 Name: 7-16ring1.dat
-0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Primitive UPDATE 2024-01
+0 Author: Alex Taylor [anathema]
+0 !LDRAW_ORG Primitive UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
-0 !HISTORY 2021-01-04 [cwdee] Not needed as 7-16rin1 already exists
-0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
+0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+0 !HISTORY 2024-03-23 [OrionP] Moved from 7-16rin1.dat
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
-
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 empty.dat
+4 16 1 0 0 2 0 0 1.8478 0 0.7654 0.9239 0 0.3827
+4 16 0.9239 0 0.3827 1.8478 0 0.7654 1.4142 0 1.4142 0.7071 0 0.7071
+4 16 0.7071 0 0.7071 1.4142 0 1.4142 0.7654 0 1.8478 0.3827 0 0.9239
+4 16 0.3827 0 0.9239 0.7654 0 1.8478 0 0 2 0 0 1
+4 16 0 0 1 0 0 2 -0.7654 0 1.8478 -0.3827 0 0.9239
+4 16 -0.3827 0 0.9239 -0.7654 0 1.8478 -1.4142 0 1.4142 -0.7071 0 0.7071
+4 16 -0.7071 0 0.7071 -1.4142 0 1.4142 -1.8478 0 0.7654 -0.9239 0 0.3827
+0

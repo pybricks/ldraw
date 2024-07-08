@@ -1,20 +1,21 @@
 0 ~Tile  2 x  2 Corner Round without Top Surface
 0 Name: s\27925s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Subpart UPDATE 2020-02
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 BFC INVERTNEXT
 1 16 -10 0 10 20 0 0 0 7 0 0 0 -20 1-4cylo.dat
 0 BFC INVERTNEXT
 1 16 -8.8202 7 8.8202 19.53 0 -.20248 0 1 0 .20248 0 -19.53 1-4cylo.dat
 1 16 -8.8202 8 8.8202 19.53 0 -.20248 0 -1 0 .20248 0 -19.53 1-4tang.dat
-1 16 -10 7 10 1 0 0 0 -1 0 0 0 -1 1-4rin20.dat
+1 16 -10 7 10 1 0 0 0 -1 0 0 0 -1 1-4ring20.dat
 1 16 -10 0 10 40 0 0 0 7 0 0 0 -40 48\1-12cylo.dat
 1 16 -11.95 7 9 40.95 0 0 0 1 0 0 0 -38 48\1-12cylo.dat
 1 16 -11.95 8 9 40.95 0 0 0 -1 0 0 0 -38 48\1-12chrd.dat

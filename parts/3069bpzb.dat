@@ -1,7 +1,7 @@
 0 Tile  1 x  2 with Light Bluish Grey Buttons on Metallic Silver Background Pattern
 0 Name: 3069bpzb.dat
 0 Author: Damien Roux [Darats]
-0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,7 +9,8 @@
 0 !KEYWORDS Brickheadz, Carbonite, Han Solo, Keyboard, Set 41498
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
 1 71 -10 0 0 1.5 0 0 0 1 0 0 0 1.5 4-4ring1.dat
@@ -24,8 +25,8 @@
 1 80 -10 0 0 0.5 0 0 0 1 0 0 0 0.5 4-4ring8.dat
 1 80 -10 0 0 1.5 0 0 0 1 0 0 0 1.5 4-4disc.dat
 1 80 1.25 0 2.521 0.5 0 0 0 1 0 0 0 0.5 4-4ring2.dat
-1 80 15.8747 0 5.8742 0 0 0.5 0 1 0 -0.5 0 0 48\1-12rin2.dat
-1 80 15.8747 0 5.8742 -0.5 0 0 0 1 0 0 0 0.5 48\1-12rin2.dat
+1 80 15.8747 0 5.8742 0 0 0.5 0 1 0 -0.5 0 0 48\1-12ring2.dat
+1 80 15.8747 0 5.8742 -0.5 0 0 0 1 0 0 0 0.5 48\1-12ring2.dat
 1 80 15.8747 0 5.8742 1 0 0 0 1 0 0 0 -1 48\1-6ndis.dat
 1 80 15.8747 0 5.8742 1 0 0 0 1 0 0 0 1 48\1-4ndis.dat
 1 80 15.8747 0 5.8742 -0.5 0 0 0 1 0 0 0 -0.5 48\1-4ring2.dat

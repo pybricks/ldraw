@@ -1,13 +1,14 @@
 0 ~Wheel Fabuland Wheelbarrow
 0 Name: 4091.dat
 0 Author: Niels Karsdorp [nielsk]
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 0 1 0 0 0 6 6 0 0 4-4edge.dat
 1 16 1 0 0 0 1 0 0 0 6 6 0 0 4-4edge.dat
@@ -19,7 +20,7 @@
 1 16 0 0 0 0 1 0 0 0 6 6 0 0 4-4cyli.dat
 1 16 1 0 0 0 1 0 0 0 6 6 0 0 4-4ring1.dat
 1 16 1 0 0 0 1 0 0 0 12 12 0 0 4-4ring1.dat
-1 16 1 0 0 0 1 0 0 0 1 1 0 0 4-4rin24.dat
+1 16 1 0 0 0 1 0 0 0 1 1 0 0 4-4ring24.dat
 1 16 1 0 0 0 8 0 0 0 25 25 0 0 4-4cyli.dat
 1 16 9 0 0 0 -1 0 0 0 5 5 0 0 4-4ring4.dat
 0 BFC INVERTNEXT

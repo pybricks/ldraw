@@ -1,7 +1,7 @@
 0 Sticker  1.9 x  1.9 Round with Roadsign Black "30" and Red Circle
 0 Name: 003497e.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Part UPDATE 2023-06
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,10 +10,12 @@
 0 !KEYWORDS Rebrickable 03497, Set 1589-1, Speed limit, Town Square
 
 0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 19 0 0 0 -0.25 0 0 0 19 4-4cylc3.dat
 1 4 0 -.25 0 6 0 0 0 1 0 0 0 6 4-4ring2.dat
-1 4 0 -.25 0 1 0 0 0 1 0 0 0 1 4-4rin18.dat
+1 4 0 -.25 0 1 0 0 0 1 0 0 0 1 4-4ring18.dat
 1 15 0 -.25 0 12 0 0 0 1 0 0 0 12 4-4ering.dat
 4 0 -9.49 -.25 -3.45 -9.11 -.25 -4.46 -7.1 -.25 -3.1 -7.23 -.25 -2.19
 4 0 -6.73 -.25 -3.76 -9.11 -.25 -4.46 -8.48 -.25 -5.27 -7.62 -.25 -5.86

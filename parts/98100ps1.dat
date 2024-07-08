@@ -1,15 +1,16 @@
 0 Cone  2 x  2 Truncated with SW R5 Red Pattern
 0 Name: 98100ps1.dat
 0 Author: John Troxler [Gargan]
-0 !LDRAW_ORG Part UPDATE 2019-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS astromech, droid, minifig, R5-D8, red droid, Star Wars
+0 !KEYWORDS R5-D8, Star Wars, astromech, droid, minifig, red droid
 
 0 !HISTORY 2019-06-28 [PTadmin] Official Update 2019-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // Part without faces
 
@@ -366,8 +367,8 @@
 4 0 6.302 8.904 -16.308 6.487 9.737 -16.557 6.846 9.862 -16.529 6.741 9.058 -16.274
 1 80 0 11 -18.281 0 0 -.4 -.4 1 0 .138 0 .08 2-4ring2.dat
 1 80 0 11 -18.281 0 0 .4 -.4 1 0 .138 0 .08 2-4ring2.dat
-1 80 0 11 -18.281 0 0 -.1 -.1 1 0 .034 0 .02 2-4rin12.dat
-1 80 0 11 -18.281 0 0 .1 -.1 1 0 .034 0 .02 2-4rin12.dat
+1 80 0 11 -18.281 0 0 -.1 -.1 1 0 .034 0 .02 2-4ring12.dat
+1 80 0 11 -18.281 0 0 .1 -.1 1 0 .034 0 .02 2-4ring12.dat
 1 80 0 14.3 -19.416 0 0 -.6 -.6 1 0 .206 0 .119 2-4disc.dat
 1 80 0 14.3 -19.416 0 0 .6 -.6 1 0 .206 0 .119 2-4disc.dat
 3 80 6.735 11.943 -17.266 7.113 12.663 -17.439 6.984 12.033 -17.248

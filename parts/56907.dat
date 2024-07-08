@@ -1,7 +1,7 @@
 0 Tyre 35/ 42 x 56 Racing
 0 Name: 56907.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2013-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Fitting 44772 wheel:
@@ -12,7 +12,8 @@
 0 !KEYWORDS Technic
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 -38 70 0 0 0 0 -70 0 1 0 48\4-4edge.dat
 1 16 0 0 -33 70 0 0 0 0 -70 0 1 0 48\4-4edge.dat
@@ -23,7 +24,7 @@
 1 16 0 0 -33 65 0 0 0 0 -65 0 -5 0 48\4-4cyli.dat
 0 BFC INVERTNEXT
 1 16 0 0 38 65 0 0 0 0 -65 0 -5 0 48\4-4cyli.dat
-1 16 0 0 -38 5 0 0 0 0 -5 0 1 0 48\4-4rin13.dat
+1 16 0 0 -38 5 0 0 0 0 -5 0 1 0 48\4-4ring13.dat
 1 16 0 0 42 70 0 0 0 0 -70 0 1 0 48\4-4edge.dat
 1 16 0 0 44 72 0 0 0 0 -72 0 1 0 48\4-4edge.dat
 1 16 0 0 -44 72 0 0 0 0 -72 0 1 0 48\4-4edge.dat
@@ -39,16 +40,16 @@
 1 16 0 0 -27 102 0 0 0 0 -102 0 14 0 48\4-4cyli.dat
 1 16 0 0 -27 102 0 0 0 0 -102 0 14 0 48\4-4edge.dat
 1 16 0 0 -13 102 0 0 0 0 -102 0 14 0 48\4-4edge.dat
-1 16 0 0 -13 -2 0 0 0 0 -2 0 -1 0 48\4-4rin50.dat
-1 16 0 0 -7 2 0 0 0 0 -2 0 1 0 48\4-4rin50.dat
+1 16 0 0 -13 -2 0 0 0 0 -2 0 -1 0 48\4-4ring50.dat
+1 16 0 0 -7 2 0 0 0 0 -2 0 1 0 48\4-4ring50.dat
 1 16 0 0 13 100 0 0 0 0 -100 0 14 0 48\4-4edge.dat
 1 16 0 0 7 100 0 0 0 0 -100 0 14 0 48\4-4edge.dat
 1 16 0 0 7 100 0 0 0 0 -100 0 6 0 48\4-4cyli.dat
 1 16 0 0 -7 102 0 0 0 0 -102 0 14 0 48\4-4cyli.dat
 1 16 0 0 -7 102 0 0 0 0 -102 0 14 0 48\4-4edge.dat
 1 16 0 0 7 102 0 0 0 0 -102 0 14 0 48\4-4edge.dat
-1 16 0 0 7 -2 0 0 0 0 -2 0 -1 0 48\4-4rin50.dat
-1 16 0 0 13 2 0 0 0 0 -2 0 1 0 48\4-4rin50.dat
+1 16 0 0 7 -2 0 0 0 0 -2 0 -1 0 48\4-4ring50.dat
+1 16 0 0 13 2 0 0 0 0 -2 0 1 0 48\4-4ring50.dat
 1 16 0 0 13 102 0 0 0 0 -102 0 14 0 48\4-4cyli.dat
 1 16 0 0 13 102 0 0 0 0 -102 0 14 0 48\4-4edge.dat
 1 16 0 0 27 102 0 0 0 0 -102 0 14 0 48\4-4edge.dat
@@ -64,9 +65,9 @@
 1 16 0 0 -38 65 0 0 0 0 -65 0 1 0 48\4-4edge.dat
 0 BFC INVERTNEXT
 1 16 0 0 38 -70 0 0 0 0 -70 0 4 0 48\4-4cyli.dat
-1 16 0 0 38 -5 0 0 0 0 -5 0 -1 0 48\4-4rin13.dat
-1 16 0 0 33 5 0 0 0 0 -5 0 1 0 48\4-4rin13.dat
-1 16 0 0 -33 -5 0 0 0 0 -5 0 -1 0 48\4-4rin13.dat
+1 16 0 0 38 -5 0 0 0 0 -5 0 -1 0 48\4-4ring13.dat
+1 16 0 0 33 5 0 0 0 0 -5 0 1 0 48\4-4ring13.dat
+1 16 0 0 -33 -5 0 0 0 0 -5 0 -1 0 48\4-4ring13.dat
 0 BFC INVERTNEXT
 1 16 0 0 44 -2 0 0 0 0 -2 0 -2 0 48\4-4con35.dat
 0 BFC INVERTNEXT

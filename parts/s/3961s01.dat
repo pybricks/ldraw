@@ -1,7 +1,7 @@
 0 ~Dish  8 x  8 Inverted without Top Surface
 0 Name: s\3961s01.dat
 0 Author: Orion Pobursky [OrionP]
-0 !LDRAW_ORG Subpart UPDATE 2020-02
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -13,7 +13,8 @@
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 0 !HISTORY 2020-07-07 [ejboer] Moved studs to main file, added condlines, closed gaps, removed overlaps
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // Uncomment for top surface
 0 // 1 16 0 3 0 20 0 0 0 -3 0 0 0 20 48\4-4con1.dat
@@ -63,14 +64,14 @@
 0 BFC INVERTNEXT
 1 16 0 24 0 76.5 0 0 0 -4 0 0 0 76.5 48\4-4cyli.dat
 1 16 0 24 0 80 0 0 0 -8 0 0 0 80 48\4-4cyli.dat
-1 16 0 24 0 1.5 0 0 0 -1 0 0 0 1.5 48\1-4rin51.dat
-1 16 0 24 0 2 0 0 0 -1 0 0 0 2 48\1-4rin39.dat
-1 16 0 24 0 0 0 -1.5 0 -1 0 1.5 0 0 48\1-4rin51.dat
-1 16 0 24 0 0 0 -2 0 -1 0 2 0 0 48\1-4rin39.dat
-1 16 0 24 0 -1.5 0 0 0 -1 0 0 0 -1.5 48\1-4rin51.dat
-1 16 0 24 0 -2 0 0 0 -1 0 0 0 -2 48\1-4rin39.dat
-1 16 0 24 0 0 0 1.5 0 -1 0 -1.5 0 0 48\1-4rin51.dat
-1 16 0 24 0 0 0 2 0 -1 0 -2 0 0 48\1-4rin39.dat
+1 16 0 24 0 1.5 0 0 0 -1 0 0 0 1.5 48\1-4ring51.dat
+1 16 0 24 0 2 0 0 0 -1 0 0 0 2 48\1-4ring39.dat
+1 16 0 24 0 0 0 -1.5 0 -1 0 1.5 0 0 48\1-4ring51.dat
+1 16 0 24 0 0 0 -2 0 -1 0 2 0 0 48\1-4ring39.dat
+1 16 0 24 0 -1.5 0 0 0 -1 0 0 0 -1.5 48\1-4ring51.dat
+1 16 0 24 0 -2 0 0 0 -1 0 0 0 -2 48\1-4ring39.dat
+1 16 0 24 0 0 0 1.5 0 -1 0 -1.5 0 0 48\1-4ring51.dat
+1 16 0 24 0 0 0 2 0 -1 0 -2 0 0 48\1-4ring39.dat
 1 16 0 4 0 23 0 0 0 4 0 0 0 23 48\4-4cyli.dat
 0 BFC INVERTNEXT
 1 16 0 4.1765 0 1 0 0 0 -0.1765 0 0 0 1 48\4-4con23.dat

@@ -1,7 +1,7 @@
 0 Conveyor Belt Rubber Cleated
 0 Name: 634.dat
 0 Author: Arne Hackstein
-0 !LDRAW_ORG Part UPDATE 2015-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -13,7 +13,8 @@
 0 !HISTORY 2014-12-28 [cwdee] BFCed, more primitives, corrected cyli length
 0 !HISTORY 2015-01-04 [MagFors] Used box primitives
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 -15 0 0 0 -27.5 0 4 0 140 0 0 box3u10p.dat
 1 16 0 15 0 0 0 27.5 0 -4 0 140 0 0 box3u10p.dat
@@ -21,13 +22,13 @@
 1 16 27.5 0 140 0 -55 0 11 0 0 0 0 11 2-4cylo.dat
 0 BFC INVERTNEXT
 1 16 27.5 0 -140 0 -55 0 11 0 0 0 0 -11 2-4cylo.dat
-1 16 27.5 0 140 0 -1 0 1 0 0 0 0 1 2-4rin11.dat
+1 16 27.5 0 140 0 -1 0 1 0 0 0 0 1 2-4ring11.dat
 1 16 27.5 0 140 0 -1 0 3 0 0 0 0 3 2-4ring4.dat
-1 16 -27.5 0 140 0 1 0 1 0 0 0 0 1 2-4rin11.dat
+1 16 -27.5 0 140 0 1 0 1 0 0 0 0 1 2-4ring11.dat
 1 16 -27.5 0 140 0 1 0 3 0 0 0 0 3 2-4ring4.dat
-1 16 27.5 0 -140 0 -1 0 1 0 0 0 0 -1 2-4rin11.dat
+1 16 27.5 0 -140 0 -1 0 1 0 0 0 0 -1 2-4ring11.dat
 1 16 27.5 0 -140 0 -1 0 3 0 0 0 0 -3 2-4ring4.dat
-1 16 -27.5 0 -140 0 1 0 1 0 0 0 0 -1 2-4rin11.dat
+1 16 -27.5 0 -140 0 1 0 1 0 0 0 0 -1 2-4ring11.dat
 1 16 -27.5 0 -140 0 1 0 3 0 0 0 0 -3 2-4ring4.dat
 
 1 16 0 -15 -126.02 27.5 0 0 0 1 0 0 0 13.98 rect3.dat

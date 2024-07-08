@@ -1,13 +1,14 @@
 0 Baseplate 32 x 32 Road 9-Stud 3-Lane w/ Helicopter Pad Pattern
 0 Name: 6100p02.dat
 0 Author: Alex Taylor [anathema]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6100s02.dat
 4 16 -264 0 25 264 0 25 264 0 320 -264 0 320
@@ -20,12 +21,12 @@
 4 16 249 0 -85 264 0 -135 264 0 25 249 0 25
 4 16 29 0 -84 -91 0 -98 -124 0 -275 29 0 -275
 4 16 139 0 -195 29 0 -195 29 0 -275 124 0 -275
-1 15 139 0 -85 5 0 0 0 1 0 0 0 5 48\4-4rin20.dat
+1 15 139 0 -85 5 0 0 0 1 0 0 0 5 48\4-4ring20.dat
 1 16 139 0 -85 70.7107 0 -70.7107 0 1 0 70.7107 0 70.7107 48\1-4chrd.dat
 1 16 139 0 -85 -70.7107 0 70.7107 0 1 0 -70.7107 0 -70.7107 48\1-4chrd.dat
 1 16 139 0 -85 70.7107 0 70.7107 0 1 0 -70.7107 0 70.7107 48\1-4chrd.dat
 1 16 139 0 -85 -70.7107 0 -70.7107 0 1 0 70.7107 0 -70.7107 48\1-4chrd.dat
-1 15 139 0 -85 5 0 0 0 1 0 0 0 5 48\4-4rin21.dat
+1 15 139 0 -85 5 0 0 0 1 0 0 0 5 48\4-4ring21.dat
 1 16 139 0 -85 110 0 0 0 1 0 0 0 110 48\2-4ndis.dat
 1 16 139 0 -85 -110 0 0 0 1 0 0 0 -110 48\1-4ndis.dat
 3 16 153.355 0 -194.054 139 0 -195 124 0 -275

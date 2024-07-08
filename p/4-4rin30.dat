@@ -1,13 +1,14 @@
-0 Ring 30 x 1.0
+0 ~Ring 30 x 1.0 (Obsolete)
 0 Name: 4-4rin30.dat
 0 Author: Max Martin Richter [MMR1988]
-0 !LDRAW_ORG Primitive UPDATE 2013-01
+0 !LDRAW_ORG Primitive UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
+0 !HISTORY 2024-03-23 [OrionP] Obsolete, use 4-4ring30.dat
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 4 16 31 0 0 28.6409 0 11.8637 27.717 0 11.481 30 0 0
 4 16 28.6409 0 11.8637 21.9201 0 21.9201 21.213 0 21.213 27.717 0 11.481

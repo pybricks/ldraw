@@ -1,7 +1,7 @@
 0 ~Technic Pneumatic Cylinder  2 x  2 Piston with Large Knob Handle
 0 Name: 2799.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Part UPDATE 2018-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,7 +11,8 @@
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
 0 !HISTORY 2017-06-27 [Philo] Added gasket attachment
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // Created with stl2dat conversion tool
 
@@ -33,9 +34,9 @@
 1 16 0 104 0 9 0 0 0 1 0 0 0 9 4-4disc.dat
 1 16 0 12 0 -8 0 0 0 -1 0 0 0 -8 4-4ring1.dat
 1 16 0 12 0 -1.8478 0 0.7654 0 -1 0 -0.7654 0 -1.8478 3-8ring8.dat
-1 16 0 12 0 -0.9239 0 0.3827 0 -1 0 -0.3827 0 -0.9239 3-8rin18.dat
+1 16 0 12 0 -0.9239 0 0.3827 0 -1 0 -0.3827 0 -0.9239 3-8ring18.dat
 1 16 0 12 0 1.8478 0 -0.7654 0 -1 0 0.7654 0 1.8478 3-8ring8.dat
-1 16 0 12 0 0.9239 0 -0.3827 0 -1 0 0.3827 0 0.9239 3-8rin18.dat
+1 16 0 12 0 0.9239 0 -0.3827 0 -1 0 0.3827 0 0.9239 3-8ring18.dat
 4 16 18.03 12 -6 17.55 12 -7.271 14.782 12 -6.123 16 12 0
 4 16 16 12 0 14.782 12 6.123 17.55 12 7.271 18.03 12 6
 3 16 18.03 12 -6 16 12 0 18.03 12 6

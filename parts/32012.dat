@@ -1,7 +1,7 @@
 0 Technic Reel  2.5 x  2
 0 Name: 32012.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,7 +9,8 @@
 0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
 0 !HISTORY 2020-06-04 [Sirio] Updated the use of primitives: removed ringr.dat or ringrr.dat, fixed flat primitives scaled in wrong direction, introduced use of n-fcylo.dat, substituted some quads with rects
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 -20 0 0 0 1 0 -0.707107 0 0.707107 0.707107 0 0.707107 axlehol2.dat
 1 16 20 0 0 0 1 0 -0.707107 0 0.707107 0.707107 0 0.707107 axlehol2.dat
@@ -39,19 +40,19 @@
 1 16 19 0 0 0 1 0 0 0 25 25 0 0 4-4edge.dat
 1 16 17 0 0 0 1 0 0 0 20 20 0 0 4-4edge.dat
 1 16 -17 0 0 0 1 0 0 0 20 20 0 0 4-4edge.dat
-1 16 19 0 0 0 -1 0 0 0 2 2 0 0 4-4rin11.dat
-1 16 19 0 0 0 -1 0 0 0 1 1 0 0 4-4rin24.dat
+1 16 19 0 0 0 -1 0 0 0 2 2 0 0 4-4ring11.dat
+1 16 19 0 0 0 -1 0 0 0 1 1 0 0 4-4ring24.dat
 0 BFC INVERTNEXT
 1 16 19 0 0 0 -2 0 0 0 2 2 0 0 4-4con10.dat
 0 BFC INVERTNEXT
 1 16 -19 0 0 0 2 0 0 0 2 2 0 0 4-4con10.dat
-1 16 -19 0 0 0 1 0 0 0 1 1 0 0 4-4rin24.dat
-1 16 -19 0 0 0 1 0 0 0 2 2 0 0 4-4rin11.dat
+1 16 -19 0 0 0 1 0 0 0 1 1 0 0 4-4ring24.dat
+1 16 -19 0 0 0 1 0 0 0 2 2 0 0 4-4ring11.dat
 1 16 -15 0 0 0 1 0 0 0 10 10 0 0 4-4edge.dat
 1 16 -15 0 0 0 -1 0 0 0 10 10 0 0 4-4ring1.dat
 1 16 15 0 0 0 1 0 0 0 10 -10 0 0 4-4ring1.dat
-1 16 -15 0 0 0 -1 0 0 0 1 1 0 0 4-4rin20.dat
-1 16 15 0 0 0 1 0 0 0 1 1 0 0 4-4rin20.dat
+1 16 -15 0 0 0 -1 0 0 0 1 1 0 0 4-4ring20.dat
+1 16 15 0 0 0 1 0 0 0 1 1 0 0 4-4ring20.dat
 1 16 -15 0 0 0 8 0 0 0 10 10 0 0 4-4cyli.dat
 1 16 15 0 0 0 -8 0 0 0 10 10 0 0 4-4cyli.dat
 1 16 15 0 0 0 1 0 0 0 10 10 0 0 4-4edge.dat
@@ -126,9 +127,9 @@
 1 16 -1.5 0 0 0 1 0 0 0 10 10 0 0 2-4edge.dat
 1 16 -1.5 0 0 0 3 0 0 0 12.5 12.5 0 0 2-4cylo.dat
 1 16 1.5 0 0 0 -1 0 0 0 2 2 0 0 2-4ring5.dat
-1 16 1.5 0 0 0 -1 0 0 0 0.5 0.5 0 0 2-4rin24.dat
+1 16 1.5 0 0 0 -1 0 0 0 0.5 0.5 0 0 2-4ring24.dat
 1 16 -1.5 0 0 0 1 0 0 0 2 2 0 0 2-4ring5.dat
-1 16 -1.5 0 0 0 1 0 0 0 0.5 0.5 0 0 2-4rin24.dat
+1 16 -1.5 0 0 0 1 0 0 0 0.5 0.5 0 0 2-4ring24.dat
 2 24 -1.5 0 10 -1.5 -1 9.802
 3 16 -1.5 0 10 -1.5 -1 9.802 -1.5 0 12.5
 3 16 1.5 0 12.5 1.5 -1 9.802 1.5 0 10
@@ -143,8 +144,8 @@
 1 16 -1.5 0 0 0 1 0 -7.07107 0 -7.07107 -7.07107 0 7.07107 1-4edge.dat
 1 16 1.5 0 0 0 -1 0 -1.41421 0 -1.41421 -1.41421 0 1.41421 1-4ring5.dat
 1 16 -1.5 0 0 0 1 0 -1.41421 0 -1.41421 -1.41421 0 1.41421 1-4ring5.dat
-1 16 1.5 0 0 0 -1 0 -0.353553 0 -0.353553 -0.353553 0 0.353553 1-4rin24.dat
-1 16 -1.5 0 0 0 1 0 -0.353553 0 -0.353553 -0.353553 0 0.353553 1-4rin24.dat
+1 16 1.5 0 0 0 -1 0 -0.353553 0 -0.353553 -0.353553 0 0.353553 1-4ring24.dat
+1 16 -1.5 0 0 0 1 0 -0.353553 0 -0.353553 -0.353553 0 0.353553 1-4ring24.dat
 1 16 -1.5 0 0 0 3 0 -8.83883 0 -8.83883 -8.83883 0 8.83883 1-4cylo.dat
 1 16 0 -7.954 7.954 -1.5 0 0 0 -1 -.884 0 0 .884 rect3.dat
 1 16 0 -7.954 -7.954 1.5 0 0 0 -1 -.884 0 0 -.884 rect3.dat

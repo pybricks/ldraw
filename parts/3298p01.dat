@@ -1,17 +1,18 @@
 0 Slope Brick 33  3 x  2 with White "1" Outlined Pattern
 0 Name: 3298p01.dat
 0 Author: J.C. Tchang [tchang]
-0 !LDRAW_ORG Part UPDATE 2011-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3298s01.dat
 0 //
-1 16 -5.5 2.683 -15.367 0 0 0.5 0.2236 0.4472 0 -0.4472 0.2236 0 1-4rin10.dat
+1 16 -5.5 2.683 -15.367 0 0 0.5 0.2236 0.4472 0 -0.4472 0.2236 0 1-4ring10.dat
 4 16 -5.5 5.143 -20.286 -5.5 4.919 -19.839 -8.8 4.919 -19.839 -8.3 5.143 -20.286
 4 16 -8.3 5.143 -20.286 -8.8 4.919 -19.839 -8.8 6.887 -23.774 -8.3 6.663 -23.327
 4 16 -8.3 6.663 -23.327 -8.8 6.887 -23.774 -1.5 6.887 -23.774 -1 6.663 -23.327

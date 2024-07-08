@@ -1,7 +1,7 @@
 0 Duplo Cone  2 x  2 x  1.5
 0 Name: 4378b.dat
 0 Author: Tim Lampmann [L4mpi]
-0 !LDRAW_ORG Part UPDATE 2022-03
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,15 +9,16 @@
 0 !CATEGORY Cone
 
 0 !HISTORY 2022-05-07 [PTadmin] Official Update 2022-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 BFC INVERTNEXT
 1 16 0 56.875 0 40.5 0 0 0 15.125 0 0 0 40.5 48\4-4cylo.dat
 1 16 0 56.007 0 44.5 0 0 0 15.993 0 0 0 44.5 48\4-4cylo.dat
 1 16 0 72 0 0.5 0 0 0 -1 0 0 0 0.5 48\4-4ring81.dat
 1 16 0 72 0 0.5 0 0 0 -1 0 0 0 0.5 48\4-4ring88.dat
-1 16 0 72 0 1 0 0 0 -1 0 0 0 1 48\4-4rin41.dat
-1 16 0 72 0 2 0 0 0 -1 0 0 0 2 48\4-4rin21.dat
+1 16 0 72 0 1 0 0 0 -1 0 0 0 1 48\4-4ring41.dat
+1 16 0 72 0 2 0 0 0 -1 0 0 0 2 48\4-4ring21.dat
 
 1 16 0 -11 0 2 0 0 0 1 0 0 0 2 4-4ring6.dat
 1 16 0 -11 0 14 0 0 0 11 0 0 0 14 4-4cylo.dat

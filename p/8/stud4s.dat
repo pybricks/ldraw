@@ -1,8 +1,8 @@
 0 Stud Tube Open Sloped (Fast-Draw)
 0 Name: 8\stud4s.dat
-0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG 8_Primitive UPDATE 2016-01
-0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG 8_Primitive UPDATE 2024-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP For use between a stud4a and a sloped surface. It is enough
 0 !HELP to know coordinates Y of the centre and that of the outside
@@ -17,7 +17,8 @@
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
 0 !HISTORY 2016-01-04 [Philo] Used 8/primitives
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
+0 !HISTORY 2024-03-09 [Philo] Taken authorship after complete re-write, original by guyvivan
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 8 0 0 0 -1 0 0 0 8 8\4-4cyls.dat
 0 BFC INVERTNEXT

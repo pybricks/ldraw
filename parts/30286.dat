@@ -1,7 +1,7 @@
 0 Rock Arctic Globe, Top
 0 Name: 30286.dat
 0 Author: Stan Isachenko [angmarec]
-0 !LDRAW_ORG Part UPDATE 2014-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,7 +11,8 @@
 0 !HISTORY 2012-11-05 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2014-01-08 [angmarec] File preparation for LDraw Parts Tracker
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 -40 0.046 0 0 -1 0 1 0 1 0 0 stug-2x2.dat
 1 16 0 -36 0.046 1 0 0 0 -1 0 0 0 -1 stud4a.dat
@@ -27,7 +28,7 @@
 1 16 0 0 0.046 1 0 0 0 5.359 0 0 0 -1 s\86500s01.dat
 1 16 0 0 0.046 0 0 -1 0 5.359 0 1 0 0 s\86500s01.dat
 1 16 0 0 0.046 0 0 -1 0 5.359 0 -1 0 0 s\86500s01.dat
-1 16 0 -5.359 0.046 1 0 0 0 -5.25 0 0 0 1 4-4rin36.dat
+1 16 0 -5.359 0.046 1 0 0 0 -5.25 0 0 0 1 4-4ring36.dat
 
 4 16 -39.657 -5.359 5.221 -34.184 -5.359 14.206 -37 -5.359 0.046 -39.657 -5.359 -5.221
 4 16 -39.657 -5.359 -5.221 -37 -5.359 0.046 -34.184 -5.359 -14.114 -36.955 -5.359 -15.307

@@ -1,13 +1,14 @@
 0 Technic Steering Wheel Bearing with Planetary Gear Reduction Wheel Hub
 0 Name: 46434.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 -20 -10 8 0 0 0 0 8 0 5 0 4-4cyli.dat
 1 16 0 -20 -5 8 0 0 0 0 8 0 1 0 4-4edge.dat
@@ -102,4 +103,4 @@
 4 16 -19.799 19.799 -5 -10 10 -5 -10 -10 -5 -19.7988 -19.7988 -5
 1 16 0 0 0 28 0 0 0 0 28 0 -5 0 48\4-4cylo.dat
 1 16 0 0 5 30 0 0 0 0 30 0 -5 0 48\4-4cylc.dat
-1 16 0 0 0 2 0 0 0 0 2 0 1 0 48\4-4rin14.dat
+1 16 0 0 0 2 0 0 0 0 2 0 1 0 48\4-4ring14.dat

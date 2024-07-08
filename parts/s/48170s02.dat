@@ -1,13 +1,14 @@
 0 ~Rotation Joint Ball Half
 0 Name: s\48170s02.dat
 0 Author: Guy Vivan [guyvivan]
-0 !LDRAW_ORG Subpart UPDATE 2010-02
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 -10 0 0 0 1 0 1 0 -1 0 0 peghole.dat
 1 16 0 -10 0 9 0 0 0 1 0 0 0 9 4-4edge.dat
@@ -260,8 +261,8 @@
 4 16 -3.636 2 8.777 -2.329 2 8.693 -2.329 10 8.693 -3.636 10 8.777
 4 16 -1.24 10 9.418 -2.329 10 8.693 -2.329 2 8.693 -1.24 2 9.418
 4 16 -1.24 2 9.418 0 2 9 0 10 9 -1.24 10 9.418
-1 16 0 5 0 -0.382683 0 -0.92388 0 -1 0 0.92388 0 -0.382683 7-8rin15.dat
-1 16 0 5 0 -0.374104 0 -0.903166 0 -1 0 0.903166 0 -0.374104 7-8rin16.dat
+1 16 0 5 0 -0.382683 0 -0.92388 0 -1 0 0.92388 0 -0.382683 7-8ring15.dat
+1 16 0 5 0 -0.374104 0 -0.903166 0 -1 0 0.903166 0 -0.374104 7-8ring16.dat
 1 16 0 5 0 -15.354 0 -6.35982 0 1 0 6.35982 0 -15.354 5-8edge.dat
 1 16 0 5 0 -10.6066 0 -10.6066 0 1 0 10.6066 0 -10.6066 3-4edge.dat
 2 24 4.593 2 11.087 3.636 2 8.777

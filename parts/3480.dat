@@ -1,7 +1,7 @@
 0 Propeller  2 Blade  4 Diameter Helicopter Tail
 0 Name: 3480.dat
 0 Author: Christian M. Angele [cma_1971]
-0 !LDRAW_ORG Part UPDATE 2022-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -17,7 +17,8 @@
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
 0 !HISTORY 2021-03-17 [cwdee] Update description
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 BFC INVERTNEXT
 1 16 36 -8 0 0 4 0 8 0 0 0 0 8 4-4cylo.dat
@@ -30,8 +31,8 @@
 1 16 36 -8 0 0 16 0 10 0 0 0 0 10 4-4cylo.dat
 1 16 36 -8 0 0 1 0 2 0 0 0 0 2 4-4ring4.dat
 1 16 52 -8 0 0 -1 0 2 0 0 0 0 2 4-4ring4.dat
-1 16 40 -8 0 0 1 0 0.5 0 0 0 0 0.5 4-4rin15.dat
-1 16 48 -8 0 0 -1 0 0.5 0 0 0 0 0.5 4-4rin15.dat
+1 16 40 -8 0 0 1 0 0.5 0 0 0 0 0.5 4-4ring15.dat
+1 16 48 -8 0 0 -1 0 0.5 0 0 0 0 0.5 4-4ring15.dat
 1 16 48.74 -9 32 3 -3.48 0 5.22 2 0 0 0 6 2-4cylc.dat
 1 16 45.26 -7 32 3 0 0 5.22 -1 0 0 0 6 2-4disc.dat
 2 24 42.26 -12.22 32 42.26 -12.22 8.9764

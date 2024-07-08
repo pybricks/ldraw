@@ -1,13 +1,14 @@
 0 Window  1 x  2 x  2.667 Shutter with Rounded Top
 0 Name: 94161.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Part UPDATE 2018-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // Frame
 
@@ -46,8 +47,8 @@
 1 16 0 -4 2 16 0 0 0 0 -16 0 -4 0 2-4cyli.dat
 1 16 0 -4 -2 13 0 0 0 0 -13 0 1 0 2-4edge.dat
 1 16 0 -4 2 13 0 0 0 0 -13 0 1 0 2-4edge.dat
-1 16 0 -4 -2 1 0 0 0 0 -1 0 1 0 2-4rin13.dat
-1 16 0 -4 2 -1 0 0 0 0 -1 0 -1 0 2-4rin13.dat
+1 16 0 -4 -2 1 0 0 0 0 -1 0 1 0 2-4ring13.dat
+1 16 0 -4 2 -1 0 0 0 0 -1 0 -1 0 2-4ring13.dat
 1 16 0 -4 2 -2 0 0 0 0 -2 0 -1 0 2-4ring7.dat
 1 16 0 -4 -2 2 0 0 0 0 -2 0 1 0 2-4ring7.dat
 0 BFC INVERTNEXT

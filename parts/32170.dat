@@ -1,7 +1,7 @@
 0 Technic Gear Rack Double with Ball Joint
 0 Name: 32170.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2010-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -9,7 +9,8 @@
 0 !KEYWORDS Slizer, Throwbot
 
 0 !HISTORY 2010-04-05 [PTadmin] Official Update 2010-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 -10 82 1 0 0 0 1 0 0 0 1 s\32170s01.dat
 2 24 7.279 -4 8.112 7.279 4 8.112
@@ -300,10 +301,10 @@
 1 16 0 10 0 7.99999 0 0 0 -1 0 0 0 -7.99999 2-4edge.dat
 1 16 0 -10 0 7.99999 0 0 0 20 0 0 0 -7.99999 2-4cyli.dat
 0
-1 16 0 4 0 0.707107 0 0.707107 0 -1 0 0.707107 0 -0.707107 3-4rin10.dat
+1 16 0 4 0 0.707107 0 0.707107 0 -1 0 0.707107 0 -0.707107 3-4ring10.dat
 1 16 0 4 0 1.41421 0 1.41421 0 -1 0 1.41421 0 -1.41421 3-4ring4.dat
 1 16 0 4 0 7.77817 0 7.77817 0 -1 0 7.77817 0 -7.77817 3-4edge.dat
-1 16 0 -4 0 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 3-4rin10.dat
+1 16 0 -4 0 -0.707107 0 -0.707107 0 1 0 0.707107 0 -0.707107 3-4ring10.dat
 1 16 0 -4 0 -1.41421 0 -1.41421 0 1 0 1.41421 0 -1.41421 3-4ring4.dat
 1 16 0 -4 0 7.77817 0 7.77817 0 -1 0 7.77817 0 -7.77817 3-4edge.dat
 1 16 0 -4 0 7.77817 0 7.77817 0 8 0 7.77817 0 -7.77817 3-4cyli.dat

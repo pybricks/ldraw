@@ -1,7 +1,7 @@
 0 Minifig Bicycle Frame
 0 Name: 4719.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
-0 !LDRAW_ORG Part UPDATE 2016-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP rear wheel at 0 30 0
@@ -22,7 +22,8 @@
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2016-10-26 [Philo] Plugged holes, removed bleed-through, added missing lines/condlines
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 2 24 4 4 10 4 4 -4
 2 24 4 4 -4 4 4.9 -7
@@ -109,7 +110,7 @@
 1 16 7 30 0 0 1 0 0.84492 0 -3.90975 -3.90975 0 -0.84492 3-16cyli.dat
 0 BFC INVERTNEXT
 1 16 4 30 0 0 4 0 -1.6444 0 -1.1384 -1.1384 0 1.6444 4-4cylo.dat
-1 16 4 30 0 0 1 0 -1.1384 0 1.6444 1.6444 0 1.1384 3-16rin1.dat
+1 16 4 30 0 0 1 0 -1.1384 0 1.6444 1.6444 0 1.1384 3-16ring1.dat
 1 16 4 30 0 0 1 0 1.08358 0 1.68103 1.68103 0 -1.08358 1-8ring1.dat
 1 16 8 30 0 0 -1 0 -1.6444 0 -1.1384 -1.1384 0 1.6444 4-4ring1.dat
 1 16 8 40 -46 0 -6 0 -2.2768 0 3.2888 3.2888 0 2.2768 13-16cyli.dat
@@ -312,7 +313,7 @@
 1 16 -7 30 0 0 -1 0 0.84492 0 -3.90975 -3.90975 0 -0.84492 3-16cyli.dat
 0 BFC INVERTNEXT
 1 16 -4 30 0 0 -4 0 -1.6444 0 -1.1384 -1.1384 0 1.6444 4-4cylo.dat
-1 16 -4 30 0 0 -1 0 -1.1384 0 1.6444 1.6444 0 1.1384 3-16rin1.dat
+1 16 -4 30 0 0 -1 0 -1.1384 0 1.6444 1.6444 0 1.1384 3-16ring1.dat
 1 16 -4 30 0 0 -1 0 1.08358 0 1.68103 1.68103 0 -1.08358 1-8ring1.dat
 1 16 -8 30 0 0 1 0 -1.6444 0 -1.1384 -1.1384 0 1.6444 4-4ring1.dat
 1 16 -8 40 -46 0 6 0 -2.2768 0 3.2888 3.2888 0 2.2768 13-16cyli.dat

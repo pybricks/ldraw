@@ -1,7 +1,7 @@
 0 ~Technic Excavator Bucket 19 x 12 Half
 0 Name: s\46891s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2023-06
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,6 +9,8 @@
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
 0 !HISTORY 2023-07-25 [MagFors] Adapted to rounded npeg corners
 0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 180 0 0 0 -1 0 -1 0 0 0 0 -1 connhol3.dat
 1 16 183 100.1 -10.6 0 -1 0 3.69552 0 -1.53073 1.53073 0 3.69552 2-4chrd.dat
@@ -482,7 +484,7 @@
 2 24 172 -28.3151 116.5557 170 -29 120
 1 16 172 -20 120 0 1 0 0 0 6 -6 0 0 1-4ndis.dat
 1 16 172 -20 120 0 1 0 0 0 -9 -9 0 0 3-16edge.dat
-1 16 172 -20 120 0 1 0 0 0 -3 -3 0 0 3-16rin2.dat
+1 16 172 -20 120 0 1 0 0 0 -3 -3 0 0 3-16ring2.dat
 4 16 172 -25.5434 117.7038 172 -28.3151 116.5557 172 -28 120 172 -26 120
 4 16 172 -12 111 172 -14 114 172 -14 120 172 -12 120
 4 16 172 -14 114 172 -12 111 172 -20 111 172 -20 114
@@ -573,7 +575,7 @@
 2 24 172 -8.3151 -3.4443 170 -8 0
 2 24 172 -8.3151 -3.4443 170 -9 0
 1 16 172 0 0 0 1 0 0 0 -9 -9 0 0 3-16edge.dat
-1 16 172 0 0 0 1 0 0 0 -3 -3 0 0 3-16rin2.dat
+1 16 172 0 0 0 1 0 0 0 -3 -3 0 0 3-16ring2.dat
 2 24 182 0 -9 182 40 -9
 4 16 172 -8.3151 -3.4443 172 -8 0 172 -6 0 172 -5.5434 -2.2962
 0 BFC INVERTNEXT
@@ -592,7 +594,7 @@
 2 24 172 48.3151 -3.4443 170 48 0
 2 24 172 48.3151 -3.4443 170 49 0
 1 16 172 40 0 0 1 0 0 0 9 -9 0 0 3-16edge.dat
-1 16 172 40 0 0 1 0 0 0 3 -3 0 0 3-16rin2.dat
+1 16 172 40 0 0 1 0 0 0 3 -3 0 0 3-16ring2.dat
 4 16 172 46 0 172 48 0 172 48.3151 -3.4443 172 45.5434 -2.2962
 0 BFC INVERTNEXT
 1 16 172 40 0 0 -2 0 -8 0 0 0 0 8 2-4cylo.dat

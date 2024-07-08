@@ -1,7 +1,7 @@
 0 Container  3 x  3 x  1 Salt and Pepper Shaker Bottom (Needs Work)
 0 Name: 3018.dat
 0 Author: Tore Eriksson [Tore_Eriksson]
-0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,7 +9,8 @@
 0 !KEYWORDS set 852214
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // Needs Work: 4 overlaps on top of "stud"
 0 // Needs Work: Missing opening directions inside bottom
@@ -244,11 +245,11 @@
 1 16 0 -12 0 0 0 26 0 12 0 -26 0 0 48\1-8cylo.dat
 1 16 0 -12 0 -26 0 0 0 12 0 0 0 -26 48\1-8cylo.dat
 1 16 0 -12 0 0 0 -26 0 12 0 26 0 0 48\1-8cylo.dat
-1 16 0 -12 0 1 0 0 0 1 0 0 0 1 48\1-4rin23.dat
-1 16 0 -12 0 0 0 1 0 1 0 -1 0 0 48\1-4rin23.dat
-1 16 0 -12 0 -1 0 0 0 1 0 0 0 -1 48\1-4rin23.dat
-1 16 0 -12 0 0 0 -1 0 1 0 1 0 0 48\1-4rin23.dat
-1 16 0 -12 0 2 0 0 0 1 0 0 0 2 48\4-4rin12.dat
+1 16 0 -12 0 1 0 0 0 1 0 0 0 1 48\1-4ring23.dat
+1 16 0 -12 0 0 0 1 0 1 0 -1 0 0 48\1-4ring23.dat
+1 16 0 -12 0 -1 0 0 0 1 0 0 0 -1 48\1-4ring23.dat
+1 16 0 -12 0 0 0 -1 0 1 0 1 0 0 48\1-4ring23.dat
+1 16 0 -12 0 2 0 0 0 1 0 0 0 2 48\4-4ring12.dat
 2 24 0 0 26 16 0 26
 2 24 16 0 26 16 0 20.494
 2 24 16 0 20.494 18.382 0 18.382
@@ -258,7 +259,7 @@
 2 24 16 -12 26 16 -12 20.494
 2 24 16 -12 20.494 18.382 -12 18.382
 
-0 // overlaps 48\4-4rin12.dat
+0 // overlaps 48\4-4ring12.dat
 3 16 0 -12 26 16 -12 20.494 16 -12 26
 0 // end of overlap
 
@@ -275,7 +276,7 @@
 2 24 26 -12 -16 20.494 -12 -16
 2 24 20.494 -12 -16 18.382 -12 -18.382
 
-0 // overlaps 48\4-4rin12.dat
+0 // overlaps 48\4-4ring12.dat
 3 16 26 -12 0 20.494 -12 -16 26 -12 -16
 0 // end of overlap
 
@@ -292,7 +293,7 @@
 2 24 -16 -12 -26 -16 -12 -20.494
 2 24 -16 -12 -20.494 -18.382 -12 -18.382
 
-0 // overlaps 48\4-4rin12.dat
+0 // overlaps 48\4-4ring12.dat
 3 16 0 -12 -26 -16 -12 -20.494 -16 -12 -26
 0 // end of overlap
 
@@ -309,7 +310,7 @@
 2 24 -26 -12 16 -20.494 -12 16
 2 24 -20.494 -12 16 -18.382 -12 18.382
 
-0 // overlaps 48\4-4rin12.dat
+0 // overlaps 48\4-4ring12.dat
 3 16 -26 -12 0 -20.494 -12 16 -26 -12 16
 0 // end of overlap
 

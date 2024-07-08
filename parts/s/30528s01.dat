@@ -1,13 +1,14 @@
 0 ~Arch  1 x  8 x  6 - Quarter Arch
 0 Name: s\30528s01.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Subpart UPDATE 2022-01
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // Primitives
 
@@ -19,12 +20,12 @@
 1 16 40 10 10 0 0 -10 10 0 0 0 -8 0 5-16cylo.dat
 1 16 40 10 10 0 0 10 10 0 0 0 -8 0 1-8cylo.dat
 1 16 40 10 2 0 0 10 10 0 0 0 -1 0 1-8ndis.dat
-1 16 40 10 2 0 0 -2 2 0 0 0 -1 0 3-16rin5.dat
+1 16 40 10 2 0 0 -2 2 0 0 0 -1 0 3-16ring5.dat
 1 16 40 10 2 -10 0 0 0 0 10 0 1 0 1-4edge.dat
 0 BFC INVERTNEXT
 1 16 40 10 10 0 0 -12 12 0 0 0 -8 0 3-16cylo.dat
-1 16 40 10 10 0 0 -4 4 0 0 0 -1 0 3-16rin3.dat
-1 16 60 106 10 -1 0 0 0 0 -1 0 -1 0 3-16rin9.dat
+1 16 40 10 10 0 0 -4 4 0 0 0 -1 0 3-16ring3.dat
+1 16 60 106 10 -1 0 0 0 0 -1 0 -1 0 3-16ring9.dat
 1 16 60 106 10 -1 0 0 0 0 1 0 -1 0 1-8ring9.dat
 1 16 60 106 10 0 0 1 1 0 0 0 -1 0 1-4ring9.dat
 1 16 60 106 10 10 0 0 0 0 -10 0 -1 0 1-16chrd.dat

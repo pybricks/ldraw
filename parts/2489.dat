@@ -1,7 +1,7 @@
 0 Barrel  2 x  2 x  1.667
 0 Name: 2489.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2019-03
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -14,7 +14,8 @@
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2019-07-12 [GeraldLasser] Added Details, Bevels between Staves
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 36 0 1 0 0 0 -1 0 0 0 1 stud4a.dat
 1 16 0 36 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
@@ -98,7 +99,7 @@
 1 16 0 32 0 4 0 0 0 1 0 0 0 4 4-4ring4.dat
 1 16 0 32 0 20 0 0 0 1 0 0 0 20 4-4edge.dat
 1 16 0 32 0 6 0 0 0 1 0 0 0 6 4-4ring1.dat
-1 16 0 32 0 1 0 0 0 1 0 0 0 1 4-4rin12.dat
+1 16 0 32 0 1 0 0 0 1 0 0 0 1 4-4ring12.dat
 1 16 0 32 0 13 0 0 0 1 0 0 0 13 4-4edge.dat
 
 0 BFC INVERTNEXT
@@ -184,4 +185,4 @@
 0 // Barrel Rim
 1 16 0 -4 0 16 0 0 0 4 0 0 0 16 4-4cylo.dat
 1 16 0 -4 0 2 0 0 0 1 0 0 0 2 4-4ring7.dat
-1 16 0 -4 0 1 0 0 0 1 0 0 0 1 4-4rin13.dat
+1 16 0 -4 0 1 0 0 0 1 0 0 0 1 4-4ring13.dat

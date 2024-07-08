@@ -1,0 +1,14 @@
+0 Boat Hull Floating 38 x 10 with Light Grey Decks
+0 Name: 73741.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Shortcut UPDATE 2024-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2366.dat
+1 7 0 -80 360 1 0 0 0 1 0 0 0 1 2368.dat
+1 7 0 -104 -270 1 0 0 0 1 0 0 0 1 2367.dat

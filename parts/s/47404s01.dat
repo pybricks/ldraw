@@ -1,13 +1,14 @@
 0 ~Boat Base 10 x 12 - Half
 0 Name: s\47404s01.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Subpart UPDATE 2022-04
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // Undertuds
 0 // Primitives
@@ -27,18 +28,18 @@
 1 16 80 20 10 0 0 1.5 0 4 0 2 0 0 box3u8p.dat
 1 16 80 20 0 0 0 1 0 -1 0 1 0 0 st4jfil3.dat
 1 16 80 20 0 -8 0 0 0 4 0 0 0 8 3-16cylo.dat
-1 16 80 24 0 -2 0 0 0 -1 0 0 0 2 3-16rin3.dat
+1 16 80 24 0 -2 0 0 0 -1 0 0 0 2 3-16ring3.dat
 0 BFC INVERTNEXT
 1 16 80 20 0 -6 0 0 0 4 0 0 0 6 5-16cylo.dat
 1 16 80 20 0 -1 0 0 0 -1 0 0 0 -1 1-8stud4.dat
 1 16 60 20 0 -8 0 0 0 4 0 0 0 8 3-16cylo.dat
 1 16 60 20 0 8 0 0 0 4 0 0 0 8 3-16cylo.dat
-1 16 60 24 0 -2 0 0 0 -1 0 0 0 2 3-16rin3.dat
-1 16 60 24 0 2 0 0 0 -1 0 0 0 2 3-16rin3.dat
+1 16 60 24 0 -2 0 0 0 -1 0 0 0 2 3-16ring3.dat
+1 16 60 24 0 2 0 0 0 -1 0 0 0 2 3-16ring3.dat
 1 16 60 20 0 -8 0 0 0 4 0 0 0 -8 3-16cylo.dat
 1 16 60 20 0 8 0 0 0 4 0 0 0 -8 3-16cylo.dat
-1 16 60 24 0 -2 0 0 0 -1 0 0 0 -2 3-16rin3.dat
-1 16 60 24 0 2 0 0 0 -1 0 0 0 -2 3-16rin3.dat
+1 16 60 24 0 -2 0 0 0 -1 0 0 0 -2 3-16ring3.dat
+1 16 60 24 0 2 0 0 0 -1 0 0 0 -2 3-16ring3.dat
 0 BFC INVERTNEXT
 1 16 60 20 0 6 0 0 0 4 0 0 0 6 4-4cylo.dat
 1 16 60 20 0 0 0 1 0 -1 0 -1 0 0 st4jfil3.dat
@@ -46,7 +47,7 @@
 1 16 60 20 -20 0 0 1 0 -1 0 1 0 0 st4jfil3.dat
 1 16 60 20 -20 1 0 0 0 -1 0 0 0 1 3-16stud4.dat
 1 16 60 20 -20 -8 0 0 0 4 0 0 0 8 3-16cylo.dat
-1 16 60 24 -20 -2 0 0 0 -1 0 0 0 2 3-16rin3.dat
+1 16 60 24 -20 -2 0 0 0 -1 0 0 0 2 3-16ring3.dat
 0 BFC INVERTNEXT
 1 16 60 20 -20 -6 0 0 0 4 0 0 0 6 5-16cylo.dat
 1 16 60 20 -20 -1 0 0 0 -1 0 0 0 -1 1-4stud4.dat

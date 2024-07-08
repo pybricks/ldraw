@@ -1,0 +1,19 @@
+0 Ring 15 x 0.375
+0 Name: 3-8ring15.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Primitive UPDATE 2024-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2024-03-02 [Holly-Wood] Complete regeneration, original by Brickaneer
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
+
+4 16 16 0 0 14.7824 0 6.1232 13.8585 0 5.7405 15 0 0
+4 16 14.7824 0 6.1232 11.3136 0 11.3136 10.6065 0 10.6065 13.8585 0 5.7405
+4 16 11.3136 0 11.3136 6.1232 0 14.7824 5.7405 0 13.8585 10.6065 0 10.6065
+4 16 6.1232 0 14.7824 0 0 16 0 0 15 5.7405 0 13.8585
+4 16 0 0 16 -6.1232 0 14.7824 -5.7405 0 13.8585 0 0 15
+4 16 -6.1232 0 14.7824 -11.3136 0 11.3136 -10.6065 0 10.6065 -5.7405 0 13.8585
+0 // Build by LDPartEditor (PrimGen 2.X)

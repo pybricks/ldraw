@@ -1,7 +1,7 @@
 0 Plate  6 x  6 Open Center without 4 Corners with 4 Clips
 0 Name: 2539.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2010-03
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -15,7 +15,8 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [mkennedy] used box45-2t, stug2, and other primitives; reararanged some quads (2006-10-10)
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 20 4 40 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 4 40 1 0 0 0 -1 0 0 0 1 stud4.dat
@@ -98,7 +99,7 @@
 4 16 60 8 20 56 8 18.36 56 8 -18.36 60 8 -20
 4 16 60 8 -20 56 8 -18.36 51.44 8 -22.92 54.26 8 -25.74
 1 16 0 8 0 2 0 0 0 -1 0 0 0 2 4-4ring7.dat
-1 16 0 8 0 1 0 0 0 -1 0 0 0 1 4-4rin16.dat
+1 16 0 8 0 1 0 0 0 -1 0 0 0 1 4-4ring16.dat
 0 BFC INVERTNEXT
 1 16 0 4 0 14 0 0 0 4 0 0 0 14 4-4cyli.dat
 1 16 0 4 0 17 0 0 0 4 0 0 0 17 4-4cyli.dat

@@ -1,7 +1,7 @@
 0 ~Hinge Arm Locking - Axlehole Body
 0 Name: s\30552s01.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Subpart UPDATE 2015-01
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
@@ -13,7 +13,8 @@
 0 !HISTORY 2009-07-06 [PTadmin] Renamed from s/481s01
 0 !HISTORY 2012-10-05 [Philo] Closed gaps and corrected side bleeding
 0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 0 0 -1 1 0 0 0 -20 0 axlehol5.dat
 1 16 0 0 -2.875 2.25 0 0 0 0 2.25 0 1 0 4-4ring3.dat
@@ -32,14 +33,14 @@
 1 16 0 1 -11.425 8.533 0 0 0 0 8 0 -2.85 0 2-4cylo.dat
 1 16 0 -1 -14.275 8 0 0 0 0 -7.5 0 -2.85 0 2-4cylo.dat
 1 16 0 1 -14.275 8 0 0 0 0 7.5 0 -2.85 0 2-4cylo.dat
-1 16 0 -1 -5.725 -0.5335 0 0 0 0 -0.5 0 -1 0 2-4rin15.dat
-1 16 0 1 -5.725 -0.5335 0 0 0 0 0.5 0 -1 0 2-4rin15.dat
-1 16 0 -1 -8.575 -0.5335 0 0 0 0 -0.5 0 1 0 2-4rin15.dat
-1 16 0 1 -8.575 -0.5335 0 0 0 0 0.5 0 1 0 2-4rin15.dat
-1 16 0 -1 -11.425 -0.5335 0 0 0 0 -0.5 0 -1 0 2-4rin15.dat
-1 16 0 1 -11.425 -0.5335 0 0 0 0 0.5 0 -1 0 2-4rin15.dat
-1 16 0 -1 -14.275 -0.5335 0 0 0 0 -0.5 0 1 0 2-4rin15.dat
-1 16 0 1 -14.275 -0.5335 0 0 0 0 0.5 0 1 0 2-4rin15.dat
+1 16 0 -1 -5.725 -0.5335 0 0 0 0 -0.5 0 -1 0 2-4ring15.dat
+1 16 0 1 -5.725 -0.5335 0 0 0 0 0.5 0 -1 0 2-4ring15.dat
+1 16 0 -1 -8.575 -0.5335 0 0 0 0 -0.5 0 1 0 2-4ring15.dat
+1 16 0 1 -8.575 -0.5335 0 0 0 0 0.5 0 1 0 2-4ring15.dat
+1 16 0 -1 -11.425 -0.5335 0 0 0 0 -0.5 0 -1 0 2-4ring15.dat
+1 16 0 1 -11.425 -0.5335 0 0 0 0 0.5 0 -1 0 2-4ring15.dat
+1 16 0 -1 -14.275 -0.5335 0 0 0 0 -0.5 0 1 0 2-4ring15.dat
+1 16 0 1 -14.275 -0.5335 0 0 0 0 0.5 0 1 0 2-4ring15.dat
 0 // inside
 2 24 6 0 0 5.602 2 0
 2 24 -6 0 0 -5.602 2 0

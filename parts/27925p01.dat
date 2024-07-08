@@ -1,25 +1,26 @@
 0 Tile  2 x  2 Corner Round with Rainbow Stripes Pattern
 0 Name: 27925p01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2020-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\27925s01.dat
-1 353 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4rin20.dat
-1 353 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4rin19.dat
-1 14 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4rin18.dat
-1 14 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4rin17.dat
-1 3 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4rin16.dat
-1 3 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4rin15.dat
-1 321 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4rin14.dat
-1 321 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4rin13.dat
+1 353 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4ring20.dat
+1 353 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4ring19.dat
+1 14 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4ring18.dat
+1 14 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4ring17.dat
+1 3 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4ring16.dat
+1 3 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4ring15.dat
+1 321 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4ring14.dat
+1 321 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4ring13.dat
 1 30 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4ring12.dat
-1 30 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4rin11.dat
+1 30 -9 0 9 1.8 0 0 0 1 0 0 0 -1.8 48\1-4ring11.dat
 
 1 16 -10 0 10 20 0 0 0 1 0 0 0 -20 1-4tang.dat
 1 16 -9 0 9 19.8 0 0 0 1 0 0 0 -19.8 48\1-4aring.dat

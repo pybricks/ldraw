@@ -1,13 +1,14 @@
 0 ~Minifig Helmet SW Clone Trooper Phase I without Front Face - Half
 0 Name: s\61189s02.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Subpart UPDATE 2020-03
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // All lines and condlines included for any patterned front face [MagFors]
 
@@ -50,7 +51,7 @@
 0 BFC INVERTNEXT
 1 16 13 1.33 0 0 -.5 0 0 0 -2 2 0 0 1-4cyls2.dat
 1 16 15.75 1.33 0 0 -1 0 0 0 -.5 .5 0 0 2-4ring4.dat
-1 16 15.75 1.33 0 0 -1 0 0 0 -.125 .125 0 0 2-4rin20.dat
+1 16 15.75 1.33 0 0 -1 0 0 0 -.125 .125 0 0 2-4ring20.dat
 1 16 15.75 1.33 0 0 -1 0 0 0 2 2 0 0 2-4ndis.dat
 1 16 15.75 1.33 0 0 -1 0 0 0 -2.625 2.625 0 0 2-4edge.dat
 3 16 14.733 -1.624 .746 15.75 -1.295 0 15.75 -1.095238 1.004588

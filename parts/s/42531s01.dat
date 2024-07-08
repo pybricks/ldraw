@@ -1,13 +1,14 @@
 0 ~Technic Panel  9 x  2 x  3 Mudguard Arched #30 Half without Front
 0 Name: s\42531s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2020-02
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 80 0 0 -1 1 0 0 0 -1 0 connhol3.dat
 1 16 -20 -40 60 0 -1 0 1 0 0 0 0 1 connhole.dat
@@ -140,10 +141,10 @@
 1 16 9.5 53.2 0 0 -9.5 0 -82 0 0 0 0 82 48\1-8cylo.dat
 1 16 0 53.2 0 0 7 0 -84.92857 0 0 0 0 84.92857 48\1-8cylo.dat
 1 16 9.5 53.2 0 0 -0.5 0 -86.1 0 0 0 0 86.1 48\1-8cylo.dat
-1 16 9.5 53.2 0 0 -1 0 -4.1 0 0 0 0 4.1 48\1-8rin20.dat
+1 16 9.5 53.2 0 0 -1 0 -4.1 0 0 0 0 4.1 48\1-8ring20.dat
 4 16 9 0 62.1 9.5 -4.7822 57.9822 0 -4.7822 57.9822 0 0 62.1
 3 16 9 -7.6813 60.8813 9.5 -7.6813 60.8813 9 0 69
-1 16 0 53.2 0 0 1 0 -2.92857 0 0 0 0 2.92857 48\1-8rin28.dat
+1 16 0 53.2 0 0 1 0 -2.92857 0 0 0 0 2.92857 48\1-8ring28.dat
 2 24 9 -7.6813 60.8813 9 0 69
 2 24 9 0 69 9.5 -7.6813 60.8813
 3 16 9 0 62.1 0 0 62.1 0 9 69

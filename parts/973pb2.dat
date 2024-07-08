@@ -1,14 +1,15 @@
 0 Minifig Torso with Batman Robin Pattern
 0 Name: 973pb2.dat
 0 Author: Kevin Roach [KROACH]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-24 [BlackBrick89] Re-written and BFCed
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
@@ -21,8 +22,8 @@
 1 14 0 27.983 -10 1.75 0 0 0 0 -1.75 0 1 0 48\4-4disc.dat
 1 0 0 27.983 -10 0.25 0 0 0 0 -0.25 0 1 0 48\4-4ring7.dat
 1 14 0 27.983 -10 0.5 0 0 0 0 -0.5 0 1 0 48\4-4ring4.dat
-1 14 0 27.983 -10 0.25 0 0 0 0 -0.25 0 1 0 48\4-4rin10.dat
-1 14 0 27.983 -10 0.125 0 0 0 0 -0.125 0 1 0 48\4-4rin22.dat
+1 14 0 27.983 -10 0.25 0 0 0 0 -0.25 0 1 0 48\4-4ring10.dat
+1 14 0 27.983 -10 0.125 0 0 0 0 -0.125 0 1 0 48\4-4ring22.dat
 1 0 0 27.983 -10 0.4791 0 0 0 0 -0.4791 0 1 0 48\4-4ring6.dat
 4 14 6.3125 5.6875 -10 4.693 10.176 -10 6.7117 9.5651 -10 7.3133 6.9133 -10
 4 14 7.4671 6.2298 -10 7.3133 6.9133 -10 9.4342 6.2914 -10 8.7271 5.3555 -10

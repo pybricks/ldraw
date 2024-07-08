@@ -1,13 +1,14 @@
 0 Technic Bionicle Rhotuka Spinner Ripcord 12L with Hand Grip
 0 Name: 50900.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // Details of the grip are missing.
 
@@ -291,10 +292,10 @@
 1 16 -40 -1.5 0 0 0 29 0 3 0 29 0 0 4-4cyli.dat
 1 16 -40 1.5 0 0 0 26 0 26 0 26 0 0 t01o1154.dat
 1 16 -40 -1.5 0 0 0 26 0 -26 0 -26 0 0 t01o1154.dat
-1 16 -40 -4.5 0 0 0 2 0 1 0 2 0 0 4-4rin11.dat
-1 16 -40 -4.5 0 0 0 2 0 1 0 2 0 0 4-4rin12.dat
-1 16 -40 4.5 0 0 0 2 0 -1 0 -2 0 0 4-4rin11.dat
-1 16 -40 4.5 0 0 0 2 0 -1 0 -2 0 0 4-4rin12.dat
+1 16 -40 -4.5 0 0 0 2 0 1 0 2 0 0 4-4ring11.dat
+1 16 -40 -4.5 0 0 0 2 0 1 0 2 0 0 4-4ring12.dat
+1 16 -40 4.5 0 0 0 2 0 -1 0 -2 0 0 4-4ring11.dat
+1 16 -40 4.5 0 0 0 2 0 -1 0 -2 0 0 4-4ring12.dat
 1 16 -40 4.5 0 0 0 22 0 -1 0 22 0 0 4-4edge.dat
 1 16 -40 -4.5 0 0 0 22 0 -1 0 22 0 0 4-4edge.dat
 1 16 -40 2.5 0 0 0 15 0 -1 0 15 0 0 4-4edge.dat

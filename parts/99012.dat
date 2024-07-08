@@ -1,7 +1,7 @@
 0 Technic Rotor  1 Blade  8L with Peghole and Axlehole
 0 Name: 99012.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2012-03
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,7 +9,8 @@
 0 !HISTORY 2012-10-12 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2012-10-12 [Philo] File preparation for LDraw Parts Tracker
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 3 16 4.621 -11.173 3.95 0 -9.25 4.144 -4.621 -11.173 3.95
 3 16 4.625 -8.011 4.079 0 -9.25 4.144 4.621 -11.173 3.95
@@ -377,8 +378,8 @@
 2 24 8.56725 -17.376 -2.0072 8.73037 -11.8105 -1.97485
 2 24 8.73037 -11.8105 -1.97485 8.90071 -1.57751 -1.93865
 1 16 0 0 -10 9.25 0 0 0 0 9.25 0 20 0 4-4cylo.dat
-1 16 0 0 -10 0.25 0 0 0 0 0.25 0 1 0 4-4rin36.dat
-1 16 0 0 10 0.25 0 0 0 0 0.25 0 -1 0 4-4rin36.dat
+1 16 0 0 -10 0.25 0 0 0 0 0.25 0 1 0 4-4ring36.dat
+1 16 0 0 10 0.25 0 0 0 0 0.25 0 -1 0 4-4ring36.dat
 3 16 0 -9.25 4.144 -8.389 -3.234 3.844 -4.625 -8.011 4.079
 3 16 -4.625 -8.011 4.079 -8.389 -3.234 3.844 -8.011 -4.625 3.934
 3 16 4.625 -8.011 4.079 8.389 -3.234 3.844 0 -9.25 4.144

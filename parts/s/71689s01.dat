@@ -1,12 +1,14 @@
 0 ~Technic Panel 13 x  2 x  5 Mudguard Arched Extension
 0 Name: s\71689s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2023-07
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2023-12-31 [OrionP] Official Update 2023-07
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 130 0 0 -1 1 0 0 0 -20 0 axlehole.dat
 1 16 0 0 130 -9 0 0 0 0 9 0 -11.6405 0 4-4cyli.dat
@@ -92,7 +94,7 @@
 2 24 0 -31.7956 96.7948 0 -11 109.6581
 2 24 9.5 -31.7956 96.7948 9.5 -11 109.6581
 3 16 9.5 -31.7957 96.7949 9.5 -18.2501 105.6521 9.5 -3.6462 112.7159
-1 16 -2.5 44 0 0 1 0 -7.1214 0 0 0 0 6.9784 48\1-6rin17.dat
+1 16 -2.5 44 0 0 1 0 -7.1214 0 0 0 0 6.9784 48\1-6ring17.dat
 1 16 0 44 0 0 -1 0 -4.27284 0 0 0 0 4.18704 48\1-6ring29.dat
 1 16 -2.5 44 0 0 2.5 0 -128.18521 0 0 0 0 125.6112 48\1-6cylo.dat
 2 24 -2.5 -7.7164 107 -2.5 -16.5319 102.736

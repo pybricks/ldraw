@@ -1,17 +1,18 @@
 0 Constraction Limb  5 x  6 with Ball Joint and 7 Pinholes
 0 Name: 50922.dat
 0 Author: Kevin Roach [KROACH]
-0 !LDRAW_ORG Part UPDATE 2022-04
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS bionicle, Hordika, Technic, Toa
+0 !KEYWORDS Hordika, Technic, Toa, bionicle
 
 0 !HISTORY 2016-01-01 [arezey] Fixed edges and rects
 0 !HISTORY 2021-03-31 [Sirio] Fixed sphere joint and corrected intermediate rotation of circular primitives
 0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 -60 -40 0 1 0 -1 0 0 0 0 1 connhole.dat
 1 16 0 -60 -60 0 1 0 -1 0 0 0 0 1 beamhole.dat
@@ -256,10 +257,10 @@
 3 16 -2 -28.5 -54 -2 -31.3978 -61.2031 -2 -31.3978 -54
 4 16 2 -27.4202 -52 2 -31.3978 -61.2031 2 -28.5 -61.2031 2 -25.259 -56.3526
 3 16 2 -27.4202 -52 2 -31.3978 -52 2 -31.3978 -61.2031
-1 16 -5 -26 -54 0 1 0 0 0 0.5 0.5 0 0 5-16rin5.dat
-1 16 -5 -26 -54 0 1 0 0 0 1 1 0 0 5-16rin3.dat
-1 16 5 -26 -54 0 -1 0 0 0 0.5 0.5 0 0 5-16rin5.dat
-1 16 5 -26 -54 0 -1 0 0 0 1 1 0 0 5-16rin3.dat
+1 16 -5 -26 -54 0 1 0 0 0 0.5 0.5 0 0 5-16ring5.dat
+1 16 -5 -26 -54 0 1 0 0 0 1 1 0 0 5-16ring3.dat
+1 16 5 -26 -54 0 -1 0 0 0 0.5 0.5 0 0 5-16ring5.dat
+1 16 5 -26 -54 0 -1 0 0 0 1 1 0 0 5-16ring3.dat
 3 16 -3.4442 -31.6851 -63.2031 -5 -31 -63.2031 0 -31 -63.2031
 3 16 -5 -32.7247 -63.2031 -5 -31 -63.2031 -3.4442 -31.6851 -63.2031
 3 16 0 -31 -63.2031 5 -31 -63.2031 3.4442 -31.6851 -63.2031
@@ -918,8 +919,8 @@
 4 16 -9 -27 10 9 -27 10 5 -18.0966 -10 -5 -18.0966 -10
 0 // Cone
 0 // Primitives
-1 16 0 -40 -70 0 0 3 -3 0 0 0 1 0 3-16rin3.dat
-1 16 0 -40 -70 0 0 -3 -3 0 0 0 1 0 3-16rin3.dat
+1 16 0 -40 -70 0 0 3 -3 0 0 0 1 0 3-16ring3.dat
+1 16 0 -40 -70 0 0 -3 -3 0 0 0 1 0 3-16ring3.dat
 1 16 0 -40 -70 0 0 .5 -.5 0 0 0 1 0 3-16ring24.dat
 1 16 0 -40 -70 0 0 -.5 -.5 0 0 0 1 0 3-16ring24.dat
 1 16 0 -40 -70 0 0 12.5 -12.5 0 0 0 1 0 3-16edge.dat

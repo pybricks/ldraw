@@ -1,0 +1,1797 @@
+ldraw.org Parts Update 2024-02
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Sun, 24 Mar 2024 17:23:56 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 1837
+   New files: 326
+   New Parts: 49
+   New Subparts: 34
+   New Primitives: 119
+   New 48 Segment Primitives: 124
+
+Moved Parts
+   ring10.dat                 ~Moved to 4-4rin10
+
+Renamed Parts
+   4-4rin11.dat               Ring 11 x 1.0
+   changed to    ~Ring 11 x  1.0 (Obsolete)
+   4-4rin12.dat               Ring 12 x 1.0
+   changed to    ~Ring 12 x 1.0 (Obsolete)
+   4-4rin18.dat               Ring 18 x 1.0
+   changed to    ~Ring 18 x 1.0 (Obsolete)
+   4-4rin19.dat               Ring 19 x 1.0
+   changed to    ~Ring 19 x 1.0 (Obsolete)
+   4-4rin13.dat               Ring 13 x 1.0
+   changed to    ~Ring 13 x 1.0 (Obsolete)
+   4-4rin14.dat               Ring 14 x 1.0
+   changed to    ~Ring 14 x 1.0 (Obsolete)
+   4-4rin16.dat               Ring 16 x 1.0
+   changed to    ~Ring 16 x 1.0 (Obsolete)
+   48\4-4rin10.dat            Hi-Res Ring 10 x 1.0
+   changed to    ~Hi-Res Ring 10 x 1.0 (Obsolete)
+   4-4rin17.dat               Ring 17 x 1.0
+   changed to    ~Ring 17 x 1.0 (Obsolete)
+   1-4rin10.dat               Ring 10 x 0.25
+   changed to    ~Ring 10 x 0.25 (Obsolete)
+   48\4-4rin18.dat            Hi-Res Ring 18 x 1.0
+   changed to    ~Hi-Res Ring 18 x 1.0 (Obsolete)
+   48\4-4rin17.dat            Hi-Res Ring 17 x 1.0
+   changed to    ~Hi-Res Ring 17 x 1.0 (Obsolete)
+   48\4-4rin15.dat            Hi-Res Ring 15 x 1.0
+   changed to    ~Hi-Res Ring 15 x 1.0 (Obsolete)
+   48\4-4rin24.dat            Hi-Res Ring 24 x 1.0
+   changed to    ~Hi-Res Ring 24 x 1.0 (Obsolete)
+   1-8rin10.dat               Ring 10 x 0.125
+   changed to    ~Ring 10 x 0.125 (Obsolete)
+   48\4-4rin14.dat            Hi-Res Ring 14 x 1.0
+   changed to    ~Hi-Res Ring 14 x 1.0 (Obsolete)
+   48\4-4rin16.dat            Hi-Res Ring 16 x 1.0
+   changed to    ~Hi-Res Ring 16 x 1.0 (Obsolete)
+   4-4rin20.dat               Ring 20 x 1.0
+   changed to    ~Ring 20 x 1.0 (Obsolete)
+   1-4rin13.dat               Ring 13 x 0.25
+   changed to    ~Ring 13 x 0.25 (Obsolete)
+   2-4rin14.dat               Ring 14 x 0.5
+   changed to    ~Ring 14 x 0.5 (Obsolete)
+   48\4-4rin20.dat            Hi-Res Ring 20 x 1.0
+   changed to    ~Hi-Res Ring 20 x 1.0 (Obsolete)
+   4-4rin25.dat               Ring 25 x 1.0
+   changed to    ~Ring 25 x 1.0 (Obsolete)
+   2-4rin12.dat               Ring 12 x 0.5
+   changed to    ~Ring 12 x 0.5 (Obsolete)
+   48\4-4rin26.dat            Hi-Res Ring 26 x 1.0
+   changed to    ~Hi-Res Ring 26 x 1.0 (Obsolete)
+   2-4rin13.dat               Ring 13 x 0.5
+   changed to    ~Ring 13 x 0.5 (Obsolete)
+   3-16rin9.dat               Ring  9 x 0.1875
+   changed to    ~Ring  9 x 0.1875 (Obsolete)
+   4-4rin22.dat               Ring 22 x 1.0
+   changed to    ~Ring 22 x 1.0 (Obsolete)
+   filletr0s.dat              Fillet Reinforced 3 LDU Inter-Stud
+   changed to    Fillet Reinforced  3 LDU Inter-Stud
+   48\1-4rin15.dat            Hi-Res Ring 15 x 0.25
+   changed to    ~Hi-Res Ring 15 x 0.25 (Obsolete)
+   48\4-4rin21.dat            Hi-Res Ring 21 x 1.0
+   changed to    ~Hi-Res Ring 21 x 1.0 (Obsolete)
+   1-8rin19.dat               Ring 19 x 0.125
+   changed to    ~Ring 19 x 0.125 (Obsolete)
+   48\1-4rin18.dat            Hi-Res Ring 18 x 0.25
+   changed to    ~Hi-Res Ring 18 x 0.25 (Obsolete)
+   3-16rin7.dat               Ring  7 x 0.1875
+   changed to    ~Ring  7 x 0.1875 (Obsolete)
+   48\1-4rin11.dat            Hi-Res Ring 11 x 0.25
+   changed to    ~Hi-Res Ring 11 x 0.25 (Obsolete)
+   48\4-4rin25.dat            Hi-Res Ring 25 x 1.0
+   changed to    ~Hi-Res Ring 25 x 1.0 (Obsolete)
+   48\4-4rin33.dat            Hi-Res Ring 33 x 1.0
+   changed to    ~Hi-Res Ring 33 x 1.0 (Obsolete)
+   4-4rin29.dat               Ring 29 x 1.0
+   changed to    ~Ring 29 x 1.0 (Obsolete)
+   5-16rin3.dat               Ring  3 x 0.3125
+   changed to    ~Ring  3 x 0.3125 (Obsolete)
+   1-4rin17.dat               Ring 17 x 0.25
+   changed to    ~Ring 17 x 0.25 (Obsolete)
+   48\4-4rin29.dat            Hi-Res Ring 29 x 1.0
+   changed to    ~Hi-Res Ring 29 x 1.0 (Obsolete)
+   48\4-4rin30.dat            Hi-Res Ring 30 x 1.0
+   changed to    ~Hi-Res Ring 30 x 1.0 (Obsolete)
+   1-8rin18.dat               Ring 18 x 0.125
+   changed to    ~Ring 18 x 0.125 (Obsolete)
+   axle.dat                   Axle
+   changed to    Technic Axle
+   axlecap.dat                Axle Endcap
+   changed to    Technic Axle Endcap
+   axleend.dat                Axle End Surface
+   changed to    Technic Axle End Surface
+   axles.dat                  Axle Sloped
+   changed to    Technic Axle Sloped
+   axlecaph.dat               Axle Endcap with Hole 4D
+   changed to    Technic Axle Endcap with Hole 4D
+   axlecaph2.dat              Axle Endcap with Hole 5D
+   changed to    Technic Axle Endcap with Hole 5D
+   48\3-16aring.dat           Adaptor Ring Hi-Res to Normal 0.1875
+   changed to    Adapter Ring Hi-Res to Normal 0.1875
+   48\1-8aring.dat            Adaptor Ring Hi-Res to Normal 0.125
+   changed to    Adapter Ring Hi-Res to Normal 0.125
+   48\1-4aring.dat            Adaptor Ring Hi-Res to Normal 0.25
+   changed to    Adapter Ring Hi-Res to Normal 0.25
+   48\1-4rin17.dat            Hi-Res Ring 17 x 0.25
+   changed to    ~Hi-Res Ring 17 x 0.25 (Obsolete)
+   48\1-4rin29.dat            Hi-Res Ring 29 x 0.25
+   changed to    ~Hi-Res Ring 29 x 0.25 (Obsolete)
+   znap1.dat                  Znap Between Pegholes 1
+   changed to    Znap Peghole Spacer
+   znap2.dat                  Znap Between Pegholes 2 Half
+   changed to    Znap Peghole Spacer - Half
+   1-4rin28.dat               Ring 28 x 0.25
+   changed to    ~Ring 28 x 0.25 (Obsolete)
+   2-4rin17.dat               Ring 17 x 0.5
+   changed to    ~Ring 17 x 0.5 (Obsolete)
+   clip15.dat                 Clip for Round Arm 4 LDU without Adaptor
+   changed to    Clip for Round Arm 4 LDU without Adapter
+   znap4.dat                  Znap Between Pegholes 4
+   changed to    Znap Peghole Spacer - Half, 45 Degrees
+   znap5.dat                  Znap Between Pegholes 5
+   changed to    Znap Beam Cross Section
+   48\1-4rin16.dat            Hi-Res Ring 16 x 0.25
+   changed to    ~Hi-Res Ring 16 x 0.25 (Obsolete)
+   48\1-4rin31.dat            Hi-Res Ring 31 x 0.25
+   changed to    ~Hi-Res Ring 31 x 0.25 (Obsolete)
+   48\1-6rin19.dat            Hi-Res Ring 19 x 0.1667
+   changed to    ~Hi-Res Ring 19 x 0.1667 (Obsolete)
+   4215ap04.dat               Panel  1 x  4 x  3 Right with Blue Stripe Pattern
+   changed to    Panel  1 x  4 x  3 with Blue Stripe Right Pattern
+   4215ap05.dat               Panel  1 x  4 x  3 Right with Red/Blue Stripe Pattern
+   changed to    Panel  1 x  4 x  3 with Red/Blue Stripe Right Pattern
+   4215ap06.dat               Panel  1 x  4 x  3 Left with Blue Stripe Pattern
+   changed to    Panel  1 x  4 x  3 with Blue Stripe Left Pattern
+   4215ap07.dat               Panel  1 x  4 x  3 Left with Red/Blue Stripe Pattern
+   changed to    Panel  1 x  4 x  3 with Red/Blue Stripe Left Pattern
+   48\2-4rin11.dat            Hi-Res Ring 11 x 0.5
+   changed to    ~Hi-Res Ring 11 x 0.5 (Obsolete)
+   48\2-4rin16.dat            Hi-Res Ring 16 x 0.5
+   changed to    ~Hi-Res Ring 16 x 0.5 (Obsolete)
+   1-8rin17.dat               Ring 17 x 0.125
+   changed to    ~Ring 17 x 0.125 (Obsolete)
+   48\1-12rin6.dat            Hi-Res Ring  6 x 0.0833
+   changed to    ~Hi-Res Ring  6 x 0.0833 [Obsolete]
+   48\1-4rin32.dat            Hi-Res Ring 32 x 0.25
+   changed to    ~Hi-Res Ring 32 x 0.25 (Obsolete)
+   48\1-6rin17.dat            Hi-Res Ring 17 x 0.1667
+   changed to    ~Hi-Res Ring 17 x 0.1667 (Obsolete)
+   48\4-4rin42.dat            Hi-Res Ring 42 x 1.0
+   changed to    ~Hi-Res Ring 42 x 1.0 (Obsolete)
+   1-4rin24.dat               Ring 24 x 0.25
+   changed to    ~Ring 24 x 0.25 (Obsolete)
+   znap3a.dat                 Znap Between Pegholes 3a
+   changed to    Znap Peghole Spacer with Angle
+   znap3b.dat                 Znap Between Pegholes 3b Half With Angle
+   changed to    Znap Peghole Spacer with Angle and Padding
+   48\1-12rin5.dat            Hi-Res Ring  5 x 0.0833
+   changed to    ~Hi-Res Ring  5 x 0.0833 (Obsolete)
+   48\1-6rin13.dat            Hi-Res Ring 13 x 0.1667
+   changed to    ~Hi-Res Ring 13 x 0.1667 (Obsolete)
+   48\1-6rin14.dat            Hi-Res Ring 14 x 0.1667
+   changed to    ~Hi-Res Ring 14 x 0.1667 (Obsolete)
+   48\2-4rin12.dat            Hi-Res Ring 12 x 0.5
+   changed to    ~Hi-Res Ring 12 x 0.5 (Obsolete)
+   1-4rin23.dat               Ring 23 x 0.25
+   changed to    ~Ring 23 x 0.25 (Obsolete)
+   1-8rin23.dat               Ring 23 x 0.125
+   changed to    ~Ring 23 x 0.125 (Obsolete)
+   2-4rin24.dat               Ring 24 x 0.5
+   changed to    ~Ring 24 x 0.5 (Obsolete)
+   48\1-24rin9.dat            Hi-Res Ring  9 x 0.0417
+   changed to    ~Hi-Res Ring  9 x 0.0417 (Obsolete)
+   48\1-4rin33.dat            Hi-Res Ring 33 x 0.25
+   changed to    ~Hi-Res Ring 33 x 0.25 (Obsolete)
+   48\1-6rin12.dat            Hi-Res Ring 12 x 0.1667
+   changed to    ~Hi-Res Ring 12 x 0.1667 (Obsolete)
+   3-8rin15.dat               Ring 15 x 0.375
+   changed to    ~Ring 15 x 0.375 (Obsolete)
+   3-8rin18.dat               Ring 18 x 0.375
+   changed to    ~Ring 18 x 0.375 (Obsolete)
+   7-8rin15.dat               Ring 15 x 0.875
+   changed to    ~Ring 15 x 0.875 (Obsolete)
+   7-8rin16.dat               Ring 16 x 0.875
+   changed to    ~Ring 16 x 0.875 (Obsolete)
+   48\3-4rin16.dat            Hi-Res Ring 16 x 0.75
+   changed to    ~Hi-Res Ring 16 x 0.75 (Obsolete)
+   48\3-4rin13.dat            Hi-Res Ring 13 x 0.75
+   changed to    ~Hi-Res Ring 13 x 0.75 (Obsolete)
+   48\3-4rin14.dat            Hi-Res Ring 14 x 0.75
+   changed to    ~Hi-Res Ring 14 x 0.75 (Obsolete)
+   48\1-4rin30.dat            Hi-Res Ring 30 x 0.25
+   changed to    ~Hi-Res Ring 30 x 0.25 (Obsolete)
+   48\1-4rin51.dat            Hi-Res Ring 51 x 0.25
+   changed to    ~Hi-Res Ring 51 x 0.25 (Obsolete)
+   48\5-24rin9.dat            Hi-Res Ring  9 x 0.2083
+   changed to    ~Hi-Res Ring  9 x 0.2083 (Obsolete)
+   48\7-16rin3.dat            Hi-Res Ring  3 x 0.4375
+   changed to    ~Hi-Res Ring  3 x 0.4375 (Obsolete)
+   1-16rin1.dat               Ring  1 x 0.0625
+   changed to    ~Ring  1 x 0.0625 (Obsolete)
+   1-16rin2.dat               Ring  2 x 0.0625
+   changed to    ~Ring  2 x 0.0625 (Obsolete)
+   1-16rin3.dat               Ring  3 x 0.0625
+   changed to    ~Ring  3 x 0.0625 (Obsolete)
+   1-16rin4.dat               Ring  4 x 0.0625
+   changed to    ~Ring  4 x 0.0625 (Obsolete)
+   1-4rin11.dat               Ring 11 x 0.25
+   changed to    ~Ring 11 x 0.25 (Obsolete)
+   1-4rin12.dat               Ring 12 x 0.25
+   changed to    ~Ring 12 x 0.25 (Obsolete)
+   1-4rin14.dat               Ring 14 x 0.25
+   changed to    ~Ring 14 x 0.25 (Obsolete)
+   1-4rin15.dat               Ring 15 x 0.25
+   changed to    ~Ring 15 x 0.25 (Obsolete)
+   1-4rin16.dat               Ring 16 x 0.25
+   changed to    ~Ring 16 x 0.25 (Obsolete)
+   1-4rin18.dat               Ring 18 x 0.25
+   changed to    ~Ring 18 x 0.25 (Obsolete)
+   1-4rin19.dat               Ring 19 x 0.25
+   changed to    ~Ring 19 x 0.25 (Obsolete)
+   1-4rin20.dat               Ring 20 x 0.25
+   changed to    ~Ring 20 x 0.25 (Obsolete)
+   1-4rin34.dat               Ring 34 x 0.25
+   changed to    ~Ring 34 x 0.25 (Obsolete)
+   1-4rin38.dat               Ring 38 x 0.25
+   changed to    ~Ring 38 x 0.25 (Obsolete)
+   1-4rin39.dat               Ring 39 x 0.25
+   changed to    ~Ring 39 x 0.25 (Obsolete)
+   1-4rin48.dat               Ring 48 x 0.25
+   changed to    ~Ring 48 x 0.25 (Obsolete)
+   1-4rin49.dat               Ring 49 x 0.25
+   changed to    ~Ring 49 x 0.25 (Obsolete)
+   1-4rin50.dat               Ring 50 x 0.25
+   changed to    ~Ring 50 x 0.25 (Obsolete)
+   1-8rin15.dat               Ring 15 x 0.125
+   changed to    ~Ring 15 x 0.125 (Obsolete)
+   1-8rin39.dat               Ring 39 x 0.125
+   changed to    ~Ring 39 x 0.125 (Obsolete)
+   2-4rin10.dat               Ring 10 x 0.5
+   changed to    ~Ring 10 x 0.5 (Obsolete)
+   2-4rin11.dat               Ring 11 x 0.5
+   changed to    ~Ring 11 x 0.5 (Obsolete)
+   2-4rin15.dat               Ring 15 x 0.5
+   changed to    ~Ring 15 x 0.5 (Obsolete)
+   2-4rin16.dat               Ring 16 x 0.5
+   changed to    ~Ring 16 x 0.5 (Obsolete)
+   2-4rin18.dat               Ring 18 x 0.5
+   changed to    ~Ring 18 x 0.5 (Obsolete)
+   2-4rin20.dat               Ring 20 x 0.5
+   changed to    ~Ring 20 x 0.5 (Obsolete)
+   2-4rin22.dat               Ring 22 x 0.5
+   changed to    ~Ring 22 x 0.5 (Obsolete)
+   2-4rin23.dat               Ring 23 x 0.5
+   changed to    ~Ring 23 x 0.5 (Obsolete)
+   2-4rin25.dat               Ring 25 x 0.5
+   changed to    ~Ring 25 x 0.5 (Obsolete)
+   2-4rin30.dat               Ring 30 x 0.5
+   changed to    ~Ring 30 x 0.5 (Obsolete)
+   2-4rin52.dat               Ring 52 x 0.5
+   changed to    ~Ring 52 x 0.5 (Obsolete)
+   3-16rin1.dat               Ring  1 x 0.1875
+   changed to    ~Ring  1 x 0.1875 (Obsolete)
+   3-16rin2.dat               Ring  2 x 0.1875
+   changed to    ~Ring  2 x 0.1875 (Obsolete)
+   3-16rin3.dat               Ring  3 x 0.1875
+   changed to    ~Ring  3 x 0.1875 (Obsolete)
+   3-16rin4.dat               Ring  4 x 0.1875
+   changed to    ~Ring  4 x 0.1875 (Obsolete)
+   3-16rin5.dat               Ring  5 x 0.1875
+   changed to    ~Ring  5 x 0.1875 (Obsolete)
+   3-16rin6.dat               Ring  6 x 0.1875
+   changed to    ~Ring  6 x 0.1875 (Obsolete)
+   3-16rin8.dat               Ring  8 x 0.1875
+   changed to    ~Ring  8 x 0.1875 (Obsolete)
+   3-4rin10.dat               Ring 10 x 0.75
+   changed to    ~Ring 10 x 0.75 (Obsolete)
+   3-4rin14.dat               Ring 14 x 0.75
+   changed to    ~Ring 14 x 0.75 (Obsolete)
+   3-4rin22.dat               Ring 22 x 0.75
+   changed to    ~Ring 22 x 0.75 (Obsolete)
+   3-8rin10.dat               Ring 10 x 0.375
+   changed to    ~Ring 10 x 0.375 (Obsolete)
+   3-8rin12.dat               Ring 12 x 0.375
+   changed to    ~Ring 12 x 0.375 (Obsolete)
+   3-8rin13.dat               Ring 13 x 0.375
+   changed to    ~Ring 13 x 0.375 (Obsolete)
+   3-8rin16.dat               Ring 16 x 0.375
+   changed to    ~Ring 16 x 0.375 (Obsolete)
+   3-8rin24.dat               Ring 24 x 0.375
+   changed to    ~Ring 24 x 0.375 (Obsolete)
+   4-4rin10.dat               Ring 10 x 1.0
+   changed to    ~Ring 10 x 1.0 (Obsolete)
+   4-4rin15.dat               Ring 15 x 1.0
+   changed to    ~Ring 15 x 1.0 (Obsolete)
+   4-4rin21.dat               Ring 21 x 1.0
+   changed to    ~Ring 21 x 1.0 (Obsolete)
+   4-4rin23.dat               Ring 23 x 1.0
+   changed to    ~Ring 23 x 1.0 (Obsolete)
+   4-4rin24.dat               Ring 24 x 1.0
+   changed to    ~Ring 24 x 1.0 (Obsolete)
+   4-4rin26.dat               Ring 26 x 1.0
+   changed to    ~Ring 26 x 1.0 (Obsolete)
+   4-4rin30.dat               Ring 30 x 1.0
+   changed to    ~Ring 30 x 1.0 (Obsolete)
+   4-4rin31.dat               Ring 31 x 1.0
+   changed to    ~Ring 31 x 1.0 (Obsolete)
+   4-4rin32.dat               Ring 32 x 1.0
+   changed to    ~Ring 32 x 1.0 (Obsolete)
+   4-4rin33.dat               Ring 33 x 1.0
+   changed to    ~Ring 33 x 1.0 (Obsolete)
+   4-4rin34.dat               Ring 34 x 1.0
+   changed to    ~Ring 34 x 1.0 (Obsolete)
+   4-4rin36.dat               Ring 36 x 1.0
+   changed to    ~Ring 36 x 1.0 (Obsolete)
+   4-4rin37.dat               Ring 37 x 1.0
+   changed to    ~Ring 37 x 1.0 (Obsolete)
+   4-4rin38.dat               Ring 38 x 1.0
+   changed to    ~Ring 38 x 1.0 (Obsolete)
+   4-4rin39.dat               Ring 39 x 1.0
+   changed to    ~Ring 39 x 1.0 (Obsolete)
+   4-4rin40.dat               Ring 40 x 1.0
+   changed to    ~Ring 40 x 1.0 (Obsolete)
+   4-4rin43.dat               Ring 43 x 1.0
+   changed to    ~Ring 43 x 1.0 (Obsolete)
+   4-4rin44.dat               Ring 44 x 1.0
+   changed to    ~Ring 44 x 1.0 (Obsolete)
+   4-4rin45.dat               Ring 45 x 1.0
+   changed to    ~Ring 45 x 1.0 (Obsolete)
+   4-4rin46.dat               Ring 46 x 1.0
+   changed to    ~Ring 46 x 1.0 (Obsolete)
+   4-4rin47.dat               Ring 47 x 1.0
+   changed to    ~Ring 47 x 1.0 (Obsolete)
+   4-4rin48.dat               Ring 48 x 1.0
+   changed to    ~Ring 48 x 1.0 (Obsolete)
+   4-4rin50.dat               Ring 50 x 1.0
+   changed to    ~Ring 50 x 1.0 (Obsolete)
+   4-4rin51.dat               Ring 51 x 1.0
+   changed to    ~Ring 51 x 1.0 (Obsolete)
+   4-4rin52.dat               Ring 52 x 1.0
+   changed to    ~Ring 52 x 1.0 (Obsolete)
+   4-4rin57.dat               Ring 57 x 1.0
+   changed to    ~Ring 57 x 1.0 (Obsolete)
+   4-4rin77.dat               Ring 77 x 1.0
+   changed to    ~Ring 77 x 1.0 (Obsolete)
+   4-4rin78.dat               Ring 78 x 1.0
+   changed to    ~Ring 78 x 1.0 (Obsolete)
+   4-4rin79.dat               Ring 79 x 1.0
+   changed to    ~Ring 79 x 1.0 (Obsolete)
+   4-4rin85.dat               Ring 85 x 1.0
+   changed to    ~Ring 85 x 1.0 (Obsolete)
+   5-16rin2.dat               Ring  2 x 0.3125
+   changed to    ~Ring  2 x 0.3125 (Obsolete)
+   5-16rin5.dat               Ring  5 x 0.3125
+   changed to    ~Ring  5 x 0.3125 (Obsolete)
+   7-16ring1.dat              ~Obsolete file
+   changed to    Ring  1 x 0.4375
+   7-16rin1.dat               Ring  1 x 0.4375
+   changed to    ~Ring  1 x 0.4375 (Obsolete)
+   7-16rin3.dat               Ring  3 x 0.4375
+   changed to    ~Ring  3 x 0.4375 (Obsolete)
+   7-16rin4.dat               Ring  4 x 0.4375
+   changed to    ~Ring  4 x 0.4375 (Obsolete)
+   7-8rin12.dat               Ring 12 x 0.875
+   changed to    ~Ring 12 x 0.875 (Obsolete)
+   7-8rin39.dat               Ring 39 x 0.875
+   changed to    ~Ring 39 x 0.875 (Obsolete)
+   7-8rin40.dat               Ring 40 x 0.875
+   changed to    ~Ring 40 x 0.875 (Obsolete)
+   48\1-12rin1.dat            Hi-Res Ring  1 x 0.0833
+   changed to    ~Hi-Res Ring  1 x 0.0833 (Obsolete)
+   48\1-12rin2.dat            Hi-Res Ring  2 x 0.0833
+   changed to    ~Hi-Res Ring  2 x 0.0833 (Obsolete)
+   48\1-12rin8.dat            Hi-Res Ring  8 x 0.0833
+   changed to    ~Hi-Res Ring  8 x 0.0833 (Obsolete)
+   48\1-12rin9.dat            Hi-Res Ring  9 x 0.0833
+   changed to    ~Hi-Res Ring  9 x 0.0833 (Obsolete)
+   48\1-16rin3.dat            Hi-Res Ring  3 x 0.0625
+   changed to    ~Hi-Res Ring  3 x 0.0625 (Obsolete)
+   48\1-16rin8.dat            Hi-Res Ring  8 x 0.0625
+   changed to    ~Hi-Res Ring  8 x 0.0625 (Obsolete)
+   48\1-24rin3.dat            Hi-Res Ring  3 x 0.0417
+   changed to    ~Hi-Res Ring  3 x 0.0417 (Obsolete)
+   48\1-24rin4.dat            Hi-Res Ring  4 x 0.0417
+   changed to    ~Hi-Res Ring  4 x 0.0417 (Obsolete)
+   48\1-24rin5.dat            Hi-Res Ring  5 x 0.0417
+   changed to    ~Hi-Res Ring  5 x 0.0417 (Obsolete)
+   48\1-24rin6.dat            Hi-Res Ring  6 x 0.0417
+   changed to    ~Hi-Res Ring  6 x 0.0417 (Obsolete)
+   48\1-24rin7.dat            Hi-Res Ring  7 x 0.0417
+   changed to    ~Hi-Res Ring  7 x 0.0417 (Obsolete)
+   48\1-3rin17.dat            Hi-Res Ring 17 x 0.3333
+   changed to    ~Hi-Res Ring 17 x 0.3333 (Obsolete)
+   48\1-48rin6.dat            Hi-Res Ring  6 x 0.0208
+   changed to    ~Hi-Res Ring  6 x 0.0208 (Obsolete)
+   48\1-48rin9.dat            Hi-Res Ring  9 x 0.0208
+   changed to    ~Hi-Res Ring  9 x 0.0208 (Obsolete)
+   48\1-4rin10.dat            Hi-Res Ring 10 x 0.25
+   changed to    ~Hi-Res Ring 10 x 0.25 (Obsolete)
+   48\1-4rin13.dat            Hi-Res Ring 13 x 0.25
+   changed to    ~Hi-Res Ring 13 x 0.25 (Obsolete)
+   48\1-4rin14.dat            Hi-Res Ring 14 x 0.25
+   changed to    ~Hi-Res Ring 14 x 0.25 (Obsolete)
+   48\1-4rin19.dat            Hi-Res Ring 19 x 0.25
+   changed to    ~Hi-Res Ring 19 x 0.25 (Obsolete)
+   48\1-4rin20.dat            Hi-Res Ring 20 x 0.25
+   changed to    ~Hi-Res Ring 20 x 0.25 (Obsolete)
+   48\1-4rin21.dat            Hi-Res Ring 21 x 0.25
+   changed to    ~Hi-Res Ring 21 x 0.25 (Obsolete)
+   48\1-4rin22.dat            Hi-Res Ring 22 x 0.25
+   changed to    ~Hi-Res Ring 22 x 0.25 (Obsolete)
+   48\1-4rin23.dat            Hi-Res Ring 23 x 0.25
+   changed to    ~Hi-Res Ring 23 x 0.25 (Obsolete)
+   48\1-4rin24.dat            Hi-Res Ring 24 x 0.25
+   changed to    ~Hi-Res Ring 24 x 0.25 (Obsolete)
+   48\1-4rin25.dat            Hi-Res Ring 25 x 0.25
+   changed to    ~Hi-Res Ring 25 x 0.25 (Obsolete)
+   48\1-4rin26.dat            Hi-Res Ring 26 x 0.25
+   changed to    ~Hi-Res Ring 26 x 0.25 (Obsolete)
+   48\1-4rin27.dat            Hi-Res Ring 27 x 0.25
+   changed to    ~Hi-Res Ring 27 x 0.25 (Obsolete)
+   48\1-4rin34.dat            Hi-Res Ring 34 x 0.25
+   changed to    ~Hi-Res Ring 34 x 0.25 (Obsolete)
+   48\1-4rin35.dat            Hi-Res Ring 35 x 0.25
+   changed to    ~Hi-Res Ring 35 x 0.25 (Obsolete)
+   48\1-4rin36.dat            Hi-Res Ring 36 x 0.25
+   changed to    ~Hi-Res Ring 36 x 0.25 (Obsolete)
+   48\1-4rin37.dat            Hi-Res Ring 37 x 0.25
+   changed to    ~Hi-Res Ring 37 x 0.25 (Obsolete)
+   48\1-4rin38.dat            Hi-Res Ring 38 x 0.25
+   changed to    ~Hi-Res Ring 38 x 0.25 (Obsolete)
+   48\1-4rin39.dat            Hi-Res Ring 39 x 0.25
+   changed to    ~Hi-Res Ring 39 x 0.25 (Obsolete)
+   48\1-4rin40.dat            Hi-Res Ring 40 x 0.25
+   changed to    ~Hi-Res Ring 40 x 0.25 (Obsolete)
+   48\1-4rin41.dat            Hi-Res Ring 41 x 0.25
+   changed to    ~Hi-Res Ring 41 x 0.25 (Obsolete)
+   48\1-4rin45.dat            Hi-Res Ring 45 x 0.25
+   changed to    ~Hi-Res Ring 45 x 0.25 (Obsolete)
+   48\1-4rin48.dat            Hi-Res Ring 48 x 0.25
+   changed to    ~Hi-Res Ring 48 x 0.25 (Obsolete)
+   48\1-4rin63.dat            Hi-Res Ring 63 x 0.25
+   changed to    ~Hi-Res Ring 63 x 0.25 (Obsolete)
+   48\1-4rin64.dat            Hi-Res Ring 64 x 0.25
+   changed to    ~Hi-Res Ring 64 x 0.25 (Obsolete)
+   48\1-4rin65.dat            Hi-Res Ring 65 x 0.25
+   changed to    ~Hi-Res Ring 65 x 0.25 (Obsolete)
+   48\1-4rin70.dat            Hi-Res Ring 70 x 0.25
+   changed to    ~Hi-Res Ring 70 x 0.25 (Obsolete)
+   48\1-4rin71.dat            Hi-Res Ring 71 x 0.25
+   changed to    ~Hi-Res Ring 71 x 0.25 (Obsolete)
+   48\1-4rin82.dat            Hi-Res Ring 82 x 0.25
+   changed to    ~Hi-Res Ring 82 x 0.25 (Obsolete)
+   48\1-4rin83.dat            Hi-Res Ring 83 x 0.25
+   changed to    ~Hi-Res Ring 83 x 0.25 (Obsolete)
+   48\1-6rin16.dat            Hi-Res Ring 16 x 0.1667
+   changed to    ~Hi-Res Ring 16 x 0.1667 (Obsolete)
+   48\1-6rin18.dat            Hi-Res Ring 18 x 0.1667
+   changed to    ~Hi-Res Ring 18 x 0.1667 (Obsolete)
+   48\1-6rin47.dat            Hi-Res Ring 47 x 0.1667
+   changed to    ~Hi-Res Ring 47 x 0.1667 (Obsolete)
+   48\1-6rin50.dat            Hi-Res Ring 50 x 0.1667
+   changed to    ~Hi-Res Ring 50 x 0.1667 (Obsolete)
+   48\1-8rin14.dat            Hi-Res Ring 14 x 0.125
+   changed to    ~Hi-Res Ring 14 x 0.125 (Obsolete)
+   48\1-8rin16.dat            Hi-Res Ring 16 x 0.125
+   changed to    ~Hi-Res Ring 16 x 0.125 (Obsolete)
+   48\1-8rin20.dat            Hi-Res Ring 20 x 0.125
+   changed to    ~Hi-Res Ring 20 x 0.125 (Obsolete)
+   48\1-8rin28.dat            Hi-Res Ring 28 x 0.125
+   changed to    ~Hi-Res Ring 28 x 0.125 (Obsolete)
+   48\1-8rin35.dat            Hi-Res Ring 35 x 0.125
+   changed to    ~Hi-Res Ring 35 x 0.125 (Obsolete)
+   48\1-8rin39.dat            Hi-Res Ring 39 x 0.125
+   changed to    ~Hi-Res Ring 39 x 0.125 (Obsolete)
+   48\1-8rin56.dat            Hi-Res Ring 56 x 0.125
+   changed to    ~Hi-Res Ring 56 x 0.125 (Obsolete)
+   48\2-4rin17.dat            Hi-Res Ring 17 x 0.5
+   changed to    ~Hi-Res Ring 17 x 0.5 (Obsolete)
+   48\2-4rin19.dat            Hi-Res Ring 19 x 0.5
+   changed to    ~Hi-Res Ring 19 x 0.5 (Obsolete)
+   48\2-4rin31.dat            Hi-Res Ring 31 x 0.5
+   changed to    ~Hi-Res Ring 31 x 0.5 (Obsolete)
+   48\3-16rin7.dat            Hi-Res Ring  7 x 0.1875
+   changed to    ~Hi-Res Ring  7 x 0.1875 (Obsolete)
+   48\3-16rin8.dat            Hi-Res Ring  8 x 0.1875
+   changed to    ~Hi-Res Ring  8 x 0.1875 (Obsolete)
+   48\4-4rin11.dat            Hi-Res Ring 11 x 1.0
+   changed to    ~Hi-Res Ring 11 x 1.0 (Obsolete)
+   48\4-4rin12.dat            Hi-Res Ring 12 x 1.0
+   changed to    ~Hi-Res Ring 12 x 1.0 (Obsolete)
+   48\4-4rin13.dat            Hi-Res Ring 13 x 1.0
+   changed to    ~Hi-Res Ring 13 x 1.0 (Obsolete)
+   48\4-4rin19.dat            Hi-Res Ring 19 x 1.0
+   changed to    ~Hi-Res Ring 19 x 1.0 (Obsolete)
+   48\4-4rin22.dat            Hi-Res Ring 22 x 1.0
+   changed to    ~Hi-Res Ring 22 x 1.0 (Obsolete)
+   48\4-4rin27.dat            Hi-Res Ring 27 x 1.0
+   changed to    ~Hi-Res Ring 27 x 1.0 (Obsolete)
+   48\4-4rin28.dat            Hi-Res Ring 28 x 1.0
+   changed to    ~Hi-Res Ring 28 x 1.0 (Obsolete)
+   48\4-4rin34.dat            Hi-Res Ring 34 x 1.0
+   changed to    ~Hi-Res Ring 34 x 1.0 (Obsolete)
+   48\4-4rin37.dat            Hi-Res Ring 37 x 1.0
+   changed to    ~Hi-Res Ring 37 x 1.0 (Obsolete)
+   48\4-4rin41.dat            Hi-Res Ring 41 x 1.0
+   changed to    ~Hi-Res Ring 41 x 1.0 (Obsolete)
+   48\4-4rin47.dat            Hi-Res Ring 47 x 1.0
+   changed to    ~Hi-Res Ring 47 x 1.0 (Obsolete)
+   48\4-4rin49.dat            Hi-Res Ring 49 x 1.0
+   changed to    ~Hi-Res Ring 49 x 1.0 (Obsolete)
+   48\4-4rin50.dat            Hi-Res Ring 50 x 1.0
+   changed to    ~Hi-Res Ring 50 x 1.0 (Obsolete)
+   48\4-4rin52.dat            Hi-Res Ring 52 x 1.0
+   changed to    ~Hi-Res Ring 52 x 1.0 (Obsolete)
+   48\4-4rin53.dat            Hi-Res Ring 53 x 1.0
+   changed to    ~Hi-Res Ring 53 x 1.0 (Obsolete)
+   48\4-4rin54.dat            Hi-Res Ring 54 x 1.0
+   changed to    ~Hi-Res Ring 54 x 1.0 (Obsolete)
+   48\4-4rin97.dat            Hi-Res Ring 97 x 1.0
+   changed to    ~Hi-Res Ring 97 x 1.0 (Obsolete)
+   48\5-24rin7.dat            Hi-Res Ring  7 x 0.2083
+   changed to    ~Hi-Res Ring  7 x 0.2083 (Obsolete)
+   48\5-48rin4.dat            Hi-Res Ring  4 x 0.1042
+   changed to    ~Hi-Res Ring  4 x 0.1042 (Obsolete)
+   48\5-48rin9.dat            Hi-Res Ring  9 x 0.1042
+   changed to    ~Hi-Res Ring  9 x 0.1042 (Obsolete)
+   48\5-6rin16.dat            Hi-Res Ring 16 x 0.8333
+   changed to    ~Hi-Res Ring 16 x 0.8333 (Obsolete)
+   48\7-24rin4.dat            Hi-Res Ring  4 x 0.2917
+   changed to    ~Hi-Res Ring  4 x 0.2917 (Obsolete)
+   48\7-48rin5.dat            Hi-Res Ring  5 x 0.1458
+   changed to    ~Hi-Res Ring  5 x 0.1458 (Obsolete)
+
+Other Fixed Parts
+   13358.dat                  Duplo Brick  2 x  2 Hinge Base
+   32316.dat                  Technic Beam  5
+   92474.dat                  Windscreen  6 x  2 x  2 with Handle
+   s\13358s01.dat             ~Duplo Train Crossing Gate Base Quarter
+   s\6578s01.dat              ~Tyre 14/ 36 x 20 VR Tread Subpart
+   s\2865s01.dat              ~Train Track  9V Sleeper Centre Section with Hole
+   s\2865s02.dat              ~Train Track  9V Sleeper Centre Section without Hole
+   48\3-8edge.dat             Hi-Res Circle 0.375
+   48\4-4con17.dat            Hi-Res Cone 17 x 1.0
+   48\4-4con30.dat            Hi-Res Cone 30 x 1.0
+   48\1-4con1.dat             Hi-Res Cone  1 x 0.25
+   48\1-4con2.dat             Hi-Res Cone  2 x 0.25
+   5-8ring3.dat               Ring  3 x 0.625
+   1-8con1.dat                Cone  1 x 0.125
+   3-16con1.dat               Cone  1 x 0.1875
+   znap6.dat                  Znap Beam End
+   48\4-4con16.dat            Hi-Res Cone 16 x 1.0
+   13-16cyli.dat              Cylinder 0.8125
+   3-8ring6.dat               Ring  6 x 0.375
+   48\1-4con14.dat            Hi-Res Cone 14 x 0.25
+   13-16edge.dat              Circle 0.8125
+   4-4con16.dat               Cone 16 x 1.0
+   axl3hol6.dat               Technic Axle Hole Semi-Reduced Tooth
+   48\4-4con20.dat            Hi-Res Cone 20 x 1.0
+   1-8tric.dat                Tri-Cylinder Intersection 0.125
+   3-4ring9.dat               Ring  9 x 0.75
+   7-8ring3.dat               Ring  3 x 0.875
+   bush.dat                   Technic Bush without Base Collar
+   48\1-4con23.dat            Hi-Res Cone 23 x 0.25
+   48\1-8ring6.dat            Hi-Res Ring  6 x 0.125
+   48\2-4ring4.dat            Hi-Res Ring  4 x 0.5
+   48\2-4ring6.dat            Hi-Res Ring  6 x 0.5
+   48\4-4con41.dat            Hi-Res Cone 41 x 1.0
+   1-4con10.dat               Cone 10 x 0.25
+   1-8ring7.dat               Ring  7 x 0.125
+   2-4ring19.dat              Ring 19 x 0.5
+   primobot.dat               Duplo Primo Anti-Stud
+   48\4-4con18.dat            Hi-Res Cone 18 x 1.0
+   48\4-4con21.dat            Hi-Res Cone 21 x 1.0
+   48\4-4con22.dat            Hi-Res Cone 22 x 1.0
+   toothl.dat                 Single Tooth for Large Technic Gears
+   stud4f2s.dat               Stud Tube Open with  2 Fillets Standard Opposite
+   primotop.dat               Duplo Primo Top Stud
+   stud4f2n.dat               Stud Tube Open with  2 Fillets Narrow Opposite
+   48\4-4con0.dat             Hi-Res Cone  0 x 1.0
+   48\4-4crh2.dat             Click Rotation Ring 24 Tooth without Stop
+   2-4con7.dat                Cone  7 x 0.5
+   filletr1s.dat              Fillet Reinforced 3 LDU to Side-Wall
+   t04o1765.dat               Torus Outside  1 x 0.1765 x 0.25
+   filletr2s.dat              Fillet Reinforced 3 LDU to Corner-Walls
+   tooth24.dat                Single Tooth for Technic Gear 24 Tooth
+   48\1-4con13.dat            Hi-Res Cone 13 x 0.25
+   48\2-4ring1.dat            Hi-Res Ring  1 x 0.5
+   48\4-4con27.dat            Hi-Res Cone 27 x 1.0
+   1-4con18.dat               Cone 18 x 0.25
+   1-4con23.dat               Cone 23 x 0.25
+   7-8ring8.dat               Ring  8 x 0.875
+   r04o3000.dat               Torus Outside  1 x 3.0000 x 0.25
+   stud4f1s.dat               Stud Tube Open with  1 Fillet Standard
+   48\1-4con24.dat            Hi-Res Cone 24 x 0.25
+   48\2-4ring5.dat            Hi-Res Ring  5 x 0.5
+   1-4con13.dat               Cone 13 x 0.25
+   1-4con24.dat               Cone 24 x 0.25
+   32203.dat                  Znap Beam  3 Holes
+   32204.dat                  Znap Beam Angle  4 Holes
+   32205.dat                  Znap Beam Curved  3 Holes
+   32206.dat                  Znap Beam Angle  5 Holes
+   32208.dat                  Znap Beam Angle  9 Holes
+   32210.dat                  Znap Beam  1 Hole
+   32213.dat                  Znap Grid 15 Holes
+   32216.dat                  Znap Beam Curved 14 Holes
+   32229.dat                  Znap Beam  7 Holes
+   32242.dat                  Znap Beam Angle  2 Holes
+   32246.dat                  Znap Beam Curved  4 Holes
+   32230.dat                  Znap Beam Curved  2 Holes
+   32218.dat                  Znap Beam Curved Double  4 Holes
+   t04i1429.dat               Torus Inside  1 x 0.1429 x 0.25
+   48\1-16ring6.dat           Hi-Res Ring  6 x 0.0625
+   r04o4600.dat               Torus Outside  1 x 4.6000 x 0.25
+   48\1-4con16.dat            Hi-Res Cone 16 x 0.25
+   48\1-4con41.dat            Hi-Res Cone 41 x 0.25
+   32214.dat                  Znap Beam Angle  8 Holes
+   48\4-4crh1.dat             Click Rotation Ring 24 Tooth with Stop
+   1-16con1.dat               Cone  1 x 0.0625
+   1-4con28.dat               Cone 28 x 0.25
+   1-8con20.dat               Cone 20 x 0.125
+   2-4con13.dat               Cone 13 x 0.5
+   2-4ring43.dat              Ring 43 x 0.5
+   t04o1111.dat               Torus Outside  1 x 0.1111 x 0.25
+   t04o3750.dat               Torus Outside  1 x 0.3750 x 0.25
+   tooth8a.dat                Single Tooth for Technic Gear  8 Tooth Reinforced
+   48\1-16con20.dat           Hi-Res Cone 20 x 0.0625
+   48\1-16ring14.dat          Hi-Res Ring 14 x 0.0625
+   48\1-16ring15.dat          Hi-Res Ring 15 x 0.0625
+   48\1-4con52.dat            Hi-Res Cone 52 x 0.25
+   8\stud8.dat                Stud Duplo Tube (Fast-Draw)
+   48\11-48ring19.dat         Hi-Res Ring 19 x 0.2292
+   48\2-4ring2.dat            Hi-Res Ring  2 x 0.5
+   npeghol13.dat              Technic Peg Hole with Extended Perimeter (Two Sides) and Surface
+   npeghol6b.dat              Technic Peg Hole Negative 0.25 with Middle Tab
+   npeghol12.dat              Technic Peg Hole with Extended Perimeter (One Side) and Surface
+   npeghol6d.dat              Technic Peg Hole Negative 0.25 without Extension
+   npeghol7a.dat              Technic Peg Hole Negative 0.5 with Top Surface Extensions
+   npeghol15b.dat             Technic Peg Hole Corner with Wide Tabs on 1 Side 0.125
+   npeghol6a.dat              Technic Peg Hole Negative 0.25
+   npeghol7.dat               Technic Peg Hole Negative 0.5 without Top Surface Extensions
+   npeghol5.dat               Technic Peg Hole 0.5 / Axle Hole Negative with Top Surface Extension
+   npeghol3.dat               Technic Peg Hole / Axle Hole Negative without Top Surface Extensions
+   npeghole.dat               Technic Peg Hole Negative without Top Surface Extensions
+   npeghol4.dat               Technic Peg Hole / Axle Hole Negative with Top Surface Extension
+   2-4ring37.dat              Ring 37 x 0.5
+   1-16ring11.dat             Ring 11 x 0.0625
+   2-4ring44.dat              Ring 44 x 0.5
+   3-8con2.dat                Cone  2 x 0.375
+   3-8ring21.dat              Ring 21 x 0.375
+   t04o1905.dat               Torus Outside  1 x 0.1905 x 0.25
+   t04o3077.dat               Torus Outside  1 x 0.3077 x 0.25
+   t04o7000.dat               Torus Outside  1 x 0.7000 x 0.25
+   t04o8889.dat               Torus Outside  1 x 0.8889 x 0.25
+   t04q1538.dat               Torus Tube  1 x 0.1538 x 0.25
+   48\3-4ring7.dat            Hi-Res Ring  7 x 0.75
+   r04o1333.dat               Torus Outside  1 x 1.3333 x 0.25
+   1-8ring33.dat              Ring 33 x 0.125
+   48\1-12ring3.dat           Hi-Res Ring  3 x 0.0833
+   48\1-16ring13.dat          Hi-Res Ring 13 x 0.0625
+   48\1-24ring10.dat          Hi-Res Ring 10 x 0.0417
+   48\1-4con21.dat            Hi-Res Cone 21 x 0.25
+   48\1-8ring19.dat           Hi-Res Ring 19 x 0.125
+   48\11-48ring40.dat         Hi-Res Ring 40 x 0.2292
+   48\5-24ring13.dat          Hi-Res Ring 13 x 0.2083
+   48\t04i0455.dat            Hi-Res Torus Inside  1 x 0.0455 x 0.25
+   48\t04o0455.dat            Hi-Res Torus Outside  1 x 0.0455 x 0.25
+   48\t08o0625.dat            Hi-Res Torus Outside  1 x 0.0625 x 0.125
+   peghole4.dat               Peg Hole End Extended Short
+   peghole5.dat               Peg Hole End Extended Medium
+   8\stud4s.dat               Stud Tube Open Sloped (Fast-Draw)
+   8\stud4s2.dat              Stud Tube Open 0.500 Sloped (Fast-Draw)
+   8\stud2s.dat               Stud Tube Open Sliced (Fast-Draw)
+   s\3039s01.dat              ~Slope Brick 45  2 x  2 without Front Face
+   s\3626bs02.dat             ~Minifig Head - Stud Hollow without Outer Face
+   3-16ring1.dat              Ring  1 x 0.1875
+   7-16ring3.dat              Ring  3 x 0.4375
+   003439a.dat                Sticker  1.6 x  2.7 with White "171" on Black
+   003497h.dat                Sticker Minifig Torso with Red Shirt with Four Buttons and Patch Pockets
+   004757a.dat                Sticker  1.3 x  1.3 with White French Railways Logo ("SNCF")
+   10040.dat                  ~Motor Pull Back  8 x  4 x  0.667 - Top
+   10041.dat                  ~Motor Pull Back  8 x  4 x  0.667 - Bottom
+   10152.dat                  Electric Power Functions Servo Motor Axle Hub
+   10361.dat                  ~Electric Mindstorms EV3 Ultrasonic Sensor Front
+   10928.dat                  Technic Gear  8 Tooth Reinforced
+   11026.dat                  ~Electric Mindstorms EV3 Buttons Frame
+   11033.dat                  ~Electric Mindstorms EV3 Mini-USB Socket
+   11096.dat                  Minifig Axe Head Twin-bladed with Hole
+   11209.dat                  Tyre 10/ 32 x 14
+   11455.dat                  Technic Link  2 x  4 Bent 90 with One Offset Transverse Peghole
+   11458.dat                  Plate  1 x  2 with Offset Peghole
+   11949.dat                  Technic Steering Wheel Bearing w/ 2 Pegholes & 2 Ball Joint Arms
+   11950.dat                  Technic Steering Wheel Bearing with  2 Pegholes
+   11954.dat                  Technic Panel Smooth 11 x  2 x  3 with 10 Front Pin Holes
+   11955.dat                  Technic Gear  8 Tooth Reinforced Sliding
+   11957.dat                  Tyre 19/ 67 x 75 Motorcycle with Motocross Tread
+   127.dat                    ~Technic Pneumatic Cylinder 2 x 2 x 3.5
+   128.dat                    ~Technic Pneumatic Cylinder 2 x 2 Cap
+   12884.dat                  Bucket  1 x  1 x  1 Cylindrical
+   13459.dat                  Signpost Ornamented Type 2
+   13971.dat                  Wheel Rim  8 x 18 with Deep Centre Groove, Deep Spokes and Peghole
+   14769p0a.dat               Tile  2 x  2 Round with Round Underside Stud with Clock and Roman Numerals Pattern
+   14769p0f.dat               Tile  2 x  2 Round with Round Underside Stud with Clock Pattern
+   14769p0h.dat               Tile  2 x  2 Round with Blue Bird with Raised Wings and Flag with Red, White and Blue Stars and Stripes Pattern
+   14769p0m.dat               Tile  2 x  2 Round with Round Underside Stud with Clock Pattern with Red Second Hand Pattern
+   14769p84.dat               Tile  2 x  2 Round with Round Underside Stud with Sunny Side Up Egg, Noodles and Vegetables Pattern
+   14769px2.dat               Tile  2 x  2 Round with Round Underside Stud with Metallic Silver Mechanical Pattern
+   15038.dat                  Wheel Rim 34 x 56 with  6 Spokes and  6 Pegholes
+   15038p01.dat               Wheel Rim 34 x 56 with  6 Spokes and  6 Pegholes with White Rim Front Pattern
+   15411.dat                  Brick  1 x  1 with Conductive Element and Stud on Opposite Sides
+   15459.dat                  Technic Suspension Arm  1 x  5 Type 1
+   15515.dat                  Duplo Plant Flower  4 x  4 x  1 with  5 Round Petals and  4 Top Studs
+   15535p03.dat               Tile  2 x  2 Round with Hole with Rotor Blade Pattern
+   164.dat                    ~Boat Section Stern  6 x  8 x  3.333 (Needs Work)
+   169675d.dat                Sticker  1.9 x  1.9 Round with "10 m" Height Restriction Sign
+   18450.dat                  Tyre 44/ 91 x 43 R
+   18575.dat                  Technic Gear 20 Tooth Double Bevel Reinforced
+   18587.dat                  Technic Projectile Launcher Six-Shooter Trigger
+   18603.dat                  ~Brick  4 x  4 x  0.667 Round - Bottom
+   18897.dat                  Brick  6 x  6 Round with Holes
+   18947.dat                  Technic Transmission Driving Ring  3L
+   18948.dat                  Technic Axle Joiner  3L with Ridges for Driving Ring
+   18974.dat                  Car Mudguard  4 x  2.5 x  2.333
+   18976.dat                  Wheel Rim 11 x 18 with Vented Disc Brake
+   18977.dat                  Tyre 11.2/ 28 x 17.6 Intermediate
+   18978a.dat                 Wheel Rim 11 x 18 Front with  5 Spokes
+   18978b.dat                 Wheel Rim 11 x 18 Front with 10 Angled Spokes
+   18979a.dat                 Wheel Rim 11 x 18 Front with  7 Y-Shaped Spokes
+   18979b.dat                 Wheel Rim 11 x 18 Front with 10 Spokes
+   18980.dat                  Plate  2 x  6 with Two Rounded Corners
+   190295d.dat                Sticker  2.3 x  2.5 with Clock Hands  8:00:22 on Red Background
+   190735a.dat                Sticker  1.3 x  1.3 Round with Blue Snowflake Logo
+   190735b.dat                Sticker  3.2 x  3.2 Round with Blue Snowflake Logo
+   190736a.dat                Sticker  4.2 x  4.2 Round with Blue Snowflake Logo
+   191915i.dat                Sticker  1.1 x  1.9 with "Basel / Hamburg"
+   191915j.dat                Sticker  1.1 x  1.9 with "Paris / Roma"
+   191915k.dat                Sticker  1.1 x  1.9 with "Wien / Zürich"
+   191915l.dat                Sticker  1.1 x  1.9 with "Brussell / Amsterdam"
+   19215.dat                  Wheel Cover  5 Spoke Thick with Edge Bolts
+   19466.dat                  ~Technic Pneumatic Cylinder  2 x 11 with  2 Ports Body
+   195985e.dat                Sticker  2.1 x  2.1 Round with Blue Motorcycle and Red Circle
+   20309.dat                  Window  1 x  4 x  1.667 Half Round with 3 Radial Dividers
+   20310.dat                  Brick  1 x  1 with Scroll with Open Stud
+   2038.dat                   Signpost Ornamented Type 1
+   20401.dat                  Decoration Ball 11.3
+   2043.dat                   Container Cupboard  2 x  6 x  7 Door
+   22969.dat                  ~Wheel 56 x 46 Technic Racing (Obsolete)
+   22969a.dat                 Wheel 56 x 46 Technic Racing
+   22994.dat                  ~Electric Power Functions 2.0 Hub Diffusing Glass
+   23221k02.dat               ~Hose  3 x 32 x  2.333 - Segment End
+   2343.dat                   Minifig Goblet
+   2359p01.dat                Baseplate 32 x 32 Road 7-Stud Curve with Road Pattern
+   2360p01.dat                Baseplate 32 x 32 Road 7-Stud T-Junction with Crosswalk Pattern
+   2361p01.dat                Baseplate 32 x 32 Road 7-Stud Crossroads with Crosswalk Pattern
+   2361p02.dat                Baseplate 32 x 32 Road 7-Stud Crossroads w/ Runway Wide Pattern
+   2361p03.dat                Baseplate 32 x 32 Road 7-Stud Crossroads w/ Runway Narrow Patt.
+   2375.dat                   Hinge Bar 12 with Split Rod Holder
+   23798.dat                  Tyre 44/ 58 x 56 R Tractor
+   23799.dat                  Tyre 44/ 22 x 62 ZR
+   23800.dat                  Wheel Rim 42 x 62 with 10 Spokes and  3 Pegholes
+   24122.dat                  Technic Axle Hole with  2 Perpendicular Bar Tubes
+   242.dat                    ~Wheel Spoked with Stud
+   24308a.dat                 Wheel Rim 11 x 18 Front with 10 Parallel Spokes
+   2431pa0.dat                Tile  1 x  4 with Hieroglyphs and Minifig Pattern
+   2431pc0.dat                Tile  1 x  4 with Train Controls Pattern
+   2431pc1.dat                Tile  1 x  4 with Control Panel Pattern
+   2431pw1.dat                Tile  1 x  4 with "LEGOREDO" Pattern
+   2431pz6.dat                Tile  1 x  4 with Dark Red Lines and White and Yellow Circle Pattern
+   244.dat                    ~Train Wheel Spoked with Conical Rim
+   2470.dat                   Wheel  2.8 x 27 with  8 Spokes
+   2475.dat                   Brush Holder Car Wash
+   2476a.dat                  Plate  2 x  2 with Pin Type 1
+   2476b.dat                  Plate  2 x  2 with Pin Type 2
+   24851.dat                  ~Electric Powered Up 2 Port Battery Box Bottom
+   2489.dat                   Barrel  2 x  2 x  1.667
+   24946.dat                  Animal Egg  1.2 x  1.2 x  1.333 with Hole on Top
+   2515a.dat                  Wheel 32 x 56 Hard-Plastic without Inner Supports
+   2515b.dat                  Wheel 32 x 56 Hard-Plastic with Inner Supports
+   25269p06.dat               Tile  1 x  1 Corner Round with Red Watermelon Pattern
+   25269p07.dat               Tile  1 x  1 Corner Round with Dark Pink Watermelon Pattern
+   2539.dat                   Plate  6 x  6 Open Center without 4 Corners with 4 Clips
+   2543.dat                   Minifig Hat Rag
+   2544.dat                   Minifig Hat Tricorne
+   2564.dat                   Boat Anchor
+   2572.dat                   Panel  6 x  6 x  9 with Curved Top
+   2573.dat                   Wheel 48 x 76 with Tread on Sidewall
+   2586p4f.dat                Minifig Shield Ovoid with Bat Pattern
+   2586p4g.dat                Minifig Shield Ovoid with Bull Head Pattern
+   2586ph2.dat                Minifig Shield Ovoid with Silver Snake Pattern
+   2586ps1.dat                Minifig Shield Ovoid with SW Gungan Patrol Shield Pattern
+   26007.dat                  Minifig Hat Conical Asian with Curved Sides
+   26280.dat                  ~Technic Pneumatic Pump  2 x  2 Base with  3L Beam
+   2648.dat                   Container Lifting Grab Tool Half
+   2687.dat                   Monorail Base  4 x 20
+   2695.dat                   Wheel Rim 12.7 x 30 Stepped
+   2716.dat                   Technic Action Figure Helmet Visor (Needs Work)
+   272.dat                    Cone  4 x  4 x  3
+   2723.dat                   Technic Disc  3 x  3 with Axlehole
+   2723p01.dat                Technic Disc  3 x  3 with Axlehole and Metallic Silver Disc Brake Pattern
+   27255.dat                  Plate  6 x  6 Hexagonal with Pin Hole and Handles
+   273.dat                    Technic Chain Link with Two Studs
+   2740.dat                   ~Technic Gear 24 Tooth with Peghole and Shaft
+   27448.dat                  Turntable Flat Base  2 x  2
+   2745.dat                   Technic Cylinder  4 x  4 x  1.667 with Axleholes
+   2771.dat                   ~Monorail Track Stop/Go Switch Pivot
+   2775.dat                   ~Electric Plug (Type 4) Twin Extra-Wide
+   2791a.dat                  Technic Steering Gear Holder
+   27925p01.dat               Tile  2 x  2 Corner Round with Rainbow Stripes Pattern
+   2793.dat                   ~Technic Pneumatic Cylinder 2 x 2 x 5 with 2 Ports
+   2795.dat                   ~Technic Pneumatic Cylinder 2 x 2 x 1 Cap with Port Slot
+   27956.dat                  Minifig Head Alien E. T.
+   27956px1.dat               Minifig Head Alien E. T. with Blue Eyes and Grin Pattern
+   2797.dat                   ~Technic Pneumatic Cylinder 2 x 2 Base Type 2
+   2798.dat                   ~Technic Pneumatic Cylinder 2 x 2 x 4
+   2799.dat                   ~Technic Pneumatic Cylinder  2 x  2 Piston with Large Knob Handle
+   2804.dat                   ~Technic Pneumatic Cylinder 2 x 2 x 1 Cap without Port Slot
+   281.dat                    Window  1.25 x  4 x  3 with Rounded Top
+   28125.dat                  Minifig Headdress Bald Head High
+   2844.dat                   ~Technic Control Centre II - Large Round Button
+   2855.dat                   Technic Turntable Type 1 Top
+   2856.dat                   Technic Turntable Type 1 Bottom
+   2866.dat                   Train Track  9V Points Lever
+   2870.dat                   Train Speed Regulator  9V - Dial
+   2879.dat                   ~Train Wheel with Open Centre for Wheel Bogie
+   2895.dat                   ~Train Wheel  9V with Electrical Contact
+   2900.dat                   Technic Flex-System Pin Hole Connector
+   2903.dat                   Wheel Rim 14 x 62 Motorcycle
+   2908.dat                   Technic Helicopter Rotor Holder
+   2911.dat                   ~Monorail Track Points Interior Shover
+   29117a.dat                 Wheel Rim 11 x 18 Front with  5 Wide Spokes
+   2942.dat                   ~Technic Pneumatic Cylinder 1 x 1 for Pump 5.5L
+   2986a.dat                  ~Electric Technic Micromotor Pulley - Pulley
+   2994.dat                   Wheel 12 x 20 with Technic Axle Hole and 6 Pegholes
+   2996.dat                   Wheel Rim 30 x 30 with 40mm Diameter Rear Rim
+   2999.dat                   Technic Large Wheel Hub
+   3001p12.dat                Brick  2 x  4 with Red Maple Leaf Air Canada Logo Pattern
+   30027a.dat                 Wheel Rim  8 x  8 Round Hole, for Wheel Holding Pin
+   30027b.dat                 Wheel Rim  8 x  8 Notched Hole, Two Slots, for Wheel Holding Pin
+   30027c.dat                 Wheel Rim  8 x  8 Notched Hole, One Slot, for Wheel Holding Pin
+   30027d.dat                 Wheel Rim  8 x  8 Notched Hole, One Slot, Recessed Cross, for Wheel Holding Pin
+   3003pe7.dat                Brick  2 x  2 with Centred White Eye Pattern
+   3004pz7.dat                Brick  1 x  2 with Boombox Pattern
+   30080b.dat                 ~Panel  4 x  3 x  3 with Porthole
+   30081.dat                  ~Glass for Panel  4 x  3 x  3 with Porthole
+   3009p01.dat                Brick  1 x  6 with Town Car Grille Black Pattern
+   3009pt2.dat                Brick  1 x  6 with Black Philips Pattern
+   30106.dat                  Tile  2 x  2 Round with Globe  2 x  2 x  2
+   30131.dat                  Tree  6 x  6 Hollow Stump
+   30139.dat                  Barrel  4 x  4 x  3.5
+   30154.dat                  Minifig Sextant
+   30155.dat                  Wheel Rim  8 x 18 with 12 Spokes and Peghole
+   30175.dat                  Minifig Helmet Samurai
+   3018.dat                   Container  3 x  3 x  1 Salt and Pepper Shaker Bottom (Needs Work)
+   30190.dat                  Wheel Rim 11.2 x 10.4 with Stub Axles
+   30194.dat                  Minifig Circular Blade Saw
+   30209.dat                  Bracket  1 x  2 - Dish  4 x  4
+   30261p02.dat               Roadsign Clip-on  2 x  2 Round with Speed Limit "50" Pattern
+   30261p03.dat               Roadsign Clip-on  2 x  2 Round with Arrow on Blue Pattern
+   30261p04.dat               Roadsign Clip-on  2 x  2 Round with No Entry Pattern
+   30261p05.dat               Roadsign Clip-on  2 x  2 Round with No Parking Pattern
+   30273.dat                  Minifig Helmet with Chinstrap and Wide Brim
+   30285.dat                  Wheel Rim 14.8 x 16.8 with Centre Groove
+   30286.dat                  Rock Arctic Globe, Top
+   30324.dat                  Wheel Hard with Treads
+   30342.dat                  Rock Arctic Globe, Bottom
+   30377.dat                  Minifig Mechanical Arm with Clips Parallel
+   30398.dat                  Tipper Drum  4 x  4 x  5 with Two Pins
+   3039p72.dat                Slope Brick 45  2 x  2 with Red "2" and Green Stripes Pattern
+   3039p75.dat                Slope Brick 45  2 x  2 with Red/White "5" and White Stripe Pattern
+   3039p76.dat                Slope Brick 45  2 x  2 with Red/Yellow "6" Pattern
+   30516.dat                  ~Turntable  4 x  4 Locking Grooved Base
+   30535.dat                  Brick  2 x  4 x  4 with Propeller Housing
+   30589.dat                  ~Hose Air Pump 16 x 14 x 13 Valve Lock Ring (Needs Work)
+   3068bp01.dat               Tile  2 x  2 with Car Wash and Brush Pattern
+   3068bp02.dat               Tile  2 x  2 with Car Wash and Water Drops Pattern
+   3068bp70.dat               Tile  2 x  2 with Gauges Pattern
+   3068bps2.dat               Tile  2 x  2 with SW Pod Racer Pattern
+   3069bp28.dat               Tile  1 x  2 with Blue Screen, Red and Silver Panel Pattern
+   3069bp51.dat               Tile  1 x  2 with Yellow and Orange Display Pattern
+   3069bp53.dat               Tile  1 x  2 with Mars Orbit Display Pattern
+   3069bp54.dat               Tile  1 x  2 with UFO Controls Pattern
+   3069bpa0.dat               Tile  1 x  2 with Vehicle Gauges Pattern
+   3069bpa1.dat               Tile  1 x  2 with White "HC514" Pattern
+   3069bph0.dat               Tile  1 x  2 with Bag and Coins Pattern
+   3069bpzb.dat               Tile  1 x  2 with Light Bluish Grey Buttons on Metallic Silver Background Pattern
+   3070bp30.dat               Tile  1 x  1 with Magic Compass Pattern
+   308.dat                    ~Train Signal Semaphore Blade
+   309p02.dat                 Baseplate 32 x 32 Road 7-Stud Refuge with River Pattern
+   3139.dat                   Tyre  4/ 80 x  8 Single Smooth Type 1
+   31622.dat                  Duplo Gear 24 Tooth Crown
+   32007.dat                  Technic Tread Sprocket Wheel
+   32012.dat                  Technic Reel  2.5 x  2
+   32019.dat                  Tyre 20/ 64 x 37 S
+   32020.dat                  Wheel Rim 18 x 37 with 6 Pegholes and Long Axle Bush
+   32022.dat                  ~Electric Code Pilot Centre Part
+   32032.dat                  ~Technic Pneumatic Airtank End
+   32060.dat                  Technic Gear  8 Tooth Timing Wheel
+   32067.dat                  ~Technic Competition Cannon with Round Bottom Front Cover
+   32134.dat                  ~Technic Competition Arrow Rubber Tip
+   32170.dat                  Technic Gear Rack Double with Ball Joint
+   32180.dat                  Tyre 30/ 42 x 28 R Balloon
+   32187.dat                  Technic Transmission Driving Ring Extension
+   32219.dat                  Wheel 14 x 30 Znap
+   32220.dat                  Wheel 16 x 68 Znap
+   32227.dat                  Znap Connector  3 x  3 -  4 Way Rotating Section
+   32228.dat                  Znap Connector  3 x  3 - 4 Way Core Section
+   32269.dat                  Technic Gear 20 Tooth Double Bevel
+   32271.dat                  Technic Beam  3 x  7 Liftarm Bent 53.13
+   32296.dat                  Tyre 50/ 29 x 54 Technic Racing
+   32296p01.dat               Tyre 50/ 29 x 54 with White "Technic Racing" Pattern
+   32348.dat                  Technic Beam  4 x  4 Liftarm Bent 53.13
+   3298p01.dat                Slope Brick 33  3 x  2 with White "1" Outlined Pattern
+   3298p72.dat                Slope Brick 33  3 x  2 with Red "2" over Two Green Stripes Pattern
+   3298p75.dat                Slope Brick 33  3 x  2 with Red "5" and White Stripes Pattern
+   3298p76.dat                Slope Brick 33  3 x  2 with Red "6" Pattern
+   33008.dat                  Scala Flower Pot
+   33054.dat                  Minifig Mug
+   33061.dat                  Minifig Wine Glass
+   33089.dat                  Scala Support  4 x  4 x  5.667
+   33211.dat                  Wheel  3.2 x 43 with 10 Spokes Wooden
+   33213.dat                  Panel  6 x  8 x 12 Tower with Arched Window
+   33227.dat                  Door Frame  1 x  8 x 12
+   335.dat                    ~Technic Pneumatic Cylinder 2 x 2 x 5
+   3350p01.dat                Roadsign Round with No Entry Pattern
+   3350p07.dat                Roadsign Round with End of Speed Limit "40" Pattern
+   3350p08.dat                Roadsign Round with End of No Passing Pattern
+   3403.dat                   Turntable  4 x  4 Base
+   3404.dat                   Turntable  4 x  4 Top
+   3404d.dat                  ~Turntable  4 x  4 Round Top
+   3404e.dat                  ~Turntable  4 x  4 Round Base
+   3461.dat                   Propeller  4 Blade  5 Diameter with Rotor Holder
+   3462.dat                   Plate  2 x  3 with Rotor Holder
+   3480.dat                   Propeller  2 Blade  4 Diameter Helicopter Tail
+   3481.dat                   Plate  2 x  2 with Helicopter Tail Rotor Holder
+   3482.dat                   Wheel Rim  8 x 17.5 with Axlehole
+   35185.dat                  Technic Gear 20 Tooth Double Bevel with Clutch on Both Sides
+   35574.dat                  Beehive
+   35578.dat                  Tyre 14/ 70 x 17
+   35709.dat                  Minifig Costume Flowerpot
+   36.dat                     Tyre Large
+   3624.dat                   Minifig Police Hat
+   3634.dat                   Tyre 10/130 x 17 Offset Tread
+   3647.dat                   Technic Gear  8 Tooth
+   3679.dat                   Turntable  2 x  2 Plate Top
+   3741a.dat                  Plant Flower Stem
+   37776.dat                  Minifig Lantern
+   38014.dat                  Minifig Cup with Bar Handle
+   3808.dat                   Duplo Plate  2 x  4 x  0.333 Half Circle with 2 Studs
+   3878.dat                   Minifig Top Hat
+   3896.dat                   Minifig Helmet Castle with Chin-Guard
+   3898.dat                   Minifig Cook's Hat
+   39613.dat                  Plate  3 x  3 Heart Shape
+   3980.dat                   ~Window Fabuland Rectangular
+   4066bp18.dat               Duplo Brick  1 x  2 x  2 with Road Sign Speed Limit 50 Pattern
+   4075.dat                   ~Wheel 10 x  3
+   4081b.dat                  Plate  1 x  1 with Clip Light Type 2
+   4091.dat                   ~Wheel Fabuland Wheelbarrow
+   4100418h.dat               Sticker  1.9 x  1.9 with Video Screen
+   4112957a.dat               Sticker  1.0 x 11.8 with Pipe, Three Connectors and Lever Oriented Right
+   4125165a.dat               Sticker  1.9 x  1.9 Round Speedometer
+   4125165b.dat               Sticker  1.9 x  1.9 Round Tachometer
+   41334.dat                  Minifig Hat Knit Cap
+   4141.dat                   ~Technic Differential Casing
+   4142.dat                   ~Technic Differential Crown Wheel 28 Tooth
+   4147.dat                   ~Duplo Brick  1 x  4 x  3 with Clock Face - Short Hand
+   4150p00.dat                Tile  2 x  2 Round with Film/Tape Reel Pattern
+   4150p01.dat                Tile  2 x  2 Round with Grille Pattern
+   4150p03.dat                Tile  2 x  2 Round with Clock Pattern
+   4150p05.dat                Tile  2 x  2 Round with Black Exhaust Port Pattern
+   4150pf0.dat                Tile  2 x  2 Round with Red Rings Pattern
+   4150ps1.dat                Tile  2 x  2 Round with SW Red & Black Vent Pattern
+   4150ps3.dat                Tile  2 x  2 Round with Star Wars Dejarik Hologame Board Pattern
+   4150ps5.dat                Tile  2 x  2 Round with SW Imperial Pattern
+   4150ps6.dat                Tile  2 x  2 Round with SW Galactic Republic Pattern
+   4150ps7.dat                Tile  2 x  2 Round with Hatch Pattern
+   4150ps9.dat                Tile  2 x  2 Round with Vent Pattern
+   41531.dat                  Technic Cylinder  4 x  4 x  2 with 3 Pin Holes and Center Bar
+   41533.dat                  Brick  2 x  2  x  2 with  2 Holes and Click Rotation Ring
+   4158884a.dat               Sticker  3.2 x  3.2 Round with "9 3/4"
+   41665.dat                  Technic Beam  1 x  4 x  7 with  5 Axleholes and  2 Holes and  1 Slot
+   41667.dat                  Technic Arm  3 x  2 with Gear 36 Tooth Double Bevel Quarter
+   41679.dat                  Technic Beam  4 x  0.5 Liftarm with Click Rotation Hinge Half
+   41680.dat                  Technic Pin with Friction with Click Rotation Ring
+   41681.dat                  Technic Beam  3.8 x  1 Liftarm with Click Rotation Ring Socket
+   41732.dat                  Technic Pin Joiner Round with Slot, Bar and Pivot
+   41893.dat                  Tyre 36/ 36 x 43 H Off-Road
+   41896.dat                  Wheel Rim 26 x 43 with 6 Spokes and 3 Pegholes
+   41897.dat                  Tyre 28/ 23 x 43 ZR Street
+   4198p01.dat                Duplo Brick  2 x  4 x  2 with Rounded Ends with  2 Eyes Pattern
+   4198p07.dat                Duplo Brick  2 x  4 x  2 with Rounded Ends with Clock Pattern
+   4223.dat                   Fabuland Table
+   42235.dat                  Duplo Vehicle Cement Mixer Bucket
+   4231.dat                   Container  4 x  4 x  1.667 Lid
+   4238.dat                   Container  4 x  6 x  1.667 Lid
+   4258.dat                   Duplo Brick  2 x  4 x  2 with Rounded Ends with Eyes Sockets
+   4259.dat                   Wheel Rim 10 x 17.4 with 4 Studs and Freestyle Pinhole
+   42610.dat                  Wheel Rim  8 x 11.2 with Centre Groove
+   4266.dat                   Wheel Rim 20 x 30 Smooth with 6 Pinholes
+   4267.dat                   Tyre 20/ 83 x 30 Offset Tread
+   4270894a.dat               Sticker  1.8 x  1.8 Round with Brown, Yellow, Red Rings
+   42865.dat                  ~Technic Pin with Friction Ridges Lengthwise and Solid End
+   42924.dat                  Technic Pin Long with Friction Type 2
+   43373.dat                  Brick  1 x  2 with Hoop and Axle
+   43374.dat                  Minifig Basketball Net for Hoop
+   4341.dat                   Minifig Cauldron
+   43463.dat                  ~Electric RC Race Buggy Steering Unit (Level)
+   4375.dat                   Duplo Sign Post Base Short
+   4378a.dat                  Duplo Cone  2 x  2 x  1
+   4378b.dat                  Duplo Cone  2 x  2 x  1.5
+   44224.dat                  Technic Beam  3 with Rotation Joint 3 Socket
+   44225.dat                  Technic Beam  3 with Rotation Joint 3 Pin
+   4430.dat                   Fabuland Kettle
+   44308.dat                  Tyre 22/ 30 x 30 H
+   44343p02.dat               Baseplate 32 x 32 Road 6-Stud Crossroads with Runway Pattern
+   44511.dat                  Roof Piece  8 x 12 x 10 Half Onion Dome
+   44771.dat                  Tyre 35/ 46 x 56 ZR
+   44772.dat                  Wheel Rim 34 x 56 with 6 Spokes and 3 Pegholes
+   4478p02.dat                Baseplate 32 x 32 Road 9-Stud Driveway with White Lines Pattern
+   44799.dat                  Tyre  7/ 86 x 17 with Centre Groove
+   4485.dat                   Minifig Cap with Long Flat Peak
+   449.dat                    ~Storage Box  24 x  40 Handle
+   4503.dat                   Minifig Helmet Castle with Fixed Face Grille
+   4506.dat                   Minifig Forestman Cap
+   451.dat                    Tyre  3/100 x  8 Double Smooth
+   4523.dat                   Minifig Container D-Basket
+   4528.dat                   Minifig Frypan
+   4529.dat                   Minifig Saucepan
+   45361.dat                  ~Technic Gearbox  3 x  3 x  1.667 Corner Top
+   4544045f.dat               Sticker  1.7 x  1.7 Round with Motor
+   45473.dat                  Clikits Disc
+   458.dat                    Tyre for Train Wheel for Electric Train Motor 12V
+   4586574c.dat               Sticker  1.8 x  1.8 Round with White Curved Double Arrow with Black Outline on Yellow Background
+   458c01.dat                 Tyre for Electric Train 12V Motor Conically Deformed
+   45982.dat                  Tyre 38/ 50 x 43 Off Road
+   4616b.dat                  Brick  2 x  4 x  2 with Engine Cowling and Hole for Technic Pin
+   46218.dat                  ~Technic Gearbox  3 x  4 x  1.667 T-shaped Top
+   4622303r.dat               Sticker  0.75 x  5 with Pneumatic Cylinder / Half Trucks Diagram
+   4622303t.dat               Sticker  0.75 x  7.5 with Pneumatic Cylinder and Truck Diagram
+   46224.dat                  ~Technic Gearbox  2 x  4 x  4 Base
+   46296.dat                  Clikits Ring
+   4640189a.dat               Sticker  1.9 x  1.9 Round with Blue and White "JAMSTEC" Logo
+   46434.dat                  Technic Steering Wheel Bearing with Planetary Gear Reduction Wheel Hub
+   46490.dat                  ~Technic Steering Wheel Bearing with Planetary Gear Reduction Body Back
+   4663.dat                   Duplo Hook Short with Cross Bar and String Hole
+   47156.dat                  ~Electric Technic Motor 9V Geared (480 RPM) Shaft
+   4719.dat                   Minifig Bicycle Frame
+   47207.dat                  Figure Duplo Hips Hinge Bar
+   47224.dat                  ~Technic Pneumatic Cylinder 2 x 2 x 5 with Curved Base
+   47306.dat                  Constraction Block  1 x  7 with Partial Gear 20 Double Bevel
+   4742.dat                   Cone  4 x  4 x  2 Hollow No Studs
+   4744p05.dat                Brick  2 x  4 x  2 with Curved Top with 3 Yellow Dots Pattern
+   47455.dat                  Technic Pin with Friction with Click Rotation Pin
+   47674.dat                  Container Storage X-Pod Middle (Needs Work)
+   47675.dat                  Container Storage X-Pod Top (Needs Work)
+   47676.dat                  Container Storage X-Pod Base (Needs Work)
+   4779.dat                   Fabuland Ferris Wheel Axle
+   4782.dat                   Fabuland Ferris Wheel Seat
+   4790.dat                   Boat Ship Wheel with Unslotted Pin
+   4796.dat                   ~Vehicle Chassis  8 x  6 with Tow-Hook
+   48168.dat                  Technic Turntable Type 2 Top
+   48288p02.dat               Tile  8 x 16 with Blue Semicircle and Red Dashes Pattern
+   48288p03.dat               Tile  8 x 16 with Blue Semicircle and Stripe on Left Pattern
+   48452.dat                  Technic Turntable Type 2 Base
+   4864bp12.dat               Panel  1 x  2 x  2 with Grey Porthole Pattern
+   4864bp13.dat               Panel  1 x  2 x  2 with Red Porthole Pattern
+   4874.dat                   Fabuland Merry-Go-Round Platform
+   48912.dat                  ~Technic Shock Absorber 11L/9L Top
+   48913.dat                  ~Technic Shock Absorber 11L/9L Bottom
+   48914.dat                  ~Technic Shock Absorber 11L/9L Spring Holder
+   48915.dat                  ~Technic Shock Absorber 11L/9L Setting Ring
+   49098.dat                  Wheel Rim 11 x 18 Side with Tyre Widener
+   4913.dat                   Duplo Sign Post Tall
+   497a.dat                   ~Wheel Rim  8 x 18 with 4 Studs
+   499.dat                    ~Magnet Cylindrical Casing for Plate  2 x  4
+   50018a.dat                 Minifig Tool Hexagonal with Opposing Studs and 3 Ribbed Handles at 120 Degrees
+   502.dat                    Electric Train Motor 12V Connecting Rod
+   505.dat                    Train Steam Drive Rod
+   50861.dat                  Tyre  6/ 58 x 14 Offset Tread
+   50862.dat                  Wheel  6 x 14 Spoked with Stub Axles
+   50899.dat                  Propeller 3 Blade 5D with Outer Ring
+   50900.dat                  Technic Bionicle Rhotuka Spinner Ripcord 12L with Hand Grip
+   50921.dat                  Technic Arm  2 x  5 with Ball Joint and Gear 12 Tooth Double Bevel
+   50922.dat                  Constraction Limb  5 x  6 with Ball Joint and 7 Pinholes
+   50943.dat                  Car Engine  2 x  2 with Air Scoop
+   510.dat                    Trailer Base  4 x 16 x  1
+   51270.dat                  Plant Pumpkin
+   51377.dat                  Wheel Rim 14 x 18 with  8 Spokes
+   518.dat                    Minifig Cannon  2 x  8 Non-Shooting
+   51943.dat                  ~Duplo Train Track Point Rail
+   53790.dat                  ~Electric Mindstorms NXT Top
+   54120.dat                  Tyre 44/ 44 x 56 Off Road
+   54715.dat                  ~Electric Mindstorms NXT Motor Casing Left (Needs Work)
+   54725.dat                  ~Electric Mindstorms NXT Motor Drive Wheel
+   55205c01.dat               Electric Sound Brick  2 x  4 x  2 Body
+   55981.dat                  Wheel Rim 14 x 18 with Holes on Both Sides (Needs Work)
+   55982.dat                  Wheel Rim 14 x 18 with Axlehole
+   56474.dat                  ~Electric Mindstorms NXT Ultrasonic Sensor Flexible Insert
+   56890.dat                  Tyre 12/ 61 x 11 Balloon
+   56898.dat                  Tyre 14/ 43 x 30 with Offset Tread
+   56902.dat                  Wheel Rim  8 x 18 with Deep Centre Groove and Peghole
+   56903.dat                  Wheel Rim  8 x 18 with Deep Centre Groove and Axle Hole
+   56907.dat                  Tyre 35/ 42 x 56 Racing
+   56908.dat                  Wheel Rim 26 x 43 with 6 Spokes and 6 Pegholes
+   570.dat                    Technic Gear 15 Large Tooth
+   572.dat                    Technic Gear 21 Large Tooth
+   57515.dat                  Technic Suspension Arm  2 x  6
+   57539k01.dat               ~Hose Flexible 19L End Segment
+   57565.dat                  Technic Bionicle Weapon Pincer 6L
+   57588.dat                  Minifig Arm Bionicle Barraki
+   57894.dat                  Window  1 x  4 x  6 Frame with Three Panes
+   57895p05.dat               Glass for Window  1 x  4 x  6 with "OPEN", "Soap n' Suds" and "Wash - Dry - Fold 24 Hour Service" Sign Pattern
+   57900.dat                  Minifig Helmet Imperial AT-ST Pilot
+   58086.dat                  Duplo Pitchfork
+   58090.dat                  Tyre 14/ 54 x 15 VR
+   58846.dat                  Brick 10 x 10 Corner Round with Tapered Edge and Cutout
+   59155.dat                  ~Electric Power Functions XL Motor Front (Needs Work)
+   59231p40.dat               Minifig Shield Round Flat with Helmet on Dark/Medium Blue Quarters Pattern
+   59521.dat                  Wheel 28 x 158 with 3 Spokes
+   59895.dat                  Tyre  4/ 80 x  8 Single Smooth Type 2
+   59900.dat                  Cone  1 x  1 with Stop
+   6002.dat                   Panel  6 x  6 x  9 Corner Round
+   6005745a.dat               Sticker  5.8 x  5.8 Round with Red/White/DarkBlue Concentric Rings
+   60176.dat                  Constraction Connector  3 x  2 with Single Angled Ball Socket
+   60208.dat                  Wheel Rim 16 x 31 with 6 Pegholes
+   6028.dat                   Animal Dragon Tail
+   6080.dat                   Minifig Plume Dragon and Wings on Sprue
+   6099p01.dat                Baseplate 32 x 32 Road 9-Stud Landing Pad with Runway Pattern
+   609p01.dat                 Baseplate 32 x 32 Road 9-Stud Curve with Road Pattern
+   6100p02.dat                Baseplate 32 x 32 Road 9-Stud 3-Lane w/ Helicopter Pad Pattern
+   61184.dat                  Technic Pin 1/2 with Bar 2L
+   611p01.dat                 Baseplate 32 x 32 Road 8-Stud Crossroads with Crosswalk Pattern
+   61200.dat                  Minifig Head Kel'Dor with Breathing Apparatus
+   61200ps0.dat               Minifig Head Kel'Dor with Dark Bluish Grey Breathing Apparatus Pattern
+   6122.dat                   Minifig Helmet Castle with Dragon Crown Top
+   61254.dat                  Tyre  7/ 45 x 17 Offset Tread with Middle Band
+   612p01.dat                 Baseplate 32 x 32 Road 8-Stud T-Junction with Crosswalk Pattern
+   61332.dat                  Technic Pin with Friction Type 2
+   613p01.dat                 Baseplate 32 x 32 Road 8-Stud Curve with Road Pattern
+   6141875a.dat               Sticker  0.8 x  1.8 with White Number Plate "y9172" on Black Background
+   6141p01.dat                ~Plate  1 x  1 Round with Chrome Gold Pattern (Obsolete)
+   61480.dat                  Tyre 34/ 37 x 43 Off Road
+   61481.dat                  Tyre 26/ 24 x 30 Sand Racing
+   61482.dat                  Minifig Handcuffs
+   61485.dat                  Turntable Flat Base  4 x  4
+   61794.dat                  Constraction Sight with Crosshairs
+   61795.dat                  Technic Bionicle Weapon Shield Blade with Axlehole
+   61801.dat                  Technic Bionicle Jet Booster 5L
+   61810.dat                  Technic Bionicle Weapon Nynrah Ghost Blaster Pump
+   6184.dat                   Arch  1 x 12 x  5 with Curved Top
+   61904.dat                  Technic Linear Actuator  2 x  2 Bracket Hinged Mount
+   6221.dat                   Technic Handle
+   6248.dat                   Wheel Rim 10 x 17.4 with 4 Studs and Technic Peghole
+   6258203m.dat               Sticker  1.9 x  1.9 Round with Gas Cap and Classic "GT" Emblem
+   6269.dat                   Minifig Goblet with Hollow Stem
+   6279911d.dat               Sticker  1.9 x  1.9 with Black and White Machine Pattern  1
+   62821.dat                  Technic Differential with One Gear 28 Tooth Bevel
+   62836.dat                  ~Electric Mindstorms NXT Temperature Sensor Probe
+   6337749d.dat               Sticker  1.8 x  1.8 Round with Two Bees on Medium Lavender Background
+   634.dat                    Conveyor Belt Rubber Cleated
+   63585.dat                  Minifig Helmet Floodlight for SW Clone Trooper Helmet
+   64034.dat                  ~Electric Power Functions Two Ports USB Controller Top
+   642.dat                    Technic Gear 21 Large Tooth
+   643.dat                    Technic Gear 35 Large Tooth
+   64390.dat                  Door  1 x  4 x  6 with Window and Reinforced Edge
+   644.dat                    Technic Gear 42 Large Tooth
+   64448.dat                  Support  1 x  6 x  5 Girder Rectangular
+   64449.dat                  Support  1 x  6 x 10 Girder Triangular
+   64450.dat                  Windscreen  6 x  4 x  3.333 Roll Cage
+   64728.dat                  Minifig Dynamite Sticks Bundle
+   65143.dat                  ~Technic Shock Absorber 11L Body
+   6526.dat                   Duplo Beam  3 x  0.5 Liftarm with Axle
+   6539.dat                   Technic Transmission Driving Ring
+   6542a.dat                  Technic Gear 16 Tooth with Clutch
+   6542b.dat                  Technic Gear 16 Tooth with Clutch Smooth
+   6573.dat                   Technic Differential with Gear 16 Tooth and 24 Tooth
+   6578.dat                   Tyre 14/ 36 x 20 VR
+   65826.dat                  Technic Axle Pin  1/2 with Stud Tube
+   6594.dat                   Tyre 28/ 38 x 28 VR
+   6596.dat                   Tyre 14 / 66 x 61 Z Racing
+   6629.dat                   Technic Beam  4 x  6 Liftarm Bent 53.13
+   6637e.dat                  ~Electric Technic Fiber Optics Element - Bottom
+   6639.dat                   Electric Technic Fiber Optics Element - Axis
+   6644k01.dat                ~Technic Flex-System Ball Connector Bottom
+   66727.dat                  Wheel Rim 11 x 18 with Drilled Disc Brake
+   67140.dat                  Tyre 23/ 41 x 75 Motorcycle with Racing Tread
+   67810.dat                  Brick  2 x  2 x  1.333 with Curved Corner Top
+   6797.dat                   Technic Engine Air Scoop  4 x  4 x  1.333
+   68327.dat                  Wheel 16 x 40 with  7 Pin Holes
+   6942.dat                   Dish  5 x  5
+   70720.dat                  ~Axle Steel  5 x 112 LDU with Conical Ends
+   71137.dat                  Exhaust Pipe
+   71183.dat                  Bar  1L with Light Holder
+   71944k01.dat               ~Technic Ribbed Hose End Segment
+   72040.dat                  Cone  4 x  4 x  6.667 Drill with Grey Peghole
+   73111.dat                  Brick  3 x  3 x  2 Round with Recessed Centre
+   74967.dat                  Wheel Rim  8 x  8 Notched Hole, Reinforced Back
+   74967p01.dat               Wheel Rim  8 x  8 Notched Hole, Reinforced Back with Yellow Ring Pattern
+   762.dat                    ~Winding Drum  1 x  2
+   766b.dat                   ~Electric Plug (Type 4) Twin without Centre Plastic Pin
+   76798.dat                  Panel  5 x  8 x  3.667 Curved with Two Axleholes
+   769.dat                    Minifig Helmet Visor Space
+   778.dat                    Tractor Trailer Chassis  4 x 13
+   78168.dat                  Plate  2 x  6 with Centred  2 x  2 Rounded Holder
+   84752.dat                  ~Electric Power Functions IR Handset Incremental Dial
+   85080.dat                  Brick  2 x  2 Corner Round w Stud Notch and Reinforced Underside
+   85489a.dat                 Train Wheel Large with Axlehole and Pinhole
+   85489b.dat                 Train Wheel Large with Axlehole and Pinhole without Flange
+   86652.dat                  Wheel Rim 18 x 37 with 6 Pegholes and Short Axle Bush
+   87079p09.dat               Tile  2 x  4 with Warning Triangle and Minifigure Head with Construction Helmet Pattern
+   87079pt3.dat               Tile  2 x  4 with Groove and "10277 Ce6/8" Pattern
+   87407.dat                  Technic Gear 20 Tooth Bevel with Peghole
+   87414.dat                  Tyre  6/ 50 x  8 Offset Tread with Centre Band
+   87617.dat                  Cylinder  1 x  1 x 4.333 with Handle
+   87618.dat                  Bar  4.5L with Handle
+   87695.dat                  Animal Cattlehorns
+   87796.dat                  Constraction Limb  3 x  7 Bent 53.13
+   87944.dat                  Car Air Blast Receiver (Needs Work)
+   88112.dat                  ~Electric Power Functions E-Motor Back Case
+   88284.dat                  Minifig Helmet Persian
+   88292.dat                  Arch  1 x  3 x  2
+   88492.dat                  Train Track Flexible Segment Female Half
+   88493.dat                  Train Track Flexible Segment Male Half
+   88516.dat                  Tyre 21/ 48 x 75 Motorcycle with Racing Tread
+   89657.dat                  ~Electric Energy Display Direction Button
+   91049.dat                  Plate  1.5 x  1.5 x  0.667 Round
+   91884p01.dat               Minifig Shield Round Type 2 with Dark Brown Ring and 4 Rivets Pattern
+   92692.dat                  Plate  1 x  2 with Angled Handles on Side
+   92694.dat                  ~Technic Linear Actuator  4 x  1 x  1 Body
+   92713c01.dat               Conveyor Belt  4 x 16 with 14 Treads (Formed)
+   92761.dat                  Minifig Headdress SW Zabrak Horns
+   92908.dat                  Technic Steering Portal Axle Frame
+   92910.dat                  Technic Ball Joint  2.25 Diameter with C-Shape Frame
+   92912.dat                  Tyre 38/ 76 x 56
+   93216.dat                  Minifig Tennis Racket
+   93593.dat                  Wheel Rim  6.4 x 11 with 8 Straight Spokes
+   93595.dat                  Wheel Rim  6.4 x 11 with  8 Y-Shaped Spokes
+   93595p01.dat               Wheel Rim  6.4 x 11 with  8 Y-Shaped Spokes and Silver Pattern
+   93595p02.dat               Wheel Rim  6.4 x 11 with  8 Y-Shaped Spokes and Gold Pattern
+   93595p03.dat               Wheel Rim  6.4 x 11 with  8 Y-Shaped Spokes and Black Pattern
+   93612.dat                  ~Minifig Skeleton Leg with Square Foot, Leg
+   941.dat                    ~Train Body for Train Battery Box Car
+   94161.dat                  Window  1 x  2 x  2.667 Shutter with Rounded Top
+   94318c01.dat               Sheet Fabric  4.3 x 30.7 Pop-up Roof with 10 Rectangular Holes (Formed)
+   95053.dat                  Minifig Sword Small with Angular Guard
+   95188.dat                  Brick  6 x  6 Corner Round with Slope 33 Chamfer (Needs Work)
+   95343.dat                  Bucket  1 x  1 x  1 Conical
+   973p2d.dat                 Minifig Torso with Windsurfboard Pattern
+   973p3d.dat                 Minifig Torso with Medallion, Belt and Silver Buttons Pattern
+   973p69.dat                 Minifig Torso with Space Police II and Radio Pattern
+   973pac.dat                 Minifig Torso with Mayan Necklace, Tribal Shirt & Navel Pattern
+   973pb2.dat                 Minifig Torso with Batman Robin Pattern
+   973pbf.dat                 Minifig Torso with Iron Man Armoured Suit Mark XLII Pattern
+   973pd0.dat                 Minifig Torso with Studios Director Pattern
+   97783.dat                  Figure Friends Dish Round  2.7 x  2.7
+   98100ps1.dat               Cone  2 x  2 Truncated with SW R5 Red Pattern
+   98138p06.dat               Tile  1 x  1 Round with Headlight Pattern
+   98138p0e.dat               Tile  1 x  1 Round with Silver Dot in Thin Black Circle Pattern
+   98138p0f.dat               Tile  1 x  1 Round with Black Dot in Thin Black Circle Pattern
+   98138p13.dat               Tile  1 x  1 Round with Coral Watermelon with Dark Turquoise Rind and Black Seeds Pattern
+   98138p1q.dat               Tile  1 x  1 Round with Bright Light Yellow Emoji with Wide Open Eyes and Tight Lipped Straight Mouth Pattern
+   98138p8f.dat               Tile  1 x  1 Round with Black Eye with White Pupil and Semi Circle  Pattern
+   98138ps0.dat               Tile  1 x  1 Round with  8 Spokes Republic Pattern
+   98138ps2.dat               Tile  1 x  1 Round with  6 Spokes Republic Pattern
+   98138pxc.dat               Tile  1 x  1 Round with Metallic Silver Goggles Outline and Centred Reddish Brown Eye Pattern
+   98138pxd.dat               Tile  1 x  1 Round with Metallic Silver Goggles Outline and Off-Centred Reddish Brown Eye Pattern
+   98138pxe.dat               Tile  1 x  1 Round with Metallic Silver Goggles Outline and Off-Centred Green Eye Pattern
+   98138pxf.dat               Tile  1 x  1 Round with Metallic Silver Goggles Outline and Centred Reddish Brown Eye with Yellow Straight Eyelid Pattern
+   98138pxg.dat               Tile  1 x  1 Round with Metallic Silver Goggles Outline and Off-Centred Reddish Brown Eye and Yellow Arched Eyelid Pattern
+   98138pxh.dat               Tile  1 x  1 Round with Metallic Silver Goggles Outline and Off-Centred Green Eye and Yellow Arched Eyelid Pattern
+   98220.dat                  Duplo Brick  4 x  4 x  1 Round with Curved Top
+   98374.dat                  Minifig Pot Small with Handle Holders
+   98375.dat                  Minifig Toy Winder Key
+   98460.dat                  Duplo Fence  1 x 10 x  2 with Clip and Bar
+   99009.dat                  Technic Turntable 28 Tooth Bottom
+   99010.dat                  Technic Turntable 28 Tooth Top
+   99012.dat                  Technic Rotor  1 Blade  8L with Peghole and Axlehole
+   99378.dat                  ~Electric Mindstorms EV3 Ultrasonic/IR Sensor Shell "Eyes" Back
+   99391.dat                  ~Electric Mindstorms EV3 Ultrasonic Sensor Back Tranducer Holder
+   99397.dat                  ~Electric Mindstorms EV3 Gyroscopic Sensor Front Shell
+   99401.dat                  ~Electric Mindstorms EV3 US Sensor Transducer Rubber Holder
+   995.dat                    ~Train Wheel Large with Pin Axle Hole
+   99542.dat                  ~Electric Mindstorms EV3 Medium Motor Front Washer
+   99550.dat                  ~Electric Mindstorms EV3 Large Motor Casing Right
+   99551.dat                  ~Electric Mindstorms EV3 Large Motor Casing Left
+   99799.dat                  ~Technic Pneumatic Cylinder 1 x 1 for Pump 6L
+   ms1049.dat                 Electric Mindstorms NXT RFID Tag
+   t1046.dat                  ~| Circuit Cubes Battery Cover
+   t1048.dat                  ~| Circuit Cubes Corner Contact
+   t1052.dat                  ~| Circuit Cubes Device Module Cover
+   t1052c01.dat               | Circuit Cubes LED
+   t1052c02.dat               | Circuit Cubes LED RGB
+   t1060.dat                  ~| Circuit Cubes Battery BLE Cover
+   t1071.dat                  | BBB Train Wheel Medium Flanged Driver 24.0 mm
+   u1852p01.dat               Roadsign Round Small without Base with No Entry Wide Pattern
+   u1852p03.dat               Roadsign Round Small without Base with No Left Turn Pattern
+   u1852p04.dat               Roadsign Round Small without Base with No Waiting Left Pattern
+   u1852p05.dat               Roadsign Round Small without Base with No Parking Pattern
+   u586.dat                   ~Figure Fabuland Bird Head without Pattern
+   u586p01.dat                ~Figure Fabuland Bird Head  1
+   u586p02.dat                ~Figure Fabuland Bird Head  2
+   u586p03.dat                ~Figure Fabuland Bird Head  3
+   u587.dat                   ~Figure Fabuland Dog Head without Pattern
+   u587p01.dat                ~Figure Fabuland Dog Head
+   u588.dat                   ~Figure Fabuland Elephant Head without Pattern
+   u588p01.dat                ~Figure Fabuland Elephant Head  1
+   u588p02.dat                ~Figure Fabuland Elephant Head  2
+   u589.dat                   ~Figure Fabuland Fox Head without Pattern
+   u589p01.dat                ~Figure Fabuland Fox Head  1
+   u589p02.dat                ~Figure Fabuland Fox Head  2
+   u590.dat                   ~Figure Fabuland Goat Head without Pattern
+   u590p01.dat                ~Figure Fabuland Goat Head  1
+   u590p02.dat                ~Figure Fabuland Goat Head  2
+   u592.dat                   ~Figure Fabuland Horse Head without Pattern
+   u592p01.dat                ~Figure Fabuland Horse  1
+   u592p02.dat                ~Figure Fabuland Horse  2
+   u595.dat                   ~Figure Fabuland Monkey Head without Pattern
+   u595p01.dat                ~Figure Fabuland Monkey Head  1
+   u595p02.dat                ~Figure Fabuland Monkey Head  2
+   u600.dat                   ~Figure Fabuland Poodle without Pattern
+   u600p01.dat                ~Figure Fabuland Poodle Head  1
+   u600p02.dat                ~Figure Fabuland Poodle Head  2
+   u609.dat                   Brick  1 x  4 x  2 Bellshaped with Headlights
+   u9008p01.dat               Roadsign Round with Round Base with No Waiting Left Pattern
+   u9014.dat                  ~Electric RC Race Buggy Axle Support
+   u9048.dat                  ~Motor Pull Back  2 x  6 Axle
+   u9049.dat                  ~Wheel  8 x 35 with 12 Spokes
+   u9057.dat                  ~Electric Train 12V Power Pickup Plug Pin Type 1
+   u9068.dat                  Rack Winder  2 x  4 x  2 Axle
+   u9072.dat                  ~Electric Lightbrick  2 x  4 Metal Socket
+   u9077.dat                  ~Electric Technic Motor  9V Geared (480RPM) Inside
+   u9100.dat                  Figure Fabuland Leg
+   u9105.dat                  ~Figure Fabuland Mouse Head without Pattern
+   u9105p01.dat               ~Figure Fabuland Mouse Head  1
+   u9105p02.dat               ~Figure Fabuland Mouse Head  2
+   u9105p03.dat               ~Figure Fabuland Mouse Head  3
+   u9105p04.dat               ~Figure Fabuland Mouse Head  4
+   u9106.dat                  ~Figure Fabuland Bunny Head without Pattern
+   u9106p01.dat               ~Figure Fabuland Bunny Head  1
+   u9106p02.dat               ~Figure Fabuland Bunny Head  2
+   u9106p03.dat               ~Figure Fabuland Bunny Head  3
+   u9107.dat                  ~Figure Fabuland Bear, Raccoon or Panda Head without Pattern
+   u9107p01.dat               ~Figure Fabuland Bear Head  1
+   u9107p02.dat               ~Figure Fabuland Bear Head  2
+   u9107p03.dat               ~Figure Fabuland Panda Head
+   u9107p04.dat               ~Figure Fabuland Raccoon Head  1
+   u9107p05.dat               ~Figure Fabuland Raccoon Head  2
+   u9107p06.dat               ~Figure Fabuland Raccoon Head  3
+   u9108.dat                  ~Figure Fabuland Cat Head without Pattern
+   u9108p01.dat               ~Figure Fabuland Cat Head  1
+   u9108p02.dat               ~Figure Fabuland Cat Head  2
+   u9108p03.dat               ~Figure Fabuland Cat Head  3
+   u9109.dat                  ~Figure Fabuland Hippo Head without Pattern
+   u9109p01.dat               ~Figure Fabuland Hippo Head  1
+   u9109p02.dat               ~Figure Fabuland Hippo Head  2
+   u9131.dat                  Tyre  7.2/ 45 x 8.8
+   u9140.dat                  ~Figure Fabuland Lamb Head without Pattern
+   u9140p01.dat               ~Figure Fabuland Lamb Head  1
+   u9140p02.dat               ~Figure Fabuland Lamb Head  2
+   u9141.dat                  ~Figure Fabuland Cow Head without Pattern
+   u9141p01.dat               ~Figure Fabuland Cow Head
+   u9142.dat                  ~Figure Fabuland Bulldog Head without Pattern
+   u9142p01.dat               ~Figure Fabuland Bulldog Head  1
+   u9142p02.dat               ~Figure Fabuland Bulldog Head  2
+   u9142p03.dat               ~Figure Fabuland Bulldog Head  3
+   u9142p04.dat               ~Figure Fabuland Bulldog Head  4
+   u9145.dat                  ~Technic Pneumatic Cylinder  1 x 11 with  2 Ports Body
+   u9147.dat                  ~Figure Fabuland Pig Head without Pattern
+   u9147p01.dat               ~Figure Fabuland Pig Head  1
+   u9147p02.dat               ~Figure Fabuland Pig Head  2
+   u9147p03.dat               ~Figure Fabuland Pig Head  3
+   u9148.dat                  ~Electric Power Functions E-Motor Front Case
+   u9150.dat                  ~Figure Fabuland Lion Head without Pattern
+   u9150p01.dat               ~Figure Fabuland Lion Head  1
+   u9150p02.dat               ~Figure Fabuland Lion Head  2
+   u9151.dat                  ~Figure Fabuland Walrus Head without Pattern
+   u9151p01.dat               ~Figure Fabuland Walrus Head  1
+   u9151p02.dat               ~Figure Fabuland Walrus Head  2
+   u9152.dat                  Fabuland Boater
+   u9153.dat                  ~Figure Fabuland Crocodile Head without Pattern
+   u9153p01.dat               ~Figure Fabuland Crocodile Head  1
+   u9153p02.dat               ~Figure Fabuland Crocodile Head  2
+   u9157.dat                  ~Battery Button Cell LR41
+   u9163.dat                  Wheel  8 x 19 with Integral Axle
+   u9165.dat                  Container  4.5 x  4.5 x  4.5 Rubbish Bin Lid
+   u9166.dat                  Container  4.5 x  4.5 x  4.5 Rubbish Bin
+   u9167.dat                  Wheel  4 x 19 with Stub Axles
+   u9184.dat                  ~Motor Inertia Flywheel  4 x  9 x  3.667 - Axle
+   u9213.dat                  Fabuland Tree
+   u9213p01.dat               Fabuland Tree with Apples Pattern
+   u9236.dat                  ~Motor Windup  4 x 10 x  3 Top (Needs Work)
+   u9237.dat                  ~Wheel Rim  8 x 35 with 12 Studs
+   u9238.dat                  ~Pin Hollow for Electric Plug (Type 1) Twin or Single
+   u9241.dat                  ~Train Wheel for RC Train with Technic Axle Hole
+   u9255.dat                  ~Magnet Holder for Train Base  6 x 16 Type 1
+   u9261.dat                  ~Turntable  4 x  4 Centre Connector Underside
+   u9262.dat                  ~Brick  2 x  4 x  1.333 with Half Round  2 x  2 Plate Underside
+   u9271.dat                  ~Electric Motor Unit  6 x 18 x  4 - Axle Bush
+   u9284.dat                  Battery Mignon (AA)
+   u9288.dat                  ~Screw 23.75 x  6.5 Dome Cruciform
+   u9304.dat                  ~Boat Keel Weight Half Bottom with Tab
+   u9312.dat                  ~Fabuland House Block End Panel Arched
+   u9317.dat                  ~Door Frame  7 x  8 Fabuland
+   u9330.dat                  ~Technic Pneumatic Pump  2 x  2 x  1 Cap with  1.2 Hole
+   u9353.dat                  ~Electric Power Functions 2.0 Boost Colour & Distance Sensor LED Support
+   u9364.dat                  ~Electric Powered Up Medium Angular Motor Front Top
+   u9367.dat                  ~Electric Powered Up Large Angular Motor Front Top
+   u9371p01.dat               Door  1 x  5 x  3.75 with 3 Panes with Bars and Padlock Pattern
+   u9382.dat                  ~Minifig Tool Magnifying Glass Holder for Removable Lens
+   u9402.dat                  ~Electric Powered Up 6 Port Hub Bottom
+   u9430.dat                  Battery Button Cell CR927
+   u9466.dat                  ~Electric Powered Up Distance Sensor Frame
+   u9476.dat                  ~Technic Steering Wheel Bearing with Planetary Gear Reduction Body Front
+   u9507.dat                  ~Duplo Train Engine Hood  2 x  2 - Top
+   u9551.dat                  ~Electric Record and Play Brick 16 x 10 x  4 Bottom (Needs Work)
+   u9577.dat                  ~Electric Light & Sound Insectoid Tail  4 x 20 x  4.333 - Electronics
+   s\10090s01.dat             ~Electric Power Functions Large Motor Case Front Quarter
+   s\10178s01.dat             ~Rock Stepped Main
+   s\10830s02.dat             ~Minifig Tool Magnifying Glass Holder with Thick Frame
+   s\11014s01.dat             ~Electric Mindstorms EV3 Colour Sensor Opto Support without Edge
+   s\11062s01.dat             ~Support  2 x  2 x  7 Lamppost with  4 Base Flutes - Upper Column
+   s\11140s01.dat             ~Wheel Rim 26 x 7 with Rip Cord Gear Axle - Surface 1/6
+   s\11301s01.dat             ~Slope Brick Curved  2 x  8 x  2 Inverted Double - Half
+   s\11459s01.dat             ~Minifig Plunger - Rubber Cup
+   s\11833s01.dat             ~Plate  4 x  4 Round with  2 x  2 Round Hole - 1/8
+   s\12787s03.dat             ~Technic Motor Pull Back  6 x  5 x  3 Common Shell
+   s\15038s02.dat             ~Wheel Rim 34 x 56 with  6 Spokes and  6 Pegholes Without Rim Front
+   s\15496s01.dat             ~Minifig Cup Takeaway Lid Structure
+   s\15515s01.dat             ~Duplo Plant Flower  4 x  4 x  1 with  5 Round Petals and  4 Top Studs - Petal Half
+   s\15535s02.dat             ~Tile  2 x  2 Round with Hole - 1/4
+   s\15624s02.dat             ~Plate  8 x  8 x  0.667 - Attached Plate  1 x  4
+   s\17485s01.dat             ~Brick  2 x  2 Round with Pin Holes - 3/16 without Patterned Surface
+   s\18602s01.dat             ~Electric Brick  4 x  4 x  0.667 Round - Top, Common Parts
+   s\18673s01.dat             ~Minifig Lightsaber Hilt with Round Guard - Half
+   s\18938s01.dat             ~Technic Turntable 60 Tooth Top Quarter
+   s\18939s01.dat             ~Technic Turntable 60 Tooth Bottom Quarter
+   s\18943s01.dat             ~Technic Excavator Bucket  7 x  5 x  4.5 Clamshell Half
+   s\18973s01.dat             ~Windscreen  6 x  4 x  1.333 Curved - Base
+   s\18976s01.dat             ~Wheel Rim 11 x 18 with Vented Disc Brake -  1/4
+   s\20952s01.dat             ~Brick Round  1.4 x  1.4 x  0.667 Dome Top without Outer Faces
+   s\2131s01.dat              ~Fabuland Refrigerator Cabinet - Half
+   s\21987s01.dat             ~Constraction Bar 15L with Axle Bush End, Solid Parts
+   s\22483s02.dat             ~Windscreen  6 x  4 x  1.333 Pointed - Half
+   s\22888s01.dat             ~Plate  4 x  4 Round  1/8
+   s\22969s01.dat             ~Wheel 56 x 46 Technic Racing - 1/6
+   s\23323s01.dat             ~Electric Motor Unit  6 x 18 x  4 Top - Left/Right
+   s\2350s01.dat              ~Crane Arm Base  2 x  2 without Studs
+   s\24076s01.dat             ~Minifig Headdress Shark with Tail and Fin Half without Patternable Areas
+   s\2431pt2b.dat             ~Tile  1 x  4 with "Octan" Pattern - Border for "Oc"
+   s\2431pt2c.dat             ~Tile  1 x  4 with "Octan" Pattern - Border for "tan"
+   s\243s01.dat               ~Train Wheel Spoked with Cylindrical Rim without Axle Hole
+   s\2490p4ja.dat             ~Animal Horse Barding with Gold Crowns and Gold Plate Armour - Side
+   s\2586p30a.dat             ~Minifig Shield Ovoid with Indigo Islanders Pattern - Half
+   s\2586ps1a.dat             ~Minifig Shield Ovoid with SW Gungan Patrol Shield Pattern - Half
+   s\2593s02.dat              ~Wheel 30 x 35 with Tread on Sidewall - 1/8 Hub Segment
+   s\2594s01.dat              ~Minifig Helmet Visor Pointed - Half
+   s\25971s01.dat             ~Minifig Headdress Bird Half without Patternable Areas
+   s\2654as01.dat             ~Dish  2 x  2 - Stud with Quarter Rim
+   s\2654bs01.dat             ~Dish  2 x  2 without Rim - Stud with Quarter Edge
+   s\2707s01.dat              ~Technic Action Figure Head Half without Face
+   s\2740s01.dat              ~Technic Gear 24 Tooth - Teeth and Outer Ring without Edges
+   s\27925s01.dat             ~Tile  2 x  2 Corner Round without Top Surface
+   s\2850s01.dat              ~Technic Engine Cylinder Head Common Geometry Half
+   s\2870s02.dat              ~Train Speed Regulator  9V - Dial Small Inside Holes
+   s\2879s01.dat              ~Train Wheel without Centre Area for Wheel Bogie
+   s\2895s01.dat              ~Train Wheel  9V Electrical Contact Metal
+   s\2947s01.dat              ~Technic Pneumatic Cylinder  1 x  5 with  2 Ports Body
+   s\29630s02.dat             ~Container Hemispherical Pod  6 x  2.4 x  6 with Hinges and Hole Inner Surfaces
+   s\2998a.dat                ~Wheel Rim 32 x 56 with Peghole and 6 Spokes with Pegholes - Centre
+   s\3004px3s01.dat           ~Brick  1 x  2 with Token Pattern - Token
+   s\3004pz7s01.dat           ~Brick  1 x  2 with Boombox Pattern
+   s\30083s01.dat             ~Windscreen  6 x  6 x  3 Dome with Hinge without Top-Face - Half
+   s\30151s01.dat             ~Cylinder  2 x  2 x  1.667 with Dome Top - Stud Cutout Half
+   s\30152as02.dat            ~Minifig Tool Magnifying Glass Holder
+   s\30152s02.dat             ~Minifig Tool Magnifying Glass Holder (Obsolete)
+   s\30360s01.dat             ~Cylinder  3 x  6 x  2.667 Horizontal Common Geometry
+   s\30360s02.dat             ~Cylinder  3 x  6 x  2.667 Horizontal Common Geometry - 1/4
+   s\30361as01.dat            ~Cylinder  2 x  2 x  2 Robot Body without Front Face
+   s\30361dps6s06.dat         ~Cylinder  2 x  2 x  2 Robot Body with SW R5 Red and Blue Pattern - Centre Vent Panel
+   s\30361dps7s01.dat         ~Cylinder  2 x  2 x  2 Robot Body with SW Astromech - Pattern Vent Side
+   s\30361ds01.dat            ~Cylinder  2 x  2 x  2 Robot Body w/ Axle Holder w/o Front Face
+   s\30384s01.dat             ~Windscreen  4 x  7 x  2 Round Rear Arch
+   s\30528s01.dat             ~Arch  1 x  8 x  6 - Quarter Arch
+   s\30535s01.dat             ~Brick  2 x  4 x  4 with Propeller Housing - Half
+   s\30552s01.dat             ~Hinge Arm Locking - Axlehole Body
+   s\30562s01.dat             ~Panel  4 x  4 x  6 Corner Round without Outer Face
+   s\30584s01.dat             ~Hose Air Pump 16 x 14 x 13 Base - 1/2
+   s\30613s01.dat             ~Arch  3 x  6 x  5 - Half
+   s\3068p69a.dat             ~Space Police II Pattern - Text
+   s\3070batc.dat             ~Tile  1 x  1 with "C" Pattern
+   s\3070batg.dat             ~Tile  1 x  1 with "G" Pattern
+   s\3070bato.dat             ~Tile  1 x  1 with "O" Pattern
+   s\3070batq.dat             ~Tile  1 x  1 with "Q" Pattern
+   s\3070baub.dat             ~Tile  1 x  1 with "O Slash" Pattern
+   s\3070baud.dat             ~Tile  1 x  1 with "O Diaeresis" Pattern
+   s\32030s01.dat             ~Excavator Bucket 18 x 10 (Rib and tooth)
+   s\32085s01.dat             ~Train Base  6 x 14 Inverted Sloped Front Half
+   s\32219s02.dat             ~Wheel 14 x 30 Znap Inner Structure  0.3333
+   s\32269s02.dat             ~Technic Gear 20 Tooth Double Bevel Hub Quarter
+   s\32288s01.dat             ~Electric Technic Motor 4.5V  6 x 17 x  5 Top - Half
+   s\32311s01.dat             ~Technic Beam  7 Offset Liftarm with 24 Tooth Gears - Half
+   s\32439s01.dat             ~Technic Disc  5 x  5 without Top Surface
+   s\32489s01.dat             ~Technic Connector Block  4 x  5 x  7.667 - Half
+   s\32498s01.dat             ~1/8 of 36 Tooth Double Bevel Gear Hub
+   s\32627s01.dat             ~Plate  4 x  4 Round with Groove with Two Open Centre Studs without Top Surface
+   s\33213s01.dat             ~Panel  6 x  8 x 12 Tower with Arched Window - Half
+   s\33492s01.dat             ~Cone  1.5 x  1.5 x  0.667 Truncated without Outer Surface
+   s\3404s03.dat              ~Turntable  4 x  4 Base
+   s\3404s04.dat              ~Turntable  4 x  4 Top
+   s\3443as03.dat             ~Train Base for Train Battery Box Car - Contact
+   s\35188s01.dat             ~Technic Changeover Rotary Catch 1/4
+   s\35252s01.dat             ~Flag  8 x  3 with Rod without Reinforced Base and Flat Sides without Front and Back Faces
+   s\35470s01.dat             ~Plate  3 x  5 Cloud Shape with  3 Studs Quarter
+   s\35473s01.dat             ~Plant Flower  4 x  4 with  4 Rounded Petals  1/8
+   s\35485s01.dat             ~Minifig Chakram Half
+   s\35860s01.dat             ~Minifig Food Cake Double Layer, Icing without Printable Surface
+   s\35860s02.dat             ~Minifig Food Cake Double Layer, Base
+   s\35962s02.dat             ~Duplo Train Action Brick Quarter
+   s\3622px4s01.dat           ~Brick  1 x  3 with Blue Eyes Pattern - Half
+   s\3626cps0s01.dat          ~Minifig Head SW Jawa, Yellow Eyes with Orange Rim Pattern - Half
+   s\3648s01.dat              ~Technic Gear 24 Tooth - Teeth and Outer Ring
+   s\3650s01.dat              ~Technic Gear 24 Tooth Crown - Common Structure
+   s\37383s00.dat             ~Wheel Rim 42 x 62 with 10 Spokes and  3 Pins without Front
+   s\3739a.dat                ~Wheel 24 x 43 Technic - 1/12 Wheel Rim
+   s\3899s01.dat              ~Minifig Cup without Patternable Areas
+   s\39367s01.dat             ~Tyre for Wheel 14 x 48 with  4 Spokes with Integral Tyre
+   s\39367s03.dat             ~Wheel 14 x 48 with  4 Spokes with Integral Tyre - Rim
+   s\39367s04.dat             ~Wheel 14 x 48 with  4 Spokes with Integral Tyre - Rim Centre Reinforcement
+   s\39370s01.dat             ~Technic Beam  5 x  3 H-shaped with Ball Socket Half
+   s\3943s01.dat              ~Cone  4 x  4 x  2 - Inside Quarter
+   s\3961s01.dat              ~Dish  8 x  8 Inverted without Top Surface
+   s\40620s01.dat             ~Exhaust Pipe with Pin - Pin
+   s\4145p01s01.dat           ~Duplo Brick  1 x  4 x  3 - Clock Face Pattern
+   s\4150ps0a.dat             ~Tile  2 x  2 Round with Hexagonal Hatch Pattern - 1/4
+   s\4185as01.dat             ~Technic Wedge Belt Wheel - Not Reinforced 1/8
+   s\4185bs01.dat             ~Technic Wedge Belt Wheel - Reinforced  1/8
+   s\41896s01.dat             ~Wheel Rim 26 x 43 with 6 Spokes and 3 Pegholes - 1/6
+   s\4201639s02a.dat          ~Pattern Train Logo 2002-2004 - Background
+   s\4201639s02b.dat          ~Pattern Train Logo 2002-2004 - Foreground
+   s\42021s01.dat             ~Wedge  6 x  8 x  2 Triple Inverted without Underside Surfaces
+   s\42092s01.dat             ~Duplo Vehicle Base Stub Axle (Needs Work)
+   s\42531s01.dat             ~Technic Panel  9 x  2 x  3 Mudguard Arched #30 Half without Front
+   s\4266s01.dat              ~Wheel 20 x 30 Smooth with 6 Pegholes - 1/6 with Axlehole
+   s\42862s01.dat             ~Wedge  3 x  3 Sloped Left without Studs and Front
+   s\43373s01.dat             ~Brick  1 x  2 with Hoop and Axle Half
+   s\43446s01.dat             ~Electric RC Race Buggy Battery - Half Top
+   s\43447s02.dat             ~Electric RC Race Buggy Battery - Half Base
+   s\43459s01.dat             ~Electric RC Race Buggy Steering Unit (Right) Subpart
+   s\43746s01.dat             ~Animal Serpent Basilisk Head - Without patternable area
+   s\43898s01.dat             ~Dish  3 x  3 without Top Face
+   s\43936s01.dat             ~Animal Serpent Basilisk Body Segment - Without patternable surface
+   s\44341s01.dat             ~Road Demarcation Strip
+   s\44341s05.dat             ~White Road Demarcation Strip
+   s\44375s01.dat             ~Dish  6 x  6 Inverted without Top Faces (Needs Work)
+   s\4481s01.dat              ~Bike  2 Wheel Motorcycle Frame  3 x  6 x  3 - Left/Right
+   s\4544258s01.dat           ~Sticker Porthole
+   s\45803s01.dat             ~Technic Beam  3 x  7 x  3 Bent 90 Double Chamfered - Half
+   s\4616s01.dat              ~Brick  2 x  4 x  2 with Engine Cowling - Half
+   s\46891s01.dat             ~Technic Excavator Bucket 19 x 12 Half
+   s\47198s01.dat             ~Figure Duplo Arm Child Hand and Connector
+   s\47306s01.dat             ~Constraction Block  1 x  7 with Partial Gear 20 Double Bevel - Half
+   s\47325s03.dat             ~Technic Connector  2 x  3 with Ball Socket - Socket End
+   s\47404s01.dat             ~Boat Base 10 x 12 - Half
+   s\4750s1.dat               ~Brick Round 13.667 x 13.667 Fabuland Hollowed - 1/8 Section
+   s\4751s01.dat              ~Propeller  4 Blade 13 Diameter Common Geometry
+   s\47715s00.dat             ~Motor Pull Back  4 x  9 x  2.667 Half
+   s\47715s01.dat             ~Motor Pull Back  4 x  9 x  2.667 Spring Suspension Half
+   s\48170s02.dat             ~Rotation Joint Ball Half
+   s\48170s04.dat             ~Technic Brick Click Rotation Ring Joint - Socket
+   s\48208s01.dat             ~Wing  4 x  6 without Studs
+   s\4844s01.dat              ~Boat Mast Base  4 x  4 x  9 Common Geometry
+   s\4874s01.dat              ~Fabuland Merry-Go-Round Platform - 1/4
+   s\4894s01.dat              ~Duplo Shower Head
+   s\49295s01.dat             ~Tyre for Wheel 14 x 80 with  4 Spokes with Integral Tyre
+   s\49295s03.dat             ~Wheel 14 x 80 with  4 Spokes with Integral Tyre - Rim
+   s\49308s01.dat             ~Cylinder  3 x  3 with Dome Top with Open Stud without Outer Surfaces
+   s\49736s01.dat             ~Cylinder Tube Slide Connector Female
+   s\49736s02.dat             ~Cylinder Tube Slide Connector Male
+   s\50858s01.dat             ~Constraction Foot  2 x  7 Pointed with 3 Pegholes - Half without Holes
+   s\50898s02.dat             ~Constraction Connector Ball Socket End for Beam - Half
+   s\50965s01.dat             ~Wheel Cover 5 Spoke for Wheel 34 x 56 - 1/5
+   s\50990s01.dat             ~Dish 10 x 10 Inverted without Top Face and Studs
+   s\511s01.dat               ~Metal Contact for Electric Train Track Contact Base
+   s\5292s01.dat              ~Electric RC Race Buggy Motor - Half
+   s\53178s01.dat             ~Technic Pneumatic Cylinder Bracket - Half
+   s\53457s01.dat             ~Animal Wolf Head Half
+   s\53983s03.dat             ~Turbine Fan 16 / 8 Blade 10 Diameter with Case - Peghole Spoke Inner
+   s\53983s04.dat             ~Turbine Fan 16 / 8 Blade 10 Diameter with Case - Inner Quarter
+   s\54091s02.dat             ~Slope Brick Curved  8 x  8 x  2 Inverted Double - Ridge Stud
+   s\54713s01.dat             ~Electric Mindstorms NXT Sockets Cover Subpart
+   s\56891s02.dat             ~Tyre 18/ 56 x 17 Off-Road with Offset Centre - 1/4 Tyrebase
+   s\56904s00.dat             ~Wheel Rim 14 x 30 with 6 Spokes and No Pegholes - Outer Surface
+   s\57515s01.dat             ~Technic Suspension Arm Ball Socket
+   s\57518s01.dat             ~Technic Chain Tread 5 Wide
+   s\57520s02.dat             ~Technic Sprocket Wheel 25.4 without Front Face
+   s\57915s01.dat             ~Boat Hull Hovercraft Half
+   s\57915s02.dat             ~Boat Hull Hovercraft Round Pinhole
+   s\6002s2.dat               ~Panel  6 x  6 x  9 Round with Spherical Top
+   s\600880c01s02.dat         ~Minifig Skirt  1.1L with Straight Bottom (Formed) without Outer Surface
+   s\60474s01.dat             ~Plate  4 x  4 Round - 1/8
+   s\6088s01.dat              ~Minifig Helmet with Underwater Antenna and Clips - Half
+   s\61189s02.dat             ~Minifig Helmet SW Clone Trooper Phase I without Front Face - Half
+   s\6122s01.dat              ~Minifig Helmet Castle with Dragon Crown Top Half
+   s\6142617ls02.dat          ~Sticker  0.5 x  1.8 with Fog Light and Silver Stripe on Black Background Left - Fog Light
+   s\61510s01.dat             ~Technic Reel  2 x  1 - 1/4
+   s\6181s01.dat              ~Belville Swimming Pool, Half
+   s\61904s01.dat             ~Technic Linear Actuator  2 x  2 Bracket Hinged Mount
+   s\61905s01.dat             ~Technic Linear Actuator  2  x  2 Motor Mount Quarter
+   s\61976s01.dat             ~Minifig Satchel - Half
+   s\64390s02.dat             ~Door  1 x  4 x  6 with Window and Reinforced Edge - Quarter Keyhole
+   s\64390s03.dat             ~Door  1 x  4 x  6 with Window and Reinforced Edge - Window
+   s\64651s01.dat             ~Boat Base 13 x 16 Stern / Bow Half
+   s\6540s01.dat              ~Technic Steering Arm Large Common Geometry
+   s\65417s01.dat             ~Boat Hull Floating 36 x  7 x  7 Bottom - Half
+   s\65418s01.dat             ~Boat Hull Floating 36 x  7 x  7 Top - Half
+   s\65421s01.dat             ~Technic Concrete Mixer Half Shell Half
+   s\65429s01.dat             ~Wing  2 x  4 Left with Truncated Tip Without Studs
+   s\65474s02.dat             ~Tile  6 x  8 with Rounded Corners and Groove, Rim Quarter
+   s\6575s01.dat              ~Technic Cam - Body
+   s\6580a.dat                ~Wheel Rim 23 x 22 Offroad - 1/4 Subpart
+   s\6581a.dat                ~Tyre 20/ 40 x 33 Off Road - 1/4
+   s\6582a.dat                ~Wheel Rim 20 x 33 with 6 Pinholes - Quarter of Outer Structure
+   s\65834s01.dat             ~Tyre for Wheel 14 x 35 with  4 Spokes with Integral Tyre
+   s\65834s03.dat             ~Wheel 14 x 35 with  4 Spokes with Integral Tyre - Rim
+   s\6595b.dat                ~Wheel 25 x 28 VR with 35mm Diameter Rear Rim without Axle Hole
+   s\6641s01.dat              ~Technic Transmission Changeover Catch Half
+   s\67139s01.dat             ~Technic Connector Block  3 x  5 x  1 with Cutout - Outer Pin Hole Quarter
+   s\67139s02.dat             ~Technic Connector Block  3 x  5 x  1 with Cutout - Centre Cutout Quarter
+   s\68325s01.dat             ~Brick  4 x  4 Round with  3 x  3 Recess -  1/8
+   s\68495s01.dat             ~Minifig Cup Stein, Empty Cup
+   s\68495s02.dat             ~Minifig Cup Stein, Drink
+   s\6936s02.dat              ~Tap  1 x  2 with Two Valves Body
+   s\712as01.dat              ~Plate  4 x  8 Curved Left - without Curved Side
+   s\71944s01.dat             ~Technic Ribbed Hose Rib
+   s\72092s02.dat             ~Minifig Trophy Cup  5L - Half
+   s\72206s01.dat             ~Wheel 11 x 24 with Integral Tyre - Rim
+   s\72206s02.dat             ~Wheel 11 x 24 with Integral Tyre - Tyre
+   s\76795s01.dat             ~Brick  5 x  5 Corner Round with Slope 45 Chamfer - Half
+   s\79393s02.dat             ~Tile  3 x  3 Corner Round - Half
+   s\79505s01.dat             ~Technic Rotation Joint Disk with Pin and  2 Perpendicular Click Rotation Ring Sockets Quarter
+   s\821472as01.dat           ~Sticker  4.8 x  6.0 with Red and Blue "28" on Transparent Background - "28"
+   s\84746s01.dat             ~Electric Power Functions IR Handset Increm. Top Half
+   s\85489s01.dat             ~Train Wheel Large Central Axle and Pinhole
+   s\87081s01.dat             ~Brick  4 x  4 Round - 1/8
+   s\90370s02.dat             ~Minifig Microphone Top without Half Sphere
+   s\92084s01.dat             ~Animal Owl with Angular Feathers - Body
+   s\92290s01.dat             ~Minifig Weapon Trident Quarter of Head
+   s\92589s01.dat             ~Door  1 x  4 x  6 Lattice Corner
+   s\92747p01s01.dat          ~Minifig Shield Oval with SW Gungan Patrol Shield Pattern - Quarter
+   s\93087k01s01.dat          ~Animal Horse Friends Bridle Headpiece Half
+   s\93216s01.dat             ~Minifig Tennis Racket Half
+   s\93221s03.dat             ~Minifig Boombox  1 x  3 x  1 - Speaker Rim
+   s\93591s01.dat             ~Wedge  6 x  4 x  1.333 with  4 x  4 Base without Top
+   s\95228s01.dat             ~Minifig Bottle  1 x  1 x  2 Cylindrical without Patterned Area
+   s\973p55s01.dat            ~Explorien Logo
+   s\973p79a.dat              ~Lifebelt Logo Pattern
+   s\98225s01.dat             ~Duplo Brick Round  2 x  2 x  2 without Outer Surface
+   s\99550s02.dat             ~Electric Mindstorms EV3 Large Motor Casing Structure
+   s\t1072s03.dat             ~| BBB Train Wheel Flanged Driver 30.4 mm - Spoke/Peghole Unit - Half
+   s\u9205s01.dat             ~Fabuland Tricycle Mudguard
+   s\u9209c01s01.dat          ~Minifig Skirt  1.4L with Straight Bottom (Formed) without Outer Surface
+   s\u9251p02s01.dat          ~1/4 Ring of 3 Red and Yellow Flowers on LtGreen/Green Leaves Pattern
+   s\u9251s01.dat             ~Tile  2 x  2 with  1 x  1 Quarter Circle Cutout without Top Surface
+   s\u9305s01.dat             ~Boat Keel - Top Part, Quarter
+   s\u9492s01.dat             ~Figure Duplo Bust Tall Head without Face
+   1-16stud4.dat              Stud Tube Open 0.0625
+   3-16stud4.dat              Stud Tube Open 0.1875
+   arm1.dat                   Hinge Arm 2 Finger
+   clip7.dat                  Clip for Round Arm  4 LDU
+   connect.dat                Technic Pin 1.0 with Base Collar
+   connect2.dat               Technic Pin 1.0 without Base Collar
+   connect3.dat               Technic Pin 0.5 with Base Collar
+   connect4.dat               Technic Pin 0.5 without Base Collar
+   connect6.dat               Technic Pin 1.0 with Base Collar and Notches
+   connect7.dat               Technic Pin 1.0 with Base Collar, Rectangular Centre Hole and Thin Base Ribs
+   connectcollar1.dat         Technic Pin Collar Half with Rectangular Hole and Short Slit
+   connectcollar2.dat         Technic Pin Collar Half with Small Rectangular Hole and Short Slit
+   connectcollar3.dat         Technic Pin Collar Half with Rectangular Hole and Long Slit
+   connectcollar4.dat         Technic Pin Collar Half with Small Rectangular Hole and Long Slit
+   connectcollar5.dat         Technic Pin Collar Half with Round Hole and Short Slit
+   phandle1.dat               Bar Handle Attachment with Open Side
+   stud11.dat                 Duplo Hollow Underside Stud Wide
+   stud24.dat                 Stud Scala Hollow
+   stud27.dat                 Duplo Hollow Middle Stud
+   stud27a.dat                Duplo Hollow Middle Stud without Edge around Base
+   wpin4.dat                  Wheel Holding Pin for Pull Back Motor
+   003497e.dat                Sticker  1.9 x  1.9 Round with Roadsign Black "30" and Red Circle
+   163555c.dat                Sticker  3.5 x  3.5 with Airport Shuttle Route Map
+   18585.dat                  Technic Brick  2 x  4 with Holes and Launcher
+   18588.dat                  Constraction Weapon Launcher Barrel
+   22631.dat                  Technic RoboRider Container Lid
+   26835.dat                  Duplo Brick Gear 12 Tooth  6 x  6
+   37195.dat                  Wheel Cover 28 Spoke for Wheel 20 x 30
+   38340.dat                  Train Wheel with Pin for Wheel Bogie
+   4150psc.dat                Tile  2 x  2 Round with Metallic Silver Dense Fan Pattern
+   4162510h.dat               Sticker  4.6 x  4.6 Round with Red/White/Blue Concentric Rings
+   41813.dat                  ~Pneumatic Fire Hose Nozzle Simulated Jet Inner Segment
+   4346p05.dat                Container Box  2 x  2 x  2 Door with Black Dollar Sign on Yellow Circle Pattern
+   49098py1.dat               Wheel Rim 11 x 18 Side with Tyre Widener with Blue "Pirelli Cinturato" Pattern
+   49294.dat                  Wheel Rim 34 x 56 with  6 Double Spokes and  6 Pegholes
+   50018f.dat                 Minifig Tool Hemisphere with 3 Ribs and Hollow Stud
+   51378.dat                  Wheel Rim 20 x 75 with 6 Double Spokes
+   54756.dat                  ~Electric Power Functions Train Motor - Bottom
+   55889.dat                  Wheel 12 x 18 Smooth
+   6142275g.dat               Sticker  1.2 x  1.8 with Lights and Levers on Dark Bluish Grey Background
+   6142617i.dat               Sticker  0.9 x  1.8 with Grey and Silver Ring on Black Background Left (Needs Work)
+   61531.dat                  ~Figure Troll Wrist Cuff Left
+   62359.dat                  Wheel Cover  7 Spoke for Wheel 14 x 18
+   63565.dat                  ~Electric Powered Up Small Angular Motor Front Top
+   64567a.dat                 Minifig Lightsaber Hilt with Slight Sloping Fingers with Bottom Ring
+   65128.dat                  Container Lid  8 x  8 x  4.667 with Latches
+   65146.dat                  Turntable  2 x  2 with Four Snapping Clips
+   69761.dat                  Technic Gear 22 Tooth Bevel with Peghole
+   69909.dat                  Tyre 28/ 57 x 43 Off Road
+   69912.dat                  Tyre 35/ 55 x 43 R Tractor
+   77108.dat                  Minifig Top Hat with Pin Attachment and Anti-Stud
+   80279.dat                  Tyre 44/ 15 x 75
+   80542.dat                  Tyre 20 / 33 x 62 Motorcycle
+   80563.dat                  Technic Rotation Joint Socket with Two Friction Pins
+   95347.dat                  Support  2 x  2 x 10 Girder Triangular  3 Sections with Axlehole
+   98567k01.dat               ~Tool Belt 17L, Extremity with Hole
+   98567k03.dat               ~Tool Belt 17L, Segment with Hole
+   s\004845as01.dat           ~Refrigeration Pattern - 1/12
+   s\15626s01.dat             ~Panel  4 x 16 x 10 with Gate - One Half without Patternable Areas
+   s\16375s01.dat             ~Duplo Roof Spire  3 x  3 x  3 Quarter
+   s\18588s01.dat             ~Constraction Weapon Launcher Barrel - 1/4 Back
+   s\18588s02.dat             ~Constraction Weapon Launcher Barrel - 1/6 Front
+   s\18590s01.dat             ~Technic Gearwheel with Pin Holes and Short Shaft - One Half
+   s\20455s01.dat             ~Windscreen  9 x  4 x  7 Hemisphere with 4 Hollow Studs on Top, Half
+   s\26832s02.dat             ~Duplo Brick Gear Tooth
+   s\2723p05s01.dat           ~Technic Disc  3 x  3 with Axlehole with 4 Black Sections on One Side and 8 on Reverse Pattern - Quarter
+   s\31333s01.dat             ~Duplo Dish without Top Surface
+   s\32475s02.dat             ~Constraction Foot  3 x  6 x  2.333 with Rounded Ball Socket - Half of Rounded Ball Socket
+   s\4142921as02.dat          ~Sticker  3.8 x  5.5 with Lego Logo and White and Red SPYRUNNER on Black Background Left - Common Part
+   s\44810s01.dat             ~Constraction Block  3 x  5 with Partial Gear 28 Tooth Double Bevel - One Half
+   s\46834s02.dat             ~Technic Clutch with Axle Connector Inner Side Casing  1/4
+   s\49098s02.dat             ~Wheel Rim 11 x 18 Side with Tyre Widener without Patternable Faces
+   s\53118s02.dat             ~Minifig Video Game Controller without Patternable Surfaces - Half
+   s\54756s01.dat             ~Electric Power Functions Train Motor - Bottom  1/4
+   s\55237fs01.dat            ~Bar  4.2L with Asymmetric Bow - One Half
+   s\58213s01.dat             ~Figure Arm Mario Top Half
+   s\58213s03.dat             ~Figure Arm Mario Hand Half
+   s\6014s01.dat              ~Wheel Rim 12 x 11 without Centre
+   s\6142275abs03.dat         ~Sticker  1.9 x  0.8 with Headlight on Black and White Background Left - Third Face
+   s\6142275abs04.dat         ~Sticker  1.9 x  0.8 with Headlight on Black and White Background Left - Fourth Face
+   s\6142275gs01.dat          ~Sticker  1.2 x  1.8 with Lights and Levers on Dark Bluish Grey Background - Half Green Lever
+   s\6142275gs02.dat          ~Sticker  1.2 x  1.8 with Lights and Levers on Dark Bluish Grey Background - Half Red Lever
+   s\6142275zs01.dat          ~Sticker  1.9 x  0.8 with Red "P1" and Grey Triangle on Black Background Right - First Face
+   s\6142275zs03.dat          ~Sticker  1.9 x  0.8 with Red "P1" and Grey Triangle on Black Background Right - Third Face
+   s\6142617aes01.dat         ~Sticker  3.0 x  4.0 with Yellow "Start" and 5 Orange Lights on Black Background - One Light
+   s\6142617ks06.dat          ~Sticker  0.8 x  1.9 with Black Arc on Red Background Right - Sixth Face
+   s\65138s01.dat             ~Brick  4 x  4 x  0.667 with Rounded Top and Four Top Studs - 1/8
+   s\65803s01.dat             ~Technic Brick 16 x 16 x  1.333 - Quarter
+   s\71689s01.dat             ~Technic Panel 13 x  2 x  5 Mudguard Arched Extension
+   s\71711s02.dat             ~Technic Brake Disc  9 x  9 Hub Half
+   s\72024s01.dat             ~Container  8 x  8 x  3 Cupcake - Section 1 / 20
+   s\72024s02.dat             ~Container  8 x  8 x  3 Cupcake - Understuds - 1 / 8
+   s\72024s03.dat             ~Container  8 x  8 x  3 Cupcake - Section with Stud - 1 / 20
+   s\72210s01.dat             ~Wheel Rim 11 x 24 Front without Spokes
+   s\73398s01.dat             ~Wheel Rim 41 x 75 with  5 Spokes and  3 Pins without stud
+   s\78442s01.dat             ~Technic Gear Ring Quarter  6 x  6 with 15 Teeth Half
+   s\78444s01.dat             ~Wing  2 x  6 Right without Studs
+   s\80177s01.dat             ~Slope Brick Curved  3 x  2 with Cutout Left without Top
+   s\81911s01.dat             ~Windscreen  2 x  4 x  1 Curved Half
+   s\84772s01.dat             ~Wheel 20 x 62 Motorcycle Solid Centre
+   s\84772s02.dat             ~Wheel 20 x 62 Motorcycle Solid Rim
+   s\85834s01.dat             ~Brick  4 x  5 x  1.667 with Domed Top and Tapered Sides Half without Top And Side
+   s\98285s01.dat             ~Hinge Plate  2 x  4.5 Base with Technic Pin Hole
+   s\u9534s01.dat             ~Electric Powered Up Small Angular Motor Drive Hub Rim without Pointer
+   dsnappin.dat               Duplo Snapping Pin for Turntables
+   phandle2.dat               Bar Handle Attachment with 2 Open Sides
+   stud16a.dat                Stud Tube Open Split without Edge Lines
+   stud16od.dat               Stud Tube Open Split without Edge Lines and Outside Surface
+   s\4624s01.dat              ~Wheel Rim  6.4 x  8 - 1/8
+   s\14769py0s01.dat          ~Tile  2 x  2 Round with Four Dark Grey Rings inside Black Disc Pattern - One Ring
+   14769py0.dat               Tile  2 x  2 Round with Four Dark Grey Rings inside Black Disc Pattern
+   s\32225s01.dat             ~Znap Grid  9 x  7 x  4 Motor Holder - Half
+   32225.dat                  Znap Grid  9 x  7 x  4 Motor Holder
+   s\2474s02.dat              ~Technic Gear Stepper with  8 Teeth Quarter
+   s\5152s01.dat              ~Brick  3 x  3 Corner Round - Half
+   14769p0w.dat               Tile  2 x  2 Round with Red Circle Pattern

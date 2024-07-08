@@ -1,13 +1,14 @@
 0 Tyre 20/ 64 x 37 S
 0 Name: 32019.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2013-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 -9.5 1 0 0 0 1 0 0 0 1 s\32019s01.dat
 1 16 0 0 -9.5 0.866025 -0.5 0 0.5 0.866025 0 0 0 1 s\32019s01.dat
@@ -68,10 +69,10 @@
 1 16 0 0 11 -46 0 0 0 0 46 0 12 0 48\4-4edge.dat
 1 16 0 0 13 -46 0 0 0 0 46 0 12 0 48\4-4edge.dat
 1 16 0 0 11 -42 0 0 0 0 42 0 12 0 48\4-4edge.dat
-1 16 0 0 -30 2 0 0 0 0 2 0 1 0 48\4-4rin22.dat
-1 16 0 0 -30 2 0 0 0 0 2 0 1 0 48\4-4rin21.dat
-1 16 0 0 11 -2 0 0 0 0 2 0 -1 0 48\4-4rin22.dat
-1 16 0 0 11 -2 0 0 0 0 2 0 -1 0 48\4-4rin21.dat
+1 16 0 0 -30 2 0 0 0 0 2 0 1 0 48\4-4ring22.dat
+1 16 0 0 -30 2 0 0 0 0 2 0 1 0 48\4-4ring21.dat
+1 16 0 0 11 -2 0 0 0 0 2 0 -1 0 48\4-4ring22.dat
+1 16 0 0 11 -2 0 0 0 0 2 0 -1 0 48\4-4ring21.dat
 0 BFC INVERTNEXT
 1 16 0 0 11 -42 0 0 0 0 42 0 -5 0 48\4-4cyli.dat
 1 16 0 0 6 -42 0 0 0 0 42 0 12 0 48\4-4edge.dat

@@ -1,19 +1,20 @@
 0 Minifig Helmet with Chinstrap and Wide Brim
 0 Name: 30273.dat
 0 Author: Paul Easter [pneaster]
-0 !LDRAW_ORG Part UPDATE 2012-03
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CW
 
 0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Castle, knight, Lancaster, Late Medieval, tournament, Tudor
+0 !KEYWORDS Castle, Lancaster, Late Medieval, Tudor, knight, tournament
 
 0 !HISTORY 2003-11-04 [fwcain] added CMDLINE and some KEYWORDS; fixed Title...
 0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
 0 !HISTORY 2012-12-24 [cwdee] Update category
 0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // inner stud
 
@@ -73,9 +74,9 @@
 1 16 2 -1 -2 0 1 0 0 0 -13 -13 0 0 1-4edge.dat
 1 16 2 -1 -2 0 1 0 0 0 -12 -12 0 0 1-4edge.dat
 1 16 2 -1 -2 0 12 0 0 0 -12 -12 0 0 1-8sphe.dat
-1 16 2 -1 -2 1 0 0 0 0 -1 0 1 0 1-4rin12.dat
-1 16 2 -1 -2 1 0 0 0 1 0 0 0 -1 1-4rin12.dat
-1 16 2 -1 -2 0 -1 0 0 0 -1 -1 0 0 1-4rin12.dat
+1 16 2 -1 -2 1 0 0 0 0 -1 0 1 0 1-4ring12.dat
+1 16 2 -1 -2 1 0 0 0 1 0 0 0 -1 1-4ring12.dat
+1 16 2 -1 -2 0 -1 0 0 0 -1 -1 0 0 1-4ring12.dat
 1 16 2 -1 -2 13 0 0 0 0 -13 0 4 0 1-4cyli.dat
 4 16 2 -1 -15 6.9751 -1 -14.0107 6.8886 2 -16.6302 0 2 -18
 5 24 2 -1 -15 0 2 -18 6.8886 2 -16.6302 -2 -1 -15
@@ -110,9 +111,9 @@
 1 16 -2 -1 -2 -13 0 0 0 0 -13 0 -1 0 1-4edge.dat
 1 16 -2 -1 -2 -12 0 0 0 0 -12 0 -1 0 1-4edge.dat
 1 16 -2 -1 -2 -12 0 0 0 0 -12 0 -12 0 1-8sphe.dat
-1 16 -2 -1 -2 0 1 0 0 0 -1 -1 0 0 1-4rin12.dat
-1 16 -2 -1 -2 0 0 -1 0 1 0 -1 0 0 1-4rin12.dat
-1 16 -2 -1 -2 -1 0 0 0 0 -1 0 1 0 1-4rin12.dat
+1 16 -2 -1 -2 0 1 0 0 0 -1 -1 0 0 1-4ring12.dat
+1 16 -2 -1 -2 0 0 -1 0 1 0 -1 0 0 1-4ring12.dat
+1 16 -2 -1 -2 -1 0 0 0 0 -1 0 1 0 1-4ring12.dat
 1 16 -2 -1 -2 0 4 0 0 0 -13 -13 0 0 1-4cyli.dat
 4 16 -15 -1 -2 -14.0107 -1 -6.9751 -16.6302 2 -6.8886 -18 2 0
 5 24 -15 -1 -2 -18 2 0 -16.6302 2 -6.8886 -15 -1 2
@@ -147,9 +148,9 @@
 1 16 -2 -1 2 0 -1 0 0 0 -13 13 0 0 1-4edge.dat
 1 16 -2 -1 2 0 -1 0 0 0 -12 12 0 0 1-4edge.dat
 1 16 -2 -1 2 0 -12 0 0 0 -12 12 0 0 1-8sphe.dat
-1 16 -2 -1 2 -1 0 0 0 0 -1 0 -1 0 1-4rin12.dat
-1 16 -2 -1 2 -1 0 0 0 1 0 0 0 1 1-4rin12.dat
-1 16 -2 -1 2 0 1 0 0 0 -1 1 0 0 1-4rin12.dat
+1 16 -2 -1 2 -1 0 0 0 0 -1 0 -1 0 1-4ring12.dat
+1 16 -2 -1 2 -1 0 0 0 1 0 0 0 1 1-4ring12.dat
+1 16 -2 -1 2 0 1 0 0 0 -1 1 0 0 1-4ring12.dat
 1 16 -2 -1 2 -13 0 0 0 0 -13 0 -4 0 1-4cyli.dat
 4 16 -2 -1 15 -6.9751 -1 14.0107 -6.8886 2 16.6302 0 2 18
 5 24 -2 -1 15 0 2 18 -6.8886 2 16.6302 2 -1 15
@@ -184,9 +185,9 @@
 1 16 2 -1 2 13 0 0 0 0 -13 0 1 0 1-4edge.dat
 1 16 2 -1 2 12 0 0 0 0 -12 0 1 0 1-4edge.dat
 1 16 2 -1 2 12 0 0 0 0 -12 0 12 0 1-8sphe.dat
-1 16 2 -1 2 0 -1 0 0 0 -1 1 0 0 1-4rin12.dat
-1 16 2 -1 2 0 0 1 0 1 0 1 0 0 1-4rin12.dat
-1 16 2 -1 2 1 0 0 0 0 -1 0 -1 0 1-4rin12.dat
+1 16 2 -1 2 0 -1 0 0 0 -1 1 0 0 1-4ring12.dat
+1 16 2 -1 2 0 0 1 0 1 0 1 0 0 1-4ring12.dat
+1 16 2 -1 2 1 0 0 0 0 -1 0 -1 0 1-4ring12.dat
 1 16 2 -1 2 0 -4 0 0 0 -13 13 0 0 1-4cyli.dat
 4 16 15 -1 2 14.0107 -1 6.9751 16.6302 2 6.8886 18 2 0
 5 24 15 -1 2 18 2 0 16.6302 2 6.8886 15 -1 -2

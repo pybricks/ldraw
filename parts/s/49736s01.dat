@@ -1,22 +1,23 @@
 0 ~Cylinder Tube Slide Connector Female
 0 Name: s\49736s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2020-03
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 10 0 0 43 43 0 0 0 -20 0 48\4-4cylo.dat
 1 16 0 0 -10 0 0 1 1 0 0 0 1 0 48\4-4ring39.dat
-1 16 0 0 -10 0 0 2.5 2.5 0 0 0 1 0 48\4-4rin16.dat
+1 16 0 0 -10 0 0 2.5 2.5 0 0 0 1 0 48\4-4ring16.dat
 1 16 0 0 -10 0 0 0.5 0.5 0 0 0 1 0 48\4-4ring85.dat
 0 BFC INVERTNEXT
 1 16 0 0 10 0 0 40 40 0 0 0 -16 0 48\4-4cylo.dat
 1 16 0 0 -6 0 0 4 4 0 0 0 -1 0 48\4-4ring9.dat
-1 16 0 0 10 0 0 2.5 2.5 0 0 0 -1 0 48\4-4rin16.dat
+1 16 0 0 10 0 0 2.5 2.5 0 0 0 -1 0 48\4-4ring16.dat
 1 16 0 0 10 0 0 0.5 0.5 0 0 0 -1 0 48\4-4ring85.dat
 1 16 0 0 -10 0 0 39 39 0 0 0 -1 0 48\4-4edge.dat
 1 16 0 0 -6 0 0 36 36 0 0 0 -1 0 48\4-4edge.dat

@@ -1,7 +1,7 @@
 0 ~Figure Fabuland Walrus Head  2
 0 Name: u9151p02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2011-01
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Cap position:
@@ -10,7 +10,8 @@
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9151s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\u9151s01.dat
@@ -24,5 +25,5 @@
 1 16 0 -2 0 7.2 0 0 0 2 0 0 0 7.2 4-4cylo.dat
 0 BFC INVERTNEXT
 1 16 0 -20 0 6 0 0 0 18 0 0 0 6 4-4cylc.dat
-1 16 0 -2 0 0.6 0 0 0 -1 0 0 0 0.6 4-4rin10.dat
-1 16 0 -2 0 0.6 0 0 0 -1 0 0 0 0.6 4-4rin11.dat
+1 16 0 -2 0 0.6 0 0 0 -1 0 0 0 0.6 4-4ring10.dat
+1 16 0 -2 0 0.6 0 0 0 -1 0 0 0 0.6 4-4ring11.dat

@@ -1,17 +1,18 @@
 0 ~Technic Transmission Changeover Catch Half
 0 Name: s\6641s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2022-02
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-11-03 [Philo] Subparted from Marc Klein original design
 0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 10 0 -20 0 -20 0 -9 0 0 0 0 -9 3-16cylo.dat
-1 16 10 0 -20 0 -1 0 -3 0 0 0 0 -3 3-16rin2.dat
+1 16 10 0 -20 0 -1 0 -3 0 0 0 0 -3 3-16ring2.dat
 1 16 10 0 -42 0 -20 0 -2 0 -3.46 3.46 0 -2 1-4cylo.dat
 5 24 -10 -9 -20 10 -9 -20 -10 -9 -16.2722 -10 -8.3151 -23.4443
 2 24 10 -9 6 -10 -9 6
@@ -35,7 +36,7 @@
 2 24 10 9 6 10 -9 6
 4 16 10 -2 -28.603 10 -2 -38.54 10 2 -38.54 10 2 -28.603
 4 16 10 -2.2962 -25.5434 10 -3.4443 -28.3151 10 -2 -28.603 10 0 -26
-1 16 -10 0 -20 0 1 0 -3 0 0 0 0 -3 3-16rin2.dat
+1 16 -10 0 -20 0 1 0 -3 0 0 0 0 -3 3-16ring2.dat
 4 16 -10 -2 -28.603 -10 -3.4443 -28.3151 -10 -2.2962 -25.5434 -10 0 -26
 3 16 10 0 -26 10 -2 -28.603 10 2 -28.603
 2 24 10 -2.5 -46 10 2.5 -46

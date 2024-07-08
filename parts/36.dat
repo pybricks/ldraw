@@ -1,7 +1,7 @@
 0 Tyre Large
 0 Name: 36.dat
 0 Author: James Jessiman
-0 !LDRAW_ORG Part UPDATE 2004-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,7 +10,8 @@
 0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
 0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 6 41 0 0 0 0 41 0 1 0 48\4-4edge.dat
 1 16 0 0 -6 41 0 0 0 0 41 0 1 0 48\4-4edge.dat
@@ -65,16 +66,16 @@
 1 16 0 0 7 44 0 0 0 0 44 0 2 0 48\4-4cyli.dat
 0 BFC INVERTNEXT
 1 16 0 0 -7 -44 0 0 0 0 44 0 -2 0 48\4-4cyli.dat
-1 16 0 0 9 0 0 -4 -4 0 0 0 -1 0 48\1-4rin11.dat
-1 16 0 0 9 4 0 0 0 0 -4 0 -1 0 48\1-4rin11.dat
-1 16 0 0 9 0 0 4 4 0 0 0 -1 0 48\1-4rin11.dat
-1 16 0 0 9 -4 0 0 0 0 4 0 -1 0 48\1-4rin11.dat
-1 16 0 0 9 0 0 -4 -4 0 0 0 -1 0 48\4-4rin12.dat
-1 16 0 0 -9 0 0 4 -4 0 0 0 1 0 48\1-4rin11.dat
-1 16 0 0 -9 -4 0 0 0 0 -4 0 1 0 48\1-4rin11.dat
-1 16 0 0 -9 0 0 -4 4 0 0 0 1 0 48\1-4rin11.dat
-1 16 0 0 -9 4 0 0 0 0 4 0 1 0 48\1-4rin11.dat
-1 16 0 0 -9 0 0 4 -4 0 0 0 1 0 48\4-4rin12.dat
+1 16 0 0 9 0 0 -4 -4 0 0 0 -1 0 48\1-4ring11.dat
+1 16 0 0 9 4 0 0 0 0 -4 0 -1 0 48\1-4ring11.dat
+1 16 0 0 9 0 0 4 4 0 0 0 -1 0 48\1-4ring11.dat
+1 16 0 0 9 -4 0 0 0 0 4 0 -1 0 48\1-4ring11.dat
+1 16 0 0 9 0 0 -4 -4 0 0 0 -1 0 48\4-4ring12.dat
+1 16 0 0 -9 0 0 4 -4 0 0 0 1 0 48\1-4ring11.dat
+1 16 0 0 -9 -4 0 0 0 0 -4 0 1 0 48\1-4ring11.dat
+1 16 0 0 -9 0 0 -4 4 0 0 0 1 0 48\1-4ring11.dat
+1 16 0 0 -9 4 0 0 0 0 4 0 1 0 48\1-4ring11.dat
+1 16 0 0 -9 0 0 4 -4 0 0 0 1 0 48\4-4ring12.dat
 1 16 0 0 0 0 0 1 -1 0 0 0 9 0 48\1-4con52.dat
 1 16 0 0 0 1 0 0 0 0 1 0 9 0 48\1-4con52.dat
 1 16 0 0 0 0 0 -1 1 0 0 0 9 0 48\1-4con52.dat

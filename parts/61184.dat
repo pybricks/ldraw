@@ -1,13 +1,14 @@
 0 Technic Pin 1/2 with Bar 2L
 0 Name: 61184.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2009-03
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 0 -1 0 6 0 0 0 0 6 4-4edge.dat
 1 16 0 0 0 0 -1 0 8 0 0 0 0 8 4-4edge.dat
@@ -58,10 +59,10 @@
 1 16 -2 0 0 0 1 0 0 0 2 2 0 0 4-4ring3.dat
 1 16 -20 0 0 0 1 0 0.765 0 1.848 1.848 0 -0.765 3-8ring2.dat
 1 16 -20 0 0 0 1 0 -0.765 0 -1.848 -1.848 0 0.765 3-8ring2.dat
-1 16 -18 0 0 0 -1 0 0.191 0 0.462 0.462 0 -0.191 3-8rin12.dat
-1 16 -18 0 0 0 -1 0 -0.191 0 -0.462 -0.462 0 0.191 3-8rin12.dat
-1 16 -20 0 0 0 1 0 0.191 0 0.462 0.462 0 -0.191 3-8rin12.dat
-1 16 -20 0 0 0 1 0 -0.191 0 -0.462 -0.462 0 0.191 3-8rin12.dat
+1 16 -18 0 0 0 -1 0 0.191 0 0.462 0.462 0 -0.191 3-8ring12.dat
+1 16 -18 0 0 0 -1 0 -0.191 0 -0.462 -0.462 0 0.191 3-8ring12.dat
+1 16 -20 0 0 0 1 0 0.191 0 0.462 0.462 0 -0.191 3-8ring12.dat
+1 16 -20 0 0 0 1 0 -0.191 0 -0.462 -0.462 0 0.191 3-8ring12.dat
 1 16 -18 0 0 0 1 0 -2.296 0 -5.543 5.543 0 -2.296 3-8edge.dat
 1 16 -18 0 0 0 1 0 2.296 0 5.543 -5.543 0 2.296 3-8edge.dat
 1 16 -18 0 0 0 1 0 2.487 0 6.005 -6.005 0 2.487 3-8edge.dat

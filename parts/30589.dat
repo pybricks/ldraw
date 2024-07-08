@@ -1,13 +1,14 @@
 0 ~Hose Air Pump 16 x 14 x 13 Valve Lock Ring (Needs Work)
 0 Name: 30589.dat
 0 Author: Mikkel Bech Jensen [gaia]
-0 !LDRAW_ORG Part UPDATE 2019-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 0 // Needs work - Inside not accurate
 
@@ -489,8 +490,8 @@
 5 24 -12.006 -4 91.209 -12.006 -8 91.209 -23.81 -8 88.863 -2 -4 91.868
 1 16 0 0 0 0 0 -104 0 -4 0 104 0 0 48\3-4cyli.dat
 1 16 0 -4 0 0 0 100 0 -4 0 100 0 0 48\4-4cyli.dat
-1 16 0 0 0 4 0 0 0 -1 0 0 0 4 48\4-4rin25.dat
-1 16 0 -4 0 4 0 0 0 1 0 0 0 4 48\4-4rin25.dat
+1 16 0 0 0 4 0 0 0 -1 0 0 0 4 48\4-4ring25.dat
+1 16 0 -4 0 4 0 0 0 1 0 0 0 4 48\4-4ring25.dat
 1 16 0 -4 0 0 0 -104 0 1 0 104 0 0 48\3-4edge.dat
 1 16 0 0 0 0 0 -104 0 1 0 104 0 0 48\3-4edge.dat
 1 16 0 -8 0 0 0 100 0 1 0 100 0 0 48\4-4edge.dat

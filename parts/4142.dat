@@ -1,7 +1,7 @@
 0 ~Technic Differential Crown Wheel 28 Tooth
 0 Name: 4142.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2011-02
+0 !LDRAW_ORG Part UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,10 +9,11 @@
 0 !HISTORY 2007-10-26 [Philo] Split from 73071
 0 !HISTORY 2011-07-11 [Steffen] changed origin
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
-
-1 16 0 0 4.5 1 0 0 0 0 1 0 -1 0 48\4-4rin25.dat
-1 16 0 0 3.5 1 0 0 0 0 1 0 -1 0 48\4-4rin24.dat
+1 16 0 0 4.5 1 0 0 0 0 1 0 -1 0 48\4-4ring25.dat
+1 16 0 0 3.5 1 0 0 0 0 1 0 -1 0 48\4-4ring24.dat
 1 16 0 0 3.5 24 0 0 0 0 24 0 1 0 48\4-4edge.dat
 1 16 0 0 4.5 25 0 0 0 0 25 0 1 0 48\4-4edge.dat
 1 16 0 0 3.5 25 0 0 0 0 25 0 1 0 48\4-4edge.dat

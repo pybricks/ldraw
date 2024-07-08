@@ -1,13 +1,14 @@
 0 ~Bike  2 Wheel Motorcycle Frame  3 x  6 x  3 - Left/Right
 0 Name: s\4481s01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Subpart UPDATE 2019-02
+0 !LDRAW_ORG Subpart UPDATE 2024-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-09-09 [PTadmin] Official Update 2019-02
-
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 10.5 21.697 -8.723 -1.5 0 0 0 0 6.0071 0 1 3.18015 rect.dat
 1 16 10.5 18.18 -1.007 -1.5 0 0 -0.0002 0 -6.27685 0.0001 -1 -3.3031 rect.dat
@@ -827,8 +828,8 @@
 4 16 0 37.25 -49.4685 0 35.6957 -49.4691 0 36 -46 0 40 -46
 4 16 0 40 -46 0 40 -51 0 38 -51 0 37.25 -49.4685
 3 16 0 37.25 -50.9995 0 37.25 -49.4685 0 38 -51
-1 16 0 32 -51 0 1 0 0.75 0 0 0 0 -0.75 3-16rin7.dat
-1 16 0 32 -51 0 1 0 2 0 0 0 0 -2 3-16rin3.dat
+1 16 0 32 -51 0 1 0 0.75 0 0 0 0 -0.75 3-16ring7.dat
+1 16 0 32 -51 0 1 0 2 0 0 0 0 -2 3-16ring3.dat
 3 16 0 34.2962 -56.5434 0 19.8624 -63.3918 0 34.0096 -55.8502
 4 16 0 19.8624 -63.3918 0 34.2962 -56.5434 0 35.0616 -58.3912 0 19.862 -66.392
 4 16 0 6.432 -70.213 0 19.8624 -63.3918 0 19.862 -66.392 0 6.78964 -72.7654
