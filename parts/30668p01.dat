@@ -1,0 +1,19 @@
+0 Minifig Hood with Tan Fringe Pattern
+0 Name: 30668p01.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2023-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 30668pb01, Brickowl 983128, CMF, Collectible Minifigures
+0 !KEYWORDS Ninjago, Rebrickable 30668pr0001, Set 30609, set 71019
+0 !KEYWORDS The LEGO Ninjago Movie
+
+0 !HISTORY 2023-12-31 [OrionP] Official Update 2023-07
+
+0 // Bangs
+1 19 0 0 0 1 0 0 0 1 0 0 0 1 s\30668s01.dat
+0 // Hood
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30668s02.dat

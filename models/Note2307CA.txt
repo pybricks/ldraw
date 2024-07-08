@@ -1,0 +1,38 @@
+ldraw.org Parts Update 2023-07
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Sun, 31 Dec 2023 17:54:22 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 139
+   New files: 125
+   New Parts: 76
+   New Subparts: 34
+   New Primitives: 7
+   New 48 Segment Primitives: 8
+
+Moved Parts
+
+Renamed Parts
+   4790.dat                   Boat Ship Wheel
+   changed to    Boat Ship Wheel with Unslotted Pin
+   48\1-24tndis.dat           Hi-Res Disc Negative Truncated 0.0625
+   changed to    Hi-Res Disc Negative Truncated 0.0417
+   98370.dat                  Minifig Sword Longsword
+   changed to    Minifig Sword Longsword with Thin Guard
+
+Other Fixed Parts
+   45575.dat                  Technic Double Flexible Fixing Pin
+   49098.dat                  Wheel Rim 11 x 18 Side with Tyre Widener
+   74982-f1.dat               Technic Pneumatic Pump  1 x  1 x  5.5 (Retracted)
+   74982-f2.dat               Technic Pneumatic Pump  1 x  1 x  5.5 (Extended)
+   822d.dat                   ~Garage Door with Hinge Pins
+   822c.dat                   ~Garage Door with Rear Cross and Hinge Pins
+   822b.dat                   ~Garage Door without Hinge Pins
+   822a.dat                   ~Garage Door with Rear Cross without Hinge Pins
+   s\822as01.dat              ~Garage Door Base without Front and Hinge Pins
+   logo-shell-s.dat           Logo Shell Red "S"
+   axlebeam.dat               Technic Axle Truncated to Fit Technic Beam End Surface

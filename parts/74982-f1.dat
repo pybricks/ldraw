@@ -1,7 +1,7 @@
 0 Technic Pneumatic Pump  1 x  1 x  5.5 (Retracted)
 0 Name: 74982-f1.dat
 0 Author: Marc Klein [marckl]
-0 !LDRAW_ORG Shortcut UPDATE 2018-02
+0 !LDRAW_ORG Shortcut UPDATE 2023-07
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -13,10 +13,10 @@
 0 !HISTORY 2016-08-21 [PTadmin] Renamed from 74982a
 0 !HISTORY 2017-06-27 [Philo] Added gasket
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+0 !HISTORY 2020-06-23 [SLS] Use mechanical assemblies
+0 !HISTORY 2023-12-31 [OrionP] Official Update 2023-07
 
 
-1 0 0 0 0 1 0 0 0 1 0 0 0 1 2943a.dat
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 2942.dat
-1 0 0 -80 0 1 0 0 0 1 0 0 0 1 2941.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2943ac01.dat
 1 0 0 -90 0 1 0 0 0 1 0 0 0 1 2944c02.dat
 
