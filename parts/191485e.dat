@@ -1,0 +1,26 @@
+0 Sticker  2.0 x  1.9 Trapezoid with Black Stripes (Left Side)
+0 Name: 191485e.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Part UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 1554stk01, Brickowl 356438, ferry, Finland Steamship Co.
+0 !KEYWORDS Rebrickable 191485, Set 1554, Silja
+
+0 !HISTORY 2024-04-01 [MagFors] Added a noclip
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
+
+4 16 -20 0 -20 -20 0 20 0 0 20 18.1818 0 -20
+4 16 -20 0 -20 -20 -.25 -20 -20 -.25 20 -20 0 20
+4 16 -20 0 20 -20 -.25 20 0 -.25 20 0 0 20
+4 16 0 0 20 0 -.25 20 18.1818 -.25 -20 18.1818 0 -20
+4 16 18.1818 0 -20 18.1818 -.25 -20 -20 -.25 -20 -20 0 -20
+
+4 16 -20 -.25 -4 -20 -.25 -12 14.5455 -.25 -12 10.9091 -.25 -4
+4 16 -20 -.25 12 -20 -.25 4 7.2727 -.25 4 3.6364 -.25 12
+0 BFC NOCLIP
+4 0 -20 -.25 -12 -20 -.25 -20 18.1818 -.25 -20 14.5455 -.25 -12
+4 0 -20 -.25 4 -20 -.25 -4 10.9091 -.25 -4 7.2727 -.25 4
+4 0 -20 -.25 20 -20 -.25 12 3.6364 -.25 12 0 -.25 20

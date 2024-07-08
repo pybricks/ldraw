@@ -1,0 +1,15 @@
+0 Hi-Res Ring  2 x 0.0625
+0 Name: 48\1-16ring2.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG 48_Primitive UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
+
+
+4 16 3 0 0 2.9742 0 0.3915 1.9828 0 0.261 2 0 0
+4 16 2.9742 0 0.3915 2.8977 0 0.7764 1.9318 0 0.5176 1.9828 0 0.261
+4 16 2.8977 0 0.7764 2.7717 0 1.1481 1.8478 0 0.7654 1.9318 0 0.5176
+0 // Build by LDPartEditor (PrimGen 2.X)

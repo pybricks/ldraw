@@ -1,7 +1,7 @@
 0 LDraw.org Configuration File
 0 Name: LDConfig.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2023-04-13
+0 !LDRAW_ORG Configuration UPDATE 2024-04-05
 
 0 // * LDraw and BrickLink mostly share naming conventions for their colours.
 0 // * Where possible LEGO colour numbers were used.
@@ -64,7 +64,7 @@
 0                              // LEGOID   3 - Light Yellow
 0 !COLOUR Light_Yellow                                          CODE  18   VALUE #FFD67F   EDGE #333333
 0                              // LEGOID   5 - Brick Yellow
-0 !COLOUR Tan                                                   CODE  19   VALUE #B0A06F   EDGE #333333
+0 !COLOUR Tan                                                   CODE  19   VALUE #D7BA8C   EDGE #333333
 0                              // LEGOID  39 - Light Bluish Violet
 0 !COLOUR Light_Violet                                          CODE  20   VALUE #AFBED6   EDGE #333333
 0                              // LEGOID 104 - Bright Violet
@@ -187,6 +187,12 @@
 0 !COLOUR Sand_Green                                            CODE 378   VALUE #708E7C   EDGE #333333
 0                              // LEGOID 135 - Sand Blue
 0 !COLOUR Sand_Blue                                             CODE 379   VALUE #70819A   EDGE #333333
+0                              // LEGOID 402 - Reddish Orange
+0 !COLOUR Reddish_Orange                                        CODE 402   VALUE #CA4C0B   EDGE #333333
+0                              // LEGOID 422 - Sienna Brown
+0 !COLOUR Sienna_Brown                                          CODE 422   VALUE #915C3C   EDGE #333333
+0                              // LEGOID 432 - Umber Brown 
+0 !COLOUR Umber_Brown                                           CODE 423   VALUE #543F33   EDGE #333333
 0                              // LEGOID   4 - Brick Red
 0 !COLOUR Fabuland_Brown                                        CODE 450   VALUE #D27744   EDGE #333333
 0                              // LEGOID 105 - Bright Yellowish Orange
@@ -220,40 +226,46 @@
 0 !COLOUR Trans_Neon_Orange                                     CODE  38   VALUE #FF800D   EDGE #A85100   ALPHA 128
 0                              // LEGOID 229 - Transparent Light Bluish Green
 0 !COLOUR Trans_Very_Light_Blue                                 CODE  39   VALUE #C1DFF0   EDGE #6FB4DC   ALPHA 128
-0                              // LEGOID 111 - Transparent Brown
-0 !COLOUR Trans_Black                                           CODE  40   VALUE #635F52   EDGE #2A2823   ALPHA 128
+0                              // LEGOID 111 - Transparent Brown 
+0 !COLOUR Trans_Brown                                           CODE    40   VALUE #635F52   EDGE #2A2823   ALPHA 128
 0                              // LEGOID 143 - Transparent Fluorescent Blue
-0 !COLOUR Trans_Medium_Blue                                     CODE  41   VALUE #559AB7   EDGE #326276   ALPHA 128
+0 !COLOUR Trans_Medium_Blue                                     CODE    41   VALUE #559AB7   EDGE #326276   ALPHA 128
 0                              // LEGOID  49 - Transparent Fluorescent Green
-0 !COLOUR Trans_Neon_Green                                      CODE  42   VALUE #C0FF00   EDGE #739900   ALPHA 128
+0 !COLOUR Trans_Neon_Green                                      CODE    42   VALUE #C0FF00   EDGE #739900   ALPHA 128
 0                              // LEGOID  42 - Transparent Light Blue
-0 !COLOUR Trans_Light_Blue                                      CODE  43   VALUE #AEE9EF   EDGE #59D1DE   ALPHA 128
+0 !COLOUR Trans_Light_Blue                                      CODE    43   VALUE #AEE9EF   EDGE #59D1DE   ALPHA 128
 0                              // LEGOID 236 - Transparent Bright Reddish Lilac
-0 !COLOUR Trans_Bright_Reddish_Lilac                            CODE  44   VALUE #96709F   EDGE #5F4365   ALPHA 128
+0 !COLOUR Trans_Bright_Reddish_Lilac                            CODE    44   VALUE #96709F   EDGE #5F4365   ALPHA 128
 0                              // LEGOID 230 - Transparent Bright Pink
-0 !COLOUR Trans_Pink                                            CODE  45   VALUE #FC97AC   EDGE #F9345B   ALPHA 128
+0 !COLOUR Trans_Pink                                            CODE    45   VALUE #FC97AC   EDGE #F9345B   ALPHA 128
 0                              // LEGOID  44 - Transparent Yellow
-0 !COLOUR Trans_Yellow                                          CODE  46   VALUE #F5CD2F   EDGE #B49208   ALPHA 128
+0 !COLOUR Trans_Yellow                                          CODE    46   VALUE #F5CD2F   EDGE #B49208   ALPHA 128
 0                              // LEGOID  40 - Transparent
-0 !COLOUR Trans_Clear                                           CODE  47   VALUE #FCFCFC   EDGE #C9C9C9   ALPHA 128
+0 !COLOUR Trans_Clear                                           CODE    47   VALUE #FCFCFC   EDGE #C9C9C9   ALPHA 128
 0                              // LEGOID 126 - Transparent Bright Bluish Violet
-0 !COLOUR Trans_Purple                                          CODE  52   VALUE #A5A5CB   EDGE #6464A6   ALPHA 128
+0 !COLOUR Trans_Purple                                          CODE    52   VALUE #A5A5CB   EDGE #6464A6   ALPHA 128
 0                              // LEGOID 157 - Transparent Fluorescent Yellow
-0 !COLOUR Trans_Neon_Yellow                                     CODE  54   VALUE #DAB000   EDGE #755E00   ALPHA 128
+0 !COLOUR Trans_Neon_Yellow                                     CODE    54   VALUE #DAB000   EDGE #755E00   ALPHA 128
 0                              // LEGOID 182 - Trans Bright Orange
-0 !COLOUR Trans_Orange                                          CODE  57   VALUE #F08F1C   EDGE #9E5C0A   ALPHA 128
+0 !COLOUR Trans_Orange                                          CODE    57   VALUE #F08F1C   EDGE #9E5C0A   ALPHA 128
+0                              // LEGOID 109 / 355 - Trans Black IR
+0 !COLOUR Trans_Black_IR_Lens                                   CODE    32   VALUE #000000   EDGE #333333   ALPHA 210
+0                              // LEGOID 158 - Transparent Fluorescent Red
+0 !COLOUR Trans_Neon_Red                                        CODE   158   VALUE #F18EBB   EDGE #E63384   ALPHA 128
 0                              // LEGOID 227 - Transparent Bright Yellowish Green
-0 !COLOUR Trans_Bright_Light_Green                              CODE  227  VALUE #B5D96C   EDGE #86B22E   ALPHA 128
+0 !COLOUR Trans_Bright_Light_Green                              CODE   227  VALUE #B5D96C    EDGE #86B22E   ALPHA 128
 0                              // LEGOID 231 - Transparent Flame Yellowish Orange
-0 !COLOUR Trans_Bright_Light_Orange                             CODE  231  VALUE #FCB76D   EDGE #FA860A   ALPHA 128
+0 !COLOUR Trans_Bright_Light_Orange                             CODE   231  VALUE #FCB76D    EDGE #FA860A   ALPHA 128
 0                              // LEGOID 234 - Transparent Fire Yellow
-0 !COLOUR Trans_Fire_Yellow                                     CODE  234  VALUE #FBE890   EDGE #F7D22B   ALPHA 128
+0 !COLOUR Trans_Fire_Yellow                                     CODE   234  VALUE #FBE890    EDGE #F7D22B   ALPHA 128
 0                              // LEGOID 284 - Transparent Reddish Lilac
-0 !COLOUR Trans_Reddish_Lilac                                   CODE  284  VALUE #C281A5   EDGE #944771   ALPHA 128
+0 !COLOUR Trans_Reddish_Lilac                                   CODE   284  VALUE #C281A5    EDGE #944771   ALPHA 128
 0                              // LEGOID 285 - Transparent Light Green 
-0 !COLOUR Trans_Light_Green                                     CODE  285  VALUE #7DC291   EDGE #46955D   ALPHA 128
+0 !COLOUR Trans_Light_Green                                     CODE   285  VALUE #7DC291    EDGE #46955D   ALPHA 128
 0                              // LEGOID 293 - Transparent Light Royal Blue
-0 !COLOUR Trans_Light_Blue_Violet                               CODE  293  VALUE #6BABE4   EDGE #247BC6   ALPHA 128
+0 !COLOUR Trans_Light_Blue_Violet                               CODE   293  VALUE #6BABE4    EDGE #247BC6   ALPHA 128
+0                              // LEGOID 375 - Transparent Black
+0 !COLOUR Trans_Black                                           CODE 10375  VALUE #212121    EDGE #545454   ALPHA 128
 
 
 0 // LDraw Chrome Plated Colours
@@ -353,7 +365,7 @@
 0                              // LEGOID 362 - Transparent Blue Opal
 0 !COLOUR Opal_Trans_Light_Blue                                 CODE 362   VALUE #AEE9EF   EDGE #59D1DE   ALPHA 200   LUMINANCE 5     MATERIAL GLITTER VALUE #59DEBF FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 0                              // LEGOID 363 - Transparent Brown Opal
-0 !COLOUR Opal_Trans_Black                                      CODE 363   VALUE #635F52   EDGE #2A2823   ALPHA 200   LUMINANCE 5     MATERIAL GLITTER VALUE #292522 FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
+0 !COLOUR Opal_Trans_Black                                      CODE 363   VALUE #635F52   EDGE #2A2823   ALPHA 200   LUMINANCE 5     MATERIAL GLITTER VALUE #7781C9 FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 0                              // LEGOID 364 - Transparent Medium Reddish Violet Opal
 0 !COLOUR Opal_Trans_Dark_Pink                                  CODE 364   VALUE #DF6695   EDGE #B9275F   ALPHA 200   LUMINANCE 5     MATERIAL GLITTER VALUE #B92790 FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 0                              // LEGOID 365 - Transparent Violet Opal
@@ -416,8 +428,6 @@
 0 // LDraw Internal Common Material Colours
 0 !COLOUR Main_Colour                                           CODE  16   VALUE #FFFF80   EDGE #333333
 0 !COLOUR Edge_Colour                                           CODE  24   VALUE #7F7F7F   EDGE #333333
-0                              // LEGOID 109 - Black IR
-0 !COLOUR Trans_Black_IR_Lens                                   CODE  32   VALUE #000000   EDGE #333333   ALPHA 210
 0 !COLOUR Magnet                                                CODE 493   VALUE #656761   EDGE #333333                               METAL
 0 !COLOUR Electric_Contact_Alloy                                CODE 494   VALUE #D0D0D0   EDGE #333333                               METAL
 0 !COLOUR Electric_Contact_Copper                               CODE 495   VALUE #AE7A59   EDGE #333333                               METAL

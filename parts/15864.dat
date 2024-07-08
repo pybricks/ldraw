@@ -1,0 +1,21 @@
+0 Minifig Helmet Large Square with Side Extensions
+0 Name: 15864.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Shortcut UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Horizontal stud at 0 -22 -17
+0 !HELP Vertical studs at -50 -42 -14 and 50 -42 -14
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+
+0 !HISTORY 2014-05-16 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2022-03-26 [Sirio] File preparation for LDraw Parts Tracker
+0 !HISTORY 2023-12-08 [MagFors] Split from two into three parts
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 16095.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 15435.dat
+1 16 0 -42 -14 1 0 0 0 1 0 0 0 1 15436.dat

@@ -1,0 +1,20 @@
+0 Sticker  2.2 x  1.7 with Ford Logo, Grey Exhaust Pipes and White Number 66 in Green Rectangle on Red Background Right
+0 Name: 6177969v.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 2016, Bricklink 75881stk01, Brickowl 507382, Ford, GT
+0 !KEYWORDS Rebrickable 30897, Set 75881, Speed Champions
+
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
+
+
+0 // Logo primitives
+1 272 -7.5 -.25 12.75 .84 0 0 0 1 0 0 0 .84 logo-ford-oval.dat
+1 15 -7.5 -.25 12.75 .84 0 0 0 1 0 0 0 .84 logo-ford-oval-text.dat
+0 // Subparts
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6177969vs01.dat
+1 16 -6.5 -.25 1.5 1 0 0 0 1 0 0 0 1 s\6177969vs02.dat

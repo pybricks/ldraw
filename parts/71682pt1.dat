@@ -1,0 +1,16 @@
+0 Technic Panel Curved  3 x  2 x  1 with Ferrari Logo Right Pattern
+0 Name: 71682pt1.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Part UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 71682pb005L, Daytona, Ferrari, set 42143
+
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\71682s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\71682pt1s01.dat
+1 16 9 0 17 0 -1 0 0 0 -1 1 0 0 s\71682pt1s02.dat

@@ -1,0 +1,21 @@
+0 Dish  6 x  6 Inverted - No Studs with Handle with Metallic Dark Grey and Metallic Silver Armour Pattern
+0 Name: 18675p01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 18675pb18, Brickowl 853170, Rebrickable 18675pr0017
+0 !KEYWORDS Set 70675
+
+0 !CMDLINE -c47
+
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18675s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18675s05.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18675p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\18675p01s01.dat

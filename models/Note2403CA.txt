@@ -1,0 +1,31 @@
+ldraw.org Parts Update 2024-03
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Sun, 28 Apr 2024 11:50:15 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 217
+   New files: 191
+   New Parts: 135
+   New Subparts: 49
+   New Primitives: 5
+   New 48 Segment Primitives: 1
+   New Part TEXMAP Images: 1
+
+Moved Parts
+   u9363.dat                  ~Moved to u9363p01
+
+Renamed Parts
+   30387p01.dat               Hinge Brick  1 x  4 Locking Double with Black Stripes Pattern
+   changed to    Hinge Brick  1 x  4 Locking Double, Two Finger End with 9 Teeth with Black Stripes Type 2 Pattern
+   3437pe1.dat                Duplo Brick  2 x  2 with Eye Pattern on Two Sides
+   changed to    Duplo Brick  2 x  2 with Eye with White Spot on 2 Sides Pattern
+   95673.dat                  Minifig Sword Roman Gladius
+   changed to    Minifig Sword Roman Gladius with Thin Crossguard
+   973psw.dat                 Minifig Torso with SW Cad Bane Pattern
+   changed to    Minifig Torso with Silver Buttons and Ammo Belt Pattern
+
+Other Fixed Parts
