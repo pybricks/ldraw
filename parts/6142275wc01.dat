@@ -1,0 +1,19 @@
+0 Sticker  0.8 x  3.1 with White Trapezoid on Grey Background Left (Formed)
+0 Name: 6142275wc01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Audi, e-tron, quattro, R18, Set 75872, Speed Champions
+
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
+
+
+1 16 0 .86 16.95 1 0 0 0 .997836 -.065758 0 .065758 .997836 s\6142275ws01.dat
+1 16 0 .86 16.95 1 0 0 0 .980815 -.19494 0 .19494 .980815 s\6142275ws02.dat
+1 16 0 7.61 -8.27 1 0 0 0 .947066 -.321039 0 .321039 .947066 s\6142275ws03.dat
+1 16 0 13.4 -20 1 0 0 0 .896709 -.442621 0 .442621 .896709 s\6142275ws04.dat
+1 16 0 13.4 -20 1 0 0 0 .83461 -.550842 0 .550842 .83461 s\6142275ws05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6142275ws07.dat

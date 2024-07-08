@@ -1,0 +1,23 @@
+0 ~Slope Brick 55  1 x  6 x  5 - Half Inside
+0 Name: s\2937s03.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Subpart UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
+
+4 16 6 120 -96 6 120 16 10 120 20 10 120 -100
+3 16 0 0 16 6 0 16 10 0 20
+4 16 6 0 10 6 0 4 10 0 -20 10 0 20
+3 16 10 0 20 6 0 16 6 0 10
+3 16 10 0 -20 6 0 4 0 0 4
+4 16 4 3.825 6 4 3.825 10 6 4 16 6 4 -20
+3 16 6 4 16 4 3.825 10 4 3.825 14
+4 16 6 116 -96 6 4 -20 6 4 16 6 120 16
+3 16 6 116 -96 6 120 16 6 120 -96
+2 24 10 0 -20 10 0 20
+2 24 6 4 16 6 4 -20
+2 24 10 120 20 10 120 -100
+2 24 6 120 -96 6 120 16

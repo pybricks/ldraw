@@ -1,0 +1,91 @@
+ldraw.org Parts Update 2023-06
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Sun, 19 Nov 2023 03:08:42 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 365
+   New files: 315
+   New Parts: 157
+   New Subparts: 147
+   New Primitives: 8
+   New 48 Segment Primitives: 2
+   New Part TEXMAP Images: 1
+
+Moved Parts
+
+Renamed Parts
+   2842c01.dat                Technic Control Centre with Yellow/Red Buttons (Complete)
+   changed to    Technic Control Centre I with Yellow/Red Buttons (Complete)
+   2842c02.dat                Technic Control Centre with Red/Grey Buttons (Complete)
+   changed to    Technic Control Centre II with Red/Grey Buttons (Complete)
+   92092.dat                  Hinge Tile  2 x  4 with Ribs Locking without Rear Reinforcements
+   changed to    Hinge Tile  2 x  4 with Ribs Locking without Rear Reinforcements,  9 Teeth
+   3626bp6f.dat               Minifig Head with Red Lips and Black Upswept Eyelashes Pattern
+   changed to    Minifig Head Female with Red Lips and Black Upswept Eyelashes Pattern
+   3626bp20.dat               Minifig Head with Red Lips, Open Mouth and Thick Eyelashes Pattern
+   changed to    Minifig Head Female with Red Lips, Open Mouth and Thick Eyelashes Pattern
+   3626bp40.dat               Minifig Head with Messy Hair Female Pattern
+   changed to    Minifig Head Female with Red Lips and Black Messy Hair Pattern
+   3626bpa6.dat               Minifig Head with Brown Hair, Eyelashes, and Lipstick Pattern
+   changed to    Minifig Head Female with Brown Hair, Eyelashes, and Lipstick Pattern
+   3626bpb5.dat               Minifig Head with Green Lips and Red Eyebrows Pattern
+   changed to    Minifig Head Female with Green Lips and Red Eyebrows Pattern
+   3626bpb8.dat               Minifig Head with Dark Red Lips, Smirk/Eyemask 2-Sided Pattern
+   changed to    Minifig Head Female with Dark Red Lips, Smirk/Eyemask 2-Sided Pattern
+   3626bpba.dat               Minifig Head with Black Mask, Blue Eyes and Black Lips Pattern
+   changed to    Minifig Head Female with Black Mask, Blue Eyes and Black Lips Pattern
+   3626cp8d.dat               Minifig Head Female Black Eyebrows, Eyelashes, Freckles, Pink Lips, Lopsided Smile / Determined 2-Sided Pattern
+   changed to    Minifig Head Female with Black Eyebrows, Eyelashes, Freckles, Pink Lips, Lopsided Smile / Determined 2-Sided Pattern
+   3626cp85.dat               Minifig Head with Reddish Brown Eyebrows, Medium Nougat Freckles and Lips, Small Smirk / Left Eye Squinted 2-Sided Pattern
+   changed to    Minifig Head Female with Reddish Brown Eyebrows, Medium Nougat Freckles and Lips, Small Smirk / Left Eye Squinted 2-Sided Pattern
+   3626cpbj.dat               Minifig Head with DarkRed Lips, Open/Closed Mouth, Freckles 2-Sided Pattern
+   changed to    Minifig Head Female with DarkRed Lips, Open/Closed Mouth, Freckles 2-Sided Pattern
+   3626cpccg.dat              Minifig Head with Black Thin Straight Eybrows and Light Bluish Grey Lips and Eyeshadow Pattern
+   changed to    Minifig Head Female with Black Thin Straight Eyebrows and Light Bluish Grey Lips and Eyeshadow Pattern
+   3626cpce8.dat              Minifig Head Alien Female with Red Eyes and Dark Bluish Grey Lips and Wrinkles, Open Smile with Missing Tooth Pattern
+   changed to    Minifig Head Female with Red Eyes and Dark Bluish Grey Lips and Wrinkles, Open Smile with Missing Tooth Pattern
+   3626cp8c.dat               Minifig Head Peach Lips, Smile, Black Eyebrows Pattern (Hollow Stud)
+   changed to    Minifig Head Female with Peach Lips, Smile, Black Eyebrows Pattern (Hollow Stud)
+
+Other Fixed Parts
+   19474-f1.dat               Technic Pneumatic Valve with Axle Hole (Neutral Position)
+   19474-f2.dat               Technic Pneumatic Valve with Axle Hole (Down Position)
+   19474-f3.dat               Technic Pneumatic Valve with Axle Hole (Up Position)
+   30303.dat                  Plate  6 x  6 x  0.667 Cross with Dome
+   50921.dat                  Technic Arm  2 x  5 with Ball Joint and Gear 12 Tooth Double Bevel
+   87612.dat                  Glass for Plane Front  6 x 10 x  4
+   u9304.dat                  ~Boat Keel Weight Half Bottom with Tab
+   3710.dat                   Plate  1 x  4
+   s\u9402s01.dat             ~Electric Powered Up 6 Port Hub Bottom Corner
+   s\89650s02.dat             ~Constraction Ball Joint Socket with Open Axle Holes and Narrow Tip - Quarter
+   s\65421s01.dat             ~Technic Concrete Mixer Half Shell Half
+   s\54091s01.dat             ~Slope Brick Curved  8 x  8 x  2 Inverted Double - Half
+   s\53790s01.dat             ~Electric Mindstorms NXT Top Subpart
+   s\47715s00.dat             ~Motor Pull Back  4 x  9 x  2.667 Half
+   s\46891s01.dat             ~Technic Excavator Bucket 19 x 12 Half
+   s\32023s01.dat             ~Electric Code Pilot Battery Cover - Symmetrical Half
+   s\39370s01.dat             ~Technic Beam  5 x  3 H-shaped with Ball Socket Half
+   s\49295s04.dat             ~Wheel 14 x 80 with  4 Spokes with Integral Tyre - Spoke
+   s\65834s03.dat             ~Wheel 14 x 35 with  4 Spokes with Integral Tyre - Rim
+   s\32489s01.dat             ~Technic Connector Block  4 x  5 x  7.667 - Half
+   s\39367s03.dat             ~Wheel 14 x 48 with  4 Spokes with Integral Tyre - Rim
+   s\39367s04.dat             ~Wheel 14 x 48 with  4 Spokes with Integral Tyre - Rim Centre Reinforcement
+   s\32289as01.dat            ~Electric Technic Motor 4.5V  6 x 17 x  5 - Main Half Base Type 1
+   s\32289bs01.dat            ~Electric Technic Motor 4.5V  6 x 17 x  5 - Main Half Base Type 2
+   u9416.dat                  ~Technic Pneumatic Valve with Axle Hole Front Cover
+   u9417.dat                  ~Technic Pneumatic Valve with Axle Hole Body
+   44225.dat                  Technic Beam  3 with Rotation Joint 3 Pin
+   44224.dat                  Technic Beam  3 with Rotation Joint 3 Socket
+   44136.dat                  Constraction Block  2 x  7 x  3 Curved with Forked Axle Hole
+   41672.dat                  Technic Beam  1 x  3 x  7 with 4 Axleholes and 3 Holes
+   32023.dat                  Electric Code Pilot Battery Cover
+   41014.dat                  ~Electric Control+ XL Motor Front
+   s\919s01.dat               ~Electric Battery Box with Pinholes Mounting Bracket
+   s\30249s01.dat             ~Slope Brick 55  1 x  6 x  5 Subpart without Side Faces
+
+Minor Edits
+   639 Part licenses changed

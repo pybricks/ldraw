@@ -1,15 +1,17 @@
-0 Minifig Head Female Black Eyebrows, Eyelashes, Freckles, Pink Lips, Lopsided Smile / Determined 2-Sided Pattern
+0 Minifig Head Female with Black Eyebrows, Eyelashes, Freckles, Pink Lips, Lopsided Smile / Determined 2-Sided Pattern
 0 Name: 3626cp8d.dat
 0 Author: Christophe Mitillo [Christophe_Mitillo]
-0 !LDRAW_ORG Part UPDATE 2015-02
+0 !LDRAW_ORG Part UPDATE 2023-06
 0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS BrickLink 3626cpb1029, Wyldstyle
+0 !KEYWORDS BrickLink 3626cpb1029, Lego Movie, Set 70803, Set 70810, Set 70816
+0 !KEYWORDS Wyldstyle
 
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
-
+0 !HISTORY 2023-11-07 [MagFors] Update description, added keywords
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat

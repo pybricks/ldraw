@@ -1,0 +1,15 @@
+0 Underside Stud Holder Ridge
+0 Name: ridge.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Primitive UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
+
+
+1 16 0 -1 .5 0 0 1.5 0 1 0 -.5 0 0 box3u6.dat
+3 16 -1.5 0 1 0 0 2.5 1.5 0 1
+1 16 0 -.5 1 0 -.75 .75 .5 0 0 0 .75 .75 box2-5.dat
+2 24 1.5 0 0 -1.5 0 0

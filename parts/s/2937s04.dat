@@ -1,0 +1,27 @@
+0 ~Slope Brick 55  1 x  6 x  5 - Half Bottom Stud Holders
+0 Name: s\2937s04.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Subpart UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
+
+1 16 6 119.6 5 0 0 -1 0 115.6 0 1 0 0 ridge.dat
+1 16 6 119.6 -5 0 0 -1 0 115.6 0 1 0 0 ridge.dat
+1 16 6 119.6 -15 0 0 -1 0 115.6 0 1 0 0 ridge.dat
+1 16 6 119.6 -25 0 0 -1 0 106.021 0 1 0 0 ridgea.dat
+1 16 6 13.579 -25 0 0 -1 0 4.421 0 1 0 0 ridges.dat
+1 16 6 119.6 -35 0 0 -1 0 91.284 0 1 0 0 ridgea.dat
+1 16 6 28.316 -35 0 0 -1 0 4.421 0 1 0 0 ridges.dat
+1 16 6 119.6 -45 0 0 -1 0 76.547 0 1 0 0 ridgea.dat
+1 16 6 43.053 -45 0 0 -1 0 4.421 0 1 0 0 ridges.dat
+1 16 6 119.6 -55 0 0 -1 0 61.811 0 1 0 0 ridgea.dat
+1 16 6 57.789 -55 0 0 -1 0 4.421 0 1 0 0 ridges.dat
+1 16 6 119.6 -65 0 0 -1 0 47.074 0 1 0 0 ridgea.dat
+1 16 6 72.526 -65 0 0 -1 0 4.421 0 1 0 0 ridges.dat
+1 16 6 119.6 -75 0 0 -1 0 32.337 0 1 0 0 ridgea.dat
+1 16 6 87.263 -75 0 0 -1 0 4.421 0 1 0 0 ridges.dat
+1 16 6 119.6 -85 0 0 -1 0 17.6 0 1 0 0 ridgea.dat
+1 16 6 102 -85 0 0 -1 0 4.421 0 1 0 0 ridges.dat

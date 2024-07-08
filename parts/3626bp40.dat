@@ -1,13 +1,14 @@
-0 Minifig Head with Messy Hair Female Pattern
+0 Minifig Head Female with Red Lips and Black Messy Hair Pattern
 0 Name: 3626bp40.dat
 0 Author: Franklin W. Cain [fwcain]
-0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LDRAW_ORG Part UPDATE 2023-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Castle, face, forest babe, forestwoman, lady-in-waiting, lipstick
-0 !KEYWORDS maiden, mophead, pirate wench, Pirates
+0 !KEYWORDS Bricklink 3626bp40, Castle, face, forest babe, forestwoman, Islander
+0 !KEYWORDS lady-in-waiting, lipstick, maiden, mophead, pirate wench, Pirates
+0 !KEYWORDS set 6278, set 6285
 
 0 !HISTORY 2001-10-26 [PTadmin] Official Update 2001-01
 0 !HISTORY 2007-06-29 [PTadmin] Header formatted for Contributor Agreement
@@ -15,7 +16,8 @@
 0 !HISTORY 2017-10-18 [MagFors] Modified with WINDZ for BFC compliance
 0 !HISTORY 2017-10-20 [MagFors] Reworked pattern
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-
+0 !HISTORY 2023-11-06 [MagFors] Update description, added keywords
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs04.dat
@@ -160,6 +162,7 @@
 4 0 -10.7278 7.9306 -6.8947 -11.647 6.9675 -5.5193 -11.4602 7.769 -5.7988 -11.2734 8.4206 -6.0783
 4 0 11.5339 9.0117 -5.6885 11.1055 8.8951 -6.3295 11.2426 9.1538 -6.1244 11.4177 9.169 -5.8625
 4 0 -11.1349 8.5322 -6.2856 -10.9963 8.4938 -6.493 -10.7278 7.9306 -6.8947 -11.2734 8.4206 -6.0783
+
 4 16 -4.25 6.05 -12.1549 -4.5672 5.6947 -12.0918 -4.9751 5.625 -12.0107 -4.123 6.4483 -12.1801
 4 16 -4.0787 7.2626 -12.189 -4.123 6.4483 -12.1801 -4.9751 5.625 -12.0107 -4.726 8.75 -12.0593
 4 16 -4.0787 7.2626 -12.189 -4.726 8.75 -12.0593 -3.5 8.75 -12.304 -3.7349 7.1144 -12.2573

@@ -1,0 +1,27 @@
+0 Electric Hub Luigi Assembly with Reddish Brown Hair, Light Nougat Face and Black Moustache Pattern
+0 Name: u9324p01c01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Shortcut UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 71387, Super Mario
+
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
+
+
+1 0 0 8 0 1 0 0 0 1 0 0 0 1 u9217.dat
+1 70 0 0 0 1 0 0 0 1 0 0 0 1 u9322.dat
+1 16 0 8 0 1 0 0 0 1 0 0 0 1 u9568.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u9324p01.dat
+1 0 0 8 0 1 0 0 0 1 0 0 0 1 u9334p01.dat
+1 47 0 8 0 1 0 0 0 1 0 0 0 1 u9116.dat
+1 0 0 8 0 1 0 0 0 1 0 0 0 1 u9117p02.dat
+1 494 -6.9 124.4 -23.3 1 0 0 0 1 0 0 0 1 u9118.dat
+1 494 -14.3 124.4 -23.3 1 0 0 0 1 0 0 0 1 u9118.dat
+1 494 -21.8 124.4 -23.3 1 0 0 0 1 0 0 0 1 u9118.dat
+1 494 6.9 124.4 -23.3 1 0 0 0 1 0 0 0 1 u9118.dat
+1 494 14.3 124.4 -23.3 1 0 0 0 1 0 0 0 1 u9118.dat
+1 494 21.8 124.4 -23.3 1 0 0 0 1 0 0 0 1 u9118.dat
+1 0 0 149 0 1 0 0 0 -1 0 0 0 -1 u9219.dat

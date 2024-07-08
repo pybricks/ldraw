@@ -1,15 +1,17 @@
-0 Minifig Head with DarkRed Lips, Open/Closed Mouth, Freckles 2-Sided Pattern
+0 Minifig Head Female with DarkRed Lips, Open/Closed Mouth, Freckles 2-Sided Pattern
 0 Name: 3626cpbj.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Part UPDATE 2013-02
+0 !LDRAW_ORG Part UPDATE 2023-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Armoured Suit Mark XLII, Iron Man, Pepper Potts
+0 !KEYWORDS Armoured Suit Mark XLII, Bricklink 3626cpb0909, Iron Man, Mk42
+0 !KEYWORDS Pepper Potts, set 76007
 
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
-
+0 !HISTORY 2023-11-07 [MagFors] Update description, added keywords
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs02.dat
 1 16 0 4 0 -9.1924 0 -9.1924 0 13 0 -9.1924 0 9.1924 1-4cyli.dat

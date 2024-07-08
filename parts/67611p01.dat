@@ -1,0 +1,30 @@
+0 Figure Legs Mario Id "001100" with Vertical White Stripe and Blue Feet Pattern
+0 Name: 67611p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2023-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 67611pb01, Set 71371
+
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\58101s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\58101s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\67611p01s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\58101s07.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\67611p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\58101s07.dat
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 s\58101s02.dat
+1 1 0 0 0 -1 0 0 0 1 0 0 0 1 s\58101s02.dat
+1 16 30 -62 -30 0 0 1 1 0 0 0 1 0 stud2.dat
+1 16 -30 -62 -30 0 0 1 1 0 0 0 1 0 stud2.dat
+
+1 16 6.9 -21.3 -27 1 0 0 0 1 0 0 0 1 s\58101s05.dat
+1 16 14.3 -21.3 -27 1 0 0 0 1 0 0 0 1 s\58101s04.dat
+1 16 21.8 -21.3 -27 1 0 0 0 1 0 0 0 1 s\58101s04.dat
+1 16 -6.9 -21.3 -27 1 0 0 0 1 0 0 0 1 s\58101s05.dat
+1 16 -14.3 -21.3 -27 1 0 0 0 1 0 0 0 1 s\58101s04.dat
+1 16 -21.8 -21.3 -27 1 0 0 0 1 0 0 0 1 s\58101s04.dat
