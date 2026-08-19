@@ -1,0 +1,108 @@
+ldraw.org Parts Update 2026-07
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Thu, 30 Jul 2026 20:53:53 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 482
+   New files: 414
+   New Parts: 294
+   New Subparts: 114
+   New Primitives: 5
+   New 48_Primitives: 1
+
+Moved Parts
+   u9005c01.dat               ~Moved to 70160
+   4707c03.dat                ~Moved to 70286
+   4707c01.dat                ~Moved to 4707bc01
+   4707c02.dat                ~Moved to 4707bc02
+   4707.dat                   ~Moved to 4707c06
+   32198.dat                  ~Moved to 32198a
+   821.dat                    ~Moved to 821c
+
+Renamed Parts
+   32004b.dat                 Wheel Rim 18 x 41 Model Team Type 2
+   changed to    Wheel Rim 18 x 41 Model Team Type  2
+   s\32004bs01.dat            ~Wheel Rim 18 x 41 Model Team Type 2 - 1/6
+   changed to    ~Wheel Rim 18 x 41 Model Team Type  2 - Specific Geometry 1/6
+   23801.dat                  Technic Steering Wheel Bearing with 2 Pegholes & 2 Axleholes Arms
+   changed to    Technic Steering Wheel Bearing with 2 Pegholes and 2 Slotted Axlehole Arms
+   87846.dat                  Figure Tail  8 x  6 Curved
+   changed to    Constraction Tail  8 x  6 Curved
+   6154.dat                   Window  1 x  4 x  4
+   changed to    Window  1 x  4 x  4 with Door and Glass Holder
+   s\4707s01.dat              ~Electric Switch: Front with 1 Twin Plug Socket
+   changed to    ~Electric Switch: Front with 1 Twin Plug Socket (Obsolete)
+   47314.dat                  Technic Bionicle Weapon Aero Slicer
+   changed to    Constraction Weapon Aero Slicer
+   32559.dat                  Constraction Axe Large (Needs Work)
+   changed to    Constraction Weapon Axe Large with Axle
+   40340.dat                  Technic Bionicle Weapon Drill with Axle
+   changed to    Constraction Weapon Drill with Axle 5L
+   s\60581s01.dat             ~Panel  1 x  4 x  3 with Side Flanges without Front
+   changed to    ~Panel  1 x  4 x  3 Reinforced without Front Face
+   60581dm2.dat               Panel  1 x  4 x  3 Reinforced with Diamond Bricks and Eyes Sticker on Inside and Diamond Bricks Type 1 Sticker on Outside
+   changed to    Panel  1 x  4 x  3 Reinforced with Diamond Bricks and Eyes on Inside and Diamond Bricks Type 1 on Outside Stickers
+   3626bp0k.dat               Minifig Head Glasses with Grey Moustache, Crosseyed Pattern
+   changed to    Minifig Head with Glasses with Grey Moustache, Crosseyed Pattern
+   18675p02.dat               Dish  6 x  6 Inverted - No Studs with Handle White Horse with Metallic Gold Mane and Metallic Pink Border Pattern
+   changed to    Dish  6 x  6 Inverted - No Studs with Handle with White Horse with Metallic Gold Mane and Metallic Pink Border Pattern
+   1006030p02.dat             Figure Friends Girl with Bright Light Yellow Tank Top over Medium Lavender Sleeveless Shirt, Black and Coral Panels and Music Note Necklace Pattern
+   changed to    Figure Friends Girl Torso with Bright Light Yellow Tank Top over Medium Lavender Sleeveless Shirt, Black and Coral Panels and Music Note Necklace Pattern
+   1006030p04.dat             Figure Friends Girl with Coral and Bright Light Orange Shirt, Dark Blue Trim and White Flower Pattern
+   changed to    Figure Friends Girl Torso with Coral and Bright Light Orange Shirt, Dark Blue Trim and White Flower Pattern
+   6177970k.dat               Sticker  0.8 x  2.8 with with 6 Black Trapezoid inside 2 Black Lines on Red Background
+   changed to    Sticker  0.8 x  2.8 with 6 Black Trapezoid inside 2 Black Lines on Red Background
+   6142271k.dat               Sticker  1.8 x  .8 with R8 Logo on Black and White Background Right
+   changed to    Sticker  1.8 x  0.8 with R8 Logo on Black and White Background Right
+   6142271o.dat               Sticker  1.8 x  .8 with Black 4 on White Stripe on Blue Background
+   changed to    Sticker  1.8 x  0.8 with Black 4 on White Stripe on Blue Background
+   6142271h.dat               Sticker  1.8 x  .8 with R8 Logo on Black and White Background Left
+   changed to    Sticker  1.8 x  0.8 with R8 Logo on Black and White Background Left
+
+Other Fixed Parts
+   3298p73.dat                Slope Brick 33  3 x  2 with "3" over Black Triangle Pattern
+   4088ap01.dat               Brick  1 x  4 x  2 with Centre Stud Top with Green/Orange Car Radiator Type 1 Pattern
+   4088ap02.dat               Brick  1 x  4 x  2 with Centre Stud Top with Red/Yellow Car Radiator Type 1 Pattern
+   15107.dat                  Animal Leg Segmented with Axle and Bar  1L on Tip
+   s\32167s01.dat             ~Technic Gear Box Half with 4 Axle Stubs and 6 Pin Sockets - Half
+   s\53550s01.dat             ~Technic Bionicle Weapon Ball Shooter Magazine Half
+   s\98568s03.dat             ~Constraction Blade 11.5L with Sawtooth Back - Hilt and Back
+   s\57488s01.dat             ~Constraction Flame  2 x 12 Dual Mould - Handle with Flame
+   6549.dat                   Technic 4 Speed Shift Lever
+   32075.dat                  ~Technic Competition Cannon Trigger Long
+   61280.dat                  ~Technic Competition Cannon Trigger Short
+   43373.dat                  Brick  1 x  2 with Hoop and Axle
+   15362.dat                  Claw  6.4L with Axle
+   30338.dat                  Plant Tree Palm Base  4 x  4
+   41812.dat                  Projectile Launcher  4 x  2 x  1 with Bottom Axle
+   41816.dat                  ~Pneumatic Fire Hose Nozzle Handle with Bladder or Hose Attachment
+   44032.dat                  Constraction Skate
+   44033.dat                  Constraction Blade 12L Curved with  2 Pinholes and Axle
+   44817.dat                  Constraction Weapon Spearhead with Fork Tip
+   4869.dat                   Plane Jet Engine Centre
+   40341.dat                  Constraction Weapon Circular Saw with Axle 6L
+   41663.dat                  Constraction Shield  5 x  5 with Dual Prongs
+   41659.dat                  Constraction Shield  5 x  5 with Wrench
+   44936.dat                  Constraction Shield  5 x  5 with Wrench with Teeth
+   44937.dat                  Constraction Shield  5 x  5 with Dual Flames
+   44938.dat                  Constraction Shield  5 x  5 with Gear Tips
+   45274.dat                  Constraction Shield  5 x  5 with Carved Metal Blade
+   45275.dat                  Constraction Shield  5 x  5 with Circular Grinder
+   32552.dat                  Constraction Blade 12L Double-Edged Sword with  3 Pinholes and Axle
+   48083.dat                  ~Electric Motor Boat Back
+   54272.dat                  Constraction Blade 16.5L with  2 Axles  3 Pinholes and Teeth
+   7930.dat                   Door  1 x  3 x  4
+   973p6j.dat                 Minifig Torso with Jacket, Zippered Pockets and Classic Space Logo Pattern
+   973p6i.dat                 Minifig Torso with Green Futuron Pattern
+   973p90.dat                 Minifig Torso with Classic Space Pattern
+   3176.dat                   Plate  3 x  2 with Hole
+   s\stickerback018x022.dat   ~Sticker Back  1.8 x  2.2
+   76382pv3.dat               Minifig Torso with Arms and Hands with ST Uniform Vest with Starfleet Combadge and Light Nougat Neck Pattern
+   76382pv4.dat               Minifig Torso with Arms and Hands with ST Bright Light Orange Starfleet Duty Uniform and Silver Klingon Baldrik Pattern
+
+Minor Edits
+   5 Parts with minor administrative edits and/or license changes

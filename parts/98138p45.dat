@@ -1,0 +1,18 @@
+0 Tile  1 x  1 Round with Lime Spider Pattern
+0 Name: 98138p45.dat
+0 Author: Peter Grass [Evilspyre]
+0 !LDRAW_ORG Part UPDATE 2026-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 98138pb185, Brickowl 585522, Brickset 76836, Monkie Kid
+0 !KEYWORDS Rebrickable 98138pr9987, Set 80018, Set 80020, Set 80021, Set 80022
+0 !KEYWORDS Set 80023, Set 80025, Set 80036
+
+0 !HISTORY 2026-03-06 [OrionP] Official Update 2026-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s02.dat
+1 16 0 0 0 10 0 0 0 1 0 0 0 10 4-4ering.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138p45s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\98138p45s01.dat

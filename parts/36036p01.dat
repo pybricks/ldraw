@@ -1,0 +1,19 @@
+0 Minifig Hips and Skirt with Gold Robe Ends over Ornate Stole Half Pattern
+0 Name: 36036p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Architect, Bricklink 36036pb067, Castle, Harry Potter, Hogwarts, HP
+0 !KEYWORDS Rebrickable 36036pr0075, Set 76419
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\36036s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\36036s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\36036p01s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\36036p01s02.dat
+3 16 0 .5 -10 17.75 0 -10 -17.75 0 -10
+3 16 20 40 -10 0 36.27 -10 -20 40 -10

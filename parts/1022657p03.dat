@@ -1,0 +1,31 @@
+0 Figure Friends Legs with Shorts with Light Nougat Legs, Metallic Light Blue V-shaped Straps Sandals Pattern
+0 Name: 1022657p03.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 1826cc00pb008, Set 41737, Set 42639
+
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1023035s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1022657s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\1022657s01.dat
+1 78 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657s02.dat
+1 78 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657s02.dat
+1 78 10 0 0 1 0 0 0 1 0 0 0 1 s\1023035s03.dat
+1 78 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1023035s03.dat
+
+1 78 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p03s01.dat
+1 10045 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p01s02.dat
+1 10045 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p03s02.dat
+1 78 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p01s04.dat
+1 78 10 0 0 1 0 0 0 1 0 0 0 1 s\1022657p01s05.dat
+
+1 78 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p03s01.dat
+1 10045 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p01s02.dat
+1 10045 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p03s02.dat
+1 78 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p01s04.dat
+1 78 -10 0 0 -1 0 0 0 1 0 0 0 1 s\1022657p01s05.dat

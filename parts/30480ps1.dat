@@ -1,0 +1,19 @@
+0 Minifig Head Protocol Droid with Red Eyes Pattern
+0 Name: 30480ps1.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Part UPDATE 2025-12
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS bounty hunter, Bricklink x134pb02, Brickowl 417084, Brickset 108860
+0 !KEYWORDS C3-PO, C3PO, Creepio, Evil C-3PO, Rebrickable 30480pr0002, Set 75389
+0 !KEYWORDS Set 75418, Star Wars, Threepio
+
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30480s00.dat
+1 4 4.5 -15.8 -11.5 .5 0 0 0 0 .5 0 1 0 4-4ring1.dat
+1 4 4.5 -15.8 -11.5 1 0 0 0 0 1 0 1 0 4-4ring1.dat
+1 4 -4.5 -15.8 -11.5 .5 0 0 0 0 .5 0 1 0 4-4ring1.dat
+1 4 -4.5 -15.8 -11.5 1 0 0 0 0 1 0 1 0 4-4ring1.dat

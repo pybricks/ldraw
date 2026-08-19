@@ -1,0 +1,16 @@
+0 Wheel 22 x 50 with Rubber Black Integral Smooth Racing Tyre Pattern
+0 Name: 105645p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 105645pb01, Brickowl 805022, Brickset 105645
+0 !KEYWORDS Rebrickable 105645pat0001, Set 10330, Slick
+
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\105645s01.dat
+1 256 0 0 0 1 0 0 0 1 0 0 0 1 s\105645s02.dat
+1 256 0 0 -26.7 0 0 10.63125 10.63125 0 0 0 -0.8 0 48\4-4con4.dat

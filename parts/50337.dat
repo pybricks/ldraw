@@ -1,0 +1,19 @@
+0 Hinge Plate  3 x  4 Locking Dual  2 Finger,  7 Teeth
+0 Name: 50337.dat
+0 Author: Marc Giraudet [Mad_Marc]
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\44570s01.dat
+1 16 -20 2 26 1 0 0 0 1 0 0 0 1 clh10.dat
+1 16 -20 2 26 -1 0 0 0 -1 0 0 0 1 clh10.dat
+1 16 20 2 26 1 0 0 0 1 0 0 0 1 clh10.dat
+1 16 20 2 26 -1 0 0 0 -1 0 0 0 1 clh10.dat
+4 16 -40 8 20 40 8 20 36 8 16 -36 8 16
+1 16 0 5.5 16 0 0 -21 2.5 0 0 0 1 0 rect1.dat
+1 16 0 6 20 -4.5 0 0 0 0 2 0 -1 0 rect3.dat

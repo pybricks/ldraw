@@ -1,0 +1,18 @@
+0 Tile  2 x  2 with Yellow Arrow on Black Background Sticker
+0 Name: 3068bdx2.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Shortcut UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Blacktron Cruiser, Blacktron I, Set 40580
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3068.dat
+
+0 // Sticker
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6429457g.dat

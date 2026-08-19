@@ -65,3 +65,6 @@ mlcad/*
 **/LPub3D/*
 stderr-ldview
 stdout-ldview
+
+# macOS Finder attributes (Desktop Services Store)
+.DS_Store

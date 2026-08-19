@@ -1,0 +1,15 @@
+0 Slope Brick 31  1 x  2 x  0.667 with Black "Yellow Brick Road", "Brickadilly Circus", "Twobytwo Square" on White Background and Red Border Sticker
+0 Name: 85984d0h.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Shortcut UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 85984pb211, London Bus, set 10258
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 85984.dat
+1 16 0 -10 0 1 0 0 0 0.857 -0.514 0 0.514 0.857 6196575q.dat

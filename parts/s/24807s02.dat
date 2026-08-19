@@ -1,0 +1,15 @@
+0 ~Duplo Brush with Handle - Cone
+0 Name: s\24807s02.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Subpart UPDATE 2025-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09
+
+1 16 0 0 0 .54 0 0 0 -13 0 0 0 .54 4-4con6.dat
+1 16 0 -13 0 3.24 0 0 0 1 0 0 0 3.24 4-4edge.dat
+1 16 0 -13 0 3.24 0 0 0 1 0 0 0 3.24 2-4chrd.dat
+1 16 0 -13 0 3.24 0 0 0 1 0 0 0 -3.24 2-4chrd.dat
+1 16 0 0 0 3.78 0 0 0 1 0 0 0 3.78 4-4edge.dat

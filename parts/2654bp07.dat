@@ -1,0 +1,25 @@
+0 Dish  2 x  2 with  8 White Petals and Ring Outline Pattern
+0 Name: 2654bp07.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 2654pb036, Brickowl 458944, Brickset 114497, Fruit Segment
+0 !KEYWORDS Rebrickable 2654pr0034, Set 21360
+
+0 !PREVIEW 16 0 0 0 1 0 0 0 -1 0 0 0 -1
+
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2654bs02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2654bs03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2654bp07s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\2654bp07s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\2654bp07s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\2654bp07s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\2654bp07s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2654bp07s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\2654bp07s01.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\2654bp07s01.dat

@@ -1,0 +1,23 @@
+0 Animal Bird Chick with Coral Face, Reddish Brown Eyes and Yellow Eyebrows, Beak and Feet Pattern
+0 Name: 3918p05.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Part UPDATE 2026-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Accessory hole Y=-31.2, Z=-2.5
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3918pb05, Brickowl 1308411, Brickset 106070, Chicken
+0 !KEYWORDS Friends, Rebrickable 3918pr0029, Set 42639
+
+0 !HISTORY 2026-03-06 [OrionP] Official Update 2026-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3918s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3918s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3918p05s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3918p05s02.dat
+1 14 0 0 0 1 0 0 0 1 0 0 0 1 s\3918s03.dat
+1 14 0 0 0 -1 0 0 0 1 0 0 0 1 s\3918s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3918p05s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3918p05s04.dat

@@ -1,0 +1,17 @@
+0 Sticker  2 x  7 with Fire Station Logo and Square Corners
+0 Name: 196725a.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2024-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 6480stk01, Brickowl 315830, Fire axe, Fire engine
+0 !KEYWORDS Fire helmet, Rebrickable 196725, Set 6480
+
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
+
+1 16 0 -0.25 0 70 0 0 0 0.25 0 0 0 20 box5-12.dat
+1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 s\192895ds01.dat
+4 0 70 -.25 20 60 -.25 20 60 -.25 -20 70 -.25 -20
+4 0 -60 -.25 -20 -60 -.25 20 -70 -.25 20 -70 -.25 -20

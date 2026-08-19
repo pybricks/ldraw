@@ -1,0 +1,17 @@
+0 Duplo Train Steam Engine Boiler with Fixed Red Funnel
+0 Name: 73355p01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 4570c01, Brickowl 836052, Brickset 73355
+0 !KEYWORDS Colour Combination, Rebrickable 4570c01, Set 10622, Set 2382
+0 !KEYWORDS Set 5659
+
+0 !HISTORY 2026-02-25 [MagFors] corrected rotation matrix
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4570.dat
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 4571.dat

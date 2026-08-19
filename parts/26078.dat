@@ -1,0 +1,21 @@
+0 Animal Dog Terrier
+0 Name: 26078.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2016-10-05 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2021-07-04 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\26078s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\26078s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\26078s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\26078s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\26078s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\26078s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\26078s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\26078s04.dat

@@ -1,0 +1,15 @@
+0 Wheel  2 x 21 with Technic Pin Hole with Integral Rubber Black Tyre Pattern
+0 Name: 80441p01.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Part UPDATE 2025-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 80441pb01, Rebrickable 80441pat0001, Set 31141, Set 41751
+0 !KEYWORDS Set 60389, Set 71799, Set 75573, Wheelchair
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80441s01.dat
+1 256 0 0 0 1 0 0 0 1 0 0 0 1 s\80441s02.dat

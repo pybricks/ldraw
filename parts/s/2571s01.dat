@@ -1,0 +1,24 @@
+0 ~Panel  3 x  4 x  6 with Curved Top - Reinforcement Rib Short
+0 Name: s\2571s01.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Subpart UPDATE 2024-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
+
+1 16 0 6 -10 -1 0 0 0 0 2 0 -1 0 rect.dat
+1 16 1 40 -10 0 -1 0 -36 0 0 0 0 -36 48\1-16edge.dat
+1 16 1 40 -10 0 -1 0 -36 0 0 0 0 -36 48\1-16chrd.dat
+1 16 -1 40 -10 0 1 0 -36 0 0 0 0 -36 48\1-16edge.dat
+1 16 -1 40 -10 0 1 0 -36 0 0 0 0 -36 48\1-16chrd.dat
+4 16 1 8 -10 1 8 -25.6 -1 8 -25.6 -1 8 -10
+4 16 1 8 -10 1 4 -10 1 6.7396 -23.7772 1 8 -25.6
+4 16 1 5.2276 -19.3168 1 6.7396 -23.7772 1 4 -10 1 4.3096 -14.698
+4 16 -1 8 -25.6 -1 6.7396 -23.7772 -1 4 -10 -1 8 -10
+2 24 1 6.7396 -23.7772 1 8 -25.6
+2 24 1 8 -25.6 1 8 -10
+2 24 -1 6.7396 -23.7772 -1 8 -25.6
+2 24 -1 8 -25.6 -1 8 -10
+2 24 1 8 -25.6 -1 8 -25.6

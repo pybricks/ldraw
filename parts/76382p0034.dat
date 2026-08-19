@@ -1,0 +1,19 @@
+0 Minifig Torso with Blue Arms and Yellow Hands with Scale Armour, Crown on Buckle and Chest Strap Pattern
+0 Name: 76382p0034.dat
+0 Author: Manfred Schaefer [Lego-Manfred]
+0 !LDRAW_ORG Shortcut UPDATE 2026-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb0438c02, Brickowl 959652, Bricks and More
+0 !KEYWORDS Brickset 76382, Castle, Crown Knights, Fantasy Era
+0 !KEYWORDS Mini Upper Part No 1457, Rebrickable 973c28h01pr1457, Set 6193
+
+0 !HISTORY 2026-06-28 [OrionP] Official Update 2026-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pf1.dat
+1 1 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 1 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 14 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 14 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

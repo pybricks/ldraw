@@ -1,0 +1,17 @@
+0 Brick Braille 2 x 4 with 1 Stud (DOTS-5)
+0 Name: 65559.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS ⠐ Unicode U+2810 (10256), Set 4000503, set 40656
+
+0 !HISTORY 2024-08-18 [MagFors] Changed orientation, added keywords
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3001s02.dat
+1 16 -10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
+
+4 16 40 0 -20 40 0 20 -40 0 20 -40 0 -20

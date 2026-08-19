@@ -1,0 +1,16 @@
+0 ~Screw 22 x  4.5 Dome Flat/Cruciform
+0 Name: 69702.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+
+1 16 0 22 0 2.5 0 0 0 -22 0 0 0 2.5 4-4cylc.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\69702s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\69702s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\69702s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\69702s01.dat

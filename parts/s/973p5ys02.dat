@@ -1,0 +1,16 @@
+0 ~Minifig Torso with Zipper Jacket Pattern - Common Geometry Collar
+0 Name: s\973p5ys02.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Subpart UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+4 16 -10.025 3.625 -10 -10.049 3.742 -10 -9.99 3.846 -10 -9.877 3.885 -10
+4 16 -3.751 .996 -10 -8.352 .996 -10 -7.953 3.997 -10 -6.08 4.448 -10
+4 16 -9.877 3.885 -10 -7.953 3.997 -10 -8.352 .996 -10 -10.025 3.625 -10
+3 16 -3.751 .996 -10 -6.08 4.448 -10 -4.317 5.226 -10
+3 16 -3.751 .996 -10 -2.72 6.304 -10 -1.34 7.649 -10
+3 16 -3.751 .996 -10 -4.317 5.226 -10 -2.72 6.304 -10

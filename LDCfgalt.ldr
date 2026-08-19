@@ -1,7 +1,7 @@
 0 LDraw.org Configuration File
 0 Name: LDCfgalt.ldr
 0 Author: LDraw.org
-0 !LDRAW_ORG Configuration UPDATE 2024-04-05
+0 !LDRAW_ORG Configuration UPDATE 2026-05-29
 
 0 // * All of the colour values are the same as in ldconfig.ldr.
 0 // * All of the edge colours, that are coloured in ldconfig.ldr, are the same.
@@ -12,102 +12,118 @@
 0 // * Edge colours for Pearl were lowered by 10 percentage points.
 0 // * Edge colours for Metallic were raised by 10 percentage points.
 0 // * Edge colours for Rubber, except transparent, were lowered by 20 percentage points.
-0 // * Edge colours for Internal Common Material are the same, or if changed, 
-0 //   raised by 10 percentage points.
+0 // * Edge colours for Fabric were lowered by 10 percentage points.
+0 // * Edge colours for Fluorescent Paint were raised by 10 percentage points.
+0 // * Edge colours for Modulex were lowered by 10 percentage points, except for foil colours.
+0 // * Edge colours for Internal Common Material are the same, or if changed, raised by 10 percentage points.
 
+
+0 // Colour definitions
 
 0 // LDraw Solid Colours
-0 !COLOUR Black                              CODE   0   VALUE #1B2A34   EDGE #2B4354
-0 !COLOUR Blue                               CODE   1   VALUE #1E5AA8   EDGE #16437D
-0 !COLOUR Green                              CODE   2   VALUE #00852B   EDGE #005119
-0 !COLOUR Dark_Turquoise                     CODE   3   VALUE #069D9F   EDGE #036A6C
-0 !COLOUR Red                                CODE   4   VALUE #B40000   EDGE #7F0000
-0 !COLOUR Dark_Pink                          CODE   5   VALUE #D3359D   EDGE #AF267F
-0 !COLOUR Brown                              CODE   6   VALUE #543324   EDGE #794934
-0 !COLOUR Light_Grey                         CODE   7   VALUE #8A928D   EDGE #707974
-0 !COLOUR Dark_Grey                          CODE   8   VALUE #545955   EDGE #3B3F3C
-0 !COLOUR Light_Blue                         CODE   9   VALUE #97CBD9   EDGE #71B7CA
-0 !COLOUR Bright_Green                       CODE  10   VALUE #58AB41   EDGE #448532
-0 !COLOUR Light_Turquoise                    CODE  11   VALUE #00AAA4   EDGE #007571
-0 !COLOUR Salmon                             CODE  12   VALUE #F06D61   EDGE #EB4131
-0 !COLOUR Pink                               CODE  13   VALUE #F6A9BB   EDGE #F07995
-0 !COLOUR Yellow                             CODE  14   VALUE #FAC80A   EDGE #CCA404
-0 !COLOUR White                              CODE  15   VALUE #F4F4F4   EDGE #DBDBDB
-0 !COLOUR Light_Green                        CODE  17   VALUE #ADD9A8   EDGE #89C882
-0 !COLOUR Light_Yellow                       CODE  18   VALUE #FFD67F   EDGE #FFC64C
-0 !COLOUR Tan                                CODE  19   VALUE #D7BA8C   EDGE #C9A468
-0 !COLOUR Light_Violet                       CODE  20   VALUE #AFBED6   EDGE #8CA1C4
-0 !COLOUR Purple                             CODE  22   VALUE #671F81   EDGE #441456
-0 !COLOUR Dark_Blue_Violet                   CODE  23   VALUE #0E3E9A   EDGE #092C6B
-0 !COLOUR Orange                             CODE  25   VALUE #D67923   EDGE #AB611B
-0 !COLOUR Magenta                            CODE  26   VALUE #901F76   EDGE #641552
-0 !COLOUR Lime                               CODE  27   VALUE #A5CA18   EDGE #7F9B12
-0 !COLOUR Dark_Tan                           CODE  28   VALUE #897D62   EDGE #6B624C
-0 !COLOUR Bright_Pink                        CODE  29   VALUE #FF9ECD   EDGE #FF6BB2
-0 !COLOUR Medium_Lavender                    CODE  30   VALUE #A06EB9   EDGE #884FA5
-0 !COLOUR Lavender                           CODE  31   VALUE #CDA4DE   EDGE #B87FD1
-0 !COLOUR Very_Light_Orange                  CODE  68   VALUE #FDC383   EDGE #FCA84F
-0 !COLOUR Bright_Reddish_Lilac               CODE  69   VALUE #8A12A8   EDGE #620C78
-0 !COLOUR Reddish_Brown                      CODE  70   VALUE #5F3109   EDGE #8B480D
-0 !COLOUR Light_Bluish_Grey                  CODE  71   VALUE #969696   EDGE #7C7C7C
-0 !COLOUR Dark_Bluish_Grey                   CODE  72   VALUE #646464   EDGE #494949
-0 !COLOUR Medium_Blue                        CODE  73   VALUE #7396C8   EDGE #4E7BBA
-0 !COLOUR Medium_Green                       CODE  74   VALUE #7FC475   EDGE #5DB450
-0 !COLOUR Light_Pink                         CODE  77   VALUE #FECCCF   EDGE #FC9BA1
-0 !COLOUR Light_Nougat                       CODE  78   VALUE #FFC995   EDGE #FFAD60
-0 !COLOUR Medium_Nougat                      CODE  84   VALUE #AA7D55   EDGE #876344
-0 !COLOUR Medium_Lilac                       CODE  85   VALUE #441A91   EDGE #301268
-0 !COLOUR Light_Brown                        CODE  86   VALUE #7B5D41   EDGE #5A442F
-0 !COLOUR Blue_Violet                        CODE  89   VALUE #1C58A7   EDGE #14407A
-0 !COLOUR Nougat                             CODE  92   VALUE #BB805A   EDGE #9F6641
-0 !COLOUR Light_Salmon                       CODE 100   VALUE #F9B7A5   EDGE #F59074
-0 !COLOUR Violet                             CODE 110   VALUE #26469A   EDGE #1C3472
-0 !COLOUR Medium_Violet                      CODE 112   VALUE #4861AC   EDGE #394D88
-0 !COLOUR Medium_Lime                        CODE 115   VALUE #B7D425   EDGE #91A91D
-0 !COLOUR Aqua                               CODE 118   VALUE #9CD6CC   EDGE #79C7BA
-0 !COLOUR Light_Lime                         CODE 120   VALUE #DEEA92   EDGE #D2E269
-0 !COLOUR Light_Orange                       CODE 125   VALUE #F9A777   EDGE #F78644
-0 !COLOUR Dark_Nougat                        CODE 128   VALUE #AD6140   EDGE #864A31
-0 !COLOUR Very_Light_Bluish_Grey             CODE 151   VALUE #C8C8C8   EDGE #ADADAD
-0 !COLOUR Bright_Light_Orange                CODE 191   VALUE #FCAC00   EDGE #C68700
-0 !COLOUR Bright_Light_Blue                  CODE 212   VALUE #9DC3F7   EDGE #6CA4F3
-0 !COLOUR Rust                               CODE 216   VALUE #872B17   EDGE #5B1D0F
-0 !COLOUR Reddish_Lilac                      CODE 218   VALUE #8E5597   EDGE #6E4275
-0 !COLOUR Lilac                              CODE 219   VALUE #564E9D   EDGE #423C7B
-0 !COLOUR Bright_Light_Yellow                CODE 226   VALUE #FFEC6C   EDGE #FFE438
-0 !COLOUR Sky_Blue                           CODE 232   VALUE #77C9D8   EDGE #51B9CC
-0 !COLOUR Dark_Blue                          CODE 272   VALUE #19325A   EDGE #244884
-0 !COLOUR Dark_Green                         CODE 288   VALUE #00451A   EDGE #007A2E
-0 !COLOUR Flamingo_Pink                      CODE 295   VALUE #FF94C2   EDGE #FF60A5
-0 !COLOUR Dark_Brown                         CODE 308   VALUE #352100   EDGE #663E00
-0 !COLOUR Maersk_Blue                        CODE 313   VALUE #ABD9FF   EDGE #7AC3FF
-0 !COLOUR Dark_Red                           CODE 320   VALUE #720012   EDGE #A30018
-0 !COLOUR Dark_Azure                         CODE 321   VALUE #469BC3   EDGE #347FA1
-0 !COLOUR Medium_Azure                       CODE 322   VALUE #68C3E2   EDGE #3EB3DA
-0 !COLOUR Light_Aqua                         CODE 323   VALUE #D3F2EA   EDGE #ACE6D7
-0 !COLOUR Yellowish_Green                    CODE 326   VALUE #E2F99A   EDGE #D3F669
-0 !COLOUR Olive_Green                        CODE 330   VALUE #77774E   EDGE #59593A
-0 !COLOUR Sand_Red                           CODE 335   VALUE #88605E   EDGE #694A49
-0 !COLOUR Medium_Dark_Pink                   CODE 351   VALUE #F785B1   EDGE #F45793
-0 !COLOUR Coral                              CODE 353   VALUE #FF6D77   EDGE #FF3845
-0 !COLOUR Earth_Orange                       CODE 366   VALUE #D86D2C   EDGE #B05720
-0 !COLOUR Neon_Yellow                        CODE 368   VALUE #EDFF21   EDGE #D7EA00
-0 !COLOUR Medium_Brown                       CODE 370   VALUE #755945   EDGE #533F31
-0 !COLOUR Medium_Tan                         CODE 371   VALUE #CCA373   EDGE #BF8A4E
-0 !COLOUR Sand_Purple                        CODE 373   VALUE #75657D   EDGE #594D60
-0 !COLOUR Sand_Green                         CODE 378   VALUE #708E7C   EDGE #597263
-0 !COLOUR Sand_Blue                          CODE 379   VALUE #70819A   EDGE #58677D
-0 !COLOUR Reddish_Orange                     CODE 402   VALUE #CA4C0B   EDGE #9B3908
-0 !COLOUR Sienna_Brown                       CODE 422   VALUE #915C3C   EDGE #6B452D
-0 !COLOUR Umber_Brown                        CODE 423   VALUE #543F33   EDGE #32261F
-0 !COLOUR Fabuland_Brown                     CODE 450   VALUE #D27744   EDGE #B8602C
-0 !COLOUR Medium_Orange                      CODE 462   VALUE #F58624   EDGE #DB6B0A
-0 !COLOUR Dark_Orange                        CODE 484   VALUE #91501C   EDGE #663913
-0 !COLOUR Very_Light_Grey                    CODE 503   VALUE #BCB4A5   EDGE #A69B86
-0 !COLOUR Light_Orange_Brown                 CODE 507   VALUE #FA9C1C   EDGE #E08504
-0 !COLOUR Fabuland_Red                       CODE 508   VALUE #FF8014   EDGE #E06800
-0 !COLOUR Fabuland_Orange                    CODE 509   VALUE #CF8A47   EDGE #B6722F
-0 !COLOUR Fabuland_Lime                      CODE 510   VALUE #78FC78   EDGE #46FB46
+0 !COLOUR Black                              CODE   0     VALUE #1B2A34   EDGE #2B4354
+0 !COLOUR Blue                               CODE   1     VALUE #1E5AA8   EDGE #16437D
+0 !COLOUR Green                              CODE   2     VALUE #00852B   EDGE #005119
+0 !COLOUR Dark_Turquoise                     CODE   3     VALUE #069D9F   EDGE #036A6C
+0 !COLOUR Red                                CODE   4     VALUE #B40000   EDGE #7F0000
+0 !COLOUR Dark_Pink                          CODE   5     VALUE #D3359D   EDGE #AF267F
+0 !COLOUR Brown                              CODE   6     VALUE #543324   EDGE #794934
+0 !COLOUR Light_Grey                         CODE   7     VALUE #8A928D   EDGE #707974
+0 !COLOUR Dark_Grey                          CODE   8     VALUE #545955   EDGE #3B3F3C
+0 !COLOUR Light_Blue                         CODE   9     VALUE #97CBD9   EDGE #71B7CA
+0 !COLOUR Bright_Green                       CODE  10     VALUE #58AB41   EDGE #448532
+0 !COLOUR Light_Turquoise                    CODE  11     VALUE #00AAA4   EDGE #007571
+0 !COLOUR Salmon                             CODE  12     VALUE #F06D61   EDGE #EB4131
+0 !COLOUR Pink                               CODE  13     VALUE #F6A9BB   EDGE #F07995
+0 !COLOUR Yellow                             CODE  14     VALUE #FAC80A   EDGE #CCA404
+0 !COLOUR White                              CODE  15     VALUE #F4F4F4   EDGE #DBDBDB
+0 !COLOUR Light_Green                        CODE  17     VALUE #ADD9A8   EDGE #89C882
+0 !COLOUR Light_Yellow                       CODE  18     VALUE #FFD67F   EDGE #FFC64C
+0 !COLOUR Tan                                CODE  19     VALUE #D7BA8C   EDGE #C9A468
+0 !COLOUR Light_Violet                       CODE  20     VALUE #AFBED6   EDGE #8CA1C4
+0 !COLOUR Purple                             CODE  22     VALUE #671F81   EDGE #441456
+0 !COLOUR Dark_Blue_Violet                   CODE  23     VALUE #0E3E9A   EDGE #092C6B
+0 !COLOUR Orange                             CODE  25     VALUE #D67923   EDGE #AB611B
+0 !COLOUR Magenta                            CODE  26     VALUE #901F76   EDGE #641552
+0 !COLOUR Lime                               CODE  27     VALUE #A5CA18   EDGE #7F9B12
+0 !COLOUR Dark_Tan                           CODE  28     VALUE #897D62   EDGE #6B624C
+0 !COLOUR Bright_Pink                        CODE  29     VALUE #FF9ECD   EDGE #FF6BB2
+0 !COLOUR Medium_Lavender                    CODE  30     VALUE #A06EB9   EDGE #884FA5
+0 !COLOUR Lavender                           CODE  31     VALUE #CDA4DE   EDGE #B87FD1
+0 !COLOUR Very_Light_Orange                  CODE  68     VALUE #FDC383   EDGE #FCA84F
+0 !COLOUR Bright_Reddish_Lilac               CODE  69     VALUE #8A12A8   EDGE #620C78
+0 !COLOUR Reddish_Brown                      CODE  70     VALUE #5F3109   EDGE #8B480D
+0 !COLOUR Light_Bluish_Grey                  CODE  71     VALUE #969696   EDGE #7C7C7C
+0 !COLOUR Dark_Bluish_Grey                   CODE  72     VALUE #646464   EDGE #494949
+0 !COLOUR Medium_Blue                        CODE  73     VALUE #7396C8   EDGE #4E7BBA
+0 !COLOUR Medium_Green                       CODE  74     VALUE #7FC475   EDGE #5DB450
+0 !COLOUR Light_Pink                         CODE  77     VALUE #FECCCF   EDGE #FC9BA1
+0 !COLOUR Light_Nougat                       CODE  78     VALUE #FFC995   EDGE #FFAD60
+0 !COLOUR Medium_Nougat                      CODE  84     VALUE #AA7D55   EDGE #876344
+0 !COLOUR Medium_Lilac                       CODE  85     VALUE #441A91   EDGE #301268
+0 !COLOUR Light_Brown                        CODE  86     VALUE #7B5D41   EDGE #5A442F
+0 !COLOUR Blue_Violet                        CODE  89     VALUE #1C58A7   EDGE #14407A
+0 !COLOUR Nougat                             CODE  92     VALUE #BB805A   EDGE #9F6641
+0 !COLOUR Light_Salmon                       CODE 100     VALUE #F9B7A5   EDGE #F59074
+0 !COLOUR Violet                             CODE 110     VALUE #26469A   EDGE #1C3472
+0 !COLOUR Medium_Violet                      CODE 112     VALUE #4861AC   EDGE #394D88
+0 !COLOUR Medium_Lime                        CODE 115     VALUE #B7D425   EDGE #91A91D
+0 !COLOUR Aqua                               CODE 118     VALUE #9CD6CC   EDGE #79C7BA
+0 !COLOUR Light_Lime                         CODE 120     VALUE #DEEA92   EDGE #D2E269
+0 !COLOUR Light_Orange                       CODE 121     VALUE #F89A39   EDGE #F67F08
+0 !COLOUR Dark_Salmon                        CODE 123     VALUE #EE5434   EDGE #DD3311
+0 !COLOUR Spud_Orange                        CODE 125     VALUE #F9A777   EDGE #F78644
+0 !COLOUR Dark_Nougat                        CODE 128     VALUE #AD6140   EDGE #864A31
+0 !COLOUR Very_Light_Bluish_Grey             CODE 151     VALUE #C8C8C8   EDGE #ADADAD
+0 !COLOUR Dark_Yellow                        CODE 180     VALUE #DD982E   EDGE #B87A1D
+0 !COLOUR Bright_Light_Orange                CODE 191     VALUE #FCAC00   EDGE #C68700
+0 !COLOUR Bright_Light_Blue                  CODE 212     VALUE #9DC3F7   EDGE #6CA4F3
+0 !COLOUR Medium_Blue_Violet                 CODE 213     VALUE #476FB6   EDGE #395A92
+0 !COLOUR Rust                               CODE 216     VALUE #872B17   EDGE #5B1D0F
+0 !COLOUR Reddish_Lilac                      CODE 218     VALUE #8E5597   EDGE #6E4275
+0 !COLOUR Lilac                              CODE 219     VALUE #564E9D   EDGE #423C7B
+0 !COLOUR Light_Lilac                        CODE 220     VALUE #9195CA   EDGE #6E73B9
+0 !COLOUR Warm_Yellowish_Orange              CODE 225     VALUE #FAA964   EDGE #F88F34
+0 !COLOUR Bright_Light_Yellow                CODE 226     VALUE #FFEC6C   EDGE #FFE438
+0 !COLOUR Sky_Blue                           CODE 232     VALUE #77C9D8   EDGE #51B9CC
+0 !COLOUR Dark_Blue                          CODE 272     VALUE #19325A   EDGE #244884
+0 !COLOUR Dark_Green                         CODE 288     VALUE #00451A   EDGE #007A2E
+0 !COLOUR Flamingo_Pink                      CODE 295     VALUE #FF94C2   EDGE #FF60A5
+0 !COLOUR Dark_Brown                         CODE 308     VALUE #352100   EDGE #663E00
+0 !COLOUR Maersk_Blue                        CODE 313     VALUE #ABD9FF   EDGE #7AC3FF
+0 !COLOUR Dark_Red                           CODE 320     VALUE #720012   EDGE #A30018
+0 !COLOUR Dark_Azure                         CODE 321     VALUE #469BC3   EDGE #347FA1
+0 !COLOUR Medium_Azure                       CODE 322     VALUE #68C3E2   EDGE #3EB3DA
+0 !COLOUR Light_Aqua                         CODE 323     VALUE #D3F2EA   EDGE #ACE6D7
+0 !COLOUR Yellowish_Green                    CODE 326     VALUE #E2F99A   EDGE #D3F669
+0 !COLOUR Olive_Green                        CODE 330     VALUE #77774E   EDGE #59593A
+0 !COLOUR Sand_Red                           CODE 335     VALUE #88605E   EDGE #694A49
+0 !COLOUR Medium_Dark_Pink                   CODE 351     VALUE #F785B1   EDGE #F45793
+0 !COLOUR Coral                              CODE 353     VALUE #FF6D77   EDGE #FF3845
+0 !COLOUR Earth_Orange                       CODE 366     VALUE #D86D2C   EDGE #B05720
+0 !COLOUR Neon_Yellow                        CODE 368     VALUE #EDFF21   EDGE #D7EA00
+0 !COLOUR Medium_Brown                       CODE 370     VALUE #755945   EDGE #533F31
+0 !COLOUR Medium_Tan                         CODE 371     VALUE #CCA373   EDGE #BF8A4E
+0 !COLOUR Sand_Purple                        CODE 373     VALUE #75657D   EDGE #594D60
+0 !COLOUR Sand_Green                         CODE 378     VALUE #708E7C   EDGE #597263
+0 !COLOUR Sand_Blue                          CODE 379     VALUE #70819A   EDGE #58677D
+0 !COLOUR Reddish_Orange                     CODE 402     VALUE #CA4C0B   EDGE #9B3908
+0 !COLOUR Sienna_Brown                       CODE 422     VALUE #915C3C   EDGE #6B452D
+0 !COLOUR Umber_Brown                        CODE 423     VALUE #543F33   EDGE #32261F
+0 !COLOUR Ochre_Yellow                       CODE 424     VALUE #DD9E47   EDGE #CA8525
+0 !COLOUR Warm_Pink                          CODE 430     VALUE #F79B9B   EDGE #F36C6C
+0 !COLOUR Bright_Blue_Violet                 CODE 431     VALUE #665EA7   EDGE #514A86
+0 !COLOUR Fabuland_Brown                     CODE 450     VALUE #D27744   EDGE #B8602C
+0 !COLOUR Medium_Orange                      CODE 462     VALUE #F58624   EDGE #DB6B0A
+0 !COLOUR Dark_Orange                        CODE 484     VALUE #91501C   EDGE #663913
+0 !COLOUR Very_Light_Grey                    CODE 503     VALUE #BCB4A5   EDGE #A69B86
+0 !COLOUR Light_Orange_Brown                 CODE 507     VALUE #FA9C1C   EDGE #E08504
+0 !COLOUR Fabuland_Red                       CODE 508     VALUE #C65127   EDGE #993F1E
+0 !COLOUR Fabuland_Orange                    CODE 509     VALUE #CF8A47   EDGE #B6722F
+0 !COLOUR Fabuland_Lime                      CODE 510     VALUE #ACE35A   EDGE #95DB2D
+0 !COLOUR Lemon                              CODE 10015   VALUE #FFF230   EDGE #F9E900
+0 !COLOUR Rose_Pink                          CODE 10017   VALUE #FF9494   EDGE #FF6060
+0 !COLOUR Yellowish_Dark_Pink                CODE 10022   VALUE #D05098   EDGE #B9317E
 
 0 // LDraw Transparent Colours
 0 !COLOUR Trans_Dark_Blue                    CODE  33   VALUE #0020A0   EDGE #000B38   ALPHA 128
@@ -128,7 +144,7 @@
 0 !COLOUR Trans_Purple                       CODE  52   VALUE #A5A5CB   EDGE #6464A6   ALPHA 128
 0 !COLOUR Trans_Neon_Yellow                  CODE  54   VALUE #DAB000   EDGE #755E00   ALPHA 128
 0 !COLOUR Trans_Orange                       CODE  57   VALUE #F08F1C   EDGE #9E5C0A   ALPHA 128
-0 !COLOUR Trans_Black_IR_Lens                CODE  32   VALUE #000000   EDGE #333333   ALPHA 210
+0 !COLOUR Trans_Black_IR_Lens                CODE  32   VALUE #000000   EDGE #333333   ALPHA 245
 0 !COLOUR Trans_Neon_Red                     CODE 158   VALUE #F18EBB   EDGE #E63384   ALPHA 128
 0 !COLOUR Trans_Bright_Light_Green           CODE 227   VALUE #B5D96C   EDGE #86B22E   ALPHA 128
 0 !COLOUR Trans_Bright_Light_Orange          CODE 231   VALUE #FCB76D   EDGE #FA860A   ALPHA 128
@@ -137,6 +153,8 @@
 0 !COLOUR Trans_Light_Green                  CODE 285   VALUE #7DC291   EDGE #46955D   ALPHA 128
 0 !COLOUR Trans_Light_Blue_Violet            CODE 293   VALUE #6BABE4   EDGE #247BC6   ALPHA 128
 0 !COLOUR Trans_Black                        CODE 10375 VALUE #212121   EDGE #545454   ALPHA 128
+0 !COLOUR Trans_White                        CODE 11015 VALUE #F4F4F4   EDGE #C1C1C1   ALPHA 174
+0 !COLOUR Trans_Tan                          CODE 11019 VALUE #D7BA8C   EDGE #BC8D41   ALPHA 128
 
 0 // LDraw Chrome Plated Colours
 0 !COLOUR Chrome_Antique_Brass               CODE  60   VALUE #645A4C   EDGE #665B4D                               CHROME
@@ -146,7 +164,6 @@
 0 !COLOUR Chrome_Black                       CODE  64   VALUE #1B2A34   EDGE #3D5F76                               CHROME
 0 !COLOUR Chrome_Gold                        CODE 334   VALUE #DFC176   EDGE #C2982E                               CHROME
 0 !COLOUR Chrome_Silver                      CODE 383   VALUE #CECECE   EDGE #9C9C9C                               CHROME
-
 
 0 // LDraw Pearlescent Plastic Colours
 0 !COLOUR Pearl_Black                        CODE  83   VALUE #0A1327   EDGE #000000                               PEARLESCENT
@@ -164,10 +181,15 @@
 0 !COLOUR Metallic_Bright_Red                CODE 184   VALUE #D60026   EDGE #A3001D                               PEARLESCENT
 0 !COLOUR Metallic_Bright_Blue               CODE 185   VALUE #0059A3   EDGE #003D70                               PEARLESCENT
 0 !COLOUR Metallic_Dark_Green                CODE 186   VALUE #008E3C   EDGE #005B26                               PEARLESCENT
+0 !COLOUR Pearl_Brown                        CODE 187   VALUE #57392C   EDGE #36231B                               PEARLESCENT
 0 !COLOUR Reddish_Gold                       CODE 189   VALUE #AC8247   EDGE #896738                               PEARLESCENT
 0 !COLOUR Lemon_Metallic                     CODE 200   VALUE #708224   EDGE #4F5C19                               PEARLESCENT
+0 !COLOUR Cool_Silver                        CODE 296   VALUE #ADADAD   EDGE #C6C6C6                               PEARLESCENT
 0 !COLOUR Pearl_Gold                         CODE 297   VALUE #AA7F2E   EDGE #805F23                               PEARLESCENT
-
+0 !COLOUR Flat_Silver                        CODE 315   VALUE #8C8C8C   EDGE #727272                               PEARLESCENT
+0 !COLOUR Titanium_Metallic                  CODE 316   VALUE #3E3C39   EDGE #22211F                               PEARLESCENT
+0 !COLOUR Conductive_Black                   CODE 342   VALUE #3E3C39   EDGE #575450                               PEARLESCENT
+0 !COLOUR Reddish_Copper                     CODE 346   VALUE #803D07   EDGE #4D2504                               PEARLESCENT
 
 0 // LDraw Metallic Paint Colours
 0 !COLOUR Metallic_Silver                    CODE  80   VALUE #767676   EDGE #8E8E8E                               METAL
@@ -179,13 +201,15 @@
 0 !COLOUR Metallic_Pink                      CODE 10046 VALUE #AD659A   EDGE #BF86B0                               METAL
 0 !COLOUR Metallic_Light_Pink                CODE 10049 VALUE #FECCCF   EDGE #FFFFFF                               METAL
 
+0 // LDraw Fluorescent Paint Colours
+0 !COLOUR Fluorescent_Red_Ink                CODE   332 VALUE #D06D4F   EDGE #DA8D76
+0 !COLOUR Fluorescent_Green_Ink              CODE   333 VALUE #DBEA7A   EDGE #E7F1A6
 
 0 // LDraw Milky Colours
 0 !COLOUR Milky_White                        CODE  79   VALUE #EEEEEE   EDGE #BABABA   ALPHA 240
-0 !COLOUR Glow_In_Dark_Opaque                CODE  21   VALUE #E0FFB0   EDGE #B8FF4D   ALPHA 240   LUMINANCE 15
-0 !COLOUR Glow_In_Dark_Trans                 CODE 294   VALUE #BDC6AD   EDGE #8D9D72   ALPHA 240   LUMINANCE 15
-0 !COLOUR Glow_In_Dark_White                 CODE 329   VALUE #F5F3D7   EDGE #E0DA85   ALPHA 240   LUMINANCE 15
-
+0 !COLOUR Glow_In_Dark_Opaque                CODE  21   VALUE #E0FFB0   EDGE #B8FF4D   ALPHA 245   LUMINANCE 15
+0 !COLOUR Glow_In_Dark_Trans                 CODE 294   VALUE #BDC6AD   EDGE #8D9D72   ALPHA 200   LUMINANCE 15
+0 !COLOUR Glow_In_Dark_White                 CODE 329   VALUE #F5F3D7   EDGE #E0DA85   ALPHA 245   LUMINANCE 15
 
 0 // LDraw Glitter Colours
 0 !COLOUR Glitter_Trans_Dark_Pink            CODE 114   VALUE #DF6695   EDGE #B9275F   ALPHA 128                   MATERIAL GLITTER VALUE #B92790 FRACTION 0.17 VFRACTION 0.2 SIZE 1
@@ -194,15 +218,16 @@
 0 !COLOUR Glitter_Trans_Light_Blue           CODE 302   VALUE #AEE9EF   EDGE #59D1DE   ALPHA 128                   MATERIAL GLITTER VALUE #59DEBF FRACTION 0.17 VFRACTION 0.2 SIZE 1
 0 !COLOUR Glitter_Trans_Neon_Green           CODE 339   VALUE #C0FF00   EDGE #739900   ALPHA 128                   MATERIAL GLITTER VALUE #998C00 FRACTION 0.17 VFRACTION 0.2 SIZE 1
 0 !COLOUR Glitter_Trans_Orange               CODE 341   VALUE #F08F1C   EDGE #9E5C0A   ALPHA 128                   MATERIAL GLITTER VALUE #9E2A0A FRACTION 0.17 VFRACTION 0.2 SIZE 1
+0 !COLOUR Glitter_Trans_Bright_Green         CODE 10351 VALUE #56E646   EDGE #27AF18   ALPHA 128                   MATERIAL GLITTER VALUE #59AF18 FRACTION 0.17 VFRACTION 0.2 SIZE 1
+
 0 !COLOUR Opal_Trans_Clear                   CODE 360   VALUE #FCFCFC   EDGE #C9C9C9   ALPHA 240   LUMINANCE  5    MATERIAL GLITTER VALUE #FFFFFF FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 0 !COLOUR Opal_Trans_Light_Blue              CODE 362   VALUE #AEE9EF   EDGE #59D1DE   ALPHA 200   LUMINANCE  5    MATERIAL GLITTER VALUE #59DEBF FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 0 !COLOUR Opal_Trans_Black                   CODE 363   VALUE #635F52   EDGE #2A2823   ALPHA 200   LUMINANCE  5    MATERIAL GLITTER VALUE #7781C9 FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 0 !COLOUR Opal_Trans_Dark_Pink               CODE 364   VALUE #DF6695   EDGE #B9275F   ALPHA 200   LUMINANCE  5    MATERIAL GLITTER VALUE #B92790 FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 0 !COLOUR Opal_Trans_Purple                  CODE 365   VALUE #671F81   EDGE #441456   ALPHA 200   LUMINANCE  5    MATERIAL GLITTER VALUE #2F1456 FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
-0 !COLOUR Opal_Trans_Green                   CODE 367   VALUE #237841   EDGE #174F2B   ALPHA 200   LUMINANCE  5    MATERIAL GLITTER VALUE #0B270B FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
-0 !COLOUR Glitter_Trans_Bright_Green         CODE 10351 VALUE #56E646   EDGE #27AF18   ALPHA 128                   MATERIAL GLITTER VALUE #59AF18 FRACTION 0.17 VFRACTION 0.2 SIZE 1
+0 !COLOUR Opal_Trans_Bright_Green            CODE 367   VALUE #56E646   EDGE #27AF18   ALPHA 200   LUMINANCE  5    MATERIAL GLITTER VALUE #0B270B FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 0 !COLOUR Opal_Trans_Dark_Blue               CODE 10366 VALUE #0020A0   EDGE #000B38   ALPHA 200   LUMINANCE  5    MATERIAL GLITTER VALUE #001D38 FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
-
+0 !COLOUR Opal_Trans_Yellow                  CODE 376   VALUE #F5CD2F   EDGE #B49208   ALPHA 200   LUMINANCE  5    MATERIAL GLITTER VALUE #B45908 FRACTION 0.8 VFRACTION 0.6 MINSIZE 0.02 MAXSIZE 0.1
 
 0 // LDraw Speckle Colours
 0 !COLOUR Speckle_Black_Copper               CODE  75   VALUE #000000   EDGE #AB6038                               MATERIAL SPECKLE VALUE #AB6038 FRACTION 0.4 MINSIZE 1 MAXSIZE 3
@@ -210,6 +235,48 @@
 0 !COLOUR Speckle_Black_Silver               CODE 132   VALUE #000000   EDGE #898788                               MATERIAL SPECKLE VALUE #898788 FRACTION 0.4 MINSIZE 1 MAXSIZE 3
 0 !COLOUR Speckle_Black_Gold                 CODE 133   VALUE #000000   EDGE #DBAC34                               MATERIAL SPECKLE VALUE #DBAC34 FRACTION 0.4 MINSIZE 1 MAXSIZE 3
 
+0 // LDraw Modulex Colours
+0 !COLOUR Modulex_Clear                      CODE 30000   VALUE #FCFCFC   EDGE #C9C9C9   ALPHA 128
+0 !COLOUR Modulex_White                      CODE 30001   VALUE #F4F4F4   EDGE #DBDBDB
+0 !COLOUR Modulex_Light_Grey                 CODE 30002   VALUE #8A928D   EDGE #707974
+0 !COLOUR Modulex_Black                      CODE 30003   VALUE #34434D   EDGE #1E272D
+0 !COLOUR Modulex_Terracotta                 CODE 30004   VALUE #D27744   EDGE #B8602C
+0 !COLOUR Modulex_Buff                       CODE 30005   VALUE #D7BA8C   EDGE #C9A468
+0 !COLOUR Modulex_Ochre_Yellow               CODE 30006   VALUE #FED557   EDGE #FDC724
+0 !COLOUR Modulex_Olive_Green                CODE 30007   VALUE #7C9051   EDGE #5F6E3E
+0 !COLOUR Modulex_Teal_Blue                  CODE 30008   VALUE #467083   EDGE #335260
+0 !COLOUR Modulex_Brown                      CODE 30009   VALUE #907450   EDGE #6F5A3D
+0 !COLOUR Modulex_Strong_Red                 CODE 30010   VALUE #B40000   EDGE #7F0000
+0 !COLOUR Modulex_Pastel_Blue                CODE 30011   VALUE #ABD9FF   EDGE #7AC3FF
+0 !COLOUR Modulex_Orange                     CODE 30012   VALUE #D86D2C   EDGE #B05720
+0 !COLOUR Modulex_Red                        CODE 30013   VALUE #C65127   EDGE #993F1E
+0 !COLOUR Modulex_Pastel_Green               CODE 30014   VALUE #78FC78   EDGE #46FB46
+0 !COLOUR Modulex_Lemon                      CODE 30015   VALUE #FFF230   EDGE #F9E900
+0 !COLOUR Modulex_Pink                       CODE 30016   VALUE #F785B1   EDGE #F45793
+0 !COLOUR Modulex_Light_Bluish_Grey          CODE 30032   VALUE #AFB5C7   EDGE #8F98B1
+0 !COLOUR Modulex_Pink_Red                   CODE 30033   VALUE #F45C40   EDGE #F0300E
+0 !COLOUR Modulex_Aqua_Green                 CODE 30034   VALUE #27867E   EDGE #1B5E59
+0 !COLOUR Modulex_Light_Yellow               CODE 30035   VALUE #FFE371   EDGE #FFD83D
+0 !COLOUR Modulex_Violet                     CODE 30037   VALUE #BD7D85   EDGE #AC5C65
+0 !COLOUR Modulex_Medium_Blue                CODE 30038   VALUE #61AFFF   EDGE #2D96FF
+0 !COLOUR Modulex_Light_Orange               CODE 30039   VALUE #F7AD63   EDGE #F49333
+0 !COLOUR Modulex_Charcoal_Grey              CODE 30040   VALUE #595D60   EDGE #3F4244
+0 !COLOUR Modulex_Dark_Brown                 CODE 30054   VALUE #330000   EDGE #660000
+0 !COLOUR Modulex_Foil_White                 CODE 30080   VALUE #F4F4F4   EDGE #C0C0C0
+0 !COLOUR Modulex_Foil_Black                 CODE 30081   VALUE #34434D   EDGE #808080
+0 !COLOUR Modulex_Foil_Dark_Grey             CODE 30082   VALUE #595D60   EDGE #808080
+0 !COLOUR Modulex_Foil_Light_Grey            CODE 30083   VALUE #9C9C9C   EDGE #C0C0C0
+0 !COLOUR Modulex_Foil_Dark_Green            CODE 30084   VALUE #006400   EDGE #808080
+0 !COLOUR Modulex_Foil_Light_Green           CODE 30085   VALUE #7DB538   EDGE #C0C0C0
+0 !COLOUR Modulex_Foil_Dark_Blue             CODE 30086   VALUE #0057A6   EDGE #808080
+0 !COLOUR Modulex_Foil_Light_Blue            CODE 30087   VALUE #68AECE   EDGE #C0C0C0
+0 !COLOUR Modulex_Foil_Violet                CODE 30088   VALUE #4B0082   EDGE #808080
+0 !COLOUR Modulex_Foil_Dark_Red              CODE 30089   VALUE #8B0000   EDGE #808080
+0 !COLOUR Modulex_Foil_Yellow                CODE 30090   VALUE #FED557   EDGE #C0C0C0
+0 !COLOUR Modulex_Foil_Orange                CODE 30091   VALUE #F7AD63   EDGE #C0C0C0
+0 !COLOUR Modulex_Dark_Grey                  CODE 31000   VALUE #6B5A5A   EDGE #504343
+0 !COLOUR Modulex_Blue                       CODE 31001   VALUE #0057A6   EDGE #003C75
+0 !COLOUR Modulex_Very_Light_Grey            CODE 31002   VALUE #D9D5CC   EDGE #C4BEAF
 
 0 // LDraw Rubber Colours
 0 !COLOUR Rubber_Yellow                      CODE  65   VALUE #FAC80A   EDGE #9A7C03                               RUBBER
@@ -225,22 +292,45 @@
 0 !COLOUR Rubber_Flat_Silver                 CODE 504   VALUE #898788   EDGE #545354                               RUBBER
 0 !COLOUR Rubber_White                       CODE 511   VALUE #F4F4F4   EDGE #C1C1C1                               RUBBER
 0 !COLOUR Rubber_Green                       CODE 10002 VALUE #00852B   EDGE #001E09                               RUBBER
+0 !COLOUR Rubber_Dark_Turquoise              CODE 10003 VALUE #069D9F   EDGE #023A3B                               RUBBER
+0 !COLOUR Rubber_Dark_Pink                   CODE 10005 VALUE #D3359D   EDGE #851D61                               RUBBER
+0 !COLOUR Rubber_Dark_Grey                   CODE 10008 VALUE #545955   EDGE #222423                               RUBBER
 0 !COLOUR Rubber_Bright_Green                CODE 10010 VALUE #58AB41   EDGE #316024                               RUBBER
+0 !COLOUR Rubber_Tan                         CODE 10019 VALUE #D7BA8C   EDGE #BC8D42                               RUBBER
 0 !COLOUR Rubber_Magenta                     CODE 10026 VALUE #901F76   EDGE #3A0C30                               RUBBER
+0 !COLOUR Rubber_Dark_Tan                    CODE 10028 VALUE #897D62   EDGE #4D4637                               RUBBER
+0 !COLOUR Rubber_Bright_Pink                 CODE 10029 VALUE #FF9ECD   EDGE #FF3898                               RUBBER
 0 !COLOUR Rubber_Medium_Lavender             CODE 10030 VALUE #A06EB9   EDGE #6C3E82                               RUBBER
 0 !COLOUR Rubber_Lavender                    CODE 10031 VALUE #CDA4DE   EDGE #A35AC3                               RUBBER
 0 !COLOUR Rubber_Reddish_Brown               CODE 10070 VALUE #5F3109   EDGE #2E1804                               RUBBER
+0 !COLOUR Rubber_Dark_Bluish_Grey            CODE 10072 VALUE #646464   EDGE #494949                               RUBBER
 0 !COLOUR Rubber_Medium_Blue                 CODE 10073 VALUE #7396C8   EDGE #3B639A                               RUBBER
 0 !COLOUR Rubber_Light_Nougat                CODE 10078 VALUE #FFC995   EDGE #FF922D                               RUBBER
+0 !COLOUR Rubber_Medium_Nougat               CODE 10084 VALUE #AA7D55   EDGE #654A33                               RUBBER
+0 !COLOUR Rubber_Medium_Lilac                CODE 10085 VALUE #441A91   EDGE #1C0A3C                               RUBBER
+0 !COLOUR Rubber_Nougat                      CODE 10092 VALUE #BB805A   EDGE #7B4F32                               RUBBER
+0 !COLOUR Rubber_Pearl_Light_Grey            CODE 10135 VALUE #A0A0A0   EDGE #6D6D6D                               RUBBER
+0 !COLOUR Rubber_Metallic_Blue               CODE 10137 VALUE #5B7590   EDGE #334151                               RUBBER
+0 !COLOUR Rubber_Pearl_Dark_Gold             CODE 10147 VALUE #83724F   EDGE #423A28                               RUBBER
+0 !COLOUR Rubber_Pearl_Dark_Grey             CODE 10148 VALUE #484D48   EDGE #161716                               RUBBER
+0 !COLOUR Rubber_Pearl_Very_Light_Grey       CODE 10150 VALUE #989B99   EDGE #B1B3B2                               RUBBER
+0 !COLOUR Rubber_Very_Light_Bluish_Grey      CODE 10151 VALUE #C8C8C8   EDGE #E0E0E0                               RUBBER
+0 !COLOUR Rubber_Reddish_Gold                CODE 10189 VALUE #AC8247   EDGE #654C29                               RUBBER
+0 !COLOUR Rubber_Bright_Light_Orange         CODE 10191 VALUE #FCAC00   EDGE #936500                               RUBBER
+0 !COLOUR Rubber_Lemon_Metallic              CODE 10200 VALUE #708224   EDGE #2D340E                               RUBBER
+0 !COLOUR Rubber_Bright_Light_Blue           CODE 10212 VALUE #9DC3F7   EDGE #3D87EF                               RUBBER
 0 !COLOUR Rubber_Bright_Light_Yellow         CODE 10226 VALUE #FFEC6C   EDGE #FFDD05                               RUBBER
+0 !COLOUR Rubber_Dark_Green                  CODE 10288 VALUE #00451A   EDGE #001407                               RUBBER
+0 !COLOUR Rubber_Pearl_Gold                  CODE 10297 VALUE #AA7F2E   EDGE #584118                               RUBBER
 0 !COLOUR Rubber_Dark_Brown                  CODE 10308 VALUE #352100   EDGE #000000                               RUBBER
 0 !COLOUR Rubber_Dark_Red                    CODE 10320 VALUE #720012   EDGE #3D0009                               RUBBER
 0 !COLOUR Rubber_Dark_Azure                  CODE 10321 VALUE #469BC3   EDGE #27607B                               RUBBER
 0 !COLOUR Rubber_Medium_Azure                CODE 10322 VALUE #68C3E2   EDGE #2499C0                               RUBBER
 0 !COLOUR Rubber_Light_Aqua                  CODE 10323 VALUE #D3F2EA   EDGE #85DAC5                               RUBBER
+0 !COLOUR Rubber_Yellowish_Green             CODE 10326 VALUE #E2F99A   EDGE #C4F339                               RUBBER
+0 !COLOUR Rubber_Olive_Green                 CODE 10330 VALUE #77774E   EDGE #59593A                               RUBBER
 0 !COLOUR Rubber_Sand_Green                  CODE 10378 VALUE #708E7C   EDGE #43554A                               RUBBER
 0 !COLOUR Rubber_Dark_Orange                 CODE 10484 VALUE #91501C   EDGE #3B210B                               RUBBER
-
 
 0 // LDraw Transparent Rubber Colours
 0 !COLOUR Rubber_Trans_Yellow                CODE  66   VALUE #F5CD2F   EDGE #B49208   ALPHA 128                   RUBBER
@@ -248,7 +338,30 @@
 0 !COLOUR Rubber_Trans_Bright_Green          CODE 10035 VALUE #56E646   EDGE #27AF18   ALPHA 128                   RUBBER
 0 !COLOUR Rubber_Trans_Red                   CODE 10036 VALUE #C91A09   EDGE #660D05   ALPHA 128                   RUBBER
 0 !COLOUR Rubber_Trans_Light_Blue            CODE 10043 VALUE #AEE9EF   EDGE #59D1DE   ALPHA 128                   RUBBER
+0 !COLOUR Rubber_Trans_Orange                CODE 10057 VALUE #F08F1C   EDGE #9E5C0A   ALPHA 128                   RUBBER
+0 !COLOUR Rubber_Milky_White                 CODE 10079 VALUE #EEEEEE   EDGE #BABABA   ALPHA 240                   RUBBER
 
+0 // LDraw Fabric Colours
+0 !COLOUR Canvas_Black                       CODE 20000 VALUE #1B2A34   EDGE #080D10                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Blue                        CODE 20001 VALUE #1E5AA8   EDGE #16437D                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Green                       CODE 20002 VALUE #00852B   EDGE #005119                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Red                         CODE 20004 VALUE #B40000   EDGE #7F0000                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Brown                       CODE 20006 VALUE #543324   EDGE #311E15                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Light_Grey                  CODE 20007 VALUE #8A928D   EDGE #707974                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Bright_Green                CODE 20010 VALUE #58AB41   EDGE #448532                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Yellow                      CODE 20014 VALUE #FAC80A   EDGE #CCA404                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_White                       CODE 20015 VALUE #F4F4F4   EDGE #DBDBDB                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Tan                         CODE 20019 VALUE #D7BA8C   EDGE #C9A468                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Purple                      CODE 20022 VALUE #671F81   EDGE #441456                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Dark_Tan                    CODE 20028 VALUE #897D62   EDGE #6B624C                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Reddish_Brown               CODE 20070 VALUE #5F3109   EDGE #2E1804                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Light_Bluish_Grey           CODE 20071 VALUE #969696   EDGE #7C7C7C                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Dark_Bluish_Grey            CODE 20072 VALUE #646464   EDGE #494949                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Light_Brown                 CODE 20086 VALUE #7B5D41   EDGE #5A442F                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Dark_Green                  CODE 20288 VALUE #00451A   EDGE #001407                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Dark_Red                    CODE 20320 VALUE #720012   EDGE #3D0009                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Sand_Red                    CODE 20335 VALUE #88605E   EDGE #694A49                               MATERIAL FABRIC CANVAS
+0 !COLOUR Canvas_Cream                       CODE 20500 VALUE #F8F3E4   EDGE #EDE0BA                               MATERIAL FABRIC CANVAS
 
 0 // LDraw Internal Common Material Colours
 0 !COLOUR Main_Colour                        CODE  16   VALUE #FFFF80   EDGE #333333
@@ -257,3 +370,116 @@
 0 !COLOUR Electric_Contact_Alloy             CODE 494   VALUE #D0D0D0   EDGE #EAEAEA                               METAL
 0 !COLOUR Electric_Contact_Copper            CODE 495   VALUE #AE7A59   EDGE #BF967D                               METAL
 0 !COLOUR Trans_Sticker                      CODE 10047 VALUE #FFFFFF   EDGE #FFFFFF   ALPHA 16
+
+
+0 // Avatar definitions
+
+0 !AVATAR CATEGORY "Animal" DESCRIPTION "Animal" PART 1 0 0  0 1 0  0 0 1 "13786.dat"
+0 !AVATAR CATEGORY "Antenna" DESCRIPTION "Antenna" PART 1 0 0  0 1 0  0 0 1 "3144.dat"
+0 !AVATAR CATEGORY "Arch" DESCRIPTION "Arch" PART 1 0 0  0 1 0  0 0 1 "4490.dat"
+0 !AVATAR CATEGORY "Arm" DESCRIPTION "Arm" PART 1 0 0  0 1 0  0 0 1 "4220a.dat"
+
+0 !AVATAR CATEGORY "Bar" DESCRIPTION "Bar" PART 1 0 0  0 1 0  0 0 1 "87994.dat"
+0 !AVATAR CATEGORY "Baseplate" DESCRIPTION "Baseplate" PART 1 0 0  0 1 0  0 0 1 "3947.dat"
+0 !AVATAR CATEGORY "Belville" DESCRIPTION "Belville" PART 1 0 0  0 1 0  0 0 1 "72514.dat"
+0 !AVATAR CATEGORY "Boat" DESCRIPTION "Boat" PART 1 0 0  0 1 0  0 0 1 "28925.dat"
+0 !AVATAR CATEGORY "Bracket" DESCRIPTION "Bracket" PART 1 0 0  0 1 0  0 0 1 "44728.dat"
+0 !AVATAR CATEGORY "Brick" DESCRIPTION "Brick" PART 1 0 0  0 1 0  0 0 1 "3002.dat"
+
+0 !AVATAR CATEGORY "Car" DESCRIPTION "Car" PART 1 0 0  0 1 0  0 0 1 "3829c01.dat"
+0 !AVATAR CATEGORY "Clikits" DESCRIPTION "Clikits" PART 1 0 0  0 1 0  0 0 1 "46296.dat"
+0 !AVATAR CATEGORY "Cockpit" DESCRIPTION "Cockpit" PART 1 0 0  0 1 0  0 0 1 "30200.dat"
+0 !AVATAR CATEGORY "Cone" DESCRIPTION "Cone" PART 1 0 0  0 1 0  0 0 1 "3942a.dat"
+0 !AVATAR CATEGORY "Constraction" DESCRIPTION "Constraction" PART 1 0 0  0 1 0  0 0 1 "32475.dat"
+0 !AVATAR CATEGORY "Constraction Accessory" DESCRIPTION "Constraction Accessory" PART 1 0 0  0 1 0  0 0 1 "85582.dat"
+0 !AVATAR CATEGORY "Container" DESCRIPTION "Container" PART 1 0 0  0 1 0  0 0 1 "61780.dat"
+0 !AVATAR CATEGORY "Conveyor" DESCRIPTION "Conveyor" PART 1 0 0  0 1 0  0 0 1 "92713c01.dat"
+0 !AVATAR CATEGORY "Crane" DESCRIPTION "Crane" PART 1 0 0  0 1 0  0 0 1 "30395.dat"
+0 !AVATAR CATEGORY "Cylinder" DESCRIPTION "Cylinder" PART 1 0 0  0 1 0  0 0 1 "3062b.dat"
+
+0 !AVATAR CATEGORY "Dish" DESCRIPTION "Dish" PART 1 0 0  0 1 0  0 0 1 "3960.dat"
+0 !AVATAR CATEGORY "Door" DESCRIPTION "Door" PART 1 0 0  0 1 0  0 0 1 "3861a.dat"
+0 !AVATAR CATEGORY "Duplo" DESCRIPTION "Duplo" PART 1 0 0  0 1 0  0 0 1 "40666.dat"
+
+0 !AVATAR CATEGORY "Electric" DESCRIPTION "Electric" PART 1 0 0  0 1 0  0 0 1 "73666.dat"
+0 !AVATAR CATEGORY "Exhaust" DESCRIPTION "Exhaust" PART 1 0 0  0 1 0  0 0 1 "71137.dat"
+
+0 !AVATAR CATEGORY "Fence" DESCRIPTION "Fence" PART 1 0 0  0 1 0  0 0 1 "33303.dat"
+0 !AVATAR CATEGORY "Figure" DESCRIPTION "Figure" PART 1 0 0  0 1 0  0 0 1 "92198c01.dat"
+0 !AVATAR CATEGORY "Figure Accessory" DESCRIPTION "Figure Accessory" PART 1 0 0  0 1 0  0 0 1 "11245.dat"
+0 !AVATAR CATEGORY "Flag" DESCRIPTION "Flag" PART 1 0 0  0 1 0  0 0 1 "3596.dat"
+0 !AVATAR CATEGORY "Flexible" DESCRIPTION "Flexible" PART 1 0 0  0 1 0  0 0 1 "92338-f1.dat"
+0 !AVATAR CATEGORY "Forklift" DESCRIPTION "Forklift" PART 1 0 0  0 1 0  0 0 1 "3430c00-f1.dat"
+0 !AVATAR CATEGORY "Freestyle" DESCRIPTION "Freestyle" PART 1 0 0  0 1 0  0 0 1 "6243p01.dat"
+
+0 !AVATAR CATEGORY "Garage" DESCRIPTION "Garage" PART 1 0 0  0 1 0  0 0 1 "822bc02.dat"
+0 !AVATAR CATEGORY "Glass" DESCRIPTION "Glass" PART 1 0 0  0 1 0  0 0 1 "4036.dat"
+0 !AVATAR CATEGORY "Grab" DESCRIPTION "Grab" PART 1 0 0  0 1 0  0 0 1 "3492c02.dat"
+
+0 !AVATAR CATEGORY "Helper" DESCRIPTION "Helper" PART 1 0 0  0 1 0  0 0 1 "helper2druler100ldu.dat"
+0 !AVATAR CATEGORY "Hinge" DESCRIPTION "Hinge" PART 1 0 0  0 1 0  0 0 1 "3937c01.dat"
+0 !AVATAR CATEGORY "Homemaker" DESCRIPTION "Homemaker" PART 1 0 0  0 1 0  0 0 1 "837.dat"
+0 !AVATAR CATEGORY "Hose" DESCRIPTION "Hose" PART 1 0 0  0 1 0  0 0 1 "73590a.dat"
+
+0 !AVATAR CATEGORY "Ladder" DESCRIPTION "Ladder" PART 1 0 0  0 1 0  0 0 1 "11299.dat"
+0 !AVATAR CATEGORY "Lever" DESCRIPTION "Lever" PART 1 0 0  0 1 0  0 0 1 "73587p01.dat"
+
+0 !AVATAR CATEGORY "Magnet" DESCRIPTION "Magnet" PART 1 0 0  0 1 0  0 0 1 "735.dat"
+0 !AVATAR CATEGORY "Minifig" DESCRIPTION "Minifig" PART 1 0 0  0 1 0  0 0 1 "973.dat"
+0 !AVATAR CATEGORY "Minifig Accessory" DESCRIPTION "Minifig Accessory" PART 1 0 0  0 1 0  0 0 1 "3962a.dat"
+0 !AVATAR CATEGORY "Minifig Footwear" DESCRIPTION "Minifig Footwear" PART 1 0 0  0 1 0  0 0 1 "10190.dat"
+0 !AVATAR CATEGORY "Minifig Headwear" DESCRIPTION "Minifig Headwear" PART 1 0 0  0 1 0  0 0 1 "30138.dat"
+0 !AVATAR CATEGORY "Minifig Hipwear" DESCRIPTION "Minifig Hipwear" PART 1 0 0  0 1 0  0 0 1 "24782.dat"
+0 !AVATAR CATEGORY "Minifig Neckwear" DESCRIPTION "Minifig Neckwear" PART 1 0 0  0 1 0  0 0 1 "2587.dat"
+0 !AVATAR CATEGORY "Modulex" DESCRIPTION "Modulex" PART 1 0 0  0 1 0  0 0 1 "u7006.dat"
+0 !AVATAR CATEGORY "Monorail" DESCRIPTION "Monorail" PART 1 0 0  0 1 0  0 0 1 "2684c01.dat"
+0 !AVATAR CATEGORY "Mursten" DESCRIPTION "Mursten" PART 1 0 0  0 1 0  0 0 1 "u8003c.dat"
+
+0 !AVATAR CATEGORY "Panel" DESCRIPTION "Panel" PART 1 0 0  0 1 0  0 0 1 "6231.dat"
+0 !AVATAR CATEGORY "Plane" DESCRIPTION "Plane" PART 1 0 0  0 1 0  0 0 1 "87613.dat"
+0 !AVATAR CATEGORY "Plant" DESCRIPTION "Plant" PART 1 0 0  0 1 0  0 0 1 "6255.dat"
+0 !AVATAR CATEGORY "Plate" DESCRIPTION "Plate" PART 1 0 0  0 1 0  0 0 1 "3021.dat"
+0 !AVATAR CATEGORY "Platform" DESCRIPTION "Platform" PART 1 0 0  0 1 0  0 0 1 "2642.dat"
+0 !AVATAR CATEGORY "Propeller" DESCRIPTION "Propeller" PART 1 0 0  0 1 0  0 0 1 "15211.dat"
+
+0 !AVATAR CATEGORY "Quatro" DESCRIPTION "Quatro" PART 1 0 0  0 1 0  0 0 1 "48287.dat"
+
+0 !AVATAR CATEGORY "Rack" DESCRIPTION "Rack" PART 1 0 0  0 1 0  0 0 1 "2426c02.dat"
+0 !AVATAR CATEGORY "Roadsign" DESCRIPTION "Roadsign" PART 1 0 0  0 1 0  0 0 1 "3350.dat"
+0 !AVATAR CATEGORY "Rock" DESCRIPTION "Rock" PART 1 0 0  0 1 0  0 0 1 "42284.dat"
+
+0 !AVATAR CATEGORY "Scala" DESCRIPTION "Scala" PART 1 0 0  0 1 0  0 0 1 "33086.dat"
+0 !AVATAR CATEGORY "Screw" DESCRIPTION "Screw" PART 1 0 0  0 1 0  0 0 1 "u9013.dat"
+0 !AVATAR CATEGORY "Sheet Cardboard" DESCRIPTION "Sheet Cardboard" PART 1 0 0  0 1 0  0 0 1 "u572p02.dat"
+0 !AVATAR CATEGORY "Sheet Fabric" DESCRIPTION "Sheet Fabric" PART 1 0 0  0 1 0  0 0 1 "u9494p01c01.dat"
+0 !AVATAR CATEGORY "Sheet Plastic" DESCRIPTION "Sheet Plastic" PART 1 0 0  0 1 0  0 0 1 "u66.dat"
+0 !AVATAR CATEGORY "Slope" DESCRIPTION "Slope" PART 1 0 0  0 1 0  0 0 1 "3298.dat"
+0 !AVATAR CATEGORY "Sphere" DESCRIPTION "Sphere" PART 1 0 0  0 1 0  0 0 1 "98107.dat"
+0 !AVATAR CATEGORY "Staircase" DESCRIPTION "Staircase" PART 1 0 0  0 1 0  0 0 1 "4784.dat"
+0 !AVATAR CATEGORY "Sticker" DESCRIPTION "Sticker" PART 1 0 0  0 1 0  0 0 1 "192425a.dat"
+0 !AVATAR CATEGORY "Sticker Shortcut" DESCRIPTION "Sticker Shortcut" PART 1 0 0  0 1 0  0 0 1 "4215ad04.dat"
+0 !AVATAR CATEGORY "String" DESCRIPTION "String" PART 1 0 0  0 1 0  0 0 1 "76384.dat"
+0 !AVATAR CATEGORY "Support" DESCRIPTION "Support" PART 1 0 0  0 1 0  0 0 1 "2580.dat"
+
+0 !AVATAR CATEGORY "Tail" DESCRIPTION "Tail" PART 1 0 0  0 1 0  0 0 1 "4867.dat"
+0 !AVATAR CATEGORY "Tap" DESCRIPTION "Tap" PART 1 0 0  0 1 0  0 0 1 "6936.dat"
+0 !AVATAR CATEGORY "Technic" DESCRIPTION "Technic" PART 1 0 0  0 1 0  0 0 1 "4019.dat"
+0 !AVATAR CATEGORY "Tile" DESCRIPTION "Tile" PART 1 0 0  0 1 0  0 0 1 "3068b.dat"
+0 !AVATAR CATEGORY "Tipper" DESCRIPTION "Tipper" PART 1 0 0  0 1 0  0 0 1 "15455.dat"
+0 !AVATAR CATEGORY "Tractor" DESCRIPTION "Tractor" PART 1 0 0  0 1 0  0 0 1 "828.dat"
+0 !AVATAR CATEGORY "Trailer" DESCRIPTION "Trailer" PART 1 0 0  0 1 0  0 0 1 "30184.dat"
+0 !AVATAR CATEGORY "Train" DESCRIPTION "Train" PART 1 0 0  0 1 0  0 0 1 "53400.dat"
+0 !AVATAR CATEGORY "Turntable" DESCRIPTION "Turntable" PART 1 0 0  0 1 0  0 0 1 "3403c01.dat"
+0 !AVATAR CATEGORY "Tyre" DESCRIPTION "Tyre" PART 1 0 0  0 1 0  0 0 1 "3641.dat"
+
+0 !AVATAR CATEGORY "Vehicle" DESCRIPTION "Vehicle" PART 1 0 0  0 1 0  0 0 1 "50859bc01.dat"
+
+0 !AVATAR CATEGORY "Wedge" DESCRIPTION "Wedge" PART 1 0 0  0 1 0  0 0 1 "48933.dat"
+0 !AVATAR CATEGORY "Wheel" DESCRIPTION "Wheel" PART 1 0 0  0 1 0  0 0 1 "2470.dat"
+0 !AVATAR CATEGORY "Winch" DESCRIPTION "Winch" PART 1 0 0  0 1 0  0 0 1 "73037.dat"
+0 !AVATAR CATEGORY "Window" DESCRIPTION "Window" PART 1 0 0  0 1 0  0 0 1 "3853.dat"
+0 !AVATAR CATEGORY "Windscreen" DESCRIPTION "Windscreen" PART 1 0 0  0 1 0  0 0 1 "3823.dat"
+0 !AVATAR CATEGORY "Wing" DESCRIPTION "Wing" PART 1 0 0  0 1 0  0 0 1 "3936.dat"
+
+0 !AVATAR CATEGORY "Znap" DESCRIPTION "Znap" PART 1 0 0  0 1 0  0 0 1 "32210.dat" 
+

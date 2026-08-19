@@ -1,0 +1,22 @@
+0 Minifig Hair Dreadlocks with Beads and Bandana
+0 Name: 95221.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Part UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+
+0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2025-01-02 [LisaWinter] File preparation for LDraw Parts Tracker
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+0 // Without patternable area
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\95221s01.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\95221s02.dat
+
+0 // Bandana
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\95221s03.dat

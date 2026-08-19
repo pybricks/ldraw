@@ -1,0 +1,18 @@
+0 Plate  4 x  6 with 12 Studs on Three Edges with Black "UNITED STATES" Sticker
+0 Name: 6180d01.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Shortcut UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+
+0 !KEYWORDS Bricklink 6180pb121, NASA Apollo 11 Lunar Lander, set 10266
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+0 !HISTORY 2025-12-27 [MagFors] Update description
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6180.dat
+1 16 22 0 -8 0 0 -1 0 1 0 1 0 0 6279911n.dat

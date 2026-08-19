@@ -1,0 +1,29 @@
+0 Animal Horse Head with Black/Metallic Silver Tack Pattern
+0 Name: 4492p05.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 4493c01pb05, Rebrickable 4493c01pr0009, Set 10216
+0 !KEYWORDS Set 4193, Set 7092, Set 7635
+
+0 !HISTORY 2024-11-30 [RainbowDolphin] Created based on 4492p01 by Sascha Broich
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4492s.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4492s.dat
+1 80 0 0 0 -1 0 0 0 1 0 0 0 1 s\4492e1.dat
+1 80 0 0 0 1 0 0 0 1 0 0 0 1 s\4492e1.dat
+1 0 0 0 0 -1 0 0 0 1 0 0 0 1 s\4492e2.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\4492e2.dat
+1 0 0 0 0 -1 0 0 0 1 0 0 0 1 s\4492e3.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\4492e3.dat
+1 0 0 0 0 -1 0 0 0 1 0 0 0 1 s\4492b2.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\4492b2.dat
+1 80 0 0 0 -1 0 0 0 1 0 0 0 1 s\4492b1.dat
+1 80 0 0 0 1 0 0 0 1 0 0 0 1 s\4492b1.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4492m.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4492m.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4492h.dat

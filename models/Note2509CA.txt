@@ -1,0 +1,1997 @@
+ldraw.org Parts Update 2025-09
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Mon, 29 Sep 2025 04:46:02 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 2174
+   New files: 254
+   New Parts: 153
+   New Subparts: 88
+   New Primitives: 9
+   New 48 Segment Primitives: 4
+
+Moved Parts
+   73696.dat                  ~Moved to 73697a
+   73696c00.dat               ~Moved to 73697ac00
+   73697.dat                  ~Moved to 73696a
+   73697c00.dat               ~Moved to 73696ac00
+   u9032.dat                  ~Moved to 6357
+   s8.dat                     ~Moved to 191936e
+   71405b.dat                 ~Moved to 4106332b
+   s7.dat                     ~Moved to 191936d
+   s2.dat                     ~Moved to 192425b
+   s10.dat                    ~Moved to 820671a
+   s1.dat                     ~Moved to 192425a
+   86037b.dat                 ~Moved to 4548064b
+   86037a.dat                 ~Moved to 4548064a
+   72602.dat                  ~Moved to 4119430a
+   71472.dat                  ~Moved to 4106981a
+   190775.dat                 ~Moved to 190775a
+   2924bd01.dat               ~Moved to 2924bc01d01
+   168135g.dat                ~Moved to 168315g
+   168135f.dat                ~Moved to 168315f
+   168135d.dat                ~Moved to 168315d
+   168135e.dat                ~Moved to 168315e
+   168135c.dat                ~Moved to 168315c
+   168135b.dat                ~Moved to 168315b
+   s9.dat                     ~Moved to 190735a
+   168135a.dat                ~Moved to 168315a
+   2335d03.dat                ~Moved to 11055df0
+   2335df0.dat                ~Moved to 11055df1
+
+Renamed Parts
+   u9004c01.dat               Electric Switch: Remote Ctrl f Train Light Signal, Red Mode
+   changed to    ~Electric Switch: Remote Control for Train Light Signal, Red Mode (Obsolete)
+   u9004c02.dat               Electric Switch: Remote Ctrl f Train Light Signal, Green Mode
+   changed to    ~Electric Switch: Remote Control for Train Light Signal, Green Mode (Obsolete)
+   6124.dat                   Minifig Magic Wand
+   changed to    ~Minifig Magic Wand (Obsolete)
+   6567c01.dat                Windscreen  2 x  6 x  2 with Integral TransClear Glass
+   changed to    Windscreen  2 x  6 x  2 with Integral Trans Clear Glass
+   6567c02.dat                Windscreen  2 x  6 x  2 with Integral TransBlack Glass
+   changed to    Windscreen  2 x  6 x  2 with Integral Trans Brown Glass
+   s\u9001s01.dat             ~Electric Switch: Key without Top Face
+   changed to    ~Electric Switch: Key without Top Face (Obsolete)
+   u9001.dat                  ~Electric Switch: Key Left
+   changed to    ~Electric Switch: Key Left (Obsolete)
+   u9002p05.dat               ~Electric Switch: Key Right with Right Rotating Arrow Pattern
+   changed to    ~Electric Switch: Key Right with Right Rotating Arrow Pattern (Obsolete)
+   u9001p01.dat               ~Electric Switch: Key Left with Point Straight Pattern
+   changed to    ~Electric Switch: Key Left with Point Straight Pattern (Obsolete)
+   u9001p02.dat               ~Electric Switch: Key Left with Red Signal Pattern
+   changed to    ~Electric Switch: Key Left with Red Signal Pattern (Obsolete)
+   u9001p03.dat               ~Electric Switch: Key Left with Open Crossing Pattern
+   changed to    ~Electric Switch: Key Left with Open Crossing Pattern (Obsolete)
+   u9001p04.dat               ~Electric Switch: Key Left with Yellow Triangle Down Pattern
+   changed to    ~Electric Switch: Key Left with Yellow Triangle Down Pattern (Obsolete)
+   u9001p05.dat               ~Electric Switch: Key Left with Left Rotating Arrow Pattern
+   changed to    ~Electric Switch: Key Left with Left Rotating Arrow Pattern (Obsolete)
+   u9002.dat                  ~Electric Switch: Key Right
+   changed to    ~Electric Switch: Key Right (Obsolete)
+   u9002p01.dat               ~Electric Switch: Key Right with Point Branching Pattern
+   changed to    ~Electric Switch: Key Right with Point Branching Pattern (Obsolete)
+   u9002p02.dat               ~Electric Switch: Key Right with Green Signal Pattern
+   changed to    ~Electric Switch: Key Right with Green Signal Pattern (Obsolete)
+   u9002p03.dat               ~Electric Switch: Key Right with Closed Crossing Pattern
+   changed to    ~Electric Switch: Key Right with Closed Crossing Pattern (Obsolete)
+   u9002p04.dat               ~Electric Switch: Key Right with Yellow Triangle Up Pattern
+   changed to    ~Electric Switch: Key Right with Yellow Triangle Up Pattern (Obsolete)
+   s\u9005s01.dat             ~Electric Switch: Front with Twin and Multi-use Plug Sockets
+   changed to    ~Electric Switch: Front with Twin and Multi-use Plug Sockets (Obsolete)
+   s\u9004s01.dat             ~Electric Switch: Front with 2 Twin Plug Sockets
+   changed to    ~Electric Switch: Front with 2 Twin Plug Sockets (Obsolete)
+   u9004.dat                  ~Electric Switch Base with 2 Twin Plug Sockets
+   changed to    ~Electric Switch Base with 2 Twin Plug Sockets (Obsolete)
+   u9005.dat                  ~Electric Switch Base with Twin and Multi-use Plug Sockets
+   changed to    ~Electric Switch Base with Twin and Multi-use Plug Sockets (Obsolete)
+   s\3629s01.dat              ~Minifig Hat Cowboy without Front Face
+   changed to    ~Minifig Hat Cowboy - without Front Surface
+   s\3629pw2a.dat             ~Minifig Hat Cowboy with Silver Star Pattern - Silver Detail
+   changed to    ~Obsolete file
+   32209.dat                  Technic Axle  5.5 with Stop
+   changed to    Technic Axle  5.5 with Stop Type 1
+   logo-weichai-text-box.dat  ~Logo Weichai Text Outer Box
+   changed to    Logo Weichai Text Outer Box
+   logo-weichai-text.dat      ~Logo Weichai Text without Central E line
+   changed to    Logo Weichai Text without Central E line
+   logo-weichai-chinese-text.dat~Logo Weichai Chinese Characters
+   changed to    Logo Weichai Chinese Characters
+   logo-weichai-chinese-text-box.dat~Logo Weichai Chinese Characters Outer Box
+   changed to    Logo Weichai Chinese Characters Outer Box
+   30261d01.dat               Roadsign Clip-on  2 x  2 Round with Sticker "50"
+   changed to    Roadsign Clip-on  2 x  2 Round with Speed Limit "50" Sticker
+   30261d03.dat               Roadsign Clip-on 2 x 2 Round with Five-String Banjo Sticker
+   changed to    Roadsign Clip-on  2 x  2 Round with Five-String Banjo Sticker
+   30261df0.dat               Roadsign Clip-on 2 x 2 Round with Weight Scale Sticker
+   changed to    Roadsign Clip-on  2 x  2 Round with Weight Scale Sticker
+   3846d07.dat                Minifig Shield Triangular w/ Yellow Trefoils on DkBlue Sticker
+   changed to    Minifig Shield Triangular with Yellow Trefoils on Dark Blue Sticker
+   3846d06.dat                Minifig Shield Triangular with Green Chevrons on Yellow/Light Grey Sticker
+   changed to    Minifig Shield Triangular with Green and Yellow Chevrons on Light Grey Sticker
+   3846d02.dat                Minifig Shield Triangular w/ White Maltese Cross on Red Sticker
+   changed to    Minifig Shield Triangular with White Maltese Cross on Red Sticker
+   3846d03.dat                Minifig Shield Triangular with Green Chevrons on Yellow Sticker
+   changed to    Minifig Shield Triangular with Green and Yellow Chevrons on Dark Grey Sticker
+   66155.dat                  Wheel Rim 30 x 20 with  3 Dual Angled Spokes and  4L Hub
+   changed to    Wheel Rim 20 x 30 with  3 Dual Angled Spokes and  4L Hub
+   66155c01.dat               Wheel Rim 30 x 20 with  3 Dual Angled Spokes and  4L Hub with Tyre 26/ 24 x 30 Sand Racing
+   changed to    Wheel Rim 20 x 30 with  3 Dual Angled Spokes and  4L Hub with Tyre 26/ 24 x 30 Sand Racing
+   20461bpdgc.dat             Minifig Leg Right with Brigh Light Orange Foot and Silver Sandals Pattern
+   changed to    Minifig Leg Right with Bright Light Orange Foot and Silver Sandals Pattern
+   s\20460bpdgcs01.dat        ~Minifig Leg Left with Brigh Light Orange Foot and Silver Sandals
+   changed to    ~Minifig Leg Left with Bright Light Orange Foot and Silver Sandals
+   2358p02.dat                Baseplate 32 x 32 Road 7-Stud Straight w/ Runway Crosswalk Patt.
+   changed to    Baseplate 32 x 32 Road 7-Stud Straight with Runway Crosswalk Pattern
+   3003pe1.dat                Brick  2 x  2 with Black Eye Pattern on Both Sides
+   changed to    Brick  2 x  2 with Black Eye on Both Sides Pattern
+   3003pe2.dat                Brick  2 x  2 with Black and White Eye Pattern on Both Sides
+   changed to    Brick  2 x  2 with Black and White Eye on Both Sides Pattern
+   30183p01.dat               Slope Brick 45  6 x  4 Double Inverted w/ "POLICE" Red Line Pat.
+   changed to    Slope Brick 45  6 x  4 Double Inverted with "POLICE" Red Line Pattern
+   6099p03.dat                Baseplate 32 x 32 Road 9-Stud Landing Pad Type 1 (Yellow)
+   changed to    Baseplate 32 x 32 Road 9-Stud Landing Pad Type 1 (Yellow) Pattern
+   6099p04.dat                Baseplate 32 x 32 Road 9-Stud Landing Pad Type 1 (Orange)
+   changed to    Baseplate 32 x 32 Road 9-Stud Landing Pad Type 1 (Orange) Pattern
+   6099p05.dat                Baseplate 32 x 32 Road 9-Stud Landing Pad Type 2 (Orange)
+   changed to    Baseplate 32 x 32 Road 9-Stud Landing Pad Type 2 (Orange) Pattern
+   6099p06.dat                Baseplate 32 x 32 Road 9-Stud Landing Pad Type 3 (Orange)
+   changed to    Baseplate 32 x 32 Road 9-Stud Landing Pad Type 3 (Orange) Pattern
+   6099p07.dat                Baseplate 32 x 32 Road 9-Stud Landing Pad Type 2 (Yellow)
+   changed to    Baseplate 32 x 32 Road 9-Stud Landing Pad Type 2 (Yellow) Pattern
+   6100p01.dat                Baseplate 32 x 32 Road 9-Stud 3-Lane w/ Centre & Right Numbered
+   changed to    Baseplate 32 x 32 Road 9-Stud 3-Lane with Centre and Right Numbered Pattern
+   973p77.dat                 Minifig Torso with Modern Firefighter Pattern Type 1
+   changed to    Minifig Torso with Modern Firefighter Type 1 Pattern
+   973p78.dat                 Minifig Torso with Modern Firefighter Pattern Type 2
+   changed to    Minifig Torso with Modern Firefighter Type 2 Pattern
+   u9631.dat                  ~Train Track  9V Switch - Straight Internal Wire
+   changed to    ~Train Track  9V Switch/Crossing - Upper Straight Internal Wire
+
+Other Fixed Parts
+   clh9.dat                   Click Lock Hinge Single Finger for Plate Top with Groove
+   confric12.dat              Technic Friction Pin 1.0 with Rounded Base
+   4214.dat                   Hinge Car Roof Holder  1 x  4 x  2
+   168315b.dat                Sticker  1.8 x  0.8 Technic Supercar Gearbox 1&2 White
+   168315a.dat                Sticker  1.9 x  7.9 Technic Supercar 4x4x4 Logo
+   245.dat                    ~Train Wheel 4 Studs with Conical Rim
+   s\3068p68a.dat             ~Pattern MTron Logo
+   3705.dat                   Technic Axle  4
+   3629pw1.dat                Minifig Hat Cowboy with Cavalry Logo Pattern
+   3629.dat                   Minifig Hat Cowboy
+   3629pw2.dat                Minifig Hat Cowboy with Silver Star Pattern
+   3704.dat                   Technic Axle  2
+   24316.dat                  Technic Axle  3 with Stop
+   3706.dat                   Technic Axle  6
+   3707.dat                   Technic Axle  8
+   3737.dat                   Technic Axle 10
+   3708.dat                   Technic Axle 12
+   4519.dat                   Technic Axle  3
+   6587.dat                   Technic Axle  3 with Stud
+   15462.dat                  Technic Axle  5 with Stop
+   23948.dat                  Technic Axle 11
+   32062.dat                  Technic Axle  2 Notched
+   32073.dat                  Technic Axle  5
+   44294.dat                  Technic Axle  7
+   50450.dat                  Technic Axle 32
+   50451.dat                  Technic Axle 16
+   55013.dat                  Technic Axle  8 with Stop
+   59426.dat                  Technic Axle  5.5 with Stop Type 2
+   87083.dat                  Technic Axle  4 with Stop
+   60485.dat                  Technic Axle  9
+   99008.dat                  Technic Axle  4 with Middle Cylindrical Stop
+   60616bdx0.dat              Door  1 x  4 x  6 Smooth with Chamfered Handle Plinth with Boxing Ring Poster Sticker
+   2711.dat                   Technic Rotor  2 Blade with 2 Studs
+   3846d0a.dat                Minifig Shield Triangular with Dark Pink Jewel and Gold Border Sticker
+   3846d04.dat                Minifig Shield Triangular with Yellow Trefoils on Blue Sticker
+   51739.dat                  Wing  2 x  4
+   004608b.dat                =Sticker  1 x  1 Fire Emblem
+   004659b.dat                =Sticker Minifig Torso with Yellow Buttons and Grey Belt
+   004690a.dat                Sticker  2.6 x  6 with White/Red/Blue Stripes
+   004690ac01.dat             Sticker  2.6 x  6 with White/Red/Blue Stripes (Formed)
+   0901.dat                   Baseplate 16 x 30 with Set 080 Yellow House Studs
+   0902.dat                   Baseplate 16 x 24 with Set 080 Small White House Studs
+   0903.dat                   Baseplate 16 x 24 with Set 080 Red House Studs
+   0904.dat                   Baseplate 16 x 24 with Set 080 Large White House Studs
+   10238.dat                  =Tile  1 x  1 Round with Eye Pattern
+   104.dat                    Antenna  6H
+   10520.dat                  =Minifig Shield Round Bowed with DkGreen and Gold Rohan Pattern
+   10532.dat                  =Minifig Shield Round Bowed with Bullseye with Star Pattern
+   11015.dat                  =Electric Mindstorms EV3 Colour Sensor Opto Support with Red Edge
+   12884c01.dat               Bucket  1 x  1 x  1 Cylindrical with Raised Handle
+   12884c02.dat               Bucket  1 x  1 x  1 Cylindrical with Hanging Handle
+   129.dat                    ~Train Signal Semaphore Metal Bar
+   12939.dat                  Arch  1 x  6 x  2 with Very Thin Top
+   13731.dat                  =Slope Brick Curved  1 x  8 with Plate  1 x  2
+   14413.dat                  Brick  4 x  4 Facet
+   15254.dat                  Arch  1 x  6 x  2 with Thin Top
+   15547.dat                  =Car Engine  2 x  2 with Air Scoop
+   15555.dat                  =Technic Pin Joiner Round with Slot
+   15561.dat                  =Tile  1 x  2 Grille with Groove
+   15570.dat                  =Plate  1 x  1 Round
+   15587.dat                  =Dish  3 x  3 Inverted
+   15588.dat                  =Brick  4 x  4 Corner Round
+   15601.dat                  =Minifig Fire Helmet
+   15602.dat                  =Minifig Fire Helmet
+   15606.dat                  =Minifig Castle Helmet with Neck Protector
+   15926.dat                  =Technic Ball Joint with Axlehole Blind with Eye Pattern
+   160205c.dat                Sticker  1.9 x  3.5 with White/Clear Stripes
+   160605a.dat                =Sticker  3.5 x  3.5 with White/Clear Stripes
+   160605b.dat                =Sticker  1.6 x  3.5 with White/Clear Stripes
+   163555a.dat                =Sticker  4 x  3.6 with Black Aircraft and Five Coloured Stripes
+   16424.dat                  =Tile  2 x  2 Round with Round Underside Stud and Black Eye Pattern
+   16615.dat                  =Technic Beam  7
+   16616.dat                  =Technic Beam  3 x  7 Liftarm Bent 53.13
+   16646.dat                  =Technic Tooth  1 x  3 with Axlehole
+   168315c.dat                Sticker  1.8 x  0.8 Technic Supercar Gearbox 3&4 White
+   168315d.dat                Sticker  0.8 x  3.8 Technic Supercar V8 Logo
+   168315e.dat                Sticker  1.7 x  3.2 Technic Supercar Mirror
+   168315f.dat                Sticker  1.8 x  0.8 Technic Supercar Gearbox 1&2 Black
+   168315g.dat                Sticker  1.1 x  3.9 Technic Supercar Instrument Panel 1
+   17141.dat                  =Technic Beam  3
+   17964.dat                  =Dish  2 x  2 Inverted
+   183.dat                    ~Boat Section Middle 6 x 12 x 3.333 Deck
+   18384.dat                  =Technic Ball Joint with Axlehole Blind
+   186.dat                    ~Boat Section Middle  6 x  8 x  3.333 Deck
+   18860.dat                  =Brick  1 x  1 Round with Hollow Stud
+   18862.dat                  =Slope Brick 31  1 x  1 x  0.667
+   191936e.dat                Sticker  1.2 x  0.8 with Yellow and Black Diagonal Stripes
+   192425a.dat                Sticker  2.4 x  3 with Classic Space Logo
+   192425b.dat                Sticker  2.4 x  3 with Classic Space Logo (Mirrored)
+   193445b.dat                Sticker  1.2 x  4.5 with White "5590" in Black Panel on Red Background
+   193445bc01.dat             Sticker  1.2 x  4 with White "5590" in Black Panel on Red Background (Formed)
+   193445c.dat                Sticker  1.0 x  2.0 with White "5590" on Black Panel
+   193445d.dat                Sticker  1.1 x  3.0 with Black "MT 5590" on White Panel
+   194145a.dat                =Sticker  3.3 x  3.5 with Mail Logo
+   194215a.dat                Sticker  3.3 x  3.5 with Mail Logo
+   19729.dat                  Minifig Head Cuboid
+   19729p01.dat               Minifig Head Cuboid with Minecraft Pumpkin Pattern
+   19729p02.dat               Minifig Head Cuboid with Minecraft Steve Pattern
+   2131.dat                   Fabuland Refrigerator Cabinet
+   21709.dat                  ~Excavator Bucket  6 x  3 with Click Hinge 2-Finger (Obsolete)
+   22011.dat                  Electric Technic Capacitor with Clear Top
+   22579.dat                  ~Electric Technic Capacitor Circuit Board
+   22667.dat                  Minifig Food Cherry
+   23065.dat                  ~_Ball 52mm Diameter Dark Grey (Obsolete)
+   2332.dat                   ~Duplo Door Frame  2 x  4 x  3 with Raised Door Outline (Obsolete)
+   2335d01.dat                Flag  2 x  2 with "BANG!" Sticker on Both Sides
+   2335p40.dat                Flag  2 x  2 with Goblets and Grapes Pattern
+   2335ps2.dat                Flag  2 x  2 with SW Mini AT-ST Pattern
+   2340.dat                   Tail  4 x  1 x  3
+   2340p01.dat                Tail  4 x  1 x  3 with Maple Leaf Air Canada Logo Pattern
+   2340p90.dat                Tail  4 x  1 x  3 with Classic Space Logo Pattern
+   2343.dat                   Minifig Goblet
+   2345p01.dat                Panel Wall  3 x  3 x  6 Corner with Lines Pattern
+   2356.dat                   Brick  4 x  6
+   2358p03.dat                Baseplate 32 x 32 Road 7-Stud Straight w/ Runway Wide Pattern
+   2358p04.dat                Baseplate 32 x 32 Road 7-Stud Straight w/ Runway Narrow Pattern
+   2359p04.dat                Baseplate 32 x 32 Road 7-Stud Curve with Rocks and Ruts Pattern
+   2377.dat                   Window  1 x  2 x  2 Plane
+   2377p01.dat                Window  1 x  2 x  2 Plane with Thin Black "POLICE" Pattern
+   2401.dat                   Plate 10 x 10 without Corner
+   24014.dat                  Technic Gear 12 Tooth Double Bevel with Axle Extension
+   2408.dat                   Panel 10 x  6 x 11
+   2408p02.dat                Panel 10 x  6 x 11 with Blacktron I Logo Pattern
+   2409.dat                   Panel 10 x 10 x 12 Corner
+   2415.dat                   Plate  2 x  2 with 2 Wheel Clips Angled
+   2417.dat                   Plant Leaves  6 x  5
+   2419.dat                   Plate  3 x  6 without Corners
+   242.dat                    ~Wheel Spoked with Stud
+   2421.dat                   Propeller  3 Blade  4 Diameter
+   2422.dat                   Bracket  2 x  2 -  1 x  4
+   2428.dat                   Rack  1 x 20
+   242c01.dat                 Wheel Spoked with Stud (Complete)
+   2431pw0.dat                Tile  1 x  4 with "Keep Out" Sign Pattern
+   2434.dat                   Brick  2 x  4 x  2 with Studs on Sides
+   2441.dat                   Car Base  7 x  4 x  0.667
+   2448.dat                   Panel  3 x  2 x  5 & 2/3
+   24505.dat                  =Technic Gear 24 Tooth with Single Axle Hole
+   2453a.dat                  Brick  1 x  1 x  5 with Hollow Stud
+   2453b.dat                  Brick  1 x  1 x  5 with Solid Stud
+   245c01.dat                 Train Wheel 4 Studs with Conical Rim with Stub Axle
+   245c02.dat                 Train Wheel 4 Studs with Conical Rim with Stub Axle and Light Grey Tyre
+   2460.dat                   Tile  2 x  2 with Pin
+   2462.dat                   Brick  3 x  3 Facet
+   2485.dat                   ~Car Wheel Holder  2 x  2 with Suspension - Bottom
+   2495.dat                   Minifig Hand Truck
+   2495c01.dat                Minifig Hand Truck (Complete)
+   2498.dat                   Car Wash Brush
+   250.dat                    Duplo Brick  2 x  6 x  2 Double Concave
+   2501.dat                   ~Electric Light & Sound Prism  1 x  8 with 3 Front Lights
+   2507p01.dat                Windscreen 10 x  4 x  2.333 Canopy with Silver Frame Pattern
+   2513p04.dat                Car Mudguard  3 x  4 with Dual Headlights Pattern
+   2525.dat                   Flag  6 x  4
+   2525ps1.dat                Flag  6 x  4 with SW Jedi Starfighter Pattern
+   2539.dat                   Plate  6 x  6 Open Center without 4 Corners with 4 Clips
+   2541.dat                   Boat Rigging  5 x 27 Trapezoid
+   2554.dat                   Door  1 x  3 x  6 with 1/4 Circle Top
+   2555.dat                   Tile  1 x  1 with Clip
+   2569.dat                   Antenna  8H Whip
+   2586p30.dat                Minifig Shield Ovoid with Indigo Islanders Pattern
+   2605c01.dat                Brick  1 x  2 x  2.333 Shock Absorber (Complete)
+   2619.dat                   Monorail Motor Box
+   263.dat                    Train Steam Cylinder  2 x  2 x  1.667 Sloped
+   2651.dat                   Hinge Hook Arm
+   265a.dat                   ~Electric Lightbrick  2 x  2 Type 1  4.5V Case
+   265ac01.dat                Electric Lightbrick  2 x  2 Type 1  4.5V (Complete)
+   265b.dat                   ~Electric Lightbrick  2 x  2 Type 2  4.5V Case
+   265bc01.dat                Electric Lightbrick  2 x  2 Type 2  4.5V (Complete)
+   26604.dat                  Brick  1 x  1 with Studs on Two Adjacent Sides
+   266a.dat                   ~Electric Lightbrick  2 x  2 Type 1 12V Case
+   266ac01.dat                Electric Lightbrick  2 x  2 Type 1 12V (Complete)
+   266b.dat                   ~Electric Lightbrick  2 x  2 Type 2 12V Case
+   266bc01.dat                Electric Lightbrick  2 x  2 Type 2 12V with Clear Diffusor
+   266bc02.dat                Electric Lightbrick  2 x  2 Type 2 12V with Red Diffusor
+   2670.dat                   Monorail Track Straight  4 x  8
+   2671.dat                   Monorail Track Straight  4 x 32
+   2672.dat                   Monorail Track Curve Quarter
+   267a.dat                   ~Electric Lightbrick  2 x  2 Type 1 Insert
+   267b.dat                   ~Electric Lightbrick  2 x  2 Type 2 Insert with Diffusor
+   268.dat                    ~Glass for Door  1 x  3 x  4
+   269.dat                    ~Wheel Axle Metal with Notched End
+   2695.dat                   Wheel Rim 12.7 x 30 Stepped
+   2695c01.dat                Wheel Rim 12.7 x 30 Stepped with Tyre 12.7/ 51 x 30
+   2699.dat                   Technic Action Figure Body Connector
+   270.dat                    ~Train Base  6 x 12 Type 1
+   2701.dat                   Technic Action Figure Arm Bearing
+   2702.dat                   Technic Action Figure Hand
+   2703.dat                   Technic Action Figure Leg Upper Left
+   2705.dat                   Technic Action Figure Arm Bearing Pin
+   2709.dat                   Technic Action Figure Leg Upper Right
+   270c02.dat                 Train Base  6 x 12 Type 1 with Wheels and Magnets (Complete)
+   2710.dat                   Technic Action Figure Body Lower
+   2714a.dat                  Bar  8L with Stop Rings and Pin - Rounded End
+   2714b.dat                  Bar  8L with Stop Rings and Pin - Flat End
+   273.dat                    Technic Chain Link with Two Studs
+   2738.dat                   Technic Suspension Arm  2 x  6.5 Type 1
+   2739a.dat                  Technic Steering Link  6L Type 1
+   2757.dat                   Electric Plug Holder 12V
+   276.dat                    Wheelbarrow for  2 Wheels
+   276c01.dat                 Wheelbarrow with 2 Yellow Wheels and Red Axle (Complete)
+   277.dat                    Wheelbarrow Wheels with Red Axle
+   2774.dat                   ~Monorail Track Stop/Go Switch Track
+   2775c01.dat                Electric Plug (Type 4) Twin Extra-Wide (Complete)
+   2775c02.dat                Electric Plug (Type 4) Twin Extra-Wide with Cable End
+   2775c03.dat                Electric Cable Grey with Plugs (Type 4) Twin Extra-Wide/Normal
+   280.dat                    Train Base  6 x 22 Type 2 with Buffers
+   280c01.dat                 Train Base  6 x 22 Type 2 with Buffers and Magnets (Complete)
+   281.dat                    Window  1.25 x  4 x  3 with Rounded Top
+   2845.dat                   ~Technic Control Centre - Battery Cover
+   2855.dat                   Technic Turntable Type 1 Top
+   285c01.dat                 Train Base  6 x 16 Type 2 with Magnets (Complete)
+   28621.dat                  Minifig Head with Vented Stud
+   2878c01.dat                Train Wheel Bogie Single Axle with Wheelset with Open Centre Wheels
+   28809.dat                  =Plate  1 x  2 with Offset Peghole on Underside
+   2880a.dat                  ~Monorail Track Point Right - Top
+   2884.dat                   ~Monorail Points Inner Wheel
+   2885.dat                   ~Monorail Track Point Left - Top
+   2886.dat                   ~Monorail Track Point Left - Bottom
+   2890.dat                   ~Monorail Points Rack Shover
+   2893.dat                   ~Electric Train Motor  9V Bottom Cover
+   2895.dat                   ~Train Wheel  9V with Electrical Contact
+   28978.dat                  =Technic Link  4 x  6 Bent 53.13
+   2906.dat                   Technic Rotor  4 Blade  7 Diameter
+   2911.dat                   ~Monorail Track Points Interior Shover
+   29219.dat                  =Technic Pin Joiner Round with Slot
+   2994.dat                   Wheel 12 x 20 with Technic Axle Hole and 6 Pegholes
+   2999.dat                   Technic Large Wheel Hub
+   3.dat                      Container Drawer  4 x  4 x  2
+   30002.dat                  =Minifig Goblet
+   3001p03.dat                Brick  2 x  4 with Blue Stripe and 8 Black Windows Pattern
+   3001p04.dat                Brick  2 x  4 with Red Stripe and 8 Black Windows Pattern
+   30022.dat                  Tipper End Type 2
+   30030.dat                  Baseplate 32 x 32 Racing
+   30030p01.dat               Baseplate 32 x 32 with Racing Pattern
+   30033.dat                  Plate  2 x  2 with Rod Frame Octagonal
+   30039.dat                  =Tile  1 x  1 with Groove
+   3003pt2.dat                Brick  2 x  2 with LEGO Logo with Closed "O" Pattern
+   30048.dat                  Minifig Helmet Morion
+   3004p06.dat                Brick  1 x  2 with Black Grille Pattern
+   3004p0a.dat                Brick  1 x  2 with Arched Eyes and Forelock Pattern
+   3004p0b.dat                Brick  1 x  2 with Eyes and Smile Pattern
+   3004p0c.dat                Brick  1 x  2 with Santa Claus Face Pattern
+   3004p0e.dat                Brick  1 x  2 with Black Circle in White Pentagon with Black Outline Pattern
+   3004p51.dat                Brick  1 x  2 with Three-Spot Face Pattern
+   3004p90.dat                Brick  1 x  2 with Classic Space Logo Pattern
+   3004pt5.dat                Brick  1 x  2 with LEGO Logo with Closed "O" Pattern
+   3004pt6.dat                Brick  1 x  2 with LEGO Logo with Closed "O" Square Pattern
+   3005p04.dat                Brick  1 x  1 with Minecraft Micro Mob Creeper Face Pattern
+   3005p05.dat                Brick  1 x  1 with Minecraft Micro Mob Zombie Pigman Face Pattern
+   3005pt5.dat                Brick  1 x  1 with Blue "5" Pattern
+   3005pt6.dat                Brick  1 x  1 with Blue "6" Pattern
+   3005pt9.dat                Brick  1 x  1 with Blue "9" Pattern
+   3005pta.dat                Brick  1 x  1 with Blue "A" Pattern
+   3005ptc.dat                Brick  1 x  1 with Blue "C" Pattern
+   3005ptp.dat                Brick  1 x  1 with Blue "P" Pattern
+   3005ptt.dat                Brick  1 x  1 with Blue "T" Pattern
+   3005ptx.dat                Brick  1 x  1 with Blue "X" Pattern
+   3005pua.dat                Brick  1 x  1 with Blue "Æ" (AE Diphthong) Pattern
+   3005pue.dat                Brick  1 x  1 with Blue "Ö" (O Dieresis) Pattern
+   3005pv1.dat                Brick  1 x  1 with Blue Bold "1" Pattern
+   3005pv2.dat                Brick  1 x  1 with Blue Bold "2" Pattern
+   3005pv3.dat                Brick  1 x  1 with Blue Bold "3" Pattern
+   3005pv4.dat                Brick  1 x  1 with Blue Bold "4" Pattern
+   3005pv6.dat                Brick  1 x  1 with Blue Bold "6" Pattern
+   3005pv7.dat                Brick  1 x  1 with Blue Bold "7" Pattern
+   3005pv8.dat                Brick  1 x  1 with Blue Bold "8" Pattern
+   3005pv9.dat                Brick  1 x  1 with Blue Bold "9" Pattern
+   3005pva.dat                Brick  1 x  1 with Lightblue "A" Pattern
+   3005pvd.dat                Brick  1 x  1 with Lightblue "D" Pattern
+   3005pve.dat                Brick  1 x  1 with Lightblue "E" Pattern
+   3005pvf.dat                Brick  1 x  1 with Lightblue "F" Pattern
+   3005pvh.dat                Brick  1 x  1 with Lightblue "H" Pattern
+   3005pvi.dat                Brick  1 x  1 with Lightblue "I" Pattern
+   3005pvl.dat                Brick  1 x  1 with Lightblue "L" Pattern
+   3005pvn.dat                Brick  1 x  1 with Lightblue "N" Pattern
+   3005pvo.dat                Brick  1 x  1 with Lightblue "O" Pattern
+   3005pvp.dat                Brick  1 x  1 with Lightblue "P" Pattern
+   3005pvr.dat                Brick  1 x  1 with Lightblue "R" Pattern
+   3005pvt.dat                Brick  1 x  1 with Lightblue "T" Pattern
+   3005pvu.dat                Brick  1 x  1 with Lightblue "U" Pattern
+   3005pvv.dat                Brick  1 x  1 with Lightblue "V" Pattern
+   3005pwc.dat                Brick  1 x  1 with Lightblue "Å" (A Ring) Pattern
+   3005pwd.dat                Brick  1 x  1 with Lightblue "Ä" (A Dieresis) Pattern
+   3005pwe.dat                Brick  1 x  1 with Lightblue "Ö" (O Dieresis) Pattern
+   3005pwf.dat                Brick  1 x  1 with Lightblue "Ü" (U Dieresis) Pattern
+   3005pwg.dat                Brick  1 x  1 with Lightblue Equality Pattern
+   3005pwk.dat                Brick  1 x  1 with Lightblue Colon Pattern
+   3005pwl.dat                Brick  1 x  1 with Lightblue Plus Pattern
+   3005pwm.dat                Brick  1 x  1 with Lightblue Subtraction Pattern
+   30060.dat                  =Container Box  2 x  2 x  2 with Hollow Studs
+   30062.dat                  Plate  6 x  6 Octagonal Open Center
+   30072.dat                  Brick 12 x 24
+   30073.dat                  Door  1 x  6 x  8 Left with Window
+   30083.dat                  Windscreen  6 x  6 x  3 Dome with Hinge
+   3008p04.dat                Brick  1 x  8 with "INT-EUROPE" Pattern
+   3008p09.dat                Brick  1 x  8 with Violet Thin "RESTAURANT" Pattern
+   3008p0d.dat                Brick  1 x  8 with Blue "HOTEL" Pattern
+   3008p0n.dat                Brick  1 x  8 with Red Thin "KIOSK" Pattern
+   3008p22.dat                Brick  1 x  8 with 16 Black Squares Pattern
+   30097.dat                  =Panel 10 x  6 x 11
+   3009p04.dat                Brick  1 x  6 with Blue "HOTEL" Pattern
+   3009p05.dat                Brick  1 x  6 with Black "BAHNHOF" Sans-Serif Pattern
+   3009pt0.dat                Brick  1 x  6 with Blue "KLM" Pattern
+   3009pt2.dat                Brick  1 x  6 with Black Philips Pattern
+   3009ptg.dat                Brick  1 x  6 with Black Thick "TAXI" Pattern
+   3009pth.dat                Brick  1 x  6 with Black Thick "TAXA" Pattern
+   3009pti.dat                Brick  1 x  6 with Black Thick "TAXE" Pattern
+   3009ptj.dat                Brick  1 x  6 with Black Thin "TAXI" Pattern
+   3010.dat                   Brick  1 x  4
+   3010p11.dat                Brick  1 x  4 with Black "TAXI" Pattern
+   3010p41.dat                Brick  1 x  4 with Homemaker Stove Switch Pattern
+   3010p72.dat                Brick  1 x  4 with Stripes and Wrench Pattern
+   3010p918.dat               Brick  1 x  4 with "LL918" Pattern
+   3010p924.dat               Brick  1 x  4 with "LL924" Pattern
+   3010p928.dat               Brick  1 x  4 with "LL928" Pattern
+   30130.dat                  =Animal Dragon Wing
+   30134.dat                  Staircase  7 x  4 x  6 Open
+   30136.dat                  Brick  1 x  2 Log
+   30167.dat                  Minifig Hat Wide Brim Flat
+   30174.dat                  Minifig Armour Samurai
+   30175.dat                  Minifig Helmet Samurai
+   30175c01.dat               Minifig Helmet Samurai with Horn (Complete)
+   30178c01.dat               Door  1 x  4 x  6 with 3 Panes with TransClear Glass
+   30178c04.dat               Door  1 x  4 x  6 with  3 Panes with TransLightBlue Glass
+   30178c05.dat               Door  1 x  4 x  6 with  3 Panes with TransDarkBlue Glass
+   30183.dat                  Slope Brick 45  6 x  4 Double Inverted
+   30187.dat                  ~Bike  3 Wheel Motorcycle Body Upper
+   30187c01.dat               Bike  3 Wheel Motorcycle with Light_Grey Motor and White Wheels
+   30187c03.dat               Bike  3 Wheel Motorcycle with Rider (Complete)
+   30187c04.dat               Bike  3 Wheel Motorcycle Body with Dark Grey Motor (Complete)
+   30187c05.dat               Bike  3 Wheel Motorcycle Body with Dark Stone Motor (Complete)
+   30187c06.dat               Bike  3 Wheel Motorcycle Body with Reddish Brown Motor (Complete)
+   30188.dat                  ~Bike 3 Wheel Motorcycle Body Lower
+   30189.dat                  Bike 3 Wheel Motorcycle Forks
+   30189c01.dat               ~Bike  3 Wheel Motorcycle Forks with White Wheel (Complete)
+   30190c01.dat               Wheel Centre Wide with Stub Axles with Tyre 12/ 40 x 11 Wide
+   30209.dat                  Bracket  1 x  2 - Dish  4 x  4
+   30245.dat                  ~Glass for Door  1 x  4 x  6 with 3 Panes
+   30251.dat                  Windscreen  4 x  5 x  3
+   30256.dat                  Tile  2 x  2 Roadsign Base
+   30258p02.dat               Roadsign Clip-on  2 x  2 Square with Black Turn Arrow Pattern
+   30258p03.dat               Roadsign Clip-on  2 x  2 Square with Pedestrian Crossing Pattern
+   30258p04.dat               Roadsign Clip-on  2 x  2 Square with Speed Limit "30" Pattern
+   30271.dat                  Baseplate 32 x 48 Raised with Corner Pits
+   30273.dat                  Minifig Helmet with Chinstrap and Wide Brim
+   30275.dat                  Plate  1 x  8 with Hole and Bucket
+   30283.dat                  Slope Brick 45  6 x  4 Double Inverted with Open Centre
+   30288.dat                  Panel  3 x  6 x  6 with Window
+   30293.dat                  =Rock  4 x  4 x  1.333 Top
+   30294.dat                  =Rock  4 x  4 x  1.667 Bottom
+   30295.dat                  Car Base 12 x 18 x  1.333
+   30296.dat                  Arch  2 x 14 x  2.333
+   30296p01.dat               Arch  2 x 14 x  2.333 with Danger Stripes Pattern
+   303.dat                    Train Base  6 x 22 Type 1
+   30321.dat                  Glass for Panel  3 x  6 x  6 with Window
+   30322.dat                  Antenna  8H with Flag
+   30344.dat                  =Door  2 x  8 x  6 Revolving
+   3035.dat                   Plate  4 x  8
+   3036.dat                   Plate  6 x  8
+   30363ps2.dat               Slope Brick 18  4 x  2 with Imperial Shuttle Cockpit Pattern
+   30364.dat                  Hinge Brick  1 x  2 Locking with Single Finger On End
+   30365.dat                  Hinge Brick  1 x  2 Locking with Dual Finger On End
+   30368.dat                  Minifig Helmet Darth Vader
+   30372.dat                  Windscreen  4 x  7 x  1 & 2/3
+   30372ps1.dat               Windscreen  4 x  7 x  1.667 with SW Red Triangle Pattern
+   30372ps2.dat               Windscreen  4 x  7 x  1.667 with SW Snowspeeder Pattern
+   30373.dat                  Slope Brick 65  6 x  6 x  2 Inverted Quadruple
+   30374.dat                  Bar  4L Lightsaber Blade
+   3037ps0.dat                Slope Brick 45  2 x  4 with Red and Gold Triangles Left Pattern
+   3037ps1.dat                Slope Brick 45  2 x  4 with Red and Gold Triangles Right Pattern
+   30383.dat                  Hinge Plate  1 x  2 Locking with Single Finger On Top
+   30386.dat                  Hinge Brick  1 x  2 Locking Double, Two Finger End with  9 Teeth
+   30387.dat                  Hinge Brick  1 x  4 Locking Double, Two Finger End with 9 Teeth
+   30387p02.dat               Hinge Brick  1 x  4 Locking Double, Two Finger End with 9 Teeth with Red Stripes Pattern
+   30387p03.dat               Hinge Brick  1 x  4 Locking Double, Two Finger End with 9 Teeth with Red Stripes Type 2 Pattern
+   30388.dat                  Hinge Brick  1 x  6 Locking Double
+   30389a.dat                 Hinge Brick  2 x  2 Locking with Single Finger On Side
+   30389b.dat                 Hinge Brick  2 x  2 Locking with Axlehole and Single Finger
+   30390.dat                  Slope Brick 45  4 x  2 Double Inverted with Pins
+   30399.dat                  Support  8 x 18 x  3 Stanchion Base
+   303c01.dat                 Train Base  6 x 22 Type 1 with Magnets (Complete)
+   304.dat                    ~Train Signal Semaphore Base  4 x  9
+   3040p04.dat                Slope Brick 45  2 x  1 with 5 White Red Green Controls Pattern
+   3046.dat                   Slope Brick 45  2 x  2 Double Concave
+   30472.dat                  ~Brick  1 x  2 with One Stud and Square Hole
+   30473.dat                  Baseplate 32 x 32 Canyon without Island
+   3049a.dat                  Slope Brick 45  1 x  2 Double / Inverted with Centre Tube
+   3049c.dat                  Slope Brick 45  1 x  2 Double / Inverted without Centre Stud
+   3049d.dat                  Slope Brick 45  1 x  2 Double / Inverted with Bottom Stud Holder
+   304c01.dat                 Train Signal Semaphore 4.5V (Complete) Stop Position Red/White
+   304c02.dat                 Train Signal Semaphore 4.5V (Complete) Proceed Pos. Red/White
+   304c03.dat                 Train Track  4.5V Straight Tapered with Signal Red/White (Stop)
+   304c04.dat                 Train Track  4.5V Straight Tapered w/ Signal Red/White (Proceed)
+   304c05.dat                 Train Signal Semaphore  4.5V (Complete) Stop Position Blue/Red
+   304c06.dat                 Train Signal Semaphore  4.5V (Complete) Proceed Pos. Blue/Red
+   304c07.dat                 Train Track  4.5V Straight Tapered with Signal Blue/Red (Stop)
+   304c08.dat                 Train Track  4.5V Straight Tapered w/ Signal Blue/Red (Proceed)
+   30527k02.dat               ~Hose Flexible 12L Segment
+   30536.dat                  Windscreen  8 x  4 x  2 with Hinge Locking
+   30540.dat                  Hinge Brick  1 x  2 Locking with Dual Finger on End Horizontal
+   30553.dat                  Hinge Arm Locking with Dual Finger and Axlehole
+   30554a.dat                 Hinge Arm Locking with Single and Dual Fingers without Hole
+   30554b.dat                 Hinge Arm Locking with Single and Dual Fingers and Hole
+   3058a.dat                  Plate  6 x 16 with Motor Cutout Type 1
+   3058b.dat                  Plate  6 x 16 with Motor Cutout Type 2
+   30640.dat                  Car Steering Wheel Holder  2 x  2
+   30640c01.dat               Car Steering Wheel Holder  2 x  2 (Complete)
+   30645.dat                  Brick 12 x 12 with Support Pins
+   3067ap02.dat               Brick  1 x  6 without Centre Studs with Black Thin "HOTEL" Pattern
+   3067ap03.dat               Brick  1 x  6 without Centre Studs with Blue Thin "HOTEL" Pattern
+   3067ap04.dat               Brick  1 x  6 without Centre Studs with Black Thin "TAXI" Pattern
+   3067ap05.dat               Brick  1 x  6 without Centre Studs with Red Thin "KIOSK" Pattern
+   3067ap06.dat               Brick  1 x  6 without Centre Studs with Blue Thin "CAFE" Pattern
+   3067ap07.dat               Brick  1 x  6 without Centre Studs with Black "BAHNHOF" Sans-Serif Pattern
+   3067apt3.dat               Brick  1 x  6 without Centre Studs with Black "STORE" Pattern
+   3067aptg.dat               Brick  1 x  6 without Centre Studs with Black Thick "TAXI" Pattern
+   3067apth.dat               Brick  1 x  6 without Centre Studs with Black Thick "TAXA" Pattern
+   3067apti.dat               Brick  1 x  6 without Centre Studs with Black Thick "TAXE" Pattern
+   3067p01.dat                ~Brick  1 x  6 w/o Centre Studs w/ Thin "HOTEL" Patt. (Obsolete)
+   3068ap17.dat               Tile  2 x  2 without Groove with Black Circle Pattern
+   3068bdx0.dat               Tile  2 x  2 with Bright Light Orange Flower Patterns on Dark Blue Background Sticker
+   3068bp0b.dat               Tile  2 x  2 with Red and Blue Windsurfer Pattern
+   3068bp31.dat               Tile  2 x  2 with Map, Handwriting, River, and Red X Pattern
+   3068bp54.dat               Tile  2 x  2 with UFO Pattern
+   3068bp61.dat               Tile  2 x  2 with Ice Planet Logo Pattern
+   3068bp67.dat               Tile  2 x  2 with Red Quarter Rings Pattern
+   3068bp68.dat               Tile  2 x  2 with MTron Logo Pattern
+   3068bp70.dat               Tile  2 x  2 with Gauges Pattern
+   3068bp71.dat               Tile  2 x  2 with Ship Portrait Pattern
+   3068bp80.dat               Tile  2 x  2 with '0:19' Display and 28-Key 'QERYUIOP' Keyboard Pattern
+   3068bpfm.dat               Tile  2 x  2 with Purple Quarter Ring on White Pattern
+   3069a.dat                  Tile  1 x  2 without Groove
+   3069bp01.dat               Tile  1 x  2 with Letter Pattern
+   3069bp0a.dat               Tile  1 x  2 with Partial White Stripes Pattern
+   3069bp0l.dat               Tile  1 x  2 with Letter and Detailed Stamp Pattern
+   3069bp80.dat               Tile  1 x  2 with 28-Key 'QERYUIOP' Keyboard Pattern
+   3069bph1.dat               Tile  1 x  2 with Chocolate Bar Pattern
+   3069bps3.dat               Tile  1 x  2 with SW Mini Jedi Starfighter Pattern
+   3069bps8.dat               Tile  1 x  2 with Three White Triangles Pattern
+   3069bpw1.dat               Tile  1 x  2 with Playing Cards Pattern
+   3070a.dat                  Tile  1 x  1 without Groove
+   3070b.dat                  Tile  1 x  1 with Groove
+   3070bp1k.dat               Tile  1 x  1 with TV Logo on Blue Background Pattern
+   3070bpf0.dat               Tile  1 x  1 with Red/Blue Flower Pattern
+   3070bpta.dat               Tile  1 x  1 with Silver "A" Pattern
+   3070bptb.dat               Tile  1 x  1 with Silver "B" Pattern
+   3070bptc.dat               Tile  1 x  1 with Silver "C" Pattern
+   3070bptd.dat               Tile  1 x  1 with Silver "D" Pattern
+   3070bpte.dat               Tile  1 x  1 with Silver "E" Pattern
+   3070bptf.dat               Tile  1 x  1 with Silver "F" Pattern
+   3070bptg.dat               Tile  1 x  1 with Silver "G" Pattern
+   3070bpth.dat               Tile  1 x  1 with Silver "H" Pattern
+   3070bpti.dat               Tile  1 x  1 with Silver "I" Pattern
+   3070bptj.dat               Tile  1 x  1 with Silver "J" Pattern
+   3070bptk.dat               Tile  1 x  1 with Silver "K" Pattern
+   3070bptl.dat               Tile  1 x  1 with Silver "L" Pattern
+   3070bptm.dat               Tile  1 x  1 with Silver "M" Pattern
+   3070bptn.dat               Tile  1 x  1 with Silver "N" Pattern
+   3070bpto.dat               Tile  1 x  1 with Silver "O" Pattern
+   3070bptp.dat               Tile  1 x  1 with Silver "P" Pattern
+   3070bptq.dat               Tile  1 x  1 with Silver "Q" Pattern
+   3070bptr.dat               Tile  1 x  1 with Silver "R" Pattern
+   3070bpts.dat               Tile  1 x  1 with Silver "S" Pattern
+   3070bptt.dat               Tile  1 x  1 with Silver "T" Pattern
+   3070bptu.dat               Tile  1 x  1 with Silver "U" Pattern
+   3070bptv.dat               Tile  1 x  1 with Silver "V" Pattern
+   3070bptw.dat               Tile  1 x  1 with Silver "W" Pattern
+   3070bptx.dat               Tile  1 x  1 with Silver "X" Pattern
+   3070bpty.dat               Tile  1 x  1 with Silver "Y" Pattern
+   3070bptz.dat               Tile  1 x  1 with Silver "Z" Pattern
+   3070bpua.dat               Tile  1 x  1 with Silver "Æ" Pattern
+   3070bpub.dat               Tile  1 x  1 with Silver "Ø" Pattern
+   3070bpuc.dat               Tile  1 x  1 with Silver "Å" Pattern
+   3070bpud.dat               Tile  1 x  1 with Silver "Ö" Pattern
+   3070bpue.dat               Tile  1 x  1 with Silver "Ü" Pattern
+   308.dat                    ~Train Signal Semaphore Blade
+   309p02.dat                 Baseplate 32 x 32 Road 7-Stud Refuge with River Pattern
+   31000.dat                  Duplo Primo Brick  1 x  1
+   31000p01.dat               Duplo Primo Brick  1 x  1 with 2 Lego Logos Closed "O" Pattern
+   31000p1m.dat               Duplo Primo Brick  1 x  1 with Multicoloured Dots Pattern
+   31000p1r.dat               Duplo Primo Brick  1 x  1 with 3 Red Dots Pattern
+   31000p1w.dat               Duplo Primo Brick  1 x  1 with 3 White Dots Pattern
+   31000p1y.dat               Duplo Primo Brick  1 x  1 with 3 Yellow Dots Pattern
+   31001.dat                  Duplo Primo Brick  1 x  2
+   31002.dat                  Duplo Primo Brick  1 x  3
+   31007.dat                  Duplo Primo Brick  1 x  1 with 4 Duplo Studs
+   31012.dat                  Duplo Primo Plate  3 x  3
+   3109.dat                   ~Brick  2 x  4 with 4 Axle Bushes Case
+   3111.dat                   ~Axle Bush 1.4L
+   3112.dat                   ~Axle Bush 1.6L
+   31148.dat                  Duplo Primo Brick  2 x  2
+   31149.dat                  Duplo Primo Brick  2 x  3
+   3127a.dat                  Plate  1 x  2 with Crane Hook Left
+   3127b.dat                  Plate  1 x  2 with Crane Hook Right
+   3144.dat                   Antenna  5H with Side Spokes
+   316.dat                    ~Train Signal Semaphore Lever
+   317.dat                    ~Train Signal Semaphore Pole Half
+   3176.dat                   Plate  3 x  2 with Hole
+   318.dat                    ~Train Signal Sempahore Actuator Plate
+   3194p01.dat                Door  1 x  5 x  4 Right with Red, White and Blue Stripes Pattern
+   3195p01.dat                Door  1 x  5 x  4 Left with Red, White and Blue Stripes Pattern
+   32005.dat                  Technic Steering Link  6L Type 2
+   32006.dat                  =Technic Beam  4 x  0.5 Liftarm with Boss
+   32032.dat                  ~Technic Pneumatic Airtank End
+   32053.dat                  ~Technic Gear 24 Tooth Clutch Center
+   32054.dat                  Technic Pin Long with Stop Bush
+   32059.dat                  Plate  4 x  6 without Corners
+   32083.dat                  Slope Brick 45  6 x  4 Double
+   32170.dat                  Technic Gear Rack Double with Ball Joint
+   32171.dat                  =Technic Disc  5 x  5 Projectile
+   32193.dat                  Wheel 14 x 21 Solid Rubber with Axlehole
+   32195a.dat                 Technic Suspension Arm  2 x  6.5 Type 2
+   32195b.dat                 Technic Suspension Arm  2 x  6.5 Type 3
+   322.dat                    ~Electric Lightbrick  2 x  4
+   32212.dat                  Znap Connector  1 x  3 -  2 Way Axial
+   32221.dat                  Znap Connector  3 x  3 -  4 Way Axial
+   32227.dat                  Znap Connector  3 x  3 -  4 Way Rotating Section
+   32228.dat                  Znap Connector  3 x  3 - 4 Way Core Section
+   32239.dat                  =Technic Gearbox  2 x  4 x  3.333
+   32247.dat                  Wheel 41mm Znap
+   32270.dat                  Technic Gear 12 Tooth Double Bevel
+   32278.dat                  Technic Beam 15
+   3228a.dat                  Train Track Rail Straight Tapered
+   3228ac01.dat               Train Track  4.5V Tapered Straight (Complete)
+   3228ac02.dat               Train Track  4.5V Tapered Straight (Complete w/o End Sleepers)
+   3228b.dat                  Train Track Rail Slotted Straight
+   3228bc01.dat               Train Track  4.5V Slotted Straight (Complete)
+   3228bc02.dat               Train Track  4.5V Slotted Straight (Complete w/o End Sleepers)
+   32293.dat                  Technic Steering Link 9L
+   3229ac01.dat               Train Track  4.5V Curved Tapered (Complete 1 Segment)
+   3229bc01.dat               Train Track  4.5V Curved Slotted (Complete 1 Segment)
+   3229bc04.dat               Train Track  4.5V Curved Slotted (Complete 4 Segments)
+   322c01.dat                 Electric Lightbrick  2 x  4 with Lightbulb Holder (Complete)
+   322c02.dat                 Electric Lightbrick  2 x  4 with Lightbulb (Complete)
+   323.dat                    Electric Light Bulb for Electric Light Brick  2 x  4
+   3240a.dat                  Train Track 12V Straight Insert Type 2
+   3240b.dat                  Train Track 12V Straight Insert Type 3
+   3240c.dat                  Train Track 12V Straight Insert with Decoupler Underside Cutout
+   3241a.dat                  Train Track 12V Curved Insert Type 2 with Plug Sockets
+   3241ac01.dat               Train Track 12V Slotted Curved (Complete 1 Segment)
+   3241ac04.dat               Train Track 12V Slotted Curved (Complete 4 Segments)
+   3241b.dat                  Train Track 12V Curved Insert Type 2 without Plug Sockets
+   3245ap02.dat               Brick  1 x  2 x  2 w/ Center Stud w/ Train Point Left Pattern
+   32494.dat                  Technic Wheel Spindle Axle Driver
+   32495.dat                  Technic Wheel Spindle Steering Arm
+   32496.dat                  Technic Wheel Spindle
+   32498.dat                  Technic Gear 36 Tooth Double Bevel
+   32524.dat                  Technic Beam  7
+   32525.dat                  Technic Beam 11
+   32530.dat                  Technic Tile  1 x  2 with Two Holes
+   32555.dat                  Technic Brick  5 x  5 Corner with Holes
+   3297p01.dat                Slope Brick 33  3 x  4 with Red Stripes Pattern
+   3297p02.dat                Slope Brick 33  3 x  4 with Yellow Triangles Pattern
+   3297p05.dat                Slope Brick 33  3 x  4 with Yellow Stripes Pattern
+   3297p06.dat                Slope Brick 33  3 x  4 with Green Stripes Pattern
+   3297p10.dat                Slope Brick 33  3 x  4 with Black "POLICE" and Red Line Pattern
+   3297p11.dat                Slope Brick 33  3 x  4 with White "POLICE" and Red Line Pattern
+   3297p90.dat                Slope Brick 33  3 x  4 with Classic Space Pattern
+   3298p72.dat                Slope Brick 33  3 x  2 with Red "2" over Two Green Stripes Pattern
+   3298p76.dat                Slope Brick 33  3 x  2 with Red "6" Pattern
+   32a.dat                    ~Door  1 x  2 x  3 Left with Solid Stud with Hole
+   32ac01.dat                 Door  1 x  2 x  3 Left with Solid Stud with Hole (Complete)
+   32b.dat                    ~Door  1 x  2 x  3 Left with Open Stud with Hole
+   32bc01.dat                 Door  1 x  2 x  3 Left with Open Stud with Hole (Complete)
+   32c.dat                    ~Door  1 x  2 x  3 Left
+   32cc01.dat                 Door  1 x  2 x  3 Left with Open Stud without Hole (Complete)
+   33009-f2.dat               Minifig Book (Open)
+   3307.dat                   Arch  1 x  6 x  2 with Thick Top and Reinforced Underside
+   33243.dat                  Brick  1 x  3 x  2 Curved Top
+   3326b.dat                  Technic Universal Joint Centre Type 2
+   3349.dat                   Roadsign Rectangular Tall
+   3349p01.dat                Roadsign Rectangular Tall with Parking and "300m" Pattern
+   3349p02.dat                Roadsign Rectangular Tall with Sans-Serif "P" Parking Pattern
+   3350.dat                   Roadsign Round
+   3351a.dat                  Roadsign Triangular Type 1
+   3351b.dat                  Roadsign Triangular Type 2
+   33847.dat                  =Slope Brick 31  1 x  1 x  0.667
+   33a.dat                    ~Door  1 x  2 x  3 Right with Solid Stud with Hole
+   33ac01.dat                 Door  1 x  2 x  3 Right with Solid Stud with Hole (Complete)
+   33b.dat                    ~Door  1 x  2 x  3 Right with Open Stud with Hole
+   33bc01.dat                 Door  1 x  2 x  3 Right with Open Stud with Hole (Complete)
+   33c.dat                    ~Door  1 x  2 x  3 Right
+   33cc01.dat                 Door  1 x  2 x  3 Right with Open Stud without Hole (Complete)
+   342.dat                    ~Technic Flex-System Cable End
+   342c01.dat                 Technic Flex-System Cable 96LDu Long (open file for usage guide)
+   343.dat                    ~Technic Flex-System Cable Segment
+   3461.dat                   Propeller  4 Blade  5 Diameter with Rotor Holder
+   3480.dat                   Propeller  2 Blade  4 Diameter Helicopter Tail
+   3481.dat                   Plate  2 x  2 with Helicopter Tail Rotor Holder
+   3492.dat                   ~Crane Grab Top
+   3492c01.dat                Crane Grab Jaws (Complete)
+   3492c02.dat                Crane Grab Jaws Open (Shortcut)
+   3493.dat                   ~Crane Grab Jaw
+   3496c01.dat                Tap  1 x  2 with Light Grey Spout
+   3496c02.dat                Tap  1 x  2 with Chrome Spout
+   35.dat                     Wheel  8 x 35 with 12 Spokes (Complete)
+   35327.dat                  =Dish  6 x  6 Inverted With Solid Studs
+   35338.dat                  =Slope Brick 31  1 x  1 x  0.667
+   35343.dat                  =Slope Brick 50  1 x  1 x  0.667 Quadruple
+   3570.dat                   Roadsign Octagonal
+   3596cw1.dat                Flag on Flagpole with Cavalry Logo Sticker (Shortcut)
+   3596d03.dat                Flag on Flagpole Type 5 with United States Flag Sticker
+   3596d04.dat                Flag on Flagpole Type 5 with Germany Flag Sticker
+   3596d05.dat                Flag on Flagpole Type 5 with The Netherlands Flag Sticker
+   3596d06.dat                Flag on Flagpole Type 5 with United Kingdom Flag Sticker
+   3596d07.dat                Flag on Flagpole Type 5 with Austria Flag Sticker
+   3596d08.dat                Flag on Flagpole Type 5 with Switzerland Flag Sticker
+   3596d09.dat                Flag on Flagpole Type 5 with Italy Flag Sticker
+   3596d11.dat                Flag on Flagpole Type 5 with Finland Flag Sticker
+   3596d12.dat                Flag on Flagpole Type 5 with Denmark Flag Sticker
+   3596d13.dat                Flag on Flagpole Type 5 with Sweden Flag Sticker
+   3596d14.dat                Flag on Flagpole Type 5 with Iceland Flag Sticker
+   3596d15.dat                Flag on Flagpole Type 5 with France Flag Sticker
+   3596d16.dat                Flag on Flagpole Type 5 with Japan Flag Sticker
+   3596d17.dat                Flag on Flagpole Type 5 with Belgium Flag Sticker
+   3596d18.dat                Flag on Flagpole Type 5 with Ireland Flag Sticker
+   3596d19.dat                Flag on Flagpole Type 5 with Canada Flag Sticker
+   3596d20.dat                Flag on Flagpole Type 5 with Australia Flag Sticker
+   3596d21.dat                Flag on Flagpole Type 5 with Lego Logo with Closed "O" Sticker
+   3596d22.dat                Flag on Flagpole Type 5 with Portugal Flag Sticker
+   3596d23.dat                Flag on Flagpole with Classic Space Logo Stickers (Complete)
+   3596d25.dat                Flag on Flagpole Type 5 with Tri-Coloured Shield Sticker
+   3596p02.dat                Flag on Flagpole Type 5 with LEGO Logo Closed "O" Pattern
+   3596p03.dat                Flag on Flagpole Type 5 with LEGO Logo Closed "O" Square Pattern
+   3596p04.dat                Flag on Flagpole Type 5 with Tri-Coloured Shield Pattern
+   35b.dat                    ~Wheel Axle Metal
+   3622p02.dat                Brick  1 x  3 with Control Panel Pattern
+   3626bp84.dat               Minifig Head with Smile, Black Eyebrows and White Pupils Pattern (Blocked Hollow Stud)
+   3626bp85.dat               Minifig Head with Smile, Brown Eyebrows and White Pupils Pattern (Blocked Hollow Stud)
+   3626cp7g.dat               Minifig Head with Smile, Black Eyebrows and White Pupils Pattern (Hollow Stud)
+   3626cp7h.dat               Minifig Head with Smile, Brown Eyebrows and White Pupils Pattern (Hollow Stud)
+   3647.dat                   Technic Gear  8 Tooth
+   3648b.dat                  Technic Gear 24 Tooth with Single Axle Hole
+   3649.dat                   Technic Gear 40 Tooth
+   3652.dat                   Technic Piston  2 x  2 Block
+   371026.dat                 ~_Plate  1 x  4 Black (Obsolete)
+   3712c01.dat                Technic Universal Joint 4L with Bush Ends with Centre Type 2 (Complete)
+   3730.dat                   Plate  2 x  2 with Towball Socket
+   3750.dat                   ~Winch  2 x  4 x  2 Base
+   3751.dat                   ~Winch  2 x  4 x  2 Top
+   3752.dat                   ~Winch  2 x  4 x  2 Drum
+   3754.dat                   Brick  1 x  6 x  5
+   3754p01.dat                Brick  1 x  6 x  5 with Satellite Repair Pattern
+   3754p02.dat                Brick  1 x  6 x  5 with Rocket Launch Pattern
+   3778.dat                   Plant Tree Columnar  4 x  4 x 11.5
+   3795.dat                   Plate  2 x  6
+   3811.dat                   Baseplate 32 x 32
+   3811p02.dat                Baseplate 32 x 32 with Island and Water Pattern
+   3811p03.dat                Baseplate 32 x 32 with Beach Pattern
+   3811p05.dat                Baseplate 32 x 32 with Island Pattern
+   3815.dat                   ~Minifig Hips (Obsolete)
+   3815bp40.dat               Minifig Hips with Blue Wizard Buckle Pattern
+   3815bp4f.dat               Minifig Hips with Leather Belt and Red Diamonds Pattern
+   3815bp6u.dat               Minifig Hips with Gold Belt and Orange Cable Pattern
+   3815bp6v.dat               Minifig Hips with Silver Belt and Salmon Cable Pattern
+   3815bpaw.dat               Minifig Hips with Dark Bluish Grey Belt with Silver Buckle and Rivets Pattern
+   3815bpde.dat               Minifig Hips with Laboratory Smock Pattern
+   3815bpu1.dat               Minifig Hips with Medium Azure and Magenta Stripes Pattern
+   3815c63.dat                ~Minifig Hips and Legs with Robot Pattern (Obsolete)
+   3815c6g.dat                ~Minifig Hips and Legs with White and Gold Markings Pattern (Obsolete)
+   3815c8i.dat                ~Minifig Hips and Legs with Belt and Reflective Stripes, 'EMMET' Badge and Silver Triangles on Feet Pattern (Obsolete)
+   3815ca3.dat                ~Minifig Hips and Legs with Buttoned Pockets Pattern (Obsolete)
+   3815cde.dat                ~Minifig Hips and Legs with Laboratory Smock Pattern (Obsolete)
+   3815cs5.dat                ~Minifig Hips and Legs with SW Gunbelt Pattern (Obsolete)
+   3815p4f.dat                ~Minifig Hips with Leather Belt (Red Studs) Pattern (Obsolete)
+   3815p63.dat                ~Minifig Hips with Robot Pattern (Obsolete)
+   3815p6u.dat                ~Minifig Hips with Gold Belt and Orange Cable Pattern (Obsolete)
+   3815p6v.dat                ~Minifig Hips with Silver Belt and Salmon Cable Pattern (Obsolete)
+   3815p6w.dat                ~Minifig Hips with Silver Belt Pattern (Obsolete)
+   3815paw.dat                ~Minifig Hips with Dark Grey Belt with Silver Buckle and Rivets Pattern (Obsolete)
+   3815pde.dat                ~Minifig Hips with Laboratory Smock Pattern (Obsolete)
+   3815phb.dat                ~Minifig Hips with Purple Greatcoat Pattern (Obsolete)
+   3816p3j.dat                ~Minifig Leg Right with Grass Skirt Pattern (Obsolete)
+   3816p63.dat                ~Minifig Leg Right with Robot Pattern (Obsolete)
+   3816p6f.dat                ~Minifig Leg Right with Astro Pattern (Obsolete)
+   3816pa2.dat                ~Minifig Leg Right with Green Kilt and Toes Pattern (Obsolete)
+   3816pa3.dat                ~Minifig Leg Right with Buttoned Pocket Pattern (Obsolete)
+   3816phb.dat                ~Minifig Leg Right with Purple Greatcoat Pattern (Obsolete)
+   3817p3j.dat                ~Minifig Leg Left with Grass Skirt Pattern (Obsolete)
+   3817p63.dat                ~Minifig Leg Left with Robot Pattern (Obsolete)
+   3817p6f.dat                ~Minifig Leg Left with Astro Pattern (Obsolete)
+   3817pa3.dat                ~Minifig Leg Left with Buttoned Pocket Pattern (Obsolete)
+   3817phb.dat                ~Minifig Leg Left with Purple Greatcoat Pattern (Obsolete)
+   3821p02.dat                Door  1 x  3 x  1 Right with Thin "POLICE" Pattern
+   3822p02.dat                Door  1 x  3 x  1 Left with Thin "POLICE" Pattern
+   3823.dat                   Windscreen  2 x  4 x  2
+   3835.dat                   Minifig Tool Handaxe
+   3837.dat                   Minifig Shovel
+   3842a.dat                  Minifig Helmet Classic with Thin Chin Guard and Visor Dimples
+   3842b.dat                  Minifig Helmet Classic with Thick Chin Guard and Visor Dimples
+   3842c.dat                  Minifig Helmet Classic with Thick Chin Guard
+   3843.dat                   Minifig Helmet Visor with Grille and Feather
+   3846p4f.dat                Minifig Shield Triangular with Bat Pattern
+   3865.dat                   Baseplate  8 x 16
+   3867p01.dat                Baseplate 16 x 16 with Island and Water Pattern
+   3867p02.dat                Baseplate 16 x 16 with Island Pattern
+   389.dat                    Technic Brick  1 x  2 with Hole and Thin Top
+   3898.dat                   Minifig Cook's Hat
+   3900.dat                   Minifig Signal Holder
+   3939p90.dat                Slope Brick 33  3 x  6 with Classic Space Small Pattern
+   3939p91.dat                Slope Brick 33  3 x  6 with Classic Space Large Pattern
+   3939ps1.dat                Slope Brick 33  3 x  6 with SW ARC-170 Left Pattern
+   3939ps2.dat                Slope Brick 33  3 x  6 with SW ARC-170 Right Pattern
+   3942b.dat                  Cone  2 x  2 x  2 with Hollow Stud and Axlehole Teeth
+   3942c.dat                  Cone  2 x  2 x  2 with Hollow Stud Open
+   3956.dat                   Bracket  2 x  2 -  2 x  2 Up
+   3959.dat                   Minifig Torch
+   3960.dat                   Dish  4 x  4 Inverted
+   3960p0b.dat                Dish  4 x  4 Inverted with White and Aqua Swirl Pattern
+   3979.dat                   ~Window Fabuland Round with Four Quadrant Panes
+   3980.dat                   ~Window Fabuland Rectangular
+   39893.dat                  Hinge Brick  1 x  2 Locking Double, Two Finger End with  7 Teeth
+   4003.dat                   Wheelbarrow with 1 Wheel
+   4003c01.dat                Wheelbarrow with 1 Wheel (Complete)
+   4006.dat                   Minifig Tool Spanner/Screwdriver
+   4019.dat                   Technic Gear 16 Tooth
+   4022.dat                   Train Buffer Beam
+   4022c01.dat                Train Buffer Beam with Black Coupling Type 1 with Magnet in Coupled Position
+   4022c02.dat                Train Buffer Beam with Black Coupling Type 1 with Magnet in Uncoupled Position
+   4023c01.dat                Train Coupling Type 1 with Magnet in Coupled Position
+   4023c02.dat                Train Coupling Type 1 with Magnet in Uncoupled Position
+   40242.dat                  Door  1 x  8 x  6 Frame
+   40244.dat                  Staircase Spiral Axle
+   4033c01.dat                Train Window  1 x  4 x  3 with Trans-Clear Glass
+   4035c01.dat                Train Window  1 x  2 x  3 with Trans-Clear Glass
+   4036.dat                   Glass for Train Window  1 x  2 x  3
+   40379.dat                  Animal Tail Section End
+   40386.dat                  Animal Dinosaur Flipper with Pin
+   40490.dat                  Technic Beam  9
+   4066bp01.dat               Duplo Brick  1 x  2 x  2 with Stop Sign Pattern
+   4079.dat                   Minifig Seat  2 x  2
+   4091.dat                   ~Wheel Fabuland Wheelbarrow
+   4092a.dat                  Train Bogie Plate with Long Pin
+   4092b.dat                  Train Bogie Plate with Short Pin
+   4093c.dat                  Train Base  6 x 28 with  8 Holes
+   4100418a.dat               Sticker  5.4 x  7.5 Red/White "V" for Air Spoiler
+   4100418b.dat               Sticker  5.5 x  2.4 Red
+   4105279.dat                ~_Flag  2 x  2 with Cavalry Logo Pattern White (Obsolete)
+   4106330a.dat               Sticker  3.2 x  4 with "GOLD MINE" Sign
+   4106332c.dat               Sticker  1.1 x  8.0 with "Headquarters" Sign
+   4106593.dat                ~_Flag  2 x  2 with Diver Stripe Pattern White (Obsolete)
+   4116604.dat                ~_Brick  1 x  6 with TURBO Pattern Red (Obsolete)
+   41239.dat                  Technic Beam 13
+   4124174.dat                ~_Brick  4 x  4 Round with Holes Yellow (Obsolete)
+   41250.dat                  ~_Ball 52mm Diameter Red (Obsolete)
+   4130.dat                   Door  2 x  4 x  5 Frame
+   4131.dat                   Door  2 x  4 x  5
+   4132.dat                   Window  2 x  4 x  3
+   41334.dat                  Minifig Hat Knit Cap
+   41357.dat                  =Door  2 x  8 x  6 Revolving with Shelf Supports
+   4150c07.dat                ~Tile  2 x  2 Round with Lifepreserver Sticker (Shortcut) (Obsolete)
+   4150p01.dat                Tile  2 x  2 Round with Grille Pattern
+   4150p03.dat                Tile  2 x  2 Round with Clock Pattern
+   4150p04.dat                Tile  2 x  2 Round with Yellow Arrow with Black Border Pattern
+   4150pf0.dat                Tile  2 x  2 Round with Red Rings Pattern
+   4150ps2.dat                Tile  2 x  2 Round with SW Sith Infiltrator Pattern
+   41531.dat                  Technic Cylinder  4 x  4 x  2 with 3 Pin Holes and Center Bar
+   4161103.dat                ~_Minifig Feathers with Pin and Black Tip Pattern White (Obsolete)
+   4162916.dat                ~_Minifig Hips and Legs (Complete) Dark Blue (Obsolete)
+   4164290.dat                ~_Flag  6 x  4 with SW Jedi Starfighter Pattern White (Obsolete)
+   41666.dat                  Technic Arm  1 x  6 with Gear 12 Tooth Double Bevel Ends
+   4166a.dat                  Train Track Sleeper Plate  2 x  8 without Cable Grooves
+   4169.dat                   Train Signal Stand
+   4174735a.dat               Sticker  2.8 x  2.8 Round Train Fan
+   41766.dat                  Slope Brick Curved  8 x  2 x  2
+   41767.dat                  Wedge  4 x  2 Right
+   41768.dat                  Wedge  4 x  2 Left
+   4181c01.dat                Train Door  1 x  4 x  5 Left with TransClear Glass
+   4181d01.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7725
+   4181d02.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7760
+   4181d03.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7755
+   4181d04.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7727
+   4181d05.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7730
+   4181d06.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7750
+   4181d07.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7715
+   4181d08.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7735 Black
+   4181d09.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7722
+   4181d0a.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7720
+   4181p02d01.dat             Train Door  1 x  4 x  5 Left Red Bottom Half Sticker DB 7735
+   4181p02d02.dat             Train Door  1 x  4 x  5 Left Red Bottom Half w/ Mail Sticker
+   4181p03d01.dat             Train Door  1 x  4 x  5 Left White Stripe w Sticker DB 7745
+   4181p05d01.dat             Train Door  1 x  4 x  5 Left Blue Bottom Half Sticker DB 7715
+   4182c01.dat                Train Door  1 x  4 x  5 Right with TransClear Glass
+   4182d01.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7725
+   4182d02.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7760
+   4182d03.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7755
+   4182d04.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7727
+   4182d05.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7730
+   4182d06.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7750
+   4182d07.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7715
+   4182d08.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7735 Black
+   4182d09.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7722
+   4182d0a.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7720
+   4182p02d01.dat             Train Door  1 x  4 x  5 Right Red Bottom Half Sticker DB 7735
+   4182p02d02.dat             Train Door  1 x  4 x  5 Right Red Bottom Half w/ Mail Sticker
+   4182p03d01.dat             Train Door  1 x  4 x  5 Right White Stripe w Sticker DB 7745
+   4182p05d01.dat             Train Door  1 x  4 x  5 Right Blue Bottom Half Sticker DB 7715
+   4183.dat                   Glass for Train Door
+   41856.dat                  ~Motor Pull Back  2 x  6 x  1.333 Top
+   41858.dat                  ~Motor Pull Back  2 x  6 x  1.667 Top (Needs Work)
+   4201.dat                   Brick  8 x  8
+   42019.dat                  =Slope Brick Round  3 x  8 x  2 Right
+   4202.dat                   Brick  4 x 12
+   42020.dat                  =Slope Brick Round  3 x  8 x  2 Left
+   42021d01.dat               Wedge  6 x  8 x  2 Triple Inverted with Joker Face Sticker
+   42023.dat                  Slope Brick Curved  6 x  1 Inverted
+   4204.dat                   Brick  8 x 16
+   42073.dat                  ~Motor Windup  2 x  6 x  2.333 Case
+   42114c01.dat               Minifig Lightsaber with Bend Chrome Silver - 1 Side On
+   42114c02.dat               Minifig Lightsaber with Bend Chrome Silver - 2 Sides On
+   4216.dat                   Brick  1 x  2 with Groove
+   4216816a.dat               Sticker  1.6 x  1.8 with US Flag
+   4216816b.dat               Sticker  1.6 x  1.8 with US Flag (Mirrored)
+   422.dat                    Plate  2 x  2 with Axle Brackets
+   4247.dat                   ~Duplo Door  1 x  4 x  3 with Large Window (Obsolete)
+   42608.dat                  Plate  2 x  4 with Holes and Pins
+   4266c01.dat                Wheel Rim 20 x 30 Smooth with 6 Pinholes with Tyre 20/ 83 x 30 Offset Tread
+   4266c02.dat                Wheel Rim 20 x 30 Smooth with 6 Pinholes with Tyre 20/ 46 x 30 Off Road
+   4284.dat                   Windscreen  2 x  4 x  2 Inverted
+   429.dat                    ~Train Brick  2 x  4 Holder for Sliding Wheel Brick Top Type 2
+   4297014a.dat               Sticker  2.2 x  3.7 Oval with Batman Logo Yellow/Black
+   429c01.dat                 Train Brick  2 x  4 Holder for Sliding Wheel Brick (Complete)
+   429c02.dat                 Electric Train 12V Brick  2 x  4 Type 2 (Complete)
+   429c03.dat                 Electric Train 12V Brick  2 x  4 Type 2 (Pushed In Contacts)
+   430.dat                    ~Train Brick  2 x  4 Holder Bottom Solid
+   431.dat                    ~Train Brick  2 x  4 Holder Bottom for Power Pickup
+   4318.dat                   Boat Mast Hinged with 2 Fingers on Both Sides
+   433.dat                    ~Train Brick  2 x  4 Holder for Sliding Wheel Brick Top Type 1
+   433c01.dat                 Electric Train 12V Brick  2 x  4 Type 1 (Complete)
+   433c02.dat                 Electric Train 12V Brick  2 x  4 Type 1 (Pushed In Contacts)
+   4345a.dat                  Container Box  2 x  2 x  2 with Solid Studs
+   4345b.dat                  Container Box  2 x  2 x  2 with Hollow Studs
+   43720.dat                  Wedge  4 x  2 Sloped Right
+   43721.dat                  Wedge  4 x  2 Sloped Left
+   43755.dat                  =Tile  1 x  1 with Spider Pattern
+   43802.dat                  Brick  8 x  8 with Reinforced Underside
+   43857.dat                  Technic Beam  2
+   44041.dat                  Brick  8 x 16 with Reinforced Underside
+   44042.dat                  Brick  4 x  6 with Reinforced Underside
+   44300.dat                  Hinge Tile  1 x  3 Locking with Single Finger on Top
+   44336p03.dat               Baseplate 32 x 32 Road 6-Stud Straight with Runway Pattern
+   4444.dat                   Panel  2 x  5 x  6 Wall
+   4444p03.dat                Panel  2 x  5 x  6 Wall with Black Half-Timber Pattern
+   4448.dat                   Glass for Window  4 x  4 x  3 Roof
+   4459.dat                   Technic Pin with Friction
+   44661.dat                  Tail  2 x  3 x  2 Fin
+   4467.dat                   Exhaust Pipe Twin Inlet 11L Right
+   44728.dat                  Bracket  1 x  2 -  2 x  2 Down
+   44772c01.dat               Wheel Rim 34 x 56 with 6 Spokes and 3 Pegholes with Tyre 44/ 44 x 56 Off Road
+   448.dat                    Container Storage Box 24 x 40
+   44852.dat                  Technic Axle Joiner 3 x 2 with Axial Torsion Spring
+   4486c01.dat                Door  1 x  4 x  5 Right with 6 Panes with TransClear Glass
+   4486c02.dat                Door  1 x  4 x  5 Left with 6 Panes with TransClear Glass
+   448p01.dat                 Container Storage Box 24 x 40 with LEGO Logo with Closed "O" Pattern
+   448p02.dat                 Container Storage Box 24 x 40 with LEGO System Logo Pattern
+   449.dat                    ~Storage Box  24 x  40 Handle
+   4499.dat                   Minifig Bow with Arrow
+   4506.dat                   Minifig Forestman Cap
+   4529.dat                   Minifig Saucepan
+   455.dat                    Baseplate 16 x 24 with Rounded Corners
+   455p01.dat                 Baseplate 16 x 24 with Rounded Corners with Set 344 Dots Pattern
+   455p02.dat                 Baseplate 16 x 24 with Rounded Corners with Set 362 Dots Pattern
+   45729.dat                  =Dish  6 x  6 Inverted With Hollow Studs
+   458.dat                    Tyre for Train Wheel for Electric Train Motor 12V
+   4588.dat                   Brick  1 x  1 Round with Fins
+   458c01.dat                 Tyre for Electric Train 12V Motor Conically Deformed
+   4596.dat                   Plate  1 x  2 with 3L Extension and Stud Hole
+   459a.dat                   ~Train 12V Actuator  4 x  8 x  1.667 Manual
+   459b.dat                   ~Train 12V Actuator  4 x  8 x  1.667 Electric
+   4600.dat                   Plate  2 x  2 with 2 Wheel Pins
+   46212.dat                  ~Brick  1 x  2 x  5 without Centre Studs (Obsolete)
+   46212a.dat                 Brick  1 x  2 x  5 with Hollow Studs without Inner Ridges
+   4719.dat                   Minifig Bicycle Frame
+   4720.dat                   Wheel Minifig Bicycle
+   47314.dat                  Technic Bionicle Weapon Aero Slicer
+   4736.dat                   Minifig Jet-Pack with Stud On Front
+   47397.dat                  Wing  3 x 12 Left
+   47398.dat                  Wing  3 x 12 Right
+   4744p02.dat                Brick  2 x  4 x  2 with Curved Top with Freckled Face Pattern
+   4744p04.dat                Brick  2 x  4 x  2 with Curved Top with Face/Earrings Pattern
+   4744p05.dat                Brick  2 x  4 x  2 with Curved Top with 3 Yellow Dots Pattern
+   47457.dat                  Slope Brick Curved  2 x  2 x   2/3 Triple with Two Top Studs
+   47543.dat                  =Cone  8 x  4 x  6 Half
+   4760c01.dat                Electric  9V Battery Box  4 x  8 x  2.333 (Complete)
+   4760p01c01.dat             Electric  9V Battery Box  4 x  8 x  2.333 "9V" Patt. (Complete)
+   4770.dat                   Electric Light & Sound Coloured Globe
+   4773a.dat                  ~Electric Light & Sound Brick  2 x  2 x  1.333 Siren Top
+   4774.dat                   ~Electric Light & Sound Brick  2 x  2 x  1.333 Siren Base
+   4774c01.dat                Electric Light & Sound Brick  2 x  2 x  1.333 Siren (Complete)
+   47905.dat                  Brick  1 x  1 with Studs on Two Opposite Sides
+   47975.dat                  Hinge Brick 1 x 2 Locking with Dual Finger Horiz. Single Vert.
+   47996.dat                  Boat Rigging  4 x 28 Rectangular
+   47998.dat                  Plate  4 x  4 with 2 Clips Horizontal
+   48168.dat                  Technic Turntable Type 2 Top
+   48288.dat                  Tile  8 x 16
+   4854.dat                   Slope Brick 45  4 x  4 Double Inverted with Open Centre
+   4858p1k.dat                Wedge  4 x  4 with TV Logo Pattern
+   4863.dat                   Window  1 x  4 x  2 Plane
+   4864a.dat                  Panel  1 x  2 x  2 with Solid Studs
+   4864ap01.dat               Panel  1 x  2 x  2 with Autoroute Pattern
+   4864ap03.dat               Panel  1 x  2 x  2 with Utility Pattern
+   4864b.dat                  Panel  1 x  2 x  2 with Hollow Studs
+   4871.dat                   Slope Brick 45  4 x  2 Double Inverted with Open Centre
+   4874.dat                   Fabuland Merry-Go-Round Platform
+   4874c01.dat                Fabuland Merry-Go-Round (Complete)
+   4875.dat                   Fabuland Merry-Go-Round Base
+   4876.dat                   Fabuland Slide
+   48933.dat                  Wedge  4 x  4 Triple with Stud Notches
+   49059.dat                  Baseplate 20 x 26 with 12 x 18 Hole
+   497a.dat                   ~Wheel Rim  8 x 18 with 4 Studs
+   497c01.dat                 Wheel Rim  8 x 18 with 4 Studs and Notched Axle
+   499.dat                    ~Magnet Cylindrical Casing for Plate  2 x  4
+   499c01.dat                 Magnet Cylindrical in Casing for Plate  2 x  4 (Complete)
+   50003.dat                  =Minifig Head with Smirk, Black Hair and Goatee Pattern
+   501a.dat                   ~Electric Train Motor 12V with 2-Hole Plugs
+   501ac01.dat                Electric Train Motor 12V with 2-Hole Sockets (Complete)
+   501b.dat                   ~Electric Train Motor 12V Unslotted with 3-Hole Plugs
+   501bc01.dat                Electric Train Motor 12V Unslotted w/ 3-Hole Sockets (Complete)
+   501c.dat                   ~Electric Train Motor 12V Slotted with 3-Hole Plugs
+   501cc01.dat                Electric Train Motor 12V Slotted with 3-Hole Sockets (Complete)
+   505.dat                    Train Steam Drive Rod
+   506.dat                    Train Steam Drive Rod Holder
+   50746.dat                  =Slope Brick 31  1 x  1 x  0.667
+   50904.dat                  Technic Beam  2 x  8 x  2 Double Liftarm with 2  1 x  3 Beams
+   50944c01.dat               Wheel Rim  6.4 x 11 with 5 Spokes with Tyre  6.4/ 75 x  8 Shallow Offset Tread
+   50947.dat                  Car Mudguard  4.5 x  1 x  1
+   50951.dat                  Tyre  6/ 30 x 11
+   511.dat                    Electric Train 12V Track Contact Base
+   511c01.dat                 Train Track 12V Electric Cable Connector
+   51523.dat                  =Minifig Head Lefty Mouth and Stubble Pattern
+   51595.dat                  Baseplate 16 x 16 Driveway
+   51595p01.dat               Baseplate 16 x 16 Driveway with Grey Drive Pattern
+   51719c01.dat               Wheel Rim  6.4 x 11 with 5 Spokes and Silver Pattern with Tyre  6.4/ 75 x  8 Shallow Offset Tread
+   51723.dat                  =Minifig Handlebars
+   51930.dat                  =Ball 52mm Diameter
+   52037.dat                  Car Base 16 x  6 with  4 x  4 Recessed Centre
+   52107.dat                  Brick  1 x  2 with Studs on Sides
+   522.dat                    ~Minifig Cape Cloth (Obsolete)
+   53527.dat                  =Rock  4 x  4 x  1.333 Top
+   53528.dat                  =Rock  4 x  4 x  1.667 Bottom
+   53586.dat                  Technic Axle Joiner Perpendicular with Extension
+   53792.dat                  Electric Mindstorms NXT Ultrasonic Sensor
+   53793.dat                  Electric Mindstorms NXT Touch Sensor (Button Not Pressed)
+   53793c00.dat               Electric Mindstorms NXT Touch Sensor Case
+   53793c01.dat               Electric Mindstorms NXT Touch Sensor (Button Pressed)
+   539.dat                    Tyre for Wheel 41mm Znap
+   54671.dat                  Hinge Brick  1 x  2 Locking with Dual Finger on End Vertical,  7 Teeth
+   54672.dat                  Hinge Brick  1 x  2 Locking with Dual Finger on End Horizontal,  7 Teeth
+   54734.dat                  Electric  9V Battery Box with Pegholes (Complete)
+   54746.dat                  ~Electric  9V Battery Box with Pegholes Lid
+   55300.dat                  Minifig Tool Box Wrench
+   55707a.dat                 Minifig Gun Semiautomatic Pistol
+   55707b.dat                 Minifig Machine Gun with Drum Magazine
+   55707d.dat                 Minifig Shackles
+   55707e.dat                 Minifig Propeller with Bat Wings
+   55816.dat                  ~Electric Mindstorms NXT Sensor Shell Back
+   55963.dat                  Electric Mindstorms NXT Sound Sensor
+   55981.dat                  Wheel Rim 14 x 18 with Holes on Both Sides (Needs Work)
+   55982.dat                  Wheel Rim 14 x 18 with Axlehole
+   56204.dat                  Slope Brick Curved  6 x  8 x  2 Double
+   56619.dat                  =Minifig Shackles
+   56711gc01.dat              Sticker  1.7 x  1.7 Joker Face Small (Formed)
+   567c02.dat                 Electric Plug (Type 2) Twin with Cross-Cut Pin with Cable End
+   567c03.dat                 Electric Cable White with Plugs (Type 2) Twin Cross-Cut Pin
+   567c05.dat                 Electric Plug (Type 1) Twin with Hollow Pin with Cable End
+   567c06.dat                 Electric Cable White with Plugs (Type 1) Twin Hollow Pin
+   56902.dat                  Wheel Rim  8 x 18 with Deep Centre Groove and Peghole
+   56902c01.dat               Wheel Rim  8 x 18 with Deep Centre Groove and Peghole with Tyre  7/ 45 x 17 Offset Tread with Middle Band
+   56903.dat                  Wheel Rim  8 x 18 with Deep Centre Groove and Axle Hole
+   57779.dat                  Crane Arm Outside with Pegholes
+   577c01.dat                 ~Minifig Lightsaber Chrome Silver - 1 Side On (Obsolete)
+   577c02.dat                 ~Minifig Lightsaber Chrome Silver - 2 Sides On (Obsolete)
+   579.dat                    ~Electric Train Motor  4 x 12 x  4 Cover
+   579p01.dat                 ~Electric Train Motor  4 x 12 x  4 - Cover with "4.5V" Pattern
+   580.dat                    ~Electric Train Motor  4 x 12 x  4 Base
+   58119.dat                  Electric Power Functions 9V Battery Box (Complete)
+   58120.dat                  Electric Power Functions Medium Motor
+   58121.dat                  Electric Power Functions XL Motor (Complete)
+   58123.dat                  Electric Power Functions IR Receiver
+   58123p01.dat               Electric Power Functions IR Receiver with "V2" Pattern
+   58124.dat                  ~Electric Power Functions Connector Top (Needs Work)
+   58124c01.dat               Electric Power Functions Connector with PF Bottom
+   58124c02.dat               Electric Power Functions Connector with 9V Bottom
+   58124c03.dat               Electric Power Functions Connector with PF Bottom and Flat Top
+   58125a.dat                 ~Electric Power Functions Connector Bottom (PF Type)(Needs Work)
+   58125b.dat                 ~Electric Power Functions Connector Bottom (9V Type)(Needs Work)
+   58147.dat                  ~Electric Power Functions Infra-Red Receiver Top (Needs Work)
+   58148.dat                  ~Electric Power Functions Infrared Receiver Bottom
+   58148p01.dat               ~Electric Power Functions Infrared Receiver Bottom "V2" Pattern
+   58149.dat                  ~Electric Power Functions Infra-Red Receiver Lens
+   58150.dat                  ~Electric Power Functions Infra-Red Receiver Switch (Needs Work)
+   58176.dat                  Cylinder Domed  1 x  1 x  1.667 with Bar
+   58247.dat                  Minifig Gun Short Blaster
+   59.dat                     Minifig Sword Greatsword
+   59141.dat                  =Technic Beam  2 Liftarm with Angled Ball Joint
+   59142.dat                  ~Electric Power Functions Medium Motor Back (Needs Work)
+   59143.dat                  ~Electric Power Functions Medium Motor Front (Needs Work)
+   59154.dat                  ~Electric Power Functions XL Motor Back (Needs Work)
+   59155.dat                  ~Electric Power Functions XL Motor Front (Needs Work)
+   592c02.dat                 Electric Plugs (Type 2) Single with Cross-Cut Pin with Cable End
+   592c03.dat                 Electric Cable White with Plugs (Type 2) Single Cross-Cut Pin
+   592c05.dat                 Electric Plugs (Type 1) Single with Hollow Pin with Cable End
+   592c06.dat                 Electric Cable White with Plugs (Type 1) Single Hollow Pin
+   59350.dat                  =Panel  1 x  6 x  5
+   59365.dat                  ~Electric Power Functions IR Remote Control Channel Selector
+   59494.dat                  ~Electric Power Functions 9V Battery Box Lid
+   59521.dat                  Wheel 28 x 158 with 3 Spokes
+   59718a.dat                 Sticker  0.6 x  4 with Yellow/Black Chevrons
+   59718b.dat                 Sticker  0.6 x  2 with "JM 7991"
+   59718c.dat                 Sticker  2.5 x  2.5 with Round Green Arrows
+   59718d.dat                 Sticker  0.9 x  0.9 with Round Green/White Arrows
+   59826b.dat                 Sticker  0.8 x  1.8 with Red/Yellow Stripes Right Up
+   59826c.dat                 Sticker  0.8 x  1.8 with Red/Yellow Stripes Right Down
+   59826d.dat                 Sticker  1 x  3.8 with Cement Mixer and Blue Stripes
+   59826e.dat                 Sticker  1 x  3.8 with "HA 7990", Red/White Stripes, White Edges
+   59826f.dat                 Sticker  0.8 x  1.8 with "HA 7990"
+   59826g.dat                 Sticker  1.75 x  1.75 Round with Quarter Circle Arrow
+   59826h.dat                 Sticker  1 x  3.8 with "HA 7990", Red/White Stripes, Black Edges
+   6002.dat                   Panel  6 x  6 x  9 Corner Round
+   60033.dat                  Brick  4 x 12 with Reinforced Underside
+   6019.dat                   Plate  1 x  1 with Clip Horizontal (Thick U-Clip)
+   60208.dat                  Wheel Rim 16 x 31 with 6 Pegholes
+   6024.dat                   Baseplate 32 x 32 Canyon with Island
+   6028.dat                   Animal Dragon Tail
+   6039.dat                   Cone  2 x  2 x  1.667 Octagonal
+   604a.dat                   ~Window  1 x  6 x  3 Panorama with Solid Studs, Holes
+   604ac01.dat                Window  1 x  6 x  3 Panorama with Solid Studs, Holes (Complete)
+   604b.dat                   ~Window  1 x  6 x  3 Panorama with Hollow Studs, Holes
+   604bc01.dat                Window  1 x  6 x  3 Panorama with Hollow Studs, Holes (Complete)
+   6054.dat                   Boat Base  8 x 12
+   6057.dat                   Boat Rigging  5 x 15 Trapezoid
+   60594.dat                  Window  1 x  4 x  3 without Shutter Tabs
+   6063.dat                   Plate 10 x 10 Octagonal Open Center
+   6065.dat                   Plant Bush Base
+   6069ps2.dat                Wedge  4 x  4 Triple with Sand Green and Light Yellow Pattern
+   6072.dat                   Brick  7 x  7 x  2.333 Turret Quarter
+   60808.dat                  Panel  1 x  4 x  5 with Window
+   6083.dat                   Panel  3 x  8 x  7 Rock Triangular
+   6083p01.dat                Panel  3 x  8 x  7 Rock Triangular with Aqua Base Pattern
+   6107.dat                   Brick  5 x  5 Facet
+   6121.dat                   Roof Piece  4 x  8 x  6 Half Pyramid
+   6126a.dat                  Minifig Flame with Pegs
+   6126b.dat                  Minifig Flame with Rim
+   6133.dat                   Animal Dragon Wing
+   6145.dat                   ~Animal Dragon Body Back
+   6145p01.dat                ~Animal Dragon Body Back with Metallic Gold Oriental Pattern
+   6167.dat                   ~Support  2 x  2 x 11 Solid Pillar Top
+   6168.dat                   ~Support  2 x  2 x 11 Solid Pillar Base
+   6208.dat                   =Slope Brick 33  3 x  6
+   6212.dat                   Brick  4 x 10
+   6221.dat                   Technic Handle
+   6231.dat                   Panel  1 x  1 x  1 Corner with Rounded Corners
+   6234.dat                   Door  1 x  6 x  6 Freestyle
+   6237.dat                   Window  1 x  3 x  4 Pane Freestyle
+   6238a.dat                  Windscreen  4 x  4 x  1 Type 1
+   6238b.dat                  Windscreen  4 x  4 x  1 Type 2
+   6248.dat                   Wheel Rim 10 x 17.4 with 4 Studs and Technic Peghole
+   6251.dat                   Animal Cat Crouching
+   6251p01.dat                Animal Cat Crouching with Medium Blue Eyes, Black Pupils, Eyelashes and Nose Pattern
+   6251p02.dat                Animal Cat Crouching with Black Eyes, Eyelashes, Eyebrows and Nose Pattern
+   6251p07.dat                Animal Cat Crouching with Black Pupils, Eyelashes and Nose Pattern
+   6255.dat                   Plant  1 x  1 x  0.667 Round with 3 Large Leaves
+   6265.dat                   Minifig Skeleton Arm
+   6266.dat                   Minifig Skeleton Leg
+   6267.dat                   Windscreen  2 x 12 x  4
+   6269.dat                   Minifig Goblet with Hollow Stem
+   62840.dat                  Electric Mindstorms NXT Temperature Sensor
+   6309p01.dat                Duplo Tile  2 x  2 with Black Isosceles Triangle Pattern
+   6309p02.dat                Duplo Tile  2 x  2 with Black Inverse Isosceles Triangle Pattern
+   6309p03.dat                Duplo Tile  2 x  2 with Black Right-angled Triangle Pattern
+   6309p04.dat                Duplo Tile  2 x  2 with Black Quarter Disc Pattern
+   6309p05.dat                Duplo Tile  2 x  2 with Black Inverse Quarter Disc Pattern
+   6309p06.dat                Duplo Tile  2 x  2 with Black Disc Pattern
+   6309p07.dat                Duplo Tile  2 x  2 with Black Inverse Arch Pattern
+   6309p08.dat                Duplo Tile  2 x  2 with Black Square Pattern
+   6309p09.dat                Duplo Tile  2 x  2 with Blue Isosceles Triangle Pattern
+   6309p0a.dat                Duplo Tile  2 x  2 with Blue Inverse Isosceles Triangle Pattern
+   6309p0b.dat                Duplo Tile  2 x  2 with Blue Right-angled Triangle Pattern
+   6309p0c.dat                Duplo Tile  2 x  2 with Blue Quarter Disc Pattern
+   6309p0d.dat                Duplo Tile  2 x  2 with Blue Inverse Quarter Disc Pattern
+   6309p0e.dat                Duplo Tile  2 x  2 with Blue Disc Pattern
+   6309p0f.dat                Duplo Tile  2 x  2 with Blue Inverse Arch Pattern
+   6309p0g.dat                Duplo Tile  2 x  2 with Blue Square Pattern
+   6309p0h.dat                Duplo Tile  2 x  2 with Green Isosceles Triangle Pattern
+   6309p0j.dat                Duplo Tile  2 x  2 with Green Inverse Isosceles Triangle Pattern
+   6309p0k.dat                Duplo Tile  2 x  2 with Green Right-angled Triangle Pattern
+   6309p0m.dat                Duplo Tile  2 x  2 with Green Quarter Disc Pattern
+   6309p0n.dat                Duplo Tile  2 x  2 with Green Inverse Quarter Disc Pattern
+   6309p0q.dat                Duplo Tile  2 x  2 with Green Disc Pattern
+   6309p0r.dat                Duplo Tile  2 x  2 with Green Inverse Arch Pattern
+   6309p0s.dat                Duplo Tile  2 x  2 with Green Square Pattern
+   6309p0t.dat                Duplo Tile  2 x  2 with Red Isosceles Triangle Pattern
+   6309p0u.dat                Duplo Tile  2 x  2 with Red Inverse Isosceles Triangle Pattern
+   6309p0v.dat                Duplo Tile  2 x  2 with Red Right-angled Triangle Pattern
+   6309p0w.dat                Duplo Tile  2 x  2 with Red Quarter Disc Pattern
+   6309p0x.dat                Duplo Tile  2 x  2 with Red Inverse Quarter Disc Pattern
+   6309p0y.dat                Duplo Tile  2 x  2 with Red Disc Pattern
+   6309p0z.dat                Duplo Tile  2 x  2 with Red Inverse Arch Pattern
+   6309p10.dat                Duplo Tile  2 x  2 with Red Square Pattern
+   6309p11.dat                Duplo Tile  2 x  2 with Yellow Isosceles Triangle Pattern
+   6309p12.dat                Duplo Tile  2 x  2 with Yellow Inverse Isosc. Triangle Pattern
+   6309p13.dat                Duplo Tile  2 x  2 with Yellow Right-angled Triangle Pattern
+   6309p14.dat                Duplo Tile  2 x  2 with Yellow Quarter Disc Pattern
+   6309p15.dat                Duplo Tile  2 x  2 with Yellow Inverse Quarter Disc Pattern
+   6309p16.dat                Duplo Tile  2 x  2 with Yellow Disc Pattern
+   6309p17.dat                Duplo Tile  2 x  2 with Yellow Inverse Arch Pattern
+   6309p18.dat                Duplo Tile  2 x  2 with Yellow Square Pattern
+   6309pta.dat                Duplo Tile  2 x  2 with "A" Pattern
+   6309ptb.dat                Duplo Tile  2 x  2 with "B" Pattern
+   6309ptc.dat                Duplo Tile  2 x  2 with "C" Pattern
+   6309pug.dat                Duplo Tile  2 x  2 with Equality Pattern
+   6309pul.dat                Duplo Tile  2 x  2 with Addition Pattern
+   635.dat                    Conveyor Belt Axle with Crank
+   636.dat                    Conveyor Belt Axle
+   63965.dat                  ~Bar  6L with Thick Stop (Obsolete)
+   63965a.dat                 Bar  6L with Thick Stop
+   6405.dat                   Duplo Train Level Crossing Gate Base
+   64056.dat                  ~Electric Power Functions Sensor Connector Top (Needs Work)
+   6406.dat                   Duplo Train Level Crossing Gate Crossbar
+   64288.dat                  =Cone  1 x  1 with Stop
+   6442.dat                   Duplo Train Track Point Lever
+   64634.dat                  =Windscreen  5 x  8 x  2 with Rounded Bottom Corners
+   646a.dat                   ~Window  1 x  6 x  2 Classic Shuttered with Solid Studs
+   646ac01.dat                Window  1 x  6 x  2 Classic Shuttered w/ Solid Studs (Complete)
+   646b.dat                   ~Window  1 x  6 x  2 Classic Shuttered with Long Sill
+   646bc01.dat                Window  1 x  6 x  2 Classic Shuttered with Long Sill (Complete)
+   646c.dat                   ~Window  1 x  6 x  2 Classic Shuttered with Short Sill
+   646cc01.dat                Window  1 x  6 x  2 Classic Shuttered with Short Sill (Complete)
+   647.dat                    Roadsign Square
+   649p02.dat                 ~Roadsign Triangle with Road Crossing Sign (Obsolete)
+   6536.dat                   Technic Cross Block 1 x 2 (Axle/Pin)
+   6538a.dat                  Technic Axle Joiner
+   6538b.dat                  Technic Axle Joiner Offset
+   6540a.dat                  Technic Steering Arm Large with Axlehole
+   6543.dat                   Technic Plate  4 x  6 with 4 Position Gear Shift Gate
+   6565.dat                   Wedge  3 x  2 Left
+   6571.dat                   Technic Steering Arm 3H with Towball Sockets
+   6572.dat                   Technic Suspension Arm  2 x  4.8 with Towball
+   6574.dat                   Technic Gear Rack  1 x  2.4 with Towballs
+   6589.dat                   Technic Gear 12 Tooth Bevel
+   670.dat                    Door  1 x  6 x 10 Frame
+   675p01.dat                 ~Roadsign Square Tall with Parking and 300m Pattern (Obsolete)
+   676p01.dat                 ~Roadsign Wide Rectangle with Snack Bar White Pattern (Obsolete)
+   685.dat                    Maxifig Head
+   6936.dat                   Tap  1 x  2 with Two Valves
+   6940.dat                   Scala Bed  8 x 24
+   70026.dat                  Train 12V Actuator  4 x  8 x  1.667 Electric (Complete)
+   7039.dat                   Wheel Rim  8 x 18 with 4 Studs and Cylindrical Axle
+   7039c01.dat                Wheel Rim  8 x 18 with 4 Studs, Cylindrical Axle with LightGrey Tyre 7.2/ 45 x 8.8
+   7039c02.dat                Wheel Rim  8 x 18 with 4 Studs, Cylindrical Axle with Black Tyre 7.2/ 45 x 8.8
+   7039c03.dat                Wheel Rim  8 x 18 with 4 Studs, Cylindrical Axle with Tyre 7/ 56 x 17 Offset Tread
+   70423.dat                  Electric Plug (Type 4) Twin with Centre Plastic Pin (Complete)
+   70423c01.dat               Electric Plug (Type 4) Twin with Centre Plastic Pin with Cable End
+   70423c02.dat               Electric Cable Grey with Plugs (Type 4) Twin with Centre Plastic Pin
+   70591.dat                  ~Technic Control Centre - Rubber Foot
+   71015.dat                  Minifig Hat Crown
+   71076a.dat                 Cylinder  2 x  2 Elbow
+   71342.dat                  Minifig Bugle
+   71368.dat                  ~_Ball 52mm Diameter Blue (Obsolete)
+   71533k03.dat               ~Technic Pneumatic Tube Segment
+   71958.dat                  Boat Hull Unitary 22 x  8 x  2.333 Base
+   71958c01.dat               Boat Hull Unitary 22 x  8 x  2.333 (Complete) with Red Base
+   72514.dat                  Belville Crown Small
+   72514p01.dat               Belville Crown Small with Chrome Gold Pattern
+   72514p02.dat               Belville Crown Small with Chrome Silver Pattern
+   72514p03.dat               Belville Crown Small with Chrome Pink Pattern
+   72514p04.dat               Belville Crown Small with Chrome Blue Pattern
+   727.dat                    Trailer  4 x 16 Ramp
+   729.dat                    Container Storage  8 x 11 x  3
+   73092.dat                  ~_Magnet Cylindrical in Casing Black (Obsolete)
+   731.dat                    ~Technic Shock Absorber  6.5L, Piston Rod with Spring (Obsolete)
+   73112.dat                  Train 12V Actuator  4 x  8 x  1.667 Manual (Complete)
+   73200.dat                  ~_Minifig Hips and Legs (Complete) Yellow (Obsolete)
+   736.dat                    ~Train Base  6 x 16 Type 1
+   73603.dat                  =Turntable  4 x  4 (Complete)
+   736c01.dat                 Train Base  6 x 16 Type 1 with Red Wheels (Complete)
+   736c02.dat                 Train Base  6 x 16 Type 1 with Wheels and Magnets (Complete)
+   74573.dat                  =Support  2 x  2 x  5 Lattice Pillar (Complete)
+   751.dat                    ~Hose Flexible Tube  7L
+   752.dat                    Hose Flexible End  1 x  1 x  0.667 without Tabs
+   75347.dat                  =Support  2 x  2 x 11 Solid Pillar
+   76319.dat                  Znap Connector  3 x  3 -  4 Way Closed w. Rotating Section
+   76385.dat                  Hinge Brick  1 x  2 Locking with Single Finger On Top
+   764.dat                    Signpost Cantilever with Suspended Sign
+   76421.dat                  Technic Turntable  5 x  5 (Complete)
+   765.dat                    ~Electric Plug (Type 4) Single
+   765c01.dat                 Electric Plug (Type 4) Single (Complete)
+   765c02.dat                 Electric Plug (Type 4) Single with Cable End
+   765c03.dat                 Electric Cable Grey with Plugs (Type 4) Single
+   766bc01.dat                Electric Plug (Type 4) Twin without Centre Plastic Pin (Complete)
+   766bc02.dat                Electric Plug (Type 4) Twin without Centre Plastic Pin with Cable End
+   766bc03.dat                Electric Cable Grey with Plugs (Type 4) Twin without Centre Plastic Pin
+   776.dat                    Flag on Flagpole Type 1
+   776p01.dat                 Flag on Flagpole Type 1 with Germany Pattern
+   776p02.dat                 Flag on Flagpole Type 1 with Sweden Pattern
+   776p03.dat                 Flag on Flagpole Type 1 with Denmark Pattern
+   776p04.dat                 Flag on Flagpole Type 1 with Finland Pattern
+   776p05.dat                 Flag on Flagpole Type 1 with Norway Pattern
+   776p06.dat                 Flag on Flagpole Type 1 with Austria Pattern
+   776p07.dat                 Flag on Flagpole Type 1 with The Netherlands Pattern
+   776p08.dat                 Flag on Flagpole Type 1 with Italy Pattern
+   776p09.dat                 Flag on Flagpole Type 1 with Belgium Pattern
+   776p10.dat                 Flag on Flagpole Type 1 with France Pattern
+   776p11.dat                 Flag on Flagpole Type 1 with United Kingdom Pattern
+   776p12.dat                 Flag on Flagpole Type 1 with Portugal Pattern
+   776p13.dat                 Flag on Flagpole Type 1 with Switzerland Pattern
+   776p14.dat                 Flag on Flagpole Type 1 with Iceland Pattern
+   776p15.dat                 Flag on Flagpole Type 1 with United States Pattern
+   777.dat                    Flag on Flagpole Type 2
+   777p01.dat                 Flag on Flagpole Type 2 with Germany Pattern
+   777p02.dat                 Flag on Flagpole Type 2 with Sweden Pattern
+   777p03.dat                 Flag on Flagpole Type 2 with Denmark Pattern
+   777p04.dat                 Flag on Flagpole Type 2 with Finland Pattern
+   777p05.dat                 Flag on Flagpole Type 2 with Norway Pattern
+   777p06.dat                 Flag on Flagpole Type 2 with Austria Pattern
+   777p07.dat                 Flag on Flagpole Type 2 with The Netherlands Pattern
+   777p08.dat                 Flag on Flagpole Type 2 with Italy Pattern
+   777p09.dat                 Flag on Flagpole Type 2 with Belgium Pattern
+   777p10.dat                 Flag on Flagpole Type 2 with France Pattern
+   777p11.dat                 Flag on Flagpole Type 2 with United Kingdom Pattern
+   777p12.dat                 Flag on Flagpole Type 2 with Portugal Pattern
+   777p13.dat                 Flag on Flagpole Type 2 with Switzerland Pattern
+   777p14.dat                 Flag on Flagpole Type 2 with Iceland Pattern
+   777p15.dat                 Flag on Flagpole Type 2 with United States Pattern
+   777p16.dat                 Flag on Flagpole Type 2 with Faroe Islands Pattern
+   778.dat                    Tractor Trailer Chassis  4 x 13
+   779.dat                    Tractor Trailer Chassis Hitching Ball
+   782.dat                    Baseplate 50 x 50
+   783.dat                    Flag on Flagpole Type 3
+   783p03.dat                 Flag on Flagpole Type 3 with Denmark Pattern
+   783p11.dat                 Flag on Flagpole Type 3 with United Kingdom Pattern
+   783p13.dat                 Flag on Flagpole Type 3 with Switzerland Pattern
+   783p16.dat                 Flag on Flagpole Type 3 with Australia Pattern
+   786.dat                    Flag on Flagpole Type 4
+   786p01.dat                 Flag on Flagpole Type 4 with Germany Pattern
+   786p17.dat                 Flag on Flagpole Type 4 with Canada Pattern
+   7930.dat                   Door  1 x  3 x  4
+   7930c01.dat                Door  1 x  3 x  4 with Glass (Complete)
+   794a.dat                   Container Storage Box 24 x 40 with Red Handle
+   794ap01.dat                Container Storage Box 24 x 40 with Red Handle and LEGO Logo Closed "O" Pattern
+   794ap02.dat                Container Storage Box 24 x 40 with Red Handle and LEGO System Logo Pattern
+   8.dat                      Plate  2 x  2 with 2 Wheel Clips Perpendicular
+   819.dat                    Baseplate  8 x 12
+   821.dat                    Garage Door Frame  1 x  6 x  4
+   824c01.dat                 Train Base  4 x  7 with 4 Black Axle Bushes
+   82805.dat                  =Minifig Feathers with Pin and Black Tip Pattern
+   84625.dat                  =Minifig Hat Imperial Guard Shako, Red Plume, Gold Badge Pattern
+   85861.dat                  Plate  1 x  1 Round with Open Stud
+   861.dat                    Train Track 12V Straight Insert Type 1
+   861c01.dat                 Train Track 12V Tapered Straight (Complete)
+   861c02.dat                 Train Track 12V Tapered Straight (Complete w/o End Sleepers)
+   862ac01.dat                Train Track 12V Slotted Straight with Isolation (Complete)
+   862ac02.dat                Train Track 12V Slotted Straight with Isolation and Signal Light Grey
+   864.dat                    ~Train Track 12V Slotted Point Left Main Part (Needs Work)
+   865.dat                    ~Train Track 12V Slotted Point Right Main Part (Needs Work)
+   866.dat                    Train Track 12V Curved Insert Type 1 (Needs Work)
+   866c01.dat                 Train Track 12V Curved Tapered (Complete 1 Segment)
+   866c04.dat                 Train Track 12V Curved Tapered (Complete 4 Segments)
+   867.dat                    Wheel Train for 12V Electric Motor
+   868.dat                    ~Train 12V Actuator Technic Axle
+   87994.dat                  Bar  3L
+   87994p01.dat               Bar  3L with White Ends Pattern
+   88513.dat                  =Minifig Helmet Viking Horn
+   8c01.dat                   Plate  2 x  2 with 2 Wheel Clips Perpendicular with Wheel Red with Tyre 6/ 50 x  8 Offset Tread
+   8c02.dat                   Plate 2 x 2 with 2 Wheel Clips Perpendicular with Red Wheel with Tyre 4/ 80 x 8 Single Smooth Type 1
+   905.dat                    ~Electric Light & Sound Computer Console Base
+   906.dat                    ~Electric Light & Sound Computer Screen Pattern
+   912.dat                    Baseplate 16 x 16 Control Tower Set 340
+   915.dat                    Baseplate 24 x 32 Fire-House
+   91501.dat                  Panel  2 x  2 x  1 Corner with Rounded Corners
+   915p01.dat                 Baseplate 24 x 32 with Driveways and Set EU357/US570 Dot Pattern
+   915p02.dat                 Baseplate 24 x 32 with Driveways and Set 347 Dot Pattern
+   919.dat                    ~Electric Power Functions 9V Battery Box Case
+   920.dat                    ~Electric Power Functions 9V Battery Box Switch
+   922.dat                    ~Electric  9V Battery Box with Pegholes Switch
+   92339.dat                  Train Base  6 x 28 with  6 Holes and Twin  2 x  2 Cutouts
+   925p0k.dat                 Brick  1 x  8 without Centre Studs with Violet Thin "DEALER" Pattern
+   925p0m.dat                 Brick  1 x  8 without Centre Studs with Red Thin "STATION" Pattern
+   925p0n.dat                 Brick  1 x  8 without Centre Studs with Red Thin "KIOSK" Pattern
+   925p0p.dat                 Brick  1 x  8 without Centre Studs with Red "FEUERWEHR" Sans-Serif Pattern
+   925p0q.dat                 Brick  1 x  8 without Centre Studs with Black Thin "GARAGE" Pattern
+   933.dat                    ~Electric Mindstorms NXT RJ12 Style Plug
+   93348.dat                  Wedge  4 x  4 with Stud Notches
+   93593.dat                  Wheel Rim  6.4 x 11 with 8 Straight Spokes
+   93595.dat                  Wheel Rim  6.4 x 11 with  8 Y-Shaped Spokes
+   93595c01.dat               Wheel Rim  6.4 x 11 with  8 Y-Shaped Spokes with Tyre  6.4/ 75 x  8 Shallow Offset Tread with Centre Band
+   93595p01.dat               Wheel Rim  6.4 x 11 with  8 Y-Shaped Spokes and Silver Pattern
+   93595p02.dat               Wheel Rim  6.4 x 11 with  8 Y-Shaped Spokes and Gold Pattern
+   93595p03.dat               Wheel Rim  6.4 x 11 with  8 Y-Shaped Spokes and Black Pattern
+   95188.dat                  Brick  6 x  6 Corner Round with Slope 33 Chamfer (Needs Work)
+   95343c01.dat               Bucket  1 x  1 x  1 Conical with Raised Handle
+   95343c02.dat               Bucket  1 x  1 x  1 Conical with Hanging Handle
+   962.dat                    Slope Brick 45  2 x  2 Double Concave / Double Convex
+   968.dat                    Trailer Base  4 x 14 x  1
+   969.dat                    Trailer Stand
+   973p01.dat                 Minifig Torso with Vertical Striped Red/Blue Pattern
+   973p04.dat                 Minifig Torso with Six Button Suit and Airplane Pattern
+   973p05.dat                 Minifig Torso with Six Button Suit and Anchor Pattern
+   973p0a.dat                 Minifig Torso with White Diagonal Zip and Pocket Pattern
+   973p0b.dat                 Minifig Torso with Black Diagonal Zip and Pocket Pattern
+   973p11.dat                 ~Minifig Torso with Dungarees Pattern (Obsolete)
+   973p15.dat                 ~Minifig Torso with Horizontal Stripes Pattern (Obsolete)
+   973p18.dat                 Minifig Torso with Suit and Tie Pattern
+   973p1a.dat                 Minifig Torso with Black Dungarees Pattern
+   973p1b.dat                 Minifig Torso with Blue Dungarees Pattern
+   973p1c.dat                 Minifig Torso with Red Dungarees Pattern
+   973p1d.dat                 Minifig Torso with Blue Horizontal Stripes Pattern
+   973p1e.dat                 Minifig Torso with Red Horizontal Stripes Pattern
+   973p1f.dat                 Minifig Torso with Buttons and Police Badge Plain Pattern
+   973p1g.dat                 Minifig Torso with Zipper and Police Badge Plain Pattern
+   973p1h.dat                 Minifig Torso with Racing Jacket and Two Stars Pattern
+   973p1j.dat                 Minifig Torso with Green Dungarees Pattern
+   973p22.dat                 Minifig Torso with Red Shirt and Suit Pattern
+   973p25.dat                 Minifig Torso with Red Cross and Stethoscope Pattern
+   973p26.dat                 Minifig Torso with Patch Pocket Pattern
+   973p27.dat                 Minifig Torso with Autoroute Pattern
+   973p28.dat                 Minifig Torso with Leather Jacket Pattern
+   973p2a.dat                 Minifig Torso with Chef Pattern
+   973p2e.dat                 Minifig Torso with Blue and Mint Green Stripes Pattern
+   973p2g.dat                 Minifig Torso with Blue Flowers on Tied Shirt Pattern
+   973p35.dat                 ~Minifig Torso with Imperial Guard Pattern (Obsolete)
+   973p37.dat                 ~Minifig Torso with Imperial Guard Officer Pattern (Obsolete)
+   973p3c.dat                 Minifig Torso with Pirate Green Vest, Shirt, and Belt Pattern
+   973p3n.dat                 Minifig Torso with Blue Imperial Guard Pattern
+   973p3q.dat                 Minifig Torso with Red Imperial Guard Pattern
+   973p3r.dat                 Minifig Torso with Blue Imperial Guard Officer Pattern
+   973p3s.dat                 Minifig Torso with Red Imperial Guard Officer Pattern
+   973p3t.dat                 Minifig Torso with Green Stripes and Leather Strap Pattern
+   973p3u.dat                 Minifig Torso with Imperial Soldier Pattern
+   973p4h.dat                 Minifig Torso with Castle Bodice and Cloak Pattern
+   973p4n.dat                 Minifig Torso with Blue Castle Bodice Pattern
+   973p4q.dat                 Minifig Torso with Green Castle Bodice Pattern
+   973p4s.dat                 Minifig Torso with Tri-Coloured Shield and Gold Trim Pattern
+   973p4v.dat                 Minifig Torso with Dark Brown Collar, Patch, Rope Belt and Pouch without Back Pattern
+   973p65.dat                 ~Minifig Torso with Futuron Pattern (Obsolete)
+   973p68.dat                 Minifig Torso with MTron Logo Pattern
+   973p6b.dat                 Minifig Torso with Black Futuron Pattern
+   973p6c.dat                 Minifig Torso with Blue Futuron Pattern
+   973p6d.dat                 Minifig Torso with Red Futuron Pattern
+   973p6e.dat                 Minifig Torso with Yellow Futuron Pattern
+   973p6v.dat                 Minifig Torso with UFO Alien Insignia and 3 Blue Bars Pattern
+   973p6w.dat                 Minifig Torso with UFO Alien Circuitry and Red Lever Pattern
+   973p6x.dat                 Minifig Torso with UFO Alien Silver and Gold Circuitry Pattern
+   973p75.dat                 Minifig Torso with Zipper Jacket and Police Logo Pattern
+   973p81.dat                 Minifig Torso with Octan "OIL" Badge Pattern
+   973p85.dat                 Minifig Torso with Airplane Logo and "AIR" Badge Pattern
+   973p90.dat                 Minifig Torso with Classic Space Pattern
+   973pd7f.dat                Minifig Torso with Gold Tie Pin and Black Tie Pattern
+   973pdb.dat                 Minifig Torso with 3-Piece Suit, White Shirt and Red Tie Pattern
+   973pdf.dat                 Minifig Torso with Black Suit, Red Shirt, Gold Clasps Pattern
+   973pg0.dat                 Minifig Torso with Soccer Shirt "10" and "ZIDANE" Pattern
+   973prh.dat                 Minifig Torso with SW Nute Gunray Pattern
+   973pt2.dat                 Minifig Torso with Octan Logo Pattern
+   973pw4.dat                 Minifig Torso with Sheriff Pattern
+   973pw6.dat                 Minifig Torso with White Braces and Cartridge Belt Pattern
+   973pw7.dat                 Minifig Torso with Red Undershirt and Fringe Pattern
+   973pw9.dat                 Minifig Torso with Brown Vest, Buckle and String Bowtie Pattern
+   97492.dat                  =Brick  2 x  4 x  3
+   98127.dat                  Minifig Torso Short with Ridged Extended Front
+   98127pd7f.dat              Minifig Torso Short with Ridged Extended Back with Orange Collar and Black Tie Pattern
+   984.dat                    ~Technic Axle Joiner  3 x  2 with Spring - Axle Housing
+   995.dat                    ~Train Wheel Large with Pin Axle Hole
+   996.dat                    ~Train Wheel Small with Pin Axle Hole
+   ms1034.dat                 Electric Mindstorms NXT Compass Sensor
+   ms1038.dat                 Electric Mindstorms NXT Colour Sensor
+   ms1040.dat                 Electric Mindstorms NXT Accelerometer Sensor
+   ms1042.dat                 Electric Mindstorms NXT InfraRed Seeker Sensor
+   ms1044.dat                 Electric Mindstorms NXT Gyroscopic Sensor
+   ms1048.dat                 Electric Mindstorms NXT RFID Sensor
+   s11.dat                    Sticker  1.2 x  6 with Thin Black "POLICE"
+   s12a.dat                   Sticker  1.9 x  1.9 Round with Hot Heat Sensitive UFO Drawing
+   s12b.dat                   Sticker  1.9 x  1.9 Round with Warm Heat Sensitive UFO Drawing
+   s12c.dat                   Sticker  1.9 x  1.9 Round with Cold Heat Sensitive UFO Drawing
+   s12d.dat                   Sticker  1.9 x  1.9 Round with V.Cold Heat Sensitive UFO Drawing
+   u1104.dat                  Container  8 x  3 x  3 HO Car Showcase
+   u8013.dat                  ~Mursten Door  1 x  2 x  4 with 8 Panes (Obsolete)
+   u8014.dat                  ~Mursten Door  1 x  2 x  4 with Handle (Obsolete)
+   u8016c01.dat               Mursten Window Pane  1 x  2 x  2 with Glass
+   u8017c01.dat               Mursten Window Pane  1 x  2 x  3 with Glass
+   u8018c01.dat               Mursten Window Pane  1 x  4 x  2 with Glass
+   u8026.dat                  Mursten Window  1 x  4 x  3
+   u8027.dat                  Mursten Window  1 x  6 x  3 Triple
+   u8028.dat                  Mursten Window  1 x  6 x  3 with Shutters
+   u8029.dat                  ~Mursten Window  1 x  6 x  4 Panorama
+   u8029c01.dat               Mursten Window  1 x  6 x  4 Panorama with Glass
+   u8029c02.dat               Mursten Window  1 x  6 x  4 Panorama with Glass with LEGO Logo
+   u8031.dat                  ~Mursten Glass for Window  1 x  6 x  4 Panorama
+   u8032.dat                  ~Mursten Glass for Window Pane  1 x  2 x  2
+   u8033.dat                  ~Mursten Glass for Window Pane  1 x  2 x  3
+   u8034.dat                  ~Mursten Glass for Window Pane  1 x  4 x  2
+   u8205.dat                  Plate  4 x  8 Curved Right with Square Underside Studholes
+   u9026.dat                  Brick  1 x  1 Round without Groove
+   u9033.dat                  ~Train Track 12V Slotted Point Left 2 Merged Plates  2 x  8
+   u9034.dat                  ~Train Track 12V Slotted Point Right 2 Merged Plates  2 x  8
+   u9035.dat                  ~Train Track 12V Slotted Point Left Bottom Plate
+   u9036.dat                  ~Train Track 12V Slotted Point Right Bottom Plate
+   u9037.dat                  ~Train Track 12V Slotted Point: Actuating Pin
+   u9049.dat                  ~Wheel  8 x 35 with 12 Spokes
+   u9050.dat                  ~Motor Windup  2 x  6 x  2.333 Side Panel
+   u9051.dat                  ~Motor Windup  2 x  6 x  2.333 Axle Bush
+   u9052.dat                  ~Motor Windup  2 x  6 x  2.333 Rachet Axle
+   u9055.dat                  ~Electric Train 12V Power Pickup Plug Pin Type 2
+   u9057.dat                  ~Electric Train 12V Power Pickup Plug Pin Type 1
+   u9072.dat                  ~Electric Lightbrick  2 x  4 Metal Socket
+   u9073.dat                  ~Electric Lightbrick  2 x  4 Metal Connector
+   u9114.dat                  ~Window Fabuland Round with One Semicircular and Three Sextant Panes
+   u9130.dat                  ~Electric Train 12V Power Pickup
+   u9137.dat                  Train Track 12V Tapered Crossing
+   u9220.dat                  ~Train Track 12V Tapered Point Left Main Part (Needs Work)
+   u9221.dat                  ~Train Track 12V Tapered Point Right Main Part (Needs Work)
+   u9223.dat                  ~Train Track 12V Tapered Point Right Bottom Plate
+   u9228c01.dat               Electric Plug (Type 3) Twin (Complete)
+   u9228c02.dat               Electric Plug (Type 3) Twin with Cable End in Y Direction
+   u9228c03.dat               Electric Plug (Type 3) Twin with Cable End in Z Direction
+   u9228c04.dat               Electric Cable White with Plugs (Type 3) Twin
+   u9231c00.dat               ~Train Track 12V Tapered Point Left Manual (Branching)
+   u9231c01.dat               Train Track 12V Tapered Point Left Manual (Straight)
+   u9231c02.dat               Train Track 12V Tapered Point Left Manual (Branching)
+   u9232c00.dat               ~Train Track 12V Tapered Point Left Electric (Branching)
+   u9232c01.dat               Train Track 12V Tapered Point Left Electric (Straight)
+   u9232c02.dat               Train Track 12V Tapered Point Left Electric (Branching)
+   u9233.dat                  ~Train Track 12V Tapered Point Right Manual (Straight)
+   u9233c00.dat               ~Train Track 12V Tapered Point Right Manual (Branching)
+   u9233c01.dat               Train Track 12V Tapered Point Right Manual (Straight)
+   u9233c02.dat               Train Track 12V Tapered Point Right Manual (Branching)
+   u9234.dat                  ~Train Track 12V Tapered Point Right Electric (Straight)
+   u9234c00.dat               ~Train Track 12V Tapered Point Right Electric (Branching)
+   u9234c01.dat               Train Track 12V Tapered Point Right Electric (Straight)
+   u9234c02.dat               Train Track 12V Tapered Point Right Electric (Branching)
+   u9290.dat                  ~Electric Motor Case  4 x 12 x  3.333 Type 2 - Axle Bush 1
+   u9291.dat                  ~Electric Motor Case  4 x 12 x  3.333 Type 2 - Axle Bush 2
+   u9310.dat                  ~Fabuland House Block Floor
+   u9310c01.dat               Fabuland House Block with Red Door and 2 Red Round Windows with Four Quadrant Panes (Complete)
+   u9310c02.dat               Fabuland House Block with Blue Door and 2 Blue Round Windows with One Semicircular and Three Sextant Panes Panes (Complete)
+   u9310c03.dat               Fabuland House Block with Yellow Door and 2 Yellow Round Windows with Four Quadrant Panes (Complete)
+   u9310c04.dat               Fabuland House Block with White Door and 2 White Rectangular Windows (Complete)
+   u9310c05.dat               Fabuland Garage Block with White Doors and Rectangular Windows (Complete)
+   u9310c06.dat               Fabuland Garage Block with Yellow Doors and Rectangular Windows (Complete)
+   u9310c07.dat               Fabuland Garage Block with Yellow Doors and Four Quadrant Pane Windows (Complete)
+   u9310c08.dat               Fabuland Garage Block with Red Doors and Blue One Semicircular and Three Sextant Pane Windows (Complete)
+   u9311.dat                  ~Fabuland House Block End Panel Solid
+   u9312.dat                  ~Fabuland House Block End Panel Arched
+   u9313.dat                  ~Fabuland House Block Roof
+   u9314.dat                  ~Fabuland House Block Side Panel with 3 Window Holes
+   u9315.dat                  ~Fabuland House Block Side Panel with Doorway and 2 Window Holes
+   u9316.dat                  Door  1 x  4.5 x  8.333 Fabuland
+   u9317.dat                  ~Door Frame  7 x  8 Fabuland
+   u9318.dat                  Door Arched  5 x  7.5 for Frame  7 x  8 Fabuland
+   u9421.dat                  ~Motor Windup  2 x  6 x  2.333 Rachet Axle Long
+   s\004158c1.dat             ~Sticker System with United Kingdom Flag Pattern - Pattern
+   s\004159e1.dat             ~Sticker System US-Flag Pattern - Star
+   s\004159e2.dat             ~Sticker System US-Flag Pattern - Filling between stars
+   s\004219b1.dat             ~Sticker System with Australia Flag Pattern - Star
+   s\004690as02.dat           ~Sticker  2.6 x  6 with White/Red/Blue Stripes - Scalloping
+   s\170876s1.dat             ~Sticker With Octan Logo Pattern - Half of Logo
+   s\170876s2.dat             ~Sticker With Octan Logo Pattern - Logo Frame
+   s\170876s3.dat             ~Sticker With Octan Logo Pattern - Negative
+   s\19729s01.dat             ~Minifig Head Cuboid without Front Surface
+   s\2131s01.dat              ~Fabuland Refrigerator Cabinet - Half
+   s\2332s01.dat              ~Duplo Door Frame  2 x  4 x  3 with Raised Door Outline-Backside
+   s\2335p40s01.dat           ~Flag  2 x  2 with Goblets and Grapes Pattern Negative
+   s\2335ps4a.dat             ~Flag  2 x  2 with Goblets & Grapes Pattern - Silver Detail
+   s\2335ps4b.dat             ~Flag  2 x  2 with Goblets & Grapes Pattern - Gold Detail
+   s\2340p01s01.dat           ~Tail  4 x  1 x  3 with Maple Leaf Air Canada Logo Pattern - Side
+   s\2340s01.dat              ~Tail  4 x  1 x  3 without Side Faces
+   s\2345p02a.dat             ~Panel Wall  3 x  3 x  6 Scattered Stones Background Pattern
+   s\2345p02b.dat             ~Panel Wall  3 x  3 x  6 Scattered Stones Pattern
+   s\2408s01.dat              ~Panel 10 x  6 x 11 without Front
+   s\2421a.dat                ~Propeller  3 Blade  4 Diameter - Single Blade
+   s\2431ps3a.dat             ~Tile  1 x  4 with SW Mini Jedi Starfighter - Orange
+   s\2431ps3b.dat             ~Tile  1 x  4 with SW Mini Jedi Starfighter - Green
+   s\2454ps5a.dat             ~Brick  1 x  2 x  5 with Han Solo Carbon - Silver
+   s\2454ps5b.dat             ~Brick  1 x  2 x  5 with Han Solo Carbon - Dark Silver
+   s\2454s01.dat              ~Brick  1 x  2 x  5 without Front Face (Obsolete)
+   s\2495s01.dat              ~Minifig Hand Truck Side
+   s\2507p01a.dat             ~Windscreen 10 x  4 x  2 & 1/3 Canopy - Silver
+   s\2525ps1a.dat             ~Flag  6 x  4 with SW Jedi Starfighter Pattern - Maroon
+   s\2525s01.dat              ~Flag  6 x  4 without Front and Back
+   s\2525s02.dat              ~Flag  6 x  4 with Jolly Roger Pattern
+   s\2541s01.dat              ~Boat Rigging  5 x 27 Top Corner Joint
+   s\2541s02.dat              ~Boat Rigging  5 x 27 Side Joint
+   s\2541s03.dat              ~Boat Rigging  5 x 27 Bottom Corner Joint
+   s\2550s01.dat              ~Animal Monkey Body - Half
+   s\2551s01.dat              ~Boat  5 x 14 x  2 - Half Side
+   s\2586p30a.dat             ~Minifig Shield Ovoid with Indigo Islanders Pattern - Half
+   s\265s01.dat               ~Electric Lightbrick  2 x  2 Type 1  4.5V Metal Connector
+   s\266s01.dat               ~Electric Lightbrick  2 x  2 Type 1 12V Metal Connector
+   s\2670s02.dat              ~Monorail Track Bottom Triangles Subpart
+   s\2670s03.dat              ~Monorail Track Rack
+   s\2672s02.dat              ~Monorail Track Curve Rack - 0.9 Degree Segment
+   s\2704s01.dat              ~Technic Figure Leg Lower Ring
+   s\2714s01.dat              ~Bar  8L Stop Rings and Pin
+   s\2739as01.dat             ~Technic Steering Link Towball Socket
+   s\2774s01.dat              ~Monorail Track Stop/Go Switch Bottom
+   s\2775s01.dat              ~Pin/Screw for Electric Plug (Type 4) Twin Extra-Wide (Obsolete)
+   s\2845s01.dat              ~Technic Control Centre - White Rubber Foot in Holder
+   s\2845s04.dat              ~Technic Control Centre II - Battery Cover - Locking Pins
+   s\28621s01.dat             ~Minifig Head - Stud Vented without Outer Face
+   s\2880s01.dat              ~Monorail Track Point Bottom Triangles Subpart
+   s\2880s02.dat              ~Monorail Track Rack - Straight without Top
+   s\2880s03.dat              ~Monorail Track Curve Rack - Curved Bottom Faces
+   s\2880s04.dat              ~Monorail Track Curve Rack - 1.8 Degree Segment without Top
+   s\2880s05.dat              ~Monorail Track Rack Single Tooth
+   s\2880s07.dat              ~Monorail Track Curve Rack - 1.8 Degree Segment
+   s\2880s08.dat              ~Monorail Track Point Top Locking
+   s\2880s09.dat              ~Monorail Track Point Top Subpart
+   s\2895s01.dat              ~Train Wheel  9V Electrical Contact Metal
+   s\2906s01.dat              ~Technic Rotor  4 Blade  7 Diameter
+   s\2918s01.dat              ~Train Front Sloping Top - Half
+   s\2994s01.dat              ~Wheel 12 x 20 with Technic Axle Hole and 6 Pegholes - Segment
+   s\30030s1.dat              ~Baseplate 32 x 32 Racing without Top Surface
+   s\30033s01.dat             ~Plate  2 x  2 with Rod Frame Octagonal - Support
+   s\3003pe1s02.dat           ~Brick  2 x  2 with Black Eye Pattern on Both Sides - Inner of the Eye
+   s\3004p90a.dat             ~Brick  1 x  2 with Classic Space Logo - Frontside
+   s\3004p90b.dat             ~Brick  1 x  2 with Classic Space Logo - Gold Details
+   s\3004pt5s01.dat           ~LEGO Logo with Closed "O" Pattern for Brick Front Face
+   s\30062s4.dat              ~Plate  6 x  6 Octagonal Open Center Quadrant
+   s\30072s02.dat             ~Brick 12 x 24 Underside Edge Fillet
+   s\30083s01.dat             ~Windscreen  6 x  6 x  3 Dome with Hinge without Top-Face - Half
+   s\3009p05s01.dat           ~Black "BAHNHOF" Sans-Serif Pattern
+   s\3009ptgs01.dat           ~Pattern "TAXI" Thick
+   s\3009ptgs02.dat           ~Pattern "TAX" Thick
+   s\3009pths01.dat           ~Pattern "TAXA" Thick
+   s\3009ptis01.dat           ~Pattern "TAXE" Thick
+   s\3010p41a.dat             ~Brick  1 x  4 with Homemaker Stove Switch Pattern - Switch
+   s\30180p02s01.dat          ~Tools and Motorcycle Pattern - Hammer Outside
+   s\30180p02s02.dat          ~Tools and Motorcycle Pattern - Hammer Inside
+   s\30180p02s04.dat          ~Tools and Motorcycle Pattern - Wrench Inside
+   s\30271s01.dat             ~Baseplate 32 x 48 Raised with Corner Pits - Quarter Top
+   s\30295s4.dat              ~Car Base 12 x 18 x  1.333 - Quarter
+   s\30296s01.dat             ~Arch  2 x 14 x  2.333 - Leg
+   s\30296s02.dat             ~Arch  2 x 14 x  2.333 - Bridge
+   s\30363s01.dat             ~Slope Brick 18  4 x  2 without Top Face
+   s\30364s01.dat             ~Hinge Brick  1 x  2 Locking 30364/30365 Common Region
+   s\30367s01.dat             ~Cylinder  2 x  2 with Dome Top Subpart - Quarter
+   s\30372ps1s01.dat          ~Windscreen  4 x  7 x  1.667 with SW Red Triangle Pattern - Half
+   s\30372ps2s01.dat          ~Windscreen  4 x  7 x  1.667 with SW Snowspeeder Pattern - Half
+   s\30372s01.dat             ~Windscreen  4 x  7 x  1 & 2/3 without Top Surfaces
+   s\30373s01.dat             ~Slope Brick 65  6 x  6 x  2 Inverted Quadruple - 1/8 Section
+   s\3037ps0a.dat             ~Slope Brick 45  2 x  4 with Red and Gold Triangles Left Pattern
+   s\30391s01.dat             ~Tyre 14/ 50 x 17 Pattern
+   s\30399s01.dat             ~Support  8 x 18 x  3 Stanchion Base End
+   s\30473s1.dat              ~Baseplate 32 x 32 Canyon without Island without Top Surface
+   s\30473s2.dat              ~Baseplate 32 x 32 Canyon without Island - Crescent Surface
+   s\30552s01.dat             ~Hinge Arm Locking - Axlehole Body
+   s\30554bs01.dat            ~Hinge Arm Locking - Centre Body with Hole - 1/4
+   s\30645s01.dat             ~Brick 12 x 12 with Support Pins - Corner
+   s\30645s02.dat             ~Brick 12 x 12 with Support Pins - 2 Adjacent Sides
+   s\3067s01.dat              ~Brick  1 x  6 without Center Studs and Frontside
+   s\3068as01.dat             ~Tile  2 x  2 without Groove without Top Face
+   s\3068bp54s01.dat          ~UFO Pattern - Half
+   s\3068p11a.dat             ~Launch Command Logo Pattern
+   s\3069bphs01.dat           ~Tile  1 x  2 with Black Top without Lower-Left Corner Pattern - Top Surface
+   s\3069bs3a.dat             ~Tile  1 x  2 with SW Mini Jedi Starfighter Pattern Dithered Red
+   s\3069ps6a.dat             ~Tile  1 x  2 with SW Jedi Starfighter Controls - Dithered Gold
+   s\3069ps6b.dat             ~Tile  1 x  2 with SW Jedi Starfighter Controls - Dark Gold
+   s\3069pw1a.dat             ~Tile  1 x  2 with Playing Cards Pattern - Letter A
+   s\3069pw1b.dat             ~Tile  1 x  2 with Playing Cards Pattern - Border Letter A
+   s\3069pw1k.dat             ~Tile  1 x  2 with Playing Cards Pattern - Letter K
+   s\3069pw1l.dat             ~Tile  1 x  2 with Playing Cards Pattern - Border Letter K
+   s\3070bata.dat             ~Tile  1 x  1 with "A" Pattern
+   s\3070batb.dat             ~Tile  1 x  1 with "B" Pattern
+   s\3070batc.dat             ~Tile  1 x  1 with "C" Pattern
+   s\3070batd.dat             ~Tile  1 x  1 with "D" Pattern
+   s\3070bate.dat             ~Tile  1 x  1 with "E" Pattern
+   s\3070batf.dat             ~Tile  1 x  1 with "F" Pattern
+   s\3070batg.dat             ~Tile  1 x  1 with "G" Pattern
+   s\3070bath.dat             ~Tile  1 x  1 with "H" Pattern
+   s\3070bati.dat             ~Tile  1 x  1 with "I" Pattern
+   s\3070batj.dat             ~Tile  1 x  1 with "J" Pattern
+   s\3070batk.dat             ~Tile  1 x  1 with "K" Pattern
+   s\3070batl.dat             ~Tile  1 x  1 with "L" Pattern
+   s\3070batm.dat             ~Tile  1 x  1 with "M" Pattern
+   s\3070batn.dat             ~Tile  1 x  1 with "N" Pattern
+   s\3070bato.dat             ~Tile  1 x  1 with "O" Pattern
+   s\3070batp.dat             ~Tile  1 x  1 with "P" Pattern
+   s\3070batq.dat             ~Tile  1 x  1 with "Q" Pattern
+   s\3070batr.dat             ~Tile  1 x  1 with "R" Pattern
+   s\3070bats.dat             ~Tile  1 x  1 with "S" Pattern
+   s\3070batt.dat             ~Tile  1 x  1 with "T" Pattern
+   s\3070batu.dat             ~Tile  1 x  1 with "U" Pattern
+   s\3070batv.dat             ~Tile  1 x  1 with "V" Pattern
+   s\3070batw.dat             ~Tile  1 x  1 with "W" Pattern
+   s\3070batx.dat             ~Tile  1 x  1 with "X" Pattern
+   s\3070baty.dat             ~Tile  1 x  1 with "Y" Pattern
+   s\3070batz.dat             ~Tile  1 x  1 with "Z" Pattern
+   s\3070baua.dat             ~Tile  1 x  1 with "AE" Pattern
+   s\3070baub.dat             ~Tile  1 x  1 with "O Slash" Pattern
+   s\3070bauc.dat             ~Tile  1 x  1 with "A Ring" Pattern
+   s\3070baud.dat             ~Tile  1 x  1 with "O Diaeresis" Pattern
+   s\3070baue.dat             ~Tile  1 x  1 with "U Diaeresis" Pattern
+   s\3070bs1a.dat             ~Tile  1 x  1 With SW Mini Snowspeeder Pattern - Dark Red
+   s\31000s01.dat             ~Duplo Primo Brick  1 x  1 without Side Faces
+   s\32005s01.dat             ~Technic Steering Link Towball Socket with Stop
+   s\32170s01.dat             ~Technic Gear Rack Double with Ball Joint Subpart
+   s\32193s01.dat             ~Wheel 14 x 21 Solid Rubber with Axlehole - 1/15 Tread
+   s\32195s01.dat             ~Technic Suspension Arm  2 x  6.5 Main
+   s\32247s02.dat             ~Inner Profile 1 for Tyre for Wheel 41mm Znap
+   s\32247s03.dat             ~Inner Profile 2 for Tyre for Wheel 41mm Znap
+   s\3228s01.dat              ~Train Track Rail Straight 4 Teeth
+   s\32293s01.dat             ~Towball Socket with Strap
+   s\3231as01.dat             ~Train Track  4.5V Crossing Tapered - Rail End
+   s\3231bs01.dat             ~Train Track  4.5V Crossing Slotted - Rail End
+   s\3240s01.dat              ~Train Track 12V Straight Insert: Sweep Front/End
+   s\3241s01.dat              ~Train Track 12V Curved Insert: Sweep Front/End
+   s\3241s02.dat              ~Train Track 12V Insert: Main Sweep, no Top, no Rim
+   s\3241s03.dat              ~Train Track 12V Insert: Main Sweep, with Top
+   s\3241s04.dat              ~Train Track 12V Insert: main sweep, plus top, plus rim
+   s\3241s05.dat              ~Train Track 12V Insert: Plug Socket Sweep Half Segment
+   s\3241s06.dat              ~Train Track 12V Insert: Plug Socket Metal Portion
+   s\3241s07.dat              ~Train Track 12V Insert: Sweep Half Segment
+   s\3241s08.dat              ~Train Track 12V Underside Metal Lip
+   s\32498s01.dat             ~1/8 of 36 Tooth Double Bevel Gear Hub
+   s\32498s02.dat             ~1/6 of 36 Tooth Double Bevel Gear Ring
+   s\3297ps1a.dat             ~Obsolete file
+   s\3297s01.dat              ~Slope Brick 33  3 x  4 without Top Face
+   s\3298s01.dat              ~Slope Brick 33  3 x  2 without Front Face
+   s\32as01.dat               ~Door  1 x  2 x  3 with Hole without Studs
+   s\32cs01.dat               ~Door  1 x  2 x  3 without Hole without Studs
+   s\3351as01.dat             ~Roadsign Triangular Type 1 without Decorated Surface
+   s\3351as02.dat             ~Roadsign Straight Type 1 (Round Underside Stud) - Post
+   s\3351bs01.dat             ~Roadsign Triangular Type 2 without Decorated Surface
+   s\3351bs02.dat             ~Roadsign Straight Type 2 (Oval Underside Stud) - Post
+   s\3492s01.dat              ~Crane Grab Top Subpart
+   s\3570s01.dat              ~Roadsign Octagonal without Decorated Surface
+   s\3626bp84s01.dat          ~Minifig Head with Smile and White Pupils Pattern without Eyebrows
+   s\3626bp84s02.dat          ~Minifig Head Eyebrows
+   s\3665as01.dat             ~Slope Brick 45  2 x  1 Inverted without Inner Stopper Ring and Front Face
+   s\3754p01a.dat             ~Brick  1 x  6 x  5 with Classic Space Frame Pattern
+   s\3754s01.dat              ~Brick  1 x  6 x  5 without Front Face
+   s\3811p02a.dat             ~Baseplate 32 x 32 with Island Pattern - 1/8 Island Pattern
+   s\3811p02b.dat             ~Baseplate 32 x 32 with Island - Light Green Detail
+   s\3811p02c.dat             ~Baseplate 32 x 32 with Island Pattern - 1/8 Water Pattern
+   s\3811p02d.dat             ~Baseplate 32 x 32 with Island and Water Pattern - Water Area
+   s\3811p02e.dat             ~Baseplate 32 x 32 with Island and Water Pattern
+   s\3811s01.dat              ~Baseplate 32 x 32 without Top Surface
+   s\3811s02.dat              ~Baseplate 32 x 32 with Island Pattern - 1/8 Pattern Area
+   s\3816p6fa.dat             ~Minifig Leg Right with Astro Pattern - Gold Detail
+   s\3816s01.dat              ~Minifig Leg Right without Front Surfaces (Obsolete)
+   s\3816s02.dat              ~Minifig Leg Right without Front and Side Surfaces (Obsolete)
+   s\3817p6fa.dat             ~Minifig Leg Left with Astro Pattern - Gold Detail
+   s\3817s01.dat              ~Minifig Leg Left without Front Surfaces (Obsolete)
+   s\3842as01.dat             ~Minifig Helmet Classic - Structure
+   s\3842as02.dat             ~Minifig Helmet Classic - Thin Chin Guard
+   s\3842as03.dat             ~Minifig Helmet Classic - Pivot
+   s\3842bs02.dat             ~Minifig Helmet Classic - Thick Chin Guard and Visor Dimples
+   s\3842cs02.dat             ~Minifig Helmet Classic - Thick Chin Guard without Visor Dimples
+   s\3861s01.dat              ~Door  1 x  4 x  5 with 4 Panes Common Geometry
+   s\3898s01.dat              ~Minifig Cook's Hat Puff - 1/8
+   s\3900s01.dat              ~Minifig Signal Holder without Rear Surface
+   s\3939p91a.dat             ~Classic Space Logo Pattern - Gold Detail
+   s\3939p91b.dat             ~Classic Space Logo Pattern - Red, White, Yellow Detail
+   s\3979s01.dat              ~Window Fabuland Round with Four Quadrant Panes - Half
+   s\4003s01.dat              ~Wheelbarrow Handle
+   s\40242s01.dat             ~Door  1 x  8 x  6 Frame - Shutter Holder
+   s\40242s02.dat             ~Door  1 x  8 x  6 Frame - Clip
+   s\40242s03.dat             ~Door  1 x  8 x  6 Frame - Back Side
+   s\40242s04.dat             ~Door  1 x  8 x  6 Frame - Front Side
+   s\40244s01.dat             ~Staircase Spiral Axle - Quarter
+   s\4066as01.dat             ~Duplo Brick  1 x  2 x  2 Type 1 without Front Face
+   s\4066bs01.dat             ~Duplo Brick  1 x  2 x  2 Type 2 without Front Face
+   s\41666s01.dat             ~1/2 Technic Arm  1 x  6 with Gear 12 Tooth Double Bevel Ends
+   s\41767s01.dat             ~Wedge Brick  4 x  2 Right without Studs
+   s\41857s01.dat             ~Motor Pull Back  2 x  6 Base - Half
+   s\41862s01.dat             ~Plate  2 x  2 with Raised Grilles - One Grille
+   s\4186a.dat                ~Baseplate 48 x 48 - 48 Studs
+   s\4215as19.dat             ~Pattern Snowflake Blue - 1/6 Snowflake
+   s\4215p70s01.dat           ~Tricycle and Wrench Pattern - Motorcycle and Background
+   s\4215p70s02.dat           ~Tricycle and Wrench Pattern - Motorcycle LightGrey Area
+   s\4215p70s03.dat           ~Tricycle and Wrench Pattern - Motorcycle DarkGrey Area
+   s\4215p70s04.dat           ~Tricycle and Wrench Pattern - Motorcycle LightBlue Area
+   s\4216816s.dat             ~Sticker  1.6 x  1.8 with US Flag Pattern - Filling
+   s\42409s01.dat             ~Snow Flake  4 x  4 - Arm Half with Flat End
+   s\42409s02.dat             ~Snow Flake  4 x  4 - Arm Half without End
+   s\42657s01.dat             ~Duplo Brick  1 x  2 x  2 Type 3 without Front Face
+   s\4266s01.dat              ~Wheel 20 x 30 Smooth with 6 Pegholes - 1/6 with Axlehole
+   s\4266s03.dat              ~Wheel 20 x 30 Smooth with 6 Pegholes - 1/6 with Peghole
+   s\4267s01.dat              ~Tyre 20/ 83 x 30 Offset Tread - Segment
+   s\4285s01.dat              ~Dish  6 x  6 Webbed - segment
+   s\429s01.dat               ~Train Brick  2 x  4 without Top Face
+   s\4345s01.dat              ~Container Box  2 x  2 x  2 without Front Face without Top Studs
+   s\43720s01.dat             ~Wedge  4 x  2 Sloped Right Body without Face and Studs
+   s\43822as1.dat             ~Sticker Train Fan Segment
+   s\4444s01.dat              ~Panel  2 x  5 x  6 Wall without Front Face
+   s\448s01.dat               ~LEGO Logo with Closed "O"
+   s\459s01.dat               ~Train 12V Actuator  4 x  8 x  1.667 Subpart
+   s\46212aph1s02.dat         ~Window Pane Pattern - Highlighted Area
+   s\46212aph1s03.dat         ~Window Pane Pattern - Shadowed Area
+   s\46212as01.dat            ~Brick  1 x  2 x  5 with Hollow Studs without Inner Ridges without Front Surface
+   s\47314s01.dat             ~Technic Bionicle Weapon Aero Slicer - Half
+   s\47398s01.dat             ~Wing  3 x 12 Subpart
+   s\47996s01.dat             ~Boat Rigging  4 x 28 Corner Joint
+   s\47996s02.dat             ~Boat Rigging  4 x 28 Side Joint
+   s\480s02.dat               ~Hinge Arm Locking - Dual Finger End
+   s\480s03.dat               ~Hinge Arm Locking - Center Body 1/4
+   s\48168s01.dat             ~Technic Turntable Type 2 Top - Bracket
+   s\48288s01.dat             ~Tile  8 x 16 without Top Face
+   s\48452s01.dat             ~Technic Turntable Type 2 Base - Bracket
+   s\4874s01.dat              ~Fabuland Merry-Go-Round Platform - 1/4
+   s\48933s01.dat             ~Wedge  4 x  4 Triple with Stud Notches without Faces and Lines
+   s\501s01.dat               ~Electric Train Motor 12V with Bottomside Contacts Pushed In
+   s\50904s01.dat             ~Liftarm Axlehole with Reduced Strain Relief
+   s\50944s01.dat             ~Wheel Rim  6.4 x 11 with 5 Spokes without Front Face
+   s\50947s01.dat             ~Car Mudguard  4.5 x  1 x  1 without Top Face
+   s\511s01.dat               ~Metal Contact for Electric Train Track Contact Base
+   s\51595s01.dat             ~Baseplate 16 x 16 without Top Surface
+   s\539s01.dat               ~Profile for Tyre for Wheel 41mm Znap
+   s\551ps1a.dat              ~Obsolete file
+   s\551ps1b.dat              ~Obsolete file
+   s\553ps1a.dat              ~Cylinder  2 x  2 with Dome Top and R2-D2 Pattern - Silver
+   s\553ps2a.dat              ~Cylinder  2 x  2 with Dome Top and R5-D4 Silver Pattern
+   s\55707ds1.dat             ~Minifig Shackles Half
+   s\55981s02.dat             ~Spokes for Wheel Rims 18D
+   s\57779s1.dat              ~Crane Arm Outside with Holes - Side Face
+   s\579s01.dat               ~Electric Train Motor  4 x 12 x  4 - Cover without Front
+   s\58124s01.dat             ~Electric Power Functions Connector Top
+   s\58124s03.dat             ~Electric Power Functions 4-way Ribbon Cable End
+   s\58148s01.dat             ~Electric Power Functions Infrared Receiver Bottom (Needs Work)
+   s\59521s01.dat             ~Wheel 28 x 158 with 3 Spokes - 1/8 Outer Rim
+   s\59521s02.dat             ~Wheel 28 x 158 with 3 Spokes - Spoke
+   s\59s01.dat                ~Minifig Sword Greatsword - Grip Segment
+   s\59s02.dat                ~Minifig Sword Greatsword - 1/4 Blade
+   s\6002s2.dat               ~Panel  6 x  6 x  9 Round with Spherical Top
+   s\60208s01.dat             ~Wheel Rim 16 x 31 with 6 Pegholes - 1/4
+   s\6024s1.dat               ~Baseplate 32 x 32 Canyon without Top Surface
+   s\6024s2.dat               ~Baseplate 32 x 32 Canyon - Island Surface
+   s\6024s3.dat               ~Baseplate 32 x 32 Canyon - Studs
+   s\60477s01.dat             ~Slope Brick 18  4 x  1 without Front Face
+   s\604s01.dat               ~Window  1 x  6 x  3 Panorama with Holes
+   s\6057s01.dat              ~Boat Rigging  5 x 15 Top Corner Joint
+   s\6057s02.dat              ~Boat Rigging  5 x 15 Side Joint
+   s\6057s03.dat              ~Boat Rigging  5 x 15 Bottom Corner Joint
+   s\6063s01.dat              ~Plate 10 x 10 Octagonal Open Center Quadrant
+   s\6065s01.dat              ~Plant Bush Base -  2 Leaves
+   s\6069ps2a.dat             ~Wedge  4 x  4 Triple with SW Mini Slave 1 Pattern - Yellow
+   s\6069ps2b.dat             ~Wedge  4 x  4 Triple with SW Mini Slave 1 Pattern - Sand Green
+   s\608p03a.dat              ~Baseplate 32 x 32 Road 9-Stud T-Junction with Space Lines
+   s\609p01s1.dat             ~Baseplate 32 x 32 Road 9-Stud Curve with Road Pattern - Lines
+   s\6145s01.dat              ~Animal Dragon Body Back without Patterned Area
+   s\6155s01.dat              ~Door  1 x  4 x  4 Lift Slat
+   s\6178s01.dat              ~Plate  6 x 12 with 22 Studs on Three Edges without Top
+   s\6205s01.dat              ~Tile  6 x 16 with Studs on  3 Edges without Top
+   s\636s01.dat               ~Conveyor Belt Axle - Drum
+   s\647s01.dat               ~Roadsign Square without Decorated Surface
+   s\6538s01.dat              ~Technic Axle Joiner Core
+   s\6538s02.dat              ~Technic Axle Joiner Ridge Segment
+   s\6565s01.dat              ~Wedge  3 x  2 without Studs
+   s\685s01.dat               ~Maxifig Head without Front
+   s\6936s02.dat              ~Tap  1 x  2 with Two Valves Body
+   s\71472s01.dat             ~Pattern Town TV Logo
+   s\71958s01.dat             ~Boat Hull Unitary 22 x  8 x  2.333 Base - Half (Needs Work)
+   s\72824s01.dat             ~Minifig Soccer Ball Pentagonal Facet Surroundings
+   s\72824s02.dat             ~Minifig Soccer Ball Pentagonal Facet
+   s\764s01.dat               ~Signpost Old without Decorated Faces
+   s\776s01.dat               ~Flag on Flagpole Type 1 without Faces
+   s\777s01.dat               ~Flag on Flagpole - 1/3 Horizontal Stripe
+   s\783s01.dat               ~Flag on Flagpole Type 3 without Faces
+   s\861s01.dat               ~Train Track 12V Straight Insert Type 1: Front/End
+   s\864s01.dat               ~Train Track 12V Point Left: Main Part Body (Needs Work)
+   s\864s02.dat               ~Train Track 12V Slotted Point: Conducting Rails Base 1/2
+   s\864s03.dat               ~Train Track 12V Slotted Point: Conducting Rails Base
+   s\864s04.dat               ~Train Track 12V Slotted Point: Conducting Rail
+   s\864s05.dat               ~Train Track 12V Slotted Point: Rail Top Rimmed
+   s\864s06.dat               ~Train Track 12V Slotted Point: Sweep Front/End
+   s\864s07.dat               ~Train Track 12V Slotted Point: Rail Base
+   s\864s09.dat               ~Train Track 12V Slotted Point: Slot
+   s\864s10.dat               ~Train Track 12V Slotted Point: Rimmed Rail End (Needs Work)
+   s\866s01.dat               ~Train Track 12V Curved Insert Type 1: Front/End
+   s\87752s01.dat             ~Windscreen  6 x  4 x  2 Bubble Canopy with Handle - Half
+   s\918s01.dat               ~Electric Battery Box Lid without Face
+   s\919s02.dat               ~Electric Battery Box with Pinholes Box Half
+   s\919s03.dat               ~Electric Battery Box with Pinholes Inside (Needs Work)
+   s\919s04.dat               ~Electric Power Functions 9V Battery Box Connector
+   s\92402s01.dat             ~Tyre 14/ 50 x 17 Pattern with Centre Band - Profile
+   s\92589s01.dat             ~Door  1 x  4 x  6 Lattice Corner
+   s\933s01.dat               ~Electric Mindstorms NXT RJ12 Style Plug Contact
+   s\933s02.dat               ~Electric Mindstorms NXT Cable End
+   s\948cs01.dat              ~Train Track  4.5V Point Left - Slotted Grooved Rail End
+   s\948cs02.dat              ~Train Track  4.5V Point Left - Slotted Ridged Rail End
+   s\970p4f1.dat              ~Minifig Hips with Leather Belt & Red Studs - Gold Detail
+   s\970p63a.dat              ~Minifig Hips with Robot Pattern - Silver (Obsolete)
+   s\970ps5a.dat              ~Minifig Hips with SW Gunbelt - Silver Details
+   s\971phba.dat              ~Minifig Leg Right with Greatcoat - Purple Detail
+   s\972phba.dat              ~Minifig Leg Left with Greatcoat - Purple Detail
+   s\973p2fa.dat              ~Minifig Torso with Spotted Singlet and Necklace Pattern - Gold
+   s\973p35a.dat              ~Minifig Torso with Imperial Guard Pattern - Gold
+   s\973p35b.dat              ~Minifig Torso with Imperial Guard Pattern - Silver
+   s\973p37a.dat              ~Minifig Torso with Imperial Guard Officer Pattern - Silver
+   s\973p37b.dat              ~Minifig Torso with Imperial Guard Officer Pattern - Gold
+   s\973p37c.dat              ~Minifig Torso with Imperial Guard Officer Pattern - Colour
+   s\973p37d.dat              ~Minifig Torso with Imperial Guard Officer Pattern - Background
+   s\973p3ba.dat              ~Obsolete file
+   s\973p3bb.dat              ~Obsolete file
+   s\973p3fa.dat              ~Minifig Torso with Striped Shirt/Buttons - Silver Detail
+   s\973p4aa.dat              ~Minifig Torso with Castle Bodice Pattern - Colour
+   s\973p4ab.dat              ~Minifig Torso with Castle Bodice Pattern - Background
+   s\973p4sa.dat              ~Minifig Torso with Tri-Coloured Shield and Gold Trim - Gold
+   s\973p65a.dat              ~Minifig Torso with Futuron Pattern - Gold
+   s\973p65b.dat              ~Minifig Torso with Futuron Pattern - Colour
+   s\973p65c.dat              ~Minifig Torso with Futuron Pattern - Background
+   s\973p6fa.dat              ~Minifig Torso with Astro Pattern - Gold Detail
+   s\973p79a.dat              ~Lifebelt Logo Pattern
+   s\973p79b.dat              ~ID Card with Rectangular Clip Pattern
+   s\973p7ba.dat              ~Obsolete file
+   s\973pa2a.dat              ~Obsolete file
+   s\973pa2b.dat              ~Obsolete file
+   s\973pd0a.dat              ~Minifig Torso Back with Studios Clapperboard Pattern
+   s\973pd0b.dat              ~Studios ID Card Pattern
+   s\973ph0a.dat              ~Minifig Torso with School Uniform - Trim Detail
+   s\973ph0b.dat              ~Minifig Torso with Hogwarts Uniform - Gold Detail
+   s\973ph2a.dat              ~Minifig Torso with Slytherin Uniform - Silver Detail
+   s\973phba.dat              ~Obsolete file
+   s\973psb2.dat              ~Minifig Torso - SW Blast Armour Plates - 1/2
+   s\973psfa.dat              ~Obsolete file
+   s\973pska.dat              ~Obsolete file
+   s\973pskb.dat              ~Obsolete file
+   s\973pt2a.dat              ~Minifig Torso with "Octan" Logo Pattern - Wording (Obsolete)
+   s\973pt2b.dat              ~Obsolete file
+   s\973pw4a.dat              ~Minifig Torso with Sheriff Pattern - Button
+   s\973pw7a.dat              ~Minifig Torso with Red Undershirt and Fringe Pattern - Button
+   s\973sdfa.dat              ~Minifig Torso with Black Suit, Red Shirt, Gold Clasps - Gold
+   s\973sdfb.dat              ~Minifig Torso with Black Suit, Red Shirt, Gold Clasps - Red
+   s\973sp1f1.dat             ~Police Badge - Plain
+   s\973sp1f3.dat             ~Minifig Torso with Buttons and Police Badge Plain Pattern - Pocket
+   s\973sp4x.dat              ~Minifig Torso with Dk Green Corset - Ruffle
+   s\98127s01.dat             ~Minifig Torso Short with Ridged Extended Front without Back
+   s\s1a.dat                  ~Sticker System with Classic Space Pattern - Gold
+   s\s1b.dat                  ~Sticker System with Classic Space Pattern - Dark Blue
+   s\u9035s01.dat             ~Train Track 12V Slotted Point Left: Bottom Plate w/o Studs
+   s\u9137s01.dat             ~Train Track 12V Tapered Crossing Quarter
+   s\u9137s02.dat             ~Train Track 12V Slotted or Tapered Crossing Quarter - Common
+   s\u9220s01.dat             ~Train Track 12V Tapered Point: Tapered Rail End
+   s\u9220s02.dat             ~Train Track 12V Tapered Point: Rimmed Rail End (Needs Work)
+   s\u9311s01.dat             ~Fabuland House Block End Panel - Clip
+   s\u9312s01.dat             ~Fabuland House Block End Panel Arched - Door Clip
+   s\u9316s01.dat             ~Door  1 x  4.5 x  8.333 Fabuland - Half
+   s\u9317s01.dat             ~Door Frame  7 x  8 Fabuland - Door Clip
+   s\u9318s01.dat             ~Hinge for Door Arched  5 x  7.5 Fabuland
+   21709a.dat                 Excavator Bucket  6 x  3 with Click Hinge 2-Finger with  7 Teeth
+   28920.dat                  Tap  1 x  2 with Two Valves with Short Handles
+   67692.dat                  =Bar  2L with Ball Joint-8
+
+Minor Edits
+   0 Parts with minor administrative edits and/or license changes

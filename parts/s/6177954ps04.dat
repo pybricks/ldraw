@@ -1,0 +1,21 @@
+0 ~Sticker  0.8 x  1.9 with Ferrari Logo and Tricolor Stripe on Red Background -  Fourth Face
+0 Name: s\6177954ps04.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Subpart UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+
+0 // Tricolor stripe
+4 2 -1.5 -.25 .0128 -1.5 -.25 -7.061 -.5 -.25 -7.061 -.5 -.25 .0128
+4 15 -.5 -.25 .0128 -.5 -.25 -7.061 .5 -.25 -7.061 .5 -.25 .0128
+4 4 .5 -.25 .0128 .5 -.25 -7.061 1.5 -.25 -7.061 1.5 -.25 .0128
+0 // Red faces
+4 4 -2.5 -.25 .0128 -8 -.25 .0128 -8 -.25 -7.061 -2.5 -.25 -7.061
+4 4 2.5 -.25 .0128 2.5 -.25 -7.061 8 -.25 -7.061 8 -.25 .0128
+0 // White faces
+4 15 -2.5 -.25 .0128 -2.5 -.25 -7.061 -1.5 -.25 -7.061 -1.5 -.25 .0128
+4 15 2.5 -.25 .0128 1.5 -.25 .0128 1.5 -.25 -7.061 2.5 -.25 -7.061

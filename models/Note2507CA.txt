@@ -1,0 +1,95 @@
+ldraw.org Parts Update 2025-07
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Sun, 27 Jul 2025 01:51:04 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 504
+   New files: 448
+   New Parts: 263
+   New Subparts: 179
+   New Primitives: 6
+
+Moved Parts
+   6152.dat                   ~Moved to 6152a
+   u826.dat                   ~Moved to 4248
+   u826p01.dat                ~Moved to 4248p01
+   98223.dat                  ~Moved to 98223b
+
+Renamed Parts
+   3626bpha.dat               Minifig Head with Half-Moon Glasses and Grey Eyebrows Pattern
+   changed to    Minifig Head with HP Albus Dumbledore Half-Moon Glasses and Grey Eyebrows Pattern
+   973pw5.dat                 Minifig Torso with Blue Undershirt Green Bow and Gun Pattern
+   changed to    Minifig Torso with Jacket over Blue Undershirt with Green Bow and Gun in Belt Pattern
+   6148328a.dat               Sticker  1.8 x  1.8 Chequered
+   changed to    =Sticker  1.8 x  1.8 Chequered
+   6221655aj.dat              Sticker  1.8 x  1.8 Chequered
+   changed to    =Sticker  1.8 x  1.8 Chequered
+   s\56891s01.dat             ~Tyre 18/ 56 x 17 Off-Road with Offset Centre - 1/18 Tread
+   changed to    ~Tyre 18/ 56 x 17 Off-Road with Offset Centre - 1/8 Tread
+   s\56891s02.dat             ~Tyre 18/ 56 x 17 Off-Road with Offset Centre - 1/4 Tyrebase
+   changed to    ~Tyre 18/ 56 x 17 Off-Road with Offset Centre - Spoke
+   2336p68.dat                Wedge  2 x  3 with Brick  2 x  4 with MTron Logo Pattern
+   changed to    Wedge  2 x  3 with Brick  2 x  4 Side Studs and Plate  2 x  2 with MTron Logo Pattern
+   s\3960ps4s01.dat           ~Dish  4 x  4 Inverted with Dark Bluish Grey Octagonal Cockpit - 1/16 Pattern
+   changed to    ~Dish  4 x  4 Inverted with Dark Bluish Grey Octagonal Cockpit - 1/8 Pattern
+   57895p06.dat               Glass for Window  1 x  4 x  6 with Metallic Gold Lattice over White Background
+   changed to    Glass for Window  1 x  4 x  6 with Metallic Gold Lattice over White Background Pattern
+   86210p01.dat               Glass for Window  1 x  4 x  3 Opening with "ACE BRICKMAN PRIVATE DETECTIVE" Sign
+   changed to    Glass for Window  1 x  4 x  3 Opening with "ACE BRICKMAN PRIVATE DETECTIVE" Pattern
+   6112596b.dat               Sticker  0.8 x  0.8 Round with Black Logo Ferrari Horse on Yellow Background
+   changed to    Sticker  0.8 x  0.8 Round with Black Ferrari Horse Logo on Yellow Background
+   24246p06.dat               Tile  1 x  1 with Rounded End with Yellow Ferrari Horse Pattern
+   changed to    Tile  1 x  1 with Rounded End with Yellow Ferrari Horse Logo Pattern
+   2431ptc.dat                Tile  1 x  4 with White Ferrari Logo Horse and "LT-F" with Variable Code Pattern
+   changed to    Tile  1 x  4 with White Ferrari Horse Logo and "LT-F" with Variable Code Pattern
+   32316pt0.dat               Technic Beam  5 with Black Ferrari Horse Pattern
+   changed to    Technic Beam  5 with Black Ferrari Horse Logo Pattern
+   s\24299s01.dat             ~Wing  2 x  2 Left without Studs
+   changed to    ~Wing  2 x  2 Left without Studs and Top Surface
+   99543.dat                  Electric Mindstorms EV3 Medium Motor Axle Hub
+   changed to    ~Electric Mindstorms EV3 Medium Motor Axle Hub
+
+Other Fixed Parts
+   90509.dat                  Minifig Ski 6L
+   s\57515s01.dat             ~Technic Suspension Arm Ball Socket
+   4858.dat                   Wedge  4 x  4
+   s\4858s01.dat              ~Wedge  4 x  4 without Front Face
+   3069bpw2.dat               Tile  1 x  2 with "100" Money Pattern
+   2466.dat                   Panel  3 x  2 x  6
+   2466p07.dat                Panel  3 x  2 x  6 with Black Grille Pattern
+   2466p68.dat                Panel  3 x  2 x  6 with MTron Logo Pattern
+   2408p05.dat                Panel 10 x  6 x 11 with "200" Pattern
+   2408p04.dat                Panel 10 x  6 x 11 with Futuron Stripes Pattern
+   86876.dat                  Brick  1 x  2 with Centred Stud on Long Side
+   56891.dat                  Tyre 18/ 56 x 17 Off-Road with Offset Centre
+   3067ap11.dat               Brick  1 x  6 without Centre Studs with White Sans-Serif "TAXI" Pattern
+   s\51739s01.dat             ~Wing  2 x  4 - Half Bottom Section
+   2483p50.dat                Windscreen  4 x  4 x  3.667 Helicopter with Space Police II Pattern
+   30186p01.dat               Glass for Window Bay  3 x  8 x  6 with Lines & Hamburger Pattern
+   s\30186s01.dat             ~Glass for Window Bay  3 x  8 x  6 without Front Face
+   3960ps4.dat                Dish  4 x  4 Inverted with Dark Bluish Grey Octagonal Cockpit Pattern
+   2405.dat                   Technic Wheel Spindle Axle Driver Bar  5L
+   s\30151s01.dat             ~Cylinder  2 x  2 x  1.667 with Dome Top - Stud Cutout Half
+   s\5117s02.dat              ~Slope Brick 45  6 x  8 Double Inverted with Open Centre and  4 Holes - Quarter
+   76382px0.dat               Minifig Torso with Sand Green Arms and Dark Bluish Grey Hands with Shirt Collar and Sand Green Neck Pattern
+   76382psu.dat               Minifig Torso with Arms and Hands with SW Clone Trooper Armour (Clone Wars) Pattern
+   76382pxh.dat               Minifig Torso with Sand Green Arms and Hands with Shirt Collar and Sand Green Neck Pattern
+   3069bpt9.dat               Tile  1 x  2 with Silver Ferrari Horse Logo Pattern
+   24299.dat                  Wing  2 x  2 Left
+   51739.dat                  Wing  2 x  4
+   24307.dat                  Wing  2 x  2 Right
+   76382px3.dat               Minifig Torso with Light Nougat Hands with Sweater, Dark Azure Shirt, Collar and Orange Ascot Tie Pattern
+   3069bp56.dat               Tile  1 x  2 with United States of America Flag Pattern
+   3069bpt7.dat               Tile  1 x  2 with "WELCOME TO Fabulous LAS VEGAS NEVADA" Pattern
+   3069bp0k.dat               Tile  1 x  2 with White "A" on Bright Pink Strip and Blue Outline Audio Cassette Pattern
+   3069bpm0.dat               Tile  1 x  2 with Goblin Eye and 2 Sparkling Crystals on Yellowish Green Parchment Background Pattern
+   3069bpx9.dat               Tile  1 x  2 with Groove with Red Rectangle Pattern
+   s\46212aph1s01.dat         ~Brick  1 x  2 x  5 with Red and Dark Red Window Pane Pattern - 1/10
+   46212aph1.dat              Brick  1 x  2 x  5 with Red and Dark Red Window Pane Pattern
+
+Minor Edits
+   274 Parts with minor administrative edits and/or license changes

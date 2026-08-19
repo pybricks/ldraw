@@ -1,0 +1,32 @@
+0 Technic Steering Constant Velocity 8mm Joint Female with 2L Axle
+0 Name: 4192.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2026-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickowl 722590, CV
+
+0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07
+0 !HISTORY 2025-12-14 [MagFors] Shaped axleend
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\52730s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\52730s01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\52730s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\52730s01.dat
+0 BFC INVERTNEXT
+1 16 0 0 -10.6 3 0 0 0 0 3 0 1 0 4-4cylc.dat
+1 16 0 0 -10 13.5 0 0 0 0 13.5 0 1 0 4-4edge.dat
+1 16 0 0 -10 6.75 0 0 0 0 6.75 0 1 0 4-4ring1.dat
+1 16 0 0 -12 8 0 0 0 0 8 0 2 0 4-4cylc.dat
+1 16 0 0 -12 5 0 0 0 0 5 0 -1 0 4-4edge.dat
+1 16 0 0 -15 1 0 0 0 0 1 0 3 0 4-4con5.dat
+1 16 0 0 -15 6 0 0 0 0 6 0 -1 0 4-4edge.dat
+1 16 0 0 -15 1 0 0 0 0 1 0 -5 0 axleho12.dat
+1 16 0 0 -20 1 0 0 0 0 -1 0 1 0 axlehol3.dat
+1 16 0 0 -20 1 0 0 0 0 -1 0 1 0 axlehol9.dat
+1 16 0 0 -20 1 0 0 0 0 -1 0 1 0 axleho10.dat
+1 16 0 0 -20 1 0 0 0 0 -1 0 -27.5 0 axlehol8.dat
+1 16 0 0 -50 1 0 0 0 0 -1 0 1 0 axleend2.dat

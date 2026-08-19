@@ -1,0 +1,33 @@
+0 Slope Brick Curved  2 x  4 x  0.667 with Fin and 4 Studs and 2 Hollow Studs on Sides
+0 Name: 79897.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-01-04 {LEGO Instructions App} Original part shape
+0 !HISTORY 2024-01-04 [GeraldLasser] File preparation for LDraw Parts Tracker
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 -10 1 0 0 0 1 0 0 0 1 s\47456s01.dat
+1 16 0 0 10 1 0 0 0 1 0 0 0 1 s\47456s03.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\79897s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\79897s01.dat
+1 16 24 26 -20 0 -1 0 1 0 0 0 0 1 stug2-2x1.dat
+1 16 -24 26 -20 0 1 0 1 0 0 0 0 -1 stug2-2x1.dat
+
+1 16 0 8 0 0 0 -20 0 -8 0 10 0 0 box3u8p.dat
+0 BFC INVERTNEXT
+1 16 0 9 0 0 0 -16 0 -5 0 10 0 0 box3u8p.dat
+
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 stug-2x2.dat
+
+0 // Centre Section
+4 16 -16 12 -56 16 12 -56 20 16 -56 -20 16 -56
+1 16 0 16 -58 -20 0 0 0 -1 0 0 0 2 rect.dat
+4 16 16 9 16 -16 9 16 -20 16 16 20 16 16
+1 16 0 16 18 0 0 20 0 -1 0 2 0 0 rect.dat
+4 16 -20 8 20 20 8 20 20 16 20 -20 16 20
+1 16 0 4 0 1 0 0 0 -3 0 0 0 1 stud4.dat

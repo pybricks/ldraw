@@ -1,0 +1,19 @@
+0 Flag  2 x  2 with Black and White Squares Sticker
+0 Name: 2335d05.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Shortcut UPDATE 2025-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 2335pb077, Cars 2, Set 8423
+0 !KEYWORDS World Grand Prix Racing Rivalry
+
+0 !HISTORY 2025-01-20 [OrionP] Official Update 2025-01
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2335.dat
+
+0 // Sticker
+1 16 2 20 30 0 -1 0 0 0 -1 1 0 0 4622048a.dat

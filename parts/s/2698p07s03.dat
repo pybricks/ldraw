@@ -1,0 +1,21 @@
+0 ~Technic Action Figure Torso with Red Chest and Triangle Pattern - Buttons
+0 Name: s\2698p07s03.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Subpart UPDATE 2026-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2026-03-06 [OrionP] Official Update 2026-02
+
+0 // Buttons Row 1
+1 16 -11.75 -38 -12.3472 0 0 -1 -1 1 0 .0434 0 0 2-4chrd.dat
+1 16 -4.25 -38 -12.3472 0 0 1 -1 1 0 .0434 0 0 2-4chrd.dat
+1 16 5.2 -38 -12.3472 0 0 -1.6 -1.6 1 0 .06944 0 0 4-4disc.dat
+4 16 -11.75 -37 -12.3906 -4.25 -37 -12.3906 -4.25 -39 -12.3038 -11.75 -39 -12.3038
+
+0 // Buttons Row 2
+1 16 -11.75 -42 -12.1736 0 0 -1 -1 1 0 .0434 0 0 2-4chrd.dat
+1 16 -4.25 -42 -12.1736 0 0 1 -1 1 0 .0434 0 0 2-4chrd.dat
+1 16 5.2 -42 -12.1736 0 0 -1.6 -1.6 1 0 .06944 0 0 4-4disc.dat
+4 16 -11.75 -41 -12.217 -4.25 -41 -12.217 -4.25 -43 -12.1302 -11.75 -43 -12.1302

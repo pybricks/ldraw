@@ -1,0 +1,40 @@
+0 Sticker  1 x  0.8 White Rectangle
+0 Name: 6280006m.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Batmobile (1989), Bricklink 76139stk01, Set 76193
+0 !KEYWORDS Tim Burton's Batman
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+0 // Sticker-Bottom
+1 16 7 0 9 1 0 0 0 -1 0 0 0 1 1-4chrd.dat
+1 16 7 0 -9 0 0 1 0 -1 0 -1 0 0 1-4chrd.dat
+1 16 -7 0 -9 -1 0 0 0 -1 0 0 0 -1 1-4chrd.dat
+1 16 -7 0 9 0 0 -1 0 -1 0 1 0 0 1-4chrd.dat
+4 16 7 0 -10 -7 0 -10 -8 0 -9 8 0 -9
+4 16 8 0 9 8 0 -9 -8 0 -9 -8 0 9
+4 16 8 0 9 -8 0 9 -7 0 10 7 0 10
+
+0 // Sticker-Side
+1 16 7 -.25 9 1 0 0 0 .25 0 0 0 1 1-4cyli.dat
+1 16 -7 -.25 9 0 0 -1 0 .25 0 1 0 0 1-4cyli.dat
+1 16 -7 -.25 -9 -1 0 0 0 .25 0 0 0 -1 1-4cyli.dat
+1 16 7 -.25 -9 0 0 1 0 .25 0 -1 0 0 1-4cyli.dat
+4 16 7 -.25 -10 -7 -.25 -10 -7 0 -10 7 0 -10
+4 16 8 -.25 9 8 -.25 -9 8 0 -9 8 0 9
+4 16 -7 -.25 10 7 -.25 10 7 0 10 -7 0 10
+4 16 -8 -.25 -9 -8 -.25 9 -8 0 9 -8 0 -9
+
+0 // Sticker-Front
+1 15 7 -.25 9 1 0 0 0 1 0 0 0 1 1-4chrd.dat
+1 15 7 -.25 -9 0 0 1 0 1 0 -1 0 0 1-4chrd.dat
+1 15 -7 -.25 -9 -1 0 0 0 1 0 0 0 -1 1-4chrd.dat
+1 15 -7 -.25 9 0 0 -1 0 1 0 1 0 0 1-4chrd.dat
+4 15 8 -.25 -9 -8 -.25 -9 -7 -.25 -10 7 -.25 -10
+4 15 8 -.25 9 7 -.25 10 -7 -.25 10 -8 -.25 9
+4 15 -8 -.25 9 -8 -.25 -9 8 -.25 -9 8 -.25 9

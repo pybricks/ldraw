@@ -1,0 +1,22 @@
+0 Minifig Torso with Arms and Hands with Spider Man Pattern
+0 Name: 76382pbv.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Shortcut UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb1228c01, BrickOwl 355677, Juniors, Marvel
+0 !KEYWORDS Mini Upper Part No 2047, Peter Parker, Rebrickable 973c28h22pr2047
+0 !KEYWORDS Set 10665, Set 10687, Set 10754, Set 30302, Set 30305, Set 30448
+0 !KEYWORDS Set 30451, Set 56057, Set 6873, Set 76004, set 76005, Set 76014
+0 !KEYWORDS Set 76015, Set 76016, set 76037, Set 76057, Set 76058, set 76059
+0 !KEYWORDS Super Heroes, Ultimate Spider-Man
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pbv.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 4 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 4 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

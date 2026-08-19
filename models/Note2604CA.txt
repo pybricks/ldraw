@@ -1,0 +1,114 @@
+ldraw.org Parts Update 2026-04
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Mon, 27 Apr 2026 02:00:18 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 250
+   New files: 188
+   New Parts: 99
+   New Subparts: 79
+   New Primitives: 4
+   New 48_Primitives: 4
+   New Part_Texmaps: 2
+
+Moved Parts
+   2853.dat                   ~Moved to 2853a
+   2838c01.dat                ~Moved to 74569p01
+
+Renamed Parts
+   4864bp71.dat               Panel  1 x  2 x  2 with Phone in White Circle and Lines Pattern
+   changed to    ~Panel  1 x  2 x  2 with Phone in White Circle and Lines Pattern (Obsolete)
+   u9421.dat                  ~Motor Windup  2 x  6 x  2.333 Rachet Axle Long
+   changed to    ~Motor Windup  2 x  6 x  2.333 Ratchet Axle Long
+   u9052.dat                  ~Motor Windup  2 x  6 x  2.333 Rachet Axle
+   changed to    ~Motor Windup  2 x  6 x  2.333 Ratchet Axle
+   61524.dat                  ~Motor Windup  2 x  4 x  2.333 Axle
+   changed to    ~Motor Windup  2 x  4 x  2.333 - Axle
+   89509.dat                  Propeller  1 Blade 14L with Two Pin Holes and Four Axles
+   changed to    Propeller  1 Blade 14L with 2 Pin Holes and 4 Axles
+   4192.dat                   Technic Steering Constant Velocity 8mm Joint Female With 2L Axle
+   changed to    Technic Steering Constant Velocity 8mm Joint Female with 2L Axle
+   50965.dat                  Wheel Cover 5 Spoke for Wheel 34 x 56
+   changed to    Wheel Cover  5 Spoke for Wheel 34 x 56
+   52730.dat                  Technic Steering Constant Velocity 8mm Joint Female
+   changed to    Technic Steering Constant Velocity 8mm Joint Female with 3L Axle
+   57565.dat                  Technic Bionicle Weapon Pincer 6L
+   changed to    Constraction Weapon Pincer 6L
+   63869d01.dat               Technic Beam 15 with Plus and Minus Symbols on Dark Bluish Grey Sticker
+   changed to    Technic Cross Block 3 x 2 (Axle/Triple Pin) with Plus and Minus Symbols on Dark Bluish Grey Sticker
+   s\1621s02.dat              ~Minifig Utensil Candy Cane - Highlight Colour
+   changed to    ~Minifig Candy Cane - Highlight Colour
+   s\1621s01.dat              ~Minifig Utensil Candy Cane - Base Colour
+   changed to    ~Minifig Candy Cane - Base Colour
+   1621p01.dat                Minifig Utensil Candy Cane with Red Spiral Pattern
+   changed to    Minifig Candy Cane with Red Spiral Pattern
+   1621p02.dat                Minifig Utensil Candy Cane with Magenta Spiral Pattern
+   changed to    Minifig Candy Cane with Magenta Spiral Pattern
+   973pv0.dat                 Minifig Torso with Red Starfleet Duty Uniform (2360s Variant) Pattern
+   changed to    Minifig Torso with ST Red Starfleet Duty Uniform (2360s Variant) Pattern
+   973pv1.dat                 Minifig Torso with Bright Light Orange Starfleet Duty Uniform (2360s Variant) Pattern
+   changed to    Minifig Torso with ST Bright Light Orange Starfleet Duty Uniform (2360s Variant) Pattern
+   973pv2.dat                 Minifig Torso with Dark Azure Starfleet Duty Uniform (2360s Variant) Pattern
+   changed to    Minifig Torso with ST Dark Azure Starfleet Duty Uniform (2360s Variant) Pattern
+   973pv4.dat                 Minifig Torso with Bright Light Orange Starfleet Duty Uniform and Silver Klingon Baldrik Pattern
+   changed to    Minifig Torso with ST Bright Light Orange Starfleet Duty Uniform and Silver Klingon Baldrik Pattern
+   76382pv2.dat               Minifig Torso with Arms and Hands with Dark Azure Starfleet Duty Uniform (2360s Variant) Pattern
+   changed to    Minifig Torso with Arms and Hands with ST Dark Azure Starfleet Duty Uniform (2360s Variant) Pattern
+   76382pv0.dat               Minifig Torso with Arms and Hands with Red Starfleet Duty Uniform (2360s Variant) Pattern
+   changed to    Minifig Torso with Arms and Hands with ST Red Starfleet Duty Uniform (2360s Variant) Pattern
+   76382pv1.dat               Minifig Torso with Arms and Tan Hands with Bright Light Orange Starfleet Duty Uniform (2360s Variant) Pattern
+   changed to    Minifig Torso with Arms and Tan Hands with ST Bright Light Orange Starfleet Duty Uniform (2360s Variant) Pattern
+   76382p0033.dat             Minifig Torso with Arms and Medium Brown Hands with Bright Light Orange Starfleet Duty Uniform (2360s Variant) Pattern
+   changed to    Minifig Torso with Arms and Medium Brown Hands with ST Bright Light Orange Starfleet Duty Uniform (2360s Variant) Pattern
+   973pv3.dat                 Minifig Torso with Uniform Vest with Starfleet Combadge and Light Nougat Neck Pattern
+   changed to    Minifig Torso with ST Uniform Vest with Starfleet Combadge and Light Nougat Neck Pattern
+   76382pv3.dat               Minifig Torso with Arms and Hands with Uniform Vest with Starfleet Combadge and Light Nougat Neck Pattern
+   changed to    Minifig Torso with Arms and Hands with ST Uniform Vest with Starfleet Combadge and Light Nougat Neck Pattern
+   76382pv4.dat               Minifig Torso with Arms and Hands with Bright Light Orange Starfleet Duty Uniform and Silver Klingon Baldrik Pattern
+   changed to    Minifig Torso with Arms and Hands with ST Bright Light Orange Starfleet Duty Uniform and Silver Klingon Baldrik Pattern
+   45677ds1.dat               Wedge 4 x  4 x  0.667 Curved with Blue Markings on Dark Bluish Grey Background Sticker
+   changed to    Wedge  4 x  4 x  0.667 Curved with Blue Markings on Dark Bluish Grey Background Sticker
+   11477dyb.dat               Slope Brick Curved  2 x  1 Black and Grey Face Sticker
+   changed to    Slope Brick Curved  2 x  1 with Black and Grey Face Sticker
+
+Other Fixed Parts
+   23969p01.dat               Panel  1 x  2 x  1 Double Corner with Rounded Corners with Net Pattern
+   98138p0j.dat               Tile  1 x  1 Round with Strawberry Pattern
+   s\54383s01.dat             ~Wing  3 x  6 Right without Studs
+   54384.dat                  Wing  3 x  6 Left
+   54383.dat                  Wing  3 x  6 Right
+   32175.dat                  Technic Connector Block  3 x  3 Triangular
+   55706.dat                  Animal Wing  9 x  9 with Axle
+   11641.dat                  Minifig Basketball Net with Axle
+   868.dat                    ~Train 12V Actuator Technic Axle
+   2839a.dat                  ~Electric Technic Motor  9V Shaft (with Fake Metal Axle)
+   92695.dat                  Technic Linear Actuator  4 x  1 x  1 Axle Actuator
+   s\5294s01.dat              ~Technic Suspension Arm  4 x  6 Triangular Half
+   98135.dat                  Constraction Blade 16L with Axle
+   u9068.dat                  Rack Winder  2 x  4 x  2 Axle
+   u9345.dat                  Electric Technic Mini-Motor  9V - Axle
+   96874.dat                  Brick Separator with Top Axle
+   58177.dat                  Technic Connector Block  3 x  3 Triangular with Axlehole
+   60926.dat                  Constraction Weapon Pincer  7 x 12
+   61801.dat                  Technic Bionicle Jet Booster 5L
+   11305.dat                  Constraction Convex Blade 14L with Axle
+   u9377.dat                  ~Electric Technic Motor and Gearbox Plastic Axle
+   u9374.dat                  ~Electric Technic Motor Plastic Axle
+   98138p3d.dat               Tile  1 x  1 Round with Red Ladybug Pattern
+   98138p03.dat               Tile  1 x  1 Round with Fangpyre Pattern
+   s\98138p3ds01.dat          ~Tile  1 x  1 Round Red Ladybug Half Pattern
+   98138p0r.dat               Tile  1 x  1 Round with White Six-Pointed Snowflake Pattern
+   32555.dat                  Technic Brick  5 x  5 Corner with Holes
+   98138p02.dat               Tile  1 x  1 Round with Hypnobrai Pattern
+   4286.dat                   Slope Brick 33  3 x  1
+   s\3815bs01.dat             ~Minifig Hips without Decorated Surface
+   s\48995s01.dat             ~Tile  2 x  3 Rounded with Hole without Top Surface
+   1621.dat                   Minifig Candy Cane with Dual Mould Spiral
+   1750.dat                   Brick  2 x  2 x  1 with Curved Bottom
+
+Minor Edits
+   5 Parts with minor administrative edits and/or license changes

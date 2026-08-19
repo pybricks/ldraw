@@ -1,0 +1,28 @@
+0 ~Electric Switch: Key Right with Yellow Triangle Up Pattern
+0 Name: 4111p04.dat
+0 Author: Javier Orquera [kuramapika1]
+0 !LDRAW_ORG Part UPDATE 2025-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP to put this part into a pressed-down state, rotate it 4.3 degrees
+0 !HELP around the x-axis
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS set 7862, switch, Train
+
+0 !HISTORY 2025-04-24 [kuramapika1] Adapted surfaces
+0 !HISTORY 2025-09-11 [kuramapika1] Use of new subfile
+0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4111s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4112s01.dat
+4 16 -42.5 -27 -5.25 -33.25 -27 -11.95 18.9 -27 -11.95 37.5 -27 -5.25
+4 16 -33.25 -27 -88.4 -33.25 -27 -11.95 -42.5 -27 -5.25 -42.5 -27 -165.25
+4 16 -33.25 -27 -88.4 -42.5 -27 -165.25 37.5 -27 -165.25 18.9 -27 -88.4
+4 16 37.5 -27 -165.25 37.5 -27 -5.25 18.9 -27 -11.95 18.9 -27 -88.4
+3 14 -7.175 -27 -46.2 -25 -27 -78.5 10.65 -27 -78.5
+4 0 -33.25 -27 -88.4 -25 -27 -78.5 -7.175 -27 -46.2 -33.25 -27 -11.95
+4 0 10.65 -27 -78.5 18.9 -27 -88.4 18.9 -27 -11.95 -7.175 -27 -46.2
+3 0 -7.175 -27 -46.2 18.9 -27 -11.95 -33.25 -27 -11.95
+4 0 -33.25 -27 -88.4 18.9 -27 -88.4 10.65 -27 -78.5 -25 -27 -78.5

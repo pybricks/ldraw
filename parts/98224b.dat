@@ -1,0 +1,27 @@
+0 Duplo Brick  2 x  4 with Curved Bottom
+0 Name: 98224b.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-12
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+
+0 !KEYWORDS BrickLink 98224, Brickowl 70933, Brickset 98224, Rebrickable 98224
+
+0 !HISTORY 2023-08-25 [OrionP] Official Update 2023-04
+0 !HISTORY 2025-05-01 [WUIt] Corrected orientation by creating b replacement file, corrected slope curvature, subparted, corrected flat subfile scaling
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98224s01.dat
+4 16 40 0 80 40 0 -80 40 48 -40 40 48 40
+
+1 16 40 0 -33 0 -1 0 0 0 48.3 -47 0 0 48\1-8chrd.dat
+3 16 40 34.1529 -66.2337 40 38.3212 -61.6136 40 41.8278 -56.5
+4 16 40 41.8278 -56.5 40 44.6244 -50.9869 40 46.653 -45.1636 40 48 -40
+4 16 40 34.1529 -66.2337 40 41.8278 -56.5 40 48 -40 40 0 -80
+1 16 40 0 33 0 -1 0 0 0 48.3 47 0 0 48\1-8chrd.dat
+3 16 40 38.3212 61.6136 40 34.1529 66.2337 40 41.8278 56.5
+4 16 40 46.653 45.1636 40 44.6244 50.9869 40 41.8278 56.5 40 48 40
+4 16 40 48 40 40 41.8278 56.5 40 34.1529 66.2337 40 0 80

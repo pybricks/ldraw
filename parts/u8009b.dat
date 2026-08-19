@@ -1,0 +1,37 @@
+0 Mursten Brick  4 x  4 Corner with 1 Slot Right
+0 Name: u8009b.dat
+0 Author: N. W. Perry [Plastikean]
+0 !LDRAW_ORG Part UPDATE 2024-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS Automatic Binding Brick, Lego Mursten
+
+0 !HISTORY 2022-03-27 [MagFors] Studs without logo
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
+
+
+4 16 16 24 56 -16 24 56 -20 24 60 20 24 60
+4 16 -16 24 56 -16 24 -16 -20 24 -20 -20 24 60
+4 16 -16 24 -16 56 24 -16 60 24 -20 -20 24 -20
+4 16 56 24 16 16 24 16 20 24 20 60 24 20
+4 16 16 24 16 16 24 56 20 24 60 20 24 20
+1 16 36 14 36 0 0 -20 -10 0 0 0 -20 0 box2-5.dat
+0 BFC INVERTNEXT
+1 16 20 14 20 0 0 -36 -10 0 0 0 -36 0 box2-5.dat
+1 16 0 14 56 -16 0 0 0 0 -10 0 1 0 rect.dat
+4 16 -16 4 -16 16 4 16 56 4 16 56 4 -16
+4 16 16 4 16 -16 4 -16 -16 4 56 16 4 56
+1 16 20 12 20 0 0 -40 -12 0 0 0 -40 0 box2-5.dat
+1 16 0 12 40 0 0 20 -12 0 0 0 20 0 box2-7.dat
+1 16 40 12 20 -20 0 0 0 0 -12 0 -1 0 rect.dat
+4 16 20 0 20 -20 0 -20 56 0 -20 56 0 20
+4 16 -20 0 -20 20 0 20 20 0 60 -20 0 60
+2 24 56 4 -16 56 4 16
+1 16 40 0 0 0 0 -1 0 1 0 1 0 0 slotm.dat
+
+1 16 0 0 40 1 0 0 0 1 0 0 0 1 stug26-2x2.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug26-2x2.dat
+1 16 40 0 0 1 0 0 0 1 0 0 0 1 stug26-2x2.dat

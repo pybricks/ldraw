@@ -1,0 +1,24 @@
+0 Figure Friends Legs with Shorts with Medium Nougat Legs and Lime Flower Sandals Pattern
+0 Name: 11202p05.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Hips Rotation point: Y=-47.4, Z=2.7
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 11202c00pb01, Kate, Set 41000
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11202s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\11202s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\92252s01.dat
+1 84 0 0 0 1 0 0 0 1 0 0 0 1 s\92252s03.dat
+1 84 0 0 0 1 0 0 0 1 0 0 0 1 s\92252s04.dat
+1 84 0 0 0 -1 0 0 0 1 0 0 0 1 s\92252s03.dat
+1 84 0 0 0 -1 0 0 0 1 0 0 0 1 s\92252s04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11202p05s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\11202p05s01.dat

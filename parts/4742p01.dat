@@ -1,0 +1,27 @@
+0 Cone 4 x  4 x  2 Hollow Without Studs with Black SW Millenium Falcon Cockpit Pattern
+0 Name: 4742p01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 4742pb002, Set 75375
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4742s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4742p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4742p01s01.dat
+
+1 16 0 26.889 0 11 0 0 0 -26.8889 0 0 0 11 48\1-4con2.dat
+1 16 0 34.222 0 3 0 0 0 -7.33333 0 0 0 3 48\1-4con11.dat
+1 16 0 44 0 4 0 0 0 -9.77778 0 0 0 4 48\1-4con9.dat
+1 16 0 26.889 0 -11 0 0 0 -26.8889 0 0 0 11 48\1-4con2.dat
+1 16 0 34.222 0 -3 0 0 0 -7.33333 0 0 0 3 48\1-4con11.dat
+1 16 0 44 0 -4 0 0 0 -9.77778 0 0 0 4 48\1-4con9.dat
+
+5 24 39.9991 44 .0005 22 0 0 21.8108 0 -2.871 21.8108 0 2.871
+5 24 -22 0 0 -39.9991 44 .0005 -21.8108 0 -2.871 -21.8108 0 2.871
+5 24 0 44 -40 0 0 -22 2.871 0 -21.8108 -2.871 0 -21.8108

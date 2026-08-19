@@ -1,0 +1,17 @@
+0 ~Modulex Tile  1 x  2 without Bottom Stud without Top Surface
+0 Name: s\u7019s02.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Subpart UPDATE 2025-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09
+
+1 16 0 12.5 0 12.5 0 0 0 -12.5 0 0 0 6.25 box4.dat
+0 BFC INVERTNEXT
+1 16 0 12.5 0 10 0 0 0 -10 0 0 0 3.75 box5.dat
+4 16 -12.5 12.5 -6.25 -10 12.5 -3.75 10 12.5 -3.75 12.5 12.5 -6.25
+4 16 -12.5 12.5 6.25 12.5 12.5 6.25 10 12.5 3.75 -10 12.5 3.75
+4 16 -12.5 12.5 -6.25 -12.5 12.5 6.25 -10 12.5 3.75 -10 12.5 -3.75
+4 16 12.5 12.5 -6.25 10 12.5 -3.75 10 12.5 3.75 12.5 12.5 6.25

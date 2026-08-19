@@ -1,0 +1,17 @@
+0 | BuWizz Electric Motor
+0 Name: t1190c01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Shortcut UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS RC Race Buggy
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 t1190c02.dat
+1 4 0 0 40 1 0 0 0 1 0 0 0 1 991.dat
+1 4 -40 0 40 1 0 0 0 1 0 0 0 1 991.dat

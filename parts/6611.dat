@@ -1,0 +1,17 @@
+0 Technic Angle Connector 4-Way 60 Degree
+0 Name: 6611.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Engine
+
+0 !HISTORY 2025-05-28 [OrionP] Official Update 2025-05
+
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 connhole.dat
+1 16 0 10 0 -9 0 0 0 -20 0 0 0 9 4-4cylo.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\6611s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6611s01.dat
+2 24 -0.0001 -1.1549 17.4476 0.0001 1.1549 17.4476

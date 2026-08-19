@@ -1,0 +1,36 @@
+0 Brick Braille 2 x 4 with 3 Studs (DOTS-235) with "+" Pattern
+0 Name: 60235p01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS ⠖ Unicode U+2816 (10262), addition, Bricklink 60235pb01, plus
+0 !KEYWORDS Rebrickable 60235pr0001, Set 4000503, set 40722, set 40723
+0 !KEYWORDS set 40724
+
+0 !HISTORY 2024-08-18 [MagFors] Changed orientation, added keywords
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3001s02.dat
+1 16 -10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 -10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
+1 16 10 0 -10 1 0 0 0 1 0 0 0 1 stud.dat
+
+0 // Pattern
+0 // Character
+4 0 31 0 .7 31 0 -.7 33.4 0 -.7 33.4 0 .7
+4 0 31 0 -.7 29.6 0 -.7 29.6 0 -3.1 31 0 -3.1
+4 0 27.2 0 .7 27.2 0 -.7 29.6 0 -.7 29.6 0 .7
+4 0 29.6 0 .7 29.6 0 -.7 31 0 -.7 31 0 .7
+4 0 31 0 .7 31 0 3.1 29.6 0 3.1 29.6 0 .7
+0 // Background
+4 16 -40 0 -20 29.6 0 -3.1 29.6 0 -.7 27.2 0 -.7
+4 16 40 0 20 31 0 3.1 31 0 .7 33.4 0 .7
+4 16 -40 0 20 27.2 0 .7 29.6 0 .7 29.6 0 3.1
+4 16 29.6 0 -3.1 -40 0 -20 40 0 -20 31 0 -3.1
+4 16 31 0 -.7 31 0 -3.1 40 0 -20 33.4 0 -.7
+4 16 33.4 0 .7 33.4 0 -.7 40 0 -20 40 0 20
+4 16 29.6 0 3.1 31 0 3.1 40 0 20 -40 0 20
+4 16 -40 0 -20 27.2 0 -.7 27.2 0 .7 -40 0 20

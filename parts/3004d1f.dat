@@ -1,0 +1,16 @@
+0 Brick  1 x  2 with Black Trapezoid on Red Background Right Sticker
+0 Name: 3004d1f.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Shortcut UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS BrickLink 75882stk01, Center, Development, FXXK, Rebrickable 30899
+0 !KEYWORDS Set 75882, Speed Champions, Tunnel, Wind
+
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3004.dat
+1 16 0 12 -10 1 0 0 0 0 -1 0 1 0 6177970u.dat

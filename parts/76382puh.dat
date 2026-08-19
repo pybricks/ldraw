@@ -1,0 +1,20 @@
+0 Minifig Torso with Arms and Hands with Diagonal Lower Pockets, Pen, Sweater and Orange Stripes Pattern
+0 Name: 76382puh.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Shortcut UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Upper
+0 !KEYWORDS Bricklink 973pb3100c01, Brickowl 39196, Brickset 76382, Construction
+0 !KEYWORDS Rebrickable 973c28h01pr4204, Set 10764, Set 30357, Set 60213
+0 !KEYWORDS Set 60220, Set 60252, Set 60325, set 60391, Set 952303, Set 952305
+
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973puh.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 14 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 14 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

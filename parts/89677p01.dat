@@ -1,0 +1,29 @@
+0 Minifig Head Muppet Rowlf with Medium Nougat Face and Black Nose Pattern
+0 Name: 89677p01.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Part UPDATE 2024-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 89677pb01, Brickowl 1441037, CMF, Collectible Minifigures
+0 !KEYWORDS Rebrickable 89677pr0001, set 71033, The Muppets
+
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
+
+1 84 0 0 0 1 0 0 0 1 0 0 0 1 s\89677s01.dat
+1 84 0 0 0 -1 0 0 0 1 0 0 0 1 s\89677s01.dat
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\89677p01s02.dat
+1 15 0 0 0 -1 0 0 0 1 0 0 0 1 s\89677p01s02.dat
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\89677s03.dat
+1 0 0 0 0 -1 0 0 0 1 0 0 0 1 s\89677s03.dat
+
+1 84 0 0 0 1 0 0 0 1 0 0 0 1 s\89677p01s04.dat
+1 84 0 0 0 -1 0 0 0 1 0 0 0 1 s\89677p01s04.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\89677s05.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\89677s06.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\89677s06.dat

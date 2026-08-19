@@ -1,0 +1,20 @@
+0 Minifig Torso with Arms and Light Nougat Hands with Vest with White Shirt and Blue Striped Tie and Buttons Pattern
+0 Name: 76382p0044.dat
+0 Author: Manfred Schaefer [Lego-Manfred]
+0 !LDRAW_ORG Shortcut UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Alfred Pennyworth, Batcave, Bricklink 973pb3159c02, Brickowl 758712
+0 !KEYWORDS Brickset 76382, Charles Francis Xavier, Daily Bugle
+0 !KEYWORDS J. Jonah Jameson, Professor X, Rebrickable 973c03h02pr5547
+0 !KEYWORDS Set 5009015, Set 76178, Set 76183, Super Heros, X-Men
+
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973puc.dat
+1 15 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 15 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 78 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 78 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

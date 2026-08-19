@@ -1,0 +1,32 @@
+0 Sticker  0.7 x  3.6 with "PJM 340" Australian License Plate on Dark Green Background
+0 Name: 6062886h.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Mini Cooper, set 10242
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+0 !HISTORY 2024-10-01 [MagFors] Corrected description
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+1 288 0 -.25 0 1 0 0 0 1 0 0 0 1 s\6062886gs01.dat
+
+1 16 35.25 0 6.5 1 0 0 0 -1 0 0 0 1 1-4chrd.dat
+1 16 35.25 0 -6.5 0 0 1 0 -1 0 -1 0 0 1-4chrd.dat
+1 16 -35.25 0 -6.5 -1 0 0 0 -1 0 0 0 -1 1-4chrd.dat
+1 16 -35.25 0 6.5 0 0 -1 0 -1 0 1 0 0 1-4chrd.dat
+4 16 35.25 0 -7.5 -35.25 0 -7.5 -36.25 0 -6.5 36.25 0 -6.5
+4 16 36.25 0 6.5 36.25 0 -6.5 -36.25 0 -6.5 -36.25 0 6.5
+4 16 36.25 0 6.5 -36.25 0 6.5 -35.25 0 7.5 35.25 0 7.5
+
+1 16 35.25 -.25 6.5 1 0 0 0 .25 0 0 0 1 1-4cyli.dat
+1 16 -35.25 -.25 6.5 0 0 -1 0 .25 0 1 0 0 1-4cyli.dat
+1 16 -35.25 -.25 -6.5 -1 0 0 0 .25 0 0 0 -1 1-4cyli.dat
+1 16 35.25 -.25 -6.5 0 0 1 0 .25 0 -1 0 0 1-4cyli.dat
+4 16 35.25 -.25 -7.5 -35.25 -.25 -7.5 -35.25 0 -7.5 35.25 0 -7.5
+4 16 36.25 -.25 6.5 36.25 -.25 -6.5 36.25 0 -6.5 36.25 0 6.5
+4 16 -35.25 -.25 7.5 35.25 -.25 7.5 35.25 0 7.5 -35.25 0 7.5
+4 16 -36.25 -.25 -6.5 -36.25 -.25 6.5 -36.25 0 6.5 -36.25 0 -6.5

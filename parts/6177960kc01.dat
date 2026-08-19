@@ -1,0 +1,23 @@
+0 Sticker  0.8 x  3.0 with Black and Dark Orange Arch on Orange Background Right (Formed)
+0 Name: 6177960kc01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part UPDATE 2026-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 720S, BrickLink 75880stk01, Brickowl 642771, McLaren
+0 !KEYWORDS Rebrickable 30896, Set 75880, Speed Champions
+
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
+0 !HISTORY 2025-11-14 [Sirio] Modified for changes in 50950
+0 !HISTORY 2026-06-28 [OrionP] Official Update 2026-06
+
+1 16 0 .5872 18.9266 1 0 0 0 .9986 -.053 0 .053 .9986 s\6177960ks01.dat
+1 16 0 5.1963 -2.4735 1 0 0 0 .9648 -.2632 0 .2632 .9648 s\6177960ks02.dat
+1 16 0 5.1963 -2.4735 1 0 0 0 .9294 -.3692 0 .3692 .9294 s\6177960ks03.dat
+1 16 0 14.1072 -21.6589 1 0 0 0 .881 -.4731 0 .4731 .881 s\6177960ks04.dat
+1 16 0 14.1072 -21.6589 1 0 0 0 .8167 -.577 0 .577 .8167 s\6177960ks05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\50950b01.dat
+0 // Orange face
+4 25 -8 .3383 18.9002 -8 2.0837 7.9871 8 2.0837 7.9871 8 .3383 18.9002

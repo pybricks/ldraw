@@ -1,0 +1,136 @@
+ldraw.org Parts Update 2024-11
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Mon, 30 Dec 2024 06:25:46 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 388
+   New files: 315
+   New Parts: 240
+   New Subparts: 63
+   New Primitives: 5
+   New 48 Segment Primitives: 6
+   New TEXMAP Images: 1
+
+Moved Parts
+   572c01.dat                 ~Moved to 76065
+   572c02.dat                 ~Moved to 71149
+   716.dat                    ~Moved to 716b
+   6061.dat                   ~Moved to 6061b
+
+Renamed Parts
+   572b.dat                   ~String Braided Segment 1L
+   changed to    ~String Braided Segment 1L (Obsolete)
+   75924.dat                  String Braided 21L with End Studs (Complete)
+   changed to    String Braided 21L with End Studs
+   76384.dat                  String Braided 11L with End Studs (Complete)
+   changed to    String Braided 11L with End Studs
+   u8012.dat                  Mursten Door  1 x  2 x  3
+   changed to    Mursten Door  1 x  2 x  3 Left
+   572a.dat                   ~String End Stud
+   changed to    ~String End Stud (Obsolete)
+   572c.dat                   ~String Minifig Grip
+   changed to    ~String Minifig Grip (Obsolete)
+   3626bph2.dat               Minifig Head with Tan Eyebrows and Frown Pattern
+   changed to    Minifig Head with HP Draco Malfoy Tan Eyebrows and Frown Pattern
+   3626bphb.dat               Minifig Head with Severus Snape Pattern
+   changed to    Minifig Head with HP Severus Snape Pattern
+   6064.dat                   Plant Bush
+   changed to    ~Plant Bush (Obsolete)
+   65826.dat                  Technic Axle Pin  1/2 with Stud Tube
+   changed to    Technic Pin  1/2 with Stud Tube
+   3040ad01.dat               Slope Brick 45  1 x  2 with Life Preserver Left Sticker
+   changed to    Slope Brick 45  2 x  1 with Life Preserver Left Sticker
+   3040ad02.dat               Slope Brick 45  1 x  2 with Life Preserver Right Sticker
+   changed to    Slope Brick 45  2 x  1 with Life Preserver Right Sticker
+   973p1v.dat                 Minifig Torso Hoodie with White Laces, Blue Scrollwork and Kangaroo Pocket Pattern
+   changed to    Minifig Torso with Female Hoodie, White Laces, Blue Scrollwork and Kangaroo Pocket Pattern
+   973p3v.dat                 Minifig Torso Pirate Vest, Anchor Tattoo, Rope on Back Pattern
+   changed to    Minifig Torso with Pirate Vest over Yellow Skin, Anchor Tattoo, Rope on Back Pattern
+   973p7m.dat                 Minifig Torso w/ Shirt, Badge, Blue Tie, "POLICE" Back Pattern
+   changed to    Minifig Torso with Shirt, Badge, Blue Tie, "POLICE" Back Pattern
+   973p7n.dat                 Minifig Torso w/ Leather Jacket, Badge, "POLICE" Back Pattern
+   changed to    Minifig Torso with Leather Jacket, Badge, "POLICE" Back Pattern
+   973pry.dat                 Minifig Torso w/ SW Loose Dress Light Grey Folds Pattern
+   changed to    Minifig Torso with SW Loose Dress Light Grey Folds Pattern
+   973psy.dat                 Minifig Torso w/ SW Loose Dress Light Bluish Grey Folds Pattern
+   changed to    Minifig Torso with SW Loose Dress Light Bluish Grey Folds Pattern
+   76382pu1.dat               Minifig Torso with Arms and Hands with Zipper, Magenta and Medium Azure Markings Pattern
+   changed to    Minifig Torso with Arms and Hands with Female Hoodie with Zipper, Magenta and Medium Azure Markings Pattern
+   973pu1.dat                 Minifig Torso Female with Zipper, Magenta and Medium Azure Markings Pattern
+   changed to    Minifig Torso with Female Hoodie with Zipper, Magenta and Medium Azure Markings Pattern
+   973p1z.dat                 Minifig Torso Female Top with Dark Pink Stripes and Flower Necklace Pattern
+   changed to    Minifig Torso with Female Top with Dark Pink Stripes and Flower Necklace Pattern
+   973pq5.dat                 Minifig Torso with Aviator Jacket w/ Eagle/"SMH" on Back Pattern
+   changed to    Minifig Torso with Aviator Jacket with Eagle and "SMH" on Back Pattern
+   973p9w.dat                 Minifig Torso with Suit Jacket, Pink Shirt and Magenta Scarf Pattern
+   changed to    Minifig Torso with Female Suit Jacket, Pink Shirt and Magenta Scarf Pattern
+   973p9u.dat                 Minifig Torso with Sweater, Bow and Heart Shaped Necklace Pattern
+   changed to    Minifig Torso with Female Sweater, Bow and Heart Shaped Necklace Pattern
+   973p5a.dat                 Minifig Torso Female Jumpsuit with Zipper with 'SALLY' Name Tag Pattern
+   changed to    Minifig Torso with Female Jumpsuit with Zipper with 'SALLY' Name Tag Pattern
+   973px5.dat                 Minifig Torso Female Outline with White Tank Top with "APERTURE" over Bright Light Blue Tank Top Pattern
+   changed to    Minifig Torso with Female Tank Top with "APERTURE" over Bright Light Blue Tank Top Pattern
+   973p9b.dat                 Minifig Torso Hooded Sweatshirt Open with Drawstrings over Dark Red Top Pattern
+   changed to    Minifig Torso with Hooded Sweatshirt Open with Drawstrings over Dark Red Top Pattern
+   973p9a.dat                 Minifig Torso Female Blouse with Buttons, Dark Pink Panel and Name Badge Pattern
+   changed to    Minifig Torso with Female Blouse with Buttons, Dark Pink Panel and Name Badge Pattern
+   973p9j.dat                 Minifig Torso Female Top with  2 White Buttons and Black Straps Pattern
+   changed to    Minifig Torso with Female Top with  2 White Buttons and Black Straps Pattern
+   973p9f.dat                 Minifig Torso Female with Top with Yellow Neck and White Undershirt Pattern
+   changed to    Minifig Torso with Female Top with Yellow Neck and White Undershirt Pattern
+   973p97.dat                 Minifig Torso Shirt with Red Collar and Spaceship Orbiting Classic Space Helmet Pattern
+   changed to    Minifig Torso with Shirt with Red Collar and Spaceship Orbiting Classic Space Helmet Pattern
+   973p9k.dat                 Minifig Torso Sports Shirt with "39", Orange Basketball and Orange and Red Diamonds Pattern
+   changed to    Minifig Torso with Sports Tank Top with "39", Orange Basketball and Orange and Red Diamonds Pattern
+   973p98.dat                 Minifig Torso Polo Shirt with Pocket with Pen and LEGO Logo on Back Pattern
+   changed to    Minifig Torso with Polo Shirt with Pocket and Pen with LEGO Logo on Back Pattern
+   973p99.dat                 Minifig Torso Hoodie with Zipper over Lime and Green Striped Shirt Pattern
+   changed to    Minifig Torso with Hoodie with Zipper over Lime and Green Striped Shirt Pattern
+   973pbj.dat                 Minifig Torso Female with Jacket, 2 Pockets, Buttons, Gold Necklace Pattern
+   changed to    Minifig Torso with Female Jacket with 2 Pockets, Buttons, Gold Necklace Pattern
+   973pc1.dat                 Minifig Torso Female with Gold Star and Zipper and Red Tied Sash and Muscles Outline Pattern
+   changed to    Minifig Torso with Female Gold Star and Zipper and Red Tied Sash and Muscles Outline Pattern
+   973pmd.dat                 Minifig Torso Female with Robe, Center Panel with Silver Spots and Evenstar Pendant Necklace Pattern
+   changed to    Minifig Torso with Female Robe, Center Panel with Silver Spots and Evenstar Pendant Necklace Pattern
+   2335d02.dat                Flag  2 x  2 with US Flag Stickers (Complete)
+   changed to    Flag  2 x  2 with US Flag Stickers
+   973paz.dat                 Minifig Torso Crocodile Skin with Dark Red Scar and Blue Round Jewel (Chi) Belt Pattern
+   changed to    Minifig Torso with Crocodile Skin with Dark Red Scar and Blue Round Jewel (Chi) Belt Pattern
+   973phg.dat                 Minifig Torso Trench Coat over Dark Brown Suit Jacket and Bow Tie, Dark Tan Vest and White Shirt Pattern
+   changed to    Minifig Torso with Trench Coat over Dark Brown Suit Jacket and Bow Tie, Dark Tan Vest and White Shirt Pattern
+   973pbs.dat                 Minifig Torso Scarlet Spider Pattern
+   changed to    Minifig Torso with Hoodie Scarlet Spider over Red Shirt and Silver Belt Pattern
+
+Other Fixed Parts
+   62462.dat                  Technic Pin Joiner Round with Slot
+   u8019.dat                  Mursten Window  1 x  2 x  2
+   u8020.dat                  Mursten Window  1 x  3 x  2
+   u8021.dat                  Mursten Window  1 x  4 x  2
+   u8023.dat                  Mursten Window  1 x  6 x  2 with Shutters
+   31990.dat                  Minifig Oar Head
+   32025.dat                  ~Electric Touch Sensor Brick  3 x  2 - Top
+   6015425a.dat               Sticker  4.0 x  4.0 Round with Orange Disc
+   821420b.dat                Sticker  1.4 x  2.6 with Light Grey Stripes
+   190775c.dat                Sticker  1.4 x  1.8 with White Maersk Line Logo on Transparent Background
+   190775a.dat                Sticker  3.1 x  3.1 Round with Black "6" on White
+   190775b.dat                Sticker  0.9 x  5.9 with Black Car Grille and White Headlights
+   004239a.dat                Sticker  3.5 x 14 "USS Constellation" on Scroll
+   4187376a.dat               =Sticker  3.5 x 14 "USS Constellation" on Scroll
+   87697.dat                  Tyre 12/ 40 x 11 Wide with Centre Band
+   s\87697s01.dat             ~Tyre 12/ 40 x 11 Wide with Centre Band - 1/36
+   973p8t.dat                 Minifig Torso with Chef Jacket with  8 Buttons and Long Red Neckerchief Pattern
+   164365a.dat                Sticker  3.6 x  4 with Black Aircraft and Five Coloured Stripes
+   163555bc01.dat             Sticker  3.5 x  3.5 with Flight Schedule (Formed for Panel  6 x  6 x  9 with Curved Top)
+   14769ps1.dat               Tile  2 x  2 Round with Round Underside Stud with SW Reactor Vent with Bar and Red Circle Pattern
+   11954.dat                  Technic Panel Smooth 11 x  2 x  3 with 10 Front Pin Holes
+   10040.dat                  ~Motor Pull Back  8 x  4 x  0.667 - Top
+   004690b.dat                Sticker  1.2 x  2 with TV Screen with Western Scene
+   004631a.dat                Sticker  1.8 x  1.8 with Red Cross Logo
+   004631c.dat                Sticker  1 x  3.5 with Red "L-386"
+   2336p68.dat                Wedge  2 x  3 with Brick  2 x  4 with MTron Logo Pattern
+   2335pw1.dat                Flag  2 x  2 with Cavalry Logo Pattern
+   18836p42.dat               Minifig Shield Triangular Long with Dark Red Edge with Rivets and Black Bat on Metallic Silver Background Pattern

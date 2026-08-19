@@ -1,0 +1,14 @@
+0 Brick  2 x  2 x  0.667 with Black Rubber Foot Pattern
+0 Name: 109373p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Rebrickable 109373, Set 45620, Set 45621, Set 45622
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 256 0 0 0 1 0 0 0 1 0 0 0 1 s\109373s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\109373s02.dat

@@ -1,0 +1,20 @@
+0 Hinge Arm Locking with Single Finger and Friction Pin with Rectangular Centre Hole
+0 Name: 57697.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS click-hinge, Technic
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+1 16 0 0 10 1 0 0 0 0 1 0 -1 0 confric10.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\41532s01.dat
+1 16 0 0 10 0 0 4 4 0 0 0 -1 0 1-8edge.dat
+1 16 0 0 10 0 0 -4 4 0 0 0 -1 0 1-8edge.dat
+2 24 2.8284 2.8284 10 2.8284 -2.8284 10
+1 16 0 0 10 0 0 -4 -4 0 0 0 -1 0 1-8edge.dat
+1 16 0 0 10 0 0 4 -4 0 0 0 -1 0 1-8edge.dat
+2 24 -2.8284 -2.8284 10 -2.8284 2.8284 10

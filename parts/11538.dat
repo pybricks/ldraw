@@ -1,0 +1,32 @@
+0 Minifig Helmet with Cheek Protectors and Communicator
+0 Name: 11538.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Part UPDATE 2026-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+
+0 !KEYWORDS A-wing, Rebel, Star Wars, SW
+
+0 !HISTORY 2026-03-06 [OrionP] Official Update 2026-02
+
+1 16 0 -6 0 1 0 0 0 -1.5 0 0 0 1 stud4o.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11538s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\11538s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11538s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11538s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11538s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\11538s04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11538s05.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\11538s05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11538s06.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\11538s06.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11538s07.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\11538s07.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11538s08.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\11538s08.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\11538s09.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\11538s09.dat

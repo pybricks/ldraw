@@ -1,0 +1,29 @@
+0 Sticker  1.1 x  3.9 with Red Danger Stripes on Transparent Background
+0 Name: 195055a.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 6606stk01, Brickowl 345667, Fence, Rebrickable 195055
+0 !KEYWORDS Road repair, Set 6606
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+
+1 16 0 -0.25 0 39 0 0 0 0.25 0 0 0 11 box5-12.dat
+0 BFC NOCLIP
+3 4 39 -0.25 -5 33 -0.25 -11 39 -0.25 -11
+4 4 22 -0.25 -11 39 -0.25 6 39 -0.25 11 11 -0.25 -11
+3 4 39 -0.25 11 33 -0.25 11 11 -0.25 -11
+4 4 0 -0.25 -11 22 -0.25 11 11 -0.25 11 -11 -0.25 -11
+4 4 -22 -0.25 -11 0 -0.25 11 -11 -0.25 11 -33 -0.25 -11
+4 4 -39 -0.25 5 -39 -0.25 -6 -22 -0.25 11 -33 -0.25 11
+0 BFC CLIP
+4 16 33 -0.25 -11 39 -0.25 -5 39 -0.25 6 22 -0.25 -11
+4 16 11 -0.25 -11 33 -0.25 11 22 -0.25 11 0 -0.25 -11
+4 16 -11 -0.25 -11 11 -0.25 11 0 -0.25 11 -22 -0.25 -11
+4 16 -33 -0.25 -11 -11 -0.25 11 -22 -0.25 11 -39 -0.25 -11
+3 16 -22 -0.25 11 -39 -0.25 -6 -39 -0.25 -11
+3 16 -33 -0.25 11 -39 -0.25 11 -39 -0.25 5

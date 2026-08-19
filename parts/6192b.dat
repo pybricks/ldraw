@@ -1,0 +1,15 @@
+0 Brick  2 x  4 with Curved Top and Groove
+0 Name: 6192b.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-05-11 [notmaster] modified from 6192.dat
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6192bs01.dat
+1 16 40 20 0 0 -80 0 0 0 -20 -20 0 0 2-4cyli.dat
+4 16 -40 20 20 40 20 20 40 23 20 -40 23 20
+4 16 40 20 -20 -40 20 -20 -40 23 -20 40 23 -20

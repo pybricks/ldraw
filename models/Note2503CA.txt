@@ -1,0 +1,211 @@
+ldraw.org Parts Update 2025-03
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Sun, 30 Mar 2025 05:48:42 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 854
+   New files: 733
+   New Parts: 554
+   New Subparts: 143
+   New Primitives: 29
+   New 8 Segment Primitives: 4
+   New 48 Segment Primitives: 3
+
+Moved Parts
+   u9062c02.dat               ~Moved to 76098bp02
+   u9262.dat                  ~Moved to 90753
+   u9263.dat                  ~Moved to 90751
+   973pc00.dat                ~Moved to 973pcz1
+   76382pc00.dat              ~Moved to 76382pcz1
+
+Renamed Parts
+   42073c01.dat               Motor Windup  2 x  6 x  2.333 w/ 1L TransWhite Axle (Complete)
+   changed to    Motor Windup  2 x  6 x  2.333 with 1L Milky_White Axle (Complete)
+   42073c02.dat               Motor Windup  2 x  6 x  2.333 with Raised Shaft Base and 1.2L TransWhite Axle
+   changed to    Motor Windup  2 x  6 x  2.333 with Raised Shaft Base and 1.2L Milky_White Axle (Complete)
+   s\483s01.dat               ~Hinge Arm Locking Ridge Segment
+   changed to    ~Hinge Arm Locking Ridge Segment Quarter
+   s\60481s01.dat             ~Slope Brick 65  2 x  1 x  2 without Front and Back Faces
+   changed to    ~Obsolete file
+   s\92946s01.dat             ~Slope Plate 45  2 x  1 without Sloped Face
+   changed to    ~Obsolete file
+   s\970phba.dat              ~Minifig Hips with Greatcoat Pattern - Purple Detail
+   changed to    ~Obsolete file
+   s\u9422s01.dat             ~Electric Powered Up Light Middle Box Half
+   changed to    ~Obsolete file
+   s\973pf3s01.dat            ~Minifig Torso with Plate Mail and Chains Pattern - Half
+   changed to    ~Minifig Torso with Plate Mail and Copper Chains Pattern - Half
+   973pf3.dat                 Minifig Torso with Plate Mail and Chains Pattern
+   changed to    Minifig Torso with Plate Mail and Copper Chains Pattern
+   s\42042s01.dat             ~Technic Bionicle Krana Su Half
+   changed to    ~Constraction Bionicle Mask Krana - Connector
+   3626bp6u.dat               Minifig Head with Gold Paint and Slanted Eyes Pattern
+   changed to    Minifig Head with Gold Paint, Fangs and Slanted Eyes Pattern
+   62537p04.dat               Minifig Jester's Cap with Medium Lilac Half and Medium Lilac Pom Pattern
+   changed to    Minifig Jester's Cap with Medium Lilac Left Half and Right Pom Pattern
+   s\62537s04.dat             ~Minifig Jester's Cap Right Side
+   changed to    ~Minifig Jester's Cap Front Right Side
+   s\62537s03.dat             ~Minifig Jester's Cap Left Side
+   changed to    ~Minifig Jester's Cap Front Left Side
+   170876a.dat                Sticker  1.1 x  1.5 with Octan Logo
+   changed to    Sticker  1.1 x  1.5 with Octan Logo on White
+   973p2c.dat                 Minifig Torso with Strapless Suntop Pattern
+   changed to    Minifig Torso with Female Strapless Suntop Pattern
+   s\92252s06.dat             ~Figure Friends Legs Hips joint
+   changed to    ~Figure Friends Legs Hips Joint (Thick Hinge)
+   32282c03.dat               Motor Pull Back  4 x  9 x  2.333 Type 2 Body with Dark Grey Base
+   changed to    ~Motor Pull Back  4 x  9 x  2.333 Type 2 Body with Dark Grey Base
+   973p8h.dat                 Minifig Torso with Suit with Pocket, Red Tie, Train Pattern
+   changed to    Minifig Torso with Suit with Pocket, Brown Pen, Red Tie, Train Logo Pattern
+   973ph1.dat                 Minifig Torso with Gryffindor Uniform Pattern
+   changed to    Minifig Torso with HP Gryffindor Uniform Pattern
+   973ph2.dat                 Minifig Torso with Slytherin Uniform Pattern
+   changed to    Minifig Torso with HP Slytherin Uniform Pattern
+   973ph3.dat                 Minifig Torso with Voldemort Robe Pattern
+   changed to    Minifig Torso with HP Voldemort Dark Green Robe Lines Pattern
+   30259p06.dat               Roadsign Clip-on  2.2 x  2.667 Triangular with Narrow Road Pattern (Obsolete)
+   changed to    ~Roadsign Clip-on  2.2 x  2.667 Triangular with Narrow Road Pattern (Obsolete)
+   30259p05.dat               Roadsign Clip-on  2.2 x  2.667 Triangular with Road Works Pattern (Obsolete)
+   changed to    ~Roadsign Clip-on  2.2 x  2.667 Triangular with Road Works Pattern (Obsolete)
+   30259p03.dat               Roadsign Clip-on  2.2 x  2.667 Triangular with Bend Pattern (Obsolete)
+   changed to    ~Roadsign Clip-on  2.2 x  2.667 Triangular with Bend Pattern (Obsolete)
+   30259p04.dat               Roadsign Clip-on  2.2 x  2.667 Triangular with Traffic Light Pattern (Obsolete)
+   changed to    ~Roadsign Clip-on  2.2 x  2.667 Triangular with Traffic Light Pattern (Obsolete)
+   30259p02.dat               Roadsign Clip-on  2.2 x  2.667 Triangular with Warning Pattern (Obsolete)
+   changed to    ~Roadsign Clip-on  2.2 x  2.667 Triangular with Warning Pattern (Obsolete)
+   30259p01.dat               Roadsign Clip-on  2.2 x  2.667 Triangular with Fire Pattern (Obsolete)
+   changed to    ~Roadsign Clip-on  2.2 x  2.667 Triangular with Fire Pattern (Obsolete)
+   30259.dat                  Roadsign Clip-on  2.2 x  2.667 Triangular (Obsolete)
+   changed to    ~Roadsign Clip-on  2.2 x  2.667 Triangular (Obsolete)
+   30259d01.dat               Roadsign Clip-on  2.2 x  2.667 Triangular with Traffic Light Sticker (Obsolete)
+   changed to    ~Roadsign Clip-on  2.2 x  2.667 Triangular with Traffic Light Sticker (Obsolete)
+   385.dat                    Baseplate 50 x 50 Road 3-way Curve (Obsolete)
+   changed to    ~Baseplate 50 x 50 Road 3-way Curve (Obsolete)
+   2528p30.dat                Minifig Hat Bicorne with Evil Skull and Crossbones Pattern (Obsolete)
+   changed to    ~Minifig Hat Bicorne with Evil Skull and Crossbones Pattern (Obsolete)
+   65676.dat                  Roadsign Clip-on  2.2 x  2.667 Triangular (Thick C-Clip) (Obsolete)
+   changed to    ~Roadsign Clip-on  2.2 x  2.667 Triangular (Thick C-Clip) (Obsolete)
+   973p8w.dat                 Minifig Torso with White Shirt with Dark Blue Tie, Gold Airline Pin, Belt and ID Badge Pattern
+   changed to    Minifig Torso with Shirt with Dark Blue Tie, Gold Airline Pin, Belt and ID Badge Pattern
+   973p9s.dat                 Minifig Torso with Firefighter Vest with Gold Badge and Belt with Radio Pattern
+   changed to    Minifig Torso with Female Firefighter Vest with Gold Badge and Belt with Radio Pattern
+   76382p40.dat               Minifig Torso with Arms and Hands with Castle Breastplate Pattern
+   changed to    Minifig Torso with Black Arms and Hands with Castle Breastplate Pattern
+   76382p41.dat               Minifig Torso with Arms and Hands with Castle Chainmail Pattern
+   changed to    Minifig Torso with Black Arms and Hands with Castle Chainmail Pattern
+   76382p4d.dat               Minifig Torso with Arms and Hands with Royal Knights Lion-Head Shield Pattern
+   changed to    Minifig Torso with White Arms and Hands with Royal Knights Lion-Head Shield Pattern
+   76382p44.dat               Minifig Torso with Arms and Hands with Wolfpack Pattern
+   changed to    Minifig Torso with Black Arms and Hands with Wolfpack Pattern
+   76382p63.dat               Minifig Torso with Arms and Hands with Robot Pattern
+   changed to    Minifig Torso with Black Arms and Hands with Spyrius Droid Pattern
+   76382p8a.dat               Minifig Torso with Arms and Hands with Extreme Team Jacket Logo Pattern
+   changed to    Minifig Torso with White Arms and Hands with Extreme Team Jacket Logo Pattern
+   3660a.dat                  Slope Brick 45  2 x  2 Inverted without Inner Stopper Ring
+   changed to    ~Slope Brick 45  2 x  2 Inverted without Inner Stopper Ring (Obsolete)
+   76382py3.dat               Minifig Torso with Arms and Hands with Ford Logo, Dark Blue Crosses and Dots and Black Stripes Pattern
+   changed to    Minifig Torso with Arms and Hands with Race Suit with Ford Logo, Dark Blue Crosses and Dots and Black Stripes Pattern
+   76382p7k.dat               Minifig Torso with Arms and Hands with Jail Stripes and "23768" Pattern
+   changed to    Minifig Torso with Arms and Yellow Hands with Jail Stripes and "23768" Pattern
+   16360p2t.dat               Minifig Torso with Arms and Hands with Black Collar and Dark Azure Bow Tie Pattern
+   changed to    Minifig Torso with Dual Mould Arms and Hands with Black Collar and Dark Azure Bow Tie Pattern
+   16360p5i.dat               Minifig Torso with Arms and Hands with Hawaiian Shirt with Medium Azure Leaves, Medium Nougat Buttons and Bright Light Orange Pin Pattern
+   changed to    Minifig Torso with Dual Mould Arms and Hands with Hawaiian Shirt with Medium Azure Leaves, Medium Nougat Buttons and Bright Light Orange Pin Pattern
+   16360p5l.dat               Minifig Torso with Arms and Hands with Hawaiian Shirt with Black Buttons and White Flowers and Turtle Shell on Back Pattern
+   changed to    Minifig Torso with Dual Mould Arms and Hands with Hawaiian Shirt with Black Buttons and White Flowers and Turtle Shell on Back Pattern
+   16360p87.dat               Minifig Torso with Arms and Hands with Shirt, Pink/Salmon Tie and ID Badge Pattern
+   changed to    Minifig Torso with Dual Mould Arms and Hands with Shirt, Pink/Salmon Tie and ID Badge Pattern
+   16360pd1d.dat              Minifig Torso with Arms and Hands with Jacket over Medium Blue Skin and Light Blue Waist Pattern
+   changed to    Minifig Torso with Dual Mould Arms and Hands with Jacket over Medium Blue Skin and Light Blue Waist Pattern
+   16360pckc.dat              Minifig Torso with Arms and Hands with Female Wetsuit, Coral and Dark Azure Trim and Turtle Logo Pattern
+   changed to    Minifig Torso with Dual Mould Arms and Hands with Female Wetsuit, Coral and Dark Azure Trim and Turtle Logo Pattern
+   16360pd7f.dat              Minifig Torso with Arms and Hands with Gold Tie Pin and Black Arms and Tie Pattern
+   changed to    Minifig Torso with Dual Mould Arms and Hands with Gold Tie Pin and Black Arms and Tie Pattern
+   16360pd11.dat              Minifig Torso with Arms and Hands with Shirt with Black Belly Bump and Collar Outline Pattern
+   changed to    Minifig Torso with Dual Mould Arms and Hands with Shirt with Black Belly Bump and Collar Outline Pattern
+   16360pd12.dat              Minifig Torso with Arms and Hands with Slingshot on Back Pattern
+   changed to    Minifig Torso with Dual Mould Arms and Hands with Slingshot on Back Pattern
+   16360pxh.dat               Minifig Torso with Arms and Hands with White Arms, Medium Lavender Ruffles and Button Pattern
+   changed to    Minifig Torso with Dual Mould Arms and Hands with White Arms, Medium Lavender Ruffles and Button Pattern
+   16360p01.dat               Minifig Torso with Yellow Lower Arms and Hands
+   changed to    Minifig Torso with Yellow Dual Mould Arms and Hands Pattern
+   973p9l.dat                 Minifig Torso with Jacket and Medium Nougat Collar over Light Bluish Grey Shirt Pattern
+   changed to    Minifig Torso with Jacket and Medium Nougat Collar over Bright Light Blue Shirt Pattern
+   973p9g.dat                 Minifig Torso with Construction Vest with Reflective Stripe and Buckles, Front Pouch and Red Pen Pattern
+   changed to    Minifig Torso with Overalls with Reflective Stripe and Buckles, Front Pouch and Red Pen Pattern
+   2916d02.dat                Wedge 4 x 6 x 2.333 with Black Train Logo Sticker
+   changed to    Wedge 4 x  6 x  2.333 with Black Train Logo Sticker
+   24246p07.dat               Tile  1 x  1 with Red Disc and Light Grey Arc Pattern
+   changed to    Tile  1 x  1 with Rounded End with Red Disc and Light Grey Arc Pattern
+   45677ds1.dat               Wedge 4 x 4 x 0.667 Curved with Blue Markings on Dark Bluish Grey Background Sticker
+   changed to    Wedge 4 x  4 x  0.667 Curved with Blue Markings on Dark Bluish Grey Background Sticker
+   3070bp07.dat               Tile  1 x  1 with Dial Pattern
+   changed to    Tile  1 x  1 with White and Red Dial, Black Needle and 4 Black Screw Heads Pattern
+   s\191915s01.dat            ~"7740" Pattern White
+   changed to    ~"7740" White
+   76382p6b.dat               Minifig Torso with Arms and Hands with Black Futuron Pattern
+   changed to    Minifig Torso with Arms and Black Hands with Black Futuron Pattern
+   76382pn1.dat               Minifig Torso with Arms and Hands with Samurai Robe, Sash and Dagger Pattern
+   changed to    Minifig Torso with Black Arms and Hands with Yellow Neck, Samurai Robe, Sash and Dagger Pattern
+   973pn1.dat                 Minifig Torso with Samurai Robe, Sash and Dagger Pattern
+   changed to    Minifig Torso with Yellow Neck, Samurai Robe, Sash and Dagger Pattern
+
+Other Fixed Parts
+   6272.dat                   Electric RC Receiver Unit with Auxiliary Output (Complete)
+   973p89.dat                 Minifig Torso with Crew Neck Sweater with Collar and "HAIL TO THE CHEF" on White Apron Pattern
+   3626cpd89.dat              Minifig Head Female with Balaclava, Medium Nougat Face, Beauty Mark and Crooked Smile Pattern
+   62537p01.dat               Minifig Jester's Cap with Blue Half and Blue Pom Pattern
+   62537p02.dat               Minifig Jester's Cap with Black Half and White Poms Pattern
+   62537p03.dat               Minifig Jester's Cap with Red Half and Red Pom Pattern
+   62537.dat                  Minifig Jester's Cap
+   2335p30.dat                Flag  2 x  2 with Jolly Roger Pattern
+   88072.dat                  Plate  1 x  2 with Vertical Bar on Long Side and Short Arm
+   3641.dat                   Tyre  6/ 50 x  8 Offset Tread
+   973p52.dat                 Minifig Torso with Blacktron I Pattern
+   94722.dat                  Figure Friends Award Ribbon with Number Two
+   2873d06.dat                Hinge Tile  2 x  4 with Ribs with Envelope and Post Horn Sticker on Bottom
+   32271d03.dat               Technic Beam  3 x  7 Liftarm Bent 53.13 with Red and White Diagonal Stripes Leaning Right Sticker
+   32009d02.dat               Technic Beam  3 x  3.8 x  7 Liftarm Bent 45 Double with Red and White Danger Stripes Leaning Right Sticker
+   32271d04.dat               Technic Beam  3 x  7 Liftarm Bent 53.13 with Red and White Diagonal Stripes Leaning Left Sticker
+   32009d01.dat               Technic Beam  3 x  3.8 x  7 Liftarm Bent 45 Double with Red and White Danger Stripes Leaning Left Sticker
+   195375c.dat                Sticker  2.3 x  1.9 with Oven on Transparent Background
+   6037727b.dat               Sticker  1.5 x  1.9 with Two Clocks and Pretzel
+   59349df5.dat               Panel  1 x  6 x  5 with Herbs, Tea Towel and Ladle Sticker
+   59349df0.dat               Panel  1 x  6 x  5 with Sponge, Green Towel and Soap Bottle Sticker
+   59349d01.dat               Panel  1 x  6 x  5 with SW Death Star Corridor Sticker
+   59349df2.dat               Panel  1 x  6 x  5 with Hay, Pitchfork, First Aid Kit, Stethoscope and Brush Sticker
+   2362bd01.dat               Panel  1 x  2 x  3 with Hollow Studs with SW Death Star Wall Light Sticker
+   196825b.dat                =Sticker  1.9 x  1.9 Round with Lifepreserver
+   3068bp11.dat               Tile  2 x  2 with Launch Command Logo Pattern
+   169605a.dat                Sticker  1 x  1 with Launch Command Logo Facing Right
+   973p1q.dat                 Minifig Torso with Launch Command Logo and Equipment Pattern
+   s\30248s01.dat             ~Vehicle Landing Skids - One Skid
+   44666.dat                  Plate 14 x 18 x  1 Hexagonal with Three Pinholes at Centre
+   s\93668s01.dat             ~Sheet Plastic 15 x 14 Curved - Half Surface
+   45522.dat                  Plate  6 x  6 x  0.667 with 4 Studs and Card-holder - "SPORTS"
+   s\3626cps0s01.dat          ~Minifig Head SW Jawa, Yellow Eyes with Orange Rim Pattern - Half
+   95328p01.dat               Minifig Hair Mid-Length Smooth Wide Bob Cut with Gold Diadem Pattern
+   98100ps1.dat               Cone  2 x  2 Truncated with SW R5 Red Pattern
+   973p2x.dat                 Minifig Torso with Jacket with Black Seams, Sand Green Belt and Gold Buckle and Atreides Hawk Crest Pattern
+   s\43447s02.dat             ~Electric RC Race Buggy Battery - Half Base
+   s\43446s01.dat             ~Electric RC Race Buggy Battery - Half Top
+   31111p0c.dat               Duplo Brick  2 x  4 x  2 with Flamingo Body Pattern
+   s\196925s01.dat            ~"7715" White
+   s\193075s01.dat            ~"7725" White
+   s\191936s01.dat            ~"7760" White
+   s\195475s01.dat            ~"7755" White
+   s\195405s01.dat            ~"7727" White
+   s\191905s01.dat            ~"7730" White
+   s\191925s01.dat            ~"7750" White
+   s\196935s01.dat            ~"7722" White
+   s\191895s01.dat            ~"7720" White
+   s\191888s01.dat            ~"7710" White
+   s\191945s01.dat            ~"7810" White
+   s\196945s01.dat            ~"7735" White
+
+Minor Edits
+   1950 Parts with minor administrative edits and/or license changes

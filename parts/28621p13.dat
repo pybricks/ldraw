@@ -1,0 +1,32 @@
+0 Minifig Head with Small Black Eyebrows Eyes and Smile / Surprised 2-Sided Pattern
+0 Name: 28621p13.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3626pb4125, Brickowl 255058, Brickset 116263, Moon Rocket
+0 !KEYWORDS Rebrickable 28621pr0059, Set 21367, Tintin
+
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\28621s01.dat
+1 16 0 4 0 0 0 8 0 -6.4 0 -8 0 0 t04o6250.dat
+1 16 0 4 0 0 0 -8 0 -6.4 0 -8 0 0 t04o6250.dat
+1 16 0 4 0 0 0 -8 0 -6.4 0 8 0 0 t04o6250.dat
+1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t04o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 -8 t04o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 8 t08o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t08o6250.dat
+1 16 0 4 0 13 0 0 0 13 0 0 0 13 1-8cyli.dat
+1 16 0 4 0 13 0 0 0 13 0 0 0 -13 1-8cyli.dat
+1 16 0 4 0 -13 0 0 0 13 0 0 0 -13 1-8cyli.dat
+1 16 0 4 0 -13 0 0 0 13 0 0 0 13 1-8cyli.dat
+
+5 24 0 4 -13 0 17 -13 -4.9752 4 -12.0104 4.9751 4 -12.0107
+5 24 0 17 13 0 4 13 -4.9751 4 12.0107 4.9751 4 12.0107
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\28621p13s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\28621p13s01.dat

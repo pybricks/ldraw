@@ -1,0 +1,27 @@
+0 ~Duplo Train Cabin  3.2 x  3 x  3 with Narrow Front Windows with Number Pattern - Background and Black Borders
+0 Name: s\4544bp01s01.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Subpart UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 0 64 -21 0 0 -1 0 0 0 -1.4 -2 0 0 48\4-4ring14.dat
+1 0 64 -21 0 0 -1 0 0 0 -1.05 -1.5 0 0 48\4-4ring15.dat
+1 16 64 -21 0 0 -1 0 0 0 -21 -30 0 0 48\4-4ndis.dat
+3 16 64 -45 -43 64 -45 -60 64 4 -60
+4 16 64 -45 -37 64 -45 -43 64 4 -60 64 -42 -30
+3 16 64 -42 -30 64 4 -60 64 0 -30
+4 16 64 0 0 64 0 -30 64 4 -60 64 4 60
+3 16 64 0 30 64 0 0 64 4 60
+3 16 64 -21 30 64 0 30 64 4 60
+4 16 64 -42 30 64 -21 30 64 4 60 64 -45 37
+3 16 64 -45 43 64 -45 37 64 4 60
+3 16 64 -45 60 64 -45 43 64 4 60
+3 16 64 -45 37 64 -45 7 64 -42 30
+4 16 64 -42 30 64 -45 7 64 -45 1 64 -42 0
+4 16 64 -42 0 64 -45 1 64 -45 -13 64 -42 -30
+3 16 64 -45 -13 64 -45 -19 64 -42 -30
+3 16 64 -45 -19 64 -45 -37 64 -42 -30

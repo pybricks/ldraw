@@ -1,0 +1,29 @@
+0 Windscreen  4 x 12 x  3 Curved
+0 Name: 3571.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickowl 287871
+
+0 !HISTORY 2023-08-23 {LEGO Instructions App} Original part shape
+0 !HISTORY 2023-08-30 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3571s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3571s01.dat
+
+0 // front side
+1 16 0 -2.4105 -60 40 0 0 0 0 -2.4105 0 1 0 rect2p.dat
+4 16 80 -72 18.975 -80 -72 18.975 -40 -4.821 -60 40 -4.821 -60
+
+0 // back side
+1 16 0 -4 -45.3335 40 0 0 0 0 -4 0 5.3335 0 box2-9p.dat
+1 16 0 -70 19.4875 80 0 0 0 0 -2 0 .5125 0 box2-9p.dat
+4 16 -80 -68 20 80 -68 20 40 -8 -50.667 -40 -8 -50.667
+1 16 0 -5.25 -50 40 0 0 0 -1 0 0 0 -6 rect2p.dat
+1 16 0 -2.625 -42 -40 0 0 0 2.625 0 0 0 -2 box2-11.dat
+1 16 0 -2.625 -58 -40 0 0 0 2.625 0 0 0 2 box2-11.dat
+1 16 0 -5.25 -50 1 0 0 0 -1.3125 0 0 0 1 stug3-1x5.dat

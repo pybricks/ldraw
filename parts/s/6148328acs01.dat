@@ -1,0 +1,23 @@
+0 ~Sticker  0.8 x  1.9 with White Stripes and Black Headlamp on Red Background Right - First Face
+0 Name: s\6148328acs01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+
+0 // Primitives
+1 15 -6.5 -.25 3.8922 -1.5 0 0 0 1 0 0 0 1.5 1-4chrd.dat
+1 15 6.5 -.25 3.8922 1.5 0 0 0 1 0 0 0 1.5 1-4chrd.dat
+0 // Red faces
+4 4 -1.6 -.25 5.3922 -4.8 -.25 5.3922 -4.8 -.25 -.0121 -1.6 -.25 -.0121
+4 4 1.6 -.25 5.3922 1.6 -.25 -.0121 4.8 -.25 -.0121 4.8 -.25 5.3922
+0 // White faces
+4 15 -1.6 -.25 5.3922 -1.6 -.25 -.0121 1.6 -.25 -.0121 1.6 -.25 5.3922
+3 15 -8 -.25 -.0121 -6.5 -.25 5.3922 -8 -.25 3.8922
+4 15 -8 -.25 -.0121 -4.8 -.25 -.0121 -4.8 -.25 5.3922 -6.5 -.25 5.3922
+4 15 8 -.25 -.0121 6.5 -.25 5.3922 4.8 -.25 5.3922 4.8 -.25 -.0121
+3 15 8 -.25 -.0121 8 -.25 3.8922 6.5 -.25 5.3922

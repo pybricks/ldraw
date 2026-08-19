@@ -1,0 +1,15 @@
+0 Technic Peg Hole Negative 0.25 Padding Large (9 LDU)
+0 Name: npeghol6g.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Primitive UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 npeghol6f.dat
+
+1 16 0 0 0 9 0 0 0 1 0 0 0 9 1-8ndis.dat
+3 16 6.3639 0 6.3639 9 0 9 6.3639 0 8.4679
+4 16 6.3639 0 10 6.3639 0 8.4679 9 0 9 9 0 10

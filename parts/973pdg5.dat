@@ -1,0 +1,16 @@
+0 Minifig Torso with Yellowish Green Collar over Green Stripes Pattern
+0 Name: 973pdg5.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb4699, CMF, Kermit the Frog, set 71033, The Muppets
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+1 16 0 0 -10 1 0 0 0 1 0 0 0 1 s\973pdg5s01.dat
+1 16 0 0 10 1 0 0 0 1 0 0 0 -1 s\973pdg5s01.dat

@@ -1,0 +1,25 @@
+0 Electric 12 Volt: Remote Control for Manual Control Type 2
+0 Name: 70286.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Shortcut UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Rotate keys by 3.5 degree to pressed down position.
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS BrickLink 4707pb05, Brickowl 521734, control, dacta
+0 !KEYWORDS Rebrickable 4707c03, set 1039, set 1342, Technic
+
+0 !PREVIEW 16 0 0 0 -1 0 0 0 1 0 0 0 -1
+
+0 !HISTORY 2011-07-25 [PTadmin] Official Update 2011-01
+0 !HISTORY 2024-10-12 [kuramapika1] Complete Rework
+0 !HISTORY 2024-11-03 [MagFors] Renumbered from 4707c03
+0 !HISTORY 2025-09-13 [kuramapika1] Adjusted to new parts origin's and added preview metacommand
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4707c06.dat
+1 16 42.5 18 65 1 0 0 0 1 0 0 0 1 4708p05.dat
+1 16 -42.5 18 65 1 0 0 0 1 0 0 0 1 4709p05.dat

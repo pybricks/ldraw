@@ -1,0 +1,12 @@
+0 ~Electric 9V Battery Box  4 x 14 x  4 Bottom - Contact Extenter
+0 Name: u9644.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+1 16 0 0 0 10 0 0 0 0 -10 0 2 0 4-4cylc.dat
+1 16 0 0 2 10 0 0 0 0 -10 0 -1 0 4-4disc.dat

@@ -1,0 +1,18 @@
+0 Minifig Hair Long Wavy with Braid and Light Nougat Elf Ears Pattern
+0 Name: 13766p01.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Part UPDATE 2024-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Arwen, Bricklink 13766pb01, Brickowl 847244, Rebrickable 13766pr0001
+0 !KEYWORDS Set 79006, the lord of the rings
+
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
+
+0 // Hair
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\13766s01.dat
+0 // Ears
+1 78 0 0 0 1 0 0 0 1 0 0 0 1 s\13766s02.dat

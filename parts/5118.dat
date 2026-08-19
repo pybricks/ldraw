@@ -1,0 +1,27 @@
+0 Slope Brick 45  6 x  8 Double Inverted with  1 x  6 Extension and 4 Holes
+0 Name: 5118.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Aircraft, Wing
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\5118s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\5118s01.dat
+
+0 // Studs
+1 16 0 20 0 1 0 0 0 -1 0 0 0 1 stud4.dat
+
+1 16 -30 16 0 0 0 1 0 1 0 -1 0 0 stug-1x6.dat
+1 16 -10 16 0 0 0 1 0 1 0 -1 0 0 stug-1x8.dat
+1 16 10 16 0 0 0 1 0 1 0 -1 0 0 stug-1x8.dat
+1 16 30 16 0 0 0 1 0 1 0 -1 0 0 stug-1x6.dat
+
+1 16 -50 8 0 0 0 1 0 1 0 -1 0 0 stug-1x6.dat
+1 16 50 8 0 0 0 1 0 1 0 -1 0 0 stug-1x6.dat
+1 16 -70 8 0 0 0 1 0 1 0 -1 0 0 stug-1x6.dat
+1 16 70 8 0 0 0 1 0 1 0 -1 0 0 stug-1x6.dat

@@ -1,0 +1,123 @@
+ldraw.org Parts Update 2024-06
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Mon, 29 Jul 2024 02:26:23 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 374
+   New files: 301
+   New Parts: 199
+   New Subparts: 89
+   New Primitives: 7
+   New 48 Segment Primitives: 6
+
+Moved Parts
+   44676.dat                  ~Moved to 44676a
+
+Renamed Parts
+   6161.dat                   Brick 24 x 24 with 12 x 12 Quarter Circle Cutout (Needs Work)
+   changed to    Brick 24 x 24 with 12 x 12 Quarter Circle Cutout
+   6296256g.dat               Sticker  5.8 x  5.8 with FIAT 500 and Colosseum Painting
+   changed to    Sticker  5.8 x  5.8 with Bright Light Yellow FIAT 500 and Colosseum Painting
+   6296256h.dat               Sticker  0.8 x  7.8 with Air Inlet Gills
+   changed to    Sticker  0.8 x  7.8 with Air Inlet Gills on Bright Light Yellow
+   48\tm04o2727.dat           Mixed-Mode Torus Outer 1 x 0.2727 x 0.2500
+   changed to    Mixed-Mode Torus Outer  1 x 0.2727 x 0.2500
+   wpin2a.dat                 Wheel Holding Pin with 2 Fillets without Bottom Faces
+   changed to    Wheel Holding Pin with  2 Fillets without Bottom Faces
+   wpin3.dat                  Wheel Holding Pin with 3 Fillets
+   changed to    Wheel Holding Pin with  3 Fillets
+   s\3960psbs02.dat           ~Dish 4 x 4 Inverted with SW Dejarik Hologame Board Pattern - Dots
+   changed to    ~Dish  4 x  4 Inverted with SW Dejarik Hologame Board Pattern - Dots
+   s\3960psbs01.dat           ~Dish 4 x 4 Inverted with SW Dejarik Hologame Board Pattern - Half
+   changed to    ~Dish  4 x  4 Inverted with SW Dejarik Hologame Board Pattern - Half
+   44375bps2.dat              Dish 6 x 6 Inverted Solid Studs with 8 Radial Rectangular Black and Dark Gray Grille Pattern
+   changed to    Dish  6 x  6 Inverted Solid Studs with  8 Radial Rectangular Black and Dark Gray Grille Pattern
+   44375bp03.dat              Dish 6 x 6 Inverted Solid Studs with Silver and Gold Lines and Chinese Logogram for Silver and Gold Pattern
+   changed to    Dish  6 x  6 Inverted Solid Studs with Silver and Gold Lines and Chinese Logogram for Silver and Gold Pattern
+   3960psb.dat                Dish 4 x 4 Inverted with SW Dejarik Hologame Board Pattern
+   changed to    Dish  4 x  4 Inverted with SW Dejarik Hologame Board Pattern
+   3960ph0.dat                Dish 4 x 4 Inverted with White "HOGWARTS EXPRESS" on Red Background with Metallic Gold Frame and White "5972" Pattern
+   changed to    Dish  4 x  4 Inverted with White "HOGWARTS EXPRESS" on Red Background with Metallic Gold Frame and White "5972" Pattern
+   3010pyd.dat                Brick  1 X  4 with Black and Red "WALL.E" Pattern
+   changed to    Brick  1 x  4 with Black and Red "WALL.E" Pattern
+   3816b.dat                  Minifig Leg Right (Obsolete)
+   changed to    ~Minifig Leg Right (Obsolete)
+   3817b.dat                  Minifig Leg Left (Obsolete)
+   changed to    ~Minifig Leg Left (Obsolete)
+   3816bpb8.dat               Minifig Leg Right with Dark Bluish Grey Robe Lines Pattern (Obsolete)
+   changed to    ~Minifig Leg Right with Dark Bluish Grey Robe Lines Pattern (Obsolete)
+   3816bpaw.dat               Minifig Leg Right with Dark Red Loincloth, White Claws and Fur Tail Pattern
+   changed to    ~Minifig Leg Right with Dark Red Loincloth, White Claws and Fur Tail Pattern (Obsolete)
+   54276.dat                  Minifig Legs Barraki
+   changed to    Minifig Legs Bionicle
+   15.dat                     Minifig Legs Old
+   changed to    Minifig Hips and Legs with Integral Legs
+   2431p02.dat                Tile  1 x  4 with Danger Stripes Red Pattern
+   changed to    Tile  1 x  4 with Red Danger Stripes Pattern
+   2431p04.dat                Tile  1 x  4 with 4 Black Diagonal Stripes Pattern
+   changed to    Tile  1 x  4 with Black Danger Stripes Pattern
+   96910.dat                  Tile  1 x  2 Chamfered with 2 Top Indentations
+   changed to    Tile  1 x  2 Chamfered with  2 Top Indentations
+   77850.dat                  Plate  1 x  3 Round Ends and  3 Open Studs
+   changed to    Plate  1 x  3 with Round Ends and  3 Open Studs
+   79491.dat                  Plate  2 x  2 Corner Round
+   changed to    Plate  2 x  2 with Corner Round
+   30565.dat                  Plate  4 x  4 Corner Round
+   changed to    Plate  4 x  4 with Corner Round
+   4590.dat                   Plate  1 x  4 Offset
+   changed to    Plate  1 x  2 with  2 Offset Hollow Studs
+   65486.dat                  Plate  9 x  9 Heart Shape
+   changed to    Plate  9 x  9 with Heart Shape
+   46342.dat                  Plate  6 x  6 Heart Shape
+   changed to    Plate  6 x  6 with Heart Shape
+   4190.dat                   Plate  2 x  2 Slope Inverted Corner
+   changed to    Plate  2 x  2 with Slope Inverted Corner
+
+Other Fixed Parts
+   3664p05.dat                Duplo Brick  2 x  2 x  2 Curved Top with Black Clock Hands 2:30 Pattern
+   4694c01-f1.dat             Technic Pneumatic Valve (Complete - Neutral Position)
+   4694c01-f2.dat             Technic Pneumatic Valve (Complete - Down Position)
+   4694c01-f3.dat             Technic Pneumatic Valve (Complete - Up Position)
+   6296256a.dat               Sticker  1.8 x  3.8 with Switzerland and Sweden Stickers on Medium Nougat
+   6585.dat                   Technic Gearbox  4 x  4 x  1.667
+   s\6296256hs01.dat          ~Sticker  0.8 x  7.8 with Air Inlet Gills - 4 Gills
+   s\6585s01.dat              ~Technic Gearbox  4 x  4 x  1.667 Half
+   axlehol7.dat               Technic Axle Hole Sides
+   8\stud9.dat                Stud Open with Small Hole (Fast-Draw)
+   stud4f1w.dat               Stud Tube Open with  1 Fillet Wide
+   stud14.dat                 Stud Quatro
+   4-4con36.dat               Cone 36 x 1.0
+   t04i6381.dat               Torus Inside  1 x 0.6381 x 0.25
+   t04q3030.dat               Torus Tube  1 x 0.3030 x 0.25
+   stud4f3s.dat               Stud Tube Open with  3 Fillets Standard
+   8\stud15.dat               Stud Truncated Laterally Straight 40D for Round  2 x  2 Parts (Fast-Draw)
+   8\stud21a.dat              Stud Tube Open Slot without Slot Base Edges (Fast-Draw)
+   cylj5x9.dat                Cylinder Joint  5 to  9
+   48\1-16con19.dat           Hi-Res Cone 19 x 0.0625
+   48\t12o0349.dat            Hi-Res Torus Outside  1 x 0.0349 x 0.0833
+   48\t12o0625.dat            Hi-Res Torus Outside  1 x 0.0625 x 0.0833
+   stud9.dat                  Stud Open with Small Holes
+   8\stud22a.dat              Stud Tube Open Split without Split Base Edges (Fast-Draw)
+   beamhol2.dat               Technic Beam Hole 0.5 with Adjacent Hole Negative
+   st4jfil4.dat               Stud Tube Open to Fillet Wide (4LDu) Joint
+   st4jfil2.dat               Stud Tube Open to Fillet Narrow (2LDu) Joint
+   st4jfil3.dat               Stud Tube Open to Fillet Standard (3LDu) Joint
+   st4jfil2oc.dat             Stud Tube Open to Fillet Narrow (2LDu) Joint Off Centre
+   87087.dat                  Brick  1 x  1 with Stud on 1 Side
+   3068b.dat                  Tile  2 x  2 with Groove
+   98138p2l.dat               Tile  1 x  1 Round with Half Circle Within a Black Half Circle Pattern
+   3069bp53.dat               Tile  1 x  2 with Mars Orbit Display Pattern
+   98138p0k.dat               Tile  1 x  1 Round with Black Eye with Pupil Squinting Pattern
+   98138p0c.dat               Tile  1 x  1 Round with Eye Closed Pattern
+   1745.dat                   Plate  1 x  2 Half Round with 1 Centre Stud
+   3545.dat                   Wing  3 x  8 Right
+   3544.dat                   Wing  3 x  8 Left
+   50304.dat                  Wing  3 x  8 Pentagonal Right
+   50303.dat                  Wing  7 x  6 with Stud Notches
+   50305.dat                  Wing  3 x  8 Pentagonal Left
+   88695.dat                  Bar  0.5L with Faceted Spike 1L
+   boxjcyl4.dat               Box to Cylinder Joint 1: 4

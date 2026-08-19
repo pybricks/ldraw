@@ -1,0 +1,20 @@
+0 Minifig Torso with Arms and Hands with Race Suit with Porsche Logos and Black, Grey and Red Stripes Type  1 Pattern
+0 Name: 76382pyo.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Shortcut UPDATE 2026-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 919, Brendon Hartley, Bricklink 973pb3088c01, Brickowl 711919
+0 !KEYWORDS Brickset 76382, Earl Bamber, Hybrid, Jacket, LMP, Motorsport, Race
+0 !KEYWORDS Rebrickable 973c27h03pr4217, Set 75887, Speed Champions, sport, Team
+0 !KEYWORDS Timo Bernhard, Uniform
+
+0 !HISTORY 2026-03-06 [OrionP] Official Update 2026-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pyo.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 0 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 0 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

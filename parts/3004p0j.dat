@@ -1,0 +1,26 @@
+0 Brick  1 x  2 with  3 Black and Light Bluish Grey Castle Window Pattern
+0 Name: 3004p0j.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2026-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Architecture, Bricklink 3004pb341, Brickowl 989032, Brickset 113284
+0 !KEYWORDS Neuschwanstein Castle, Rebrickable 3004pr0120, Set 21063
+
+0 !HISTORY 2026-03-31 [OrionP] Official Update 2026-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3004p0js01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3004p0js01.dat
+1 71 0 8.8 -10 .85 0 0 0 0 -.85 0 1 0 2-4ring2.dat
+1 16 0 8.8 -10 2.55 0 0 0 0 -2.55 0 1 0 2-4ndis.dat
+1 0 0 8.8 -10 1.7 0 0 0 0 -1.7 0 1 0 2-4chrd.dat
+3 71 1.7 18.35 -10 -1.7 18.35 -10 0 19.2 -10
+4 0 1.7 8.8 -10 -1.7 8.8 -10 -.85 9.6 -10 .85 9.6 -10
+4 0 .85 9.6 -10 -.85 9.6 -10 -.85 10 -10 .85 10 -10
+4 0 .85 10 -10 -.85 10 -10 -.85 10.4 -10 .85 10.4 -10
+4 0 .85 10.4 -10 -.85 10.4 -10 -1.7 18.35 -10 1.7 18.35 -10
+3 16 -20 0 -10 0 4.24 -10 20 0 -10
+3 16 20 24 -10 0 19.2 -10 -20 24 -10

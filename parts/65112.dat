@@ -1,0 +1,26 @@
+0 Duplo Sink Shallow
+0 Name: 65112.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Part UPDATE 2025-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Furniture
+
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
+
+1 16 60 0 20 1 0 0 0 2.75 0 0 0 1 stud7.dat
+1 16 -60 0 20 1 0 0 0 2.75 0 0 0 1 stud7.dat
+
+0 // common
+1 16 0 12 0 1 0 0 0 -2 0 0 0 1 stud8.dat
+0 BFC INVERTNEXT
+1 16 0 24 0 76 0 0 0 -20 0 0 0 36 box4.dat
+1 16 0 24 0 80 0 0 0 -24 0 0 0 40 box4.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 33.2462 0 0 0 8 0 0 0 28 box3u8p.dat
+1 16 0 4 0 36 0 0 0 8 0 0 0 30 box3u8p.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65112s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\65112s01.dat

@@ -1,0 +1,17 @@
+0 =Sticker  1.9 x  3.8 with Yellow Box and Arrows
+0 Name: 197895d.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part Alias UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS BrickLink 4030stk01, Brickowl 138761, Cargo, Freighter
+0 !KEYWORDS Rebrickable 197895, Set 4030
+
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+
+0 // Alias of 190145a
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 190145a.dat

@@ -1,0 +1,17 @@
+0 Wheel 13.4 x 24 with Rubber Black Integral Smooth Racing Tyre with White "PIRELLI P ZERO" Pattern
+0 Name: 105162p04.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 105162pb04, Rebrickable 105162pr0003, Set 77244, Set 77247
+0 !KEYWORDS Set 77249, Set 77251, Slick, Speed Champions
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\105162s01.dat
+1 256 0 0 0 1 0 0 0 1 0 0 0 1 s\105162s02.dat
+1 256 0 0 0 1 0 0 0 1 0 0 0 1 s\105162p01s01.dat
+1 511 0 0 0 1 0 0 0 1 0 0 0 1 s\105162p01s02.dat

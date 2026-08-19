@@ -1,0 +1,65 @@
+0 ~Minifig Head  2 x  2 x  1.333 Giant without Outer Face
+0 Name: s\79435s01.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Subpart UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-10-23 [notmaster] subparted from 79435.dat
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 14 0 1 0 0 0 -4.5 0 0 0 1 stud4a.dat
+1 16 0 14 0 1 0 0 0 1 0 0 0 1 axlehol3.dat
+1 16 0 14 0 1 0 0 0 -1 0 0 0 -1 axl5ho10.dat
+1 16 0 14 0 1 0 0 0 1 0 0 0 1 axl5hol9.dat
+1 16 0 3 0 1 0 0 0 11 0 0 0 1 axl5hol8.dat
+1 16 0 3 0 1 0 0 0 1 0 0 0 1 axl5hol9.dat
+1 16 0 3 0 1 0 0 0 1 0 0 0 1 axlehol2.dat
+
+0 // Adapter rings
+1 16 0 3 0 6 0 0 0 1 0 0 0 6 1-16chrd.dat
+1 16 0 3 0 0 0 6 0 1 0 6 0 0 1-16chrd.dat
+1 16 0 3 0 0 0 -6 0 1 0 6 0 0 1-16chrd.dat
+1 16 0 3 0 -6 0 0 0 1 0 0 0 6 1-16chrd.dat
+1 16 0 3 0 -6 0 0 0 1 0 0 0 -6 1-16chrd.dat
+1 16 0 3 0 0 0 -6 0 1 0 -6 0 0 1-16chrd.dat
+1 16 0 3 0 0 0 6 0 1 0 -6 0 0 1-16chrd.dat
+1 16 0 3 0 6 0 0 0 1 0 0 0 -6 1-16chrd.dat
+
+1 16 0 14 0 6 0 0 0 -1 0 0 0 6 1-16chrd.dat
+1 16 0 14 0 0 0 6 0 -1 0 6 0 0 1-16chrd.dat
+1 16 0 14 0 0 0 -6 0 -1 0 6 0 0 1-16chrd.dat
+1 16 0 14 0 -6 0 0 0 -1 0 0 0 6 1-16chrd.dat
+1 16 0 14 0 -6 0 0 0 -1 0 0 0 -6 1-16chrd.dat
+1 16 0 14 0 0 0 -6 0 -1 0 -6 0 0 1-16chrd.dat
+1 16 0 14 0 0 0 6 0 -1 0 -6 0 0 1-16chrd.dat
+1 16 0 14 0 6 0 0 0 -1 0 0 0 -6 1-16chrd.dat
+
+1 16 0 3 0 2 0 0 0 -1 0 0 0 2 4-4ring2.dat
+1 16 0 0 0 .92388 0 -.382683 0 1 0 .382683 0 .92388 filstud2.dat
+
+1 16 0 3 0 8 0 0 0 11 0 0 0 8 4-4cyli.dat
+1 16 0 3 0 8 0 0 0 1 0 0 0 8 4-4edge.dat
+1 16 0 3 0 4 0 0 0 -1 0 0 0 4 4-4ring2.dat
+1 16 0 3 0 1 0 0 0 -1 0 0 0 1 4-4ring12.dat
+0 BFC INVERTNEXT
+1 16 0 3 0 13 0 0 0 29 0 0 0 13 4-4cylo.dat
+1 16 0 32 0 1 0 0 0 -1 0 0 0 1 4-4ring13.dat
+
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4ring1.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
+
+0 // Supports
+1 16 -10.3906 3 0 -2.3906 0 0 0 23.4 0 0 0 1.1 box3u6.dat
+1 16 -8 3 0 1.11 0 0 0 23.4 0 0 0 1.1 boxjcyl4.dat
+3 16 -12.7812 26.4 -1.1 -13 26.4 0 -12.7812 26.4 1.1
+2 24 -13 26.4 0 -12.7812 26.4 -1.1
+2 24 -13 26.4 0 -12.7812 26.4 1.1
+
+1 16 10.3906 3 0 2.3906 0 0 0 23.4 0 0 0 1.1 box3u6.dat
+1 16 8 3 0 -1.11 0 0 0 23.4 0 0 0 1.1 boxjcyl4.dat
+3 16 13 26.4 0 12.7812 26.4 -1.1 12.7812 26.4 1.1
+2 24 12.7812 26.4 -1.1 13 26.4 0
+2 24 12.7812 26.4 1.1 13 26.4 0

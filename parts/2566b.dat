@@ -1,0 +1,26 @@
+0 Plant Tree Palm Top
+0 Name: 2566b.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 2566, Rebrickable 2566
+
+0 !HISTORY 2025-05-08 [notmaster] fixed scaling original part by Tore_Eriksson
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 8 0 4 0 0 0 -1 0 0 0 4 4-4edge.dat
+1 16 0 8 0 4 0 0 0 1 0 0 0 4 4-4disc.dat
+0 BFC INVERTNEXT
+1 16 0 8 0 4 0 0 0 -8 0 0 0 4 4-4cyli.dat
+
+1 16 0 20 0 1 0 0 0 -6 0 0 0 1 stud3.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2566bs01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\2566bs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\2566bs01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\2566bs01.dat

@@ -1,0 +1,48 @@
+0 ~Technic Frame  5 x  3 Engine Holder - Slanted Sides Half
+0 Name: s\6614s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Subpart UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+1 16 -40 0 -10 0 0 -9 -9 0 0 0 20 0 2-4cylo.dat
+1 16 -40 0 -10 0 0 -3 -3 0 0 0 1 0 2-4ring2.dat
+1 16 -40 0 10 0 0 -3 -3 0 0 0 -1 0 2-4ring2.dat
+1 16 -40 0 -10 0 0 1 1 0 0 0 20 0 axlehol4.dat
+1 16 -30 0 -10 0 0 1 1 0 0 0 20 0 npeghol4.dat
+1 16 -20 0 0 0 0 1 1 0 0 0 -1 0 connhole.dat
+1 16 -10 0 -10 0 0 -1 1 0 0 0 8 0 npeghol7a.dat
+1 16 -10 0 10 0 0 -1 1 0 0 0 -8 0 npeghol7a.dat
+
+1 16 0 0 10 0 0 -1 1 0 0 0 -8 0 npeghol6d.dat
+1 16 0 0 10 0 0 -1 -1 0 0 0 -8 0 npeghol6a.dat
+1 16 0 0 -10 0 0 -1 1 0 0 0 8 0 npeghol6d.dat
+1 16 0 0 -10 0 0 -1 -1 0 0 0 8 0 npeghol6a.dat
+1 16 0 0 10 0 0 -8 8 0 0 0 -1 0 1-8tndis.dat
+1 16 0 0 10 0 0 -1 -1 0 0 0 -1 0 3-8ring8.dat
+1 16 0 0 -10 0 0 -8 8 0 0 0 1 0 1-8tndis.dat
+1 16 0 0 -10 0 0 -1 -1 0 0 0 1 0 3-8ring8.dat
+1 16 0 0 10 0 0 1 -1 0 0 0 -1 0 1-8ring8.dat
+1 16 0 0 -10 0 0 1 -1 0 0 0 1 0 1-8ring8.dat
+3 16 -10 6.3639 10 -8.4679 6.3639 10 -10 9 10
+3 16 -10 9 -10 -8.4679 6.3639 -10 -10 6.3639 -10
+4 16 -8.4679 6.3639 10 -6.36396 6.36396 10 -5.6568 8 10 -10 9 10
+4 16 -5.6568 8 -10 -6.36396 6.36396 -10 -8.4679 6.3639 -10 -10 9 -10
+
+3 16 -6.36396 6.36396 10 -5.6568 5.6568 10 -5.6568 8 10
+3 16 -5.6568 5.6568 -10 -6.36396 6.36396 -10 -5.6568 8 -10
+1 16 0 0 10 0 0 9 -9 0 0 0 -20 0 1-8cylo.dat
+1 16 -20 -9 0 20 0 0 0 1 0 0 0 10 rect2p.dat
+
+1 16 0 0 -10 8 0 0 0 0 -8 0 1 0 1-8tang.dat
+1 16 0 0 -10 0 0 8 8 0 0 0 1 0 1-4tang.dat
+1 16 0 0 10 8 0 0 0 0 -8 0 -1 0 1-8tang.dat
+1 16 0 0 10 0 0 8 8 0 0 0 -1 0 1-4tang.dat
+
+1 16 0 0 10 0 0 1 1 0 0 0 -1 0 peghole.dat
+0 BFC INVERTNEXT
+1 16 0 0 -8 0 0 6 6 0 0 0 16 0 4-4cyli.dat
+1 16 0 0 -10 0 0 1 1 0 0 0 1 0 peghole.dat

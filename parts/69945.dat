@@ -1,0 +1,21 @@
+0 Animal Hermit Crab with 45 Degree Bar on Back
+0 Name: 69945.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2026-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Place 1 x 1 Plate with Hole at
+0 !HELP 1 16 0 -18.5584 12.5984 1 0 0 0 .70711 .70711 0 -.70711 .70711 85861.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickowl 892528
+
+0 !HISTORY 2023-05-08 {LEGO Instructions App} Original part shape
+0 !HISTORY 2023-05-08 [GeraldLasser] File preparation for LDraw Parts Tracker
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\69945s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\69945s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\69945s03.dat

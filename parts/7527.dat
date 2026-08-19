@@ -1,0 +1,15 @@
+0 Brick Curved  2 x  2 x  1.667
+0 Name: 7527.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2026-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickowl 1069266
+
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7527s01.dat
+
+1 16 -20 40 10 0 40 0 0 0 -40 -40 0 0 48\1-4cyli.dat

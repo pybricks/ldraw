@@ -1,0 +1,22 @@
+0 Tile  1 x  1 Round with Bright Green Center Circle and Metallic Silver and Metallic Dark Grey Hubcap Pattern
+0 Name: 98138p36.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 98138pb405, Brickowl 891648
+0 !KEYWORDS Mercedes-AMG F1 W14 E Performance, Rebrickable 98138pr0385
+0 !KEYWORDS Set 42171
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s02.dat
+1 16 0 0 0 10 0 0 0 1 0 0 0 10 4-4ering.dat
+1 10 0 0 0 3.65 0 0 0 1 0 0 0 3.65 4-4disc.dat
+1 16 0 0 0 3.65 0 0 0 1 0 0 0 3.65 4-4ndis.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138p36s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\98138p36s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\98138p36s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\98138p36s01.dat

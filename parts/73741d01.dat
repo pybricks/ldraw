@@ -1,0 +1,21 @@
+0 Boat Hull Floating 38 x 10 with Light Grey Decks with Fire Station Logo and White "4020" Sticker
+0 Name: 73741d01.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Shortcut UPDATE 2025-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 2366c01pb02, Fire boat, Set 4020, ship
+
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 73741.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 197885ac01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 197885ac02.dat
+1 16 105.4866 -80 60 0 -.98842 .15175 0 -.15175 -.98842 1 0 0 197885b.dat
+1 16 -105.4866 -80 60 0 .98842 -.15175 0 -.15175 -.98842 -1 0 0 197885b.dat
+1 16 104.0894 -72 -180 .00449 -.98842 .15167 .00069 -.15167 -.98843 .99999 .00454 0 197885c.dat
+1 16 -104.0894 -72 -180 .00449 .98842 -.15167 -.00069 -.15167 -.98843 -.99999 .00454 0 197885c.dat
+1 16 0 -80 395.4865 -1 0 0 0 -.15175 -.98842 0 -.98842 .15175 197885a.dat

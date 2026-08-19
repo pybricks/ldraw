@@ -1,0 +1,15 @@
+0 Figure Friends Legs with Baggy Trousers
+0 Name: 35608.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\35608s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\35608s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\35608s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\35608s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\35608s04.dat

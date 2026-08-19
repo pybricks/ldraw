@@ -1,0 +1,19 @@
+0 Wedge  4 x  2 Double Right with Red Dot Sticker
+0 Name: 43711dy0.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Shortcut UPDATE 2025-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+
+0 !KEYWORDS Bricklink 43711pb02, Construct-a-Buzz, set 7592, Toy Story
+
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 43711.dat
+
+0 // Sticker
+1 16 0 10 -40 1 0 0 0 .948684 -.316227 0 .316227 .948684 4566038a.dat

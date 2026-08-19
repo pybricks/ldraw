@@ -1,0 +1,20 @@
+0 ~Sticker  0.8 x  1.9 with Grey Stripes on Red Background Right -  Second Face
+0 Name: s\6177970os02.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Subpart UPDATE 2025-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09
+
+
+0 // Grey faces
+4 71 -6 -.25 -7.3435 -5 -.25 -7.3435 -5 -.25 .0121 -6 -.25 .0121
+4 71 -4.25 -.25 -7.3435 4.25 -.25 -7.3435 4.25 -.25 .0121 -4.25 -.25 .0121
+4 71 5 -.25 -7.3435 6 -.25 -7.3435 6 -.25 .0121 5 -.25 .0121
+0 // Red faces
+4 4 -6 -.25 -7.3435 -6 -.25 .0121 -8 -.25 .0121 -8 -.25 -7.3435
+4 4 -4.25 -.25 -7.3435 -4.25 -.25 .0121 -5 -.25 .0121 -5 -.25 -7.3435
+4 4 5 -.25 -7.3435 5 -.25 .0121 4.25 -.25 .0121 4.25 -.25 -7.3435
+4 4 6 -.25 -7.3435 8 -.25 -7.3435 8 -.25 .0121 6 -.25 .0121

@@ -1,0 +1,18 @@
+0 Minifig Hat Sailor with Dark Blue Anchor Pattern
+0 Name: 93557p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 93557pb01, Collectible Minifigures Series 4
+0 !KEYWORDS Rebrickable 93557pr0001, Set 8804-10
+
+0 !HISTORY 2025-05-28 [OrionP] Official Update 2025-05
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93557s00.dat
+1 16 0 0 0 0.9703 0.24192 0 -0.24192 0.9703 0 0 0 1 s\93557p01s01.dat
+1 16 -2.7168 0.6774 0 -0.9703 0.24192 0 0.24192 0.9703 0 0 0 1 s\93557p01s01.dat

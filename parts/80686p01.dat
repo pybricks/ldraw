@@ -1,0 +1,17 @@
+0 Animal Kitten Standing with Black Mouth, Nose, and Eyes Pattern
+0 Name: 80686p01.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 80686pb01, Brickowl 440082, Rebrickable 80686pr0002
+0 !KEYWORDS Set 10306, Set 10325, set 21336, Set 60381, set 60393
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80686s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80686p01s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80686p01s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\80686p01s03.dat

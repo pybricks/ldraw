@@ -1,0 +1,42 @@
+0 ~Brick  1 x  2 with Curved Top without Stud Holders without Patternable Surfaces
+0 Name: s\7134s01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Subpart UPDATE 2025-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-04-06 [Blechtaler] made from 37352s01 by [Philo]
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
+
+0 // inside
+1 16 16 18 6 0 1 0 -12 0 0 0 0 -12 1-4chrd.dat
+1 16 -16 18 6 0 -1 0 -12 0 0 0 0 -12 1-4chrd.dat
+0 BFC INVERTNEXT
+1 16 -16 18 6 0 32 0 -12 0 0 0 0 -12 1-4cylo.dat
+1 16 0 21 -6 16 0 0 0 0 3 0 -1 0 rect3.dat
+1 16 0 15 6 16 0 0 0 0 9 0 1 0 rect.dat
+2 24 16 24 6 16 24 -6
+4 16 16 6 6 16 24 6 16 24 -6 16 18 -6
+2 24 -16 24 -6 -16 24 6
+4 16 -16 18 -6 -16 24 -6 -16 24 6 -16 6 6
+
+0 // bottom
+4 16 20 24 10 16 24 6 -16 24 6 -20 24 10
+4 16 -20 24 10 -16 24 6 -16 24 -6 -20 24 -10
+4 16 -20 24 -10 -16 24 -6 16 24 -6 20 24 -10
+4 16 20 24 -10 16 24 -6 16 24 6 20 24 10
+
+0 // outer
+1 16 20 20 10 0 -1 0 -20 0 0 0 0 -20 1-4chrd.dat
+1 16 -20 20 10 0 1 0 -20 0 0 0 0 -20 1-4chrd.dat
+2 24 -20 24 10 -20 24 -10
+2 24 20 24 -10 20 24 10
+1 16 0 12 10 -20 0 0 0 0 -12 0 -1 0 rect.dat
+4 16 -20 24 10 -20 24 -10 -20 20 -10 -20 0 10
+4 16 20 24 -10 20 24 10 20 0 10 20 20 -10
+1 16 20 20 10 0 -40 0 0 0 -20 -20 0 0 1-4edge.dat
+1 16 -20 20 10 0 -40 0 0 0 -20 -20 0 0 1-4edge.dat
+2 24 -20 24 -10 20 24 -10
+2 24 -20 24 -10 -20 20 -10
+2 24 20 24 -10 20 20 -10

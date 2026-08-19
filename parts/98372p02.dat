@@ -1,0 +1,19 @@
+0 Minifig Steak on Bone with Dark Red Meat Pattern
+0 Name: 98372p02.dat
+0 Author: Peter Grass [Evilspyre]
+0 !LDRAW_ORG Part UPDATE 2025-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS BrickLink 98372pb02, Rebrickable 98372pr0002, Set 21137-1
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
+
+1 16 0 19 0 0 0 1 0 1 0 -1 0 0 s\98372s01.dat
+1 16 0 19 0 0 0 1 0 1 0 1 0 0 s\98372s01.dat
+1 320 0 19 0 0 0 1 0 1 0 -1 0 0 s\98372s02.dat
+1 320 0 19 0 0 0 1 0 1 0 1 0 0 s\98372s02.dat
+1 16 0 6.7 0 0 0 1 0 -1 0 1 0 0 s\92691s01.dat
+1 16 0 6.7 0 4 0 0 0 -11.069 0 0 0 -4 4-4cyli.dat

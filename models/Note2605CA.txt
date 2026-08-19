@@ -1,0 +1,207 @@
+ldraw.org Parts Update 2026-05
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Sun, 31 May 2026 10:35:21 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 412
+   New files: 305
+   New Parts: 200
+   New Subparts: 78
+   New Primitives: 27
+
+Moved Parts
+   41769.dat                  ~Moved to 41769a
+   41770.dat                  ~Moved to 41770a
+   2958c01.dat                ~Moved to 2723d04
+   43722.dat                  ~Moved to 43722a
+   43723.dat                  ~Moved to 43723a
+   73200cp0x.dat              ~Moved to 73200bp0x
+
+Renamed Parts
+   s\41770as01.dat            ~Wing  2 x  4 Left without studs
+   changed to    ~Wing  2 x  4 Left without Chamfer without Studs
+   973p2f.dat                 Minifig Torso with Spotted Singlet and Necklace Pattern
+   changed to    Minifig Torso with Female Spotted Singlet and Necklace Pattern
+   32551.dat                  Technic Hook with Axle
+   changed to    Constraction Claw Hook with Axle
+   40582.dat                  Constraction Weapon Ice Pick with Axle
+   changed to    Constraction Weapon Ice Pick with Axle 7L
+   40339.dat                  Technic Bionicle Weapon Trident with Axle 6L
+   changed to    Constraction Weapon Trident with Axle 6L
+   s\6148328bgs02.dat         ~Sticker  0.8 x  3.0 with Dark Grey Lines on White Background Right - Second Face
+   changed to    ~Sticker  0.8 x  3.0 with Dark Grey Lines on White Background Right - Fifth Face
+   s\6148328bgs03.dat         ~Sticker  0.8 x  3.0 with Dark Grey Lines on White Background Right - Third Face
+   changed to    ~Sticker  0.8 x  3.0 with Dark Grey Lines on White Background Right - Sixth Face
+   s\6148328bhs02.dat         ~Sticker  0.8 x  3.0 with Dark Grey Lines on White Background Left - Third Face
+   changed to    ~Sticker  0.8 x  3.0 with Dark Grey Lines on White Background Left - Second Face
+   s\6148328bhs03.dat         ~Sticker  0.8 x  3.0 with Dark Grey Lines on White Background Left - Fourth Face
+   changed to    ~Sticker  0.8 x  3.0 with Dark Grey Lines on White Background Left - Third Face
+   s\6148328bhs04.dat         ~Sticker  0.8 x  3.0 with Dark Grey Lines on White Background Left - Fifth Face
+   changed to    ~Sticker  0.8 x  3.0 with Dark Grey Lines on White Background Left - Fourth Face
+   s\6177960ks03.dat          ~Sticker  0.8 x  3.1 with Black and Dark Orange Arch on Orange Background Right - Third Face
+   changed to    ~Sticker  0.8 x  3.1 with Black and Dark Orange Arch on Orange Background Right - Fourth Face
+   s\6177960ks02.dat          ~Sticker  0.8 x  3.1 with Black and Dark Orange Arch on Orange Background Right - Second Face
+   changed to    ~Sticker  0.8 x  3.1 with Black and Dark Orange Arch on Orange Background Right - Third Face
+   s\6177960ks04.dat          ~Sticker  0.8 x  3.1 with Black and Dark Orange Arch on Orange Background Right - Fourth Face
+   changed to    ~Sticker  0.8 x  3.1 with Black and Dark Orange Arch on Orange Background Right - Fifth Face
+   s\6177960ks05.dat          ~Sticker  0.8 x  3.1 with Black and Dark Orange Arch on Orange Background Right - Fifth Face
+   changed to    ~Sticker  0.8 x  3.1 with Black and Dark Orange Arch on Orange Background Right - Sixth Face
+   6221655ad.dat              Sticker  0.8 x  2.8 with Black Line on Lime Background Right
+   changed to    Sticker  0.8 x  2.4 with Black Curved Stripe on Lime Background Right
+   6221655af.dat              Sticker  0.8 x  2.8 with Black Line on Lime Background Left
+   changed to    Sticker  0.8 x  2.4 with Black Curved Stripe on Lime Background Left
+   6285381c.dat               Sticker  0.8 x  2.9 with Orange Indicator Lamp on Black Stripe
+   changed to    Sticker  0.8 x  3.0 with Black Line and Orange Light on Transparent Background
+   6285381cc01.dat            Sticker  0.8 x  2.9 with Orange Indicator Lamp on Black Stripe (Formed)
+   changed to    Sticker  0.8 x  3.0 with Black Line and Orange Light on Transparent Background (Formed)
+   6285381g.dat               Sticker  0.9 x  2.6 with Black Curved Stripe Right on Transparent Background
+   changed to    Sticker  0.8 x  2.4 with Black Curved Stripe on Transparent Background Right
+   6285381h.dat               Sticker  0.9 x  2.6 with Black Curved Stripe Left on Transparent Background
+   changed to    Sticker  0.8 x  2.4 with Black Curved Stripe on Transparent Background Left
+   50950dy1.dat               Slope Brick Curved  3 x  1 with Indicator Light and Black Stripes Left Sticker
+   changed to    Slope Brick Curved  3 x  1 with Black Curved Stripe and Black Line and Orange Light on Transparent Background Left Stickers
+   50950dy2.dat               Slope Brick Curved  3 x  1 with Indicator Light and Black Stripes Right Sticker
+   changed to    Slope Brick Curved  3 x  1 with Black Curved Stripe and Black Line and Orange Light on Transparent Background Right Stickers
+   2431p80.dat                Tile 1 x 4 with Red Triangle Pattern
+   changed to    Tile  1 x  4 with Red Triangle Pattern
+   4620855b.dat               Sticker  0.9 x  2.9 with Orange and Yellow Shooting Star, S-Shape
+   changed to    Sticker  0.8 x  3.0 with Orange and Yellow Shooting Star, S-Shape
+   4620855bc01.dat            Sticker  0.9 x  2.9 with Orange and Yellow Shooting Star, S-Shape (Formed)
+   changed to    Sticker  0.8 x  3.0 with Orange and Yellow Shooting Star, S-Shape (Formed)
+   3068bd02.dat               Tile  2 x  2 with Sticker  1.8 x  1.8 with Black/Red/Blue Badge and "POLICE"
+   changed to    Tile  2 x  2 with Black/Red/Blue Police Badge Sticker
+   2038d02.dat                Signpost Ornamented Type 1 with 2 Stickers "9 3/4" Round
+   changed to    Signpost Ornamented Type 1 with White "9 3/4" on Black Round Stickers
+   2038d01.dat                Signpost Ornamented Type 1 with 1 Sticker Mirror Round
+   changed to    Signpost Ornamented Type 1 with Mirror Round Sticker
+   30258d01.dat               Roadsign Clip-on  2 x  2 Square with Sticker Crosswalk
+   changed to    Roadsign Clip-on  2 x  2 Square with Crosswalk Sticker
+   3069bd03.dat               Tile  1 x  2 with Sticker  0.9 x  1.8 with Black/Red "POLICE" on White/Blue Stripes
+   changed to    Tile  1 x  2 with Black/Red "POLICE" on White/Blue Stripes Sticker
+   3069bd01.dat               Tile  1 x  2 with Groove with Sticker Black Oval
+   changed to    Tile  1 x  2 with Groove with Black Oval Sticker
+   3069bd02.dat               Tile  1 x  2 with Groove with Sticker with 12V Battery Top
+   changed to    Tile  1 x  2 with Groove with Black 12V Battery Top Sticker
+   45677d01.dat               Wedge  4 x  4 x  0.667 Curved with Sticker with Maersk Logo
+   changed to    Wedge  4 x  4 x  0.667 Curved with Maersk Logo Sticker
+   4215bd02.dat               Panel  1 x  4 x  3 with Hollow Studs with Sticker with Spyrius Machinery
+   changed to    Panel  1 x  4 x  3 with Hollow Studs with Spyrius Machinery Sticker
+   61678d01.dat               Slope Brick Curved  4 x  1 with Sticker Gold Stripe Left
+   changed to    Slope Brick Curved  4 x  1 with Left Gold Stripe Sticker
+   61678d02.dat               Slope Brick Curved  4 x  1 with Sticker Gold Stripe Right
+   changed to    Slope Brick Curved  4 x  1 with Right Gold Stripe Sticker
+   6239d02.dat                Tail Shuttle  2 x  6 x  4 with Eagle Head Sticker on Two Sides
+   changed to    Tail Shuttle  2 x  6 x  4 with Eagle Head Stickers
+   6081d01.dat                Brick  2 x  4 x  1.333 with Curved Top with Sticker Black and Light Grey Grid on Transparent Background (Right)
+   changed to    Brick  2 x  4 x  1.333 with Curved Top with Right Black and Light Grey Grid on Transparent Background Sticker
+   6239d01.dat                Tail Shuttle  2 x  6 x  4 with "J" Sticker on Two Sides
+   changed to    Tail Shuttle  2 x  6 x  4 with "J" Stickers
+   6081d02.dat                Brick  2 x  4 x  1.333 with Curved Top with Sticker Black and Light Grey Grid on Transparent Background (Left)
+   changed to    Brick  2 x  4 x  1.333 with Curved Top with Left Black and Light Grey Grid on Transparent Background Sticker
+   6081d03.dat                Brick  2 x  4 x  1.333 with Curved Top with Vertical and Horizontal Grille (Left) Sticker 
+   changed to    Brick  2 x  4 x  1.333 with Curved Top with Left Vertical and Horizontal Grille Sticker
+   6081d04.dat                Brick  2 x  4 x  1.333 with Curved Top with Sticker Vertical and Horizontal Grille (Right)
+   changed to    Brick  2 x  4 x  1.333 with Curved Top with Right Vertical and Horizontal Grille Sticker
+   4181d05.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7730
+   changed to    Train Door  1 x  4 x  5 Left with White DB 7730 Sticker
+   4182d06.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7750
+   changed to    Train Door  1 x  4 x  5 Right with White DB 7750 Sticker
+   4182d07.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7715
+   changed to    Train Door  1 x  4 x  5 Right with White DB 7715 Sticker
+   4182d08.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7735 Black
+   changed to    Train Door  1 x  4 x  5 Right with Black DB 7735 Sticker
+   4181d01.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7725
+   changed to    Train Door  1 x  4 x  5 Left with White DB 7725 Sticker
+   4181d02.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7760
+   changed to    Train Door  1 x  4 x  5 Left with White DB 7760 Sticker
+   4181d03.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7755
+   changed to    Train Door  1 x  4 x  5 Left with White DB 7755 Sticker
+   4182d05.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7730
+   changed to    Train Door  1 x  4 x  5 Right with White DB 7730 Sticker
+   4182d01.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7725
+   changed to    Train Door  1 x  4 x  5 Right with White DB 7725 Sticker
+   4182d02.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7760
+   changed to    Train Door  1 x  4 x  5 Right with White DB 7760 Sticker
+   4182d03.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7755
+   changed to    Train Door  1 x  4 x  5 Right with White DB 7755 Sticker
+   4181d0a.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7720
+   changed to    Train Door  1 x  4 x  5 Left with White DB 7720 Sticker
+   4182d04.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7727
+   changed to    Train Door  1 x  4 x  5 Right with White DB 7727 Sticker
+   4182d0a.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7720
+   changed to    Train Door  1 x  4 x  5 Right with White DB 7720 Sticker
+   4182d09.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7722
+   changed to    Train Door  1 x  4 x  5 Right with White DB 7722 Sticker
+   4181d09.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7722
+   changed to    Train Door  1 x  4 x  5 Left with White DB 7722 Sticker
+   4181d08.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7735 Black
+   changed to    Train Door  1 x  4 x  5 Left with Black DB 7735 Sticker
+   4181d07.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7715
+   changed to    Train Door  1 x  4 x  5 Left with White DB 7715 Sticker
+   4182p05d01.dat             Train Door  1 x  4 x  5 Right Blue Bottom Half Sticker DB 7715
+   changed to    Train Door  1 x  4 x  5 Right with Blue Bottom Half Pattern and White DB 7715 Sticker
+   4181p05d01.dat             Train Door  1 x  4 x  5 Left Blue Bottom Half Sticker DB 7715
+   changed to    Train Door  1 x  4 x  5 Left with Blue Bottom Half Pattern and White DB 7715 Sticker
+   4181p02d01.dat             Train Door  1 x  4 x  5 Left Red Bottom Half Sticker DB 7735
+   changed to    Train Door  1 x  4 x  5 Left with Red Bottom Half Pattern and White DB 7735 Sticker
+   4182p02d02.dat             Train Door  1 x  4 x  5 Right Red Bottom Half w/ Mail Sticker
+   changed to    Train Door  1 x  4 x  5 Right with Red Bottom Half Pattern and White Mail Logo Sticker
+   4181p02d02.dat             Train Door  1 x  4 x  5 Left Red Bottom Half w/ Mail Sticker
+   changed to    Train Door  1 x  4 x  5 Left with Red Bottom Half Pattern and White Mail Logo Sticker
+   4182p02d01.dat             Train Door  1 x  4 x  5 Right Red Bottom Half Sticker DB 7735
+   changed to    Train Door  1 x  4 x  5 Right with Red Bottom Half Pattern and White DB 7735 Sticker
+   4181d04.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7727
+   changed to    Train Door  1 x  4 x  5 Left with White DB 7727 Sticker
+   973d04.dat                 Minifig Torso with Sticker Shell Logo on White Background
+   changed to    Minifig Torso with Shell Logo on White Background Sticker
+   4445d02.dat                Slope Brick 45  2 x  8 with Sticker Red and Blue "SEA JET" on Transparent Background (Left)
+   changed to    Slope Brick 45  2 x  8 with Left Red and Blue "SEA JET" on Transparent Background Sticker
+   2409d01.dat                Panel 10 x 10 x 12 Corner with Sticker with Holographic Stripes and Red Triangles
+   changed to    Panel 10 x 10 x 12 Corner with Holographic Stripes and Red Triangles Sticker
+   2916d01.dat                Wedge  4 x  6 x  2.333 with Blue Train Logo Sticker and Red/White/Blue Stripes Sticker
+   changed to    Wedge  4 x  6 x  2.333 with Blue Train Logo and Red/White/Blue Stripes Stickers
+   4445d01.dat                Slope Brick 45  2 x  8 with Sticker Red and Blue "SEA JET" on Transparent Background (Right)
+   changed to    Slope Brick 45  2 x  8 with Right Red and Blue "SEA JET" on Transparent Background Sticker
+   4181d06.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7750
+   changed to    Train Door  1 x  4 x  5 Left with White DB 7750 Sticker
+   5093.dat                   Slope Curved  2 x  2 x  0.667 with Stud Notch Right
+   changed to    Slope Brick Curved  2 x  2 x  0.667 with Stud Notch Right
+   5095.dat                   Slope Curved  2 x  2 x  0.667 with Stud Notch Left
+   changed to    Slope Brick Curved  2 x  2 x  0.667 with Stud Notch Left
+   s\5093s01.dat              ~Slope Curved  2 x  2 x  0.667 with Stud Notch Right without Patternable Surfaces
+   changed to    ~Slope Brick Curved  2 x  2 x  0.667 with Stud Notch Right without Patternable Surfaces
+   6148328k.dat               Sticker  0.8 x  7.8 with White Mobil1 and Michelin Logos on Dark Grey Background
+   changed to    Sticker  0.8 x  7.8 with White Mobil 1 and Michelin Logos on Dark Grey Background
+
+Other Fixed Parts
+   6285381b.dat               Sticker  0.8 x  1.8 with Black "turbo" on Transparent Background
+   44811.dat                  Constraction Weapon Kolhii Stick
+   s\6177960ds05.dat          ~Sticker  0.8 x  2.4 with Grey and White Air Vents on Black Background - Fifth Face
+   s\6177960ds01.dat          ~Sticker  0.8 x  2.4 with Grey and White Air Vents on Black Background - First Face
+   s\40341s02.dat             ~Constraction Weapon Circular Saw with Axle 6L Face Plane
+   s\6148328bgs01.dat         ~Sticker  0.8 x  3.0 with Dark Grey Lines on White Background Right - First Face
+   s\6148328bhs01.dat         ~Sticker  0.8 x  3.0 with Dark Grey Lines on White Background Left - First Face
+   s\6177960ks01.dat          ~Sticker  0.8 x  3.1 with Black and Dark Orange Arch on Orange Background Right - First Face
+   6148328bg.dat              Sticker  0.8 x  3.0 with Dark Grey Lines on White Background Right
+   6148328bgc01.dat           Sticker  0.8 x  3.0 with Dark Grey Lines on White Background Right (Formed)
+   6148328bh.dat              Sticker  0.8 x  3.0 with Dark Grey Lines on White Background Left
+   6148328bhc01.dat           Sticker  0.8 x  3.0 with Dark Grey Lines on White Background Left (Formed)
+   6177960k.dat               Sticker  0.8 x  3.0 with Black and Dark Orange Arch on Orange Background Right
+   98138pb8.dat               Tile  1 x  1 Round with White Sinestro Logo Pattern
+   6234010o.dat               Sticker  2.6 x  3.2 with Amusement Park Map on Green Background
+   3004p90.dat                Brick  1 x  2 with Classic Space Logo Pattern
+   2340p90.dat                Tail  4 x  1 x  3 with Classic Space Logo Pattern
+   s\stickerback008x009.dat   ~Sticker Back  0.8 x  0.9
+   6141955j.dat               Sticker  0.8 x  3.0 with Black Trapezoid on Blue Background Left
+   61801.dat                  Technic Bionicle Jet Booster 5L
+   98138p0r.dat               Tile  1 x  1 Round with White Six-Pointed Snowflake Pattern
+   11305.dat                  Constraction Convex Blade 14L with Axle
+   s\11477b01.dat             ~Sticker Back  0.8 x  1.9 (Formed)
+   s\stickerback008x019.dat   ~Sticker Back  0.8 x  1.9
+
+Minor Edits
+   3 Parts with minor administrative edits and/or license changes

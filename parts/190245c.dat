@@ -1,0 +1,28 @@
+0 Sticker  1.1 x  1.5 with Black "16" on Transparent Background
+0 Name: 190245c.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2025-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 6634stk01, Brickowl 388571, Racing, Rally
+0 !KEYWORDS Rebrickable 190245, Set 6634, Stock car
+
+0 !HISTORY 2025-01-20 [OrionP] Official Update 2025-01
+
+
+1 16 0 -0.25 0 15 0 0 0 0.25 0 0 0 11 box5-12.dat
+0 BFC NOCLIP
+1 16 -6.5 -0.25 0 16 0 0 0 1 0 0 0 16 type-swiss721bt-bold-n1.dat
+1 16 4.5 -0.25 0 16 0 0 0 1 0 0 0 16 type-swiss721bt-bold-n6.dat
+0 BFC CLIP
+4 16 15 -0.25 11 -15 -0.25 11 -1.1 -0.25 8 10.1 -0.25 8
+4 16 15 -0.25 11 10.1 -0.25 8 10.1 -0.25 -8 15 -0.25 -11
+4 16 15 -0.25 -11 10.1 -0.25 -8 -1.1 -0.25 -8 -15 -0.25 -11
+3 16 -1.1 -0.25 -8 -3.02 -0.25 -8 -15 -0.25 -11
+4 16 -3.02 -0.25 -8 -1.1 -0.25 -8 -1.1 -0.25 8 -3.02 -0.25 8
+3 16 -15 -0.25 11 -3.02 -0.25 8 -1.1 -0.25 8
+3 16 -3.02 -0.25 -8 -9.98 -0.25 -8 -15 -0.25 -11
+4 16 -15 -0.25 -11 -9.98 -0.25 -8 -9.98 -0.25 8 -15 -0.25 11
+3 16 -15 -0.25 11 -9.98 -0.25 8 -3.02 -0.25 8

@@ -1,0 +1,18 @@
+0 ~Wheel Rim 13 x 56 Spoke
+0 Name: s\7877s01.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Subpart UPDATE 2026-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2026-03-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-03-08 [jb70] File preparation for LDraw Parts Tracker
+0 !HISTORY 2026-03-31 [OrionP] Official Update 2026-03
+
+1 16 0 -21 0 4 0 0 0 -39.375 0 0 0 4 4-4cyli.dat
+1 16 0 -60.375 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7877s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\7877s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\7877s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\7877s02.dat

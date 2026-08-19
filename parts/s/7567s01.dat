@@ -1,0 +1,28 @@
+0 ~Panel  1 x  8 x  5 without Front Surface
+0 Name: s\7567s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Subpart UPDATE 2025-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-02 [GeraldLasser] Modified from 59349s01
+0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09
+
+1 16 0 116 0 -1 0 0 0 -1 0 0 0 -1 stug3-1x7.dat
+0 BFC INVERTNEXT
+1 16 0 58 10 76 0 0 0 0 54 0 -16 0 box5.dat
+1 16 0 120 0 0 0 -80 0 -120 0 -10 0 0 box3u2p.dat
+2 24 -80 120 -10 80 120 -10
+0 BFC INVERTNEXT
+1 16 0 120 0 -76 0 0 0 -4 0 0 0 -6 box5.dat
+4 16 -80 120 -10 -76 120 -6 76 120 -6 80 120 -10
+4 16 80 120 -10 76 120 -6 76 120 6 80 120 10
+4 16 80 120 10 76 120 6 -76 120 6 -80 120 10
+4 16 -80 120 10 -76 120 6 -76 120 -6 -80 120 -10
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 stug2-1x8.dat
+4 16 76 112 10 80 120 10 -80 120 10 -76 112 10
+4 16 -80 120 10 -80 0 10 -76 4 10 -76 112 10
+4 16 80 0 10 80 120 10 76 112 10 76 4 10
+4 16 -76 4 10 -80 0 10 80 0 10 76 4 10
+2 24 80 120 10 -80 120 10

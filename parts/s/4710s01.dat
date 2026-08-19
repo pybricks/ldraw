@@ -1,0 +1,17 @@
+0 ~Electric Switch: Cover Female Plugs Part Inside with Five Boxes
+0 Name: s\4710s01.dat
+0 Author: Javier Orquera [kuramapika1]
+0 !LDRAW_ORG Subpart UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-09-15 [kuramapika1] Change of primitives
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+4 16 -78 2 18 78 2 18 78 2 -18 -78 2 -18
+1 16 50 2 1.5 3 0 0 0 18 0 0 0 1.5 box5.dat
+1 16 30 2 1.5 3 0 0 0 18 0 0 0 1.5 box5.dat
+1 16 -10 2 1.5 3 0 0 0 18 0 0 0 1.5 box5.dat
+1 16 -30 2 1.5 3 0 0 0 18 0 0 0 1.5 box5.dat
+1 16 -50 2 1.5 3 0 0 0 18 0 0 0 1.5 box5.dat

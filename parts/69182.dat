@@ -1,0 +1,15 @@
+0 Die  6 Sides  3 x  3 x  3 with Loop on One Edge
+0 Name: 69182.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2025-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+0 !KEYWORDS Baggage Tag, Dots
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\69182s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\69182s02.dat

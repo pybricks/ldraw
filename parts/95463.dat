@@ -1,0 +1,27 @@
+0 Duplo Plate  6 x 12 with Center Ramp
+0 Name: 95463.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Part UPDATE 2025-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09
+
+0 // top studs
+1 16 0 0 220 1 0 0 0 2.75 0 0 0 1 stug7-1x6.dat
+1 16 0 0 180 1 0 0 0 2.75 0 0 0 1 stug7-1x6.dat
+1 16 0 0 140 1 0 0 0 2.75 0 0 0 1 stug7-1x6.dat
+1 16 0 0 -220 1 0 0 0 2.75 0 0 0 1 stug7-1x6.dat
+1 16 0 0 -180 1 0 0 0 2.75 0 0 0 1 stug7-1x6.dat
+1 16 0 0 -140 1 0 0 0 2.75 0 0 0 1 stug7-1x6.dat
+
+0 // halves
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\95463s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\95463s01.dat
+
+0 // shared
+4 16 -40 0 -120 40 0 -120 40 0 120 -40 0 120
+4 16 -40 4 -124 -40 4 124 40 4 124 40 4 -124
+1 16 0 24 0 120 0 0 0 1 0 0 0 240 recte4.dat
+1 16 0 4 0 0 0 -1.5 0 8 0 24 0 0 box3u8p.dat

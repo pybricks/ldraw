@@ -1,0 +1,18 @@
+0 Minifig Torso with Knit Argyle Sweater Vest with Bright Light Orange and Orange Diamonds over White Shirt Pattern
+0 Name: 973pca.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb4858, Rebrickable 973c27h01pr6177, Set 10308
+0 !KEYWORDS Set 10326, Set 21353, set 60335, Set 60440, Set 80111
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973pcas01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\973pcas01.dat

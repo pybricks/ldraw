@@ -1,0 +1,17 @@
+0 Brick  2 x  4 with Black "MT 5581" on White Background and Black Border Sticker
+0 Name: 3001d0g.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Shortcut UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+
+0 !KEYWORDS Bricklink 3001pb040, BrickOwl 607996, License plate, Magic Flash
+0 !KEYWORDS Model Team, Set 5581, Trailer
+
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3001.dat
+1 16 0 12 -20 1 0 0 0 0 -1 0 1 0 821437a.dat

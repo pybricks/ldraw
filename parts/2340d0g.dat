@@ -1,0 +1,17 @@
+0 Tail  4 x  1 x  3 with White Stripes and "MACH II" Stickers on Both Sides
+0 Name: 2340d0g.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Shortcut UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+
+0 !KEYWORDS Bricklink 2340pb019, Mach II Red Bird Rig, Set 5591
+
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2340.dat
+1 16 -2 34 -29.5 0 1 0 0 0 -1 -1 0 0 168335a.dat
+1 16 2 34 -29.5 0 -1 0 0 0 -1 1 0 0 168335b.dat

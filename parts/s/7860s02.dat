@@ -1,0 +1,20 @@
+0 ~Tyre 13/ 75 x 56 - 1/36 Section
+0 Name: s\7860s02.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Subpart UPDATE 2026-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2026-03-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-03-08 [jb70] File preparation for LDraw Parts Tracker
+0 !HISTORY 2026-03-31 [OrionP] Official Update 2026-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7860s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\7860s01.dat
+
+4 16 8.041 -91.906 -1.125 16.02 -90.855 -1.125 16.02 -90.855 1.125 8.041 -91.906 1.125
+4 16 0 -92.257 -1.125 8.041 -91.906 -1.125 8.041 -91.906 1.125 0 -92.257 1.125
+5 24 8.041 -91.906 1.125 8.041 -91.906 -1.125 0 -92.257 -1.125 16.02 -90.855 -1.125
+5 24 0 -92.257 1.125 0 -92.257 -1.125 -8.041 -91.906 -1.125 8.041 -91.906 -1.125
+5 24 15.301 -86.778 0 0 -88.117 0 0 -86.307 -7.354 0 -86.307 7.354

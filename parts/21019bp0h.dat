@@ -1,0 +1,20 @@
+0 Minifig Hips and Legs with Green Lower Leg Pattern
+0 Name: 21019bp0h.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2024-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 21019b.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 970c00pb1596, Brickowl 269078, Build-A-Minifigure
+0 !KEYWORDS Rebrickable 970c06pat03
+
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815b.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 20460bp0h.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 20461bp0h.dat

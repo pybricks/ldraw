@@ -1,0 +1,23 @@
+0 Minifig Torso with Three Dark Blue Curved Lines on Bright Light Blue Stomach Pattern
+0 Name: 973pcr6.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb5907, CMF, Pterodactyl, Series 27, Set 71048
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
+4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
+4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973pcr6s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\973pcr6s01.dat
+
+3 16 -12 0 -10 0 1.36 -10 12 0 -10
+3 16 0 30.12 -10 -19 32 -10 19 32 -10

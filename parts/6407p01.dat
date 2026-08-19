@@ -1,0 +1,17 @@
+0 Duplo Train Cabin Base  3 x  4 x  1.5 with Green Stripe on Opposite Sides Pattern
+0 Name: 6407p01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 6407pb01, Brickowl 310924, Rebrickable 6407pr0001
+0 !KEYWORDS Set 2730, Set 9166, Set 9175
+
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6407s01.dat
+
+4 2 77 48 -60 77 72 -60 77 72 60 77 48 60
+4 2 -77 48 -60 -77 48 60 -77 72 60 -77 72 -60

@@ -1,0 +1,16 @@
+0 Electric Power Functions Pole Reverser / Polarity Switch with Black Coiled Cable
+0 Name: 61929c01.dat
+0 Author: Trevor Sandy [bootknuckle]
+0 !LDRAW_ORG Shortcut UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink bb0339c01
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+0 // Pole Reverser
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 61929.dat
+0 // Main Cable and Plug
+1 256 0 14 60.4 1 0 0 0 1 0 0 0 1 u9190c01.dat

@@ -1,0 +1,29 @@
+0 Projectile Launcher with Bar
+0 Name: 69767.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Barrel angle: 22.5°
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Blaster, Shooter, tile
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+
+1 16 0 -5.9883 -6.5792 1 0 0 0 0.92388 0.38268 0 -0.38268 0.92388 s\69767s02.dat
+
+1 16 0 0 0 4 0 0 0 -13.40433 0 0 0 4 4-4cyli.dat
+1 16 0 0 0 4 0 0 0 -13.40433 0 0 0 4 4-4edge.dat
+1 16 0 0 0 4 0 0 0 -13.40433 0 0 0 4 4-4disc.dat
+1 16 0 -13.4043 0 0 0 -4 0 -1.65685 0 4 0 0 4-4cyls.dat
+1 16 0 -15.0612 0 0 0 -4 1.65685 1 0 4 0 0 7-16edge.dat
+1 16 0 -15.0612 0 0 0 4 1.65685 1 0 4 0 0 7-16edge.dat
+1 16 0 -11.3863 0 0 0 -4 -1.65685 1 0 -4 0 0 1-16edge.dat
+1 16 0 -11.3863 0 0 0 4 -1.65685 1 0 -4 0 0 1-16edge.dat
+
+2 24 1.5308 -16.5919 -3.6956 1.5308 -12.917 -3.6956
+2 24 -1.5308 -16.5919 -3.6956 -1.5308 -12.917 -3.6956

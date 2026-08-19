@@ -1,0 +1,19 @@
+0 ~Sticker  0.8 x  1.9 with Black "PORSCHE INTELLIGE PERFORM" on Black Halftone Stripes on White Background - Second Face First Stripe Background
+0 Name: s\6148328bcs08.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+
+0 // Top faces
+4 16 -6.4 0 -.6434 -6.4 0 -1.1816 -3.6 0 -1.1816 -3.6 0 -.6434
+4 16 -6.4 0 -1.8816 -6.4 0 -5.1203 -5.3063 0 -5.1203 -5.3063 0 -1.8816
+4 16 -4.6937 0 -1.8816 -4.6937 0 -5.1203 -3.6 0 -5.1203 -3.6 0 -1.8816
+4 16 -5.7875 0 -6.3585 -4.2125 0 -6.3585 -3.6 0 -5.8203 -6.4 0 -5.8203
+3 16 -5.7875 0 -6.3585 -6.4 0 -5.8203 -6.4 0 -6.3585
+4 16 -5.7875 0 -6.3585 -5.7875 0 -7.3435 -4.2125 0 -7.3435 -4.2125 0 -6.3585
+3 16 -4.2125 0 -6.3585 -3.6 0 -6.3585 -3.6 0 -5.8203

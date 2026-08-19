@@ -1,0 +1,19 @@
+0 Technic Panel 11 x  2 x  5 Mudguard Arched #32
+0 Name: 2509.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2024-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Ford GT, Set 42154
+
+0 !HISTORY 2023-02-22 {LEGO Instructions App} Original part shape
+0 !HISTORY 2023-03-02 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2509s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\2509s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2509s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\2509s02.dat

@@ -1,0 +1,40 @@
+0 ~Train Track  9V Switch Right - Plastic Part with Underside Cover Plate and Metal Elements
+0 Name: 2859c00.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LDRAW_ORG Shortcut UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2012-09-05 [KROACH] Changed rect-4.dat to quads
+0 !HISTORY 2012-09-05 [KROACH] Made BFC compliant
+0 !HISTORY 2012-09-07 [KROACH] Fix the mirror problem
+0 !HISTORY 2015-01-22 [Steffen] swapped s\2865s04l.dat and s\2865s04r.dat
+0 !HISTORY 2019-06-02 [Steffen] used s\2865s04.dat
+0 !HISTORY 2025-02-06 [MMR1988] Rewritten from scratch, original by KROACH
+0 !HISTORY 2025-08-23 [MagFors] Reused more parts
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2859.dat
+1 16 -200 0 0 1 0 0 0 1 0 0 0 1 2863.dat
+
+1 494 -318.25 0 50.5 -1 0 0 0 1 0 0 0 -1 u9309.dat
+1 494 318.25 0 50.5 1 0 0 0 1 0 0 0 1 u9309.dat
+1 494 318.25 0 -50.5 1 0 0 0 1 0 0 0 1 u9309.dat
+1 494 0 0 50.5 -1 0 0 0 1 0 0 0 -1 u9627.dat
+1 494 -60.5 0 -50.5 1 0 0 0 1 0 0 0 1 u9628.dat
+1 494 -320 0 0 1 0 0 0 1 0 0 0 1 u9635.dat
+1 494 -320 0 0 1 0 0 0 1 0 0 0 1 u9097.dat
+1 494 -320 0 0 1 0 0 0 1 0 0 0 1 u9098.dat
+1 494 -320 0 0 1 0 0 0 1 0 0 0 1 u9099.dat
+
+1 16 69 -5.75 -46.125 1 0 0 0 1 0 0 0 1 u9631.dat
+1 16 73.542615 -4.093292 -51.757507 1 0 0 0 1 0 0 0 1 u9634.dat
+
+1 494 -195.75 3 20.5 1 0 0 0 1 0 0 0 1 u9171.dat
+1 494 -195.75 3 -22.5 1 0 0 0 1 0 0 0 1 u9171.dat
+1 494 -202.482023 -8 -57.61933 .988691 0 .149967 0 1 0 -.149967 0 .988691 u9172.dat
+1 494 -262.25 3 48.375 1 0 0 0 1 0 0 0 1 u9173.dat
+1 494 -158.25 3 -48.375 -1 0 0 0 1 0 0 0 -1 u9173.dat
+1 494 -264.997356 3 -50.405754 -.997289 0 -.073586 0 1 0 .073586 0 -.997289 u9173.dat
+1 494 -152.367381 3 31.636983 .980237 0 .197828 0 1 0 -.197828 0 .980237 u9173.dat

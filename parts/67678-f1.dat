@@ -1,0 +1,15 @@
+0 Technic Pneumatic Tube 25L
+0 Name: 67678-f1.dat
+0 Author: Johann Eisner [technicbasics]
+0 !LDRAW_ORG Part UPDATE 2025-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 200 mm, BrickLink 5102c25, Rebrickable 5102c25
+
+0 !HISTORY 2025-05-28 [OrionP] Official Update 2025-05
+
+1 16 -250 0 0 0 1 0 1 0 0 0 0 1 71533k02.dat
+1 16 250 0 0 0 -1 0 -1 0 0 0 0 1 71533k02.dat
+1 16 -250 0 0 0 500 0 1 0 0 0 0 1 71533k03.dat

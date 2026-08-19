@@ -1,0 +1,21 @@
+0 Minifig Torso with Blue Arms and Hands with Castle Breastplate Pattern
+0 Name: 76382p0003.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Shortcut UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Armor, Armour, Black Knights, Bricklink 973p40c03, Castle, Crusaders
+0 !KEYWORDS knight, Lion Knights, medieval, Peiter van Blankevoort
+0 !KEYWORDS Rebrickable 973c28h01pr0040, Set 1584, Set 6016, Set 6017, Set 6039
+0 !KEYWORDS Set 6049, Set 6055, Set 6060, Set 6061, Set 6080, Set 6081, Set 6085
+0 !KEYWORDS Set 6086, Sir Richard
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973p40.dat
+1 1 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 1 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 14 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 14 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

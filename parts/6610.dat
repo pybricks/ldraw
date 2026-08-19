@@ -1,0 +1,17 @@
+0 Technic Steering Link 4L
+0 Name: 6610.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2739as01.dat
+1 16 0 0 60 1 0 0 0 1 0 0 0 -1 s\2739as01.dat
+1 16 0 0 10 1 0 0 0 0 1 0 40 0 axlehol8.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4514s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4514s01.dat
+1 16 0 0 60 -1 0 0 0 1 0 0 0 -1 s\4514s01.dat
+1 16 0 0 60 1 0 0 0 1 0 0 0 -1 s\4514s01.dat

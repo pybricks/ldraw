@@ -1,0 +1,19 @@
+0 Minifig Torso with Arms and Medium Nougat Hands with  Hooded Sweatshirt Open with Drawstrings over Dark Red Top Pattern
+0 Name: 76382p0031.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Shortcut UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb2066c03, Brickowl 741780, Brickset 76382, Hoodie
+0 !KEYWORDS Jacket, Marvel, Michelle Jones, MJ, Rebrickable 973c14h23pr4822
+0 !KEYWORDS Set 76129, Spiderman, Superheroes
+
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973p9b.dat
+1 16 -15.552 9 0 .985 -.17 0 .17 .985 0 0 0 1 3818.dat
+1 16 15.552 9 0 .985 .17 0 -.17 .985 0 0 0 1 3819.dat
+1 84 -23.69 26.774 -9.898 .985 -.12 .12 .17 .696 -.696 0 .707 .707 3820.dat
+1 84 23.69 26.774 -9.898 .985 .12 -.12 -.17 .696 -.696 0 .707 .707 3820.dat

@@ -1,0 +1,33 @@
+0 Technic Beam  2 x  3 Liftarm Bent 90 Quarter Ellipse
+0 Name: 71708.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2020-12-17 [GeraldLasser] Derived from 64683s01 by Philo
+0 !HISTORY 2023-05-14 [technicbasics] Optimised
+0 !HISTORY 2023-06-01 [GeraldLasser] Sub-Filed
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\71708s01.dat
+
+1 16 20 -10 0 9 0 0 0 20 0 0 0 -9 1-4cylo.dat
+1 16 0 -10 0 0 0 -9 0 20 0 -9 0 0 1-4cylo.dat
+1 16 10 0 -9 -10 0 0 0 0 10 0 1 0 rect2p.dat
+1 16 0 -10 0 0 0 -1 0 20 0 1 0 0 axl3hole.dat
+1 16 0 -10 0 0 0 3 0 1 0 -3 0 0 4-4ring2.dat
+1 16 0 -10 0 0 0 6 0 1 0 -6 0 0 4-4ering.dat
+1 16 0 10 0 0 0 3 0 -1 0 -3 0 0 4-4ring2.dat
+1 16 0 10 0 0 0 6 0 -1 0 -6 0 0 4-4ering.dat
+
+4 16 16.556 -10 -8.315 3.444 -10 -8.315 0 -10 -9 20 -10 -9
+4 16 20 10 -9 0 10 -9 3.444 10 -8.315 16.556 10 -8.315
+4 16 11.532 10 -6.364 16.556 10 -8.315 3.444 10 -8.315 10 10 -6.364
+3 16 6.364 10 -6.364 8.468 10 -6.364 3.444 10 -8.315
+3 16 3.444 10 -8.315 8.468 10 -6.364 10 10 -6.364
+3 16 6.364 -10 -6.364 3.444 -10 -8.315 8.468 -10 -6.364
+3 16 8.468 -10 -6.364 3.444 -10 -8.315 10 -10 -6.364
+4 16 3.444 -10 -8.315 16.556 -10 -8.315 11.532 -10 -6.364 10 -10 -6.364
+4 16 28.336 10 8.558 28.336 -10 8.558 29 -10 0 29 10 0

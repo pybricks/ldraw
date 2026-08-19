@@ -1,0 +1,30 @@
+0 Minifig Antenna
+0 Name: 6899.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+
+0 !KEYWORDS Alien, Antennae, Brickowl 1139138, Eye, Snail
+
+0 !HISTORY 2025-07-07 {LEGO Instructions App} Original part shape
+0 !HISTORY 2025-07-07 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+
+1 16 0 5 0 2 0 0 0 -5 0 0 0 2 4-4cylc.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6899s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6899s01.dat
+5 24 0 -3.4 3.2 0 -3.75 2.15 -1.275 -4 1.9 1.275 -4 1.9
+5 24 0 -3.9333 0.3917 0 -3.8 -1.8 1.275 -4.25 0.425 -1.275 -4.25 0.425
+5 24 0 -3.75 2.15 0 -3.9333 0.3917 -1.275 -4.25 0.425 1.275 -4.25 0.425
+5 24 0 -2.9 3.9 0 -3.4 3.2 -1.45 -3.45 3.05 1.45 -3.45 3.05
+5 24 0 0 4 0 -1.3 4.1 2.4 -1.3 3.8 -2.4 -1.3 3.8
+5 24 0 -1.3 -4.1 0 0 -4 2.9 -1.3 -3.65 -2.9 -1.3 -3.65
+5 24 0 -2.3 -4.2 0 -1.3 -4.1 2.9 -1.3 -3.65 -2.9 -1.3 -3.65
+5 24 0 -3.8 -1.8 0 -3.25 -3.45 -1.65 -4.05 -1.4 1.65 -4.05 -1.4
+5 24 0 -1.3 4.1 0 -2.3 4.2 -2.1 -2.35 3.95 2.1 -2.35 3.95
+5 24 0 -3.25 -3.45 0 -2.3 -4.2 -2.5 -3.05 -3.5 2.5 -3.05 -3.5
+5 24 0 -2.3 4.2 0 -2.9 3.9 1.85 -2.95 3.7 -1.85 -2.95 3.7

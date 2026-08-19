@@ -1,0 +1,28 @@
+0 Figure Friends Handbag with Zipper and Magenta Jungle Rescue Logo Pattern
+0 Name: 93091p02.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2026-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 93091pb02, Brickowl 360071, Brickset 17647
+0 !KEYWORDS Rebrickable 93091pr0004, Set 41032, Set 41036, Set 41038
+
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93091s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\93091s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93091s02.dat
+
+0 // Handle
+1 16 11.75 0 0 0 -1 0 4 0 0 0 0 4 4-4disc.dat
+1 16 -11.75 0 0 0 23.5 0 4 0 0 0 0 4 4-4cylc.dat
+
+4 16 10.822 11.517 8.115 13.151 25.337 9.166 -13.151 25.337 9.166 -10.822 11.517 8.115
+1 26 0 18.8 -8.66887 .32 0 0 0 0 -.32 0 1 .02434 logo-friends-jungle-rescue.dat
+1 16 0 18.8 -8.66887 .32 0 0 0 0 -.32 0 1 .02434 logo-friends-jungle-rescue-box.dat
+4 16 -10.822 11.517 -8.115 -5.76 13.264 -8.24779 5.952 13.264 -8.24779 10.822 11.517 -8.115
+4 16 10.822 11.517 -8.115 5.952 13.264 -8.24779 5.952 23.696 -9.0412 13.151 25.337 -9.166
+4 16 13.151 25.337 -9.166 5.952 23.696 -9.0412 -5.76 23.696 -9.0412 -13.151 25.337 -9.166
+4 16 -13.151 25.337 -9.166 -5.76 23.696 -9.0412 -5.76 13.264 -8.24779 -10.822 11.517 -8.115

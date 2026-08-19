@@ -1,0 +1,42 @@
+0 Sticker  0.9 x  3.9 with Lime Stripe on Black Background
+0 Name: 6324084s.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 76900stk01, Brickowl 1164539, Koenigsegg Jesko
+0 !KEYWORDS Rebrickable 72372, Set 76900, Speed Champions
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+0 // Sticker-Bottom
+1 16 37 0 7 1 0 0 0 -1 0 0 0 1 1-4chrd.dat
+1 16 -37 0 7 -1 0 0 0 -1 0 0 0 1 1-4chrd.dat
+1 16 -37 0 -7 -1 0 0 0 -1 0 0 0 -1 1-4chrd.dat
+1 16 37 0 -7 1 0 0 0 -1 0 0 0 -1 1-4chrd.dat
+4 16 37 0 8 37 0 -8 -37 0 -8 -37 0 8
+4 16 37 0 8 38 0 7 38 0 -7 37 0 -8
+4 16 -38 0 -7 -38 0 7 -37 0 8 -37 0 -8
+
+0 // Sticker-Side
+1 16 37 -.25 7 1 0 0 0 .25 0 0 0 1 1-4cyli.dat
+1 16 -37 -.25 7 0 0 -1 0 .25 0 1 0 0 1-4cyli.dat
+1 16 -37 -.25 -7 -1 0 0 0 .25 0 0 0 -1 1-4cyli.dat
+1 16 37 -.25 -7 0 0 1 0 .25 0 -1 0 0 1-4cyli.dat
+4 16 -37 -.25 8 37 -.25 8 37 0 8 -37 0 8
+4 16 -38 -.25 -7 -38 -.25 7 -38 0 7 -38 0 -7
+4 16 37 -.25 -8 -37 -.25 -8 -37 0 -8 37 0 -8
+4 16 38 -.25 7 38 -.25 -7 38 0 -7 38 0 7
+
+0 // Sticker-Front
+1 0 37 -.25 7 1 0 0 0 1 0 0 0 1 1-4chrd.dat
+1 0 -37 -.25 7 -1 0 0 0 1 0 0 0 1 1-4chrd.dat
+1 0 -37 -.25 -7 -1 0 0 0 1 0 0 0 -1 1-4chrd.dat
+1 0 37 -.25 -7 1 0 0 0 1 0 0 0 -1 1-4chrd.dat
+4 27 1.8 -.25 -8 1.6 -.25 8 -1.7 -.25 8 -1.8 -.25 -8
+4 0 -1.8 -.25 -8 -1.7 -.25 8 -37 -.25 8 -37 -.25 -8
+4 0 37 -.25 -8 37 -.25 8 1.6 -.25 8 1.8 -.25 -8
+4 0 -37 -.25 -8 -37 -.25 8 -38 -.25 7 -38 -.25 -7
+4 0 38 -.25 -7 38 -.25 7 37 -.25 8 37 -.25 -8

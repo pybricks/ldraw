@@ -1,0 +1,17 @@
+0 Plate  1 x  2 with Mini Shooting Blaster Type 2 with Dark Bluish Grey Trigger and Round Tile
+0 Name: 69754c01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Shortcut UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Blaster, Shooter
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 69754.dat
+1 72 0 -16.5 -25.3 1 0 0 0 0.70711 -0.70711 0 0.70711 0.70711 69755.dat
+1 72 4 -6.9 -39.6 0 -1 0 1 0 0 0 0 1 98138.dat

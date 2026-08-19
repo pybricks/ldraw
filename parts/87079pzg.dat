@@ -1,0 +1,16 @@
+0 Tile  2 x  4 with Silver Tiara and Dark Brown Hair Pattern
+0 Name: 87079pzg.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Arwen Undomiel, Brickheadz, Bricklink 87079pb1228, Evenstar
+0 !KEYWORDS Lord of the Rings, LOTR, Rebrickable 87079pr0299, Set 40632
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079pzgs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\87079pzgs01.dat

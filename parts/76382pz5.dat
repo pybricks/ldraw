@@ -1,0 +1,20 @@
+0 Minifig Torso with Arms and Hands with High Waist Blue Pants, Gold Buckle, Open Collar and Red Neck Pattern
+0 Name: 76382pz5.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Shortcut UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb0412c01, Brickowl 363400, Brickset 76382
+0 !KEYWORDS Eugene Herbert Krabs, Mini Upper Part No 1257, Mr. Krabs
+0 !KEYWORDS Nickelodeon, Rebrickable 973c22h12pr1257, Set 3825, Set 3833
+0 !KEYWORDS SpongeBob SquarePants
+
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pz5.dat
+1 4 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 4 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 72 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 72 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

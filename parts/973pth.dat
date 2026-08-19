@@ -1,0 +1,31 @@
+0 Minifig Torso with Large Red Train Logo Pattern
+0 Name: 973pth.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973px128, Brickowl 974841-93, Handcar, Lego Loco
+0 !KEYWORDS Lego Media, Lego Software, promotional, Set 2585, Super Hero
+0 !KEYWORDS Super Station Master, Trains 9V, Video Game
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
+4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
+4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+
+0 // Pattern
+1 4 0 17.5 -10 1.25 0 0 0 -1.25 0 0 0 1 s\4865p01c.dat
+1 16 0 17.5 -10 1.25 0 0 0 -1.25 0 0 0 1 s\4865p01b.dat
+3 16 -12.5 22.5 -10 -19 29 -10 -19 32 -10
+3 16 12.5 22.5 -10 19 32 -10 19 29 -10
+4 16 19 32 -10 12.5 22.5 -10 -12.5 22.5 -10 -19 32 -10
+4 16 -12.5 22.5 -10 -12.5 12.5 -10 -14.345 2 -10 -19 29 -10
+4 16 14.345 2 -10 -14.345 2 -10 -12.5 12.5 -10 12.5 12.5 -10
+4 16 12.5 22.5 -10 19 29 -10 14.345 2 -10 12.5 12.5 -10
+4 16 -14.345 2 -10 14.345 2 -10 12 0 -10 -12 0 -10

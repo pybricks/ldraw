@@ -1,0 +1,21 @@
+0 Minifig Torso with Arms and Hands with Zipper Jacket, Pockets and Bulldozer Logo Pattern
+0 Name: 76382p5y.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Shortcut UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bill Ding, Bricklink 973px122c01, Brickowl 801301, city center
+0 !KEYWORDS Construction, dacta, Lorry Driver, Mini Upper Part No 182, overalls
+0 !KEYWORDS Rebrickable 973c28h01pr0122, Set 4557, Set 6326, Set 6329, Set 6439
+0 !KEYWORDS Set 6447, Set 6535, Set 6565, set 6581, set 9293, town, Town Junior
+0 !KEYWORDS Trains
+
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973p5y.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 14 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 14 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

@@ -1,0 +1,31 @@
+0 Technic Suspension Arm  7 x  8 x  2 Double
+0 Name: 5780.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Wishbone
+
+0 !HISTORY 2025-04-06 {LEGO Instructions App} Original part shape
+0 !HISTORY 2025-04-06 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\5780s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\5780s01.dat
+
+1 16 0 -20 -120 0 -1 0 1 0 0 0 0 1 connhole.dat
+1 16 -10 -20 -120 0 20 0 0 0 -9 -9 0 0 11-16cyli.dat
+
+1 16 0 1.85 -130 -10 0 0 0 0 7.15 0 1 0 rect2p.dat
+1 16 0 -5.3 -129.5 0 0 -10 0 1 0 0.5 0 0 rect1.dat
+1 16 0 -1.3425 -116.5557 10 0 0 0 0 10.34245 0 -1 0 rect2p.dat
+4 16 -10 -5.3 -129 10 -5.3 -129 10 -20 -129 -10 -20 -129
+2 24 6.8 9 -120.8 -6.8 9 -120.8
+4 16 6.8 -1.5 -120.8 -6.8 -1.5 -120.8 -6.8 9 -120.8 6.8 9 -120.8
+2 24 -6.8 9 -125.8 6.8 9 -125.8
+4 16 -6.8 9 -125.8 -6.8 -1.5 -125.8 6.8 -1.5 -125.8 6.8 9 -125.8
+1 16 0 -1.5 -123.3 1.5 0 0 0 -1 0 0 0 -2.5 rect2p.dat
+4 16 6.8 9 -125.8 10 9 -130 -10 9 -130 -6.8 9 -125.8
+4 16 10 9 -116.5557 6.8 9 -120.8 -6.8 9 -120.8 -10 9 -116.5557

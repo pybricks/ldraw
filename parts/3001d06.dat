@@ -1,0 +1,16 @@
+0 Brick  2 x  4 with Popcorn Sticker on Both Sides
+0 Name: 3001d06.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Shortcut UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 3001pb035, Main Street, Set 6390
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3001.dat
+1 16 0 12 -20 1 0 0 0 0 -1 0 1 0 192385h.dat
+1 16 0 12 20 -1 0 0 0 0 -1 0 -1 0 192385h.dat

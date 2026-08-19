@@ -1,0 +1,22 @@
+0 Minifig Torso with Arms and Hands with US Cavalry Officer Pattern
+0 Name: 76382pw2.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Shortcut UPDATE 2025-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS army, Bricklink 973px43c01, BrickOwl 608389, captain, cavalry
+0 !KEYWORDS collar, Fort Legoredo, horse troops, insignia, junior officer
+0 !KEYWORDS Legoredo City, lieutenant, Major, Military, Mini Upper Part No 228
+0 !KEYWORDS officer, rank, Rebrickable 973c28h27pr0043, set 6706, set 6716
+0 !KEYWORDS set 6761, set 6762, set 6769, shoulder, soldier, U.S. Army, Uniform
+0 !KEYWORDS United States, veteran, western, wild west
+
+0 !HISTORY 2025-01-20 [OrionP] Official Update 2025-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pw2.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 15 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 15 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

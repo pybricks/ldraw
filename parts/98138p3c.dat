@@ -1,0 +1,18 @@
+0 Tile  1 x  1 Round with Dark Turquoise Beetle Pattern
+0 Name: 98138p3c.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 98138pb428, Brickowl 273358, Insect
+0 !KEYWORDS Rebrickable 98138pr0405, Set 10350, Set 21353, Set 42631, Set 42669
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s02.dat
+1 16 0 0 0 10 0 0 0 1 0 0 0 10 4-4ering.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138p3cs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\98138p3cs01.dat

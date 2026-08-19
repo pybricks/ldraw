@@ -1,0 +1,24 @@
+0 Sticker  0.8 x  1.8 with Red and Yellow Rectangle Top Left
+0 Name: 821577j.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Multi Control, Set 8082
+
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+1 16 0 -.25 0 18 0 0 0 0.25 0 0 0 8 box5-12.dat
+4 16 -18 -.25 -8 -4 -.25 -8 -4 -.25 8 -18 -.25 8
+4 16 18 -.25 -8 18 -.25 8 4 -.25 8 4 -.25 -8
+
+0 BFC NOCLIP
+
+4 4 -4 -.25 8 -2.66 -.25 5.87 -1.04 -.25 5.87 4 -.25 8
+4 4 -1.04 -.25 5.87 -1.04 -.25 .63 4 -.25 -8 4 -.25 8
+4 4 -2.66 -.25 .63 -4 -.25 -8 4 -.25 -8 -1.04 -.25 .63
+4 4 -4 -.25 -8 -2.66 -.25 .63 -2.66 -.25 5.87 -4 -.25 8
+4 14 -2.66 -.25 .63 -1.04 -.25 .63 -1.04 -.25 5.87 -2.66 -.25 5.87

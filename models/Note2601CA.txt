@@ -1,0 +1,117 @@
+ldraw.org Parts Update 2026-01
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Thu, 29 Jan 2026 03:22:27 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 200
+   New files: 146
+   New Parts: 89
+   New Subparts: 52
+   New Primitives: 5
+
+Moved Parts
+   32556.dat                  ~Moved to 32556a
+   6192.dat                   ~Moved to 6192a
+   43370c01-f2.dat            ~Moved to 43418-f2
+   43370c01-f1.dat            ~Moved to 43418-f1
+
+Renamed Parts
+   6081.dat                   Brick  2 x  4 x  1 & 1/3 with Curved Top
+   changed to    Brick  2 x  4 x  1.333 with Curved Top
+   973ps4.dat                 Minifig Torso with SW Shirt Open Collar No Vest Pattern
+   changed to    Minifig Torso with SW Shirt Open Collar No Vest and Yellow Chest Pattern
+   76382ps4.dat               Minifig Torso with Arms and Hands with SW Shirt Open Collar No Vest Pattern
+   changed to    Minifig Torso with Arms and Hands with SW Shirt Open Collar No Vest and Yellow Chest Pattern
+   2431d0n.dat                Tile 1 x 4 with Black Train Logo Sticker
+   changed to    Tile  1 x  4 with Black Train Logo Sticker
+   6180d01.dat                Plate 4 x 6 with 12 Studs on Three Edges with Black "UNITED STATES" Sticker
+   changed to    Plate  4 x  6 with 12 Studs on Three Edges with Black "UNITED STATES" Sticker
+   6180d02.dat                Plate 4 x 6 with 12 Studs on Three Edges with Black and Chrome Gold Areas Sticker
+   changed to    Plate  4 x  6 with 12 Studs on Three Edges with Black and Chrome Gold Areas Sticker
+   76382px4.dat               Minifig Torso with Arms and Hands with Jumpsuit, "P.V." ID Badge and "PETER" with Ghostbusters Logo Pattern
+   changed to    Minifig Torso with Arms with Elbow Pads and Hands with Jumpsuit, "P.V." ID Badge and "PETER" with Ghostbusters Logo Pattern
+   85984ds2.dat               Slope Brick 31  1 x 2 x 0.667 with Red Markings and Blue Rectangle Right Sticker
+   changed to    Slope Brick 31  1 x  2 x  0.667 with Red Markings and Blue Rectangle Right Sticker
+   85984ds1.dat               Slope Brick 31  1 x 2 x 0.667 with Red Markings and Blue Rectangle Left Sticker
+   changed to    Slope Brick 31  1 x  2 x  0.667 with Red Markings and Blue Rectangle Left Sticker
+   54200dy5.dat               Slope Brick 31  1 x  1 with Grey "5.0" Text on Blue Background Left Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Grey "5.0" Text on Blue Background Left Sticker
+   54200dy4.dat               Slope Brick 31  1 x  1 with Grey "5.0" Text on Blue Background Right Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Grey "5.0" Text on Blue Background Right Sticker
+   54200d01.dat               Slope Brick 31  1 x  1 x 0.667 with Twin Exhaust Pipes Right Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Twin Exhaust Pipes Right Sticker
+   54200dy3.dat               Slope Brick 31  1 x  1 x 0.667 with Black Headlamp on Yellow Background Left Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Black Headlamp on Yellow Background Left Sticker
+   54200d03.dat               Slope Brick 31  1 x  1 x 0.667 with White Rounded Corners Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with White Rounded Corners Sticker
+   54200d02.dat               Slope Brick 31  1 x  1 x 0.667 with Twin Exhaust Pipes Left Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Twin Exhaust Pipes Left Sticker
+   54200d04.dat               Slope Brick 31  1 x  1 x 0.667 with Red and Blue Buttons Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Red and Blue Buttons Sticker
+   54200d05.dat               Slope Brick 31  1 x  1 x 0.667 with Metallic Silver "2256" on Black Background Right Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Metallic Silver "2256" on Black Background Right Sticker
+   54200d06.dat               Slope Brick 31  1 x  1 x 0.667 with Metallic Silver "2256" on Black Background Left Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Metallic Silver "2256" on Black Background Left Sticker
+   54200dy0.dat               Slope Brick 31  1 x  1 x 0.667 with Dark Grey Exhaust Pipe on Black and Yellow Background Right Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Dark Grey Exhaust Pipe on Black and Yellow Background Right Sticker
+   54200dy1.dat               Slope Brick 31  1 x  1 x 0.667 with Dark Grey Exhaust Pipe on Black and Yellow Background Left Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Dark Grey Exhaust Pipe on Black and Yellow Background Left Sticker
+   54200dy2.dat               Slope Brick 31  1 x  1 x 0.667 with Black Headlamp on Yellow Background Right Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Black Headlamp on Yellow Background Right Sticker
+   54200dy7.dat               Slope Brick 31  1 x  1 x 0.667 with Black Air Scope on Transparent Background Right Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Black Air Scope on Transparent Background Right Sticker
+   54200dy8.dat               Slope Brick 31  1 x  1 x 0.667 with Black Air Scope on Transparent Background Left Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Black Air Scope on Transparent Background Left Sticker
+   54200dy9.dat               Slope Brick 31  1 x  1 x 0.667 with Black Grille on Transparent Background Right Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Black Grille on Transparent Background Right Sticker
+   54200dya.dat               Slope Brick 31  1 x  1 x 0.667 with Black Grille on Transparent Background Left Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Black Grille on Transparent Background Left Sticker
+   54200dyc.dat               Slope Brick 31  1 x  1 x 0.667 with White Arc on Transparent Background Left Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with White Arc on Transparent Background Left Sticker
+   54200dyb.dat               Slope Brick 31  1 x  1 x 0.667 with White Arc on Transparent Background Right Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with White Arc on Transparent Background Right Sticker
+   54200dyd.dat               Slope Brick 31  1 x  1 x 0.667 with White Alfa Romeo Logo on Red Background Right Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with White Alfa Romeo Logo on Red Background Right Sticker
+   54200dye.dat               Slope Brick 31  1 x  1 x 0.667 with White Alfa Romeo Logo on Red Background Left Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with White Alfa Romeo Logo on Red Background Left Sticker
+   54200dyi.dat               Slope Brick 31  1 x  1 x 0.667 with Grey Ferrari Horse in Black Stripe on Red Background Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Grey Ferrari Horse in Black Stripe on Red Background Sticker
+   54200dyh.dat               Slope Brick 31  1 x  1 x 0.667 with Ferrari Rounded Badge on Red Background Sticker
+   changed to    Slope Brick 31  1 x  1 x  0.667 with Ferrari Rounded Badge on Red Background Sticker
+   52031d01.dat               Slope Brick 45 4 x 6 x 0.667 Double Curved with Black Train Logo (2006, Bold) on Yellow Background Sticker
+   changed to    Slope Brick 45  4 x  6 x  0.667 Double Curved with Black Train Logo (2006, Bold) on Yellow Background Sticker
+   3660b.dat                  Slope Brick 45  2 x  2 Inverted with Inner Stopper Ring
+   changed to    Slope Brick 45  2 x  2 Inverted with Flat Bottom Pin with Inner Stopper Ring
+   s\3660bs01.dat             ~Slope Brick 45  2 x  2 Inverted with Inner Stopper Ring without Front Face
+   changed to    ~Slope Brick 45  2 x  2 Inverted with Flat Bottom Pin with Inner Stopper Ring without Front Face
+   2916d02.dat                Wedge 4 x  6 x  2.333 with Black Train Logo Sticker
+   changed to    Wedge  4 x  6 x  2.333 with Black Train Logo Sticker
+   004757e.dat                Sticker 2.3 x 1.3 with Black Train Window with Light Grey Trim
+   changed to    Sticker  2.3 x  1.3 with Black Train Window with Light Grey Trim
+   168055a.dat                Sticker 2.1 x 1.9 with White "RENAULT" and Red "5" on Blue Background
+   changed to    Sticker  2.1 x  1.9 with White "RENAULT" and Red "5" on Blue Background
+   195555b.dat                Sticker 1.0 x 1.3 with Shell Logo 1971 on White Background
+   changed to    Sticker  1.0 x  1.3 with Shell Logo 1971 on White Background
+   191485c.dat                Sticker 2.2 x 2.0 Light Blue with Yellow Stripes on Top and Bottom
+   changed to    Sticker  2.2 x  2.0 Light Blue with Yellow Stripes on Top and Bottom
+   8c02.dat                   Plate 2 x 2 with 2 Wheel Clips Perpendicular with Red Wheel with Tyre 4/ 80 x 8 Single Smooth Type 1
+   changed to    Plate  2 x  2 with 2 Wheel Clips Perpendicular with Red Wheel with Tyre 4/ 80 x  8 Single Smooth Type 1
+
+Other Fixed Parts
+   s\35787s01.dat             ~Tile  2 x  2 Triangular without Top Surface
+   30357.dat                  Plate  3 x  3 with  2 x  2 Corner Round
+   18980.dat                  Plate  2 x  6 with Two Rounded Corners
+   973p51.dat                 Minifig Torso with Blacktron II Pattern
+   6005.dat                   Arch  1 x  3 x  2 with Curved Top
+   18978a.dat                 Wheel Rim 11 x 18 Front with  5 Spokes
+   18978b.dat                 Wheel Rim 11 x 18 Front with 10 Angled Spokes
+   18979b.dat                 Wheel Rim 11 x 18 Front with 10 Spokes
+   18979a.dat                 Wheel Rim 11 x 18 Front with  7 Y-Shaped Spokes
+   24308a.dat                 Wheel Rim 11 x 18 Front with 10 Parallel Spokes
+
+Minor Edits
+   65 Parts with minor administrative edits and/or license changes

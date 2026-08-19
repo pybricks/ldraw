@@ -1,0 +1,159 @@
+ldraw.org Parts Update 2024-08
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Mon, 30 Sep 2024 03:56:52 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 955
+   New files: 864
+   New Parts: 540
+   New Subparts: 308
+   New Primitives: 9
+   New 48 Segment Primitives: 3
+   New Part TEXMAP Images: 4
+
+Moved Parts
+   2847c01.dat                ~Moved to 74650c01
+   32074c01.dat               ~Moved to 76100c01
+   54696.dat                  ~Moved to 54696p01
+   71830.dat                  ~Moved to 71830-f1
+
+Renamed Parts
+   2846.dat                   Electric 9V Battery Box  4 x 14 x  4 Cover
+   changed to    Electric  9V Battery Box  4 x 14 x  4 Cover
+   2847.dat                   Electric 9V Battery Box  4 x 14 x  4 Bottom (Needs Work)
+   changed to    Electric 9V Battery Box  4 x 14 x  4 Bottom
+   30358.dat                  Tile  2 x  2 with Jet Engine
+   changed to    Plane Engine with 2 Top Studs and  2 x  2 Tile
+   32039.dat                  Technic Connector (Axle/Bush)
+   changed to    Technic Connector (Axle/Bush) Type 1
+   32074.dat                  ~Technic Competition Cannon with Round Bottom Base (Needs Work)
+   changed to    ~Technic Competition Cannon with Round Bottom Body
+   32075.dat                  ~Technic Competition Cannon Trigger
+   changed to    ~Technic Competition Cannon Trigger Long
+   40375.dat                  Animal Dinosaur Body Neck/Tail Ring
+   changed to    Animal Tail Joint with Long Pin
+   44570.dat                  Hinge Car Roof  4 x  4 Locking
+   changed to    Hinge Plate  3 x  4 Locking Dual  2 Finger,  9 Teeth
+   45522.dat                  Tile  6 x  6 x 2/3 with 4 Studs and Card-holder - "SPORTS"
+   changed to    Plate  6 x  6 x  0.667 with 4 Studs and Card-holder - "SPORTS"
+   47223a-f2.dat              Technic Pneumatic Valve with Pegholes (Complete - Down Position)
+   changed to    Technic Pneumatic Valve with Pegholes (Down Position)
+   47223a-f3.dat              Technic Pneumatic Valve with Pegholes (Complete - Up Position)
+   changed to    Technic Pneumatic Valve with Pegholes (Up Position)
+   4866.dat                   Windscreen  3 x  4 x  1 & 1/3 with 6 Studs on Top
+   changed to    Windscreen  3 x  4 x  1.333 with 6 Studs on Top
+   6228a.dat                  Electric Technic Motor 12V
+   changed to    ~Electric Technic Motor 12V (Obsolete)
+   74650.dat                  _Electric 9V Battery Box  4 x 14 x  4 Lt Grey/Dk Grey/Red
+   changed to    ~_Electric 9V Battery Box  4 x 14 x  4 Light Grey/Dark Grey/Red (Obsolete)
+   s\973pt2b.dat              ~Minifig Torso with "Octan" Logo Pattern - Logo
+   changed to    ~Obsolete file
+   u9372c01.dat               Electric Technic Motor with Centre Pin Hole - Body Assembly
+   changed to    ~Electric Technic Motor with Centre Pin Hole - Body Assembly (Obsolete)
+   6216m.dat                  Electric Technic Motor  4.5V with Centre Pin Hole
+   changed to    ~Electric Technic Motor  4.5V with Centre Pin Hole (Obsolete)
+   4742.dat                   Cone  4 x  4 x  2 Hollow No Studs
+   changed to    Cone 4 x  4 x  2 Hollow Without Studs
+   54696p01.dat               Electric Powered Up Medium Angular Motor with Medium Azure Back and Hub
+   changed to    Electric Powered Up Medium Angular Motor with Medium Azure Back and Hub Pattern
+   2849.dat                   Electric 9V Battery Box  4 x 14 x  4 Buttons (Needs Work)
+   changed to    Electric 9V Battery Box  4 x 14 x  4 - Buttons
+   logo-porsche-box.dat       Logo Porsche - Outer Box
+   changed to    Logo Porsche - Outer box
+   2617.dat                   Platform 16 x 16 x  2 & 1/3 Even
+   changed to    Platform 16 x 16 x  2.333 Even
+   3069bpcc.dat               Tile  1 x  2 with Dark Bluish Gray Computer Keyboard Pattern
+   changed to    Tile  1 x  2 with Dark Bluish Grey Computer Keyboard Pattern
+   30361dps8.dat              Cylinder  2 x  2 x  2 Robot Body with Gray Lines and Dark Blue Pattern (R2-D2, R3-T2)
+   changed to    Cylinder  2 x  2 x  2 Robot Body with Grey Lines and Dark Blue Pattern
+   35809p03.dat               Minifig Pen with Pearl Dark Gray Tip and Cap Pattern
+   changed to    Minifig Pen with Pearl Dark Grey Tip and Cap Pattern
+   3817cps4.dat               Minifig Leg Left with SW Clone Trooper Black, Light Bluish Gray Markings and Knee Pad Pattern
+   changed to    Minifig Leg Left with SW Clone Trooper Black, Light Bluish Grey Markings and Knee Pad Pattern
+   3816cps4.dat               Minifig Leg Right with SW Clone Trooper Black, Light Bluish Gray Markings and Knee Pad Pattern
+   changed to    Minifig Leg Right with SW Clone Trooper Black, Light Bluish Grey Markings and Knee Pad Pattern
+   44375bps2.dat              Dish  6 x  6 Inverted Solid Studs with  8 Radial Rectangular Black and Dark Gray Grille Pattern
+   changed to    Dish  6 x  6 Inverted Solid Studs with  8 Radial Rectangular Black and Dark Grey Grille Pattern
+   54200dy0.dat               Slope Brick 31  1 x  1 x 0.667 with Dark Gray Exhaust Pipe on Black and Yellow Background Right Sticker
+   changed to    Slope Brick 31  1 x  1 x 0.667 with Dark Grey Exhaust Pipe on Black and Yellow Background Right Sticker
+   54200dy1.dat               Slope Brick 31  1 x  1 x 0.667 with Dark Gray Exhaust Pipe on Black and Yellow Background Left Sticker
+   changed to    Slope Brick 31  1 x  1 x 0.667 with Dark Grey Exhaust Pipe on Black and Yellow Background Left Sticker
+   73200bps4.dat              Minifig Hips and Legs with SW Clone Trooper Black, Light Bluish Gray Markings and Knee Pads Pattern
+   changed to    Minifig Hips and Legs with SW Clone Trooper Black, Light Bluish Grey Markings and Knee Pads Pattern
+   s\3069bpccs01.dat          ~Tile  1 x  2 with Dark Bluish Gray Computer Keyboard Pattern - Square Button
+   changed to    ~Tile  1 x  2 with Dark Bluish Grey Computer Keyboard Pattern - Square Button
+   s\44375ps2s01.dat          ~Dish 6 x 6 Inverted Solid Studs with 8 Radial Rectangular Black and Dark Gray Grille Pattern - 1/8
+   changed to    ~Dish 6 x 6 Inverted Solid Studs with 8 Radial Rectangular Black and Dark Grey Grille Pattern - 1/8
+   s\87610ps7s02.dat          ~Minifig Helmet Mandalorian with Reddish Brown Visor with Slanted Eyeslits Dark Bluish Gray Cheeks and Reddish Brown Pattern - Half
+   changed to    ~Minifig Helmet Mandalorian with Reddish Brown Visor with Slanted Eyeslits Dark Bluish Grey Cheeks and Reddish Brown Pattern - Half
+   2431p0a.dat                Tile  1 x  4 with Dark Bluish Gray Stripe Pattern
+   changed to    Tile  1 x  4 with Dark Bluish Grey Stripe Pattern
+   16709p0d.dat               Minifig Hips and Legs Short with Dark Bluish Gray Horizontal Stripe Pattern
+   changed to    Minifig Hips and Legs Short with Dark Bluish Grey Horizontal Stripe Pattern
+   3626bp80.dat               Minifig Head with Orange Beard and White Smile Pattern
+   changed to    Minifig Head with Dark Orange Beard and White Smile Pattern
+   41835p01.dat               Animal Bird Songbird with Black Eyes and Bright Light Orange Beak
+   changed to    Animal Bird Songbird with Black Eyes and Bright Light Orange Beak Pattern
+   s\4865p01c.dat             ~Pattern Train Logo - Foreground
+   changed to    ~Pattern Train Logo - Foreground (Obsolete)
+   s\4865p01b.dat             ~Pattern Train Logo - Background
+   changed to    ~Pattern Train Logo - Background (Obsolete)
+   3626bpq0.dat               Minifig Head Mummy Face with 2 Eyes / 1 Eye 2-Sided Pattern
+   changed to    Minifig Head Mummy with Wrapped Face with 2 Eyes / 1 Eye 2-Sided Pattern
+   4485.dat                   Minifig Cap with Long Flat Peak
+   changed to    ~Minifig Cap with Long Flat Peak (Obsolete)
+   32080.dat                  ~Technic Competition Arrow Core
+   changed to    ~Technic Competition Arrow Rubber Tip Fastener
+   s\32074s01.dat             ~Technic Competition Cannon with Round Bottom Base Segment
+   changed to    ~Technic Competition Cannon with Round Bottom Body - Segment
+   32067.dat                  ~Technic Competition Cannon with Round Bottom Front Cover
+   changed to    ~Technic Competition Cannon with Round Bottom Front Lid
+   s\32067s01.dat             ~Technic Competition Cannon with Round Bottom Front Cover 1/4
+   changed to    ~Technic Competition Cannon with Round Bottom Front Cover - Quarter
+
+Other Fixed Parts
+   47223a-f1.dat              Technic Pneumatic Valve with Pegholes (Complete - Neutral Position)
+   812.dat                    Train Level Crossing Centre Rail Cap Insert
+   3068bd01.dat               Tile  2 x  2 with 3 Black Circles Sticker
+   logo-porsche-text.dat      Logo Porsche
+   s\6148328ps01.dat          ~Sticker  0.8 x  5.8 with Red "PORSCHE" on Black Background - Outerbox for Logo Unscaled
+   3626bp3q.dat               Minifig Head with Sideburns and Droopy Moustache Brown Pattern
+   3626bp3n.dat               Minifig Head with Sideburns and Droopy Moustache Black Pattern
+   3626bp3k.dat               Minifig Head with Islander White/Blue Painted Face Pattern
+   3626bp83.dat               Minifig Head with Brown Eyebrows, Smirking Face, Pupils Pattern
+   3626bp8d.dat               Minifig Head with Brown Angular Beard and Glasses Pattern
+   3626bp7e.dat               Minifig Head with Blue Sunglasses and Stubble Pattern
+   3626bp6y.dat               Minifig Head with Green Brain and Yellow Mouth Pattern
+   3626bp6x.dat               Minifig Head with Silver Mask and Mouth Grille Pattern
+   3626bp6w.dat               Minifig Head with Small Blue Mask Pattern
+   3626bpb1.dat               Minifig Head with Pursed Lips and White Forehead Pattern
+   3626bpar.dat               Minifig Head Alien with Large Dark Blue Eyes, Turtle Mouth and Gills Pattern
+   3626bpaq.dat               Minifig Head with Skull Type 1 (Smiling) Pattern
+   3626bpap.dat               Minifig Head with Smirk, Black Moustache and Cleft Chin Pattern
+   3626bpac.dat               Minifig Head with Tribal Paint and Frown Pattern
+   3626bpab.dat               Minifig Head with Aquanaut, Green Angled Sunglasses and Brown Hair Pattern
+   3626bpaa.dat               Minifig Head with Aquanaut, Red Headband and Freckles Pattern
+   3626bpa9.dat               Minifig Head with Villainous Glasses & Black Facial Hair Pattern
+   3626bpa7.dat               Minifig Head with Monocle, Scar, and Moustache Pattern
+   3626bpa5.dat               Minifig Head with Stubble, Moustache and Smirk Pattern
+   3626bpa4.dat               Minifig Head with Villain Black Facial Hair Pattern
+   3626bpa3.dat               Minifig Head with Smirk & Black Moustache Pattern
+   3626bpa2.dat               Minifig Head with Adventurers Mummy Pattern
+   3626bps2.dat               Minifig Head with SW Brown Eyebrows Pattern
+   3626bpq4.dat               Minifig Head with Glasses, Brown Sideburns and Moustache Pattern
+   3626bpq1.dat               Minifig Head Mummy with 2 Eyes / Gold Death Mask 2-Sided Pattern
+   3626bpq2.dat               Minifig Head with Sideburns, Goatee, Beard Stubble, Scar Pattern
+   3626bpq3.dat               Minifig Head Female with Smiling / Scared 2-Sided Pattern
+   32134.dat                  ~Technic Competition Arrow Rubber Tip
+   32133.dat                  ~Technic Competition Arrow Shaft
+   s\57028as01.dat            ~Technic Competition Arrow with Rubber End - Shaft
+   15210d06.dat               Roadsign Clip-on 2 x 2 Square with Dog Prohibited Sign on White Background Sticker
+   15210d05.dat               Roadsign Clip-on 2 x 2 Square with Baby Prohibited Sign on White Background Sticker
+   15210d04.dat               Roadsign Clip-on 2 x 2 Square with Popsicle Prohibited Sign on White Background Sticker
+   15210d03.dat               Roadsign Clip-on 2 x 2 Square with Cup Prohibited Sign on White Background Sticker
+   15210d02.dat               Roadsign Clip-on 2 x 2 Square with Camera Prohibited Sign on White Background Sticker
+   2572d01.dat                Panel  6 x  6 x  9 with Curved Top with "Ristorante" and White Stripes Sticker

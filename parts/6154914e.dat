@@ -1,0 +1,22 @@
+0 Sticker  5.0 x  0.8 with Gear Lever Console Right
+0 Name: 6154914e.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 42056stk01, Brickowl 901585, Lego Technic
+0 !KEYWORDS Porsche 911 GT3 RS, Rebrickable 27056, set 42056
+
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\stickerback008x050.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6154914es01.dat
+4 72 -3.929 -.25 -41.9 -3.948 -.25 -42.3 3.233 -.25 -42.3 3.562 -.25 -41.914
+4 72 3.562 -.25 -41.914 3.233 -.25 -42.3 3 -.25 -47.3 3.3 -.25 -47.7
+4 0 3.562 -.25 -41.914 4.084 -.25 -30.4 -3.403 -.25 -30.4 -3.929 -.25 -41.9
+4 0 8 -.25 48.5 -2 -.25 31 -2 -.25 -10.69 4.6 -.25 -19
+4 0 8 -.25 48.5 4.6 -.25 -19 4.084 -.25 -30.4 8 -.25 -48.5
+3 0 4.084 -.25 -30.4 3.562 -.25 -41.914 8 -.25 -48.5
+3 0 8 -.25 -48.5 3.562 -.25 -41.914 3.3 -.25 -47.7

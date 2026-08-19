@@ -1,0 +1,18 @@
+0 Minifig Torso with Arms and Hands with Fire Power Emblem, Kunai Knives and Scabbard Pattern
+0 Name: 76382p0y.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Shortcut UPDATE 2024-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb1902c01, Brickowl 720139, Kai, Ninjago
+0 !KEYWORDS Rebrickable 973c22h03pr2853, Set 70745, Set 70750, Set 71207
+
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973p0y.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 0 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 0 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

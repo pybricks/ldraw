@@ -1,0 +1,39 @@
+0 Plate  6 x  6 with  2 Raised Plate  3 x  2
+0 Name: 7808.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2026-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickowl 570388, chassis
+
+0 !HISTORY 2026-03-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-03-01 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
+
+1 16 -60 4 0 0 1 0 4 0 0 0 0 60 rect.dat
+1 16 -56 6 0 0 -1 0 2 0 0 0 0 56 rect.dat
+1 16 60 4 0 0 -1 0 4 0 0 0 0 60 rect.dat
+1 16 56 6 0 0 1 0 2 0 0 0 0 56 rect.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7808s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\7808s01.dat
+4 16 60 8 -60 56 8 -56 56 8 56 60 8 60
+4 16 60 0 60 20 0 40 20 0 -40 60 0 -60
+4 16 -56 8 56 -56 8 -56 -60 8 -60 -60 8 60
+4 16 -20 0 -40 -20 0 40 -60 0 60 -60 0 -60
+4 16 20 0 -40 20 0 40 -20 0 40 -20 0 -40
+1 16 10 0 0 0 0 1 0 1 0 -1 0 0 stug-1x4.dat
+1 16 -10 0 0 0 0 1 0 1 0 -1 0 0 stug-1x4.dat
+1 16 50 0 0 0 0 1 0 1 0 -1 0 0 stug-1x6.dat
+1 16 30 0 0 0 0 1 0 1 0 -1 0 0 stug-1x6.dat
+1 16 -30 0 0 0 0 1 0 1 0 -1 0 0 stug-1x6.dat
+1 16 -50 0 0 0 0 1 0 1 0 -1 0 0 stug-1x6.dat
+1 16 10 -8 70 0 0 1 0 1 0 -1 0 0 stug-1x3.dat
+1 16 -10 -8 70 0 0 1 0 1 0 -1 0 0 stug-1x3.dat
+1 16 10 -8 -70 0 0 1 0 1 0 -1 0 0 stug-1x3.dat
+1 16 -10 -8 -70 0 0 1 0 1 0 -1 0 0 stug-1x3.dat
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stug4-1x5.dat
+4 16 -12.609 4 -43.0615 -56 4 -56 -56 4 56 -12.609 4 43.0615
+4 16 56 4 56 56 4 -56 12.609 4 -43.0615 12.609 4 43.0615
+4 16 12.6088 4 43.0616 12.6088 4 -43.0616 -12.609 4 -43.0615 -12.609 4 43.0615

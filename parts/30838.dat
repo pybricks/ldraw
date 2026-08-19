@@ -1,0 +1,23 @@
+0 Wheel Rim  6.4 x 11 with  7 Spokes
+0 Name: 30838.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2018-01-28 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2021-01-28 [Sirio] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+
+0 // Subparts
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93593s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30838s01.dat
+0 // Patternable areas
+1 16 0 0 -8 2 0 0 0 0 2 0 1 0 4-4ring6.dat
+1 16 0 0 -8 .5 0 0 0 0 .5 0 1 0 4-4ring23.dat
+1 16 0 0 -8 11.5 0 0 0 0 11.5 0 1 0 4-4ering.dat
+1 16 0 0 -7.94 .5 0 0 0 0 .5 0 -.06 0 4-4con6.dat
+1 16 0 0 -7.52 3.5 0 0 0 0 3.5 0 -.42 0 4-4con1.dat

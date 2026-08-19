@@ -1,0 +1,24 @@
+0 Tile  1 x  1 with Dark Bluish Grey Diamond Pattern
+0 Name: 3070bp1q.dat
+0 Author: Florent Faramond [Makou]
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3070pb226, Brickowl 596490, Rebrickable 3070bpr0262
+0 !KEYWORDS Set 71395
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3070bs01.dat
+
+4 72 0 0 -9.5 9.5 0 0 0 0 9.5 -9.5 0 0
+3 16 10 0 10 -10 0 10 0 0 9.5
+3 16 10 0 10 0 0 9.5 9.5 0 0
+3 16 10 0 10 9.5 0 0 10 0 -10
+3 16 9.5 0 0 0 0 -9.5 10 0 -10
+3 16 0 0 -9.5 -10 0 -10 10 0 -10
+3 16 -9.5 0 0 -10 0 -10 0 0 -9.5
+3 16 -10 0 10 -10 0 -10 -9.5 0 0
+3 16 -10 0 10 -9.5 0 0 0 0 9.5

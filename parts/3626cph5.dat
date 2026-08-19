@@ -1,0 +1,27 @@
+0 Minifig Head with White Eyebrows, Beard and Round Black Glasses Pattern
+0 Name: 3626cph5.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 3626pb2482, Brickowl 224037, Brickset 65099, Ernie Prang
+0 !KEYWORDS Harry Potter, Rebrickable 3626cpr3014, Set 75957
+
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626cph5s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626cph5s01.dat
+3 484 -.5 8.9 -12.9006 -.948 8.9 -12.8115 -.8494 9.237 -12.8311
+4 484 0 10.9 -13 -.5 8.9 -12.9006 -.8494 9.237 -12.8311 -.7769 10 -12.8455
+3 484 -.7769 10 -12.8455 -.45 10.9 -12.9105 0 10.9 -13
+3 484 -.7769 10 -12.8455 -.8895 10.9 -12.8231 -.45 10.9 -12.9105
+3 0 0 8.9 -13 -.5 8.9 -12.9006 0 10.9 -13
+3 484 .948 8.9 -12.8115 .5 8.9 -12.9006 .8494 9.237 -12.8311
+3 0 0 8.9 -13 0 10.9 -13 .45 10.9 -12.9105
+4 484 .8494 9.237 -12.8311 .5 8.9 -12.9006 0 8.9 -13 .7769 10 -12.8455
+4 484 .8895 10.9 -12.8231 .7769 10 -12.8455 0 8.9 -13 .45 10.9 -12.9105

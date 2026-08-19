@@ -1,0 +1,15 @@
+0 ~Minifig Torso with Race Suit with Mercedes AMG Logos and Yellow Stripes Pattern - Outerbox for Logo Unscaled
+0 Name: s\973pybs01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Subpart UPDATE 2025-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-05-28 [OrionP] Official Update 2025-05
+
+0 // Outerbox
+4 16 -36 0 4 -36 0 -4 -34.86 0 -3.32 -34.86 0 3.32
+4 16 -36 0 4 -34.86 0 3.32 34.86 0 3.32 36 0 4
+4 16 36 0 -4 36 0 4 34.86 0 3.32 34.86 0 -3.32
+4 16 36 0 -4 34.86 0 -3.32 -34.86 0 -3.32 -36 0 -4

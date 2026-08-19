@@ -1,0 +1,18 @@
+0 ~Figure Micro Doll Body with Long Dress Neck and Arms
+0 Name: s\65203s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Subpart UPDATE 2025-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+
+0 // Neck
+1 16 0 -52 1.5 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 0 -52 1.5 4 0 0 0 1 0 0 0 4 4-4disc.dat
+1 16 0 -52 1.5 4 0 0 0 15 0 0 0 4 4-4cyli.dat
+
+0 // Arms
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65203s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\65203s04.dat

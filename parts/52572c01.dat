@@ -1,0 +1,15 @@
+0 Boat Hull 48 x  6 x  5 with Black Top
+0 Name: 52572c01.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Shortcut UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 50821c01, Brickowl 307709, Catamaran Half
+0 !KEYWORDS Rebrickable 50821c01, Set 7244, Speedboat
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 50820.dat
+1 16 0 32 0 -1 0 0 0 1 0 0 0 1 50821.dat

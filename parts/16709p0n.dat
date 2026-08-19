@@ -1,0 +1,18 @@
+0 Minifig Hips and Legs Short with White Half Leg and Feet with Bright Pink Toes Pattern
+0 Name: 16709p0n.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 41879pb034, Brickowl 1454009, Brickset 110016, Bunny, CMF
+0 !KEYWORDS Hamster, Rabbit, Rebrickable 16709pat27pr0001, Series 27, Set 71048
+
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\16709s05.dat
+1 15 10 24 0 1 0 0 0 -1 0 0 0 -1 stud23.dat
+1 15 -10 24 0 1 0 0 0 -1 0 0 0 -1 stud23.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\16709p0ns01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\16709p0ns01.dat

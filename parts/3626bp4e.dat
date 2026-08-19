@@ -1,0 +1,20 @@
+0 Minifig Head with Curly Brown Moustache and Hair Pattern
+0 Name: 3626bp4e.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3626bpx70, Brickowl 806577, Castle
+0 !KEYWORDS Rebrickable 3626bpr9970, Set 3739, set 4817, Set 6091, Set 6096
+0 !KEYWORDS Set 6098
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs04.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bp4es01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3626bp4es01.dat

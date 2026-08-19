@@ -1,0 +1,26 @@
+0 ~Figure Friends Legs Hips Thick Hinge
+0 Name: s\92252s08.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Subpart UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+1 16 -3 0 0 0 -1 0 0 0 3 -3 0 0 2-4cylo.dat
+1 16 -3 0 0 0 -1 0 0 0 3 -3 0 0 2-4chrd.dat
+1 16 -4 0 0 0 1 0 -3 0 0 0 0 -3 1-4cyls.dat
+1 16 -4 0 0 0 1 0 -3 0 0 0 0 3 1-4cyls.dat
+1 16 -4 0 0 0 1 0 0 0 -3 -3 0 0 2-4edge.dat
+1 16 -3 0 0 0 1 -1 0 0 -3 -3 0 0 2-4edge.dat
+1 16 -3 0 0 0 -1 -1 0 0 -3 -3 0 0 2-4chrd.dat
+2 24 -3 0 3 -3 0 -3
+1 16 3 0 0 0 1 0 0 0 3 3 0 0 2-4cylo.dat
+1 16 3 0 0 0 1 0 0 0 3 3 0 0 2-4chrd.dat
+1 16 4 0 0 0 -1 0 -3 0 0 0 0 3 1-4cyls.dat
+1 16 4 0 0 0 -1 0 -3 0 0 0 0 -3 1-4cyls.dat
+1 16 4 0 0 0 -1 0 0 0 -3 3 0 0 2-4edge.dat
+1 16 3 0 0 0 -1 1 0 0 -3 3 0 0 2-4edge.dat
+1 16 3 0 0 0 1 1 0 0 -3 3 0 0 2-4chrd.dat
+2 24 3 0 3 3 0 -3

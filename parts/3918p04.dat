@@ -1,0 +1,23 @@
+0 Animal Bird Chick with White Eyes, Yellow Crest and Orange Beak and Feet Pattern
+0 Name: 3918p04.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Part UPDATE 2026-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Accessory hole Y=-31.2, Z=-2.5
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3918pb04, Brickowl 923312, Brickset 104242, Chicken, Pecky
+0 !KEYWORDS Penguin, Rebrickable 3918pr0003, set 76994, Sonic the Hedgehog
+
+0 !HISTORY 2026-03-06 [OrionP] Official Update 2026-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3918s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3918s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3918p04s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3918p04s02.dat
+1 25 0 0 0 1 0 0 0 1 0 0 0 1 s\3918s03.dat
+1 25 0 0 0 -1 0 0 0 1 0 0 0 1 s\3918s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3918p01s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3918p01s04.dat

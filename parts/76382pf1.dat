@@ -1,0 +1,20 @@
+0 Minifig Torso with Dark Blue Arms and Hands with Scale Armour, Crown on Buckle and Chest Strap Pattern
+0 Name: 76382pf1.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Shortcut UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb0438c01, BrickOwl 532203, Castle, Crown Knights
+0 !KEYWORDS Fantasy Era, Mini Upper Part No 1321, Rebrickable 973c05h01pr1321
+0 !KEYWORDS Set 7029, Set 7036, Set 7037, Set 7040, Set 7041, Set 7048, Set 7079
+0 !KEYWORDS Set 7090, Set 7094, set 7979
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pf1.dat
+1 272 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 272 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 14 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 14 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

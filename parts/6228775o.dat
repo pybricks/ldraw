@@ -1,0 +1,28 @@
+0 Sticker  0.8 x  1.8 with Red Bugatti Logo
+0 Name: 6228775o.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Part UPDATE 2026-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 42083stk01, Brickowl 885585, Bugatti Chiron, Lego Technic
+0 !KEYWORDS Rebrickable 38973, set 42083
+
+0 !HISTORY 2025-04-27 [OrionP] Official Update 2025-04
+0 !HISTORY 2025-08-02 [jb70] Using Sticker Back subfile
+0 !HISTORY 2026-03-31 [OrionP] Official Update 2026-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback008x018.dat
+1 16 0 -0.25 0 1.55 0 0 0 1 0 0 0 1.55 logo-bugatti-with-dots.dat
+1 0 0 -0.25 0 1.55 0 0 0 1 0 0 0 1.55 logo-bugatti-box.dat
+1 0 16.5 -0.25 6.5 1.5 0 0 0 1 0 0 0 1.5 1-4chrd.dat
+1 0 16.5 -0.25 -6.5 1.5 0 0 0 1 0 0 0 -1.5 1-4chrd.dat
+1 0 -16.5 -0.25 -6.5 -1.5 0 0 0 1 0 0 0 -1.5 1-4chrd.dat
+1 0 -16.5 -0.25 6.5 -1.5 0 0 0 1 0 0 0 1.5 1-4chrd.dat
+4 0 -18 -.25 6.5 -18 -.25 -6.5 -16.5 -.25 -8 -16.5 -.25 8
+4 0 18 -.25 -6.5 18 -.25 6.5 16.5 -.25 8 16.5 -.25 -8
+4 0 -16.5 -.25 8 -11.8575 -.25 6.00625 11.8575 -.25 6.00625 16.5 -.25 8
+4 0 16.5 -.25 -8 16.5 -.25 8 11.8575 -.25 6.00625 11.8575 -.25 -6.00625
+4 0 16.5 -.25 -8 11.8575 -.25 -6.00625 -11.8575 -.25 -6.00625 -16.5 -.25 -8
+4 0 -11.8575 -.25 6.00625 -16.5 -.25 8 -16.5 -.25 -8 -11.8575 -.25 -6.00625

@@ -1,0 +1,17 @@
+0 Minifig Torso with Female Outline with Red Ovals, Red and Yellow Amulet Pattern
+0 Name: 973pxw.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS bodysuit, Bricklink 973pb2838, Raven, Set 71255
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973pxws01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\973pxws01.dat

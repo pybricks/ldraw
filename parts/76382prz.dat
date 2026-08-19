@@ -1,0 +1,19 @@
+0 Minifig Torso with Arms and Hands with SW Female Shirt, Blue Belt and Red Buckle Pattern
+0 Name: 76382prz.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Shortcut UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb3487c01, Episode I, Mini Upper Part No 4669, Mos Espa
+0 !KEYWORDS Padme, Padme Naberrie, Rebrickable 973c28h02pr4669, Set 75258
+0 !KEYWORDS Star Wars, Tatooine, The Phantom Menace
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973prz.dat
+1 1 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 1 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 78 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 78 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

@@ -1,0 +1,18 @@
+0 ~String Minifig Grip
+0 Name: 76065k01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part Flexible_Section UPDATE 2024-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+
+0 !HISTORY 2023-03-29 [MagFors] Original by Steve Bliss as 572c, reworked
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
+
+1 16 -9 0 0 0 1 0 1.5 0 0 0 0 1.5 4-4edge.dat
+1 16 9 0 0 0 1 0 1.5 0 0 0 0 1.5 4-4edge.dat
+1 16 -9 0 0 0 1 0 4 0 0 0 0 4 4-4disc.dat
+1 16 9 0 0 0 -1 0 4 0 0 0 0 -4 4-4disc.dat
+1 16 -9 0 0 0 18 0 4 0 0 0 0 4 4-4cylo.dat

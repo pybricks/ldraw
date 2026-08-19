@@ -1,0 +1,46 @@
+0 Logo Train 1991
+0 Name: logo-train-1991.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Primitive UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2004-11-06 [PTadmin] Official Update 2004-04
+0 !HISTORY 2007-09-10 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [DeannaEarley] BFC'd and tidied (2005-11-15)
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2012-06-30 [MMR1988] Redesigned
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2020-11-09 [UR] Minor Dimensional Adjustments (1200 dpi scan)
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+0 !HISTORY 2024-09-01 [Holly-Wood] Converted into prim
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 0 0 4 0 1 0 -4 0 0 3-16chrd.dat
+1 16 0 0 0 0 0 -4 0 1 0 -4 0 0 3-16chrd.dat
+1 16 0 0 0 0 0 4 0 1 0 4 0 0 3-16chrd.dat
+1 16 0 0 0 0 0 -4 0 1 0 4 0 0 3-16chrd.dat
+1 16 0 0 0 2.25 0 0 0 1 0 0 0 2.25 4-4ndis.dat
+1 16 0 0 0 .8 0 0 0 1 0 0 0 -.8 4-4disc.dat
+3 16 2.25 0 2.25 0 0 4 -2.25 0 2.25
+3 16 0 0 4 2.25 0 2.25 3.6956 0 1.5308
+4 16 3.88 0 -.95 3.88 0 .95 2.25 0 2.25 2.25 0 -2.25
+3 16 -2.25 0 2.25 0 0 4 -3.6956 0 1.5308
+3 16 3.6956 0 -1.5308 2.25 0 -2.25 0 0 -4
+3 16 0 0 -4 2.25 0 -2.25 -2.25 0 -2.25
+3 16 -2.25 0 -2.25 -3.6956 0 -1.5308 0 0 -4
+4 16 -3.88 0 -.95 -2.25 0 -2.25 -2.25 0 2.25 -3.88 0 .95
+4 16 -6.8 0 .95 -4 0 4 -6.35 0 4 -10 0 0
+4 16 -10 0 0 -6.35 0 -4 -4 0 -4 -6.8 0 -.95
+4 16 -3.88 0 .95 -6.8 0 .95 -6.8 0 -.95 -3.88 0 -.95
+3 16 -6.8 0 -.95 -6.8 0 .95 -10 0 0
+3 16 6.8 0 .95 6.8 0 -.95 10 0 0
+4 16 6.35 0 4 4 0 4 6.8 0 .95 10 0 0
+4 16 10 0 0 6.8 0 -.95 4 0 -4 6.35 0 -4
+4 16 6.8 0 .95 3.88 0 .95 3.88 0 -.95 6.8 0 -.95
+3 16 3.6956 0 1.5308 2.25 0 2.25 3.88 0 .95
+3 16 -2.25 0 -2.25 -3.88 0 -.95 -3.6956 0 -1.5308
+3 16 -3.88 0 .95 -2.25 0 2.25 -3.6956 0 1.5308
+3 16 3.88 0 -.95 2.25 0 -2.25 3.6956 0 -1.5308

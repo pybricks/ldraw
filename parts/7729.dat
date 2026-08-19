@@ -1,0 +1,21 @@
+0 Brick  1 x  1 x  1.667 with Studs on 3 Sides
+0 Name: 7729.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2025-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-10-27 [OrionP] Official Update 2025-10
+
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 stud.dat
+1 16 0 40 0 10 0 0 0 -40 0 0 0 10 box5.dat
+0 BFC INVERTNEXT
+1 16 0 40 0 6 0 0 0 -36 0 0 0 6 box5.dat
+1 16 10 20 0 0 -1 0 1 0 0 0 0 1 stug2-1x2.dat
+1 16 0 20 -10 0 0 1 1 0 0 0 1 0 stug2-1x2.dat
+1 16 -10 20 0 0 1 0 1 0 0 0 0 -1 stug2-1x2.dat
+4 16 6 40 6 10 40 10 10 40 -10 6 40 -6
+4 16 -6 40 6 -10 40 10 10 40 10 6 40 6
+4 16 -6 40 -6 -10 40 -10 -10 40 10 -6 40 6
+4 16 6 40 -6 10 40 -10 -10 40 -10 -6 40 -6

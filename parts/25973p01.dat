@@ -1,0 +1,26 @@
+0 Minifig Headdress Bald Head with Tied Red Bandana Pattern
+0 Name: 25973p01.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Part UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 25973pb01, Brickowl 146343, Brickset 27991, CMF
+0 !KEYWORDS Collectible Minifigures, Rebrickable 25973pr0022, Scallywag Pirate
+0 !KEYWORDS Series 16, Set 71013
+
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+0 // Bandana
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\25973s01.dat
+
+0 // Bald head
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\25973s02.dat
+
+0 // Patternable area
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\25973s03.dat
+
+0 // Inside
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\25973s04.dat

@@ -1,0 +1,24 @@
+0 Sticker  1.5 x  1.8 with White "TEAM 5" on Black Background
+0 Name: 821437g.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Part UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP For B-Model:
+0 !HELP Place on 4286.dat at 0 10 -30 1 0 0 0 .89443 -.44721 0 .44721 .89443
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 5581stk01, Brickowl 997456, Catamaran, Dragster
+0 !KEYWORDS Magic Flash, Model Team, Rebrickable 821437, Set 5581, Speedboat
+0 !KEYWORDS stamp
+
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+0 // Sticker Back
+1 16 0 -.25 0 15.2 0 0 0 .25 0 0 0 18.08 box5-12.dat
+
+0 // Text Sub-Files
+0 BFC NOCLIP
+1 15 0 0 0 .8 0 0 0 1 0 0 0 .8 s\821437fs01.dat
+1 0 0 0 0 .8 0 0 0 1 0 0 0 .8 s\821437fs02.dat

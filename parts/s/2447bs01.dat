@@ -1,0 +1,14 @@
+0 ~Minifig Helmet Visor Standard without Front Surface
+0 Name: s\2447bs01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Subpart UPDATE 2024-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2447bs02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2447bs02.dat
+5 24 0 12.245 -19.488 0 -4.875 -19.488 4.413 -4.875 -18.907 -4.413 12.034 -18.907
+5 24 0 -4.875 -17 0 11.34 -17 3.769 -4.875 -16.504 -3.769 11.159 -16.504

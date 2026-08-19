@@ -1,0 +1,24 @@
+0 Tile  1 x  1 Round with Black Dot and Circle of Small Black Dots Pattern
+0 Name: 98138p3f.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Arcade Machine, Bricklink 98138pb459, Brickowl 579360
+0 !KEYWORDS Brickset 114183, City, Connection Flange, Moon Rocket
+0 !KEYWORDS Rebrickable 98138pr0443, Set 21367, Set 40805, Tintin, Wheel Hub
+
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s02.dat
+1 16 0 0 0 10 0 0 0 1 0 0 0 10 4-4ering.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138p3fs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\98138p3fs01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\98138p3fs01.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\98138p3fs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\98138p3fs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\98138p3fs01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\98138p3fs01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\98138p3fs01.dat

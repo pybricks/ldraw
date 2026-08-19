@@ -1,0 +1,21 @@
+0 Minifig Hair Mid-Length Scraggly with Dual Mould Reddish Brown Floppy Witch Hat
+0 Name: 20606p04.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Part UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 20606pb04, Brickowl 229499, Colour Combination
+0 !KEYWORDS Daily Prophet Photographer, Friends, Harry Potter
+0 !KEYWORDS Rebrickable 20606pr0004, Set 41714, Set 75978
+
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+0 // Hat
+1 70 0 0 0 1 0 0 0 1 0 0 0 1 s\20606s01.dat
+0 // Hair
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20606s02.dat
+0 // Patternable area
+1 70 0 0 0 1 0 0 0 1 0 0 0 1 s\20606s03.dat

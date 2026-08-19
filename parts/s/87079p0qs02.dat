@@ -1,0 +1,30 @@
+0 ~Flower Petal with 4 Leaves - Outline and Flower Pot
+0 Name: s\87079p0qs02.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Subpart UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+0 // Flower Outline
+1 16 0 0 2 .5 0 0 0 1 0 0 0 .5 2-4ring3.dat
+1 16 2 0 0 0 0 .5 0 1 0 -.5 0 0 2-4ring3.dat
+1 16 0 0 -2 -.5 0 0 0 1 0 0 0 -.5 2-4ring3.dat
+1 16 -2 0 0 0 0 -.5 0 1 0 .5 0 0 2-4ring3.dat
+4 16 -2 0 -2 -1.5 0 -2 -1.5 0 -1.5 -2 0 -1.5
+4 16 -1.5 0 2 -2 0 2 -2 0 1.5 -1.5 0 1.5
+4 16 2 0 2 1.5 0 2 1.5 0 1.5 2 0 1.5
+4 16 2 0 -1.5 1.5 0 -1.5 1.5 0 -2 2 0 -2
+
+0 // Flower Pot
+1 16 0 0 -9.5 -1 0 0 0 1 0 0 0 -1 2-4ndis.dat
+3 16 -3.1 0 -9 -1 0 -9.5 -1 0 -9
+3 16 1 0 -9.5 3.1 0 -9 1 0 -9
+3 16 0 0 -12.4 0 0 -10.5 -1 0 -10.5
+3 16 0 0 -12.4 -1 0 -10.5 -3.1 0 -9
+3 16 -3.1 0 -9 -1 0 -10.5 -1 0 -9.5
+3 16 1 0 -9.5 1 0 -10.5 3.1 0 -9
+3 16 0 0 -10.5 0 0 -12.4 1 0 -10.5
+3 16 1 0 -10.5 0 0 -12.4 3.1 0 -9

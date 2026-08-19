@@ -1,0 +1,19 @@
+0 Minifig Torso with Arms and Hands with Leather Jacket, Silver Snaps, Zipper and White Striped Shirt Pattern
+0 Name: 76382p0n.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Shortcut UPDATE 2024-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb2828c01, Brickowl 133983, Rebrickable 973c03h01pr4813
+0 !KEYWORDS Set 10273, Set 40448, Set 60234, Set 60305, Set 70607, Set 71741
+0 !KEYWORDS Set 80105
+
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973p0n.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 14 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 14 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

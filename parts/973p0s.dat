@@ -1,0 +1,18 @@
+0 Minifig Torso with Strapless Top with Light Nougat Neck Pattern
+0 Name: 973p0s.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb2430, Disney, Rebrickable 973c02h02pr3507, set 71040
+0 !KEYWORDS Tinker Bell
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973p0ss01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\973p0ss01.dat

@@ -1,0 +1,23 @@
+0 Door  1 x  3 x  6 with Gold Lattice, Flowers and Filigree Pattern
+0 Name: 80683p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2026-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 80683pb009, Brickowl 1222454, Brickset 110698, French Café
+0 !KEYWORDS Rebrickable 80683pr0003, Set 10362
+
+0 !HISTORY 2026-06-28 [OrionP] Official Update 2026-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80683s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80683p01s01.dat
+1 16 0 140 0 1 0 0 0 -1 0 0 0 1 s\80683p01s01.dat
+
+4 16 .1 13.23 -2 -3 10 -2 -3 130 -2 .1 126.77 -2
+4 16 1.51 113.44 -2 7.57 113.44 -2 7.57 26.56 -2 1.51 26.56 -2
+4 16 8.28 26.56 -2 8.28 113.44 -2 27.5 81.5 -2 27.5 58.5 -2
+0 BFC NOCLIP
+4 82 1.51 113.44 -2 1.51 26.56 -2 .1 13.23 -2 .1 126.77 -2
+4 82 7.57 26.56 -2 7.57 113.44 -2 8.28 113.44 -2 8.28 26.56 -2

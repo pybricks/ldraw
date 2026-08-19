@@ -1,0 +1,195 @@
+ldraw.org Parts Update 2025-04
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Sun, 27 Apr 2025 06:57:28 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 312
+   New files: 189
+   New Parts: 129
+   New Subparts: 50
+   New Primitives: 9
+   New 48 Segment Primitives: 1
+
+Moved Parts
+   451.dat                    ~Moved to 451b
+   4865d02.dat                ~Moved to 4865ad09
+   4073.dat                   ~Moved to 6141
+
+Renamed Parts
+   s\43722s01.dat             ~Wing  2 x  3 Right without Studs
+   changed to    ~Wing  2 x  3 Right without Studs and Top Face
+   30185c01.dat               Window Bay  3 x  8 x  6 with TransBlack Glass
+   changed to    Window Bay  3 x  8 x  6 with Trans Brown Glass
+   6060.dat                   Arch  1 x  6 x  3 & 1/3 with Curved Top
+   changed to    Arch  1 x  6 x  3.333 with Curved Top and Two Studs
+   98138py0.dat               Tile  1 x  1 Round with Black Disc Pattern
+   changed to    Tile  1 x  1 Round with Small Black Disc Pattern
+   87079p0e.dat               Tile  2 x  4 with '60 years' Pattern
+   changed to    Tile  2 x  4 with "60 years" Pattern
+   87079p01.dat               Tile  2 x  4 with Groove with Japanese "Dragon God" Pattern
+   changed to    Tile  2 x  4 with Japanese "Dragon God" Pattern
+   87079pt7.dat               Tile  2 x  4 with Dark Green '93' and '10-295' License Plate Pattern
+   changed to    Tile  2 x  4 with Dark Green "93" and "10-295" License Plate Pattern
+   87079pt6.dat               Tile  2 x  4 with Black 'P51AK3' and 'NEW YORK' License Plate Pattern
+   changed to    Tile  2 x  4 with Black "P51AK3" and "NEW YORK" License Plate Pattern
+   87079pt3.dat               Tile  2 x  4 with Groove and "10277 Ce6/8" Pattern
+   changed to    Tile  2 x  4 with Gold "10277" and Yellow "Ce 6/8" with 6 Rivets Pattern
+   s\973p05a.dat              ~Minifig Torso with Six Button Suit and Anchor Pattern - Gold
+   changed to    ~Obsolete file
+   s\973psb1.dat              ~Minifig Torso - SW Blast Armour Detail - 1/2
+   changed to    ~Obsolete file
+   15068dy6.dat               Slope Brick Curved  2 x  2 with Grey Air Vents on Black Background Right Sticker
+   changed to    Slope Brick Curved  2 x  2 x  0.667 with Grey Air Vents on Black Background Right Sticker
+   15068dy5.dat               Slope Brick Curved  2 x  2 with Grey Air Vents on Black Background Left Sticker
+   changed to    Slope Brick Curved  2 x  2 x  0.667 with Grey Air Vents on Black Background Left Sticker
+   15068dy7.dat               Slope Brick Curved  2 x  2 with Taillamp on Blue Background Left Sticker
+   changed to    Slope Brick Curved  2 x  2 x  0.667 with Taillamp on Blue Background Left Sticker
+   15068dy8.dat               Slope Brick Curved  2 x  2 with Taillamp on Blue Background Right Sticker
+   changed to    Slope Brick Curved  2 x  2 x  0.667 with Taillamp on Blue Background Right Sticker
+   15068dyc.dat               Slope Brick Curved  2 x  2 with Grey Air Vent and Red Taillamp on Black Background Right Sticker
+   changed to    Slope Brick Curved  2 x  2 x  0.667 with Grey Air Vent and Red Taillamp on Black Background Right Sticker
+   15068dye.dat               Slope Brick Curved  2 x  2 with Grey Air Vent and Red Taillamp on Black Background Left Sticker
+   changed to    Slope Brick Curved  2 x  2 x  0.667 with Grey Air Vent and Red Taillamp on Black Background Left Sticker
+   15068dym.dat               Slope Brick Curved  2 x  2 with Red Number '1' on Blue Panel on Yellow Background Sticker
+   changed to    Slope Brick Curved  2 x  2 x  0.667 with Red Number '1' on Blue Panel on Yellow Background Sticker
+   15068dyn.dat               Slope Brick Curved  2 x  2 with White 911 in Red Square on White Background Sticker
+   changed to    Slope Brick Curved  2 x  2 x  0.667 with White 911 in Red Square on White Background Sticker
+   6045898d.dat               Sticker  1.1 x  4.0 with SW X-wing Starfighter Cockpit - Rear
+   changed to    Sticker  1.1 x  4.0 with SW X-wing Starfighter Cockpit Rear
+   15068px1.dat               Slope Brick Curved  2 x  2 x  0.667 Metallic Silver Fancy Scroll and Heart Shaped Paw Pattern
+   changed to    Slope Brick Curved  2 x  2 x  0.667 with Metallic Silver Fancy Scroll and Heart Shaped Paw Pattern
+   41861.dat                  ~Motor Pull Back  2 x  6 Base
+   changed to    ~=Motor Pull Back  2 x  6 Base
+   30124.dat                  ~Minifig Helmet Modern (Obsolete)
+   changed to    ~=Minifig Helmet Modern (Obsolete)
+   15556.dat                  ~Minifig Lightsaber Hilt without Bottom Ring (Obsolete)
+   changed to    ~=Minifig Lightsaber Hilt without Bottom Ring (Obsolete)
+   32643.dat                  Energy Effect Blast with Bar
+   changed to    Power Burst Energy Effect with Bar
+   s\76797s01.dat             ~Brick  3 x  3 x  1 Quarter Circle with Curved Top - Half
+   changed to    ~Brick  3 x  3 x  1 Quarter Circle with Curved Top without Patternable Surfaces
+   76797.dat                  Brick  3 x  3 x  1 Quarter Circle with Curved Top
+   changed to    Brick 3 x 3 x 1 Quarter Circle with Curved Top
+   3004d02.dat                Brick  1 x  2 with White "211B WESTMINISTER" on Black Background Sticker
+   changed to    Brick  1 x  2 with White "211B WESTMINSTER" on Black Background Sticker
+   6152075b.dat               Sticker  1.0 x  1.7 with  White "211B WESTMINISTER" on Black Background
+   changed to    Sticker  1.0 x  1.7 with  White "211B WESTMINSTER" on Black Background
+   2336p90.dat                Wedge  2 x  3 with Brick  2 x  4 with Classic Space Logo Pattern
+   changed to    Wedge  2 x  3 with Brick  2 x  4 Side Studs and Plate  2 x  2 with Classic Space Logo Pattern
+   2336p35.dat                Wedge  2 x  3 with Brick  2 x  4 with Black/Silver "V" Pattern
+   changed to    Wedge  2 x  3 with Brick  2 x  4 Side Studs and Plate  2 x  2 with Black/Silver "V" Pattern
+   2336p36.dat                Wedge  2 x  3 with Brick  2 x  4 with Red/Silver "V" Pattern
+   changed to    Wedge  2 x  3 with Brick  2 x  4 Side Studs and Plate  2 x  2 with Red/Silver "V" Pattern
+   87079pz0.dat               Tile  2 x  4 with Groove with Brickheadz Series Number "1" Pattern
+   changed to    Tile  2 x  4 with Brickheadz Series Number "1" Pattern
+   87079p0j.dat               Tile  2 x  4 with Groove with Red "SYSTEM TM" Pattern
+   changed to    Tile  2 x  4 with Red "SYSTEM TM" Pattern
+   87079p0l.dat               Tile  2 x  4 with Groove with Three Dark Bluish Grey Stripes and Red "SELECT START" Pattern
+   changed to    Tile  2 x  4 with Three Dark Bluish Grey Stripes and Red "SELECT START" Pattern
+   87079p0k.dat               Tile  2 x  4 with Groove with Red "Nintendo" Pattern
+   changed to    Tile  2 x  4 with Red "Nintendo" Pattern
+   64991.dat                  Sheet Fabric 28 x 17 Trapezoidal Sail
+   changed to    Sail 28 x 17 Trapezoidal
+   64991c03.dat               Sheet Fabric 28 x 17 Trapezoidal Sail (Formed Shape 3)
+   changed to    Sail 28 x 17 Trapezoidal (Formed Shape 3)
+   64991c02.dat               Sheet Fabric 28 x 17 Trapezoidal Sail (Formed Shape 2)
+   changed to    Sail 28 x 17 Trapezoidal (Formed Shape 2)
+   64991c01.dat               Sheet Fabric 28 x 17 Trapezoidal Sail (Formed Shape 1)
+   changed to    Sail 28 x 17 Trapezoidal (Formed Shape 1)
+   85651.dat                  Sheet Fabric 17 x 21 Triangular Sail
+   changed to    Sail 17 x 21 Triangular
+   s\87079s01.dat             ~Tile  2 x  4 with Groove without Top
+   changed to    ~Tile  2 x  4 without Top Surface
+   87079.dat                  Tile  2 x  4 with Groove
+   changed to    Tile  2 x  4
+   96714c01.dat               Sheet Fabric 17.5 x 12.5 Trapezoidal Sail (Formed)
+   changed to    Sail 17.5 x 12.5 Trapezoidal (Formed)
+   96714.dat                  Sheet Fabric 17.5 x 12.5 Trapezoidal Sail
+   changed to    Sail 17.5 x 12.5 Trapezoidal
+   85651c02.dat               Sheet Fabric 17 x 21 Triangular Sail (Formed Shape 2)
+   changed to    Sail 17 x 21 Triangular (Formed Shape 2)
+   85651c01.dat               Sheet Fabric 17 x 21 Triangular Sail (Formed Shape 1)
+   changed to    Sail 17 x 21 Triangular (Formed Shape 1)
+   4410.dat                   Tyre 44 x 32 / 56 Smooth Racing
+   changed to    Tyre 44/ 30 x 56 Smooth Racing
+
+Other Fixed Parts
+   41532.dat                  Hinge Arm Locking with Single Finger and Friction Pin
+   43722.dat                  Wing  2 x  3 Right
+   43723.dat                  Wing  2 x  3 Left
+   3626bpc44.dat              Minifig Head with Open Smiling Mouth, Teeth and Tounge Pattern
+   3626bpb7.dat               Minifig Head with Monocle and Black Slanted Eyebrows Pattern
+   3626bpb6.dat               Minifig Head with Mask Purple with Eyeholes and Smile Pattern
+   3626bpb3.dat               Minifig Head with Wide Smile, Red Lips and Crow's Feet Pattern
+   3626bpb2.dat               Minifig Head with Mask Br.Green with Eyeholes and Smile Pattern
+   821410a.dat                Sticker  3.5 x  3.5 with White/Clear Stripes
+   2387.dat                   Technic Panel Fairing Smooth #7 (Thin Very Short)
+   4448d01.dat                Glass for Window  4 x  4 x  3 Roof with White Stripes Sticker
+   4034.dat                   Glass for Train Window  1 x  4 x  3
+   3938.dat                   Hinge  1 x  2 Top
+   6134.dat                   Hinge  2 x  2 Top
+   3626cpm3.dat               Minifig Head with LOTR Tired / Poisoned 2-Sided Pattern
+   004158e.dat                Sticker  2.4 x  3 with Switzerland Flag
+   003432d.dat                Sticker  2.4 x  3 with Sweden Flag
+   003432b.dat                Sticker  2.4 x  3 with Finland Flag
+   003432c.dat                Sticker  2.4 x  3 with Denmark Flag
+   004158b.dat                Sticker  2.4 x  3 with The Netherlands Flag
+   004158d.dat                Sticker  2.4 x  3 with Austria Flag
+   003432f.dat                Sticker  2.4 x  3.0 with Lego Logo with Closed "O"
+   004158c.dat                Sticker  2.4 x  3 with United Kingdom Flag
+   004158a.dat                Sticker  2.4 x  3 with Germany Flag
+   003432e.dat                Sticker  2.4 x  3 with Iceland Flag
+   004158f.dat                Sticker  2.4 x  3 with Italy Flag
+   004159e.dat                Sticker  2.4 x  3 with United States Flag
+   004159d.dat                Sticker  2.4 x  3 with Japan Flag
+   004159f.dat                =Sticker  2.4 x  3.0 with Lego Logo with Closed "O"
+   004159h.dat                Sticker  2.4 x  3 with United States Flag (Mirrored)
+   004219a.dat                Sticker  2.4 x  3 with Ireland Flag
+   004219b.dat                Sticker  2.4 x  3 with Australia Flag
+   004219c.dat                Sticker  2.4 x  3 with Canada Flag
+   87079p0a.dat               Tile  2 x  4 with Tire Half with "Jo's Garage" and "BY ACCIDENT WE MEET" Pattern
+   87079p0f.dat               Tile  2 x  4 with White Stripe Pattern
+   87079p0d.dat               Tile  2 x  4 with  2 Black Stripes and Vent Grille Pattern
+   87079p0c.dat               Tile  2 x  4 with  2 Black Stripes Pattern
+   87079p0b.dat               Tile  2 x  4 with Dark Blue Stripe Pattern
+   87079p09.dat               Tile  2 x  4 with Warning Triangle and Minifigure Head with Construction Helmet Pattern
+   87079p07.dat               Tile  2 x  4 with "Chez Albert Restaurant" Pattern
+   87079p06.dat               Tile  2 x  4 with "Colibri thalassinus" Pattern
+   87079p05.dat               Tile  2 x  4 with "Cyanocitta cristata" Pattern
+   87079p04.dat               Tile  2 x  4 with "Erithacus rubecula" Pattern
+   87079p03.dat               Tile  2 x  4 with Orange Triangle Top Right Pattern
+   87079p02.dat               Tile  2 x  4 with Orange Triangle Top Left Pattern
+   87079pza.dat               Tile  2 x  4 with 10 Yellow Rectangles Pattern
+   87079pz8.dat               Tile  2 x  4 with Black Spider Web Pattern
+   87079pz4.dat               Tile  2 x  4 with Brickheadz Seasonal Calendar Pattern
+   87079pta.dat               Tile  2 x  4 with Gold "El Cubo Fine Art" Pattern
+   87079pt4.dat               Tile  2 x  4 with "Andy Warhol" Signature Pattern
+   87079pt2.dat               Tile  2 x  4 with Metallic Gold "BIRCH" Pattern
+   87079pt1.dat               Tile  2 x  4 with Metallic Gold "BOOKS" Pattern
+   87079pt0.dat               Tile  2 x  4 with Silver "7" and Grille Lines Pattern
+   87079pm0.dat               Tile  2 x  4 with Tan Scroll and House in Clouds Pattern
+   s\973py8s01.dat            ~Minifig Torso with Race Suit with Porsche Logos, Dark Red Crosses and Dots and Black Stripes Pattern - Outerbox for Logo Unscaled
+   3067apt1.dat               Brick  1 x  6 without Centre Studs with Red "Shell" on White Background Pattern
+   3066p01.dat                Brick  1 x  4 without Centre Studs with LEGO Logo Open "O" on Red Background Pattern
+   3067ap14.dat               Brick  1 x  6 without Centre Studs with Thick Yellow/Dark Azure "HOTEL" Pattern
+   192685ac01.dat             Sticker Funnel Black with White Stripe and "S" Logo (Formed for Slope Brick 75   2 x  2 x  3)
+   192685a.dat                Sticker Funnel  4.1 x  6.3 Black with White Stripe and "S" Logo
+   192685bc01.dat             Sticker Funnel Black with White Stripes (Formed for Slope Brick 75  2 x  2 x  3)
+   192685b.dat                Sticker Funnel  4.1 x  6.3 Black with White Stripes
+   192685f.dat                Sticker  1.2 x  1 with 4 Light Blue Squares
+   192685h.dat                Sticker  2.0 x  6.0 with 2 Hollow Black Squares
+   192685d.dat                Sticker  1.0 x  2.0 Black
+   192685c.dat                Sticker  2 x  3.6 Black
+   u9494c02.dat               Sail 27 x 17 Trapezoidal (Formed Shape 2)
+   u9494c01.dat               Sail 27 x 17 Trapezoidal (Formed Shape 1)
+   u9494.dat                  Sail 27 x 17 Trapezoidal
+   s\10312ps1s01.dat          ~Windscreen  6 x 10 x  3 with  1 x  2 x  1 Cutout - Ovoid with SW B-Wing Cockpit Pattern - Half
+   10312ps1.dat               Windscreen  6 x 10 x  3 with  1 x  2 x  1 Cutout - Ovoid with SW B-Wing Cockpit Pattern
+   19212p01.dat               Windscreen  1 x 12 x  4 Trapezoidal with Red Stripes Pattern
+
+Minor Edits
+   7742 Parts with minor administrative edits and/or license changes

@@ -1,0 +1,19 @@
+0 Windscreen  6 x  4 x  1.333 Sloped with Energy Spikes on Blue Background Pattern
+0 Name: 3384p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3384pb05, Brickowl 296999, Brickset 114634, deflector
+0 !KEYWORDS Hyperdrive, Rebrickable 3384pr0010, Set 10356, Star Trek
+0 !KEYWORDS U.S.S. Enterprise NCC-1701-D
+
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3384s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3384p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3384p01s01.dat
+1 16 0 0 -30 -20 0 0 0 1 0 0 0 -20 48\2-4chrd.dat
+4 16 -20 0 10 -20 0 -30 20 0 -30 20 0 10

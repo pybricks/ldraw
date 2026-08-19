@@ -1,0 +1,16 @@
+0 Tile  1 x  2 with Black Chevron Pattern
+0 Name: 3069bpsb.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3069pb0009, Rebrickable 3069bpr0064, Set 7153, Slave
+0 !KEYWORDS Star Wars
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3069bpsbs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3069bpsbs01.dat

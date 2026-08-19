@@ -1,0 +1,17 @@
+0 Dish  4 x  4 Inverted with Two Tan Swirls Pattern
+0 Name: 3960p0l.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 3960pb081, Rebrickable 3960pr0060, Set 40788, shell, Snail
+0 !KEYWORDS Spiral
+
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960p0ls01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3960p0ls01.dat

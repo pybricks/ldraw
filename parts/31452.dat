@@ -1,0 +1,18 @@
+0 Duplo Ball Tube Straight
+0 Name: 31452.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\31452s01.dat
+
+0 BFC INVERTNEXT
+1 16 0 0 0 66 0 0 0 0 66 0 120 0 48\4-4cyli.dat
+1 16 0 0 3 2 0 0 0 0 2 0 112 0 48\4-4con35.dat
+
+1 16 0 0 120 1 0 0 0 1 0 0 0 1 s\31452s03.dat

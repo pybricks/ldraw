@@ -1,0 +1,22 @@
+0 ~Sticker  0.8 x  1.9 with Dark Grey Lines on White Background Back Right - Third Face
+0 Name: s\6148328aps03.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+
+0 // Primitives
+1 15 2.85 -.25 2.0883 1.5 0 0 0 1 0 0 0 1.5 1-4chrd.dat
+1 72 2.85 -.25 2.0883 1.5 0 0 0 1 0 0 0 1.5 1-4ndis.dat
+0 // Dark grey faces
+3 72 2.85 -.25 3.5883 -8 -.25 7.2284 -8 -.25 3.5883
+4 72 2.85 -.25 3.5883 4.35 -.25 3.5883 8 -.25 7.2284 -8 -.25 7.2284
+4 72 4.35 -.25 2.0883 8 -.25 -.0128 8 -.25 7.2284 4.35 -.25 3.5883
+3 72 4.35 -.25 2.0883 4.35 -.25 -.0128 8 -.25 -.0128
+0 // White faces
+4 15 4.35 -.25 2.0883 2.85 -.25 3.5883 -8 -.25 3.5883 -8 -.25 -.0128
+3 15 4.35 -.25 2.0883 -8 -.25 -.0128 4.35 -.25 -.0128

@@ -1,0 +1,21 @@
+0 Minifig Head Muppet Pig (Miss Piggy) with Lavender Eye Shadow and Bright Light Yellow Hair Pattern
+0 Name: 84860p01.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Part UPDATE 2024-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 84860pb01, Brickowl 120398, CMF, Collectible Minifigures
+0 !KEYWORDS Rebrickable 84860pr0001, set 71033, The Muppets
+
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\84860s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\84860p01s02.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\84860s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\84860s03.dat
+
+1 226 0 0 0 1 0 0 0 1 0 0 0 1 s\84860s04.dat

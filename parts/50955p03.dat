@@ -1,0 +1,17 @@
+0 Wedge 10 x  3 x  1 Double Rounded Left with Black 'Concorde' and Red Triangle Pattern
+0 Name: 50955p03.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2024-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Aérospatiale-BAC, Air France, Bricklink 50955pb054, Brickowl 776529
+0 !KEYWORDS British Airways, Rebrickable 50955pr0003, Set 10318, Supersonic
+
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
+
+1 16 0 0 40 -1 0 0 0 1 0 0 0 1 s\50956s02.dat
+1 16 0 0 -10 0 0 -1 0 1 0 1 0 0 stug-1x2.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\50956p03s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\50955p03s02.dat

@@ -1,0 +1,38 @@
+0 ~Duplo Cake with Stud on Top - without Topside Surfaces
+0 Name: s\65157s01.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Subpart UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 2.75 0 0 0 1 stud7a.dat
+1 16 0 0 0 12 0 0 0 1 0 0 0 12 4-4edge.dat
+
+1 16 0 0 0 43.56 0 0 0 1 0 0 0 43.56 48\4-4edge.dat
+1 16 0 48 0 44.55 0 0 0 1 0 0 0 44.55 48\4-4edge.dat
+1 16 0 48 0 14 0 0 0 1 0 0 0 14 48\4-4ring3.dat
+1 16 0 48 0 56 0 0 0 12 0 0 0 56 48\4-4cylo.dat
+1 16 0 60 0 56 0 0 0 1 0 0 0 56 48\4-4edge.dat
+1 16 0 60 0 4 0 0 0 -1 0 0 0 4 48\4-4ring13.dat
+0 BFC INVERTNEXT
+1 16 0 52 0 52 0 0 0 8 0 0 0 52 48\4-4cylo.dat
+1 16 0 52 0 11 0 0 0 -1 0 0 0 11 48\4-4ring4.dat
+
+1 16 0 4 0 9 0 0 0 -1 0 0 0 9 4-4ndis.dat
+
+0 BFC INVERTNEXT
+1 16 0 4 0 40.3 0 0 0 68 0 0 0 40.3 48\4-4cylo.dat
+1 16 0 72 0 4.03 0 0 0 -1 0 0 0 4.03 48\4-4ring10.dat
+1 16 0 72 0 44.33 0 0 0 -20 0 0 0 44.33 48\4-4cylo.dat
+1 16 0 4 0 -1 0 0 0 -17 0 0 0 1 stud8.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65157s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\65157s02.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\65157s02.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\65157s02.dat
+
+4 16 -3.4443 0 3.4443 -3.4443 0 -3.4443 3.4443 0 -3.4443 3.4443 0 3.4443
+4 16 3.4443 4 -3.4443 -3.4443 4 -3.4443 -3.4443 4 3.4443 3.4443 4 3.4443

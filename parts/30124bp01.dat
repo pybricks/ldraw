@@ -1,0 +1,22 @@
+0 Minifig Helmet Standard with 1 Red and 2 Green Stripes Pattern
+0 Name: 30124bp01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2024-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP place visor at y= 8 z= 0.7
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 2446px1, Brickowl 862599, Octan Race Team
+0 !KEYWORDS Rebrickable 2446pr0028, set 4002, Set 6335, set 6337
+
+0 !HISTORY 2024-07-26 [MagFors] Original pattern made as 2446p01 by Damien Roux
+0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30124bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30124bp01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30124bp01s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30124bs05.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30124bs05.dat

@@ -1,0 +1,32 @@
+0 ~Electric  4.5V  3 C-Cell Battery Box Polarity Switch  2 x  4 Lever
+0 Name: 4354.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Part UPDATE 2024-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
+
+
+1 16 0 -42 0 20 0 0 0 2 0 0 0 20 box4.dat
+1 16 0 -42 0 6 0 0 0 1 0 0 0 6 4-4ndis.dat
+4 16 -6 -42 6 6 -42 6 20 -42 20 -20 -42 20
+4 16 -6 -42 -6 -6 -42 6 -20 -42 20 -20 -42 -20
+4 16 6 -42 -6 -6 -42 -6 -20 -42 -20 20 -42 -20
+4 16 6 -42 6 6 -42 -6 20 -42 -20 20 -42 20
+1 16 0 -42 0 0 0 1 0 1 0 -1 0 0 stug2-2x2.dat
+1 16 0 -42 0 1 0 0 0 1 0 0 0 1 axl5ho10.dat
+1 16 0 -42 0 1 0 0 0 16 0 0 0 1 axl5hol8.dat
+1 16 0 -42 0 1 0 0 0 1 0 0 0 1 axl5hol9.dat
+1 16 0 -42 0 1 0 0 0 1 0 0 0 1 axlehol2.dat
+1 16 0 -26 0 1 0 0 0 1 0 0 0 1 axl5hol9.dat
+1 16 0 -26 0 1 0 0 0 1 0 0 0 1 axlehol2.dat
+1 16 0 -26 0 1 0 0 0 1 0 0 0 1 axl5end.dat
+1 16 0 -40 0 8 0 0 0 -1 0 0 0 8 4-4ndis.dat
+4 16 20 -40 20 8 -40 8 -8 -40 8 -20 -40 20
+4 16 -20 -40 20 -8 -40 8 -8 -40 -8 -20 -40 -20
+4 16 -20 -40 -20 -8 -40 -8 8 -40 -8 20 -40 -20
+4 16 20 -40 -20 8 -40 -8 8 -40 8 20 -40 20
+1 16 0 -24 0 8 0 0 0 -16 0 0 0 8 4-4cylc.dat
+1 16 0 -24 0 7.3912 0 0 0 40 0 0 0 3.0616 box5.dat

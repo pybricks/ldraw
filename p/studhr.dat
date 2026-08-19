@@ -1,0 +1,14 @@
+0 Stud with Hole at Outer Edge with LEGO Logo - Right
+0 Name: studhr.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Primitive UPDATE 2025-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Logo can be added with:
+0 !HELP 1 16 0 -4 0 0 0 .8 0 1 0 -.8 0 0 logo2.dat
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-01-20 [OrionP] Official Update 2025-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 studh.dat

@@ -1,0 +1,18 @@
+0 Sticker  2.0 x  6.3 with Launch Command Logo, Blue V and Red Lines and Number "2" Right Side
+0 Name: 169665d.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Part UPDATE 2026-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP place on back 2582.dat at -15 61.5 -30
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 6339stk01, Brickowl 588738, Launch Command
+0 !KEYWORDS Rebrickable 169665, set 6339, Shuttle Launch Pad, space port, stamp
+0 !KEYWORDS town
+
+0 !HISTORY 2026-06-28 [OrionP] Official Update 2026-06
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\169665cs02.dat
+1 16 56.5 -.25 7.75 1 0 0 0 1 0 0 0 1 s\169665cs01.dat

@@ -1,0 +1,30 @@
+0 Tyre 13/ 75 x 56
+0 Name: 7860.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Part UPDATE 2026-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickowl 857316, Set 11376
+
+0 !HISTORY 2026-03-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-03-08 [jb70] File preparation for LDraw Parts Tracker
+0 !HISTORY 2026-03-31 [OrionP] Official Update 2026-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7860s03.dat
+1 16 0 0 0 0 -1 0 1 0 0 0 0 1 s\7860s03.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\7860s03.dat
+1 16 0 0 0 0 1 0 -1 0 0 0 0 1 s\7860s03.dat
+
+1 16 0 0 -12.5 5 0 0 0 0 5 0 1 0 48\4-4ring13.dat
+0 BFC INVERTNEXT
+1 16 0 0 -12.5 70 0 0 0 0 70 0 -3.75 0 48\4-4cylo.dat
+0 BFC INVERTNEXT
+1 16 0 0 -12.5 65 0 0 0 0 65 0 4.25 0 48\4-4cylo.dat
+
+1 16 0 0 12.5 5 0 0 0 0 5 0 -1 0 48\4-4ring13.dat
+0 BFC INVERTNEXT
+1 16 0 0 12.5 70 0 0 0 0 70 0 3.75 0 48\4-4cylo.dat
+0 BFC INVERTNEXT
+1 16 0 0 12.5 65 0 0 0 0 65 0 -4.25 0 48\4-4cylo.dat

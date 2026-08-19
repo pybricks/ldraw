@@ -1,0 +1,26 @@
+0 ~Wheel Rim 13 x 56 Spoke Quarter
+0 Name: s\7877s02.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Subpart UPDATE 2026-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2026-03-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-03-08 [jb70] File preparation for LDraw Parts Tracker
+0 !HISTORY 2026-03-31 [OrionP] Official Update 2026-03
+
+0 // Hub Lines
+2 24 1.531 -21.899 -3.696 0 -22 -4
+2 24 1.531 -21.899 -3.696 2.828 -21.814 -2.828
+2 24 2.828 -21.814 -2.828 2.871 -21.811 -2.765
+2 24 3.696 -21.647 -1.531 2.871 -21.811 -2.765
+2 24 4 -21.586 0 3.696 -21.647 -1.531
+
+0 // Outer Rim Connection
+1 16 0 -61.25 0 4 0 0 0 1.75 0 0 0 -4 t04o5000.dat
+2 24 5.376 -60.896 -2.227 5.778 -60.869 0
+2 24 2.27 -61.1 -5.481 0 -61.25 -6
+2 24 4.155 -60.976 -4.155 5.083 -60.915 -2.717
+2 24 5.376 -60.896 -2.227 5.083 -60.915 -2.717
+2 24 2.27 -61.1 -5.481 4.155 -60.976 -4.155

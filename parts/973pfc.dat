@@ -1,0 +1,31 @@
+0 Minifig Torso with Collar and Red Fleur-de-Lis Pattern
+0 Name: 973pfc.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb0066, Brickowl 26391, Castle, Fright Knights
+0 !KEYWORDS Mini Upper Part No 236, Set 6004, Set 6031, Set 6047, Set 6087
+0 !KEYWORDS Set 6097, Set 6099
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
+4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
+4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973pfcs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\973pfcs01.dat
+
+0 // Mid Sections
+4 0 2.85 31 -10 -2.85 31 -10 -17.5 31.5 -10 17.5 31.5 -10
+4 0 -10.902 1 -10 -4.551 1.5 -10 4.551 1.5 -10 10.902 1 -10
+3 16 4.551 1.5 -10 -4.551 1.5 -10 0 3 -10
+3 16 0 30.002 -10 -2.85 31 -10 2.85 31 -10
+4 16 12 0 -10 -12 0 -10 -10.902 1 -10 10.902 1 -10
+4 16 -17.5 31.5 -10 -19 32 -10 19 32 -10 17.5 31.5 -10

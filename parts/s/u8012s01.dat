@@ -1,0 +1,22 @@
+0 ~Offset Tab for Mursten Door and Windows
+0 Name: s\u8012s01.dat
+0 Author: N. W. Perry [Plastikean]
+0 !LDRAW_ORG Subpart UPDATE 2024-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
+
+
+1 16 0 0 0 0 0 4 7 0 0 0 2 0 box3u10p.dat
+4 16 4 7 0 4 -7 0 0 -11 0 0 11 0
+2 24 4 7 0 4 -7 0
+1 16 0 -7 0 4 0 0 0 0 -4 0 2 0 2-4cylo.dat
+1 16 0 -7 2 -4 0 0 0 0 -4 0 -1 0 2-4chrd.dat
+1 16 0 -7 0 4 0 0 0 0 -4 0 1 0 1-4chrd.dat
+1 16 0 -7 0 -4 0 0 0 0 -4 0 -1 0 1-4ndis.dat
+1 16 0 7 0 4 0 0 0 0 4 0 2 0 2-4cylo.dat
+1 16 0 7 2 -4 0 0 0 0 4 0 -1 0 2-4chrd.dat
+1 16 0 7 0 4 0 0 0 0 4 0 1 0 1-4chrd.dat
+1 16 0 7 0 -4 0 0 0 0 4 0 -1 0 1-4ndis.dat

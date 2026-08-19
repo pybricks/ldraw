@@ -1,0 +1,19 @@
+0 Animal Sea Turtle with Black Eyes and Medium Nougat Shell Pattern
+0 Name: 102285p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2026-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 102285pb01, Brickowl 1024357, Brickset 104100
+0 !KEYWORDS Rebrickable 102285pr0001, Set 60377
+
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
+
+1 84 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\102285s00.dat
+1 84 0 0 0 1 0 0 0 1 0 0 0 1 s\102285s02.dat
+1 84 0 0 0 -1 0 0 0 1 0 0 0 1 s\102285s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\102285p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\102285p01s01.dat

@@ -1,0 +1,22 @@
+0 ~Minifig Head Minion  2 x  2 x  1.667 with Black Mono-Goggles and Black Hair Pattern - Without Front
+0 Name: s\67649p01s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Subpart UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\67649s01.dat
+
+0 // Goggles
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\67649s02.dat
+
+0 // Head
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\67649p01s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\67649p01s02.dat
+
+5 24 7.6536 40 -18.4774 7.6538 22 -18.4777 10.0699 40 -16.8699 0 40 -20
+5 24 0 40 -20 0 22 -20 7.6536 40 -18.4774 -7.6539 40 -18.4778
+5 24 -7.6539 40 -18.4778 -7.654 22 -18.478 -10.07 40 -16.87 0 40 -20

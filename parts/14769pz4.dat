@@ -1,0 +1,41 @@
+0 Tile  2 x  2 Round with Centered Black Disc (8 LDU Diameter) Pattern
+0 Name: 14769pz4.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Part UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 14769pb711, Brickowl 537895, Brickset 109260
+0 !KEYWORDS Flat Tile 2x2 Round No 1319, Fortnite, pupil
+0 !KEYWORDS Rebrickable 14769pr9972, Set 77071, Supply Llama
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+0 !HISTORY 2025-10-28 [KnightOfTarenta] Changed Name to fit Similar Patterns
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+0 !HISTORY 2025-12-23 [MagFors] Update description
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
+0 !HISTORY 2025-12-25 [OrionP] Minor header edits
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
+0 !HISTORY 2026-01-29 [OrionP] Minor header edits
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769s01.dat
+1 0 0 0 0 4 0 0 0 1 0 0 0 4 4-4disc.dat
+1 16 0 0 0 4 0 0 0 1 0 0 0 4 4-4ndis.dat
+1 16 0 0 0 20 0 0 0 1 0 0 0 20 1-4chrd.dat
+1 16 0 0 0 0 0 -20 0 1 0 20 0 0 1-4chrd.dat
+1 16 0 0 0 -20 0 0 0 1 0 0 0 -20 1-4chrd.dat
+1 16 0 0 0 0 0 20 0 1 0 -20 0 0 1-4chrd.dat
+3 16 -4 0 -4 -20 0 0 0 0 -20
+3 16 0 0 20 4 0 4 20 0 0
+3 16 -20 0 0 -4 0 4 0 0 20
+3 16 0 0 20 -4 0 4 0 0 4
+3 16 0 0 20 0 0 4 4 0 4
+3 16 4 0 0 20 0 0 4 0 4
+3 16 20 0 0 4 0 0 4 0 -4
+3 16 20 0 0 4 0 -4 0 0 -20
+3 16 0 0 -20 4 0 -4 0 0 -4
+3 16 0 0 -20 0 0 -4 -4 0 -4
+3 16 -4 0 0 -20 0 0 -4 0 -4
+3 16 -20 0 0 -4 0 0 -4 0 4

@@ -1,0 +1,18 @@
+0 Figure Duplo Child Girl
+0 Name: 47510.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Shortcut UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 47205.dat
+1 16 0 -37 6 1 0 0 0 1 0 0 0 1 47207.dat
+1 16 0 -37 6 1 0 0 0 1 0 0 0 1 47204.dat
+1 16 0 -37 6 1 0 0 0 1 0 0 0 1 47203.dat
+1 16 0 -64 6.5 1 0 0 0 1 0 0 0 1 47198.dat
+1 16 0 -64 6.5 -1 0 0 0 1 0 0 0 -1 47198.dat
+1 16 0 -79 8 1 0 0 0 1 0 0 0 1 47206.dat
+1 16 0 -79 8 1 0 0 0 1 0 0 0 1 47200.dat

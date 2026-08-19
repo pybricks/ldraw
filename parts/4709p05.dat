@@ -1,0 +1,21 @@
+0 ~Electric Switch: Key Left with Left Rotating Arrow Pattern
+0 Name: 4709p05.dat
+0 Author: Javier Orquera [kuramapika1]
+0 !LDRAW_ORG Part UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP to put this part into a pressed-down state, rotate it 4.3 degrees
+0 !HELP around the x-axis
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Electric
+0 !KEYWORDS Set 4707pb05, switch, Train
+
+0 !HISTORY 2025-09-13 [kuramapika1] Adjusted to new primitive origin's
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4709s01.dat
+1 16 2.5 -5 0 1 0 0 0 1 0 0 0 1 s\4112p05s01.dat
+1 16 26.5 -6.25 -4.75 0 10 0 -.75 0 0 0 0 .5 box4-1.dat
+4 16 10.5 -23 -96 10.5 -23 -100 1.5 -23 -100 1.5 -23 -96

@@ -1,0 +1,38 @@
+0 Sticker  2 x  7 with Fire Station Logo and Rounded Corners
+0 Name: 192895d.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2024-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 6382stk02b, Fire axe, Fire helmet, Rebrickable 192895
+0 !KEYWORDS Set 6382, Sheet 2, Signboard, Version 2
+
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
+
+0 // Sticker box
+1 16 0 -.25 0 66 0 0 0 .25 0 0 0 20 box3u12.dat
+1 16 66 0 16 4 0 0 0 -1 0 0 0 4 1-4chrd.dat
+1 16 66 0 16 4 0 0 0 -.25 0 0 0 4 1-4cyli.dat
+1 16 -66 0 16 -4 0 0 0 -1 0 0 0 4 1-4chrd.dat
+1 16 -66 0 16 -4 0 0 0 -.25 0 0 0 4 1-4cyli.dat
+1 16 66 0 -16 4 0 0 0 -1 0 0 0 -4 1-4chrd.dat
+1 16 66 0 -16 4 0 0 0 -.25 0 0 0 -4 1-4cyli.dat
+1 16 -66 0 -16 -4 0 0 0 -1 0 0 0 -4 1-4chrd.dat
+1 16 -66 0 -16 -4 0 0 0 -.25 0 0 0 -4 1-4cyli.dat
+4 16 66 0 -20 66 0 20 70 0 16 70 0 -16
+4 16 70 -.25 16 70 -.25 -16 70 0 -16 70 0 16
+4 16 -70 0 16 -66 0 20 -66 0 -20 -70 0 -16
+4 16 -70 0 -16 -70 -.25 -16 -70 -.25 16 -70 0 16
+
+0 // Print
+1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 s\192895ds01.dat
+1 0 66 -.25 16 4 0 0 0 1 0 0 0 4 1-4chrd.dat
+1 0 -66 -.25 16 -4 0 0 0 1 0 0 0 4 1-4chrd.dat
+1 0 66 -.25 -16 4 0 0 0 1 0 0 0 -4 1-4chrd.dat
+1 0 -66 -.25 -16 -4 0 0 0 1 0 0 0 -4 1-4chrd.dat
+4 0 70 -.25 16 66 -.25 20 66 -.25 -20 70 -.25 -16
+4 0 -66 -.25 -20 -66 -.25 20 -70 -.25 16 -70 -.25 -16
+4 0 66 -.25 20 60 -.25 20 60 -.25 -20 66 -.25 -20
+4 0 -60 -.25 -20 -60 -.25 20 -66 -.25 20 -66 -.25 -20

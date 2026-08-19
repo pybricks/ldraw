@@ -1,0 +1,16 @@
+0 Animal Butterfly with Stud Tube with White Wings Pattern
+0 Name: 80674p04.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 80674pb05, Brickowl 544406, Brickset 107004
+0 !KEYWORDS Rebrickable 80674pr0005, Set 21346, Set 77055, set 77056
+
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80674s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80674p04s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\80674p04s01.dat

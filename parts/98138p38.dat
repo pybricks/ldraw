@@ -1,0 +1,18 @@
+0 Tile  1 x  1 Round with Black Disc (16 LDU Diameter) Pattern
+0 Name: 98138p38.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2025-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 98138pb442, porthole, Rebrickable 98138pr0426, Set 10335
+0 !KEYWORDS Set 40757, Side Scuttle, The Endurance
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
+0 !HISTORY 2025-10-25 [KnightOfTarenta] Name adapted to pattern family
+0 !HISTORY 2025-10-27 [OrionP] Official Update 2025-10
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\98138s02.dat
+1 16 0 0 0 2 0 0 0 1 0 0 0 2 4-4ring4.dat
+1 0 0 0 0 8 0 0 0 1 0 0 0 8 4-4disc.dat

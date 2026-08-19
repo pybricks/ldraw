@@ -1,0 +1,19 @@
+0 ~Sticker  0.8 x  1.9 with Black "PORSCHE ELLIGENT ORMANCE" on Black Halftone Stripes on White Background - Sixth Face Third Stripe Background
+0 Name: s\6148328bas24.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+
+0 // Top faces
+4 16 -2.5075 0 .0144 -2.5075 0 -3.169 -2.0263 0 -3.169 -2.0263 0 .0144
+4 16 -1.4138 0 .0144 -1.4138 0 -3.169 -.9325 0 -3.169 -.9325 0 .0144
+3 16 -3.12 0 -4.5901 -2.5075 0 -3.169 -3.12 0 -3.169
+3 16 -3.12 0 -4.5901 -2.0263 0 -3.169 -2.5075 0 -3.169
+4 16 -3.12 0 -4.5901 -.32 0 -4.5901 -1.4138 0 -3.169 -2.0263 0 -3.169
+3 16 -.32 0 -4.5901 -.9325 0 -3.169 -1.4138 0 -3.169
+3 16 -.32 0 -4.5901 -.32 0 -3.169 -.9325 0 -3.169

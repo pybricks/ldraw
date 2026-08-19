@@ -1,0 +1,45 @@
+0 Bike  2 Wheel Motorcycle with Wheels, Windshield, Lights and Rider (Needs work)
+0 Name: 4480c05.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Shortcut UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Vehicle
+0 !KEYWORDS motorbike, template
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+0 // Needs work:
+0 // Still has small collisions between the windshield and the bike,
+0 // and between the legs, hip and the bike.
+
+0 // Bike
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4480c01.dat
+
+0 // Wheels
+1 16 0 30 0 0 0 -1 0 1 0 1 0 0 3464c01.dat
+1 16 0 30 -90 0 0 -1 0 1 0 1 0 0 3464c01.dat
+
+0 // Lights
+1 16 0 -13.639 -93.127 0 0 1 1 0 0 0 1 0 6141.dat
+1 16 0 10 28 0 0 -1 1 0 0 0 -1 0 3024.dat
+
+0 // Windshield
+1 16 0 -11.343 -76.111 1 0 0 0 0.924 0.383 0 -0.383 0.924 4483.dat
+
+0 // Minifig
+1 16 0 2.813 -30.585 1 0 0 0 0.927 0.375 0 -0.375 0.927 3817c.dat
+1 16 0 2.813 -30.586 1 0 0 0 0.927 0.375 0 -0.375 0.927 3816c.dat
+1 16 0 -9.078 -32.219 1 0 0 0 0.989 -0.122 0 0.122 0.989 3815b.dat
+1 16 0 -40.72 -36.105 1 0 0 0 0.992 -0.122 0 0.122 0.992 973.dat
+1 16 -15.552 -31.82 -35.012 0.985 -0.132 -0.107 0.167 0.834 0.517 0.021 -0.529 0.843 3818.dat
+1 16 -21.915 -21.927 -53.894 0.219 -0.975 0.018 0.951 0.21 -0.224 0.215 0.066 0.974 3820.dat
+1 16 15.552 -31.82 -35.012 0.985 0.132 0.107 -0.167 0.834 0.517 -0.021 -0.529 0.843 3819.dat
+1 16 21.915 -21.927 -53.894 0.219 0.975 -0.018 -0.951 0.21 -0.224 -0.215 0.066 0.974 3820.dat
+1 16 0 -64.453 -39.02 1 0 0 0 0.989 -0.122 0 0.122 0.989 3626bp01.dat
+
+0 // Helmet and Visor - Visor currently collides with Windshield :(
+1 16 0 -64.453 -39.02 1 0 0 0 0.989 -0.122 0 0.122 0.989 30124b.dat
+1 16 0 -56.629 -37.357 1 0 0 0 0.989 -0.122 0 0.122 0.989 2447b.dat

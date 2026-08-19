@@ -1,0 +1,20 @@
+0 ~Duplo Ball Tube - Connector
+0 Name: s\31452s03.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Subpart UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+
+1 16 0 0 0 66 0 0 0 0 66 0 -1 0 48\4-4edge.dat
+1 16 0 0 0 2 0 0 0 0 2 0 -1 0 48\4-4ring33.dat
+1 16 0 0 0 2 0 0 0 0 2 0 -1 0 48\4-4ring34.dat
+1 16 0 0 0 70 0 0 0 0 70 0 -2.5 0 48\4-4cylo.dat
+1 16 0 0 -2.5 1.45833 0 0 0 0 1.45833 0 1 0 48\4-4ring47.dat
+1 16 0 0 -5 1.45833 0 0 0 0 1.45833 0 -1 0 48\4-4ring47.dat
+1 16 0 0 -2.5 68.5415 0 0 0 0 68.5415 0 -2.5 0 48\4-4cylo.dat
+1 16 0 0 -5 70 0 0 0 0 70 0 -1 0 48\4-4edge.dat

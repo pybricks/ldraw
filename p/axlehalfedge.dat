@@ -1,0 +1,19 @@
+0 Technic Axle Edge Half
+0 Name: axlehalfedge.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Primitive UPDATE 2025-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+
+2 24 6 0 0 5.6023 0 2
+2 24 2 0 5.6023 0 0 6
+2 24 6 0 0 5.6023 0 -2
+2 24 2 0 -5.6023 0 0 -6
+
+2 24 5.6023 0 2 2 0 2
+2 24 2 0 2 2 0 5.6023
+2 24 5.6023 0 -2 2 0 -2
+2 24 2 0 -2 2 0 -5.6023

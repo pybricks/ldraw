@@ -1,0 +1,19 @@
+0 Minifig Torso with Arms and Reddish Brown Hands with Argyle Sweater and White Shirt Collar Pattern
+0 Name: 76382p0041.dat
+0 Author: Manfred Schaefer [Lego-Manfred]
+0 !LDRAW_ORG Shortcut UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb2342c03, Brickowl 278548, Brickset 76382, Daily Bugle
+0 !KEYWORDS Rebrickable 973c23h19pr5549, Robbie Robertson, Set 76178
+0 !KEYWORDS Super Heros
+
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973p93.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 70 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 70 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

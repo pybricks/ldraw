@@ -1,0 +1,202 @@
+ldraw.org Parts Update 2024-10
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Sun, 01 Dec 2024 00:36:12 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 492
+   New files: 390
+   New Parts: 304
+   New Subparts: 79
+   New Primitives: 4
+   New 48 Segment Primitives: 3
+
+Moved Parts
+   4449-f1d01.dat             ~Moved to 4449d01-f1
+   680.dat                    ~Moved to 71372k01
+   681.dat                    ~Moved to 71372k02
+   682.dat                    ~Moved to 71372k03
+   71372c01.dat               ~Moved to 71372-f1
+
+Renamed Parts
+   990.dat                    Electric Train 12V Flashing-Light Circuit
+   changed to    Electric Train 12V Flashing-Light Unit
+   u9328c01.dat               Canvas Tepee Cover (Formed)
+   changed to    ~Sheet Fabric Tepee Cover (Formed) (Obsolete)
+   s\32109-1.dat              ~Electric Mindstorms RCX Angled Bottom Stud For 32109
+   changed to    ~Electric Mindstorms RCX Angled Bottom Stud For 32109 (Obsolete)
+   s\letaa.dat                ~Mindstorms RCX Letter "A"
+   changed to    ~Mindstorms RCX Letter "A" (Obsolete)
+   s\letab.dat                ~Mindstorms RCX Letter "A" Background
+   changed to    ~Mindstorms RCX Letter "A" Background (Obsolete)
+   s\letba.dat                ~Mindstorms RCX Letter "B"
+   changed to    ~Mindstorms RCX Letter "B" (Obsolete)
+   s\letbb.dat                ~Mindstorms RCX Letter "B" Background
+   changed to    ~Mindstorms RCX Letter "B" Background (Obsolete)
+   s\letca.dat                ~Mindstorms RCX Letter "C"
+   changed to    ~Mindstorms RCX Letter "C" (Obsolete)
+   s\letcb.dat                ~Mindstorms RCX Letter "C" Background
+   changed to    ~Mindstorms RCX Letter "C" Background (Obsolete)
+   s\letra.dat                ~Mindstorms RCX Letter "R"
+   changed to    ~Mindstorms RCX Letter "R" (Obsolete)
+   s\letrb.dat                ~Mindstorms RCX Letter "R" Background
+   changed to    ~Mindstorms RCX Letter "R" Background (Obsolete)
+   s\letxa.dat                ~Mindstorms RCX Letter "X"
+   changed to    ~Mindstorms RCX Letter "X" (Obsolete)
+   s\letxb.dat                ~Mindstorms RCX Letter "X" Background
+   changed to    ~Mindstorms RCX Letter "X" Background (Obsolete)
+   s\numb0a.dat               ~Mindstorms RCX Number "0"
+   changed to    ~Mindstorms RCX Number "0" (Obsolete)
+   s\numb0b.dat               ~Mindstorms RCX Number "0" Background
+   changed to    ~Mindstorms RCX Number "0" Background (Obsolete)
+   s\numb1a.dat               ~Mindstorms RCX Number "1"
+   changed to    ~Mindstorms RCX Number "1" (Obsolete)
+   s\numb1b.dat               ~Mindstorms RCX Number "1" Background
+   changed to    ~Mindstorms RCX Number "1" Background (Obsolete)
+   s\numb2a.dat               ~Mindstorms RCX Number "2"
+   changed to    ~Mindstorms RCX Number "2" (Obsolete)
+   s\numb2b.dat               ~Mindstorms RCX Number "2" Background
+   changed to    ~Mindstorms RCX Number "2" Background (Obsolete)
+   s\numb3a.dat               ~Mindstorms RCX Number "3"
+   changed to    ~Mindstorms RCX Number "3" (Obsolete)
+   s\numb3b.dat               ~Mindstorms RCX Number "3" Background
+   changed to    ~Mindstorms RCX Number "3" Background (Obsolete)
+   s\numb4a.dat               ~Mindstorms RCX Number "4"
+   changed to    ~Mindstorms RCX Number "4" (Obsolete)
+   s\numb4b.dat               ~Mindstorms RCX Number "4" Background
+   changed to    ~Mindstorms RCX Number "4" Background (Obsolete)
+   s\numb5a.dat               ~Mindstorms RCX Number "5"
+   changed to    ~Mindstorms RCX Number "5" (Obsolete)
+   s\numb5b.dat               ~Mindstorms RCX Number "5" Background
+   changed to    ~Mindstorms RCX Number "5" Background (Obsolete)
+   s\numb7a.dat               ~Mindstorms RCX Number "7"
+   changed to    ~Mindstorms RCX Number "7" (Obsolete)
+   s\numb7b.dat               ~Mindstorms RCX Number "7" Background
+   changed to    ~Mindstorms RCX Number "7" Background (Obsolete)
+   plug34.dat                 Electric Plug Pin for Plug Type 3 and Type 4
+   changed to    Electric Plug Pin for Plug Type  3 and Type  4
+   u9146.dat                  ~Pin for Electric Plug (Type 4) Single (Needs Work)
+   changed to    ~Pin for Electric Plug (Type 4) Single
+   u9019.dat                  ~Pin for Electric Plug (Type 4) Twin (Needs Work)
+   changed to    ~Pin for Electric Plug (Type 4) Twin
+   30124.dat                  =Minifig Helmet Modern
+   changed to    ~Minifig Helmet Modern (Obsolete)
+   11215.dat                  Bracket  5 x  2 x  1.333
+   changed to    Bracket  5 x  2 x  1.333 with Understud in Centre
+   3626bp69.dat               Minifig Head with Headset Over Brown Hair and Eyebrows Pattern
+   changed to    Minifig Head with Headset Over Fabuland Red Hair and Eyebrows Pattern
+   3626bp48.dat               Minifig Head with Eye Patch, Dark Orange Stubble and Messy Hair Pattern
+   changed to    Minifig Head with Eye Patch, Fabuland Red Stubble and Messy Hair Pattern
+   3626bph5.dat               Minifig Head with Vincent Crabbe/Ron Weasley 2-Sided Pattern
+   changed to    Minifig Head with HP Vincent Crabbe/Ron Weasley 2-Sided Pattern
+   3626bph3.dat               Minifig Head with Ron Weasley Pattern
+   changed to    Minifig Head with HP Ron Weasley Pattern
+   3626bph1.dat               Minifig Head with Eyeglasses and Lightning Scar Pattern
+   changed to    Minifig Head with HP Harry Potter Eyeglasses and Lightning Scar Pattern
+   2431d01.dat                ~Tile  1 x  4 with Black "POLICE" and Red Line Sticker - Obsolete
+   changed to    ~Tile  1 x  4 with Black "POLICE" and Red Line Sticker (Obsolete)
+   3816cp0h.dat               Minifig Leg Left with Silver and Metallic Dark Grey Armour Pattern
+   changed to    Minifig Leg Right with Silver and Metallic Dark Grey Armour Pattern
+   37366pdg4.dat              Minifig Leg Medium Left with with Orange and Brown Dots, White Shoes Pattern
+   changed to    Minifig Leg Medium Left with Orange and Brown Dots, White Shoes Pattern
+   2431d0b.dat                Tile 1 x 4 with "EH 26 286" Danish Numberplate Sticker
+   changed to    Tile  1 x  4 with "EH 26 286" Danish Numberplate Sticker
+   2431d0a.dat                Tile 1 x 4 with "PJM 340" Australian License Plate on Black Background Sticker
+   changed to    Tile  1 x  4 with "PJM 340" Australian License Plate on Black Background Sticker
+   2431d0c.dat                Tile 1 x 4 with "PJM 340" Australian License Plate on Dark Green Background Sticker
+   changed to    Tile  1 x  4 with "PJM 340" Australian License Plate on Dark Green Background Sticker
+   2431d0f.dat                Tile   1 x 4 with Black "MGW 10258" on White Background Sticker
+   changed to    Tile  1 x  4 with Black "MGW 10258" on White Background Sticker
+   2431d06.dat                Tile 1 x 4 with Radiator Grille and Mini Cooper Logo Sticker
+   changed to    Tile  1 x  4 with Radiator Grille and Mini Cooper Logo Sticker
+   2431d07.dat                Tile 1 x 4 with "R682 AHS" on White Background Sticker
+   changed to    Tile  1 x  4 with "R682 AHS" on White Background Sticker
+   2431d08.dat                Tile 1 x 4 with "R682 AHS" on Yellow Background Sticker
+   changed to    Tile  1 x  4 with "R682 AHS" on Yellow Background Sticker
+   2431d09.dat                Tile 1 x 4 with "HG CT 487" German Numberplate Sticker
+   changed to    Tile  1 x  4 with "HG CT 487" German Numberplate Sticker
+   2431df0.dat                Tile 1 x 4 with Dark Red Heart and "3186 BSS" License Plate Sticker
+   changed to    Tile  1 x  4 with Dark Red Heart and "3186 BSS" License Plate Sticker
+   22472p02.dat               Figure Scurrier Body with Orange Eyes and Open Smile with 10 Teeth Pattern
+   changed to    Figure Scurrier Body with Bright Light Orange Eyes and Open Smile with 10 Teeth Pattern
+   s\32552s01.dat             ~Technic Bionicle Weapon Double-Edged Sword - Blade
+   changed to    ~Constraction Blade 12L Double-Edged Sword with  3 Pinholes and Axle - Blade
+   s\44033s01.dat             ~Technic Bionicle Weapon Blade 12L Blade Centre - Half
+   changed to    ~Constraction Blade 12L Curved with  2 Pinholes and Axle - Half
+   s\98568s01.dat             ~Technic Sword 11.5L with Sawtooth Back Tooth
+   changed to    ~Constraction Blade 11.5L with Sawtooth Back - Tooth
+   s\98568s02.dat             ~Technic Sword 11.5L with Sawtooth Back Blade
+   changed to    ~Constraction Blade 11.5L with Sawtooth Back - Blade
+   s\98568s03.dat             ~Technic Sword 11.5L with Sawtooth Back Hilt and Back
+   changed to    ~Constraction Blade 11.5L with Sawtooth Back - Hilt and Back
+   32552.dat                  Technic Bionicle Weapon Double-Edged Sword
+   changed to    Constraction Blade 12L Double-Edged Sword with  3 Pinholes and Axle
+   44033.dat                  Technic Bionicle Weapon Blade 12L
+   changed to    Constraction Blade 12L Curved with  2 Pinholes and Axle
+   98568.dat                  Technic Sword 11.5L with Sawtooth Back
+   changed to    Constraction Blade 11.5L with Sawtooth Back
+   98568p02.dat               Technic Sword 11.5L with Sawtooth Back with Flat Silver Blade
+   changed to    Constraction Blade 11.5L with Sawtooth Back with Pearl Silver Blade Pattern
+   98568p01.dat               Technic Sword 11.5L with Sawtooth Back with Trans Bright Green Blade
+   changed to    Constraction Blade 11.5L with Sawtooth Back with Trans Bright Green Blade Pattern
+   98568p03.dat               Technic Sword 11.5L with Sawtooth Back with Trans Medium Blue Blade
+   changed to    Constraction Blade 11.5L with Sawtooth Back with Trans Medium Blue Blade Pattern
+   s\3069bp58s01.dat          ~Tile 1 x 2 with Gold Hexagonal Solar Panel Pattern 1 / 4
+   changed to    ~Tile  1 x  2 with Gold Hexagonal Solar Panel Pattern - 1/4
+   3068bd14.dat               Tile 2 x 2 with Lunar Lander Control and Circuitry Panel Sticker
+   changed to    Tile  2 x  2 with Lunar Lander Control and Circuitry Panel Sticker
+   3068bd13.dat               Tile 2 x 2 with Globes and Signatures Sticker
+   changed to    Tile  2 x  2 with Globes and Signatures Sticker
+   4150pf3.dat                Tile 2 x 2 Round with Six Purple Hearts on White Background Pattern
+   changed to    Tile  2 x  2 Round with Six Purple Hearts on White Background Pattern
+   3069bp58.dat               Tile 1 x 2 with Gold Hexagonal Solar Panel Pattern
+   changed to    Tile  1 x  2 with Gold Hexagonal Solar Panel Pattern
+   11203d03.dat               Tile 2 x 2 Inverted with Black Dots on Dark Bluish Grey Background Sticker
+   changed to    Tile  2 x  2 Inverted with Black Dots on Dark Bluish Grey Background Sticker
+   11203d04.dat               Tile 2 x 2 Inverted with Black and White Machine Pattern 1 Sticker
+   changed to    Tile  2 x  2 Inverted with Black and White Machine Pattern 1 Sticker
+   11203d06.dat               Tile 2 x 2 Inverted with Black Knobs and White Buttons Sticker
+   changed to    Tile  2 x  2 Inverted with Black Knobs and White Buttons Sticker
+   11203d05.dat               Tile 2 x 2 Inverted with Black and White Machine Pattern 2 Sticker
+   changed to    Tile  2 x  2 Inverted with Black and White Machine Pattern 2 Sticker
+   26603d03.dat               Tile 2 x 3 with Black and Chrome Gold Triangles Sticker
+   changed to    Tile  2 x  3 with Black and Chrome Gold Triangles Sticker
+   26603d02.dat               Tile 2 x 3 with Black and Chrome Gold Rectangles Sticker
+   changed to    Tile  2 x  3 with Black and Chrome Gold Rectangles Sticker
+   30350bd02.dat              Tile 2 x 3 with Clips Horizontal (Thick C-Clips) with United States of America Flag Sticker
+   changed to    Tile  2 x  3 with Clips Horizontal (Thick C-Clips) with United States of America Flag Sticker
+   87079d0c.dat               Tile 2 x 4 with Lunar Lander Hull Plates Pattern 2 Sticker
+   changed to    Tile  2 x  4 with Lunar Lander Hull Plates Pattern 2 Sticker
+   87079d0b.dat               Tile 2 x 4 with Lunar Lander Hull Plates Pattern 1 Sticker
+   changed to    Tile  2 x  4 with Lunar Lander Hull Plates Pattern 1 Sticker
+   69963.dat                  Plate  2 x  4 with Steering Axle Socket
+   changed to    Car Wheel Holder Plate  2 x  4 for Tilt Steering
+
+Other Fixed Parts
+   u9229.dat                  ~Pin for Electric Plug (Type 3) Twin
+   u9134.dat                  ~Pin for Electric Plug (Type 4) Twin Extra-Wide (Needs Work)
+   3626bph6.dat               Minifig Head with HP Voldemort with Teeth and Nostrils Pattern
+   3626bpmb.dat               Minifig Head with LOTR Uruk-Hai Lurtz Scowl and White Hand 2-Sided Pattern
+   3626bpma.dat               Minifig Head with LOTR Orc with Grey Hair Pattern
+   2571.dat                   Panel  3 x  4 x  6 with Curved Top
+   6059.dat                   Panel  3 x  3 x  6 Corner Round
+   88646.dat                  Plate  3 x  4 with 4 Studs in Centre
+   6124787g.dat               Sticker  1.6 x  1.7 with Medium Azure and Metallic Silver Buttons, Meter and Gauge
+   6124787f.dat               Sticker  1.6 x  1.7 with Medium Azure, Metallic Silver and White Buttons
+   45411.dat                  Slope Brick Curved  6 x  8 x  2 Double
+   3464c03.dat                Wheel Centre with Stub Axles with Tyre 4/ 80 x 8 Single Smooth Type 2
+   3822d02.dat                Door  1 x  3 x  1 Left with Red Cross Sticker
+   10169p01.dat               Minifig Sack with Hand Grab with White "$" Pattern
+   5518.dat                   Plate  2.5 x  2 with 2 Studs on One Edge and Rounded Edges
+   26603d04.dat               Tile 2 x 3 with United States of America Flag, Black and Chrome Gold Rectangles Sticker
+   73200bpy2.dat              Minifig Hips and Legs with Black Sparco Logo and Black, Blue and Red Stripes Pattern
+   3816cpw4.dat               Minifig Leg Right with Blue Fringe Pattern
+   3815bpw2.dat               Minifig Hips with Black Zigzag Belt Pattern
+   73200bpw4.dat              Minifig Hips and Legs with Black Zigzag Belt and Blue Fringe Pattern
+   3817cpw4.dat               Minifig Leg Left with Blue Fringe Pattern
+
+Minor Edits
+   76 Parts with minor adminstrative edits and/or license changes

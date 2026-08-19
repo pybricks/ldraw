@@ -1,0 +1,25 @@
+0 Tile  2 x  4 with Metallic Silver Tapered Stripe Pattern
+0 Name: 87079p0h.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2024-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 87079pb1309, Brickowl 311351, Rebrickable 87079pr0313
+0 !KEYWORDS Set 10321
+
+0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\87079s01.dat
+
+4 80 -39.5 0 2 -39.5 0 -2 7.5 0 -2 7.5 0 2
+1 80 7.5 0 0 0 0 13.5 0 1 0 2 0 0 2-4chrd.dat
+1 16 7.5 0 0 0 0 13.5 0 1 0 2 0 0 2-4ndis.dat
+4 16 7.5 0 -2 -39.5 0 -2 -40 0 -20 40 0 -20
+3 16 7.5 0 2 21 0 2 40 0 20
+4 16 40 0 -20 40 0 20 21 0 2 21 0 0
+3 16 21 0 0 21 0 -2 40 0 -20
+3 16 40 0 -20 21 0 -2 7.5 0 -2
+4 16 7.5 0 2 40 0 20 -40 0 20 -39.5 0 2
+4 16 -39.5 0 -2 -39.5 0 2 -40 0 20 -40 0 -20

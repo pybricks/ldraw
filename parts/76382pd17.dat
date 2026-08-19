@@ -1,0 +1,18 @@
+0 Minifig Torso with Arms and Hands with Crew Neck Sweater with Bright Pink Collar Pattern
+0 Name: 76382pd17.dat
+0 Author: Jeff Jones [notmaster]
+0 !LDRAW_ORG Shortcut UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb1672c01, BrickOwl 317199, CMF, Ned Flanders
+0 !KEYWORDS Rebrickable 973c06h01pr2609, Set 6059283, Set 71005, The Simpsons
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pd17.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 14 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 14 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

@@ -1,0 +1,23 @@
+0 ~Screw 50 x  5 Dome Cruciform
+0 Name: u9530.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Pozidriv
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+
+0 // Nomenclature: Screw length_(LDu) x thread_diameter_(LDu) {head type} {slot type}
+
+1 16 0 50 0 2.5 0 0 0 -50 0 0 0 2.5 4-4cylc.dat
+1 16 0 0 0 5 0 0 0 -3 0 0 0 5 4-4cyli.dat
+1 16 0 0 0 5 0 0 0 1 0 0 0 5 4-4edge.dat
+1 16 0 0 0 5 0 0 0 -1 0 0 0 5 4-4disc.dat
+1 16 0 -0.2 0 0.71429 0 0 0 0.7 0 0 0 0.71429 s\u9267s01.dat
+1 16 0 -0.2 0 0 0 0.71429 0 0.7 0 -0.71429 0 0 s\u9267s01.dat
+1 16 0 -0.2 0 -0.71429 0 0 0 0.7 0 0 0 -0.71429 s\u9267s01.dat
+1 16 0 -0.2 0 0 0 -0.71429 0 0.7 0 0.71429 0 0 s\u9267s01.dat

@@ -1,0 +1,15 @@
+0 Slope Brick Curved  2 x  2 x  0.667 with Stud Notch Left
+0 Name: 5095.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickowl 304055
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+0 !HISTORY 2026-05-06 [MagFors] Update description
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 5093.dat

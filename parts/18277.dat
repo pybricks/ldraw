@@ -1,0 +1,36 @@
+0 Minifig Tail Fluffy
+0 Name: 18277.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2026-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Hipwear
+
+0 !KEYWORDS Brickowl 613463, Raccoon, Rocket, Tasmanian Devil, Werewolf
+0 !KEYWORDS Wile E. Coyote, Wolf
+
+0 !HISTORY 2014-10-16 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2024-02-23 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
+
+0 // First section
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18277s01.dat
+0 // Second section
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18277s02.dat
+0 // Third section
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18277s03.dat
+0 // Tip section
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18277s04.dat
+0 // Hips and base
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\24779s02.dat
+1 16 0 -1.5 10 0 0 -18 1.5 0 0 0 -20 0 box3u2p.dat
+0 // backside of hips
+2 24 18 -3 10 4.829 -3 10
+2 24 4.47 0 10 18 0 10
+2 24 -18 0 10 -6.5785 0 10
+2 24 -8.177 -3 10 -18 -3 10
+4 16 4.829 -3 10 18 -3 10 18 0 10 4.47 0 10
+4 16 -18 0 10 -18 -3 10 -8.177 -3 10 -7.626 -0.295 10
+3 16 -7.626 -0.295 10 -6.5785 0 10 -18 0 10

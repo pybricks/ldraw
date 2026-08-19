@@ -1,0 +1,160 @@
+ldraw.org Parts Update 2025-01
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Mon, 20 Jan 2025 03:34:49 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 580
+   New files: 456
+   New Parts: 408
+   New Subparts: 44
+   New Primitives: 4
+
+Moved Parts
+   20380p01c01.dat            ~Moved to 20381p01
+   20380p02c01.dat            ~Moved to 20381p02
+   15680c01.dat               ~Moved to 15875
+   15680p01c01.dat            ~Moved to 15875p01
+   92253p01c01.dat            ~Moved to 16925p01
+   92253p02c01.dat            ~Moved to 16925p02
+   92253p03c01.dat            ~Moved to 16925p03
+   92253p04c01.dat            ~Moved to 16925p04
+   92251p01c01.dat            ~Moved to 92819p01
+   92251p02c01.dat            ~Moved to 92819p02
+   92251p03c01.dat            ~Moved to 92819p03
+   92251p04c01.dat            ~Moved to 92819p04
+   92251p05c01.dat            ~Moved to 92819p05
+   92251p06c01.dat            ~Moved to 92819p06
+   11202p01c01.dat            ~Moved to 11403p01
+   11202p02c01.dat            ~Moved to 11403p02
+   11202p03c01.dat            ~Moved to 11403p03
+   11202p04c01.dat            ~Moved to 11403p04
+   16529p01c01.dat            ~Moved to 16530p01
+   16529p02c01.dat            ~Moved to 16530p02
+   11244p01c01.dat            ~Moved to 11407p01
+   11244p02c01.dat            ~Moved to 11407p02
+   11244p04c01.dat            ~Moved to 11407p04
+   11244p05c01.dat            ~Moved to 11407p05
+   92252p01c01.dat            ~Moved to 92820p01
+   92252p02c01.dat            ~Moved to 92820p02
+   92252p03c01.dat            ~Moved to 92820p03
+   92252p04c01.dat            ~Moved to 92820p04
+   92252p05c01.dat            ~Moved to 92820p05
+   92252p06c01.dat            ~Moved to 92820p06
+   92252p07c01.dat            ~Moved to 92820p07
+   92250p01c01.dat            ~Moved to 92818p01
+   92250p02c01.dat            ~Moved to 92818p02
+   92250p03c01.dat            ~Moved to 92818p03
+   92250p04c01.dat            ~Moved to 92818p04
+   92250p05c01.dat            ~Moved to 92818p05
+   92250p06c01.dat            ~Moved to 92818p06
+   92250p07c01.dat            ~Moved to 92818p07
+   92250p08c01.dat            ~Moved to 92818p08
+   u9210.dat                  ~Moved to 11391
+   u9210p01.dat               ~Moved to 11391p01
+   u9210p01c01.dat            ~Moved to 11408p01
+   u9210p02.dat               ~Moved to 11391p02
+   u9210p02c01.dat            ~Moved to 11408p02
+   u9210p03.dat               ~Moved to 11391p03
+   u9210p03c01.dat            ~Moved to 11408p03
+   92242p01c01.dat            ~Moved to 92815p01
+   92243p01c01.dat            ~Moved to 92816p01
+   92243p02c01.dat            ~Moved to 92816p02
+   92241p01c01.dat            ~Moved to 92456p01
+   92241p02c01.dat            ~Moved to 92456p02
+   92241p03c01.dat            ~Moved to 92456p03
+   92241p04c01.dat            ~Moved to 92456p04
+   92241p05c01.dat            ~Moved to 92456p05
+   92241p06c01.dat            ~Moved to 92456p06
+   92241p07c01.dat            ~Moved to 92456p07
+   92241p08c01.dat            ~Moved to 92456p08
+   92241p09c01.dat            ~Moved to 92456p09
+   92241p0ac01.dat            ~Moved to 92456p0a
+   92241p0cc01.dat            ~Moved to 92456p0c
+   92241p11c01.dat            ~Moved to 92456p11
+   92241p12c01.dat            ~Moved to 92456p12
+   92241p13c01.dat            ~Moved to 92456p13
+   92241p14c01.dat            ~Moved to 92456p14
+   92241p15c01.dat            ~Moved to 92456p15
+   92241p16c01.dat            ~Moved to 92456p16
+   92241p18c01.dat            ~Moved to 92456p18
+   92241p19c01.dat            ~Moved to 92456p19
+   92241p20c01.dat            ~Moved to 92456p20
+   92241p21c01.dat            ~Moved to 92456p21
+   92241p22c01.dat            ~Moved to 92456p22
+   92241p23c01.dat            ~Moved to 92456p23
+   92241p0bc01.dat            ~Moved to 92456p0b
+   92241p0dc01.dat            ~Moved to 92456p0d
+   92241p17c01.dat            ~Moved to 92456p17
+   92241p0ec01.dat            ~Moved to 92456p0e
+   92241p0fc01.dat            ~Moved to 92456p0f
+   92241p0gc01.dat            ~Moved to 92456p0g
+   92249p01c01.dat            ~Moved to 92817p01
+   92249p02c01.dat            ~Moved to 92817p02
+
+Renamed Parts
+   4568123a.dat               Sticker  1.1 x  1.7 with  3 Lines Yellow and Blue Alien Text
+   changed to    Sticker  1.1 x  1.7 with Aurebesh Characters "KURT"
+   4568123b.dat               Sticker  1.1 x  1.7 with Yellow Alien Text and Imperial Shuttle Side View
+   changed to    Sticker  1.1 x  1.7 with Aurebesh Characters "SIDE" and SW Imperial Shuttle Side View
+   4568123c.dat               Sticker  1.1 x  1.7 with Yellow Alien Text and Imperial Shuttle Front View
+   changed to    Sticker  1.1 x  1.7 with Aurebesh Characters "FRONT" and SW Imperial Shuttle Front View
+   973p1m.dat                 Minifig Torso with TV Logo Pattern Large
+   changed to    Minifig Torso with TV Logo Large Pattern
+   973p1w.dat                 Minifig Torso Jacket Open over Red and Light Green Top with Necklace Pattern
+   changed to    Minifig Torso with Female Jacket Open, Red and White Top with Necklace Pattern
+   973p4l.dat                 Minifig Torso w/ Gold Lion and Belt on Red/White Quart. Pattern
+   changed to    Minifig Torso with Gold Lion and Belt on Red/White Quarter Pattern
+   973p7y.dat                 Minifig Torso Female with Light Purple Scarf with Fringe and Grey Belt Pattern
+   changed to    Minifig Torso with Female Jacket with Medium Lavender Scarf with Fringe and Grey Belt Pattern
+   973p3e.dat                 Minifig Torso with Pirate Stripes Blue/White Pattern
+   changed to    Minifig Torso with Pirate Stripes Blue/White and Black Buckle Pattern
+   973p32.dat                 Minifig Torso with Pirate Stripes Blue/Cream Pattern
+   changed to    Minifig Torso with Pirate Stripes Blue/White and Gold Buckle Pattern
+   973p31.dat                 Minifig Torso with Pirate Stripes Red/Cream Pattern
+   changed to    Minifig Torso with Pirate Stripes Red/White Pattern
+   973p48.dat                 Minifig Torso with Forestman Maroon Collar Pattern
+   changed to    Minifig Torso with Forestman Red Collar Pattern
+   973p4g.dat                 Minifig Torso with Castle Female Armour Pattern
+   changed to    Minifig Torso with Female Castle Armour Pattern
+   973p4z.dat                 Minifig Torso with Corset and Gold Trim Pattern
+   changed to    Minifig Torso with Female Corset and Gold Crown and Trim Pattern
+   973p4w.dat                 Minifig Torso with Corset with Reddish Brown Laces Pattern
+   changed to    Minifig Torso with Female Corset with Reddish Brown Laces Pattern
+   973p4x.dat                 Minifig Torso with Dk Green Corset with Leather Belt Pattern
+   changed to    Minifig Torso with Female Dark Green Corset with Leather Belt Pattern
+   973p7l.dat                 Minifig Torso with Police Female Shirt with Gold Badge, Pocket and Black Tie Pattern
+   changed to    Minifig Torso with Female Police Shirt with Gold Badge, Pocket and Black Tie Pattern
+
+Other Fixed Parts
+   42908.dat                  Electric RC Race Buggy Motor (Complete)
+   s\92241p12s01.dat          ~Figure Friends Girl Torso with Blouse Top with Open Collar and Button Pattern
+   s\92246s01.dat             ~Figure Friends Male Left Arm Structure
+   45907.dat                  ~Electric Connector Plate  2 x  2 with Contacts
+   2494d01.dat                Glass for Window  1 x  4 x  5 with White Stripes Sticker
+   003432a.dat                Sticker  2.4 x  3 with Norway Flag
+   3596d10.dat                Flag on Flagpole Type 5 with Norway Flag Sticker
+   s\2654bs03.dat             ~Dish  2 x  2 without Rim without Patternable Surfaces Cond-Lines Only
+   3626cpn2.dat               Minifig Head Skull Cracked with Metal Plates Pattern
+   3626cpm8.dat               Minifig Head with LOTR Smirking / Shouting 2-Sided Pattern
+   973px0.dat                 Minifig Torso with Shirt Collar and Sand Green Neck Pattern
+   6015.dat                   Tyre 12/ 40 x 11 Wide
+   s\6015s01.dat              ~Tyre 12/ 40 x 11 Wide - 1/36
+   196945y.dat                Sticker  1.1 x  3.9 with "Shell" and Shell Logo 1971 - Logo Left
+   196945z.dat                Sticker  1.1 x  3.9 with "Shell" and Shell Logo 1971 - Logo Right
+   4-4ring5.dat               Ring  5 x 1.0
+   s\92252s01.dat             ~Figure Friends Legs Structure
+   973p6h.dat                 Minifig Torso with Business Suit and Tie, Breathing Apparatus and Octan Logo Pattern
+   2345p44.dat                Panel Wall  3 x  3 x  6 Corner with Blacktron I Logo Pattern
+   2431p06.dat                Tile  1 x  4 with 3 White Stars Pattern
+   2433.dat                   Hinge Bar  2 with 3 Fingers and Top Stud
+   24120.dat                  Technic Excavator Bucket  4 x  5
+   24121.dat                  Technic Gear Ring Quarter 11 x 11 with 35 Teeth
+   2596.dat                   Door  1 x  9 x 11
+   25561.dat                  ~Electric Control+ Hub Top
+   2497.dat                   Car Wash Brush Axle
+   2475.dat                   Brush Holder Car Wash
+   2466p68.dat                Panel  3 x  2 x  6 with MTron Logo Pattern

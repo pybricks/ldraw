@@ -1,0 +1,25 @@
+0 Windscreen  6 x  4 x  1.667 Wedge Angled
+0 Name: 5241.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Windscreen
+0 !KEYWORDS Brickowl 899096
+
+0 !HISTORY 2024-02-05 {LEGO Instructions App} Original part shape
+0 !HISTORY 2024-04-23 [GeraldLasser] File preparation for LDraw Parts Tracker
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\5241s01.dat
+
+4 16 -16.16 -24 -30 -20 -5 -60 20 -5 -60 16.16 -24 -30
+4 16 -16.16 -24 -30 16.16 -24 -30 20.466 -40 40 -20.466 -40 40
+4 16 -32.598 -21 60 -20.466 -40 40 20.466 -40 40 32.598 -21 60
+4 16 -40 -5 60 -32.598 -21 60 32.598 -21 60 40 -5 60
+4 16 -16.16 -24 -30 -20.466 -40 40 -40 -5 60 -20 -5 -60
+4 16 20 -5 -60 40 -5 60 20.466 -40 40 16.16 -24 -30
+3 16 32.598 -21 60 20.466 -40 40 40 -5 60
+3 16 -32.598 -21 60 -40 -5 60 -20.466 -40 40

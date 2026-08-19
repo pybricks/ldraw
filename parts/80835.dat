@@ -1,0 +1,39 @@
+0 Container Treasure Chest Lid with Flat Top
+0 Name: 80835.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS baggage, Locker, Trunk
+
+0 !HISTORY 2022-03-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2022-03-01 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80835s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\80835s01.dat
+1 16 36 11 16 0 -72 0 4 0 0 0 0 4 1-4cylo.dat
+1 16 20 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 -20 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 10 2 18 0 -20 0 -1.5 0 0 0 0 1.5 1-4cylo.dat
+0 BFC INVERTNEXT
+1 16 0 3.15 20 10 0 0 0 0 1.15 0 -.5 0 box4-4a.dat
+1 16 10 2 -18 0 -20 0 -1.5 0 0 0 0 -1.5 1-4cylo.dat
+0 BFC INVERTNEXT
+1 16 0 3.15 -20 10 0 0 0 0 1.15 0 .5 0 box4-4a.dat
+1 16 0 9 16 33 0 0 0 0 -6 0 1 0 rect2p.dat
+4 16 33 3 13 -33 3 13 -33 3 16 33 3 16
+4 16 33 3 13 2 3 -9 -2 3 -9 -33 3 13
+1 16 0 10 -9 2 0 0 0 0 7 0 -1 0 rect2p.dat
+1 16 0 17 -11.85 0 0 -2 0 -1 0 -2.85 0 0 rect1.dat
+1 16 0 15.25 -15.35 0 0 -2 -1.75 0 0 -0.65 1 0 rect1.dat
+1 16 0 10.75 -16 0 0 -2 -2.75 0 0 0 1 0 rect1.dat
+4 16 2 8 -16.5 -2 8 -16.5 -2 8 -16 2 8 -16
+4 16 -40 8 -20 -36 8 -16.5 36 8 -16.5 40 8 -20
+2 24 40 8 -20 -40 8 -20
+4 16 35 4.3 -20 -35 4.3 -20 -40 8 -20 40 8 -20
+4 16 10 0.5 18 -10 0.5 18 -10 0.5 -18 10 0.5 -18
+4 16 -36 11 20 -15 4.3 20 15 4.3 20 36 11 20

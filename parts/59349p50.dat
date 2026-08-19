@@ -1,0 +1,30 @@
+0 Panel  1 x  6 x  5 with Classic Space Logo Pattern
+0 Name: 59349p50.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Part UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 59349pb433, Brickowl 1515683, Brickset 116630
+0 !KEYWORDS Rebrickable 59349pr0006, Set 40921
+0 !KEYWORDS Up Scaled Blue Astronaut Minifigure
+
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\59349s01.dat
+1 16 0 54 -10 1 0 0 0 0 -1 0 1 0 logo-classic-space-box.dat
+1 4 0 54 -10 1 0 0 0 0 -1 0 1 0 logo-classic-space-spaceship.dat
+1 15 0 54 -10 1 0 0 0 0 -1 0 1 0 logo-classic-space-border.dat
+1 82 0 54 -10 1 0 0 0 0 -1 0 1 0 logo-classic-space-planet.dat
+4 16 32.6 25.5 -10 60 0 -10 -60 0 -10 -55.5 25.5 -10
+3 16 60 0 -10 32.6 25.5 -10 34.3 25.5 -10
+3 16 60 0 -10 34.3 25.5 -10 55.5 25.5 -10
+3 16 60 0 -10 55.5 25.5 -10 55.5 32.41 -10
+4 16 60 0 -10 55.5 32.41 -10 55.5 82.5 -10 60 120 -10
+4 16 -12 82.5 -10 -60 120 -10 60 120 -10 15.5 82.5 -10
+3 16 55.5 82.5 -10 15.5 82.5 -10 60 120 -10
+3 16 -60 120 -10 -12 82.5 -10 -39.5 82.5 -10
+3 16 -60 120 -10 -39.5 82.5 -10 -55.5 82.5 -10
+3 16 -60 120 -10 -55.5 82.5 -10 -55.5 69.6 -10
+4 16 -60 120 -10 -55.5 69.6 -10 -55.5 25.5 -10 -60 0 -10

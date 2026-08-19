@@ -1,0 +1,42 @@
+0 Brick  1 x  1 x  0.667 with Curved Top Corner
+0 Name: 7818.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2026-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickowl 1222970
+
+0 !HISTORY 2026-06-28 [OrionP] Official Update 2026-06
+
+4 16 -9 8 0 -9 8 9 -6 8 6 -6 8 0
+4 16 -9 8 9 9 8 9 6 8 6 -6 8 6
+4 16 9 8 9 9 8 0 6 8 0 6 8 6
+1 16 0 8 0 3 0 0 0 -1 0 0 0 -3 2-4ring2.dat
+0 BFC INVERTNEXT
+1 16 0 5 0 0 0 6 -3 0 0 0 6 0 box3u7a.dat
+0 BFC INVERTNEXT
+1 16 0 2 0 6 0 0 0 6 0 0 0 -6 2-4cyli.dat
+1 16 0 8 0 6 0 0 0 1 0 0 0 -6 2-4edge.dat
+
+0 BFC INVERTNEXT
+1 16 0 2 0 6 0 0 0 -6 0 0 0 -6 2-8sphe.dat
+1 16 0 7.5 0 0 0 9 .5 0 0 0 9 0 box3u4a.dat
+1 16 0 7 0 9 0 0 0 1 0 0 0 -9 2-4cylo.dat
+4 16 -10 7 0 -10 7 10 -9 7 9 -9 7 0
+4 16 -10 7 10 10 7 10 9 7 9 -9 7 9
+4 16 10 7 10 10 7 0 9 7 0 9 7 9
+1 16 0 7 0 1 0 0 0 -1 0 0 0 -1 2-4ring9.dat
+1 16 0 4.5 0 0 0 -10 -2.5 0 0 0 10 0 box3u7a.dat
+1 16 0 7 0 10 0 0 0 1 0 0 0 -10 2-4edge.dat
+1 16 0 2 0 10 0 0 0 5 0 0 0 -10 2-4cyli.dat
+
+1 16 0 2 10 10 0 0 0 0 -10 0 1 0 2-4edge.dat
+1 16 0 2 0 10 0 0 0 0 -10 0 10 0 2-4cyli.dat
+0 BFC INVERTNEXT
+1 16 0 2 0 6 0 0 0 0 -6 0 6 0 2-4cyli.dat
+1 16 0 2 6 6 0 0 0 0 -6 0 1 0 2-4edge.dat
+1 16 0 2 0 10 0 0 0 0 -10 0 -10 0 2-8sphe.dat
+1 16 0 2 10 10 0 0 0 0 -10 0 -1 0 2-4chrd.dat
+1 16 0 2 6 6 0 0 0 0 -6 0 1 0 2-4chrd.dat

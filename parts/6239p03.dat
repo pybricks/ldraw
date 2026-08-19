@@ -1,0 +1,24 @@
+0 Tail Shuttle  2 x  6 x  4 with Silver Fire Logo and Black Outline Pattern
+0 Name: 6239p03.dat
+0 Author: Bertrand Lequy [Berth]
+0 !LDRAW_ORG Part UPDATE 2024-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 6239pb108, Brickowl 786529, Rebrickable 6239pr0023
+0 !KEYWORDS Set 60320, set 60371, set 60411
+
+0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6239s01.dat
+0 // left side
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6239p03s01.dat
+1 4 2 -42.4 45 0 -1 0 0 0 -.75 .75 0 0 logo-fire-badge-big-flame.dat
+1 80 2 -42.4 45 0 -1 0 0 0 -.75 .75 0 0 logo-fire-badge-shield-background.dat
+1 4 2 -42.4 45 0 -1 0 0 0 -.75 .75 0 0 logo-fire-badge-small-flame.dat
+0 // right side
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6239p03s01.dat
+1 4 -2 -42.4 45 0 1 0 0 0 -.75 -.75 0 0 logo-fire-badge-big-flame.dat
+1 80 -2 -42.4 45 0 1 0 0 0 -.75 -.75 0 0 logo-fire-badge-shield-background.dat
+1 4 -2 -42.4 45 0 1 0 0 0 -.75 -.75 0 0 logo-fire-badge-small-flame.dat

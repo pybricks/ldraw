@@ -1,0 +1,26 @@
+0 Brick  1 x  4 with Black Dollar Sign on Yellow Badge Pattern
+0 Name: 3010p0i.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Part UPDATE 2025-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bank, BrickLink 3010pb017, city center, money
+0 !KEYWORDS Rebrickable 3010pr9952, Set 6566, town, Town Junior
+
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3010s01.dat
+
+0 // Pattern
+1 16 0 1 -10 0.8148 0 0 0 0.8148 0 0 0 1 s\4346p06s01.dat
+
+4 16 -40 0 -10 -10.9998 1 -10 0 1 -10 40 0 -10
+3 16 40 0 -10 0 1 -10 10.9998 1 -10
+4 16 0 22.9996 -10 -10.9998 22.9996 -10 -40 24 -10 40 24 -10
+3 16 10.9998 22.9996 -10 0 22.9996 -10 40 24 -10
+4 16 10.9998 15.259 -10 10.9998 22.9996 -10 40 24 -10 40 0 -10
+3 16 40 0 -10 10.9998 1 -10 10.9998 15.259 -10
+3 16 -10.9998 15.259 -10 -10.9998 1 -10 -40 0 -10
+4 16 -40 0 -10 -40 24 -10 -10.9998 22.9996 -10 -10.9998 15.259 -10

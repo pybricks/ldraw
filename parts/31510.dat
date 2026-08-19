@@ -1,0 +1,11 @@
+0 =Brick Separator with Top Axle
+0 Name: 31510.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part Alias UPDATE 2025-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-01-20 [OrionP] Official Update 2025-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 96874.dat

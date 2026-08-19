@@ -1,0 +1,16 @@
+0 Windscreen Round, Sloped  6 x  8 x  2 with Coast Guard Logo Pattern
+0 Name: 7664p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2026-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS badge, Bricklink 7664pb01, Brickowl 1120060, Brickset 115233
+0 !KEYWORDS Rebrickable 7664pr0001, Rescue Boat, Set 60504, Shield
+
+0 !HISTORY 2026-06-28 [OrionP] Official Update 2026-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7664s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7664p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\7664p01s01.dat

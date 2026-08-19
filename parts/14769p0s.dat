@@ -1,0 +1,17 @@
+0 Tile  2 x  2 Round with Red Bowser Head Pattern
+0 Name: 14769p0s.dat
+0 Author: Florent Faramond [Makou]
+0 !LDRAW_ORG Part UPDATE 2024-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 14769pb513, Brickowl 14753, Rebrickable 14769pr1220
+0 !KEYWORDS Set 71411
+
+0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769s01.dat
+1 16 0 0 0 20 0 0 0 1 0 0 0 20 4-4ering.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769p0ss01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\14769p0ss01.dat

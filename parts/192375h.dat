@@ -1,0 +1,31 @@
+0 Sticker  1.1 x  1.9 with Black "NO SMOKING" and Border on White Background
+0 Name: 192375h.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 6375.2stk01, Brickowl 157647, Exxon, Gas Station
+0 !KEYWORDS Rebrickable 192375, Set 6375-2
+
+0 !HISTORY 2021-06-05 [RainbowDolphin] Created based on 197915b by N. W. Perry [Plastikean]
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+
+1 16 0 -.25 0 19 0 0 0 .25 0 0 0 11 box5-12.dat
+
+1 15 0 -.25 0 1 0 0 0 1 0 0 0 1 s\197915bs01.dat
+
+3 15 -18.07 -.25 8.07 -17.28 -.25 8.07 -19 -.25 11
+4 15 -19 -.25 11 -17.28 -.25 8.07 17.28 -.25 8.07 19 -.25 11
+3 15 19 -.25 11 17.28 -.25 8.07 18.07 -.25 8.07
+3 15 19 -.25 11 18.07 -.25 8.07 18.07 -.25 7.28
+4 15 19 -.25 11 18.07 -.25 7.28 18.07 -.25 -7.28 19 -.25 -11
+3 15 19 -.25 -11 18.07 -.25 -7.28 18.07 -.25 -8.07
+3 15 19 -.25 -11 18.07 -.25 -8.07 17.28 -.25 -8.07
+4 15 19 -.25 -11 17.28 -.25 -8.07 -17.28 -.25 -8.07 -19 -.25 -11
+3 15 -19 -.25 -11 -17.28 -.25 -8.07 -18.07 -.25 -8.07
+3 15 -19 -.25 -11 -18.07 -.25 -8.07 -18.07 -.25 -7.28
+4 15 -19 -.25 -11 -18.07 -.25 -7.28 -18.07 -.25 7.28 -19 -.25 11
+3 15 -18.07 -.25 8.07 -19 -.25 11 -18.07 -.25 7.28

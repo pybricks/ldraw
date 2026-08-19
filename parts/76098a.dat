@@ -1,0 +1,16 @@
+0 Motor Pull Back  4 x  9 x  2.333 Type 1 (Complete)
+0 Name: 76098a.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Shortcut UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Inline this part, to make the adjustable part movable.
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Vehicle
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+1 16 0 42 30 1 0 0 0 1 0 0 0 1 u9063.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 32282c00.dat

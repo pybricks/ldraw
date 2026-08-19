@@ -1,0 +1,139 @@
+ldraw.org Parts Update 2024-09
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Sun, 27 Oct 2024 01:48:31 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 674
+   New files: 593
+   New Parts: 405
+   New Subparts: 173
+   New Primitives: 12
+   New 8 Segment Primitives: 1
+   New 48 Segment Primitives: 2
+
+Moved Parts
+   6217.dat                   ~Moved to 6217a
+   3139.dat                   ~Moved to 3139b
+   3464.dat                   ~Moved to 3464b
+   30028.dat                  ~Moved to 30028b
+
+Renamed Parts
+   u9062c02.dat               Motor Pull Back  4 x  9 x  2.333 Type 2 with Dark Gray Base
+   changed to    Motor Pull Back  4 x  9 x  2.333 Type 2 with Dark Grey Base (Complete)
+   30639.dat                  Container  4 x  4 x  4 with 2 Click Hinges (Needs Work)
+   changed to    Container  4 x  4 x  4 with 2 Click Hinges
+   s\820674s01.dat            ~Sticker White and Red Lifebuoy on Blue Blazon - Half
+   changed to    ~Sticker Coastguard Logo - Half
+   820674a.dat                Sticker  1 x  2 with White and Red Lifebuoy on Blue Blazon
+   changed to    Sticker  0.9 x  1.9 with Coastguard Logo
+   820674b.dat                Sticker  1.6 x  3.2 with White and Red Lifebuoy on Blue Blazon
+   changed to    Sticker  1.5 x  3.1 with Coastguard Logo on Transparent Background
+   s\95342s01.dat             ~Animal Chicken Body - Half
+   changed to    ~Animal Chicken - Body
+   s\95342s02.dat             ~Animal Chicken Eye
+   changed to    ~Animal Chicken - Head Half
+   s\95342s03.dat             ~Animal Chicken Wattle and Comb - Half
+   changed to    ~Animal Chicken - Wattle and Comb
+   3626cpxf.dat               Minifig Head with Brow Eyebrows, Dark Tan Freckles and Crooked Smile/Worried Mouth 2-Sided Pattern
+   changed to    Minifig Head with Brown Eyebrows, Dark Tan Freckles and Crooked Smile/Worried Mouth 2-Sided Pattern
+   2431d0a.dat                Tile 1 x 4 with "PJM 340" Canadian License Plate on Black Background Sticker
+   changed to    Tile 1 x 4 with "PJM 340" Australian License Plate on Black Background Sticker
+   2431d0c.dat                Tile 1 x 4 with "PJM 340" Canadian License Plate on Dark Green Background Sticker
+   changed to    Tile 1 x 4 with "PJM 340" Australian License Plate on Dark Green Background Sticker
+   6062886g.dat               Sticker  0.7 x  3.6 with "PJM 340" Canadian License Plate on Black Background
+   changed to    Sticker  0.7 x  3.6 with "PJM 340" Australian License Plate on Black Background
+   s\6062886gs01.dat          ~Sticker  0.7 x  3.6 with "PJM 340" Canadian License Plate
+   changed to    ~Sticker  0.7 x  3.6 with "PJM 340" Australian License Plate
+   6062886h.dat               Sticker  0.7 x  3.6 with "PJM 340" Canadian License Plate on Dark Green Background
+   changed to    Sticker  0.7 x  3.6 with "PJM 340" Australian License Plate on Dark Green Background
+   30124bp02.dat              Minifig Helmet Modern with Red Lines and White Stars Pattern
+   changed to    Minifig Helmet Standard with Red Lines and White Stars Pattern
+   s\30124bp02s01.dat         ~Minifig Helmet Modern - Top Half with Red Lines and White Stars Pattern
+   changed to    ~Minifig Helmet Standard with Red Lines and White Stars Pattern - Top Half
+   21019bp0b.dat              Minifig Hips and Legs Dual Mould with Reddish Brown Lower Leg and Hips Pattern
+   changed to    Minifig Hips and Legs with Reddish Brown Lower Leg and Hips Pattern
+   21019bp0a.dat              Minifig Hips and Legs Dual Mould with Reddish Brown Lower Leg Pattern
+   changed to    Minifig Hips and Legs with Reddish Brown Lower Leg Pattern
+   21019bp0d.dat              Minifig Hips and Legs Dual Mould with Medium Lilac Lower Leg and Hips Pattern
+   changed to    Minifig Hips and Legs with Medium Lilac Lower Leg and Hips Pattern
+   21019bp0c.dat              Minifig Hips and Legs Dual Mould with Medium Lilac Lower Leg Pattern
+   changed to    Minifig Hips and Legs with Medium Lilac Lower Leg Pattern
+   21019bp0e.dat              Minifig Hips and Legs Dual Mould with Dark Orange Lower Leg Pattern
+   changed to    Minifig Hips and Legs with Dark Orange Lower Leg Pattern
+   20380.dat                  Figure Friends with Asymmetric Layered Skirt Short
+   changed to    Figure Friends Legs with Asymmetric Layered Skirt Short
+   s\93598s01.dat             ~Windscreen  2 x  4 x  2 - 3 Wide without Front Face
+   changed to    ~Windscreen  2 x  3 x  2 with  2 x  4 Base without Front Face
+   93598.dat                  Windscreen  2 x  3 x  2 on  2 x  4 Base
+   changed to    Windscreen  2 x  3 x  2 with  2 x  4 Base
+   3815bpdg3.dat              Minifig Hips with Black Button and Lab Coat Pattern
+   changed to    Minifig Hips with Thin Black Button and Lab Coat Pattern
+   3815bpdg2.dat              Minifig Hips with Black Button and Lab Coat Pattern
+   changed to    Minifig Hips with Thick Black Button and Lab Coat Pattern
+   s\3626bpsns01.dat          ~Minifig Head with White Eyes, Black Dots, Red and Yellow Rim Pattern - Half
+   changed to    ~Minifig Head with Bright Light Yellow Eyes, Black Dots, Red and Yellow Rim Pattern - Half
+   3626bpsn.dat               Minifig Head with White Eyes, Black Dots, Red and Yellow Rim Pattern
+   changed to    Minifig Head with Bright Light Yellow Eyes, Black Dots, Red and Yellow Rim Pattern
+   30124bp04.dat              Minifig Helmet Modern with Black "POLICE" and Red Line Pattern
+   changed to    Minifig Helmet Standard with Black 'POLICE' and Red Line Pattern
+   2634c02.dat                Window 2 x 8 x 2 Inverted Sloped with TransBlack Glass
+   changed to    Window  2 x  8 x  2 Inverted Sloped with Trans Brown Glass
+   6160c04.dat                Window  1 x  4 x  6 with Fixed Transparent Black Glass
+   changed to    Window  1 x  4 x  6 with Fixed Trans Brown Glass
+   60797c02.dat               Door  1 x  4 x  6 with 3 Panes and Stud Handle with TransBlack Glass (Complete)
+   changed to    Door  1 x  4 x  6 with 3 Panes and Stud Handle with Trans Brown Glass
+   89648c01.dat               Window  2 x  8 x  2 Inverted Sloped Reinforced with TransBlack Glass
+   changed to    Window  2 x  8 x  2 Inverted Sloped Reinforced with Trans Brown Glass
+
+Other Fixed Parts
+   11439p01.dat               Minifig Sword with Jagged Edges with Marbled White Pattern
+   s\18605s02.dat             ~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs - Colored Panel Black Borders
+   973p1u.dat                 Minifig Torso with Zipper Jacket and  3 Pockets Pattern
+   s\4760s01.dat              ~Electric 9V Battery Box  4 x  8 x  2.333 without Sides
+   clh8.dat                   Click Lock Hinge Single Finger for Crevices and Ledges
+   820671a.dat                Sticker  1.9 x  1.9 Round with Lifepreserver
+   3939d01.dat                Slope Brick 33  3 x  6 with Coastguard Sticker
+   95342.dat                  Animal Chicken
+   95342p01.dat               Animal Chicken with Red Comb Pattern
+   3623pt1.dat                Plate  1 x  3 with "PORSCHE" First Half Pattern
+   3623pt2.dat                Plate  1 x  3 with "PORSCHE" Second Half Pattern
+   820675a.dat                Sticker  1.8 x  1.2 with Yellow Outline "5"
+   s\30124bs02.dat            ~Minifig Helmet Standard - Top Front Surface
+   4614415a.dat               Sticker  3.2 x  1.9 with White Rectangle in Middle
+   4614415b.dat               Sticker  3.2 x  1.9 with White Rectangle on Left
+   3464c01.dat                Wheel Centre with Stub Axles with Tyre  6/ 50 x  8 Offset Tread
+   3464c02.dat                Wheel Centre with Stub Axles with Tyre 4/ 80 x 8 Single Smooth Type 1
+   30027ac01.dat              Wheel Rim  8 x  8 Round Hole, for Wheel Holding Pin with Tyre  8/ 40 x  8 Slick Smooth
+   30027bc01.dat              Wheel Rim  8 x  8 Notched Hole, Two Slots, for Wheel Holding Pin with Tyre  8/ 40 x  8 Slick Smooth
+   74967c01.dat               Wheel Rim  8 x  8 Notched Hole, Reinforced Back with Tyre  8/ 40 x  8 Slick Smooth
+   74967p01c01.dat            Wheel Rim  8 x  8 Notched Hole, Reinforced Back with Yellow Ring Pattern with Tyre  8/ 40 x  8 Slick Smooth
+   3626bpw2.dat               Minifig Head with Angry Moustache and Teeth Pattern
+   3626bpw1.dat               Minifig Head with Thick Angry Moustache, Stubble and Long Hair Pattern
+   3626bpsc.dat               Minifig Head with SW Grey Eyebrows & Implant 2-Sided Pattern
+   3626bpsb.dat               Minifig Head with SW Alien with Large Black Eyes Pattern
+   3626bps9.dat               Minifig Head with SW Brown Eyebrows and Beard Pattern
+   3626bps8.dat               Minifig Head with SW Darth Maul Pattern
+   3626bps7.dat               Minifig Head with SW Black Eyebrows and Dark Grey Scars Pattern
+   3626bps5.dat               Minifig Head with SW Smirk and Brown Eyebrows Pattern
+   3626bps4.dat               Minifig Head with SW Grey Beard and Eyebrows Pattern
+   3626bps3.dat               Minifig Head with SW Small Black Eyebrows Pattern
+   3626cpbl.dat               Minifig Head with Eyes in Mask, White 'A' and Black Line on Back Pattern
+   3626cpbh.dat               Minifig Head with Beard, Sneering/Scared 2-Sided Pattern
+   3626cpbd.dat               Minifig Head with Grumpy/Angry 2-Sided Pattern
+   3626cpbb.dat               Minifig Head with Beard, Happy/Angry 2-Sided Pattern
+   3626cpb9.dat               Minifig Head with Black Eyebrows and Cheek Lines 2-Sided Pattern
+   3626cpb3.dat               Minifig Head with Iron Spider Pattern
+   3626cpap.dat               Minifig Head Wolf with Yellow Eyes, Black Scars, Fangs, Closed / Open Mouth 2-Sided Pattern
+   3626cp80.dat               Minifig Head with Mouth Closed Stern / Mouth Open Scared 2-Sided Pattern
+   3626cp8i.dat               Minifig Head with Black Eyebrows, Chin Dimple and Lopsided Grin Pattern
+   3626bpw8.dat               Minifig Head with Glasses, Pencil Behind Ear and Pointed Moustache Pattern
+   3626cpcbe.dat              Minifig Head with Brown Bushy Moustache and Eyebrows and Black Chin Strap Pattern
+   3626cpbk.dat               Minifig Head with Glasses, Grey Eyes, Eyebrows, Cheeks Pattern
+   3626bpse.dat               Minifig Head with SW Scout Trooper Black Visor Pattern
+
+Minor Edits
+   3 Parts with minor adminstrative edits and/or license changes

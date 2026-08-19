@@ -1,0 +1,13 @@
+0 Stud Tube Solid Group  1 x  9
+0 Name: stug3-1x9.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Primitive UPDATE 2026-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2026-06-28 [OrionP] Official Update 2026-06
+
+
+1 16 -50 0 0 1 0 0 0 1 0 0 0 1 stug3-1x4.dat
+1 16 40 0 0 1 0 0 0 1 0 0 0 1 stug3-1x5.dat

@@ -1,0 +1,19 @@
+0 Sail 12 x 10 Trapezoidal
+0 Name: u767.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sheet Fabric
+
+0 !HISTORY 2025-04-27 [OrionP] Official Update 2025-04
+
+
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\u767s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\u767s01.dat
+1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 s\u767s01.dat
+1 16 0 -.25 0 -1 0 0 0 1 0 0 0 1 s\u767s01.dat
+1 16 0 -.25 0 1 0 0 0 -1 0 0 0 1 s\u767s02.dat
+1 16 0 -.25 0 -1 0 0 0 -1 0 0 0 1 s\u767s02.dat

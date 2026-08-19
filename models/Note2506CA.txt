@@ -1,0 +1,82 @@
+ldraw.org Parts Update 2025-06
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Thu, 26 Jun 2025 01:28:18 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 245
+   New files: 207
+   New Parts: 132
+   New Subparts: 56
+   New Primitives: 5
+   New 8 Segment Primitives: 1
+   New TEXMAP Images: 13
+
+Moved Parts
+   60659.dat                  ~Moved to 60674
+   6014c01.dat                ~Moved to 6014bc01
+   6014c03.dat                ~Moved to 6014bc03
+   6014c02.dat                ~Moved to 6014bc02
+
+Renamed Parts
+   s\735s01.dat               ~Magnet Holder (Needs Work)
+   changed to    ~Magnet Holder (Obsolete)
+   14696.dat                  =Technic Chain Link
+   changed to    Technic Chain Link Reinforced
+   98138pt1.dat               Tile  1 x  1 Round with Bugatti Logo Pattern
+   changed to    Tile  1 x  1 Round with Silver Bugatti Logo Pattern
+   6141875d.dat               Sticker  1.8 x  1.8 Chequered
+   changed to    =Sticker  1.8 x  1.8 Chequered
+   87079p08.dat               Tile  2 x  4 with Groove with Black "WALL" Pattern
+   changed to    Tile  2 x  4 with Black "WALL" Pattern
+   70023.dat                  ~Magnet Cylindrical
+   changed to    ~Magnet Cylindrical (Obsolete)
+   2959c01.dat                Magnet Cylindrical in Casing (Complete)
+   changed to    ~Magnet Cylindrical in Casing (Complete) (Obsolete)
+   2959.dat                   ~Magnet Cylindrical Casing
+   changed to    ~Magnet Cylindrical Casing (Obsolete)
+   2607.dat                   Magnet Holder  2 x  3
+   changed to    ~Magnet Holder  2 x  3 (Obsolete)
+   70793.dat                  =Magnet Cylindrical
+   changed to    ~=Magnet Cylindrical (Obsolete)
+   4106.dat                   =Magnet Cylindrical Casing
+   changed to    ~=Magnet Cylindrical Casing (Obsolete)
+   2609a.dat                  Magnet Holder Tile  2 x  2 with Short Arms
+   changed to    ~Magnet Holder Tile  2 x  2 with Short Arms (Obsolete)
+   30159.dat                  Magnet Holder Plate  2 x  2 Bottom
+   changed to    ~Magnet Holder Plate  2 x  2 Bottom (Obsolete)
+   4212b.dat                  Car Base  4 x 10 x 0.667 with  2 x  2 Center Open
+   changed to    Car Base  4 x 10 x  0.667 with  2 x  2 Center Open
+   s\6216s01.dat              ~Brick  2 x  4 x  2 with Curved Top without Front Face
+   changed to    ~Brick  2 x  4 x  2 with Triple Curved Top without Front Face
+   6216.dat                   Brick  2 x  4 x  2 with Curved Top
+   changed to    Brick  2 x  4 x  2 with Triple Curved Top
+   6216p01.dat                Brick  2 x  4 x  2 with Curved Top with Antenna Pattern
+   changed to    Brick  2 x  4 x  2 with Triple Curved Top with Antenna Pattern
+   6216p02.dat                Brick  2 x  4 x  2 with Curved Top with Eyes Pattern
+   changed to    Brick  2 x  4 x  2 with Triple Curved Top with Monster Eyes Pattern
+   6216p03.dat                Brick  2 x  4 x  2 with Curved Top with Round Eyes Pattern
+   changed to    Brick  2 x  4 x  2 with Triple Curved Top with Round Eyes Pattern
+
+Other Fixed Parts
+   s\18605p0fs01.dat          ~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Pastel Rainbow and Clouds Pattern - Quarter
+   18605p0f.dat               ~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Pastel Rainbow and Clouds Pattern
+   3068bp20.dat               Tile  2 x  2 with Ice Cream Cone Pattern
+   s\73398s01.dat             ~Wheel Rim 41 x 75 with  5 Spokes and  3 Pins without stud
+   3711.dat                   Technic Chain Link
+   3873.dat                   Technic Chain Tread 2.5 Wide
+   98138pt0.dat               Tile  1 x  1 Round with 'RS' Pattern
+   3004p0g.dat                Brick  1 x  2 with Black Smile Pattern
+   3065.dat                   Brick  1 x  2 without Centre Stud
+   s\59349ph1s01.dat          ~Panel  1 x  6 x  5 with Green and Dark Green Window Pane Pattern - 1/30
+   59349ph1.dat               Panel  1 x  6 x  5 with Green and Dark Green Window Pane Pattern
+   925p0r.dat                 Brick  1 x  8 without Centre Studs with Bright Green "KØBMAND" Italic Pattern
+   925p0u.dat                 Brick  1 x  8 without Centre Studs with Swine Head and Red "SLAGTER" Rounded Pattern
+   18972dy0.dat               Windscreen  5 x  4 x  1.667 Curved with Red and White "R8 LMS" on Black Background Sticker
+   s\80674s01.dat             ~Animal Butterfly with Stud Tube without Patternable Surface
+
+Minor Edits
+   1 Parts with minor administrative edits and/or license changes

@@ -1,0 +1,21 @@
+0 Minifig Jester's Cap with Medium Lilac Right Half and Left Pom Pattern
+0 Name: 62537p06.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bricklink 62537pb06, Jestro, Nexo Knights, Rebrickable 62537pr0005
+0 !KEYWORDS Set 70352, Set 70356
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\62537s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\62537s02.dat
+1 85 0 0 0 1 0 0 0 1 0 0 0 1 s\62537s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\62537s04.dat
+1 85 0 0 0 1 0 0 0 1 0 0 0 1 s\62537s05.dat
+1 85 0 0 0 1 0 0 0 1 0 0 0 1 s\62537s06.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\62537s07.dat

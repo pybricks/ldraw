@@ -1,0 +1,27 @@
+0 Duplo Furniture Table Round  4 x  4 x  1
+0 Name: 15516.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Part UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickowl 568335, Table
+
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+0 // duplo studs on top
+1 16 0 0 0 1 0 0 0 2.75 0 0 0 1 stug7-2x2.dat
+
+0 // table surface
+1 16 0 0 0 80 0 0 0 24 0 0 0 80 48\4-4cylc.dat
+0 BFC INVERTNEXT
+1 16 0 4 0 75 0 0 0 20 0 0 0 75 48\4-4cylc.dat
+1 16 0 24 0 5 0 0 0 -1 0 0 0 5 48\4-4ring15.dat
+
+0 // bottom cylinders
+0 BFC INVERTNEXT
+1 16 0 4 0 40.3 0 0 0 44 0 0 0 40.3 48\4-4cylo.dat
+1 16 0 48 0 4.03 0 0 0 -1 0 0 0 4.03 48\4-4ring10.dat
+1 16 0 4 0 44.33 0 0 0 44 0 0 0 44.33 48\4-4cylo.dat
+1 16 0 4 0 -1 0 0 0 -11 0 0 0 1 stud8.dat

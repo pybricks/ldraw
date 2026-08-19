@@ -1,0 +1,41 @@
+0 Tyre 38/ 26 x 75
+0 Name: 46335.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 94.3 x 38, Fat Boy, Harley Davidson, Set 10269
+
+0 !HISTORY 2024-06-02 {LEGO Instructions App} Original part shape
+0 !HISTORY 2024-08-14 [GeraldLasser] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+0 BFC INVERTNEXT
+1 16 0 0 19.25 113.4279 0 0 0 0 -113.4279 0 -38.5 0 48\4-4cyli.dat
+
+0 BFC INVERTNEXT
+1 16 0 0 -37.25 -87 0 0 0 0 -87 0 4.5 0 48\4-4cylo.dat
+1 16 0 0 -32.75 -9.66667 0 0 0 0 9.66667 0 -1 0 48\4-4ring9.dat
+1 16 0 0 -32.75 -96.6667 0 0 0 0 96.6667 0 1 0 48\4-4edge.dat
+1 16 0 0 -37.25 -7.90909 0 0 0 0 7.90909 0 1 0 48\4-4ring11.dat
+1 16 0 0 -39.25 -2.35772 0 0 0 0 2.35772 0 6.5 0 48\4-4con41.dat
+1 16 0 0 -39.25 -4.95122 0 0 0 0 4.95122 0 -1 0 48\4-4ring20.dat
+0 BFC INVERTNEXT
+1 16 0 0 -19.25 -9.45233 0 0 0 0 9.45233 0 -20 0 48\4-4con11.dat
+
+0 BFC INVERTNEXT
+1 16 0 0 37.25 -87 0 0 0 0 -87 0 -4.5 0 48\4-4cylo.dat
+1 16 0 0 32.75 -9.66667 0 0 0 0 9.66667 0 1 0 48\4-4ring9.dat
+1 16 0 0 32.75 -96.6667 0 0 0 0 96.6667 0 -1 0 48\4-4edge.dat
+1 16 0 0 37.25 -7.90909 0 0 0 0 7.90909 0 -1 0 48\4-4ring11.dat
+1 16 0 0 39.25 -2.35772 0 0 0 0 2.35772 0 -6.5 0 48\4-4con41.dat
+1 16 0 0 39.25 -4.95122 0 0 0 0 4.95122 0 1 0 48\4-4ring20.dat
+0 BFC INVERTNEXT
+1 16 0 0 19.25 -9.45233 0 0 0 0 9.45233 0 20 0 48\4-4con11.dat
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\46335s01.dat
+1 16 0 0 0 0 1 0 1 0 0 0 0 -1 s\46335s01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 -1 s\46335s01.dat
+1 16 0 0 0 0 -1 0 -1 0 0 0 0 -1 s\46335s01.dat

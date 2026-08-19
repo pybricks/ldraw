@@ -1,0 +1,49 @@
+ldraw.org Parts Update 2026-02
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Fri, 06 Mar 2026 04:37:42 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 203
+   New files: 187
+   New Parts: 107
+   New Subparts: 76
+   New Primitives: 4
+
+Moved Parts
+
+Renamed Parts
+   s\6309s01.dat              ~Duplo Tile  2 x  2 without Top Surface
+   changed to    ~Duplo Tile  2 x  2 x  0.5 without Top Surface
+   6309.dat                   Duplo Tile  2 x  2
+   changed to    Duplo Tile  2 x  2 x  0.5
+   98138p87.dat               Tile  1 x  1 Round with White Animal Paw on Dark Brown Background Pattern
+   changed to    Tile  1 x  1 Round with White Animal Paw on Reddish Brown Background Pattern
+   3626bp51.dat               Minifig Head with Insectoids with Metallic Copper Hair and Headset Pattern (Needs Work)
+   changed to    Minifig Head with Insectoids Metallic Copper Hair and Headset Pattern (Needs Work)
+   76382p8h.dat               Minifig Torso with Arms and Hands with Suit with Pocket, Brown Pen, Red Tie, Train Logo Pattern
+   changed to    Minifig Torso with Arms and Yellow Hands with Suit with Pocket, Brown Pen, Red Tie, Train Logo Pattern
+   4294106a.dat               Sticker  1.8 x  1.8 with Blue and Yellow Rectangle Pattern
+   changed to    Sticker  1.8 x  1.8 with Blue and Yellow Rectangle Flag
+   4538725d.dat               =Sticker  1.8 x  1.8 with Blue and Yellow Rectangle Pattern
+   changed to    =Sticker  1.8 x  1.8 with Blue and Yellow Rectangle Flag
+   003605e.dat                =Sticker  0.9 x  0.9 Round with Lifepreserver Pattern
+   changed to    =Sticker  0.9 x  0.9 Round with Lifepreserver
+   4297022f.dat               Sticker  1.5 x  1.7 Triangular with Worker and  1 Pile Pattern
+   changed to    Sticker  1.5 x  1.7 Triangular with Worker and  1 Pile
+   30259ad02.dat              Roadsign Clip-on  2.2 x  2.667 Triangular with Worker and 1 Pile Pattern Sticker
+   changed to    Roadsign Clip-on  2.2 x  2.667 Triangular with Worker and 1 Pile Sticker
+   791d01.dat                 Window  1 x  3 x  5 Shutter with Maersk Line Logo Pattern Left Sticker
+   changed to    Window  1 x  3 x  5 Shutter with Maersk Line Logo Left Sticker
+   791d02.dat                 Window  1 x  3 x  5 Shutter with Maersk Line Logo Pattern Right Sticker
+   changed to    Window  1 x  3 x  5 Shutter with Maersk Line Logo Right Sticker
+
+Other Fixed Parts
+   6155286a.dat               Sticker  1.2 x  2.6 with Black Lines
+   76382pm4.dat               Minifig Torso with Arms and Hands with LOTR Shirt, Dark Brown Belt & Bag Pattern
+
+Minor Edits
+   0 Parts with minor administrative edits and/or license changes

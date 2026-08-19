@@ -1,0 +1,17 @@
+0 Electric 9V Battery Box  4 x 14 x  4 - Buttons - Left Button Pressed
+0 Name: 2849-f1.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2024-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Rotational Axis for Switch 2 1 0 -43.5 40 0 -43.5 80
+0 !HELP Rotate k03 sections by 6 degrees
+0 !HELP Use Flex Section k04 instead of k02
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2849k01.dat
+1 16 -4.547 -.2383 0 .99452 -.10453 0 .10453 .99452 0 0 0 1 2849k03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2849k04.dat

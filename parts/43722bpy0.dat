@@ -1,0 +1,17 @@
+0 Wing  2 x  3 Right with Metallic Silver Trapezoid Pattern
+0 Name: 43722bpy0.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Part UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 43722pb04, Brickowl 465166, Brickset 103814, McLaren
+0 !KEYWORDS Rebrickable 43722pr0003, Set 76918, Solus, Speed Champions
+0 !KEYWORDS wedge plate
+
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43722bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43722bpy0s01.dat
+1 16 10 0 0 0 0 -1 0 1 0 1 0 0 stug-1x3.dat

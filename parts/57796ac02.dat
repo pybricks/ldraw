@@ -1,0 +1,19 @@
+0 Technic Competition Cannon with Flat Bottom with Long Trigger (Loaded with Arrow)
+0 Name: 57796ac02.dat
+0 Author: Santeri Piippo [arezey]
+0 !LDRAW_ORG Shortcut UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP The position of the inserted arrow is:
+0 !HELP 1 16 0 -26 0 1 0 0 0 1 0 0 0 1 57028p01.dat
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-07-05 [Holly-Wood] Changed spring position, fixed comment
+0 !HISTORY 2024-09-15 [GeraldLasser] Changed spring position
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 57029ac01.dat
+1 494 0 -26 25.5 0 0 1 -1 0 0 0 -1 0 71830-f2.dat
+1 16 0 -19 37 1 0 0 0 1 0 0 0 1 32075.dat
+1 16 0 -26 0 1 0 0 0 1 0 0 0 1 57028p01.dat

@@ -1,0 +1,25 @@
+0 ~Windscreen  1 x  9 x  4 with Double Curved Bar - Bar
+0 Name: s\115551s02.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Subpart UPDATE 2026-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
+
+1 16 90 -10 0 4 0 0 0 -1 0 0 0 4 4-4disc.dat
+1 16 90 -10 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 90 -10 0 4 0 0 0 -50 0 0 0 4 4-4cyli.dat
+1 16 70 -60 0 20 0 0 0 0 -20 0 20 0 48\tm04o2000.dat
+1 16 70 -60 0 20 0 0 0 0 -20 0 20 0 48\tm04i2000.dat
+1 16 70 -60 0 20 0 0 0 0 -20 0 -20 0 48\tm04o2000.dat
+1 16 70 -60 0 20 0 0 0 0 -20 0 -20 0 48\tm04i2000.dat
+1 16 70 -80 0 0 -140 0 4 0 0 0 0 4 4-4cyli.dat
+1 16 -70 -60 0 -20 0 0 0 0 -20 0 20 0 48\tm04o2000.dat
+1 16 -70 -60 0 -20 0 0 0 0 -20 0 20 0 48\tm04i2000.dat
+1 16 -70 -60 0 -20 0 0 0 0 -20 0 -20 0 48\tm04o2000.dat
+1 16 -70 -60 0 -20 0 0 0 0 -20 0 -20 0 48\tm04i2000.dat
+1 16 -90 -10 0 4 0 0 0 -50 0 0 0 4 4-4cyli.dat
+1 16 -90 -10 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 -90 -10 0 4 0 0 0 -1 0 0 0 4 4-4disc.dat

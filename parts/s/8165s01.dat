@@ -1,0 +1,26 @@
+0 ~Tile  4 x  8 without Top Face
+0 Name: s\8165s01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Subpart UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2026-04-13 [Blechtaler] made from s\4162s01.dat
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+1 16 0 7 0 80 0 0 0 -7 0 0 0 40 box4.dat
+1 16 0 8 0 79 0 0 0 -1 0 0 0 39 box4.dat
+0 BFC INVERTNEXT
+1 16 0 8 0 76 0 0 0 -4 0 0 0 36 box5.dat
+4 16 79 8 39 76 8 36 -76 8 36 -79 8 39
+4 16 -79 8 39 -76 8 36 -76 8 -36 -79 8 -39
+4 16 -79 8 -39 -76 8 -36 76 8 -36 79 8 -39
+4 16 79 8 -39 76 8 -36 76 8 36 79 8 39
+4 16 80 7 40 79 7 39 -79 7 39 -80 7 40
+4 16 -80 7 40 -79 7 39 -79 7 -39 -80 7 -40
+4 16 -80 7 -40 -79 7 -39 79 7 -39 80 7 -40
+4 16 80 7 -40 79 7 -39 79 7 39 80 7 40
+1 16 40 4 0 1 0 0 0 -1 0 0 0 1 stug4-3x3.dat
+1 16 0 4 0 0 0 1 0 -1 0 1 0 0 stug4-1x3.dat
+1 16 -40 4 0 1 0 0 0 -1 0 0 0 1 stug4-3x3.dat

@@ -1,0 +1,160 @@
+ldraw.org Parts Update 2024-07
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Mon, 26 Aug 2024 02:10:39 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 557
+   New files: 454
+   New Parts: 368
+   New Subparts: 77
+   New Primitives: 4
+   New 48 Segment Primitives: 5
+
+Moved Parts
+   65151-f1.dat               ~Moved to 65151c01-f1
+   65151-f2.dat               ~Moved to 65151c01-f2
+   2924b.dat                  ~Moved to 2924bc01
+   2924ad01.dat               ~Moved to 2924ac01d01
+   2924a.dat                  ~Moved to 2924ac01
+   2594.dat                   ~Moved to 2594b
+   3023pb0.dat                ~Moved to 3023bpb0
+   3023.dat                   ~Moved to 3023b
+   3430c02.dat                ~Moved to 3430c02-f1
+   3430c01.dat                ~Moved to 3430c01-f1
+
+Renamed Parts
+   2447.dat                   Minifig Helmet Visor
+   changed to    ~Minifig Helmet Visor Standard (Obsolete)
+   s\6216mc.dat               ~Electric Technic Motor  4.5V Shaft
+   changed to    ~Obsolete file
+   s\90462s02pq1.dat          ~Minifig Headdress Nemes with Darkblue Stripes Pattern Half
+   changed to    ~Minifig Headdress Nemes with Dark Blue Stripes Pattern Half  (Obsolete)
+   s\3023s01.dat              ~Plate  1 x  2 without Front Face
+   changed to    ~Obsolete file
+   87079px3.dat               Tile  2 x  4 with Lego and Star Wars Logo and "2020" Pattern
+   changed to    Tile  2 x  4 with Lego and Star Wars Logos and "2020" Pattern
+   4449-f1d01.dat             Minifig Suitcase with Iron Man Armoured Suit Mark V Stickers
+   changed to    ~Moved to 4449d01-f1
+   s\2924bs01.dat             ~Train Front  2 x  2 x  6 with  2 x  4 Cutout without Glass
+   changed to    ~Train Front  2 x  6 x  5.333 with  4 x  2 Cutout without Glass
+   s\2924as01.dat             ~Train Front  2 x  2 x  6 with  3 x  4 Cutout without Glass
+   changed to    ~Train Front  2 x  6 x  5.333 with  4 x  3 Cutout without Glass
+   2924bd01.dat               Train Front  2 x  2 x  6 with  2 x  4 Cutout with White Stripe Stickers
+   changed to    ~Moved to 2924bc01d01
+   2431p52.dat                Tile  1 x  4 with Danger Stripes Black Pattern
+   changed to    Tile  1 x  4 with Black Danger Stripes Type 2 Pattern
+   s\22888s01.dat             ~Plate  4 x  4 Round  1/8
+   changed to    ~Plate  4 x  8 Round 1/8
+   s\2446s02.dat              ~Minifig Helmet Modern Patternable Area Half
+   changed to    ~Minifig Helmet Standard Patternable Area Half (Obsolete)
+   s\2446s01.dat              ~Minifig Helmet Modern Structure
+   changed to    ~Minifig Helmet Standard Structure (Obsolete)
+   2446.dat                   Minifig Helmet Modern
+   changed to    ~Minifig Helmet Standard (Obsolete)
+   s\24087s02.dat             ~Minifigure Skirt Ruffled - Patternable Surfaces Quarter
+   changed to    ~Minifig Skirt Ruffled - Patternable Surfaces Quarter
+   s\24087s01.dat             ~Minifigure Skirt Ruffled - Without Patternable Surfaces
+   changed to    ~Minifig Skirt Ruffled - Without Patternable Surfaces
+   s\24087s03.dat             ~Minifigure Skirt Ruffled - Quarter
+   changed to    ~Minifig Skirt Ruffled - Quarter
+   24087p02.dat               Minifigure Skirt Ruffled with Red Half Pattern
+   changed to    Minifig Skirt Ruffled with Red Half Pattern
+   24087p01.dat               Minifigure Skirt Ruffled with Bright Pink, Bright Light Yellow, and Yellowish Green Panels Pattern
+   changed to    Minifig Skirt Ruffled with Bright Pink, Bright Light Yellow, and Yellowish Green Panels Pattern
+   24087.dat                  Minifigure Skirt Ruffled
+   changed to    Minifig Skirt Ruffled
+   s\2446p01s01.dat           ~Minifig Helmet Modern with One Red and Two Green Stripes Pattern - Half
+   changed to    ~Minifig Helmet Standard with One Red and Two Green Stripes Pattern - Half (Obsolete)
+   2446p01.dat                Minifig Helmet Modern with One Red and Two Green Stripes Pattern
+   changed to    ~Minifig Helmet Standard with One Red and Two Green Stripes Pattern (Obsolete)
+   2446p50.dat                Minifig Helmet Modern with Blue and Silver Spyrius Pattern
+   changed to    ~Minifig Helmet Standard with Blue and Silver Spyrius Pattern (Obsolete)
+   s\6090s01.dat              ~Minifig Helmet Visor Underwater - One Half
+   changed to    ~Minifig Helmet Visor Underwater - Half
+   30090.dat                  Minifig Diver Mask
+   changed to    ~Minifig Helmet Visor Diver Mask (Obsolete)
+   s\48489s01.dat             ~Visor with Pointy Sides and Eye Slit Half
+   changed to    ~Minifig Helmet Visor with Pointy Sides and Eye Slit Half
+   88415.dat                  =Minifig Helmet Modern
+   changed to    ~=Minifig Helmet Standard (Obsolete)
+   769.dat                    Minifig Helmet Visor Space
+   changed to    ~Minifig Helmet Visor Space (Obsolete)
+   s\77108s01.dat             ~Minifigure Top Hat with Pin Attachment and Antistud - Rim Quarter
+   changed to    ~Minifig Top Hat with Pin Attachment and Antistud - Rim Quarter
+   6119.dat                   Minifig Helmet Visor Ice Planet
+   changed to    ~Minifig Helmet Visor Shielded with Antenna (Obsolete)
+   30171c01.dat               Minifig Cap Aviator with Black Goggles
+   changed to    ~Minifig Cap Aviator with Black Goggles (Obsolete)
+   30170.dat                  Minifig Cap Aviator Goggles
+   changed to    ~Minifig Cap Aviator Goggles (Obsolete)
+   30171.dat                  Minifig Cap Aviator
+   changed to    ~Minifig Cap Aviator (Obsolete)
+   2446p51.dat                Minifig Helmet Modern with Black, Blue and Silver Unitron Pattern
+   changed to    ~Minifig Helmet Standard with Black, Blue and Silver Unitron Pattern (Obsolete)
+   98138p0k.dat               Tile  1 x  1 Round with Black Eye with Pupil Squinting Pattern
+   changed to    Tile  1 x  1 Round with Black Eye with Pupil in Corner Squinting Pattern
+   3626bp0g.dat               Minifig Head with Brown Eyebrows, White Pupils, Lopsided Smile with Dimple Pattern
+   changed to    Minifig Head with Reddish Brown Eyebrows, White Pupils, Lopsided Smile with Black Dimple Pattern
+
+Other Fixed Parts
+   clh5.dat                   Click Lock Hinge Half Dual Finger for Arms
+   87079ps0.dat               Tile  2 x  4 with Star Wars Logo Pattern
+   s\67095s01.dat             ~Tile  3 x  3 Round without Top Surface
+   92338-f2.dat               Minifig Chain  6L with  6L Span Catenary
+   92338-f1.dat               Minifig Chain  6L with  6L Span Straight
+   30504.dat                  Plate  8 x  8 without Corner
+   4586574c.dat               Sticker  1.8 x  1.8 Round with White Curved Double Arrow with Black Outline on Yellow Background
+   4035.dat                   Train Window  1 x  2 x  3
+   164575cc01.dat             Sticker Train Front  2 x  6 Stripe Left (Formed)
+   164575bc01.dat             Sticker Train Front  2 x  6 Stripe Right (Formed)
+   3068bd05.dat               Tile  2 x  2 with Blue V and Red Lines Sticker
+   6214.dat                   Brick  2 x  8 x  4 with Curved Ends
+   10169.dat                  Minifig Sack with Hand Grab
+   s\2594s01.dat              ~Minifig Helmet Visor Pointed - Half
+   6090.dat                   Minifig Helmet Visor Underwater
+   48489.dat                  Minifig Helmet Visor with Pointy Sides and Eye Slit
+   973p13.dat                 Minifig Torso with Straight Zipper Jacket Pattern
+   boxjcyl4.dat               Box to Cylinder Joint 1: 4
+   2792.dat                   Technic Steering Top
+   2791a.dat                  Technic Steering Gear Holder
+   44568.dat                  Hinge Plate  1 x  4 Locking with Two Single Fingers on Side
+   3626ap01.dat               Minifig Head with Standard Grin Pattern (Solid Stud)
+   3626bp0a.dat               Minifig Head with Grey Hair, Beard, Moustache, Angry Pattern
+   3626bp0b.dat               Minifig Head with Teeth, Pupils, Brown Eyebrows Pattern
+   3626bp05.dat               Minifig Head with Standard Grin and Eyebrows Pattern
+   3626bp04.dat               Minifig Head with Standard Grin and Sunglasses Pattern
+   3626bp03.dat               Minifig Head with Standard Grin and Pointed Moustache Pattern
+   3626bp0f.dat               Minifig Head with Angry Eyebrows and Tense Mouth Pattern
+   3626bp09.dat               Minifig Head Female with Brown Eyebrows, Pupils, Eyelashes Pattern
+   3626bp08.dat               Minifig Head Female with Red Lips Small Eyebrows Pattern
+   3626bp06.dat               Minifig Head with Standard Grin, Eyebrows and Microphone Pattern
+   3626bp07.dat               Minifig Head with Freckle Nose and Standard Grin Pattern
+   3626bpa6.dat               Minifig Head Female with Brown Hair, Eyelashes, and Lipstick Pattern
+   3626cp70.dat               Minifig Head with Eyebrows, Crow's Feet, Open Mouth Smile / Queasy Expression with Sweat Drop 2-Sided Pattern
+   3626cp02.dat               Minifig Head with Single Large Black Eye with Pupil Pattern
+   3626cp01.dat               Minifig Head with Standard Grin Pattern (Hollow Stud)
+   3626bp46.dat               Minifig Head with Eye Patch, Dark Orange Moustache, Beard and Messy Hair Pattern
+   3626bp45.dat               Minifig Head with Moustache Curly and Spiky Beard under Mouth Pattern
+   3626bp44.dat               Minifig Head with Black Moustache, Beard and Messy Hair Pattern
+   3626bp43.dat               Minifig Head with Red Moustache, Beard and Messy Hair Pattern
+   3626bp42.dat               Minifig Head with Dark Orange Moustache, Beard and Messy Hair Pattern
+   3626bp39.dat               Minifig Head with Grin, Dark Grey Beard and Eyebrows Pattern
+   3626bp35.dat               Minifig Head with Messy Hair, Moustache and Stubble Pattern
+   3626bp3r.dat               Minifig Head with Brown Moustache, Stubble, Eyebrows, Frowning Pattern
+   3626bp3j.dat               Minifig Head with Islander White/Red Painted Face Pattern
+   3626bp3e.dat               Minifig Head with Wiry Moustache, Goatee and Eyebrows Pattern
+   3626bpw9.dat               Minifig Head with Moustache, Stubble and Bald Hair Part Pattern
+   3626bp68.dat               Minifig Head with Silver Sunglasses and Red Headset Pattern
+   3626bp67.dat               Minifig Head with Thin Moustache, Stubble and Sideburns Pattern
+   3626bp65.dat               Minifig Head with Ice Planet Female Red Hair Pattern
+   3626bp64.dat               Minifig Head with Gold Robot Pattern
+   3626bp63.dat               Minifig Head with Silver Robot Pattern
+   3626bp61.dat               Minifig Head with Ice Planet Moustache and Eyebrows Pattern
+   3626bp56.dat               Minifig Head with Insectoids with Black Hair, Headset, Green and Copper Eye Grid Pattern
+   3626bp49.dat               Minifig Head with Eye Patch, Black Stubble and Messy Hair Pattern
+   3626bp47.dat               Minifig Head with Eye Patch, Red Moustache, Beard and Messy Hair Pattern
+   3626bp66.dat               Minifig Head with Blue Headband and Dark Orange Hair Pattern

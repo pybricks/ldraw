@@ -1,0 +1,19 @@
+0 Minifig Torso with Arms and Reddish Brown Hands with Shirt, Dark Turquoise and Dark Pink Vertical Stripes Pattern
+0 Name: 76382p0038.dat
+0 Author: Manfred Schaefer [Lego-Manfred]
+0 !LDRAW_ORG Shortcut UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb3548c03, Brickowl 331339, Brickset 76382
+0 !KEYWORDS Icons of Play, Rebrickable 973c27h19pr6756, Set 60634
+0 !KEYWORDS Soccer Spectator
+
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pub.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 70 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 70 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

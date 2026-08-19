@@ -1,0 +1,57 @@
+0 Technic Pin Long without Friction with Single Slot
+0 Name: 32556a.dat
+0 Author: Donald Sutter [technog]
+0 !LDRAW_ORG Part UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 32556, Brickowl 456423, Brickset 32556
+
+0 !HISTORY 2006-04-15 [guyvivan] Secondary author
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2015-02-11 [MagFors] Redesign without peghole.dat, regenerated cond-lines
+0 !HISTORY 2015-10-11 [PTadmin] Official Update 2015-01
+0 !HISTORY 2025-02-08 [jb70] Redesign using primitives and blocked center hole
+0 !HISTORY 2025-02-09 [MagFors] Moved from 32556, added flat surface
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+1 16 10 0 0 0 -1 0 0 0 1 1 0 0 connect2.dat
+1 16 -10 0 0 0 1 0 0 0 1 1 0 0 connect2.dat
+1 16 -8 0 0 0 1 0 0 0 6 -6 0 0 4-4edge.dat
+1 16 -12 0 0 0 1 0 0 0 6 -6 0 0 4-4edge.dat
+1 16 -8 0 0 0 1 0 -8 0 0 0 0 8 7-16edge.dat
+1 16 -8 0 0 0 -1 0 -2 0 0 0 0 2 7-16ring3.dat
+1 16 -8 0 0 0 -4 0 -8 0 0 0 0 8 7-16cyli.dat
+1 16 -12 0 0 0 1 0 -8 0 0 0 0 8 7-16edge.dat
+1 16 -12 0 0 0 1 0 -2 0 0 0 0 2 7-16ring3.dat
+1 16 -8 0 0 0 1 0 -8 0 0 0 0 -8 7-16edge.dat
+1 16 -8 0 0 0 -1 0 -2 0 0 0 0 -2 7-16ring3.dat
+1 16 -8 0 0 0 -4 0 -8 0 0 0 0 -8 7-16cyli.dat
+1 16 -12 0 0 0 1 0 -8 0 0 0 0 -8 7-16edge.dat
+1 16 -12 0 0 0 1 0 -2 0 0 0 0 -2 7-16ring3.dat
+4 16 -12 5.5434 -2.2962 -12 5.5434 2.2962 -12 7.3912 3.0616 -12 7.3912 -3.0616
+1 16 -10 7.3912 0 0 0 2 0 -1 0 3.0616 0 0 rect.dat
+4 16 -8 7.3912 3.0616 -8 5.5434 2.2962 -8 5.5434 -2.2962 -8 7.3912 -3.0616
+1 16 -8 0 0 0 3 0 6 0 0 0 0 6 4-4cyli.dat
+1 16 5 0 0 0 5 0 6 0 0 0 0 6 4-4cyli.dat
+1 16 10 0 0 0 1 0 0 0 1 1 0 0 connectring.dat
+1 16 10 0 0 0 1 0 0 0 1 -1 0 0 connectring.dat
+1 16 0 0 0 0 1 0 -1 0 0 0 0 -1 connectslit4.dat
+1 16 0 0 0 0 1 0 -1 0 0 0 0 1 connectslit4.dat
+1 16 0 0 0 0 -1 0 -1 0 0 0 0 -1 connectslit4.dat
+1 16 0 0 0 0 -1 0 -1 0 0 0 0 1 connectslit4.dat
+1 16 -5 0 0 0 5 0 0 0 6 6 0 0 2-4cyli.dat
+1 16 0 0 0 0 5 0 0 0 6 6 0 0 2-4cyli.dat
+0 BFC INVERTNEXT
+1 16 10 0 0 0 -5 0 3.5 0 0 0 0 3.5 4-4cyli.dat
+1 16 -10 0 0 0 1 0 3.5 0 0 0 0 3.5 4-4edge.dat
+1 16 -10 0 0 0 1 0 4 0 0 0 0 4 4-4edge.dat
+1 16 10 0 0 0 1 0 3.5 0 0 0 0 3.5 4-4edge.dat
+1 16 10 0 0 0 1 0 4 0 0 0 0 4 4-4edge.dat
+1 16 10 0 0 0 -1 0 0.5 0 0 0 0 0.5 4-4ring7.dat
+1 16 -10 0 0 0 1 0 0.5 0 0 0 0 0.5 4-4ring7.dat
+0 BFC INVERTNEXT
+1 16 -10 0 0 0 5 0 3.5 0 0 0 0 3.5 4-4cyli.dat
+0 BFC INVERTNEXT
+1 16 -5 0 0 0 10 0 0 0 3.5 -3.5 0 0 2-4cyli.dat

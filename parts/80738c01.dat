@@ -1,0 +1,37 @@
+0 ~Electric Control+ Hub Bottom with Screw Holes with Electric Contacts
+0 Name: 80738c01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Shortcut UPDATE 2025-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Powered Up, Technic
+
+0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 80738.dat
+0 // Contacts
+1 494 -6 -6 77 7 0 0 0 14 0 0 0 -3 box2-7.dat
+0 BFC INVERTNEXT
+1 494 -6 -6.5 77.5 7 0 0 0 13.5 0 0 0 -2.5 box2-7.dat
+1 494 -6 -20 74.5 7 0 0 0 1 0 0 0 .5 recte4.dat
+1 494 -6 7.5 80 7 0 0 0 0 -.5 0 1 0 recte4.dat
+4 494 1 7 80 1 7 75 1 8 74 1 8 80
+4 494 1 -20 74 1 8 74 1 7 75 1 -20 75
+4 494 -13 8 74 -13 7 75 -13 7 80 -13 8 80
+4 494 -13 -20 74 -13 -20 75 -13 7 75 -13 8 74
+1 494 -48 -6 77 7 0 0 0 14 0 0 0 -3 box2-7.dat
+0 BFC INVERTNEXT
+1 494 -48 -6.5 77.5 7 0 0 0 13.5 0 0 0 -2.5 box2-7.dat
+1 494 -48 -20 74.5 7 0 0 0 1 0 0 0 .5 recte4.dat
+1 494 -48 7.5 80 7 0 0 0 0 -.5 0 1 0 recte4.dat
+4 494 -41 7 80 -41 7 75 -41 8 74 -41 8 80
+4 494 -41 -20 74 -41 8 74 -41 7 75 -41 -20 75
+4 494 -55 8 74 -55 7 75 -55 7 80 -55 8 80
+4 494 -55 -20 74 -55 -20 75 -55 7 75 -55 8 74
+0 // Battery rubber button
+1 496 26 -24 50 6 0 0 0 6 0 0 0 6 4-4cylc.dat
+1 496 26 -18 50 6 0 0 0 -1 0 0 0 6 4-4disc.dat
+1 496 26 -16.5 50 2 0 0 0 -1.5 0 0 0 2 4-4cylc.dat

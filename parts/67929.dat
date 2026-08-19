@@ -1,0 +1,25 @@
+0 Plate  6 x  6 Octagon with Rim
+0 Name: 67929.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2024-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-12-09 {LEGO Instructions App} Original part shape
+0 !HISTORY 2022-12-10 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\67929s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\67929s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\67929s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\67929s01.dat
+4 16 -60 4 -36.285 -36.285 4 60 60 4 36.285 36.285 4 -60
+4 16 -40 0 60 -60 0 -40 40 0 -60 60 0 40
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-4x4.dat
+1 16 0 0 -50 1 0 0 0 1 0 0 0 1 stug-1x4.dat
+1 16 0 0 50 1 0 0 0 1 0 0 0 1 stug-1x4.dat
+1 16 -50 0 0 1 0 0 0 1 0 0 0 1 stug-4x1.dat
+1 16 50 0 0 1 0 0 0 1 0 0 0 1 stug-4x1.dat
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stug4-5x5.dat

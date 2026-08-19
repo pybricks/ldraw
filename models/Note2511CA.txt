@@ -1,0 +1,130 @@
+ldraw.org Parts Update 2025-11
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Sun, 30 Nov 2025 22:58:10 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 297
+   New files: 220
+   New Parts: 112
+   New Subparts: 83
+   New Primitives: 21
+   New 48_Primitives: 4
+
+Moved Parts
+   s12d.dat                   ~Moved to 4106993a-f4
+   s12a.dat                   ~Moved to 4106993a-f1
+   s12b.dat                   ~Moved to 4106993a-f2
+   s12c.dat                   ~Moved to 4106993a-f3
+   75979.dat                  ~Moved to 75979bp01
+
+Renamed Parts
+   u8002c.dat                 Mursten Brick  2 x  2 with 2 Slots
+   changed to    Mursten Brick  2 x  2 with 2 Opposite Slots
+   u8002d.dat                 Mursten Brick  2 x  2 with 2 Slots Right
+   changed to    Mursten Brick  2 x  2 with 2 Adjacent Slots
+   43693.dat                  Minifig Head Skull
+   changed to    Minifig Head Skeleton Round with Stud
+   s\92402s02.dat             ~Tyre 14/ 50 x 17 -  1/4 with Centre Band - Quarter Profile
+   changed to    ~Tyre 14/ 50 x 17 with Centre Band - Eighth
+   30648.dat                  Tyre 14.3/ 27 x  6.4 Shallow Staggered Treads
+   changed to    Tyre 14/ 25 x 17 Shallow Staggered Treads
+   s\30648s01.dat             ~Tyre 14.3/ 27 x  6.4 Shallow Staggered Treads - 1/20
+   changed to    ~Tyre 14/ 25 x 17 Shallow Staggered Treads - Eighth
+   30144p01.dat               Brick  2 x  4 x  3 with White Stripes Pattern
+   changed to    Brick  2 x  4 x  3 with 4 White Stripes Pattern
+   s\30391s02.dat             ~Tyre 14/ 50 x 17 - 1/4
+   changed to    ~Tyre 14/ 50 x 17 - Eighth
+   89201.dat                  Tyre 14/ 26 x 18 Shallow Staggered Treads with Middle Band
+   changed to    Tyre 14/ 25 x 17 Shallow Staggered Treads with Middle Band
+   s\89201s01.dat             ~Tyre 14/ 26 x 18 Shallow Staggered Treads w. Middle Band  1/20
+   changed to    ~Tyre 14/ 25 x 17 Shallow Staggered Treads with Middle Band - Eighth
+   58090.dat                  Tyre 14/ 54 x 15 VR
+   changed to    Tyre 14/ 50 x 17 VR
+   s\6578s01.dat              ~Tyre 14/ 36 x 20 VR Tread Subpart
+   changed to    ~Tyre 14/ 36 x 20 VR Tread
+   s\6578s02.dat              ~Tyre 14/ 36 x 20 VR Quarter
+   changed to    ~Tyre 14/ 36 x 20 VR Side
+   4629791a.dat               Sticker  1.3 x  1.9 with Chrome Silver Mirror
+   changed to    Sticker  1.2 x  1.8 with Chrome Silver Mirror
+   42074.dat                  Technic Bionicle Hook Small with Axle and Hole
+   changed to    Constraction Hook Small with Peghole and Axle
+   47474.dat                  Plate  2 x  2 with One Stud and Angled Axle
+   changed to    Constraction Shield Holder with Angled Axle and Stud
+   98130p02.dat               Minifig Kendo Mask with Metallic Silver Grille and Dark Red Trim Pattern
+   changed to    Minifig Kendo Mask with Metallic Silver Grille and Red Trim Pattern
+   24319pcfd.dat              Minifig Torso with Flipper Arms with Light Blue Parabola Shaped Belly Pattern
+   changed to    Minifig Torso with Flipper Arms with Bright Light Blue Parabola Shaped Belly Pattern
+   973pcfd.dat                Minifig Torso with Light Blue Parabola Shaped Belly Pattern
+   changed to    Minifig Torso with Bright Light Blue Parabola Shaped Belly Pattern
+   76382p6j.dat               Minifig Torso with Arms and Hands with Jacket, Zippered Pockets and Classic Space Logo Pattern
+   changed to    Minifig Torso with Arms and Yellow Hands with Jacket, Zippered Pockets and Classic Space Logo Pattern
+   76382ps2.dat               Minifig Torso with Arms and Hands with SW Jedi Robes and Sash Pattern
+   changed to    Minifig Torso with Arms and Yellow Hands with SW Jedi Robes and Sash Pattern
+   76382psq.dat               Minifig Torso with Arms and Hands with SW Imperial Officer (Captain) Pattern
+   changed to    Minifig Torso with Arms and Yellow Hands with SW Imperial Officer (Captain) Pattern
+   14769pz4.dat               Tile 2 x 2 Round with Centered Black Dot Pattern
+   changed to    Tile 2 x 2 Round with Centered Black Disc (8 LDU Diameter) Pattern
+   3068bp17.dat               Tile  2 x  2 with Groove and Black Circle Pattern
+   changed to    Tile  2 x  2 with Centered Black Disc (28 LDU Diameter) Pattern
+   3068bp16.dat               Tile  2 x  2 with Black Large Circle Pattern
+   changed to    Tile  2 x  2 with Centered Black Disc (36 LDU Diameter) Pattern
+   13965.dat                  Arch  1 x  3 x  3
+   changed to    Arch  1 x  3 x  3 Pointed
+   88292.dat                  Arch  1 x  3 x  2
+   changed to    Arch  1 x  3 x  2 Ogee
+   axleend20.dat              Axle End 20 LDU
+   changed to    Technic Axle End 20 LDU
+   s\stickerback013x015.dat   ~Stickerback  1.3 x  1.5
+   changed to    ~Sticker Back  1.3 x  1.5
+
+Other Fixed Parts
+   u8002b.dat                 Mursten Brick  2 x  2 with 1 Slot
+   u8004b.dat                 Mursten Brick  2 x  4 with 1 Slot
+   u8004c.dat                 Mursten Brick  2 x  4 with 2 Slots
+   2683.dat                   ~Monorail Motor Case
+   2726.dat                   ~Electric Brick  2 x  2 x  0.667 Top
+   6554.dat                   ~Electric Brick  2 x  2 x  0.667 with Side Clamps
+   u9347.dat                  ~Electric Technic Mini-Motor  9V - Contact
+   4526.dat                   Technic Beam 13 x  3 with Two Open Areas  5 x  1
+   14769p0b.dat               Tile  2 x  2 Round with Round Underside Stud with Dart Board Pattern
+   6233.dat                   Cone  3 x  3 x  2
+   2345p02.dat                Panel Wall  3 x  3 x  6 Corner with Dark Grey Stones Pattern
+   2345p03.dat                Panel Wall  3 x  3 x  6 Corner with Light Grey Stones Pattern
+   2463.dat                   Brick  3 x  3 x  2 Facet Top
+   51011.dat                  Tyre  6.4/ 75 x  8 Shallow Offset Tread
+   92409.dat                  Tyre  6.4/ 75 x  8 Shallow Offset Tread with Centre Band
+   30144.dat                  Brick  2 x  4 x  3
+   30145p01.dat               Brick  2 x  2 x  3 with 4 White Stripes Pattern
+   2696.dat                   Tyre 12.7/ 51 x 30
+   30391.dat                  Tyre 14/ 50 x 17
+   92402.dat                  Tyre 14/ 50 x 17 with Centre Band
+   44308.dat                  Tyre 22/ 30 x 30 H
+   s\44309s01.dat             ~Tyre 22/ 30 x 30 ZR Segment
+   44309.dat                  Tyre 22/ 30 x 30 ZR
+   6578.dat                   Tyre 14/ 36 x 20 VR
+   271.dat                    Plate  2 x  2 with Hinges
+   s\4215as01.dat             ~Panel  1 x  4 x  3 without Front Face
+   3627.dat                   Constraction Lightsaber Blade 10L with Axle End
+   axleho10.dat               Technic Axle Base Surface
+   3069bp84.dat               Tile  1 x  2 with Lavender Ribbon with "12:00" and  3 Balloons Pattern
+   59426.dat                  Technic Axle  5.5 with Stop Type 2
+   99008.dat                  Technic Axle  4 with Middle Cylindrical Stop
+   32209.dat                  Technic Axle  5.5 with Stop Type 1
+   3039p02.dat                Slope Brick 45  2 x  2 with Left Green Inverse 1/4 Disc Pattern
+   4273b.dat                  Technic Connector Toggle Joint Toothed
+   34987.dat                  ~Animal Trunk Right
+   4121723o.dat               Sticker  1.6 x  1.6 with Black Grille and Transparent Background
+   98374.dat                  Minifig Pot Small with Handle Holders
+   u7031.dat                  Modulex Slope Brick 27  2 x  1
+   4182d04.dat                Train Door  1 x  4 x  5 Right with Sticker DB 7727
+   4181d04.dat                Train Door  1 x  4 x  5 Left with Sticker DB 7727
+   195405a.dat                Sticker  2.4 x  2 with White German Railways Logo and "7727"
+   004585a.dat                Sticker Minifig Torso with White Buttons and Police Badge Plain
+   2335p04.dat                Flag  2 x  2 with Blue Imperial Guard Pattern
+
+Minor Edits
+   2 Parts with minor administrative edits and/or license changes

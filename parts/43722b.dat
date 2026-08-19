@@ -1,0 +1,17 @@
+0 Wing  2 x  3 Right with Chamfer
+0 Name: 43722b.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 43722, Brickowl 97785, Brickset 43722, Rebrickable 43722
+0 !KEYWORDS wedge plate
+
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\43722bs01.dat
+1 16 10 0 0 0 0 -1 0 1 0 1 0 0 stug-1x3.dat
+3 16 0 0 -30 20 0 -30 20 0 30
+4 16 -19 0 30 -19 0 27 0 0 -30 20 0 30

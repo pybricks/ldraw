@@ -1,0 +1,13 @@
+0 Wheel 14 x 35 with 4 Spokes with Integral Tyre
+0 Name: 65834.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-26 [KnightOfTarenta] Modified from 65834p01 by Philippe Hurbain [Philo]
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65834s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65834s03.dat

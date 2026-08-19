@@ -1,0 +1,43 @@
+0 Wheel Rim 13 x 56 with 12 Spokes and Axlehole
+0 Name: 7877.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Part UPDATE 2026-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickowl 222818, Set 11376
+
+0 !HISTORY 2026-03-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-03-08 [jb70] File preparation for LDraw Parts Tracker
+0 !HISTORY 2026-03-31 [OrionP] Official Update 2026-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7877s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\7877s03.dat
+
+0 // Hub
+1 16 0 0 -10 1 0 0 0 0 -1 0 20 0 axl3hole.dat
+1 16 0 0 -5 22 0 0 0 0 22 0 10 0 48\4-4cylo.dat
+
+0 // 12 Spokes
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7877s01.dat
+1 16 0 0 0 .86603 -.5 0 .5 .86603 0 0 0 1 s\7877s01.dat
+1 16 0 0 0 .5 -.86603 0 .86603 .5 0 0 0 1 s\7877s01.dat
+1 16 0 0 0 0 -1 0 1 0 0 0 0 1 s\7877s01.dat
+1 16 0 0 0 -.5 -.86603 0 .86603 -.5 0 0 0 1 s\7877s01.dat
+1 16 0 0 0 -.86603 -.5 0 .5 -.86603 0 0 0 1 s\7877s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\7877s01.dat
+1 16 0 0 0 -.86603 .5 0 -.5 -.86603 0 0 0 1 s\7877s01.dat
+1 16 0 0 0 -.5 .86603 0 -.86603 -.5 0 0 0 1 s\7877s01.dat
+1 16 0 0 0 0 1 0 -1 0 0 0 0 1 s\7877s01.dat
+1 16 0 0 0 .5 .86603 0 -.86603 .5 0 0 0 1 s\7877s01.dat
+1 16 0 0 0 .86603 .5 0 -.5 .86603 0 0 0 1 s\7877s01.dat
+
+0 // Outer rim
+0 BFC INVERTNEXT
+1 16 0 0 -14.25 61.25 0 0 0 0 61.25 0 28.5 0 48\4-4cylo.dat
+1 16 0 0 -4 65 0 0 0 0 65 0 8 0 48\4-4cylo.dat
+1 16 0 -64.9 0 0 0 1.5 0 -4.7 0 -4 0 0 box3u2p.dat
+1 16 64.9 0 0 0 4.7 0 0 0 1.5 -4 0 0 box3u2p.dat
+1 16 0 64.9 0 0 0 -1.5 0 4.7 0 -4 0 0 box3u2p.dat
+1 16 -64.9 0 0 0 -4.7 0 0 0 -1.5 -4 0 0 box3u2p.dat

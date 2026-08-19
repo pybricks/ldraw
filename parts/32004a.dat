@@ -1,0 +1,23 @@
+0 Wheel Rim 18 x 41 Model Team Type  1
+0 Name: 32004a.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Wheel
+0 !KEYWORDS 68.8 x 24S, Black Cat, Brickowl 195127, Giant Truck, Set 5571
+
+0 !HISTORY 2026-05-12 [MagFors] Reworked inside structure
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+0 // Nomenclature: width_(mm) x rim_diameter_(mm) [optional qualifier]
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32004s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32004as01.dat
+1 16 0 0 0 0.5 0.866 0 -0.866 0.5 0 0 0 1 s\32004as01.dat
+1 16 0 0 0 -0.5 0.866 0 -0.866 -0.5 0 0 0 1 s\32004as01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\32004as01.dat
+1 16 0 0 0 -0.5 -0.866 0 0.866 -0.5 0 0 0 1 s\32004as01.dat
+1 16 0 0 0 0.5 -0.866 0 0.866 0.5 0 0 0 1 s\32004as01.dat

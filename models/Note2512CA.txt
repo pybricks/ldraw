@@ -1,0 +1,117 @@
+ldraw.org Parts Update 2025-12
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Thu, 25 Dec 2025 05:08:19 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 105
+   New files: 42
+   New Parts: 20
+   New Subparts: 22
+
+Moved Parts
+   476.dat                    ~Moved to 6076
+   98252.dat                  ~Moved to 98252b
+   98224.dat                  ~Moved to 98224b
+
+Renamed Parts
+   s\2867s05.dat              ~Train Track  9V Curved Metal Track
+   changed to    ~Train Track  9V Curved Metal Track (Obsolete)
+   4744p03.dat                Brick  2 x  4 x  2 with Curved Top with Face/Moustache Pattern
+   changed to    Brick  2 x  4 x  2 with Curved Top with Face with Moustache Pattern
+   169675f.dat                Sticker  0.8 x  1.9 with "240457 P" and "t 1880 kg"
+   changed to    Sticker  0.8 x  1.9 with "240457 P" and "t 1880 kg" on Transparent Background
+   973p1k.dat                 Minifig Torso with TV Logo Pattern Small
+   changed to    Minifig Torso with TV Logo Small Pattern
+   30480ps0.dat               Minifig Head Protocol Droid with Light Yellow Eyes Pattern
+   changed to    Minifig Head Protocol Droid with Bright Light Yellow Eyes Pattern
+   4744p01.dat                Brick  2 x  4 x  2 with Curved Top with Plain Face Pattern
+   changed to    Brick  2 x  4 x  2 with Curved Top with Girl Face Pattern
+   4603014d.dat               Sticker  5.9 x  1.9 with "Menu", Ice Cream, Cupcake and Strawberries
+   changed to    Sticker  5.8 x  1.8 with "Menu", Ice Cream, Cupcake and Strawberries
+   4603014e.dat               Sticker  2.3 x  2.9 with Two Cupcakes
+   changed to    Sticker  2.2 x  2.8 with Two Cupcakes
+   2345p01.dat                Panel Wall  3 x  3 x  6 Corner with Lines Pattern
+   changed to    Panel Wall  3 x  3 x  6 Corner with Black Lines Pattern
+   25412.dat                  Minifigur Hair Tousled and Sticking Out on Both Sides
+   changed to    Minifig Hair Tousled and Sticking Out on Both Sides
+   logo-boss-text-outerbox-01.datLogo Boss Text From 1924 To 2021
+   changed to    Logo Boss Text Box From 1924 To 2021
+   logo-mercedes-benz-text-box.datLogo Mercedes-Benz Text
+   changed to    Logo Mercedes-Benz Text Box
+   92906.dat                  Technic Steering Constant Velocity Joint Female
+   changed to    Technic Steering Constant Velocity 4.8mm Joint Female
+   3596cw1.dat                Flag on Flagpole with Cavalry Logo Sticker (Shortcut)
+   changed to    Flag on Flagpole with Cavalry Logo Sticker
+   15210d03.dat               Roadsign Clip-on 2 x 2 Square with Cup Prohibited Sign on White Background Sticker
+   changed to    Roadsign Clip-on  2 x  2 Square with Cup Prohibited Sign on White Background Sticker
+   15210d02.dat               Roadsign Clip-on 2 x 2 Square with Camera Prohibited Sign on White Background Sticker
+   changed to    Roadsign Clip-on  2 x  2 Square with Camera Prohibited Sign on White Background Sticker
+   15210d05.dat               Roadsign Clip-on 2 x 2 Square with Baby Prohibited Sign on White Background Sticker
+   changed to    Roadsign Clip-on  2 x  2 Square with Baby Prohibited Sign on White Background Sticker
+   15210d04.dat               Roadsign Clip-on 2 x 2 Square with Popsicle Prohibited Sign on White Background Sticker
+   changed to    Roadsign Clip-on  2 x  2 Square with Popsicle Prohibited Sign on White Background Sticker
+   15210d06.dat               Roadsign Clip-on 2 x 2 Square with Dog Prohibited Sign on White Background Sticker
+   changed to    Roadsign Clip-on  2 x  2 Square with Dog Prohibited Sign on White Background Sticker
+   30258d02.dat               Roadsign Clip-on 2 x 2 Square with Goods and Prices Sticker
+   changed to    Roadsign Clip-on  2 x  2 Square with Goods and Prices Sticker
+   30258df0.dat               Roadsign Clip-on 2 x 2 Square with Beauty Shop Cashier Display Sticker
+   changed to    Roadsign Clip-on  2 x  2 Square with Beauty Shop Cashier Display Sticker
+   30258df1.dat               Roadsign Clip-on 2 x 2 Square with Vet Clinic Computer Display Sticker
+   changed to    Roadsign Clip-on  2 x  2 Square with Vet Clinic Computer Display Sticker
+   30259ad02.dat              Roadsign Clip-on 2.2 x 2.667 Triangular with Worker and 1 Pile Pattern Sticker
+   changed to    Roadsign Clip-on  2.2 x  2.667 Triangular with Worker and 1 Pile Pattern Sticker
+   4197p01.dat                Duplo Brick 2 x 6 x 2 with Raised Central 2 x 2 Section with Curved Sides with Three Yellow Stars Pattern
+   changed to    Duplo Brick  2 x  6 x  2 with Raised Central  2 x  2 Section with Curved Sides with Three Yellow Stars Pattern
+   4197p06.dat                Duplo Brick 2 x 6 x 2 with Raised Central 2 x 2 Section with Curved Sides with "Zoo" in Form of Snake Pattern
+   changed to    Duplo Brick  2 x  6 x  2 with Raised Central  2 x  2 Section with Curved Sides with "Zoo" in Form of Snake Pattern
+   4197pt1.dat                Duplo Brick 2 x 6 x 2 with Raised Central 2 x 2 Section with Curved Sides with Blue "WINDMILL" Pattern
+   changed to    Duplo Brick  2 x  6 x  2 with Raised Central  2 x  2 Section with Curved Sides with Blue "WINDMILL" Pattern
+   11055d04.dat               Flag 2 x 2 with Reddish Brown Symmetric Symbols on White Background Sticker on Both Sides
+   changed to    Flag  2 x  2 with Reddish Brown Symmetric Symbols on White Background Sticker on Both Sides
+   98138p39.dat               Tile  1 x  1 Round with with Orange Fruit Slice Pattern
+   changed to    Tile  1 x  1 Round with Orange Fruit Slice Pattern
+   98138pt0.dat               Tile  1 x  1 Round with 'RS' Pattern
+   changed to    Tile  1 x  1 Round with "RS" Pattern
+   98138p83.dat               Tile  1 x  1 Round with White 'LIGHT' on Red Half and Angry Eyes Pattern
+   changed to    Tile  1 x  1 Round with White "LIGHT" on Red Half and Angry Eyes Pattern
+   14769pz4.dat               Tile 2 x 2 Round with Centered Black Disc (8 LDU Diameter) Pattern
+   changed to    Tile  2 x  2 Round with Centered Black Disc (8 LDU Diameter) Pattern
+   3070bpy2.dat               Tile 1 x 1 with Blue Triangle Pattern
+   changed to    Tile  1 x  1 with Blue Triangle Pattern
+
+Other Fixed Parts
+   21459.dat                  Minifig Sword Katana Type  3 (Square Guard with Smooth Endcap)
+   87080.dat                  Technic Panel Fairing Smooth #1 (Short)
+   s\64683s01.dat             ~Technic Panel Fairing Smooth End
+   35578.dat                  Tyre 14/ 70 x 17
+   s\2345s01.dat              ~Panel Wall  3 x  3 x  6 Corner without Front Faces
+   4215ap01.dat               Panel  1 x  4 x  3 with Red Bar and White Grille Pattern
+   4215ap18.dat               Panel  1 x  4 x  3 with "POLICE" and White Grille Pattern
+   s\98224s01.dat             ~Duplo Brick  2 x  4 with Curved Bottom without Front Surface
+   30480.dat                  Minifig Head Protocol Droid
+   32124.dat                  Technic Rotor  2 Blade with 4 Studs
+   6011268c.dat               Sticker  3.6 x  1.6 with Werewolf Portrait
+   30925.dat                  Plate  1 x  2 with Spoiler  1 x  4
+   581c02.dat                 Electric Motor  4 x 12 x  3.333 Type 2 12V
+   564c01.dat                 Electric Motor  4 x 12 x  3.333 Type 1  4.5V
+   u9482c01.dat               Electric Motor  4 x 12 x  3.333 Type 3  4.5V
+   581c01.dat                 Electric Motor  4 x 12 x  3.333 Type 2  4.5V
+   564c02.dat                 Electric Motor  4 x 12 x  3.333 Type 1 12V
+   u9010.dat                  ~Technic Axle Flexible 26 Axle - 4.8L End
+   u9011.dat                  ~Technic Axle Flexible 26 Axle - 2L End
+   u9419.dat                  ~Technic Pneumatic Valve with Axle Hole Lever
+   u9370c06.dat               Door  2 x  6 x  5 Frame with Blue Door with 3 Panes with Yellow "POLICE" Sticker
+   axlecaph2.dat              Technic Axle Endcap with Hole 5D
+   172.dat                    ~Technic Gearbox 20:1 Reduction Output Shaft
+   t1058.dat                  ~| Circuit Cubes Geared Motor Shaft
+   t1104.dat                  ~| Circuit Cubes High Speed Motor Axle
+   t1114.dat                  | Circuit Cubes Axle  1.75 Notched
+   t1115.dat                  | Circuit Cubes Axle  1.25 Notched
+   5843.dat                   Arch  1 x  3 x  1.667 with Curved Top
+
+Minor Edits
+   51 Parts with minor administrative edits and/or license changes

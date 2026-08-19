@@ -1,0 +1,17 @@
+0 Animal Kitten Standing with Tan Muzzle and Black Mouth, Nose, and Eyes with White Pupils Pattern
+0 Name: 80686p02.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 80686pb02, Brickowl 660618, Rebrickable 80686pr0001
+0 !KEYWORDS Set 60319, Set 60321
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80686s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80686p01s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80686p02s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\80686p02s03.dat

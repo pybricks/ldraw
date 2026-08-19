@@ -1,0 +1,15 @@
+0 Minifig Hat Beekeeper with Molded Trans-Brown Visor Pattern
+0 Name: 69938p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2026-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 69938pb02, Brickowl 1000749, Brickset 69938, CMF
+0 !KEYWORDS Rebrickable 69938pat0002, Series 21, set 41703
+
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\69938s01.dat
+1 40 0 0 0 1 0 0 0 1 0 0 0 1 s\69938s02.dat

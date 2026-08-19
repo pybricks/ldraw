@@ -1,0 +1,15 @@
+0 Slope Brick 45  6 x  8 Double Inverted with  4 x  6 Cutout
+0 Name: 5119.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\5119s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\5119s01.dat
+
+1 16 0 16 70 0 0 1 0 1 0 -1 0 0 stug-2x1.dat
+1 16 0 16 -70 0 0 1 0 1 0 -1 0 0 stug-2x1.dat

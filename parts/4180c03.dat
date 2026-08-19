@@ -1,0 +1,18 @@
+0 Brick  2 x  4 Black with Wheel Rim 10 x 17.4 with  4 Studs and Freestyle Pinhole
+0 Name: 4180c03.dat
+0 Author: Bertrand Lequy [Berth]
+0 !LDRAW_ORG Shortcut UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 4180c02, Rebrickable 4180c02
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 4180a.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 4179.dat
+1 16 50 10 0 0 0 -1 0 1 0 1 0 0 2344.dat
+1 16 -50 10 0 0 0 1 0 1 0 -1 0 0 2344.dat
+1 16 50 10 0 0 0 -1 0 1 0 1 0 0 4259.dat
+1 16 -50 10 0 0 0 1 0 1 0 -1 0 0 4259.dat

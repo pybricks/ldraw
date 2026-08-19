@@ -1,0 +1,16 @@
+0 ~Wheel 13.4 x 24 Integral Smooth Racing Tyre Rim without Front
+0 Name: s\105162s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Subpart UPDATE 2025-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
+
+0 BFC INVERTNEXT
+1 16 0 0 8 21.875 0 0 0 0 21.875 0 -.4 0 48\4-4cylo.dat
+0 BFC INVERTNEXT
+1 16 0 0 -23.8 21.875 0 0 0 0 21.875 0 .4 0 48\4-4cylo.dat
+1 16 0 0 0 30 0 0 0 0 30 0 -15.8 0 48\4-4cyli.dat
+1 16 0 0 -15.8 1 0 0 0 1 0 0 0 -1 s\105162s04.dat

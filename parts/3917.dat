@@ -1,0 +1,33 @@
+0 Ring  2 x  2 with Stud Holder
+0 Name: 3917.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Bar
+0 !KEYWORDS plate, tile
+
+0 !HISTORY 2023-11-01 {LEGO Instructions App} Original part shape
+0 !HISTORY 2023-11-03 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2025-05-28 [OrionP] Official Update 2025-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3917s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3917s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3917s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3917s01.dat
+1 16 0 -28 0 20 0 0 0 0 20 0 20 0 48\tm06q2000.dat
+1 16 0 -28 0 -20 0 0 0 0 20 0 20 0 48\tm06q2000.dat
+1 16 0 -5.2 0 1 0 0 0 -1.3 0 0 0 1 stud4a.dat
+0 BFC INVERTNEXT
+1 16 0 -12.5 0 4 0 0 0 4 0 0 0 4 4-4cylo.dat
+0 BFC INVERTNEXT
+1 16 0 -8.5 0 4.5 0 0 0 3.3 0 0 0 4.5 4-4cylo.dat
+1 16 0 -8.5 0 0.5 0 0 0 -1 0 0 0 0.5 4-4ring8.dat
+1 16 0 -5.2 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 -5.2 0 1.5 0 0 0 -1 0 0 0 1.5 4-4ring3.dat
+1 16 0 -12.5 0 0 0 2 0 1 0 2 0 0 4-4ring2.dat
+1 16 0 -5.2 0 0 0 6 0 -8.4 0 6 0 0 t01o3333.dat
+5 24 4 -12.5 0 4.1411 -12.5452 0 4.1525 -12.5 0.2394 4.1525 -12.5 -0.2394
+5 24 -4 -12.5 0 -4.1411 -12.5452 0 -4.1525 -12.5 -0.2394 -4.1525 -12.5 0.2394

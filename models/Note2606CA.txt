@@ -1,0 +1,102 @@
+ldraw.org Parts Update 2026-06
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Sun, 28 Jun 2026 02:00:07 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 178
+   New files: 123
+   New Parts: 83
+   New Subparts: 38
+   New Primitives: 1
+   New Part_Texmaps: 1
+
+Moved Parts
+
+Renamed Parts
+   3626bp7a.dat               Minifig Head with Brown Hair over Eye and Black Eyebrows Pattern
+   changed to    Minifig Head with Fabuland Red Hair over Eye and Black Eyebrows Pattern
+   2374.dat                   Boat Cargo Loading Plate 10 x 12 x  3.333
+   changed to    ~Boat Cargo Loading Plate 10 x 12 x  3.333  (Obsolete)
+   36.dat                     Tyre Large
+   changed to    Tyre  7/ 50 x 36
+   s\6142275ws05.dat          ~Sticker  0.8 x  3.1 with White Trapezoid on Grey Background Left - Fifth Face
+   changed to    ~Sticker  0.8 x  3.0 with White Trapezoid on Grey Background Left - Fifth Face
+   s\6142275ws04.dat          ~Sticker  0.8 x  3.1 with White Trapezoid on Grey Background Left - Fourth Face
+   changed to    ~Sticker  0.8 x  3.0 with White Trapezoid on Grey Background Left - Fourth Face
+   s\6142275ws06.dat          ~Sticker  0.8 x  3.1 with White Trapezoid on Grey Background Left - Bottom Face
+   changed to    ~Sticker  0.8 x  3.0 with White Trapezoid on Grey Background Left - Sixth Face
+   s\6142275ws01.dat          ~Sticker  0.8 x  3.1 with White Trapezoid on Grey Background Left - First Face
+   changed to    ~Sticker  0.8 x  3.0 with White Trapezoid on Grey Background Left - First Face
+   s\6142275ws02.dat          ~Sticker  0.8 x  3.1 with White Trapezoid on Grey Background Left - Second Face
+   changed to    ~Sticker  0.8 x  3.0 with White Trapezoid on Grey Background Left - Second Face
+   s\6142275ws03.dat          ~Sticker  0.8 x  3.1 with White Trapezoid on Grey Background Left - Third Face
+   changed to    ~Sticker  0.8 x  3.0 with White Trapezoid on Grey Background Left - Third Face
+   s\6177969qs08.dat          ~Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Left - First Face
+   changed to    ~Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Left - Second Face
+   s\6177969qs09.dat          ~Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Left - Second Face
+   changed to    ~Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Left - Third Face
+   s\6177969qs10.dat          ~Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Left - Third Face
+   changed to    ~Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Left - Fourth Face
+   s\6177969qs12.dat          ~Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Left - Fifth Face
+   changed to    ~Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Left - Sixth Face
+   s\6177969qs11.dat          ~Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Left - Fourth Face
+   changed to    ~Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Left - Fifth Face
+   6142275w.dat               Sticker  0.8 x  3.1 with White Trapezoid on Grey Background Left
+   changed to    Sticker  0.8 x  3.0 with White Trapezoid on Grey Background Left
+   6142275wc01.dat            Sticker  0.8 x  3.1 with White Trapezoid on Grey Background Left (Formed)
+   changed to    Sticker  0.8 x  3.0 with White Trapezoid on Grey Background Left (Formed)
+   6177960kc01.dat            Sticker  0.8 x  3.1 with Black and Dark Orange Arch on Orange Background Right (Formed)
+   changed to    Sticker  0.8 x  3.0 with Black and Dark Orange Arch on Orange Background Right (Formed)
+   35c01.dat                  Wheel 8 x 35 with 12 Spokes with Black Tyre Large
+   changed to    Wheel  8 x 35 with 12 Spokes with Black Tyre  7/ 50 x 36
+   6142617x.dat               Sticker  0.8 x  3.0 with Headlamp on Red Background Right (Needs work)
+   changed to    Sticker  0.8 x  3.0 with Headlamp on Red Background Right
+   6142617y.dat               Sticker  0.8 x  3.0 with Headlamp on Red Background Left (Needs work)
+   changed to    Sticker  0.8 x  3.0 with Headlamp on Red Background Left
+   3037d01.dat                Slope Brick 45  2 x  4 with Sticker Red and Blue "28" on Transparent Background
+   changed to    Slope Brick 45  2 x  4 with Red "28" with Blue Contour on Transparent Background Sticker
+   76382p7v.dat               Minifig Torso with Arms and Hands with Neon Yellow Stripes, Radio and Badge Pattern
+   changed to    Minifig Torso with Arms and Yellow Hands with Neon Yellow Stripes, Radio and Badge Pattern
+   76382p8x.dat               Minifig Torso with Arms and Hands with Three White and Silver Squares Pattern
+   changed to    Minifig Torso with Dark Blue Arms and Yellow Hands with Three White and Silver Squares Pattern
+   76382pn3.dat               Minifig Torso with Arms and Hands with Green Robe with Diamonds and Green Emblem Pattern
+   changed to    Minifig Torso with Printed Arms and Hands with Green Robe with Diamonds and Green Emblem Pattern
+   76382p9i.dat               Minifig Torso with Arms and Hands with Open Suit Jacket with White Shirt, Dark Red Tie and Reddish Brown Belt Pattern
+   changed to    Minifig Torso with Arms and Light Nougat Hands with Open Suit Jacket with White Shirt, Dark Red Tie and Reddish Brown Belt Pattern
+   3626bp64.dat               Minifig Head with Gold Robot Pattern
+   changed to    Minifig Head Robot with Gold Circuitry on Black Pattern
+   3626bp63.dat               Minifig Head with Silver Robot Pattern
+   changed to    Minifig Head Robot with Silver Circuitry Pattern
+   3626bpa2.dat               Minifig Head with Adventurers Mummy Pattern
+   changed to    Minifig Head Mummy with Red Eyes and Stiches Pattern
+
+Other Fixed Parts
+   u9284.dat                  Battery Mignon (AA)
+   47298.dat                  Constraction Foot  3 x  7 x  2 with  3 Pegholes and Axle
+   50950.dat                  Slope Brick Curved  3 x  1
+   s\stickerback008x030.dat   ~Sticker Back  0.8 x  3.0
+   s\50950b01.dat             ~Sticker Back  0.8 x  3.0 (Formed)
+   s\6177969qs04.dat          ~Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Right - Fourth Face
+   s\6177969qs02.dat          ~Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Right - Second Face
+   s\6177969qs01.dat          ~Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Right - First Face
+   s\6177969qs03.dat          ~Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Right - Third Face
+   s\6177969qs05.dat          ~Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Right - Fifth Face
+   6177969q.dat               Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Right
+   6177969qc01.dat            Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Right (Formed)
+   6177969qc02.dat            Sticker  0.8 x  3.0 with Castrol Edge Logo on Red Background Left (Formed)
+   80683.dat                  Door  1 x  3 x  6
+   s\6142617xs01.dat          ~Sticker  0.8 x  3.0 with Headlamp on Red Background Right - Common Part
+   3816cpde4.dat              Minifig Leg Right with Black Gap Pattern
+   73200bpde4.dat             Minifig Hips and Legs with Black Gaps between 4 Toes Pattern
+   21019bpde1.dat             Minifig Hips and Legs with Stripes, Kneepad and Bright Pink Boots Pattern
+   3817cpde4.dat              Minifig Leg Left with Black Gap Pattern
+   20461bpde1.dat             Minifig Leg Right with Stripes, Kneepad and Bright Pink Boots Pattern
+   20460bpde1.dat             Minifig Leg Left with Stripes, Kneepad and Bright Pink Boots Pattern
+   s\6142617xs02.dat          ~Sticker  0.8 x  3.0 with Headlamp on Red Background Right - Headlamp
+
+Minor Edits
+   4 Parts with minor administrative edits and/or license changes

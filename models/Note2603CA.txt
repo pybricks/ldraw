@@ -1,0 +1,31 @@
+ldraw.org Parts Update 2026-03
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Tue, 31 Mar 2026 04:13:09 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 140
+   New files: 134
+   New Parts: 76
+   New Subparts: 57
+   New 48_Primitives: 1
+
+Moved Parts
+
+Renamed Parts
+   6228775o.dat               Sticker  0.8 x  1.8 with Red Logo Bugatti Pattern
+   changed to    Sticker  0.8 x  1.8 with Red Bugatti Logo
+   3069bds6.dat               Tile  1 x  2 with Red Logo Bugatti Pattern Sticker
+   changed to    Tile  1 x  2 with Red Bugatti Logo Sticker
+
+Other Fixed Parts
+   4444p03.dat                Panel  2 x  5 x  6 Wall with Black Half-Timber Pattern
+   s\1871s01.dat              ~Brick  1 x  1 x  1.333 Round Quarter Dome with Curved Top without Patternable Faces
+   1871.dat                   Brick  1 x  1 x  1.333 Round Quarter Dome with Curved Top
+   98138p0s.dat               Tile  1 x  1 Round with White Eight-Pointed Snowflake Pattern
+
+Minor Edits
+   0 Parts with minor administrative edits and/or license changes

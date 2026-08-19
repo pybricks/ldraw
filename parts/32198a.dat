@@ -1,0 +1,31 @@
+0 Technic Gear 20 Tooth Bevel with Two Axlehole Slots
+0 Name: 32198a.dat
+0 Author: Marc Klein [marckl]
+0 !LDRAW_ORG Part UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Technic
+0 !KEYWORDS Bricklink 32198, Brickowl 698219, Brickset 32198, Rebrickable 32198
+
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-06-25 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2017-07-16 [MagFors] bfc'd, used tooth primitive
+0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+0 !HISTORY 2018-12-08 [jb70] Moved from 32198.dat and using common subfiles
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32198s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\32198as01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\32198as01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\32198as01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\32198as01.dat
+
+1 16 0 0 0 0 0 -1 -1 0 0 0 -7 0 axlehol5.dat
+
+3 16 1.582 -19.87 -7 -1.582 -19.869 -7 0 -6 -7
+3 16 19.869 -1.582 -7 12 0 -7 19.869 1.582 -7
+3 16 -1.582 19.869 -7 1.582 19.87 -7 0 6 -7
+3 16 -12 0 -7 -19.869 -1.582 -7 -19.869 1.582 -7

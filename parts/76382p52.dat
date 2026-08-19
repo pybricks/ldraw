@@ -1,0 +1,21 @@
+0 Minifig Torso with Arms and Hands with Blacktron I Pattern
+0 Name: 76382p52.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Shortcut UPDATE 2025-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Battrax, Blacktron, Bricklink 973p52c01, BrickOwl 763559, Dwayne
+0 !KEYWORDS Invader, Mag racer, Octan, Rebrickable 973c03h03pr0052, Renegade
+0 !KEYWORDS Set 1875, Set 6648, Set 6703, Set 6704, Set 6781, Set 6876, Set 6886
+0 !KEYWORDS Set 6894, Set 6895, Set 6941, Set 6954, Set 6955, Set 6986, Set 6987
+0 !KEYWORDS Space, town
+
+0 !HISTORY 2025-01-20 [OrionP] Official Update 2025-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973p52.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 16 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 16 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

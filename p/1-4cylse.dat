@@ -1,0 +1,14 @@
+0 Cylinder Sloped 0.25 with Edge
+0 Name: 1-4cylse.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Primitive UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+0 // Adapted from 4-4cylse.dat
+
+1 16 0 1 0 1 0 0 -1 1 0 0 0 1 1-4edge.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 1-4cyls.dat

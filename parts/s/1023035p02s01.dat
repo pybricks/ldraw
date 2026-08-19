@@ -1,0 +1,18 @@
+0 ~Figure Friends Legs Shoe with Laces Top Type 3
+0 Name: s\1023035p02s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Subpart UPDATE 2025-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1023035p01s03.dat
+
+3 16 -.8 -2.4 -9.7 -3.9 -4.7 -8.8 -3.9 -2.4 -8.7
+3 16 -.8 -4.7 -9.7 -3.9 -4.7 -8.8 -.8 -2.4 -9.7
+4 16 -.8 -4.7 -9.7 -.8 -2.4 -9.7 2.4 -2.4 -9.2 2.3 -4.7 -9.2
+4 16 2.3 -4.7 -9.2 2.4 -2.4 -9.2 5.5 -2.4 -7.4 5.4 -4.7 -7.4
+3 16 5.5 -2.4 -7.4 7.6 -4.7 -4.6 5.4 -4.7 -7.4
+3 16 7.7 -2.4 -4.5 7.6 -4.7 -4.6 5.5 -2.4 -7.4

@@ -1,0 +1,21 @@
+0 ~Brick  2 x  4 without Top and Top Studs
+0 Name: s\3001s02.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Subpart UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-11-20 [Blechtaler] made from 3001s01
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+1 16 20 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
+1 16 0 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
+1 16 -20 4 0 1 0 0 0 -5 0 0 0 1 stud4.dat
+0 BFC INVERTNEXT
+1 16 0 24 0 36 0 0 0 -20 0 0 0 16 box5.dat
+4 16 40 24 20 36 24 16 -36 24 16 -40 24 20
+4 16 -40 24 20 -36 24 16 -36 24 -16 -40 24 -20
+4 16 -40 24 -20 -36 24 -16 36 24 -16 40 24 -20
+4 16 40 24 -20 36 24 -16 36 24 16 40 24 20
+1 16 0 24 0 0 0 40 0 -24 0 -20 0 0 box4.dat

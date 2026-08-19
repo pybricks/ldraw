@@ -1,0 +1,18 @@
+0 Train Base  6 x 24 with Black Train Logo on Red Background Stickers at Each End on Both Side
+0 Name: 6584d02.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Shortcut UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 6584apb06, set 2126
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6584.dat
+1 16 -224 8 -60 1 0 0 0 0 1 0 1 0 4112957d.dat
+1 16 224 8 -60 1 0 0 0 0 1 0 1 0 4112957d.dat
+1 16 -224 8 60 1 0 0 0 0 1 0 -1 0 4112957d.dat
+1 16 224 8 60 1 0 0 0 0 1 0 -1 0 4112957d.dat

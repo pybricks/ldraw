@@ -1,0 +1,23 @@
+0 Duplo Door  1 x  4 x  3 with Arched Top with Porthole
+0 Name: 4248.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Door
+
+0 !HISTORY 2022-12-20 [PTadmin] Official Update 2022-06
+0 !HISTORY 2025-02-18 [RainbowDolphin] Moved from u826.dat
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4248s01.dat
+
+1 16 -65.5 -17 -2.5 24 0 0 0 0 -24 0 5 0 48\4-4ndis.dat
+3 16 -41.5 7 -2.5 -9.5 37 -2.5 -9.5 -37 -2.5
+4 16 -133.5 -47 -2.5 -89.5 -41 -2.5 -41.5 -41 -2.5 -7.3768 -61.7824 -2.5
+4 16 -9.5 -37 -2.5 -7.3768 -61.7824 -2.5 -41.5 -41 -2.5 -41.5 7 -2.5
+4 16 -9.5 37 -2.5 -41.5 7 -2.5 -125.5 58 -2.5 -5.5 58 -2.5
+4 16 -89.5 7 -2.5 -89.5 -41 -2.5 -133.5 -47 -2.5 -133.5 50 -2.5
+4 16 -89.5 7 -2.5 -133.5 50 -2.5 -125.5 58 -2.5 -41.5 7 -2.5

@@ -1,0 +1,21 @@
+0 Minifig Torso with Arms and Light Nougat Hands with  Hooded Sweatshirt Open with Drawstrings over Dark Red Top Pattern
+0 Name: 76382p0032.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Shortcut UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bernie the Cab Driver, Bricklink 973pb2066c01, Brickowl 311421
+0 !KEYWORDS Brickset 76382, Harry Potter, Hoodie, Jacket, Jurassic world, Marvel
+0 !KEYWORDS Rebrickable 973c14h02pr3053, Set 30390, Set 75919, Set 75941
+0 !KEYWORDS Set 75967, Set 75980, Set 76178, Set 76950, Spiderman, sport
+0 !KEYWORDS Superheroes, Wizarding World, Zach Mitchell
+
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973p9b.dat
+1 16 -15.552 9 0 .985 -.17 0 .17 .985 0 0 0 1 3818.dat
+1 16 15.552 9 0 .985 .17 0 -.17 .985 0 0 0 1 3819.dat
+1 78 -23.69 26.774 -9.898 .985 -.12 .12 .17 .696 -.696 0 .707 .707 3820.dat
+1 78 23.69 26.774 -9.898 .985 .12 -.12 -.17 .696 -.696 0 .707 .707 3820.dat

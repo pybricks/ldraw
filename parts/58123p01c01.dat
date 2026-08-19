@@ -1,0 +1,17 @@
+0 Electric Power Functions IR Receiver with Black Coiled Cable and "V2" Pattern
+0 Name: 58123p01c01.dat
+0 Author: Trevor Sandy [bootknuckle]
+0 !LDRAW_ORG Shortcut UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 8043-1, BrickLink 58123bc01, Rebrickable 58123b, Set 41999-1
+0 !KEYWORDS Set 9398-1
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+0 // IR Receiver
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 58123p01.dat
+0 // Main Cable and Plug
+1 256 0 10 40.4 1 0 0 0 1 0 0 0 1 u9190c01.dat

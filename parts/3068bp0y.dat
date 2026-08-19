@@ -1,0 +1,30 @@
+0 Tile  2 x  2 with Orange and Dark Turquoise Chevrons, Yellow Diamonds and Blue Star Pattern
+0 Name: 3068bp0y.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part UPDATE 2025-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3068pb2562, Rebrickable 3068bpr9350, Set 10359
+
+0 !HISTORY 2025-01-20 [OrionP] Official Update 2025-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+
+1 3 0 0 0 0 0 1 0 1 0 1 0 0 s\3068bp0ys01.dat
+1 25 0 0 0 0 0 -1 0 1 0 1 0 0 s\3068bp0ys01.dat
+1 25 0 0 0 0 0 1 0 1 0 -1 0 0 s\3068bp0ys01.dat
+1 3 0 0 0 0 0 -1 0 1 0 -1 0 0 s\3068bp0ys01.dat
+1 25 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bp0ys01.dat
+1 3 0 0 0 -1 0 0 0 1 0 0 0 1 s\3068bp0ys01.dat
+1 3 0 0 0 1 0 0 0 1 0 0 0 -1 s\3068bp0ys01.dat
+1 25 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3068bp0ys01.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\3068bp0ys02.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\3068bp0ys02.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\3068bp0ys02.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\3068bp0ys02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bp0ys02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3068bp0ys02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3068bp0ys02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3068bp0ys02.dat

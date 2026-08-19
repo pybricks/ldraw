@@ -1,0 +1,21 @@
+0 Figure Friends Legs with Bell-Bottoms Pants with Dark Blue Shoes Pattern
+0 Name: 1021704p01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 2125c00pb001, Set 41724, Set 42639
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1023035s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1021704s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\1021704s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\1021704s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\1021704s04.dat
+1 272 0 0 0 1 0 0 0 1 0 0 0 1 s\1021704s02.dat
+1 272 0 0 0 -1 0 0 0 1 0 0 0 1 s\1021704s02.dat
+1 272 0 0 0 1 0 0 0 1 0 0 0 1 s\1021704s03.dat
+1 272 0 0 0 -1 0 0 0 1 0 0 0 1 s\1021704s03.dat

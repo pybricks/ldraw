@@ -1,0 +1,15 @@
+0 Technic Pneumatic Tube 24L
+0 Name: 63540-f1.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 192 mm, BrickLink 5102c24, Rebrickable 5102c24
+
+0 !HISTORY 2025-05-28 [OrionP] Official Update 2025-05
+
+1 16 -240 0 0 0 1 0 1 0 0 0 0 1 71533k02.dat
+1 16 240 0 0 0 -1 0 -1 0 0 0 0 1 71533k02.dat
+1 16 -240 0 0 0 480 0 1 0 0 0 0 1 71533k03.dat

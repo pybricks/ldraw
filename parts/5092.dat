@@ -1,0 +1,14 @@
+0 Tile  1 x  2 Cut Right 45 Degree
+0 Name: 5092.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\5092s01.dat
+
+4 16 -20 0 10 -20 0 -10 0 0 -10 17 0 10
+3 16 17 0 7 17 0 10 0 0 -10

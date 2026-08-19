@@ -1,0 +1,29 @@
+0 Sail 12 x 10 Trapezoidal (Formed Shape 1)
+0 Name: u767c01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Placement on mast:
+0 !HELP 1 25 0 148 0 1 0 0 0 1 0 0 0 1 4318.dat
+0 !HELP 1 25 0 -10 0 1 0 0 0 1 0 0 0 1 4733.dat
+0 !HELP 1 25 -98 0 0 0 -1 0 -1 0 0 0 0 -1 3957a.dat
+0 !HELP 1 25 98 0 0 0 1 0 -1 0 0 0 0 1 3957a.dat
+0 !HELP 1 25 0 -18 0 -1 0 0 0 1 0 0 0 -1 3957a.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sheet Fabric
+0 !KEYWORDS Set 6057
+
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u767c01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\u767c01s01.dat
+0 BFC INVERTNEXT
+1 16 0 0 .3 1 0 0 0 1 0 0 0 1 s\u767c01s01.dat
+0 BFC INVERTNEXT
+1 16 0 0 .3 -1 0 0 0 1 0 0 0 1 s\u767c01s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u767c01s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\u767c01s02.dat

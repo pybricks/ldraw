@@ -1,0 +1,16 @@
+0 Slope Brick 45  3 x  1 Inverted Double without Inner Stopper Rings with Launch Command Logo facing Right Sticker
+0 Name: 2341d01.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Shortcut UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+0 !KEYWORDS Bricklink 2341pb01, BrickOwl 274633, Launch Response Unit, Set 6336
+0 !KEYWORDS space port, Space Shuttle, town
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2341.dat
+1 16 10 12 0 0 -1 0 0 0 -1 1 0 0 169605a.dat

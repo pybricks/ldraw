@@ -1,0 +1,79 @@
+ldraw.org Parts Update 2025-10
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Mon, 27 Oct 2025 18:20:23 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 109
+   New files: 66
+   New Parts: 45
+   New Subparts: 10
+   New Primitives: 8
+   New 48_Primitives: 3
+
+Moved Parts
+
+Renamed Parts
+   s\logoshells01.dat         ~Logo Shell Image with White Border and Background
+   changed to    ~Obsolete File
+   s\logoferraris01b.dat      ~Logo Ferrari Text Background
+   changed to    ~Obsolete File
+   s\logoferraris01a.dat      ~Logo Ferrari Text
+   changed to    ~Obsolete File
+   logo-ferrari-horse-lowres.datFerrari Horse Logo in Low Resolution
+   changed to    ~Ferrari Horse Logo in Low Resolution (Obsolete)
+   logo-ferrari-horse-lowres-box.datFerrari Horse Logo in Low Resolution Box
+   changed to    ~Ferrari Horse Logo in Low Resolution Box (Obsolete)
+   3070bps2.dat               Tile  1 x  1 with White Lines and Dots Pattern
+   changed to    Tile  1 x  1 with White Lines and Tan Dots Pattern
+   bush0.dat                  Technic Bush without Collars
+   changed to    Technic Bush without Collars with Edge Lines
+   65249.dat                  Technic Axle Pin Long without Friction with 2L Axle
+   changed to    Technic Axle Pin Long without Friction with  2L Axle
+   s\6474s01.dat              ~Duplo Slope  2 x  2 x  1.5 without Back and Slope Face
+   changed to    ~Duplo Slope  2 x  2 x  1.5 without Patternable Faces
+   3817cpy5.dat               Minifig Leg Left with Racing Suit with with Orange Lines and Silver Hexagons Pattern
+   changed to    Minifig Leg Left with Racing Suit with Orange Lines and Silver Hexagons Pattern
+   98138py0.dat               Tile  1 x  1 Round with Small Black Disc Pattern
+   changed to    Tile  1 x  1 Round with Black Disc (14 LDU Diameter) Pattern
+   98138p38.dat               Tile  1 x  1 Round with Large Black Disc Pattern
+   changed to    Tile  1 x  1 Round with Black Disc (16 LDU Diameter) Pattern
+
+Other Fixed Parts
+   2655.dat                   Plate  2 x  2 Round with 2 Wheel Clips
+   3298p77.dat                Slope Brick 33  3 x  2 with Logo Ferrari Badge Rounded Pattern
+   2606.dat                   ~Brick  1 x  2 x  2 & 1/3 Shock Absorber Bushing
+   2527.dat                   Minifig Cannon  2 x  4 Base
+   42657.dat                  Duplo Brick  1 x  2 x  2 Type 3
+   4066b.dat                  Duplo Brick  1 x  2 x  2 Type 2
+   4066a.dat                  Duplo Brick  1 x  2 x  2 Type 1
+   3039p02.dat                Slope Brick 45  2 x  2 with Left Green Inverse 1/4 Disc Pattern
+   4864ap12.dat               Panel  1 x  2 x  2 with Black Stripes Pattern
+   joint8socket2.dat          Joint-8 Socket Free Square
+   s\6009254es01.dat          ~Sticker  1.7 x  0.8 with Logos Shell and Santander on Red Background - Section 1
+   s\6009254gs01.dat          ~Sticker  1.0 x  0.8 with Logo Scuderia Ferrari on Red Background - Upper Section 1
+   004608a.dat                =Sticker Minifig Torso with Yellow Buttons and Grey Belt
+   63082.dat                  Plate  2 x  2 with Socket Joint-8 Square and Axlehole
+   27940.dat                  Technic Axle  3L with Middle Perpendicular Pin Hole
+   22961.dat                  Technic Axle with Perpendicular Pin Hole
+   43093.dat                  Technic Axle Pin with Friction
+   57585.dat                  Technic Bush with Three Axles
+   7222.dat                   Technic Axle with  4 Wheel Pins
+   3749.dat                   Technic Axle Pin
+   7244.dat                   Technic Beam  2L with Perpendicular 1L Axle
+   10197.dat                  Technic Axle and Pin Connector Hub with 2 Axles at 90 Degrees
+   11214.dat                  Technic Axle Pin Long with Friction with  2L Pin
+   2736.dat                   Technic Axle Towball
+   4695.dat                   ~Technic Pneumatic Valve Lever
+   5713.dat                   Technic Axle  3L with Perpendicular Pin Hole
+   18651.dat                  Technic Axle Pin Long with Friction with  2L Axle
+   6474.dat                   Duplo Slope  2 x  2 x  1.5
+   axlehol9.dat               Technic Axle Inner Edges
+   6553.dat                   Technic Connector (Axle) with Axle 1.5
+   24014.dat                  Technic Gear 12 Tooth Double Bevel with Axle Extension
+
+Minor Edits
+   5 Parts with minor administrative edits and/or license changes

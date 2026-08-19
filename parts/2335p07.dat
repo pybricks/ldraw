@@ -1,0 +1,22 @@
+0 Flag  2 x  2 with Samurai Horns on Metallic Gold Fan Pattern
+0 Name: 2335p07.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Part UPDATE 2026-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 2335px2, BrickOwl 525768, Brickset 83137, Feudal Japan
+0 !KEYWORDS Katana Swords, Ninja, Rebrickable 2335pr0020, samurai, Set 6083
+0 !KEYWORDS set 6089, Set 6093, Shogun Gi-Dan
+
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2335s01.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2335p07s01.dat
+1 16 0 40 0 1 0 0 0 -1 0 0 0 1 s\2335p07s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\2335p07s01.dat
+1 16 0 40 0 -1 0 0 0 -1 0 0 0 1 s\2335p07s01.dat

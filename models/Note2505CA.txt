@@ -1,0 +1,218 @@
+ldraw.org Parts Update 2025-05
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Wed, 28 May 2025 03:31:28 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 485
+   New files: 372
+   New Parts: 219
+   New Subparts: 114
+   New Primitives: 17
+   New 48 Segment Primitives: 10
+   New TEXMAP Images: 12
+
+Moved Parts
+   31213.dat                  ~Moved to 31213b
+   2301.dat                   ~Moved to 2301b
+   2302.dat                   ~Moved to 2302b
+
+Renamed Parts
+   30367cps0.dat              Cylinder  2 x  2 with Dome Top with SW Green and Light Bluish Grey Pattern
+   changed to    Cylinder  2 x  2 with Dome Top with SW Green/Grey R2-A5 Pattern
+   95198.dat                  Windscreen  8 x  8 x  3.667 Dome Hinge Locking w/ 2 Dual Fingers
+   changed to    Windscreen  8 x  8 x  3.667 Dome Hinge Locking with 2 Dual Fingers
+   s\95198s01.dat             ~Windscreen  8 x  8 x  3.667 Dome Hinge Locking Half
+   changed to    ~Windscreen  8 x  8 x  3.667 Dome Hinge Locking Half - Inside and Hinge
+   u1208a.dat                 Technic Axle Adaptor Metal Short
+   changed to    Technic Axle Adapter Metal Short
+   u1208b.dat                 Technic Axle Adaptor Metal Long
+   changed to    Technic Axle Adapter Metal Long
+   3626bph4.dat               Minifig Head with Gregory Goyle/Harry Potter 2-Sided Pattern
+   changed to    Minifig Head with HP Gregory Goyle/Harry Potter 2-Sided Pattern
+   u9495p01.dat               Sheet Fabric 30 x 15 Trapezoidal Sail with Thick Stripes on White Background Pattern
+   changed to    Sail 30 x 15 Trapezoidal with Thick Stripes on White Background Pattern
+   u9495.dat                  Sheet Fabric 30 x 15 Trapezoidal Sail
+   changed to    Sail 30 x 15 Trapezoidal
+   u9496c02.dat               Sheet Fabric 15 x 22 Triangular Sail (Formed Shape 2)
+   changed to    Sail 15 x 22 Triangular with  8 Holes (Formed Shape 2)
+   u9496c01.dat               Sheet Fabric 15 x 22 Triangular Sail (Formed Shape 1)
+   changed to    Sail 15 x 22 Triangular with  8 Holes (Formed Shape 1)
+   u9496.dat                  Sheet Fabric 15 x 22 Triangular Sail
+   changed to    Sail 15 x 22 Triangular with  8 Holes
+   s\u9496s01.dat             ~Sheet Fabric 15 x 22 Triangular Sail Surface Stripe 1
+   changed to    ~Sail 15 x 22 Triangular with 8 Holes - Surface Stripe 1
+   s\u9496s02.dat             ~Sheet Fabric 15 x 22 Triangular Sail Surface Stripe 2
+   changed to    ~Sail 15 x 22 Triangular with 8 Holes - Surface Stripe 2
+   s\u9496s03.dat             ~Sheet Fabric 15 x 22 Triangular Sail Edge Stripe 1
+   changed to    ~Sail 15 x 22 Triangular with 8 Holes - Edge Stripe 1
+   s\u9496s04.dat             ~Sheet Fabric 15 x 22 Triangular Sail Edge Stripe 2
+   changed to    ~Sail 15 x 22 Triangular with 8 Holes - Edge Stripe 2
+   u9496p01.dat               Sheet Fabric 15 x 22 Triangular Sail with Thick Stripes on White Background Pattern
+   changed to    Sail 15 x 22 Triangular  with 8 Holes with Thick Stripes on White Background Pattern
+   u9496p01c01.dat            Sheet Fabric 15 x 22 Triangular Sail with Thick Stripes on White Background Pattern (Formed Shape 1)
+   changed to    Sail 15 x 22 Triangular with 8 Holes with Thick Stripes on White Background Pattern (Formed Shape 1)
+   s\u9496c01s04.dat          ~Sheet Fabric 15 x 22 Triangular Sail Surface Edge Stripe 2 (Formed Shape 1)
+   changed to    ~Sail 15 x 22 Triangular with 8 Holes - Surface Edge Stripe 2 (Formed Shape 1)
+   s\u9496c01s03.dat          ~Sheet Fabric 15 x 22 Triangular Sail Surface Edge Stripe 1 (Formed Shape 1)
+   changed to    ~Sail 15 x 22 Triangular with 8 Holes - Surface Edge Stripe 1 (Formed Shape 1)
+   s\u9496c01s02.dat          ~Sheet Fabric 15 x 22 Triangular Sail Surface Stripe 2 (Formed Shape 1)
+   changed to    ~Sail 15 x 22 Triangular with 8 Holes - Surface Stripe 2 (Formed Shape 1)
+   s\u9496c01s01.dat          ~Sheet Fabric 15 x 22 Triangular Sail Surface Stripe 1 (Formed Shape 1)
+   changed to    ~Sail 15 x 22 Triangular with 8 Holes - Surface Stripe 1 (Formed Shape 1)
+   s\u9496c02s01.dat          ~Sheet Fabric 15 x 22 Triangular Sail Surface Stripe  1 (Formed Shape 2)
+   changed to    ~Sail 15 x 22 Triangular with 8 Holes - Surface Stripe  1 (Formed Shape 2)
+   s\u9496c02s02.dat          ~Sheet Fabric 15 x 22 Triangular Sail Surface Stripe 2 (Formed Shape 2)
+   changed to    ~Sail 15 x 22 Triangular with 8 Holes - Surface Stripe 2 (Formed Shape 2)
+   s\u9496c02s04.dat          ~Sheet Fabric 15 x 22 Triangular Sail Edge Stripe 2 (Formed Shape 2)
+   changed to    ~Sail 15 x 22 Triangular with 8 Holes - Edge Stripe 2 (Formed Shape 2)
+   s\u9496c02s03.dat          ~Sheet Fabric 15 x 22 Triangular Sail Edge Stripe 1 (Formed Shape 2)
+   changed to    ~Sail 15 x 22 Triangular with 8 Holes - Edge Stripe 1 (Formed Shape 2)
+   u9496p01c02.dat            Sheet Fabric 15 x 22 Triangular Sail with Thick Stripes on White Background Pattern (Formed Shape 2)
+   changed to    Sail 15 x 22 Triangular with 8 Holes with Thick Stripes on White Background Pattern (Formed Shape 2)
+   u9499.dat                  Sheet Fabric 25 x 25 Square Sail
+   changed to    Sail 25 x 25 Square
+   u9499c01.dat               Sheet Fabric 25 x 25 Square Sail (Formed)
+   changed to    Sail 25 x 25 Square (Formed)
+   u9499p01c01.dat            Sheet Fabric 25 x 25 Square Sail with Thick Stripes Skull and Crossed Bones on White Background Pattern (Formed)
+   changed to    Sail 25 x 25 Square with Thick Stripes Skull and Crossed Bones on White Background Pattern (Formed)
+   u9499p01.dat               Sheet Fabric 25 x 25 Square Sail with Thick Stripes Skull and Crossed Bones on White Background Pattern
+   changed to    Sail 25 x 25 Square with Thick Stripes Skull and Crossed Bones on White Background Pattern
+   s\u9495s04.dat             ~Sheet Fabric 30 x 15 Trapezoidal Sail Edge Stripe 2
+   changed to    ~Sail 30 x 15 Trapezoidal - Edge Stripe 2
+   s\u9495s03.dat             ~Sheet Fabric 30 x 15 Trapezoidal Sail Edge Stripe 1
+   changed to    ~Sail 30 x 15 Trapezoidal - Edge Stripe 1
+   s\u9495s01.dat             ~Sheet Fabric 30 x 15 Trapezoidal Sail Surface Stripe 1
+   changed to    ~Sail 30 x 15 Trapezoidal - Surface Stripe 1
+   s\u9495s02.dat             ~Sheet Fabric 30 x 15 Trapezoidal Sail Surface Stripe 2
+   changed to    ~Sail 30 x 15 Trapezoidal - Surface Stripe 2
+   s\u9499c01s01.dat          ~Sheet Fabric 25 x 25 Square Sail Skull and Stripe 1 (Formed)
+   changed to    ~Sail 25 x 25 Square - Skull and Stripe 1 (Formed)
+   s\u9499c01s02.dat          ~Sheet Fabric 25 x 25 Square Sail Skull and Stripe 2 (Formed)
+   changed to    ~Sail 25 x 25 Square - Skull and Stripe 2 (Formed)
+   s\u9499c01s03.dat          ~Sheet Fabric 25 x 25 Square Sail Edge Stripe 1 (Formed)
+   changed to    ~Sail 25 x 25 Square - Edge Stripe 1 (Formed)
+   s\u9499c01s04.dat          ~Sheet Fabric 25 x 25 Square Sail Edge Stripe 2 (Formed)
+   changed to    ~Sail 25 x 25 Square - Edge Stripe 2 (Formed)
+   30613.dat                  Arch  3 x  6 x  5
+   changed to    Arch  3 x  6 x  5 Ornamented with Hollow Stud
+   s\30613s01.dat             ~Arch  3 x  6 x  5 - Half
+   changed to    ~Arch  3 x  6 x  5 Ornamented - One Half
+   4522.dat                   Minifig Tool Mallet
+   changed to    ~Minifig Tool Mallet (Obsolete)
+   s\u9499s01.dat             ~Sheet Fabric 25 x 25 Square Sail Skull and Stripe 1
+   changed to    ~Sail 25 x 25 Square - Skull and Stripe 1
+   s\u9499s02.dat             ~Sheet Fabric 25 x 25 Square Sail Skull and Stripe 2
+   changed to    ~Sail 25 x 25 Square - Skull and Stripe 2
+   s\u9499s04.dat             ~Sheet Fabric 25 x 25 Square Sail Edge Stripe 2
+   changed to    ~Sail 25 x 25 Square - Edge Stripe 2
+   s\u9499s03.dat             ~Sheet Fabric 25 x 25 Square Sail Edge Stripe 1
+   changed to    ~Sail 25 x 25 Square - Edge Stripe 1
+   3626bpsf.dat               Minifig Head with with Straight Smile and Black Curved Eyebrows Pattern
+   changed to    Minifig Head with Straight Smile and Black Curved Eyebrows Pattern
+   u66p03.dat                 Sheet Plastic  6 x 12 Triangular with Palm Tree and Vertical Pink Gradient Stripes Pattern
+   changed to    Sail  6 x 12 Triangular with Palm Tree and Vertical Pink Gradient Stripes Pattern
+   36069b.dat                 Sheet Plastic 13 x 26 Triangular Sail
+   changed to    Sail 13 x 26 Triangular
+   36069bp01.dat              Sheet Plastic 13 x 26 Triangular Sail with Technic Racing Yacht Pattern
+   changed to    Sail 13 x 26 Triangular with Technic Racing Yacht Pattern
+   36069ap01.dat              Sheet Plastic 15 x 28 Trapezoid Sail with Technic Racing Yacht Pattern
+   changed to    Sail 15 x 28 Trapezoid with Technic Racing Yacht Pattern
+   36069a.dat                 Sheet Plastic 15 x 28 Trapezoid Sail
+   changed to    Sail 15 x 28 Trapezoid
+   66645bp01.dat              Sheet Plastic 10 x 42 Trapezoid Sail with Technic Catamaran Pattern
+   changed to    Sail 10 x 42 Trapezoid with Technic Catamaran Pattern
+   66645b.dat                 Sheet Plastic 10 x 42 Trapezoid Sail
+   changed to    Sail 10 x 42 Trapezoid
+   66645ap01.dat              Sheet Plastic 13 x 42 Trapezoid Sail with Technic Catamaran Pattern
+   changed to    Sail 13 x 42 Trapezoid with Technic Catamaran Pattern
+   66645a.dat                 Sheet Plastic 13 x 42 Trapezoid Sail
+   changed to    Sail 13 x 42 Trapezoid
+   s\36069bs02.dat            ~Sheet Plastic 13 x 26 Triangular Sail Edge
+   changed to    ~Sail 13 x 26 Triangular Edge
+   s\36069bs01.dat            ~Sheet Plastic 13 x 26 Triangular Sail Surface
+   changed to    ~Sail 13 x 26 Triangular Surface
+   s\36069as02.dat            ~Sheet Plastic 15 x 28 Trapezoid Sail Edge
+   changed to    ~Sail 15 x 28 Trapezoid Edge
+   s\36069bp01s01.dat         ~Sheet Plastic 13 x 26 Triangular Sail Surface with Technic Racing Yacht Pattern
+   changed to    ~Sail 13 x 26 Triangular Surface with Technic Racing Yacht Pattern
+   s\36069as01.dat            ~Sheet Plastic 15 x 28 Trapezoid Sail Surface
+   changed to    ~Sail 15 x 28 Trapezoid Surface
+   s\36069ap01s01.dat         ~Sheet Plastic 15 x 28 Trapezoid Sail Surface with Technic Racing Yacht Pattern
+   changed to    ~Sail 15 x 28 Trapezoid Surface with Technic Racing Yacht Pattern
+   s\66645as01.dat            ~Sheet Plastic 13 x 42 Trapezoid Sail Surface
+   changed to    ~Sail 13 x 42 Trapezoid - Surface
+   s\66645ap01s01.dat         ~Sheet Plastic 13 x 42 Trapezoid Sail Surface with Technic Catamaran Fallback Pattern
+   changed to    ~Sail 13 x 42 Trapezoid Surface with Technic Catamaran Fallback Pattern
+   s\66645as02.dat            ~Sheet Plastic 13 x 42 Trapezoid Sail Edge
+   changed to    ~Sail 13 x 42 Trapezoid - Edge
+   s\66645bp01s01.dat         ~Sheet Plastic 10 x 42 Trapezoid Sail Surface with Technic Catamaran Fallback Pattern
+   changed to    ~Sail 10 x 42 Trapezoid - Surface with Technic Catamaran Fallback Pattern
+   s\66645bs02.dat            ~Sheet Plastic 10 x 42 Trapezoid Sail Edge
+   changed to    ~Sail 10 x 42 Trapezoid - Edge
+   s\66645bs01.dat            ~Sheet Plastic 10 x 42 Trapezoid Sail Surface
+   changed to    ~Sail 10 x 42 Trapezoid - Surface
+   u66c01.dat                 Sheet Plastic  6 x 12 Triangular (Formed Shape 1)
+   changed to    Sail  6 x 12 Triangular (Formed Shape 1)
+   u66c02.dat                 Sheet Plastic  6 x 12 Triangular (Formed Shape 2)
+   changed to    Sail  6 x 12 Triangular (Formed Shape 2)
+   u66p01c02.dat              Sheet Plastic  6 x 12 Triangular with Blue and Red Triangles and Blue Lines Pattern (Formed Shape 2)
+   changed to    Sail  6 x 12 Triangular with Blue and Red Triangles and Blue Lines Pattern (Formed Shape 2)
+   u66p01c01.dat              Sheet Plastic  6 x 12 Triangular with Blue and Red Triangles and Blue Lines Pattern (Formed Shape 1)
+   changed to    Sail  6 x 12 Triangular with Blue and Red Triangles and Blue Lines Pattern (Formed Shape 1)
+   u66p01.dat                 Sheet Plastic  6 x 12 Triangular with Blue and Red Triangles and Blue Lines Pattern
+   changed to    Sail  6 x 12 Triangular with Blue and Red Triangles and Blue Lines Pattern
+   s\u66s02.dat               ~Sheet Plastic  6 x 12 Triangular - Surface
+   changed to    ~Sail  6 x 12 Triangular - Surface
+   s\u66s01.dat               ~Sheet Plastic  6 x 12 Triangular - Edges
+   changed to    ~Sail  6 x 12 Triangular - Edges
+   s\u66c01s03.dat            ~Sheet Plastic  6 x 12 Triangular (Formed Shape 1) - Side  2
+   changed to    ~Sail  6 x 12 Triangular (Formed Shape 1) - Side  2
+   s\u66c01s02.dat            ~Sheet Plastic  6 x 12 Triangular (Formed Shape 1) - Side  1
+   changed to    ~Sail  6 x 12 Triangular (Formed Shape 1) - Side  1
+   s\u66c01s01.dat            ~Sheet Plastic  6 x 12 Triangular (Formed Shape 1) - Holes, Side and Condlines
+   changed to    ~Sail  6 x 12 Triangular (Formed Shape 1) - Holes, Side and Condlines
+   u66.dat                    Sheet Plastic  6 x 12 Triangular
+   changed to    Sail  6 x 12 Triangular
+   logo-launchcommand.dat     ~Launch Command Logo Pattern (without Border)
+   changed to    Launch Command Logo Pattern (without Border)
+   logo-launchcommand-bg.dat  ~Launch Command Logo Pattern (without Border)
+   changed to    Launch Command Logo Background (without Border)
+
+Other Fixed Parts
+   2454aps5.dat               Brick  1 x  2 x  5 with SW Han Solo Carbonite Pattern
+   42545p01.dat               Technic Panel 13 x  2 x  5 Mudguard Arched #31 with Black/Red/Grey Horizontal Stripes Left Pattern
+   s\2302s01.dat              ~Duplo Brick  2 x  3 with Curved Top without Patterned Surfaces
+   connect4.dat               Technic Pin 0.5 without Base Collar
+   s\3960s01.dat              ~Dish  4 x  4 Inverted without Top Face
+   u9495p01c02.dat            Sail 30 x 15 Trapezoidal with Thick Stripes on White Background Pattern (Formed Shape 2)
+   u9495p01c01.dat            Sail 30 x 15 Trapezoidal with Thick Stripes on White Background Pattern (Formed Shape 1)
+   22631.dat                  Technic RoboRider Container Lid
+   18973p06.dat               Windscreen  6 x  4 x  1.333 Curved with Bugatti Chiron Roof Pattern
+   u9494p01c02.dat            Sail 27 x 17 Trapezoidal with Thick Stripes on White Background Pattern (Formed Shape 2)
+   u9494p01c01.dat            Sail 27 x 17 Trapezoidal with Thick Stripes on White Background Pattern (Formed Shape 1)
+   u9494p01.dat               Sail 27 x 17 Trapezoidal with Thick Stripes on White Background Pattern
+   u768p01c01.dat             Sail 11 x  9 Trapezoidal with Stripes on White Background Pattern (Formed Shape 1)
+   u768p01.dat                Sail 11 x  9 Trapezoidal with Stripes on White Background Pattern
+   3960ps6.dat                Dish  4 x  4 Inverted with SW Kessel Run Millennium Falcon Cockpit Pattern
+   3960ps5.dat                Dish  4 x  4 Inverted with SW Millennium Falcon Cockpit Pattern
+   3960ps7.dat                Dish  4 x  4 Inverted with SW Millennium Falcon Cockpit with Four Light Bluish Grey Lower Sections Pattern
+   s\3960ps7s01.dat           ~Dish  4 x  4 Inverted with SW Millennium Falcon Cockpit with Four Light Bluish Grey Lower Sections Pattern - Frame 1/8
+   s\3960pbcs01.dat           ~Dish  4 x  4 Inverted with White Eyelids with Dark Bluish Grey Strips and Black Iris with Circuitry Pattern, Quarter
+   3960pbc.dat                Dish  4 x  4 Inverted with White Eyelids with Dark Bluish Grey Strips and Black Iris with Circuitry Pattern
+   u9328ap02c01.dat           Sheet Fabric Tepee Cover with Buffalo Helmets Pattern (Formed)
+   u9328ap02.dat              Sheet Fabric Tepee Cover with Buffalo Helmets Pattern
+   u9328ap01.dat              Sheet Fabric Tepee Cover with Black Edge and Horses Pattern
+   u9328ap01c01.dat           Sheet Fabric Tepee Cover with Black Edge and Horses Pattern (Formed)
+   600880p01.dat              Minifig Skirt  1.1L with Straight Bottom with Dark Green Apron Pattern
+   s\97122s01.dat             ~Curtain for Window  1 x  4 x  3 with Red/Bright Green/Medium Brown Plaid Pattern - Top Half
+   600880p02.dat              Minifig Skirt  1.1L with Straight Bottom with Tartan Pattern (Needs Work)
+   48\3-16cyli.dat            Hi-Res Cylinder 0.1875
+   32316pt0.dat               Technic Beam  5 with Black Ferrari Horse Pattern
+   3069bpt9.dat               Tile  1 x  2 with Silver Ferrari Horse Logo Pattern
+
+Minor Edits
+   573 Parts with minor administrative edits and/or license changes

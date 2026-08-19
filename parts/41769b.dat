@@ -1,0 +1,15 @@
+0 Wing  2 x  4 Right with Chamfer
+0 Name: 41769b.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 41769, Brickowl 886867, Brickset 118745, Rebrickable 41769
+0 !KEYWORDS wedge plate
+
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\41770bs01.dat
+1 16 10 0 0 0 0 -1 0 1 0 1 0 0 stug-1x4.dat

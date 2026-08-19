@@ -1,0 +1,22 @@
+0 Minifig Hips and Legs with Stripes, Kneepad and Bright Pink Boots Pattern
+0 Name: 21019bpde1.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Shortcut UPDATE 2026-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 21019b.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 970c00pb1207, Brickowl 883372, Brickset 77767, CMF
+0 !KEYWORDS Lola Bunny, Looney Tunes, Rebrickable 970c33pat43pr2044, Set 71030
+
+0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07
+0 !HISTORY 2026-06-08 [MagFors] Corrected set number
+0 !HISTORY 2026-06-28 [OrionP] Official Update 2026-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815b.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 20460bpde1.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 20461bpde1.dat

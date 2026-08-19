@@ -1,0 +1,24 @@
+0 Minifig Magic Wand with Short Handle
+0 Name: 28681.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS BrickLink 6124, Christmas Tree, Disney, fairy, Fairy Tale, Friends
+0 !KEYWORDS Notre-Dame, Rebrickable 6124, Witch, Wizard
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+0 // Star
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6124bs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\6124bs01.dat
+
+0 // Handle
+1 16 0 0 0 4 0 0 0 -10 0 0 0 4 4-4cylc.dat
+1 16 0 -10 0 1 0 0 0 -1 0 0 0 1 4-4con3.dat
+1 16 0 -11 0 .5 0 0 0 -.5 0 0 0 .5 4-4con5.dat
+1 16 0 -11.5 0 2.5 0 0 0 1 0 0 0 2.5 4-4edge.dat
+1 16 0 -11.5 0 2.5 0 0 0 -41.35789 0 0 0 2.5 4-4cyli.dat

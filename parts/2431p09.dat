@@ -1,0 +1,30 @@
+0 Tile  1 x  4 with 3 Metallic Silver Stripes Pattern
+0 Name: 2431p09.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2024-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 2431pb805, Camaro, Chevrolet, light, rear, set 10304
+
+0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
+4 80 39 0 9 -39 0 9 -39 0 7 39 0 7
+4 80 39 0 1 -39 0 1 -39 0 -1 39 0 -1
+4 80 39 0 -7 -39 0 -7 -39 0 -9 39 0 -9
+4 16 -40 0 10 -39 0 9 39 0 9 40 0 10
+3 16 40 0 10 39 0 9 39 0 7
+3 16 40 0 10 39 0 7 39 0 1
+4 16 40 0 10 39 0 1 39 0 -1 40 0 -10
+3 16 39 0 -1 39 0 -7 40 0 -10
+3 16 39 0 -7 39 0 -9 40 0 -10
+4 16 -39 0 -9 -40 0 -10 40 0 -10 39 0 -9
+3 16 -39 0 -7 -40 0 -10 -39 0 -9
+3 16 -39 0 -1 -40 0 -10 -39 0 -7
+4 16 -40 0 -10 -39 0 -1 -39 0 1 -40 0 10
+3 16 -40 0 10 -39 0 1 -39 0 7
+3 16 -40 0 10 -39 0 7 -39 0 9
+4 16 39 0 7 -39 0 7 -39 0 1 39 0 1
+4 16 39 0 -1 -39 0 -1 -39 0 -7 39 0 -7

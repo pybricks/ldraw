@@ -1,0 +1,21 @@
+0 Minifig Wings Fairy with Black Oval Lines Pattern
+0 Name: 10183p01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Neckwear
+0 !KEYWORDS Bricklink 10183pb01, Brickowl 318571, Bumblebee, CMF, Collectible
+0 !KEYWORDS DC Super Heros, Rebrickable 10183pr0001, Set 71056
+
+0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2021-04-29 [GeraldLasser] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\10183s01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\10183p01s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\10183p01s01.dat

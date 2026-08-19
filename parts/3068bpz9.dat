@@ -1,0 +1,33 @@
+0 Tile  2 x  2 with Yellow Arrow and Stripe Pattern
+0 Name: 3068bpz9.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Blacktron I, Blacktron Renegade, Bricklink 3068pb2581
+0 !KEYWORDS Brickowl 797599, Rebrickable 3068bpr9348, Set 10355
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+0 // Pattern-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+
+0 // Pattern
+4 14 -18.4 0 -14.9 -18.4 0 -17 18.4 0 -17 18.4 0 -14.9
+4 14 6.5 0 3.7 6.5 0 18.5 -6.5 0 18.5 -6.5 0 3.7
+3 14 6.5 0 3.7 -6.5 0 3.7 0 0 -12
+3 14 14 0 3.7 6.5 0 3.7 0 0 -12
+3 14 -6.5 0 3.7 -14 0 3.7 0 0 -12
+4 16 -6.5 0 3.7 -6.5 0 18.5 -20 0 20 -14 0 3.7
+4 16 20 0 20 -20 0 20 -6.5 0 18.5 6.5 0 18.5
+4 16 20 0 20 6.5 0 18.5 6.5 0 3.7 14 0 3.7
+4 16 18.4 0 -14.9 18.4 0 -17 20 0 -20 20 0 20
+4 16 -20 0 -20 -18.4 0 -17 -18.4 0 -14.9 -20 0 20
+3 16 0 0 -12 -18.4 0 -14.9 18.4 0 -14.9
+3 16 14 0 3.7 0 0 -12 18.4 0 -14.9
+3 16 20 0 20 14 0 3.7 18.4 0 -14.9
+3 16 -14 0 3.7 -18.4 0 -14.9 0 0 -12
+3 16 -20 0 20 -18.4 0 -14.9 -14 0 3.7
+4 16 -18.4 0 -17 -20 0 -20 20 0 -20 18.4 0 -17

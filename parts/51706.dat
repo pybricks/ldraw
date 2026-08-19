@@ -1,0 +1,21 @@
+0 Duplo Trap Door Grate  4 x  4
+0 Name: 51706.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Part UPDATE 2025-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Place 8x8 plate with e.g. 1 16 0 0 0 1 0 0 0 1 0 0 0 1 51705.dat
+0 !HELP Place trap door with e.g. 1 16 0 7 40 1 0 0 0 1 0 0 0 1 51706.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Castle
+
+0 !HISTORY 2025-04-27 [OrionP] Official Update 2025-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\51706s01.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\51706s01.dat
+
+0 // shared
+1 16 0 -6.3 -40 78 0 0 0 12.6 0 0 0 78 box4.dat
+1 16 0 -7.7 -40 2.7 0 0 0 1.4 0 0 0 2.7 4-4cylc.dat

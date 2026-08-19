@@ -1,0 +1,18 @@
+0 Minifig Weapon Crescent Blade
+0 Name: 3757.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+
+0 !KEYWORDS Brickowl 471538
+
+0 !HISTORY 2025-06-21 {LEGO Instructions App} Original part shape
+0 !HISTORY 2025-06-21 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3757s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3757s01.dat

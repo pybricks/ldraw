@@ -1,0 +1,31 @@
+0 ~Electric Train 12V Flashing-Light Unit - Plug
+0 Name: s\u9639s01.dat
+0 Author: Steffen [Steffen]
+0 !LDRAW_ORG Subpart UPDATE 2024-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-08-20 [Holly-Wood] Oriented slots vertical/horizontal again
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
+
+1 16 0 0 -2 1 0 0 0 1 0 0 0 1 plug34.dat
+
+1 16 0 0 0 3.43275 0 -.68282 -.68282 0 -3.43275 0 1 0 3-16edge.dat
+1 16 0 0 0 .68282 0 3.43275 3.43275 0 -.68282 0 1 0 3-16edge.dat
+1 16 0 0 0 -3.43275 0 .68282 .68282 0 3.43275 0 1 0 3-16edge.dat
+1 16 0 0 0 -.68282 0 -3.43275 -3.43275 0 .68282 0 1 0 3-16edge.dat
+
+1 16 0 0 0 3.43275 0 -.68282 -.68282 0 -3.43275 0 -2 0 3-16cyli.dat
+1 16 0 0 0 .68282 0 3.43275 3.43275 0 -.68282 0 -2 0 3-16cyli.dat
+1 16 0 0 0 -3.43275 0 .68282 .68282 0 3.43275 0 -2 0 3-16cyli.dat
+1 16 0 0 0 -.68282 0 -3.43275 -3.43275 0 .68282 0 -2 0 3-16cyli.dat
+
+1 16 0 0 -2 .68282 0 -3.43275 -3.43275 0 -.68282 0 2 0 1-16cylo.dat
+1 16 0 0 -2 3.43275 0 .68282 .68282 0 -3.43275 0 2 0 1-16cylo.dat
+1 16 0 0 -2 -3.43275 0 -.68282 -.68282 0 3.43275 0 2 0 1-16cylo.dat
+1 16 0 0 -2 -.68282 0 3.43275 3.43275 0 .68282 0 2 0 1-16cylo.dat
+
+1 16 0 0 0 -5.25 0 0 0 0 5.25 0 4 0 4-4cylc.dat
+1 16 0 0 4 -1.75 0 0 0 0 1.75 0 -1 0 4-4ring2.dat
+1 16 0 0 15 -3.5 0 0 0 0 3.5 0 -11 0 4-4cylc.dat

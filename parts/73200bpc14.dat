@@ -1,0 +1,20 @@
+0 Minifig Hips and Legs with Red and Medium Blue Patches Pattern
+0 Name: 73200bpc14.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Shortcut UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bpc14.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 970d11pb01, Circus, Clown, CMF, Collectable
+0 !KEYWORDS Rebrickable 970l32r22pr0137, series 1, Set 85079, Set 8683
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815b.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cpc14.dat
+1 73 0 12 0 1 0 0 0 1 0 0 0 1 3817cpc14.dat

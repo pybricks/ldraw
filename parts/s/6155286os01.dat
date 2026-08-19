@@ -1,0 +1,22 @@
+0 ~Sticker  2.6 x  3.5 with Black Lines and Rectangles and Red and White Danger Stripes Leaning Right - 2. Face
+0 Name: s\6155286os01.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Subpart UPDATE 2026-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2026-03-06 [OrionP] Official Update 2026-02
+
+0 // Black
+3 0 9.254 0 0 9.9814 0 0 9.254 0 3.55
+3 0 9.254 0 3.55 9.9814 0 0 9.391 0 4.239
+3 0 9.391 0 4.239 9.9814 0 0 9.781 0 4.823
+3 0 9.781 0 4.823 9.9814 0 0 9.982 0 4.956
+
+0 // Yellow
+3 14 9.254 0 3.55 9.391 0 4.239 9.254 0 5.35
+3 14 9.391 0 4.239 9.781 0 4.823 9.254 0 5.35
+3 14 0 0 0 9.254 0 0 9.254 0 3.55
+3 14 9.254 0 5.35 0 0 0 9.254 0 3.55
+4 14 9.982 0 4.956 9.9814 0 5.35 9.254 0 5.35 9.781 0 4.823

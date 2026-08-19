@@ -1,0 +1,19 @@
+0 Slope Brick 33  3 x  2 with Blue and Metallic Gold Mechanical Foot Pattern
+0 Name: 3298p6t.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Part UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Slope
+0 !KEYWORDS Bricklink 3298pb017, BrickOwl 525414, piston, Rebrickable 3298pr0048
+0 !KEYWORDS Robo Force, Robo Raider, Roboforce, Robot, Set 2151, Space
+
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+0 // Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3298s01.dat
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3298p6ts01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3298p6ts01.dat

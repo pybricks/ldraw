@@ -1,0 +1,16 @@
+0 Tile  2 x  2 Round with Two Circles Within a Black Circle Pattern
+0 Name: 14769p14.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2026-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 14769pb736, Brickowl 1145791, Brickset 110720
+0 !KEYWORDS Rebrickable 14769pr9967, Set 11042, Set 11044, Set 45521, Set 45522
+
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\14769s01.dat
+1 16 0 0 0 -.70711 0 -.70711 0 1 0 .70711 0 -.70711 s\14769p14s01.dat
+1 16 0 0 0 -.70711 0 .70711 0 1 0 .70711 0 .70711 s\14769p14s01.dat

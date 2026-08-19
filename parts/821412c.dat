@@ -1,0 +1,18 @@
+0 Sticker  1.9 x  1.9 with Yellow "8" on Red Stripes
+0 Name: 821412c.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2026-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Baja blaster, Desert racer, Dune buggy, Set 8818, Technic
+
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
+
+1 16 0 -0.25 0 19 0 0 0 0.25 0 0 0 19 box5-12.dat
+1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 s\821412cs01.dat
+1 16 0 -.25 0 -1 0 0 0 1 0 0 0 1 s\821412cs01.dat
+
+3 4 -11.3 -.25 19 0 -.25 12.8 11.3 -.25 19
+3 4 -.8 -.25 -19 .8 -.25 -19 0 -.25 -11

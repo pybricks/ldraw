@@ -1,0 +1,20 @@
+0 Electric Control+ Hub Body Assembly with Screw Holes for Lid
+0 Name: 25561c02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Shortcut UPDATE 2025-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 4-Port, Powered Up, Technic
+
+0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 25561.dat
+1 71 50 -40 -20 0 0 -1 0 1 0 1 0 0 23807.dat
+1 71 50 -40 -60 0 0 -1 0 1 0 1 0 0 23807.dat
+1 71 -50 -40 -20 0 0 1 0 1 0 -1 0 0 23807.dat
+1 71 -50 -40 -60 0 0 1 0 1 0 -1 0 0 23807.dat
+1 2 0 -50 -40 1 0 0 0 1 0 0 0 1 34745.dat
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 80738c01.dat

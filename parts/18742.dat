@@ -1,0 +1,43 @@
+0 Bucket  2 x  2 without Handle Holes
+0 Name: 18742.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Container
+
+0 !KEYWORDS Brickowl 10007
+
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18742s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\18742s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\18742s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\18742s01.dat
+0 // underside
+1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
+0 // lower outside
+1 16 0 0 0 20 0 0 0 4 0 0 0 20 4-4cyli.dat
+1 16 0 0 0 20 0 0 0 1 0 0 0 20 4-4edge.dat
+1 16 0 -29 0 2.5 0 0 0 29 0 0 0 2.5 4-4con8.dat
+0 // upper boundary (outside)
+1 16 0 -29 0 25 0 0 0 1 0 0 0 25 4-4edge.dat
+1 16 0 -29 0 22.5 0 0 0 1 0 0 0 22.5 4-4edge.dat
+1 16 0 -29 0 2.5 0 0 0 -1 0 0 0 2.5 4-4ring9.dat
+1 16 0 -40 0 26 0 0 0 1 0 0 0 26 4-4edge.dat
+1 16 0 -40 0 1 0 0 0 11 0 0 0 1 4-4con25.dat
+0 // upper boundary (inside)
+1 16 0 -40 0 22 0 0 0 1 0 0 0 22 4-4edge.dat
+1 16 0 -40 0 2 0 0 0 1 0 0 0 2 4-4ring11.dat
+1 16 0 -40 0 2 0 0 0 1 0 0 0 2 4-4ring12.dat
+0 BFC INVERTNEXT
+1 16 0 -40 0 1 0 0 0 8 0 0 0 1 4-4con21.dat
+1 16 0 -32 0 3 0 0 0 1 0 0 0 3 4-4ring6.dat
+1 16 0 -32 0 21 0 0 0 1 0 0 0 21 4-4edge.dat
+1 16 0 -32 0 18 0 0 0 1 0 0 0 18 4-4edge.dat
+0 // inside area
+0 BFC INVERTNEXT
+1 16 0 -32 0 2 0 0 0 32 0 0 0 2 4-4con8.dat
+1 16 0 0 0 16 0 0 0 1 0 0 0 16 4-4edge.dat

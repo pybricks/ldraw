@@ -1,0 +1,27 @@
+0 ~Tile  6 x  8 without Patternable Surface
+0 Name: s\6320s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Subpart UPDATE 2025-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-10-27 [OrionP] Official Update 2025-10
+
+4 16 79 8 59 76 8 56 -76 8 56 -79 8 59
+4 16 -79 8 59 -76 8 56 -76 8 -56 -79 8 -59
+4 16 -79 8 -59 -76 8 -56 76 8 -56 79 8 -59
+4 16 79 8 -59 76 8 -56 76 8 56 79 8 59
+0 BFC INVERTNEXT
+1 16 0 8 0 76 0 0 0 -4 0 0 0 56 box5.dat
+1 16 0 8 0 79 0 0 0 -1 0 0 0 59 box4.dat
+
+4 16 80 7 60 79 7 59 -79 7 59 -80 7 60
+4 16 -80 7 60 -79 7 59 -79 7 -59 -80 7 -60
+4 16 -80 7 -60 -79 7 -59 79 7 -59 80 7 -60
+4 16 80 7 -60 79 7 -59 79 7 59 80 7 60
+1 16 0 7 0 80 0 0 0 -7 0 0 0 60 box4.dat
+
+1 16 60 4 0 0 0 -1 0 -1 0 -1 0 0 stug4-1x5.dat
+1 16 0 4 0 1 0 0 0 -1 0 0 0 -1 stug4-5x5.dat
+1 16 -60 4 0 0 0 -1 0 -1 0 -1 0 0 stug4-1x5.dat

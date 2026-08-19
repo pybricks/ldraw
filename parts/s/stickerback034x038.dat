@@ -1,0 +1,26 @@
+0 ~Sticker Back  3.4 x  3.8
+0 Name: s\stickerback034x038.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Subpart UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+0 // Primitives
+1 16 -36.5 0 32.5 -1.5 0 0 0 -1 0 0 0 1.5 1-4chrd.dat
+1 16 36.5 0 32.5 1.5 0 0 0 -1 0 0 0 1.5 1-4chrd.dat
+1 16 0 -.25 0 0 0 38 0 .25 0 32.5 0 0 box3u12.dat
+1 16 -36.5 0 -32.5 -1.5 0 0 0 -1 0 0 0 -1.5 1-4chrd.dat
+1 16 36.5 0 -32.5 1.5 0 0 0 -1 0 0 0 -1.5 1-4chrd.dat
+1 16 -36.5 -.25 32.5 -1.5 0 0 0 .25 0 0 0 1.5 1-4cyli.dat
+1 16 36.5 -.25 32.5 1.5 0 0 0 .25 0 0 0 1.5 1-4cyli.dat
+1 16 -36.5 -.25 -32.5 -1.5 0 0 0 .25 0 0 0 -1.5 1-4cyli.dat
+1 16 36.5 -.25 -32.5 1.5 0 0 0 .25 0 0 0 -1.5 1-4cyli.dat
+0 // Bottom face
+4 16 -36.5 0 34 36.5 0 34 38 0 32.5 -38 0 32.5
+4 16 -36.5 0 -34 -38 0 -32.5 38 0 -32.5 36.5 0 -34
+0 // Lateral face
+4 16 -36.5 -.25 34 36.5 -.25 34 36.5 0 34 -36.5 0 34
+4 16 36.5 0 -34 36.5 -.25 -34 -36.5 -.25 -34 -36.5 0 -34

@@ -1,0 +1,26 @@
+0 Minifig Head Looney Tunes Road Runner with Bright Light Orange Beak and Medium Blue Neck Pattern
+0 Name: 74604p01.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Part UPDATE 2026-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Accessory hole at y= -42.3
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 74604pb01, Brickowl 753161, Brickset 77543, CMF
+0 !KEYWORDS Collectible Minifigures, Rebrickable 74604pr0001, Set 71030
+
+0 !HISTORY 2026-06-28 [OrionP] Official Update 2026-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\74604s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\74604s01.dat
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\74604p01s02.dat
+1 15 0 0 0 -1 0 0 0 1 0 0 0 1 s\74604p01s02.dat
+
+1 73 0 0 0 1 0 0 0 1 0 0 0 1 s\74604s03.dat
+1 73 0 0 0 -1 0 0 0 1 0 0 0 1 s\74604s03.dat
+
+1 191 0 0 0 1 0 0 0 1 0 0 0 1 s\74604s04.dat
+1 191 0 0 0 -1 0 0 0 1 0 0 0 1 s\74604s04.dat

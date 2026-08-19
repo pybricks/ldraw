@@ -1,0 +1,18 @@
+0 Sticker  1.1 x  1.7 with 1st Place Cup and Laurels
+0 Name: 170877b.dat
+0 Author: Max Seidenstücker [MaxSeidenstuecker]
+0 !LDRAW_ORG Part UPDATE 2025-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 6337stk01, Rebrickable 170877, Set 6337 Fast Track Finish
+
+0 !HISTORY 2025-10-27 [OrionP] Official Update 2025-10
+
+1 16 0 -.25 0 17 0 0 0 .25 0 0 0 10.5 box5-12.dat
+1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 s\170877bs01.dat
+1 16 0 -.25 0 -1 0 0 0 1 0 0 0 1 s\170877bs01.dat
+1 15 0 -.25 0 1 0 0 0 1 0 0 0 1 s\170877bs02.dat
+1 15 0 -.25 0 -1 0 0 0 1 0 0 0 1 s\170877bs02.dat
+1 15 0 -.25 0 1 0 0 0 1 0 0 0 1 s\170877bs03.dat

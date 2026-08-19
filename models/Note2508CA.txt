@@ -1,0 +1,113 @@
+ldraw.org Parts Update 2025-08
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Sun, 31 Aug 2025 02:18:23 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 1018
+   New files: 964
+   New Parts: 532
+   New Subparts: 372
+   New Primitives: 50
+   New 48 Segment Primitives: 7
+   New TEXMAP Images: 3
+
+Moved Parts
+   u9332.dat                  ~Moved to 24129
+   2859c04.dat                ~Moved to 75541c01-f2
+   2859c01.dat                ~Moved to 75541-f1
+   2859c02.dat                ~Moved to 75541-f2
+   2859c03.dat                ~Moved to 75541c01-f1
+   2861c02.dat                ~Moved to 75542-f2
+   2861c01.dat                ~Moved to 75542-f1
+   2861c04.dat                ~Moved to 75542c01-f2
+   2861c03.dat                ~Moved to 75542c01-f1
+
+Renamed Parts
+   47456.dat                  Slope Brick Curved  2 x  3 x  0.667 with Fin and 2 Studs
+   changed to    Slope Brick Curved  2 x  3 x 0.667 with Fin and 2 Top Studs
+   s\2566s01.dat              ~Plant Tree Palm Top - Quarter
+   changed to    ~Plant Tree Palm Top - Quarter (Obsolete)
+   2566.dat                   Plant Tree Palm Top
+   changed to    ~Plant Tree Palm Top (Obsolete)
+   973pu7.dat                 Minifig Torso with Jacket Hoodie over Light Blue Sweater Pattern
+   changed to    Minifig Torso with Open Jacket Hoodie with 4 Buttons over Medium Blue Sweater Pattern
+   4045.dat                   Brick  1 x  4 x  1.333 with Curved Top and Corners
+   changed to    ~Brick  1 x  4 x  1.333 with Curved Top and Corners (Obsolete)
+   973prk.dat                 Minifig Torso with SW Shadow Trooper Pattern
+   changed to    Minifig Torso with SW Shadow Trooper Armour with Long Line on Back Pattern
+   973psk.dat                 Minifig Torso with SW Stormtrooper Pattern
+   changed to    Minifig Torso with SW Stormtrooper Armour Grey Pattern
+   2864.dat                   ~Train Track  9V Points Command Rod
+   changed to    ~Train Track 9V Switch Command Rod
+   2864c01.dat                ~Train Track  9V Points Command Rod (Complete)
+   changed to    ~Train Track  9V Switch Command Rod with Metal Plate
+   u9074.dat                  ~Train Track  9V Points Command Rod Conductor Plate
+   changed to    ~Train Track  9V Switch Command Rod Conductor Plate
+   u9240.dat                  ~Train Track  9V Point Tongue Right - Metal
+   changed to    ~Train Track 9V Switch Tongue Right - Metal Rail
+   s\973p04a.dat              ~Minifig Torso with Six Button Suit and Airplane Pattern - Gold
+   changed to    ~Obsolete file
+   76382pu7.dat               Minifig Torso with Arms and Hands with Jacket Hoodie over Light Blue Sweater Pattern
+   changed to    Minifig Torso with Arms and Hands with Open Jacket Hoodie with 4 Buttons over Medium Blue Sweater Pattern
+   57895p02.dat               Glass for Window  1 x  4 x  6 with 'THE HIGHLANDER' and White Decorative Border Pattern
+   changed to    Glass for Window  1 x  4 x  6 with "THE HIGHLANDER" and White Decorative Border Pattern
+   s\93273b01.dat             ~Sticker  0.8 x  4.1 (Formed)
+   changed to    ~Sticker Back  0.8 x  4.1 (Formed)
+   s\11477b01.dat             ~Sticker Back 0.8 x  1.9 (Formed)
+   changed to    ~Sticker Back  0.8 x  1.9 (Formed)
+   s\11477b02.dat             ~Sticker Back 0.8 x  1.9 Trapezoid (Formed)
+   changed to    ~Sticker Back  0.8 x  1.9 Trapezoid (Formed)
+   s\30602b01.dat             ~Sticker Back 0.8 x  3.8 (Formed)
+   changed to    ~Sticker Back  0.8 x  3.8 (Formed)
+   s\50950b01.dat             ~Sticker Back 0.8 x  3.1 (Formed)
+   changed to    ~Sticker Back  0.8 x  3.0 (Formed)
+   s\88930b01.dat             ~Sticker Back 1.9 x  3.8 (Formed)
+   changed to    ~Sticker Back  1.9 x  3.8 (Formed)
+   s\stickerback019x038.dat   ~Sticker Back 1.9 x  3.8
+   changed to    ~Sticker Back  1.9 x  3.8
+   s\766s01.dat               ~Moved to u9019
+   changed to    ~Obsolete file
+   35714.dat                  Minfig Hair Female Parted in Center, Two Braids Hanging in Front
+   changed to    Minifig Hair Female Parted in Center, Two Braids Hanging in Front
+   35714p01.dat               Minfig Hair Female Parted in Center, Two Braids Hanging in Front with Bright Light Blue Bows Pattern
+   changed to    Minifig Hair Female Parted in Center, Two Braids Hanging in Front with Bright Light Blue Bows Pattern
+   90391p01.dat               Minifig Pike / Spear Elaborate With Metallic Silver Head
+   changed to    Minifig Pike / Spear Elaborate with Rubber Pearl Light Grey Head Pattern
+   90391p02.dat               Minifig Pike / Spear Elaborate With Flat Silver Head
+   changed to    Minifig Pike / Spear Elaborate with Rubber Flat Silver Head Pattern
+
+Other Fixed Parts
+   18605p03.dat               ~Brick  4 x  4 x  0.667 Round - Top with  2 Studs with White Rune Character and Metallic Silver Lines Pattern
+   3195.dat                   Door  1 x  5 x  4 Left
+   s\3195s01.dat              ~Door  1 x  5 x  4 Left without Front Face
+   3194.dat                   Door  1 x  5 x  4 Right
+   3754p03.dat                Brick  1 x  6 x  5 with Basketball Backboard and NBA Logo Pattern
+   2542.dat                   Minifig Tool Oar
+   2583.dat                   Bar  1 x  8 x  3
+   30145.dat                  Brick  2 x  2 x  3
+   85863.dat                  Microfig
+   s\85863s01.dat             ~Microfig without Front
+   2518c01.dat                Plant Tree Palm with 7-Segmented Trunk Brown and Large Leaves
+   4864bp13.dat               Panel  1 x  2 x  2 with Red Porthole Pattern
+   4864bp12.dat               Panel  1 x  2 x  2 with Grey Porthole Pattern
+   3024p03.dat                Plate  1 x  1 with Logo Ferrari Badge Rounded Pattern
+   98138pt4.dat               Tile  1 x  1 Round with Black Ferrari Horse Logo Pattern
+   60601p01.dat               Glass for Window  1 x  2 x  2 with Tan Gothic Ornament Pattern
+   57895px0.dat               Glass for Window  1 x  4 x  6 with Central Perk Logo Pattern
+   s\57895p04s01.dat          ~Glass for Window  1 x  4 x  6 with Ornate Silver Frame without Oval Stained Glass - Half
+   57895p04.dat               Glass for Window  1 x  4 x  6 with Ornate Silver Frame and Oval Stained Glass Pattern
+   18922.dat                  Plate  8 x 16 x  0.667
+   99781.dat                  Bracket  1 x  2 -  1 x  2 Down
+   2630k02.dat                ~Cable Flexible 20L with  2 Bar Connectors and Bar Segments - Bar Segment
+   s\6192s01.dat              ~Brick  2 x  4 with Curved Top - Inside Stud Adapter
+   empty.dat                  Empty
+   4891.dat                   Duplo Drawer  2 x  2
+   4890.dat                   Duplo Cupboard  2 x  2 x  1.5
+   2863.dat                   ~Train Track  9V Bottom Plate Right
+
+Minor Edits
+   1 Parts with minor administrative edits and/or license changes

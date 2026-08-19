@@ -1,0 +1,59 @@
+0 Tyre 44/ 30 x 56 Smooth Racing
+0 Name: 4410.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Printed version is heavier, partnumber 5746
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 81.6x44 mm, Slicks
+
+0 !HISTORY 2024-03-07 {LEGO Instructions App} Original part shape
+0 !HISTORY 2024-03-12 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+0 !HISTORY 2025-04-26 [MagFors] Corrected description
+0 !HISTORY 2025-04-27 [OrionP] Official Update 2025-04
+
+0 // Nomenclature: width_(mm)/ profile_as_%age_of_width x rim_diameter_(mm) [optional qualifier]
+
+1 16 0 0 33 9.28571 0 0 0 0 9.28571 0 1 0 48\4-4ring7.dat
+0 BFC INVERTNEXT
+1 16 0 0 38 70 0 0 0 0 70 0 7 0 48\4-4cylo.dat
+1 16 0 0 38 5 0 0 0 0 5 0 -1 0 48\4-4rin13.dat
+0 BFC INVERTNEXT
+1 16 0 0 33 65 0 0 0 0 65 0 5 0 48\4-4cylo.dat
+1 16 0 0 33 74.28571 0 0 0 0 74.28571 0 10 0 48\4-4cylo.dat
+1 16 0 0 50 9.28571 0 0 0 0 9.28571 0 -7 0 48\4-4con8.dat
+1 16 0 0 50 83.57143 0 0 0 0 83.57143 0 -1 0 48\4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 0 36 11.93878 0 0 0 0 11.93878 0 14 0 48\4-4con7.dat
+0 BFC INVERTNEXT
+1 16 0 0 55 11.66667 0 0 0 0 11.66667 0 -10 0 48\4-4con6.dat
+1 16 0 0 55 81.66667 0 0 0 0 81.66667 0 -1 0 48\4-4edge.dat
+1 16 0 0 -50 9.28571 0 0 0 0 9.28571 0 7 0 48\4-4con8.dat
+1 16 0 0 -50 83.57143 0 0 0 0 83.57143 0 -1 0 48\4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 0 -36 11.93878 0 0 0 0 11.93878 0 -14 0 48\4-4con7.dat
+0 BFC INVERTNEXT
+1 16 0 0 -55 11.66667 0 0 0 0 11.66667 0 10 0 48\4-4con6.dat
+1 16 0 0 -55 81.66667 0 0 0 0 81.66667 0 1 0 48\4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 0 36 95.5102 0 0 0 0 95.5102 0 -72 0 48\4-4cylo.dat
+1 16 0 0 34 102.08333 0 0 0 0 102.08333 0 -68 0 48\4-4cyli.dat
+1 16 0 0 -34 81.66667 0 0 0 0 -81.66667 0 -84 0 48\tm04o2500.dat
+1 16 0 0 -34 0 0 81.66667 81.66667 0 0 0 -84 0 48\tm04o2500.dat
+1 16 0 0 -34 -81.66667 0 0 0 0 81.66667 0 -84 0 48\tm04o2500.dat
+1 16 0 0 -34 0 0 -81.66667 -81.66667 0 0 0 -84 0 48\tm04o2500.dat
+1 16 0 0 34 81.66667 0 0 0 0 -81.66667 0 84 0 48\tm04o2500.dat
+1 16 0 0 34 0 0 81.66667 81.66667 0 0 0 84 0 48\tm04o2500.dat
+1 16 0 0 34 -81.66667 0 0 0 0 81.66667 0 84 0 48\tm04o2500.dat
+1 16 0 0 34 0 0 -81.66667 -81.66667 0 0 0 84 0 48\tm04o2500.dat
+1 16 0 0 -33 9.28571 0 0 0 0 9.28571 0 -1 0 48\4-4ring7.dat
+0 BFC INVERTNEXT
+1 16 0 0 -38 70 0 0 0 0 70 0 -7 0 48\4-4cylo.dat
+1 16 0 0 -38 5 0 0 0 0 5 0 1 0 48\4-4rin13.dat
+0 BFC INVERTNEXT
+1 16 0 0 -33 65 0 0 0 0 65 0 -5 0 48\4-4cylo.dat
+1 16 0 0 -33 74.28571 0 0 0 0 74.28571 0 -10 0 48\4-4cylo.dat

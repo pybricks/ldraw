@@ -1,0 +1,18 @@
+0 Brick  2 x  4 x  1.333 with Curved Top with Left Vertical and Horizontal Grille Sticker
+0 Name: 6081d03.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Shortcut UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+
+0 !KEYWORDS Set 10020, Set 10022, Set 10025
+
+0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06
+0 !HISTORY 2026-04-28 [Sirio] Changed description: made description like 6081d04
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6081.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4188571cc01.dat

@@ -1,0 +1,27 @@
+0 ~Die  6 Sides  3 x  3 x  3 with Loop on One Edge - ABS Part
+0 Name: s\69182s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Subpart UPDATE 2025-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-3x3.dat
+1 16 0 1 0 27.5 0 0 0 1 0 0 0 27.5 box.dat
+
+1 16 0 63.5 0 -1 0 0 0 -1 0 0 0 1 stug-3x3.dat
+1 16 0 62.5 0 -27.5 0 0 0 -1 0 0 0 27.5 box.dat
+
+1 16 -31.75 31.75 0 0 1 0 -1 0 0 0 0 1 stug-3x3.dat
+1 16 -30.75 31.75 0 0 1 0 -27.5 0 0 0 0 27.5 box.dat
+
+1 16 31.75 31.75 0 0 -1 0 1 0 0 0 0 1 stug-3x3.dat
+1 16 30.75 31.75 0 0 -1 0 27.5 0 0 0 0 27.5 box.dat
+
+1 16 0 31.75 -31.75 0 0 -1 -1 0 0 0 1 0 stug-3x3.dat
+1 16 0 31.75 -30.75 0 0 -27.5 -27.5 0 0 0 1 0 box.dat
+
+1 16 0 31.75 31.75 0 0 -1 1 0 0 0 -1 0 stug-3x3.dat
+1 16 0 31.75 30.75 0 0 -27.5 27.5 0 0 0 -1 0 box.dat

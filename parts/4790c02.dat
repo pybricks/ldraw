@@ -1,0 +1,15 @@
+0 Technic Brick  1 x  2 with Brown Boat Ship Wheel with Unslotted Pin
+0 Name: 4790c02.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Shortcut UPDATE 2025-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 5848, set 6250, set 6271, Set 6274, Set 6280/6291
+0 !KEYWORDS Set 6285/10040, set 6286, Set 6289/6290, steering
+
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3700.dat
+1 6 0 10 -30 1 0 0 0 0 -1 0 1 0 4790.dat

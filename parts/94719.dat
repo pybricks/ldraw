@@ -1,0 +1,27 @@
+0 Minifig Comb Small with Heart
+0 Name: 94719.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS animal, Friends, Horse, Multipack 92355, pet
+
+0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2020-10-14 [RainbowDolphin] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+0 // Outside
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\94719s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\94719s01.dat
+5 24 0 8.214 -2.5 0 8.214 -4 .927 7.938 -4 -.927 7.938 -4
+5 24 0 10.349 -4 0 10.349 -1.5 1.216 10.154 -4 -1.216 10.154 -4
+5 24 0 18.1 -1.5 0 18.1 -4 1.699 17.347 -4 -1.699 17.347 -4
+5 24 0 20.224 -4 0 20.224 0 1.376 19.965 -4 -1.376 19.965 -4
+5 24 0 20.224 0 0 19.375 4 1.405 19.069 4 -1.405 19.069 4
+5 24 0 3.25 -2.5 0 3.25 -2.214 -6.915 3.631 -2.5 6.915 3.631 -2.5
+5 24 0 3.25 2.5 0 3.25 2.214 6.915 3.631 2.5 -6.915 3.631 2.5
+5 24 0 9.065 4 0 8.745 2.5 -.942 8.541 2.5 .942 8.541 2.5

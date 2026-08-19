@@ -1,0 +1,19 @@
+0 ~Sticker  0.8 x  1.9 with Black Triangle on Orange Background Right -  Third Face
+0 Name: s\6177960hs03.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Subpart UPDATE 2025-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
+
+0 // Black faces
+4 0 .0916 -.25 7.2284 -8 -.25 7.2284 -8 -.25 -.0128 -3.5452 -.25 -.0128
+4 0 .8843 -.25 -.0128 4.5021 -.25 7.2284 3.3842 -.25 7.2284 1.5051 -.25 3.4672
+4 0 .8843 -.25 -.0128 1.5051 -.25 3.4672 -.3 -.25 3.4672 -2.0386 -.25 -.0128
+0 // Dark orange faces
+4 484 .0916 -.25 7.2284 -.3 -.25 3.4672 1.5051 -.25 3.4672 3.3842 -.25 7.2284
+4 484 .0916 -.25 7.2284 -3.5452 -.25 -.0128 -2.0386 -.25 -.0128 -.3 -.25 3.4672
+0 // Orange face
+4 25 .8843 -.25 -.0128 8 -.25 -.0128 8 -.25 7.2284 4.5021 -.25 7.2284

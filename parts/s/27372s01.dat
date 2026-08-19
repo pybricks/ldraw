@@ -1,0 +1,37 @@
+0 ~Duplo Serving Tray without Top Surface
+0 Name: s\27372s01.dat
+0 Author: Peter Blomberg [WUIt]
+0 !LDRAW_ORG Subpart UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+0 // horizontal surfaces
+1 16 0 -19.664 0 55.38 0 0 0 1 0 0 0 55.38 48\4-4edge.dat
+1 16 0 -15.836 0 55.38 0 0 0 -1 0 0 0 55.38 48\4-4disc.dat
+1 16 0 -15.836 0 55.38 0 0 0 1 0 0 0 55.38 48\4-4edge.dat
+
+0 // bottom cylinders
+0 BFC INVERTNEXT
+1 16 0 0 0 40.3 0 0 0 -15.836 0 0 0 40.3 48\4-4cylo.dat
+1 16 0 0 0 4.03 0 0 0 -1 0 0 0 4.03 48\4-4ring10.dat
+1 16 0 0 0 44.33 0 0 0 -15.836 0 0 0 44.33 48\4-4cylo.dat
+1 16 0 -15.836 0 -1 0 0 0 -3.959 0 0 0 1 stud8.dat
+
+0 // quarters
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\27372s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\27372s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\27372s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\27372s02.dat
+
+0 // handles
+1 16 56.8 -17.75 0 0 0 1 0 1 0 1 0 0 duphandle1.dat
+1 16 56.8 -17.75 0 0 0 -1 0 1 0 1 0 0 duphandle1.dat
+1 16 -56.8 -17.75 0 0 0 -1 0 1 0 1 0 0 duphandle1.dat
+1 16 -56.8 -17.75 0 0 0 1 0 1 0 1 0 0 duphandle1.dat
+2 24 50.9306 -19.664 -19.3 50.9306 -19.664 19.3
+2 24 -50.9306 -19.664 -19.3 -50.9306 -19.664 19.3
+2 24 50.9306 -15.836 19.3 50.9306 -15.836 -19.3
+2 24 -50.9306 -15.836 19.3 -50.9306 -15.836 -19.3

@@ -1,0 +1,24 @@
+0 Minifig Head Ninja Turtle with Michelangelo Grin Pattern
+0 Name: 12607p03.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Part UPDATE 2026-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 12607pb05, Brickowl 662865, Brickset 13012, mike, Mikey
+0 !KEYWORDS Nickelodeon, Rebrickable 12607c02pr0001, Set 79100
+0 !KEYWORDS Teenage Mutant Ninja Turtles, TMNT
+
+0 !HISTORY 2026-03-31 [OrionP] Official Update 2026-03
+
+0 // Main Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12607s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\12607s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12607s05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\12607p03s03.dat
+
+0 // Mask
+1 25 0 0 0 1 0 0 0 1 0 0 0 1 s\12607s02.dat
+1 25 0 0 0 1 0 0 0 1 0 0 0 1 s\12607p03s04.dat
+1 25 0 0 0 -1 0 0 0 1 0 0 0 1 s\12607p03s04.dat

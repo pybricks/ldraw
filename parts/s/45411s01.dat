@@ -1,0 +1,35 @@
+0 ~Slope Brick Curved  6 x  8 x  2 Double - Without Patternable Surface
+0 Name: s\45411s01.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Subpart UPDATE 2024-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
+
+0 // Half
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\45411s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\45411s02.dat
+
+1 16 0 0 0 40 0 0 0 1 0 0 0 80 recte4.dat
+1 16 0 48 0 60 0 0 0 1 0 0 0 80 recte4.dat
+
+0 // Studs
+1 16 0 0 -70 1 0 0 0 1 0 0 0 1 stug2-1x4.dat
+1 16 0 0 70 1 0 0 0 1 0 0 0 1 stug2-1x4.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug-4x4.dat
+1 16 0 0 50 1 0 0 0 1 0 0 0 1 stug-1x4.dat
+1 16 0 0 -50 1 0 0 0 1 0 0 0 1 stug-1x4.dat
+
+0 // Understuds
+1 16 20 4 0 0 0 -1 0 -1 0 1 0 0 stug4-1x5.dat
+1 16 -20 4 0 0 0 -1 0 -1 0 1 0 0 stug4-1x5.dat
+1 16 0 4 -40 0 0 -1 0 -1 0 -1 0 0 stud4a.dat
+1 16 0 4 -40 0 0 8 0 1 0 -8 0 0 4-4edge.dat
+1 16 0 4 -20 0 0 -1 0 -1 0 -1 0 0 stud4.dat
+1 16 0 4 0 0 0 -1 0 -1 0 -1 0 0 stud4a.dat
+1 16 0 4 0 0 0 8 0 1 0 -8 0 0 4-4edge.dat
+1 16 0 4 20 0 0 -1 0 -1 0 -1 0 0 stud4.dat
+1 16 0 4 40 0 0 -1 0 -1 0 -1 0 0 stud4a.dat
+1 16 0 4 40 0 0 8 0 1 0 -8 0 0 4-4edge.dat

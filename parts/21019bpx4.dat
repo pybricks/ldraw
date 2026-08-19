@@ -1,0 +1,22 @@
+0 Minifig Hips and Legs with Black Lower Legs, Cargo Pockets, Orange and Silver Lines Pattern
+0 Name: 21019bpx4.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Shortcut UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 21019b.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Lower
+0 !KEYWORDS Abby Yates, Bricklink 970c00pb0556, Brickowl 956157, Brickset 28224
+0 !KEYWORDS Dimensions, Erin Gilbert, Ghostbusters, Mini Lower Part No 1120
+0 !KEYWORDS Rebrickable 970c11pat03pr1120, Set 71242, Set 75828
+
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815bpx4.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 20460bpx4.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 20461bpx4.dat

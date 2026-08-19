@@ -1,0 +1,16 @@
+0 Minifig Torso with White Collar and Button Pattern
+0 Name: 973pxq.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb3329, Powerpuff Girls, Princess Morbucks, set 41287
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973pxqs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\973pxqs01.dat

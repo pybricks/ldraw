@@ -1,0 +1,150 @@
+ldraw.org Parts Update 2025-02
+----------------------------------------------------------------------------
+
+Redistributable Parts Library - Core Library
+----------------------------------------------------------------------------
+
+Notes created Thu, 27 Feb 2025 19:16:23 +0000 by the Parts Tracker
+
+Release statistics:
+   Total files: 687
+   New files: 596
+   New Parts: 437
+   New Subparts: 147
+   New Primitives: 7
+   New 48 Segment Primitives: 4
+   New TEXMAP Images: 1
+
+Moved Parts
+   2865.dat                   ~Moved to 74746
+   2867.dat                   ~Moved to 74747
+   32283c01.dat               ~Moved to 76098ap01
+   u9062c01.dat               ~Moved to 76098bp01
+
+Renamed Parts
+   t1001.dat                  ~| BuWizz Case Top
+   changed to    ~| BuWizz 2.0 Case Top
+   t1001c01.dat               | BuWizz Rechargeable Battery and Bluetooth  4 Ports Motor Driver
+   changed to    | BuWizz 2.0 Hub with 4 Power Functions Ports
+   4568123d.dat               Sticker  1.1 x  1.7 with Yellow and Blue Alien Text, Planet Outline
+   changed to    Sticker  1.1 x  1.7 with Aurebesh Characters "ADAM" and Planet Outline
+   4568123e.dat               Sticker  1.1 x  1.7 with  5 Lines Yellow and Blue Alien Text
+   changed to    Sticker  1.1 x  1.7 with Aurebesh Characters "DARK"
+   3626bpaq.dat               Minifig Head with Skull Type 1 (Smiling) Pattern
+   changed to    Minifig Head with Black Skull Type 1 (Smiling) (Blocked Hollow Stud) Pattern
+   973p7z.dat                 Minifig Torso with Jacket over Lt Blue Button Down Shirt Pattern
+   changed to    Minifig Torso with Jacket over White Button Down Shirt Pattern
+   973pc3.dat                 Minifig Torso with White Jester Collar, Female Outline and Black Quarters Pattern
+   changed to    Minifig Torso with Female White Jester Collar and Black Quarters Pattern
+   3069bdn0.dat               Tile 1 x 2 with Groove with Trainer Card with Red Ninjago Minifigure and Text Box Sticker
+   changed to    Tile  1 x  2 with Trainer Card with Red Ninjago Minifigure and Text Box Sticker
+   4493c01.dat                Animal Horse with Brown/White Tack Pattern (Complete)
+   changed to    Animal Horse (Complete) with Brown/White Tack Pattern
+   973prb.dat                 Minifig Torso with SW Blast Armour (Green Plates) Bl.Grey Pattern
+   changed to    Minifig Torso with SW Blast Armour (Green Plates) Bluish Grey Pattern
+   4493c02.dat                Animal Horse with Brown/Black Tack Pattern (Complete)
+   changed to    Animal Horse  (Complete) with Brown/Black Tack Pattern
+   4493c03.dat                Animal Horse with Red Tack Pattern (Complete)
+   changed to    Animal Horse (Complete) with Red Tack Pattern
+   4493c04.dat                Animal Horse with Red Tack and Black Mane Pattern (Complete)
+   changed to    Animal Horse  (Complete) with Red Tack and Black Mane Pattern
+   4493pw1c00.dat             Animal Horse with Green Blanket and Red Hand Pattern (Complete)
+   changed to    Animal Horse (Complete) with Green Blanket and Red Hand Pattern
+   4493pw2c00.dat             Animal Horse Body with Blue Blanket and Red Circle Pattern (Complete)
+   changed to    Animal Horse (Complete) Body with Blue Blanket and Red Circle Pattern
+   s\u9610s01.dat             ~Train Track  9V Curved - Metal Rails Interlocking End
+   changed to    ~Train Track  9V Curved - Inner Metal Rail Half
+   s\33125s01.dat             ~Minifig Food Croissant Half
+   changed to    ~Minifig Food Croissant with Rounded Ends - Half
+   33125.dat                  Minifig Food Croissant
+   changed to    Minifig Food Croissant with Rounded Ends
+   685p01c01.dat              Maxifig Head with Face Pattern (Complete)
+   changed to    Maxifig Head (Complete) with Face Pattern
+   4760p02c01.dat             Electric  9V Battery Box  4 x  8 x  2.333 with "LL-6482" Pattern (Complete)
+   changed to    Electric  9V Battery Box  4 x  8 x  2.333 (Complete) with "LL-6482" Pattern
+   16360pd11.dat              Minifig Torso with Dual Mould Arms and Hands with Shirt with Black Belly Bump and Collar Outline Pattern
+   changed to    Minifig Torso with Arms and Hands with Shirt with Black Belly Bump and Collar Outline Pattern
+   61409.dat                  Slope Brick 18  2 x  1 x  0.667 Grille
+   changed to    ~Slope Brick 18  2 x  1 x  0.667 Grille (Obsolete)
+   973pst.dat                 Minifig Torso with Black Collar and Pockets Pattern
+   changed to    Minifig Torso with SW Black Collar and Pockets Pattern
+   973psw.dat                 Minifig Torso with Silver Buttons and Ammo Belt Pattern
+   changed to    Minifig Torso with SW Jacket with Silver Buttons and Ammo Belt Pattern
+   973pc00.dat                Minifig Torso with Skull and DkPink Roses Pattern
+   changed to    Minifig Torso with Skull and Dark Pink Roses Pattern
+   973psi.dat                 Minifig Torso with SW Imperial Trooper Armor Pattern
+   changed to    Minifig Torso with SW Imperial Trooper Armour Pattern
+   43363.dat                  Technic Darth Vader Helmet
+   changed to    Constraction Helmet Darth Vader
+   26603d04.dat               Tile 2 x 3 with United States of America Flag, Black and Chrome Gold Rectangles Sticker
+   changed to    Tile  2 x  3 with United States of America Flag, Black and Chrome Gold Rectangles Sticker
+   49731.dat                  Technic Pin 1/2 with Button
+   changed to    Technic Pin  1/2 with Button
+   s\43363s01.dat             ~Technic Darth Vader Helmet Half
+   changed to    ~Constraction Helmet Darth Vader Half
+   78666.dat                  Arch  1 x 2  x  1 Inverted
+   changed to    Arch  1 x  2 x  1 Inverted
+   61184.dat                  Technic Pin 1/2 with Bar 2L
+   changed to    Technic Pin  1/2 with Bar 2L
+   89678.dat                  Technic Friction Pin  1/2
+   changed to    Technic Pin  1/2 with Friction
+   3245cpze.dat               Brick  1 x  2 x  2 with Dark Bluish Grey Armor and Control Panel with Red and Blue Buttons Pattern
+   changed to    Brick  1 x  2 x  2 with Dark Bluish Grey Armour and Control Panel with Red and Blue Buttons Pattern
+   s\18675p01s01.dat          ~Dish  6 x  6 Inverted - No Studs with Handle with Metallic Dark Grey and Metallic Silver Armor Pattern - Half
+   changed to    ~Dish  6 x  6 Inverted - No Studs with Handle with Metallic Dark Grey and Metallic Silver Armour Pattern - Half
+   973psq.dat                 Minifig Torso with SW Imperial Officer Pattern
+   changed to    Minifig Torso with SW Imperial Officer (Captain) Pattern
+   10054p02.dat               Minifig Helmet Castle Rohan with Cheek Protection & Comb with Theoden Pattern
+   changed to    Minifig Helmet Castle Rohan with Cheek Protection & Comb with Théoden Pattern
+
+Other Fixed Parts
+   3626bp8a.dat               Minifig Head Female with Peach Lips, Smile, Brown Eyebrows Pattern (Blocked Hollow Stud)
+   3626bp09.dat               Minifig Head Female with Brown Eyebrows, Pupils, Eyelashes Pattern
+   2408p01.dat                Panel 10 x  6 x 11 with Blacktron II Logo Pattern
+   973p40.dat                 Minifig Torso with Castle Breastplate Pattern
+   6225.dat                   =Plate  1 x  2
+   4623.dat                   Plate  1 x  2 with Vertical Bar on Long Side and Long Arm
+   28653.dat                  =Plate  1 x  2
+   42445.dat                  Bar 12L with Plate  1 x  2 with Solid Studs and Hollow Stud
+   32061.dat                  =Technic Engine Cylinder Head
+   54196.dat                  =Dish  2 x  2
+   93791.dat                  =Dish  2 x  2
+   62623.dat                  =Container Treasure Chest Lid
+   55529.dat                  =Bar  1.5L with Clip
+   51373.dat                  =Dish 10 x 10 Inverted
+   30499.dat                  =Slope Brick 75  2 x  2 x  3
+   s\2867as01.dat             ~Train Track  9V Curved - Half
+   u9610.dat                  ~Train Track  9V Curved - Inner Metal Rail
+   u9621.dat                  ~Train Track  9V Curved - Outer Metal Rail
+   18863.dat                  =Slope Brick 18  2 x  1 x  0.667 Grille
+   30114c01.dat               Minifig Hair Long with Headband and Feathers (Complete)
+   4161.dat                   Slope Brick 33  3 x  3
+   973pde1.dat                Minifig Torso with Tank Top, Belt and Bunny Tail Pattern
+   s\191915sdea.dat           ~German Railways Logo Foreground
+   10178p07.dat               Rock Stepped with White Ghost Pattern
+   10178p03.dat               Rock Stepped with Black Wolf Pattern
+   10178p06.dat               Rock Stepped with White Lightning Pattern
+   10178p05.dat               Rock Stepped with Black Zombie Pattern
+   10178p04.dat               Rock Stepped with Black Bat Pattern
+   10178p02.dat               Rock Stepped with Gold Egyptian Eye of Horus Pattern
+   10178p01.dat               Rock Stepped with Dark Green Swamp Gas Pattern
+   10066p03.dat               Minifig Hair Orc with Olive Green Ears Pattern
+   10066p02.dat               Minifig Hair Orc with Medium Nougat Ears Pattern
+   10066p01.dat               Minifig Hair Orc with Dark Tan Ears Pattern
+   10057pm1.dat               Minifig Gollum with Narrow Eyes and Half-open Mouth Pattern
+   10057pm0.dat               Minifig Gollum with Wide Eyes and Open Mouth Pattern
+   10054p01.dat               Minifig Helmet Castle Rohan with Cheek Protection & Comb with Eomer Pattern
+   10051p01.dat               Minifig Helmet Castle Uruk-Hai with Lateral Comb & Hand Pattern
+   10305p01.dat               Minifig Helmet with Front Prongs with Dark Purple Highlight Pattern
+   24246p07.dat               Tile  1 x  1 with Red Disc and Light Grey Arc Pattern
+   24246p06.dat               Tile  1 x  1 with Rounded End with Yellow Ferrari Horse Pattern
+   24246p03.dat               Tile  1 x  1 with Rounded End with Black Top Pattern
+   24246p04.dat               Tile  1 x  1 with Rounded End with White Mercedes-Benz Logo Pattern
+   24246p01.dat               Tile  1 x  1 with Rounded End with Black and Light Grey Circle and Four Lines Pattern
+   6636p09.dat                Tile  1 x  6 with Red "STATES" Pattern
+   6636p08.dat                Tile  1 x  6 with Red "UNITED" Pattern
+   6636p05.dat                Tile  1 x  6 with "Museum" Pattern
+   6636p04.dat                Tile  1 x  6 with "R. Guggenheim" Pattern
+   6636p03.dat                Tile  1 x  6 with "Solomon" Pattern
+   6636p02.dat                Tile  1 x  6 with "Center" Pattern
+   6636p0j.dat                Tile  1 x  6 with Danger Red Stripes Pattern

@@ -1,0 +1,35 @@
+0 Minifig Helmet Visor with Night Vision
+0 Name: 15446.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2024-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Place at [y, z] on [helmet]
+0 !HELP Place at [8, 0.7] on 30124b and 22380
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS FLIR, goggles, Military, scope
+
+0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\15446s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\15446s01.dat
+
+3 16 5.75 10.5 -22.5 -5.75 10.5 -22.5 0 10.5 -18
+1 16 0 9.375 -22.5 -5.75 0 0 0 0 1.125 0 1 0 rect2p.dat
+4 16 1.75 8.25 -27 -1.75 8.25 -27 -5.75 8.25 -22.5 5.75 8.25 -22.5
+1 16 0 2.25 -27 0 0 -1.75 -2 0 0 0 1 0 rect1.dat
+1 16 0 6.25 -27 0 0 1.75 2 0 0 0 1 0 rect1.dat
+4 16 -4 .25 -24 -1.75 .25 -27 1.75 .25 -27 4 .25 -24
+1 16 0 -.625 -24 -4 0 0 0 0 .875 0 1 0 rect3.dat
+1 16 4 -1.5 -21.5 0 -8 0 -2.5 0 0 0 0 -2.5 1-4cylo.dat
+3 16 0 -4 -18 -4 -4 -21.5 4 -4 -21.5
+5 24 0 10.5 -18 0 7.75 -18 -5.7807 10.5 -16.8585 5.7807 10.5 -16.8585
+5 24 0 -4 -18 0 -1.25 -18 -5.7807 -4 -16.8585 5.7805 -4 -16.8582
+
+0 BFC INVERTNEXT
+1 16 0 3.25 -22 0 0 4.5 4.5 0 0 0 4 0 4-4cyli.dat
+1 16 0 3.25 -22 0 0 4.5 4.5 0 0 0 -1 0 4-4disc.dat
+1 16 0 3.25 -22 0 0 4.5 4.5 0 0 0 -1 0 4-4edge.dat

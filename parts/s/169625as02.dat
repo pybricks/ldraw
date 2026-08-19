@@ -1,0 +1,19 @@
+0 ~Coast Guard (1995) Logo with Three Red Horizontal Stripes and Life Saver on Blue Crest - Quarter of Life Saver
+0 Name: s\169625as02.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LDRAW_ORG Subpart UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+
+4 16 -3.2 0 .3 -3.14 0 .92 -5.69 0 1.43 -5.8 0 .3
+4 16 -3.14 0 -.32 -3.2 0 .3 -5.8 0 .3 -5.69 0 -.83
+4 16 -2.96 0 -.92 -3.14 0 -.32 -5.69 0 -.83 -5.36 0 -1.92
+4 16 -2.66 0 -1.48 -2.96 0 -.92 -5.36 0 -1.92 -4.82 0 -2.92
+4 16 -2.66 0 2.08 -2.49 0 2.29 -4.33 0 4.13 -4.82 0 3.52
+4 16 -2.96 0 1.52 -2.66 0 2.08 -4.82 0 3.52 -5.36 0 2.52
+4 16 -3.14 0 .92 -2.96 0 1.52 -5.36 0 2.52 -5.69 0 1.43
+4 16 -4.33 0 -3.53 -2.49 0 -1.69 -2.66 0 -1.48 -4.82 0 -2.92

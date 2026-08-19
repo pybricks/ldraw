@@ -1,0 +1,23 @@
+0 Animal Bird Chick with White Eyes, Black Eyelashes, Bright Pink Cheeks and Orange Beak and Feet Pattern
+0 Name: 3918p01.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Part UPDATE 2026-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Accessory hole Y=-31.2, Z=-2.5
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3918pb01, Brickowl 75538, Brickset 104228, Chicken, Flicky
+0 !KEYWORDS Rebrickable 3918pr0004, Set 76992, Sonic the Hedgehog
+
+0 !HISTORY 2026-03-06 [OrionP] Official Update 2026-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3918s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3918s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3918p01s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3918p01s02.dat
+1 25 0 0 0 1 0 0 0 1 0 0 0 1 s\3918s03.dat
+1 25 0 0 0 -1 0 0 0 1 0 0 0 1 s\3918s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3918p01s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3918p01s04.dat

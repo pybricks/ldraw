@@ -1,0 +1,19 @@
+0 Minifig Hair Long and Wavy with Left Part with Gold Clip on Right Side Pattern
+0 Name: 68508p01.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Part UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS BrickLink 68508pb01, Brickowl 167046, Brickset 68508, CMF
+0 !KEYWORDS Collectible Minifigures, Ginny Weasley, Harry Potter
+0 !KEYWORDS Rebrickable 68508pr0001, Series 2, Set 71028
+
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+0 // Hair
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\68508s01.dat
+0 // Clip
+1 82 0 0 0 1 0 0 0 1 0 0 0 1 s\68508s02.dat

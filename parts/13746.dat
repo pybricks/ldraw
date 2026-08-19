@@ -1,0 +1,18 @@
+0 Minifig Hat with Small Pin, Women's Fedora with Large Bow and Feather
+0 Name: 13746.dat
+0 Author: Lisa Winter [LisaWinter]
+0 !LDRAW_ORG Part UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2024-09-04 [LisaWinter] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+0 // Main part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\13746s01.dat
+0 // Bow
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\13746s02.dat
+0 // Feather
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\13746s03.dat

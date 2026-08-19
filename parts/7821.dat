@@ -1,0 +1,24 @@
+0 Slope Brick Curved  2 x  2 with Two Cutouts
+0 Name: 7821.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2026-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickowl 1029823
+
+0 !HISTORY 2026-03-07 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-03-07 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7821s01.dat
+
+0 // Top Surface
+4 16 19.176 -12.8827 -1.648 -19.176 -12.8827 -1.648 -15.858 -10.5099 -8.284 15.858 -10.5099 -8.284
+4 16 15.858 -10.5099 -8.284 -15.858 -10.5099 -8.284 -12.782 -7.5316 -14.436 12.782 -7.5316 -14.436
+4 16 12.782 -7.5316 -14.436 -12.782 -7.5316 -14.436 -10 -4 -20 10 -4 -20
+4 16 20 -16 20 -20 -16 20 -20 -15.6524 12.616 20 -15.6524 12.616
+4 16 20 -15.6524 12.616 -20 -15.6524 12.616 -20 -14.6036 5.36 20 -14.6036 5.36
+4 16 20 -14.6036 5.36 -20 -14.6036 5.36 -20 -13.2874 0 20 -13.2874 0
+4 16 20 -13.2874 0 -20 -13.2874 0 -19.176 -12.8827 -1.648 19.176 -12.8827 -1.648

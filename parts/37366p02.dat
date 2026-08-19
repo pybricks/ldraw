@@ -1,0 +1,29 @@
+0 Minifig Leg Medium Left with Bright Light Yellow Shoe Tip Pattern
+0 Name: 37366p02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2024-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move down 12 units to align with hips
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Animal Crossing, Bricklink 970cm00pb019, Isabelle, Set 77052
+
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\37366s01.dat
+0 // Rounded Front
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\37366s03.dat
+0 // Flat Front
+4 16 2 6.4793 -5.75 1.5 12 -5.75 18.9022 12 -5.75 18.6621 6.4793 -5.75
+3 16 1.5 6.4793 -5.75 1.5 12 -5.75 2 6.4793 -5.75
+0 // Foot Top
+4 16 1.5 12 -5.75 1.5 12 -11.25 18.9022 12 -11.25 18.9022 12 -5.75
+0 // Foot Front
+
+4 226 2.2 12.5 -11.3 2.2 19.5 -11.3 18.5 19.5 -11.3 18.2 12.5 -11.3
+4 16 2.2 12.5 -11.3 1.5 12 -11.25 1.5 20 -11.25 2.2 19.5 -11.3
+4 16 1.5 12 -11.25 2.2 12.5 -11.3 18.2 12.5 -11.3 18.9022 12 -11.25
+4 16 18.9022 12 -11.25 18.2 12.5 -11.3 18.5 19.5 -11.3 19.25 20 -11.25
+4 16 18.5 19.5 -11.3 2.2 19.5 -11.3 1.5 20 -11.25 19.25 20 -11.25

@@ -1,0 +1,20 @@
+0 Technic Gear Stepper with  9 Teeth with Dark Bluish Grey Teeth
+0 Name: 116165p01.dat
+0 Author: Jens Brühl [jb70]
+0 !LDRAW_ORG Part UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Technic
+0 !KEYWORDS Brickowl 1372351, Brickset 116165, Colour Combination
+0 !KEYWORDS Rebrickable 116165pat0001, Set 42232
+
+0 !HISTORY 2026-07-02 {LEGO Instructions App} Original part shape
+0 !HISTORY 2026-07-05 [jb70] File preparation for LDraw Parts Tracker
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\116165s01.dat
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 s\116165s02.dat
+5 24 3.5 -18.678 -9.25 3.5 -18.678 9.25 6.49731 -17.85094 -9.25 2.233 -18.868 9.25
+5 24 -3.5 -18.678 9.25 -3.5 -18.678 -9.25 -2.233 -18.868 -9.25 -6.49731 -17.85094 9.25

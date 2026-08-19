@@ -1,0 +1,18 @@
+0 ~Wheel 22 x 50 Smooth Racing Tyre without Patternable Area
+0 Name: s\105645s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Subpart UPDATE 2025-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\105645s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\105645s04.dat
+1 16 0 0 0 0 -1 0 1 0 0 0 0 1 s\105645s04.dat
+1 16 0 0 0 0 -1 0 -1 0 0 0 0 1 s\105645s04.dat
+1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 s\105645s04.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\105645s04.dat
+1 16 0 0 0 0 1 0 -1 0 0 0 0 1 s\105645s04.dat
+1 16 0 0 0 0 1 0 1 0 0 0 0 1 s\105645s04.dat

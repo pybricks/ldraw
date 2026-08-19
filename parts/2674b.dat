@@ -1,0 +1,46 @@
+0 Minifig Sword Greatsword with Capped Pommel
+0 Name: 2674b.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Aragorn, BrickLink 2674d, Lord of the Rings, LOTR, Rivendell
+0 !KEYWORDS Set 10316
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+
+1 16 0 6.5 0 0 0 -4 0 1.6 0 4 0 0 4-4cylc.dat
+1 16 0 6.5 0 0 0 -3.5 0 -1 0 3.5 0 0 4-4edge.dat
+1 16 0 3.6 0 0 0 -4 0 1.6 0 4 0 0 4-4cylc.dat
+1 16 0 5.2 0 0 0 -4 0 -1 0 4 0 0 4-4disc.dat
+1 16 0 5.2 0 0 0 -3.5 0 -1 0 3.5 0 0 4-4edge.dat
+1 16 0 3.6 0 0 0 -3.5 0 -1 0 3.5 0 0 4-4edge.dat
+1 16 0 0.7 0 0 0 -4 0 1.6 0 4 0 0 4-4cylc.dat
+1 16 0 2.3 0 0 0 -4 0 -1 0 4 0 0 4-4disc.dat
+1 16 0 2.3 0 0 0 -3.5 0 -1 0 3.5 0 0 4-4edge.dat
+1 16 0 0.7 0 0 0 -3.5 0 -1 0 3.5 0 0 4-4edge.dat
+1 16 0 -2.2 0 0 0 -4 0 1.6 0 4 0 0 4-4cylc.dat
+1 16 0 -0.6 0 0 0 -4 0 -1 0 4 0 0 4-4disc.dat
+1 16 0 -0.6 0 0 0 -3.5 0 -1 0 3.5 0 0 4-4edge.dat
+1 16 0 -2.2 0 0 0 -3.5 0 -1 0 3.5 0 0 4-4edge.dat
+1 16 0 -5.1 0 0 0 -4 0 1.6 0 4 0 0 4-4cylc.dat
+1 16 0 -3.5 0 0 0 -4 0 -1 0 4 0 0 4-4disc.dat
+1 16 0 -3.5 0 0 0 -3.5 0 -1 0 3.5 0 0 4-4edge.dat
+1 16 0 -5.1 0 0 0 -3.5 0 -1 0 3.5 0 0 4-4edge.dat
+1 16 0 -6.4 0 0 0 -4 0 -1 0 4 0 0 4-4cylc.dat
+1 16 0 6.5 0 0 0 -3.5 0 -12.9 0 3.5 0 0 4-4cylo.dat
+1 16 0 8.1 0 0 0 -4.5 0 -1 0 4.5 0 0 4-4edge.dat
+1 16 0 8.1 0 0 0 -4.5 0 1 0 4.5 0 0 4-4disc.dat
+1 16 0 12.1 0 0 0 6 0 1 0 6 0 0 4-4edge.dat
+1 16 0 10.5 0 0 0 0.5 0 -2.4 0 0.5 0 0 4-4con9.dat
+1 16 0 12.1 0 0 0 1 0 -1.6 0 1 0 0 4-4con5.dat
+1 16 0 12.1 0 0 0 6 0 4.5 0 6 0 0 4-8sphe.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2674bs02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\2674bs02.dat
+5 24 -2 -86.25 0 2 -86.25 0 -1.9282 -86.05 -1.0142 1.9282 -86.05 1.0142
+5 24 -3.4021 -15.2537 0 3.4021 -15.2537 0 3.2026 -14.4045 2.5754 -3.2026 -14.4045 -2.5754
+5 24 -4.8 -11.7 0 4.8 -11.7 0 4.6 -11.1 1.975 -4.6 -11.1 -1.975

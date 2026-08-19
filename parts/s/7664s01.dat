@@ -1,0 +1,22 @@
+0 ~Windscreen  6 x  8 x  2 Curved without Front Surface
+0 Name: s\7664s01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Subpart UPDATE 2026-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7664s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\7664s02.dat
+1 16 -70 0 50 0 0 1 0 1 0 -1 0 0 stud2.dat
+1 16 -50 0 10 0 0 1 0 1 0 -1 0 0 stud2.dat
+1 16 0 0 -10 0 0 1 0 1 0 -1 0 0 stug2-2x1.dat
+1 16 50 0 10 0 0 1 0 1 0 -1 0 0 stud2.dat
+1 16 70 0 50 0 0 1 0 1 0 -1 0 0 stud2.dat
+1 16 0 44 -50 0 0 1 0 -1 0 -1 0 0 stud3.dat
+0 BFC INVERTNEXT
+1 16 0 48 -50 16 0 0 0 -4 0 0 0 6 box5.dat
+3 16 -16 48 -44 0 48 -40 16 48 -44
+3 16 0 48 -60 -16 48 -56 16 48 -56

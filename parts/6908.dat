@@ -1,0 +1,24 @@
+0 Dome  1 x  1 x  0.667
+0 Name: 6908.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sphere
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+1 16 0 0 0 3 0 0 0 -1 0 0 0 3 4-4ring2.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 6 0 0 0 -8 0 0 0 6 4-4cyli.dat
+0 BFC INVERTNEXT
+1 16 0 -8 0 6 0 0 0 -6 0 0 0 6 4-8sphe.dat
+
+1 16 0 -1 0 9 0 0 0 1 0 0 0 9 4-4cylo.dat
+1 16 0 -1 0 1 0 0 0 -1 0 0 0 1 4-4ring9.dat
+1 16 0 -1 0 10 0 0 0 1 0 0 0 10 4-4edge.dat
+1 16 0 -1 0 10 0 0 0 -5 0 0 0 10 4-4cyli.dat
+1 16 0 -6 0 10 0 0 0 -10 0 0 0 10 4-8sphe.dat

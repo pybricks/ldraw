@@ -1,0 +1,39 @@
+0 Plate  2 x  4 with Towball Socket on Top
+0 Name: 3779.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Receptacle, Tow
+
+0 !HISTORY 2024-06-21 {LEGO Instructions App} Original part shape
+0 !HISTORY 2024-06-23 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+1 16 0 8 0 0 0 40 0 1 0 20 0 0 recte3.dat
+1 16 -40 4 0 0 1 0 4 0 0 0 0 20 rect.dat
+1 16 0 3 0 1 0 0 0 -1.25 0 0 0 1 stug4-1x3.dat
+0 BFC INVERTNEXT
+1 16 0 8 0 36 0 0 0 -5 0 0 0 16 box5.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3779s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3779s01.dat
+4 16 -40 0 20 -40 0 -20 36 0 -20 36 0 20
+4 16 36 0 20 36 0 -20 40 0 -16.6747 40 0 16.6747
+4 16 40 0 16.6747 40 0 -16.6747 40 8 -20 40 8 20
+2 24 40 0 -16.6747 40 0 16.6747
+4 16 17 -4 -1.6 27.4 -4 -1.6 27.4 -4 1.6 17 -4 1.6
+4 16 27.4 -4 1.6 27.4 -4 -1.6 40 0 -1.6 40 0 1.6
+2 24 27.4 -4 -1.6 27.4 -4 1.6
+4 16 12 -12.3 -1.6 12 -9 -1.6 12 -9 1.6 12 -12.3 1.6
+4 16 9.5 -14.8 -1.6 9.5 -14.8 1.6 6.0182 -14.8 1.6 6.0182 -14.8 -1.6
+3 16 6.0182 -14.8 1.6 5.7 -14.8 0 6.0182 -14.8 -1.6
+4 16 -36 8 -16 -40 8 -20 -40 8 20 -36 8 16
+4 16 40 8 -20 36 8 -16 36 8 16 40 8 20
+1 16 -20 0 0 1 0 0 0 1 0 0 0 1 stug-2x2.dat
+5 24 3.2667 -3 0 3.2667 0 0 3.5848 0 1.6 3.5848 0 -1.6
+0 BFC INVERTNEXT
+1 16 17 -9 -1.6 -5 0 0 0 0 5 0 3.2 0 1-4cylo.dat
+1 16 9.5 -12.3 -1.6 2.5 0 0 0 0 -2.5 0 3.2 0 1-4cylo.dat

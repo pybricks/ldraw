@@ -1,0 +1,17 @@
+0 Animal Kitten Standing with Orange Fur, White Muzzle, Bright Pink Nose, and Black Mouth and Eyes with White Pupils Pattern
+0 Name: 80686p03.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 80686pb03, Brickowl 499725, Monkie Kid
+0 !KEYWORDS Rebrickable 80686pr0003, Set 80044, Set 80046, Set 80054, Set 80058
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80686s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80686p03s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80686p03s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\80686p03s03.dat

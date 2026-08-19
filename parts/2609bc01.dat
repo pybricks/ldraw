@@ -1,0 +1,15 @@
+0 Magnet Holder Tile  2 x  2 with Long Arms and Deep Notch with Black Magnet
+0 Name: 2609bc01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LDRAW_ORG Shortcut UPDATE 2025-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP magnet connection at 0 -14.5 0
+0 !HELP magnet max top position 0 -8.75 0
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2609b.dat
+1 0 0 -5.75 0 1 0 0 0 0 1 0 1 0 2959bc01.dat

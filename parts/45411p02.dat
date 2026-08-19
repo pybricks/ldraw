@@ -1,0 +1,17 @@
+0 Slope Brick Curved  6 x  8 x  2 Double with Chrome Silver Sides Pattern
+0 Name: 45411p02.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LDRAW_ORG Part UPDATE 2024-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 45411pb01, Brickowl 331424, Jack Stone
+0 !KEYWORDS Rebrickable 45411pr0001, Set 4654, Tanker Truck
+
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\45411s01.dat
+
+1 383 -8.284 48 -80 68.284 0 0 0 0 -67.883 0 160 0 48\1-8cyli.dat
+1 383 8.284 48 80 -68.284 0 0 0 0 -67.883 0 -160 0 48\1-8cyli.dat

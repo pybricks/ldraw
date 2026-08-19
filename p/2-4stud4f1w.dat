@@ -1,0 +1,25 @@
+0 Half Stud Tube Open with  1 Fillet Wide
+0 Name: 2-4stud4f1w.dat
+0 Author: Bertrand Lequy [Berth]
+0 !LDRAW_ORG Primitive UPDATE 2024-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
+0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06
+
+0 BFC INVERTNEXT
+1 16 0 -4 0 0 0 6 0 4 0 6 0 0 2-4cylo.dat
+
+1 16 0 -4 0 0 0 2 0 1 0 2 0 0 3-16ring3.dat
+1 16 0 -4 0 0 0 2 0 1 0 -2 0 0 3-16ring3.dat
+1 16 0 -4 0 0 0 8 0 4 0 8 0 0 3-16cyli.dat
+1 16 0 -4 0 0 0 8 0 4 0 -8 0 0 3-16cyli.dat
+
+1 16 0 -4 0 0 0 8 0 4 0 8 0 0 3-16edge.dat
+1 16 0 -4 0 0 0 8 0 4 0 -8 0 0 3-16edge.dat
+1 16 0 0 0 0 0 8 0 4 0 8 0 0 3-16edge.dat
+1 16 0 0 0 0 0 8 0 4 0 -8 0 0 3-16edge.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 st4jfil4.dat

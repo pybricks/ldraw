@@ -1,0 +1,19 @@
+0 Minifig Hips and Legs with Silver and Metallic Dark Grey Armour Pattern
+0 Name: 73200bp0h.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Shortcut UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bp0g.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 970c00pb1589, Dune, Gurney Halleck, Set 10327
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815bp0h.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cp0h.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cp0h.dat

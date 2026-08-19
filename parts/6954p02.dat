@@ -1,0 +1,21 @@
+0 Minifig Arm Pterodactyl Wing Right with Bright Light Blue and Dark Blue Pattern
+0 Name: 6954p02.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Place Hand at -20.0294 0 -11.5008 and rotate by 32.775 degrees
+0 !HELP 1 16 -20.0294 0 -11.5008 0 .8408 .54134 -1 0 0 0 -.54134 .8408 3820.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 6954pb02, Collectible Minifigures, Series 27, Set 71048
+
+0 !PREVIEW 16 0 0 0 1 0 0 0 -1 0 0 0 -1
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6954s01.dat
+
+1 16 0 0 0 1 0 0 0 -1 0 0 0 1 s\6954p01s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6954s03.dat

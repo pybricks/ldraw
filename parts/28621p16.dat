@@ -1,0 +1,36 @@
+0 Minifig Head with Black Eyebrows Thick Moustache and Round Glasses Pattern
+0 Name: 28621p16.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2026-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3626pb4127, Brickowl 511041, Brickset 116265, Moon Rocket
+0 !KEYWORDS Professeur Tryphon Tournesol, Professor Cuthbert Calculus
+0 !KEYWORDS Rebrickable 28621pr0063, Set 21367, Tintin
+
+0 !HISTORY 2026-05-31 [OrionP] Official Update 2026-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\28621s01.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 -8 t08o6250.dat
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t08o6250.dat
+1 16 0 4 0 0 0 -8 0 -6.4 0 8 0 0 t04o6250.dat
+1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 8 t04o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t04o6250.dat
+1 16 0 4 0 13 0 0 0 13 0 0 0 13 1-4cyli.dat
+1 16 0 4 0 13 0 0 0 13 0 0 0 -13 1-16cyli.dat
+1 16 0 4 0 -13 0 0 0 13 0 0 0 -13 1-16cyli.dat
+1 16 0 4 0 -13 0 0 0 13 0 0 0 13 1-4cyli.dat
+
+5 24 0 4 -13 0 17 -13 -4.9752 17 -12.0104 4.9751 17 -12.0107
+5 24 0 17 -13 0 18.5309 -12.6192 4.9751 17 -12.0107 -4.9752 17 -12.0104
+5 24 0 19.8282 -11.5352 0 18.5309 -12.6192 4.4144 19.8282 -10.6576 -4.4144 19.8282 -10.6576
+5 24 0 20.6954 -9.9136 0 19.8282 -11.5352 3.7936 20.6954 -9.1592 -3.7936 20.6954 -9.1592
+5 24 0 21 -8 0 20.6954 -9.9136 3.7936 20.6954 -9.1592 -3.7936 20.6954 -9.1592
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\28621p16s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\28621p16s01.dat

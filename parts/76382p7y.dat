@@ -1,0 +1,20 @@
+0 Minifig Torso with Arms and White Hands with Female Jacket with Medium Lavender Scarf with Fringe and Grey Belt Pattern
+0 Name: 76382p7y.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Shortcut UPDATE 2025-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb0962c01, Brickowl 580157, City, Creator
+0 !KEYWORDS Rebrickable 973c32h27pr1800, set 10222, set 10229, set 10235
+0 !KEYWORDS Set 10249, Set 31080, Set 3300014, Set 40106, Set 40124, Set 40262
+0 !KEYWORDS Set 60099, Set 60133, Set 76057, Set 853663, Set 9311, snow, Winter
+
+0 !HISTORY 2025-01-20 [OrionP] Official Update 2025-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973p7y.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 15 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 15 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

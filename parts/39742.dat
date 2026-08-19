@@ -1,0 +1,32 @@
+0 Animal Cat Standing with Spiky Mohawk and Collar
+0 Name: 39742.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2022-11-09 {LEGO Instructions App} Original part shape
+0 !HISTORY 2022-11-09 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
+
+0 // Structure
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\39742s01.dat
+0 // Mohawk and Collar
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\39742s02.dat
+0 // Side Stripes 1
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\39742s03.dat
+0 // Side Stripes 2
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\39742s04.dat
+0 // Chest
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\39742s05.dat
+0 // Nose areas
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\39742s06.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\39742s06.dat
+0 // Eyes areas
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\39742s07.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\39742s07.dat
+0 // Bandage areas
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\39742s08.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\39742s08.dat

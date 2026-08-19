@@ -1,0 +1,17 @@
+0 Minifig Utensil Hourglass with TransClear Housing Pattern
+0 Name: 23945p01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Part UPDATE 2024-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Bricklink 23945pb01, Bricklink 23945pb02, Set 41173, Set 41179
+0 !KEYWORDS Set 41180, Set 43197, Set 43206, Set 76185
+
+0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06
+
+
+1 47 0 0 0 1 0 0 0 1 0 0 0 1 s\23945s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\23945s04.dat

@@ -1,0 +1,14 @@
+0 ~Slope Brick 31  1 x  4 x  0.667 without Top Patternable Surfaces
+0 Name: s\7835s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Subpart UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\7835s02.dat
+
+4 16 -38 -15.6 10 38 -15.6 10 40 -13.6 10 -40 -13.6 10
+4 16 -40 -1 10 -40 -13.6 10 40 -13.6 10 40 -1 10

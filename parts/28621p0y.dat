@@ -1,0 +1,38 @@
+0 Minifig Head with Gold Visor, Black Eyebrows, Neutral / Smile with Teeth Pattern 2-Sided Pattern
+0 Name: 28621p0y.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Part UPDATE 2026-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3626pb4031, BrickOwl 257947, Brickset 111853
+0 !KEYWORDS Geordi La Forge, Rebrickable 28621pr9532, Set 10356, Star Trek
+0 !KEYWORDS U.S.S. Enterprise NCC-1701-D
+
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\28621s01.dat
+1 16 0 4 0 -13 0 0 0 13 0 0 0 13 1-16cyli.dat
+1 16 0 4 0 -13 0 0 0 13 0 0 0 -13 1-16cyli.dat
+1 16 0 4 0 13 0 0 0 13 0 0 0 13 1-16cyli.dat
+1 16 0 4 0 13 0 0 0 13 0 0 0 -13 1-16cyli.dat
+0 // Top Torus Primitives
+1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
+1 16 0 4 0 0 0 -8 0 -6.4 0 8 0 0 t04o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
+0 // Bottom Torus Primitives
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t08o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 8 t08o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t08o6250.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\28621p0ys01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\28621p0ys01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\28621p0ys02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\28621p0ys02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\28621p0ys02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\28621p0ys02.dat

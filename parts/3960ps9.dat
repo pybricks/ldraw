@@ -1,0 +1,31 @@
+0 Dish  4 x  4 Inverted with Radial TIE Fighter Cockpit Pattern
+0 Name: 3960ps9.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Part UPDATE 2025-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3960pb042, Rebrickable 3960pr0025, Set 75194, Star Wars
+
+0 !HISTORY 2025-05-28 [OrionP] Official Update 2025-05
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s01.dat
+1 16 0 8 0 40 0 0 0 1 0 0 0 40 48\4-4edge.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960s05.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3960ps9s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3960ps9s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\3960ps9s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\3960ps9s01.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 s\3960ps9s01.dat
+1 16 0 0 0 0 0 1 0 1 0 1 0 0 s\3960ps9s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\3960ps9s01.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\3960ps9s01.dat
+1 16 0 0 0 .70711 0 .70711 0 1 0 -.70711 0 .70711 s\3960ps9s01.dat
+1 16 0 0 0 -.70711 0 .70711 0 1 0 .70711 0 .70711 s\3960ps9s01.dat
+1 16 0 0 0 -.70711 0 -.70711 0 1 0 .70711 0 -.70711 s\3960ps9s01.dat
+1 16 0 0 0 .70711 0 -.70711 0 1 0 -.70711 0 -.70711 s\3960ps9s01.dat
+1 16 0 0 0 -.70711 0 .70711 0 1 0 -.70711 0 -.70711 s\3960ps9s01.dat
+1 16 0 0 0 .70711 0 .70711 0 1 0 .70711 0 -.70711 s\3960ps9s01.dat
+1 16 0 0 0 .70711 0 -.70711 0 1 0 .70711 0 .70711 s\3960ps9s01.dat
+1 16 0 0 0 -.70711 0 -.70711 0 1 0 -.70711 0 .70711 s\3960ps9s01.dat

@@ -1,0 +1,20 @@
+0 Minifig Torso with Arms and Hands with Sports Jacket with Orange "NB" and "SQUIDS" Pattern
+0 Name: 76382puk.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Shortcut UPDATE 2025-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 973pb3855c01, BrickOwl 768550, City, College Jacket
+0 !KEYWORDS Haunted House, Hidden Side, Newbury, Paola
+0 !KEYWORDS Rebrickable 973c34h01pr4838, Set 10273, Set 40448, Set 60337
+0 !KEYWORDS Set 70425, Vintage Car
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973puk.dat
+1 25 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 25 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 14 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 14 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

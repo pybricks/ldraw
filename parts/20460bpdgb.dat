@@ -1,0 +1,32 @@
+0 Minifig Leg Left with Sand Blue Lower Leg and Reddish Brown Shoes Pattern
+0 Name: 20460bpdgb.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Part UPDATE 2024-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move down 12 units to align with hips
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 20460b.dat
+0 !HELP 1 16 0 28 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 970c00pb1368, Brickowl 1448009, CMF, Collectable
+0 !KEYWORDS Rebrickable 970c27pat24pr0001, set 71033, Swedish Chef, The Muppets
+
+0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\20460bs01.dat
+1 379 0 0 0 1 0 0 0 1 0 0 0 1 s\20460bs03.dat
+0 // Toes
+4 379 18.978 20 -11.25 1.25 20 -11.25 1.25 21 -11.25 19.01 21 -11.25
+4 70 1.25 28 -11.25 19.25 28 -11.25 19.01 21 -11.25 1.25 21 -11.25
+4 379 1.25 20 -5.75 1.25 20 -11.25 18.978 20 -11.25 18.978 20 -5.75
+0 // Leg
+4 0 1.25 12.4 -5.75 1.25 13.4 -5.75 18.75 13.4 -5.75 18.72 12.4 -5.75
+4 379 18.978 20 -5.75 18.75 13.4 -5.75 1.25 13.4 -5.75 1.25 20 -5.75
+0 // Side
+4 70 19.01 21 8.75 19.01 21 -11.25 19.25 28 -11.25 19.25 28 8.75
+4 379 18.978 20 -5.75 19.01 21 8.75 18.75 13.4 8.75 18.75 13.4 -5.75
+4 0 18.75 13.4 -5.75 18.75 13.4 8.75 18.72 12.4 8.75 18.72 12.4 -5.75
+4 379 18.978 20 -11.25 19.01 21 -11.25 19.01 21 8.75 18.978 20 -5.75

@@ -1,0 +1,25 @@
+0 Figure Micro Doll Body with Long Dress
+0 Name: 65203.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Part UPDATE 2025-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Head at Y=-66.8, Z=1.5
+0 !HELP Accessory at X=+/-15.5 , Y-21.2
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickowl 623818
+
+0 !HISTORY 2023-10-05 {LEGO Instructions App} Original part shape
+0 !HISTORY 2023-10-05 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
+
+0 // Body
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65203s00.dat
+0 // Arms/Neck
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65203s02.dat
+0 // Front
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\65203s05.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\65203s05.dat
+

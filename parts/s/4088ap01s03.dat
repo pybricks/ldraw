@@ -1,0 +1,18 @@
+0 ~Brick  1 x  4 x  2 with Centre Stud Top with Car Radiator Type 1 Pattern - Bumper
+0 Name: s\4088ap01s03.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Subpart UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+1 16 35 43.5 -10 0 0 1.5 -1.5 0 0 0 1 0 2-4chrd.dat
+3 16 2.535 40.024 -10 2.1213 40 -10 2.535 42 -10
+4 16 0 40 -10 0 45 -10 2.535 42 -10 2.1213 40 -10
+4 16 2.1213 39.1213 -10 2.1213 40 -10 2.535 40.024 -10 2.828 39.828 -10
+1 16 0 37 -10 0 0 1 -1 0 0 0 1 0 3-8ring3.dat
+1 16 0 37 -10 0 0 3 3 0 0 0 1 0 1-8tndis.dat
+4 16 16 42 -10 2.535 42 -10 0 45 -10 35 45 -10
+3 16 35 45 -10 35 42 -10 16 42 -10

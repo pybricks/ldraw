@@ -1,0 +1,21 @@
+0 Tile  1 x  2 with Red Bugatti Logo Sticker
+0 Name: 3069bds6.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Shortcut UPDATE 2026-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker Shortcut
+
+0 !KEYWORDS 3069pb0913, Bugatti Chiron, Lego Technic, set 42083
+
+0 !HISTORY 2025-04-27 [OrionP] Official Update 2025-04
+0 !HISTORY 2026-03-03 [MagFors] Update description
+0 !HISTORY 2026-03-31 [OrionP] Official Update 2026-03
+
+0 // Sticker-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3069b.dat
+
+0 // Sticker
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 6228775o.dat

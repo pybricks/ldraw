@@ -1,0 +1,27 @@
+0 Sheet Fabric Tepee Cover
+0 Name: u9328a.dat
+0 Author: Alex Taylor [anathema]
+0 !LDRAW_ORG Part UPDATE 2024-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sheet Fabric
+
+0 !HISTORY 2024-05-18 [Holly-Wood] Split sub in half
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9328as01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\u9328as01.dat
+
+1 16 0 -0.5 0 1 0 0 0 -1 0 0 0 1 s\u9328as01.dat
+1 16 0 -0.5 0 -1 0 0 0 -1 0 0 0 1 s\u9328as01.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\u9328as02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\u9328as02.dat
+
+0 // Edges for flap
+1 16 159.9 0 -223.2 34.9716 0 28.31941 0 1 0 -28.31941 0 34.9716 48\19-48edge.dat
+1 16 159.9 0 -223.2 -41.10955 0 -18.30318 0 1 0 18.30318 0 -41.10955 48\11-24edge.dat
+1 16 159.9 -.5 -223.2 34.9716 0 28.31941 0 1 0 -28.31941 0 34.9716 48\19-48edge.dat
+1 16 159.9 -.5 -223.2 -41.10955 0 -18.30318 0 1 0 18.30318 0 -41.10955 48\11-24edge.dat

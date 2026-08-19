@@ -1,0 +1,14 @@
+0 Stud Tube Open without Outer Cylinder, Top Surface and Top Edge
+0 Name: stud4oda.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Primitive UPDATE 2025-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
+
+1 16 0 -4 0 2 0 0 0 1 0 0 0 2 4-4ring3.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 -6 0 0 0 -4 0 0 0 6 4-4cyli.dat
+1 16 0 -4 0 -6 0 0 0 -4 0 0 0 6 4-4edge.dat

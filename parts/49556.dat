@@ -1,0 +1,21 @@
+0 Minifig Helmet with Mask
+0 Name: 49556.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LDRAW_ORG Part UPDATE 2026-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+
+0 !HISTORY 2022-10-25 {LEGO Instructions App} Original part shape
+0 !HISTORY 2022-10-25 [OrionP] File preparation for LDraw Parts Tracker
+0 !HISTORY 2022-10-29 [MagFors] Subfiled
+0 !HISTORY 2026-01-29 [OrionP] Official Update 2026-01
+
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\49556s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\49556s03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\49556s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\49556s04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\49556s04.dat

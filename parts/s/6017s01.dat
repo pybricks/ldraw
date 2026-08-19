@@ -1,0 +1,32 @@
+0 ~Plant Flower Bell Shaped  1 x  1 x  1.333 - without Patternable Surfaces
+0 Name: s\6017s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Subpart UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
+1 16 0 0 0 0 0 6 0 -1 0 6 0 0 2-4ndis.dat
+0 BFC INVERTNEXT
+1 16 -5.6023 -2.5 0 0 -3.1977 0 0 0 -2.5 2 0 0 box4-2p.dat
+1 16 0 -5 0 0 0 1 0 -1 0 -1 0 0 2-4ring5.dat
+3 16 -8.8 0 -2 -12.424 0 0 -8.8 0 2
+3 16 -5 -5 0 -5.6023 -5 -2 -5.6023 -5 2
+
+0 BFC INVERTNEXT
+1 16 0 -5 0 5 0 0 0 -22.5 0 0 0 5 4-4cylo.dat
+1 16 0 -27.5 0 2 0 0 0 -1 0 0 0 2 4-4ring1.dat
+1 16 0 -27.5 0 1 0 0 0 -1 0 0 0 1 4-4ring4.dat
+0 BFC INVERTNEXT
+1 16 0 -27.5 0 2 0 0 0 -4.3 0 0 0 2 4-4cylo.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6017s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6017s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\6017s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 s\6017s02.dat
+1 16 0 0 0 0 0 -1 0 1 0 1 0 0 s\6017s02.dat
+1 16 0 0 0 0 0 -1 0 1 0 -1 0 0 s\6017s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6017s03.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\6017s03.dat

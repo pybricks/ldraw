@@ -1,0 +1,23 @@
+0 ~Flower Petal with 4 Red Leaves and Yellow Center with Border
+0 Name: s\87079p0qs05.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Subpart UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\87079p0qs01.dat
+1 16 -2 0 0 0 0 -1.5 0 1 0 1.5 0 0 2-4ndis.dat
+1 16 2 0 0 0 0 1.5 0 1 0 1.5 0 0 2-4ndis.dat
+1 16 0 0 2 1.5 0 0 0 1 0 0 0 1.5 2-4ndis.dat
+1 16 0 0 -2 1.5 0 0 0 1 0 0 0 -1.5 2-4ndis.dat
+3 16 1.5 0 -1.5 1.5 0 -2 2 0 -1.5
+3 16 1.5 0 1.5 2 0 1.5 1.5 0 2
+3 16 -1.5 0 -1.5 -2 0 -1.5 -1.5 0 -2
+3 16 -2 0 1.5 -1.5 0 1.5 -1.5 0 2
+4 16 1.5 0 -2 1.5 0 -3.5 3.5 0 -1.5 2 0 -1.5
+4 16 1.5 0 3.5 1.5 0 2 2 0 1.5 3.5 0 1.5
+4 16 -3.5 0 -1.5 -1.5 0 -3.5 -1.5 0 -2 -2 0 -1.5
+4 16 -1.5 0 2 -1.5 0 3.5 -3.5 0 1.5 -2 0 1.5

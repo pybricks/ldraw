@@ -1,0 +1,64 @@
+0 Technic Tread (Formed for 2 Sprocket Wheels)
+0 Name: 71372-f1.dat
+0 Author: Marc Klein [marckl]
+0 !LDRAW_ORG Part UPDATE 2024-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Usage Notes: This part is arranged to fit around two Tread Hubs, part
+0 !HELP 32007.dat. To make other configurations, you will need to rearrange the
+0 !HELP segments which make up this file.
+0 !HELP Segment files:
+0 !HELP 71372k01.dat - Straight segment
+0 !HELP 71372k02.dat - Transition segment, going from straight to curved
+0 !HELP 71372k03.dat - Curved segment, fits around 32007.dat
+0 !HELP To make odd-sized bends, you will probably use part 71372k01.dat,
+0 !HELP unless you are making very large angles.
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Robotics Invention System, Set  9719, Set 3804, Set 7248, Set 8229
+0 !KEYWORDS Set 8419, Set 9747
+
+0 !HISTORY 2000-09-30 [PTadmin] Official Update 2000-02
+0 !HISTORY 2007-10-28 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2009-05-24 [PTadmin] Renamed from 680c01
+0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+0 !HISTORY 2016-12-23 [MagFors] bfc'd, closed thin gaps
+0 !HISTORY 2024-11-06 [MagFors] Renumbered from 71372c01
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
+
+1 16 -120 0 0 1 0 0 0 1 0 0 0 1 71372k02.dat
+1 16 -120 0 0 1 0 0 0 -1 0 0 0 -1 71372k02.dat
+1 16 120 0 0 -1 0 0 0 -1 0 0 0 1 71372k02.dat
+1 16 120 0 0 -1 0 0 0 1 0 0 0 -1 71372k02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 71372k01.dat
+1 16 20 0 0 1 0 0 0 1 0 0 0 1 71372k01.dat
+1 16 40 0 0 1 0 0 0 1 0 0 0 1 71372k01.dat
+1 16 60 0 0 1 0 0 0 1 0 0 0 1 71372k01.dat
+1 16 0 0 0 1 0 0 0 -1 0 0 0 -1 71372k01.dat
+1 16 -80 0 0 1 0 0 0 -1 0 0 0 -1 71372k01.dat
+1 16 -100 0 0 1 0 0 0 -1 0 0 0 -1 71372k01.dat
+1 16 -60 0 0 1 0 0 0 -1 0 0 0 -1 71372k01.dat
+1 16 -40 0 0 1 0 0 0 -1 0 0 0 -1 71372k01.dat
+1 16 -20 0 0 1 0 0 0 -1 0 0 0 -1 71372k01.dat
+1 16 100 0 0 1 0 0 0 -1 0 0 0 -1 71372k01.dat
+1 16 80 0 0 1 0 0 0 -1 0 0 0 -1 71372k01.dat
+1 16 60 0 0 1 0 0 0 -1 0 0 0 -1 71372k01.dat
+1 16 40 0 0 1 0 0 0 -1 0 0 0 -1 71372k01.dat
+1 16 20 0 0 1 0 0 0 -1 0 0 0 -1 71372k01.dat
+1 16 80 0 0 1 0 0 0 1 0 0 0 1 71372k01.dat
+1 16 100 0 0 1 0 0 0 1 0 0 0 1 71372k01.dat
+1 16 -20 0 0 1 0 0 0 1 0 0 0 1 71372k01.dat
+1 16 -40 0 0 1 0 0 0 1 0 0 0 1 71372k01.dat
+1 16 -60 0 0 1 0 0 0 1 0 0 0 1 71372k01.dat
+1 16 -80 0 0 1 0 0 0 1 0 0 0 1 71372k01.dat
+1 16 -100 0 0 1 0 0 0 1 0 0 0 1 71372k01.dat
+1 16 -120 0 0 0.80902 -0.58779 0 0.58779 0.80902 0 0 0 1 71372k03.dat
+1 16 -120 0 0 0.30902 -0.95106 0 0.95106 0.30902 0 0 0 1 71372k03.dat
+1 16 -120 0 0 0.30902 -0.95106 0 -0.95106 -0.30902 0 0 0 -1 71372k03.dat
+1 16 -120 0 0 0.80902 -0.58779 0 -0.58779 -0.80902 0 0 0 -1 71372k03.dat
+1 16 120 0 0 -0.80902 0.58779 0 -0.58779 -0.80902 0 0 0 1 71372k03.dat
+1 16 120 0 0 -0.30902 0.95106 0 -0.95106 -0.30902 0 0 0 1 71372k03.dat
+1 16 120 0 0 -0.30902 0.95106 0 0.95106 0.30902 0 0 0 -1 71372k03.dat
+1 16 120 0 0 -0.80902 0.58779 0 0.58779 0.80902 0 0 0 -1 71372k03.dat

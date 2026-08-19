@@ -1,0 +1,35 @@
+0 ~Duplo Train Cabin  3.2 x  3 x  3 Common Geometry without Patternable Surfaces- Half
+0 Name: s\4544as02.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Subpart UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\4544as03.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\4544as03.dat
+
+1 16 0 4 0 0 0 1 0 -2 0 -1 0 0 stug8-1x2.dat
+0 BFC INVERTNEXT
+1 16 0 16 0 0 0 36 0 -12 0 -56 0 0 box5.dat
+
+4 16 40 16 -60 -40 16 -60 -36 16 -56 36 16 -56
+4 16 -40 16 60 40 16 60 36 16 56 -36 16 56
+4 16 40 4 -60 -40 4 -60 -40 16 -60 40 16 -60
+4 16 -40 4 60 40 4 60 40 16 60 -40 16 60
+1 16 0 16 0 -40 0 0 0 1 0 0 0 -60 recte4.dat
+
+1 16 0 0 0 -1 0 0 0 2.75 0 0 0 -1 stug7-2x2.dat
+1 16 0 0 0 -60 0 0 0 1 0 0 0 -56 rect.dat
+
+0 // Back
+4 16 60 0 56 44 -32 56 -44 -32 56 -60 0 56
+4 16 64 4 60 -64 4 60 -44 -32 60 44 -32 60
+4 16 44 -32 56 44 -32 60 -44 -32 60 -44 -32 56
+2 24 -44 -32 60 44 -32 60
+2 24 44 -32 56 -44 -32 56
+4 16 60 -115 -56 -60 -115 -56 -64 -115 -60 64 -115 -60
+1 16 0 -115 -4 -60 0 0 0 1 0 0 0 -52 recte3.dat
+1 16 0 -115 -6 -64 0 0 0 1 0 0 0 -54 recte3.dat

@@ -1,0 +1,20 @@
+0 ~Electric 9V Battery Box  4 x 14 x  4 Bottom with Contacts
+0 Name: 2847c00.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LDRAW_ORG Shortcut UPDATE 2024-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 2847.dat
+
+1 494 19 19 133 -1 0 0 0 1 0 0 0 -1 u9641.dat
+1 494 19 19 -1.5 1 0 0 0 -1 0 0 0 -1 u9642.dat
+1 494 -19 19 1.5 -1 0 0 0 -1 0 0 0 1 u9642.dat
+1 494 0 0 0 1 0 0 0 1 0 0 0 1 u9645.dat
+1 494 19 -22 1.5 1 0 0 0 1 0 0 0 1 u9642.dat
+1 494 19 -22 2 1 0 0 0 1 0 0 0 1 u9644.dat
+1 494 19 -22 -132.5 1 0 0 0 -1 0 0 0 -1 u9643.dat
+1 494 -19 19 -132.5 -1 0 0 0 1 0 0 0 -1 u9643.dat

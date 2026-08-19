@@ -1,0 +1,21 @@
+0 ~Train Track  9V Switch Right - Plastic Part, Common Rail Side Clamp Cutout
+0 Name: s\2859s04.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LDRAW_ORG Subpart UPDATE 2025-08
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2859s03.dat
+
+4 16 -7.5 -11.5 2.625 7.5 -11.5 2.625 7.5 -11.5 -2.625 -7.5 -11.5 -2.625
+
+4 16 -7.5 -11 -2.625 -7.5 -11 2.625 -7.5 -11.5 2.625 -7.5 -11.5 -2.625
+
+1 16 -7.5 -13.5 0 0 1 0 0 0 -2 -2.625 0 0 recte4.dat
+3 16 -7.5 -11.5 2.625 -7.5 -15.5 2.625 -7.5 -15 2.125
+4 16 -7.5 -15.5 2.625 -7.5 -15.5 -2.625 -7.5 -15 -2.125 -7.5 -15 2.125
+3 16 -7.5 -15.5 -2.625 -7.5 -11.5 -2.625 -7.5 -15 -2.125
+2 24 -7.5 -15 -2.125 -7.5 -15 2.125

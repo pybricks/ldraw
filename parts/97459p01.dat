@@ -1,0 +1,22 @@
+0 Minifig Head Muppet Statler with Light Bluish Grey Hair and Eyebrows Pattern
+0 Name: 97459p01.dat
+0 Author: Fredrik Hareide [fhareide]
+0 !LDRAW_ORG Part UPDATE 2024-11
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 97459pb01, Brickowl 378649, CMF, Collectible Minifigures
+0 !KEYWORDS Rebrickable 97459pr0001, set 71033, The Muppets
+
+0 !HISTORY 2024-12-30 [OrionP] Official Update 2024-11
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\97459s00.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\97459s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\97459s01.dat
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\97459p01s02.dat
+1 15 0 0 0 -1 0 0 0 1 0 0 0 1 s\97459p01s02.dat
+
+1 71 0 0 0 1 0 0 0 1 0 0 0 1 s\97459s03.dat

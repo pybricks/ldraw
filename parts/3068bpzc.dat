@@ -1,0 +1,28 @@
+0 Tile  2 x  2 with  2 Dark Bluish Grey Rectangles Pattern
+0 Name: 3068bpzc.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Part UPDATE 2025-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 3068pb2606, Rebrickable 3068bpr9324, Set 75429
+
+0 !HISTORY 2025-03-28 [Dr.Bricktacular] Based on part 3068bps8.dat from Vincent Messenet [Cheenzo]
+0 !HISTORY 2025-06-26 [OrionP] Official Update 2025-06
+
+0 // Pattern-Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+
+0 // Pattern
+4 72 -4.5 0 19.25 -13.5 0 19.25 -13.5 0 -19.25 -4.5 0 -19.25
+4 72 13.5 0 -19.25 13.5 0 19.25 4.5 0 19.25 4.5 0 -19.25
+4 16 -13.5 0 -19.25 -13.5 0 19.25 -20 0 20 -20 0 -20
+3 16 -20 0 20 -13.5 0 19.25 -4.5 0 19.25
+4 16 -20 0 20 -4.5 0 19.25 4.5 0 19.25 20 0 20
+3 16 20 0 20 4.5 0 19.25 13.5 0 19.25
+4 16 20 0 20 13.5 0 19.25 13.5 0 -19.25 20 0 -20
+3 16 13.5 0 -19.25 4.5 0 -19.25 20 0 -20
+4 16 20 0 -20 4.5 0 -19.25 -4.5 0 -19.25 -20 0 -20
+3 16 -4.5 0 -19.25 -13.5 0 -19.25 -20 0 -20
+4 16 4.5 0 -19.25 4.5 0 19.25 -4.5 0 19.25 -4.5 0 -19.25
